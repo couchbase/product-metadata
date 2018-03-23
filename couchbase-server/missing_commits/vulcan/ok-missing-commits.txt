@@ -1,5 +1,7 @@
 build c191ec0
 build 36fd32f
+cbgt 5a22d71 # Is a backport
+cbq-gui 7a80f6b
 couchstore 9cf71ba
 couchstore e8a5275
 go-couchbase 413e5b0
@@ -45,6 +47,9 @@ indexing 45b5268
 indexing 19588e7
 indexing cf3ed42
 indexing b4fc031
+indexing 904b3d4 # different fix made for Vulcan
+indexing 6c3044a
+indexing bd53448
 query d96aa5d
 query 0a3bfa1
 query ddb3b81
@@ -124,7 +129,12 @@ query-ui 0f706ed
 query-ui 6dec1c9
 query-ui 66d25d3
 query-ui 36644e0
+query-ui 81e5019
 tlm 5bd46fff50c9e8e77a21e3f1397449bbcf7f18a1
+tlm f7c0947 # Was later reverted
+tlm 43481a5
+tlm 2db846b
+tlm 45fc8be
 voltron fd70ce2
 voltron d3c3c8d
 voltron ad3e65a
