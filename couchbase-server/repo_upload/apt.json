@@ -1,0 +1,44 @@
+{
+  "os_versions": {
+    "wheezy": {
+      "distro": "debian",
+      "version": "7.0",
+      "full": "debian7"
+    },
+    "jessie": {
+      "distro": "debian",
+      "version": "8.0",
+      "full": "debian8"
+    },
+    "stretch": {
+      "distro": "debian",
+      "version": "9.1",
+      "full": "debian9"
+    },
+    "precise": {
+      "distro": "ubuntu",
+      "version": "12.04",
+      "full": "ubuntu12.04"
+    },
+    "trusty": {
+      "distro": "ubuntu",
+      "version": "14.04",
+      "full": "ubuntu14.04"
+    },
+    "xenial": {
+      "distro": "ubuntu",
+      "version": "16.04",
+      "full": "ubuntu16.04"
+    }
+  },
+  "distro_info": {
+    "debian": {
+      "security_url": "http://security.debian.org",
+      "security_path": "{}/updates"
+    },
+    "ubuntu": {
+      "security_url": "http://security.ubuntu.com/ubuntu",
+      "security_path": "{}-security"
+    }
+  }
+}
