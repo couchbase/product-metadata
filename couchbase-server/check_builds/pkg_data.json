@@ -1,312 +1,397 @@
 {
   "couchbase-server": {
     "max_build_time": 120,
-    "release": {
-      "watson": {
-        "edition": [
-          "community",
-          "enterprise"
-        ],
-        "platform": {
-          "centos6": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "centos7": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "debian7": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "debian8": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "macos": {
-            "arch": "x86_64",
-            "ext": "zip",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "oel6": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "suse11": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "ubuntu12.04": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "ubuntu14.04": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "windows": {
-            "arch": "amd64",
-            "ext": "exe",
-            "sep1": "_",
-            "sep2": "_"
-          }
-        },
-        "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
-      },
-      "spock": {
-        "edition": [
-          "community",
-          "enterprise"
-        ],
-        "platform": {
-          "centos6": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "centos7": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "debian8": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "debian9": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "macos": {
-            "arch": "x86_64",
-            "ext": "zip",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "oel6": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "oel7": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "suse11": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "suse12": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "ubuntu14.04": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "ubuntu16.04": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "windows": {
-            "arch": "amd64",
-            "ext": "msi",
-            "sep1": "_",
-            "sep2": "_"
-          }
-        },
-        "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
-      },
-      "vulcan": {
-        "edition": [
-          "community",
-          "enterprise"
-        ],
-        "platform": {
-          "centos6": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
+    "package": {
+      "couchbase-server": {
+        "release": {
+          "watson": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "centos6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "centos7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "debian7": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian8": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "macos": {
+                "arch": "x86_64",
+                "ext": "zip",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "oel6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse11": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "ubuntu12.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "ubuntu14.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "windows": {
+                "arch": "amd64",
+                "ext": "exe",
+                "sep1": "_",
+                "sep2": "_"
+              }
             },
-          "centos7": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
+            "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
           },
-          "debian8": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
+          "spock": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "centos6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "centos7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "debian8": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian9": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "macos": {
+                "arch": "x86_64",
+                "ext": "zip",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "oel6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "oel7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse11": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse12": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "ubuntu14.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "ubuntu16.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "windows": {
+                "arch": "amd64",
+                "ext": "msi",
+                "sep1": "_",
+                "sep2": "_"
+              }
+            },
+            "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
           },
-          "debian9": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
+          "vulcan": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "centos6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "centos7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "debian8": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian9": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "macos": {
+                "arch": "x86_64",
+                "ext": "zip",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "oel6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "oel7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse11": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse12": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "ubuntu14.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "ubuntu16.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "windows": {
+                "arch": "amd64",
+                "ext": "msi",
+                "sep1": "_",
+                "sep2": "_"
+              }
+            },
+            "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
           },
-          "macos": {
-            "arch": "x86_64",
-            "ext": "zip",
-            "sep1": "_",
-            "sep2": "_"
+          "alice": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "centos6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "centos7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "debian8": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian9": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "macos": {
+                "arch": "x86_64",
+                "ext": "zip",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "oel6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "oel7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse11": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse12": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "ubuntu14.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "ubuntu16.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "windows": {
+                "arch": "amd64",
+                "ext": "msi",
+                "sep1": "_",
+                "sep2": "_"
+              }
+            },
+            "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
           },
-          "oel6": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "oel7": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "suse11": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "suse12": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "ubuntu14.04": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "ubuntu16.04": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "windows": {
-            "arch": "amd64",
-            "ext": "msi",
-            "sep1": "_",
-            "sep2": "_"
+          "master": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "centos6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "centos7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "debian8": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian9": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "oel6": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "oel7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse11": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse12": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "ubuntu14.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "ubuntu16.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "windows": {
+                "arch": "amd64",
+                "ext": "msi",
+                "sep1": "_",
+                "sep2": "_"
+              }
+            },
+            "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
           }
-        },
-        "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
-      },
-      "master": {
-        "edition": [
-          "community",
-          "enterprise"
-        ],
-        "platform": {
-          "centos6": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "centos7": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "debian8": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "debian9": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "oel6": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "oel7": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "suse11": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "suse12": {
-            "arch": "x86_64",
-            "ext": "rpm",
-            "sep1": "-",
-            "sep2": "."
-          },
-          "ubuntu14.04": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "ubuntu16.04": {
-            "arch": "amd64",
-            "ext": "deb",
-            "sep1": "_",
-            "sep2": "_"
-          },
-          "windows": {
-            "arch": "amd64",
-            "ext": "msi",
-            "sep1": "_",
-            "sep2": "_"
-          }
-        },
-        "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
+        }
       }
     }
   }
