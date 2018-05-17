@@ -1,5 +1,5 @@
 {
-  "couchbase-sync-gateway": {
+  "sync_gateway": {
     "max_build_time": 120,
     "package": {
       "couchbase-sync-gateway": {
@@ -19,7 +19,7 @@
                 "ext": "rpm"
               },
               "windows": {
-                "arch": "x64_64",
+                "arch": "x86_64",
                 "ext": "msi"
               }
             },
@@ -31,8 +31,7 @@
         "release": {
           "2.1.0": {
             "edition": [
-              "community",
-              "enterprise"
+              "community"
             ],
             "platform": {
               "debian": {
@@ -44,7 +43,7 @@
                 "ext": "rpm"
               },
               "windows": {
-                "arch": "x64_64",
+                "arch": "x86_64",
                 "ext": "msi"
               }
             },
