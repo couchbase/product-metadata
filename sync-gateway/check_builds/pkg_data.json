@@ -24,12 +24,53 @@
               }
             },
             "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
+          "2.5.0": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
           }
         }
       },
       "couchbase-sg-accel": {
         "release": {
           "2.1.0.0": {
+            "edition": [
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
+          "2.5.0": {
             "edition": [
               "enterprise"
             ],
