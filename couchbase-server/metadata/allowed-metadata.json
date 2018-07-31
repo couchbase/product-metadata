@@ -1,0 +1,17 @@
+{
+  "note": "Please update the Wiki page https://hub.internal.couchbase.com/confluence/display/CR/Supported+Metadata+Entries+for+Build+Database for any changes",
+  "whitelist": [
+    {
+      "key": "kickoff_qe",
+      "set_by": "Jenkins job http://server.jenkins.couchbase.com/job/kickoff-qe/"
+    },
+    {
+      "key": "sanity",
+      "set_by": "Jenkins job http://server.jenkins.couchbase.com/view/build-sanity/job/build_sanity_matrix/"
+    },
+    {
+      "key": "unit_test",
+      "set_by": "Jenkins job http://cv.jenkins.couchbase.com/job/unit-simple-test/"
+    }
+  ]
+}

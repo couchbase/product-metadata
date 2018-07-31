@@ -1,0 +1,17 @@
+{
+  "note": "Please update the Wiki page https://hub.internal.couchbase.com/confluence/display/CR/Supported+Metadata+Entries+for+Build+Database for any changes",
+  "whitelist": [
+    {
+      "key": "builds_complete",
+      "set_by": "check_builds program, run under Jenkins job http://server.jenkins.couchbase.com/job/check_builds/"
+    },
+    {
+      "key": "email_notification",
+      "set_by": "check_builds program, run under Jenkins job http://server.jenkins.couchbase.com/job/check_builds/"
+    },
+    {
+      "key": "jira_comments",
+      "set_by": "jira_commenter program, run under Jenkins job http://server.jenkins.couchbase.com/job/load_build_database/"
+    }
+  ]
+}
