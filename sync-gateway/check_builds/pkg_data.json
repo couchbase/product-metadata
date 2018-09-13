@@ -4,7 +4,7 @@
     "package": {
       "couchbase-sync-gateway": {
         "release": {
-          "1.5.0": {
+          "1.5.0.0": {
             "edition": [
               "community",
               "enterprise"
@@ -25,7 +25,7 @@
             },
             "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
           },
-          "1.5.1": {
+          "1.5.1.0": {
             "edition": [
               "community",
               "enterprise"
@@ -92,7 +92,7 @@
       },
       "couchbase-sg-accel": {
         "release": {
-          "1.5.0": {
+          "1.5.0.0": {
             "edition": [
               "community",
               "enterprise"
@@ -113,7 +113,7 @@
             },
             "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
           },
-          "1.5.1": {
+          "1.5.1.0": {
             "edition": [
               "community",
               "enterprise"
