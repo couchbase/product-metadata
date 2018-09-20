@@ -46,6 +46,27 @@
             },
             "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
           },
+          "1.5.2": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
           "2.1.0": {
             "edition": [
               "community",
@@ -135,6 +156,27 @@
           },
           "1.5.1.0": {
             "edition": [
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
+          "1.5.2": {
+            "edition": [
+              "community",
               "enterprise"
             ],
             "platform": {
