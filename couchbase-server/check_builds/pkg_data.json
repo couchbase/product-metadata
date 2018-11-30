@@ -241,6 +241,13 @@
               "enterprise"
             ],
             "platform": {
+              "amzn2": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+            "platform": {
               "centos6": {
                 "arch": "x86_64",
                 "ext": "rpm",
