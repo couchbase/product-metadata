@@ -172,7 +172,49 @@
             },
             "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
           },
+          "2.1.4": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
           "2.5.0": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
+          "2.6.0": {
             "edition": [
               "community",
               "enterprise"
@@ -358,7 +400,47 @@
             },
             "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
           },
+          "2.1.4": {
+            "edition": [
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
           "2.5.0": {
+            "edition": [
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
+          "2.6.0": {
             "edition": [
               "enterprise"
             ],
