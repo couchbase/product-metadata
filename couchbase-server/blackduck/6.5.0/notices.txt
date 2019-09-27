@@ -90,7 +90,7 @@ com.conversantmedia:disruptor 1.2.14 : Apache License 2.0
 com.tagtraum:libz 4.0.0 : zlib License
 Commons IO 2.6 : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.4 : Apache License 2.0
-cURL curl-7_64_0 : MIT License
+cURL 7.64.0 : MIT License
 D3.js 3.3.6 : BSD 3-clause "New" or "Revised" License
 D3.js 3.5.17 : BSD 3-clause "New" or "Revised" License
 DataDog/zstd v1.3.4 : BSD 3-clause "New" or "Revised" License
@@ -131,6 +131,7 @@ glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55 : MIT License
 Go programming language 0 : BSD 3-clause "New" or "Revised" License
 Go programming language 0.0+git20170629.c81e7f2 : BSD 3-clause "New" or "Revised" License
 Go programming language 0.0~git20180322.88942b9 : BSD 3-clause "New" or "Revised" License
+Go programming language 0.0~git20190125.d66bd3c+ds : BSD 3-clause "New" or "Revised" License
 Go programming language 20171128-snapshot-57961680 : BSD 3-clause "New" or "Revised" License
 Go programming language 20180709-snapshot : (MIT License AND BSD 2-clause "Simplified" License AND GNU Affero General Public License v3.0 AND Apache License 2.0 AND BSD 3-clause "New" or "Revised" License AND GNU Lesser General Public License v3.0 or later AND Mozilla Public License 2.0 AND GNU General Public License v3.0 or later)
 go-jsonpointer 20160814-snapshot-ba0abeac : MIT License
@@ -142,11 +143,11 @@ golang protobuf 20190115-snapshot : BSD 3-clause "New" or "Revised" License
 golang-github-edsrzf-mmap-go 0.0~git20160512.0.935e0e8 : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 : BSD 2-clause "Simplified" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170227-snapshot-30f82fa2 : BSD 2-clause "Simplified" License
+golang-github-json-iterator-go-dev 1.0.6 : MIT License
 golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 : MIT License
 golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
 golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
 golang-github-spf13-pflag-dev 20170607-snapshot : BSD 3-clause "New" or "Revised" License
-golang-golang-x-tools 0.0~git20190125.d66bd3c+ds : BSD 3-clause "New" or "Revised" License
 golang-golangorg-crypto-devel 0 : BSD 3-clause "New" or "Revised" License
 golang-google-genproto-dev 0.0~git20171123.7f0da29 : Apache License 2.0
 golang-snappy-go-dev 20150731-snapshot-a911026e : BSD 3-clause "New" or "Revised" License
@@ -1225,7 +1226,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(docker-cli 20180417-snapshot, dominikh/go-tools 2017.2.2, Esprima 2.7.2, github.com/syndtr/gosnappy 20150730-snapshot-156a0732, go-zookeeper 20150410-snapshot-fa6674ab, golang protobuf 20181130-snapshot, golang protobuf 20190115-snapshot, golang-github-spf13-pflag-dev 20170607-snapshot, golang-golang-x-tools 0.0~git20190125.d66bd3c+ds, golang-snappy-go-dev 20150731-snapshot-a911026e, golang-snappy-go-dev 20160302-snapshot, golang-snappy-go-dev 20171230-snapshot, golang.org/x/crypto 20171002-snapshot-eb71ad9b, golang.org/x/net 20180223-snapshot, golang.org/x/sys 20190108-snapshot-7fbe1cd0, golang.org/x/text 20171230-snapshot, golang.org/x/tools 20181107-snapshot, golang.org/x/tools 20181129-snapshot, golang.org/x/tools 20181129-snapshot-e21233ff, google/uuid 20180409-snapshot, HdrHistogram_c 0.9.11, jemalloc 5.1.0, lz4 1.8.0, PCRE 8.41, share-showdown 2.0.0, tick-processor 0.1.0)
+(docker-cli 20180417-snapshot, dominikh/go-tools 2017.2.2, Esprima 2.7.2, github.com/syndtr/gosnappy 20150730-snapshot-156a0732, Go programming language 0.0~git20190125.d66bd3c+ds, go-zookeeper 20150410-snapshot-fa6674ab, golang protobuf 20181130-snapshot, golang protobuf 20190115-snapshot, golang-github-spf13-pflag-dev 20170607-snapshot, golang-snappy-go-dev 20150731-snapshot-a911026e, golang-snappy-go-dev 20160302-snapshot, golang-snappy-go-dev 20171230-snapshot, golang.org/x/crypto 20171002-snapshot-eb71ad9b, golang.org/x/net 20180223-snapshot, golang.org/x/sys 20190108-snapshot-7fbe1cd0, golang.org/x/text 20171230-snapshot, golang.org/x/tools 20181107-snapshot, golang.org/x/tools 20181129-snapshot, golang.org/x/tools 20181129-snapshot-e21233ff, google/uuid 20180409-snapshot, HdrHistogram_c 0.9.11, jemalloc 5.1.0, lz4 1.8.0, PCRE 8.41, share-showdown 2.0.0, tick-processor 0.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -4479,6 +4480,42 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
+(golang-github-json-iterator-go-dev 1.0.6)
+
+Source: https://github.com/json-iterator/go
+
+Files: *
+Copyright: 2016 json-iterator <taowen@didichuxing.com>
+License: Expat
+
+Files: debian/*
+Copyright: 2018 Martín Ferrari <tincho@debian.org>
+License: Expat
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (Angular UI Bootstrap 0.13.2, Angular UI Bootstrap 0.14.1)
 
 The MIT License
@@ -4674,7 +4711,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@angular/animations 6.1.0, @angular/common 6.1.0, @angular/compiler 6.1.0, @angular/core 6.1.0, @angular/forms 6.1.0, @angular/http 6.1.0, @angular/platform-browser 6.1.0, @angular/platform-browser-dynamic 6.1.0, @angular/router 6.1.0, @ng-bootstrap/ng-bootstrap 1.0.0-beta.5, Angular 1.7.8, angular-legacy-sortablejs 0.5.1, angular-route 1.7.8, Bootstrap (Twitter) 0.13, Bootstrap (Twitter) 0.14.3 - 2015-10-23, Bootstrap (Twitter) 3.3.6-jQuery3, Bootstrap (Twitter) 3.5, Bootstrap (Twitter) unknown, Bouncy Castle 1.60, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.60, cURL curl-7_64_0, docker-cli 20180417-snapshot, dominikh/go-tools 2017.2.2, edward 3.1.0, erlang-erlydtl 0.7.0, FileSaver.js v2.0.2, github.com/alecthomas/participle v0.2.1, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, Go programming language 20180709-snapshot, go.etcd.io/bbolt v1.3.1-etcd.8, JSON for Modern C++ v3.5.0, leemcloughlin/gofarmhash 20180505-snapshot, node-clipboard 1.5.16, peterh/liner v1.1.0, seiflotfy/cuckoofilter 20180825-snapshot, SLF4J API Module 1.7.25, spdlog-devel 1.1.0, tick-processor 0.1.0, tinylib-msgp 20181103-snapshot)
+(@angular/animations 6.1.0, @angular/common 6.1.0, @angular/compiler 6.1.0, @angular/core 6.1.0, @angular/forms 6.1.0, @angular/http 6.1.0, @angular/platform-browser 6.1.0, @angular/platform-browser-dynamic 6.1.0, @angular/router 6.1.0, @ng-bootstrap/ng-bootstrap 1.0.0-beta.5, Angular 1.7.8, angular-legacy-sortablejs 0.5.1, angular-route 1.7.8, Bootstrap (Twitter) 0.13, Bootstrap (Twitter) 0.14.3 - 2015-10-23, Bootstrap (Twitter) 3.3.6-jQuery3, Bootstrap (Twitter) 3.5, Bootstrap (Twitter) unknown, Bouncy Castle 1.60, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.60, cURL 7.64.0, docker-cli 20180417-snapshot, dominikh/go-tools 2017.2.2, edward 3.1.0, erlang-erlydtl 0.7.0, FileSaver.js v2.0.2, github.com/alecthomas/participle v0.2.1, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, Go programming language 20180709-snapshot, go.etcd.io/bbolt v1.3.1-etcd.8, JSON for Modern C++ v3.5.0, leemcloughlin/gofarmhash 20180505-snapshot, node-clipboard 1.5.16, peterh/liner v1.1.0, seiflotfy/cuckoofilter 20180825-snapshot, SLF4J API Module 1.7.25, spdlog-devel 1.1.0, tick-processor 0.1.0, tinylib-msgp 20181103-snapshot)
 
 The MIT License
 ===============
