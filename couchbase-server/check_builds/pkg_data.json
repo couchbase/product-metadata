@@ -346,6 +346,12 @@
                 "sep1": "-",
                 "sep2": "."
               },
+              "centos8": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
               "debian8": {
                 "arch": "amd64",
                 "ext": "deb",
@@ -353,6 +359,105 @@
                 "sep2": "_"
               },
               "debian9": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian10": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "macos": {
+                "arch": "x86_64",
+                "ext": "dmg",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "oel7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "rhel8": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse12": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse15": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "ubuntu16.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "ubuntu18.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "windows": {
+                "arch": "amd64",
+                "ext": "msi",
+                "sep1": "_",
+                "sep2": "_"
+              }
+            },
+            "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
+          },
+          "cheshire-cat": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "amzn2": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "centos7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "centos8": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "debian8": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian9": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian10": {
                 "arch": "amd64",
                 "ext": "deb",
                 "sep1": "_",
@@ -435,6 +540,12 @@
                 "sep1": "-",
                 "sep2": "."
               },
+              "centos8": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
               "debian8": {
                 "arch": "amd64",
                 "ext": "deb",
@@ -442,6 +553,12 @@
                 "sep2": "_"
               },
               "debian9": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian10": {
                 "arch": "amd64",
                 "ext": "deb",
                 "sep1": "_",
