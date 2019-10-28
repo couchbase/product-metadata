@@ -12,8 +12,8 @@ ansi-regex 2.1.1 : MIT License
 aproba 1.2.0 : ISC License
 are-we-there-yet 1.1.5 : ISC License
 Async v2.6.2 : MIT License
-asynckit 0.4.0 : Expat License
-aws4 1.8.0 : Expat License
+asynckit 0.4.0 : Expat License, MIT License
+aws4 1.8.0 : Expat License, MIT License
 bcrypt-pbkdf 1.0.2 : BSD 3-clause "New" or "Revised" License
 bl 1.2.2 : MIT License
 buffer-alloc 1.2.0 : MIT License
@@ -77,6 +77,7 @@ jsprim 1.4.1 : MIT License
 kk-color-name 1.1.3 : MIT License
 kuler 1.0.1 : MIT License
 Lo-Dash 4.17.11 : MIT License
+Lo-Dash 4.17.15 : MIT License
 lodash-es 4.17.15 : MIT License
 logform 2.1.2 : MIT License
 mafintosh/pump 1.0.3 : MIT License
@@ -93,8 +94,8 @@ napi-build-utils 1.0.1 : MIT License
 node-abi v2.8.0 : MIT License
 node-assert-plus 1.0.0 : MIT License
 node-bindings 1.5.0 : MIT License
-node-dashdash 1.14.1 : Expat License
-node-http-signature 1.2.0 : Expat License
+node-dashdash 1.14.1 : Expat License, MIT License
+node-http-signature 1.2.0 : Expat License, MIT License
 node-ini 1.3.5 : ISC License
 node-mkdirp 0.5.1 : MIT License
 node-semver 5.7.0 : ISC License
@@ -119,7 +120,7 @@ Qix-/color-convert 1.9.1 : MIT License
 qs -  QS Querystring 6.5.2 : BSD 3-clause "New" or "Revised" License
 readable-stream 2.3.3 : MIT License
 readable-stream 2.3.6 : MIT License
-readable-stream v3.4.0 : MIT License
+readable-stream v3.4.0 : (X.Net License AND MIT License), MIT License
 Request -  Simple HTTP Client v2.88.0 : Apache License 2.0
 safe-buffer 5.1.1 : MIT License
 safe-buffer 5.1.2 : MIT License
@@ -634,7 +635,7 @@ Do What You Want License
 ========================
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                                    Version 2, December 2004
+Version 2, December 2004
 
 Copyright (C) 2004 Sam Hocevar
 22 rue de Plaisance, 75014 Paris, France
@@ -808,7 +809,7 @@ PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(chownr 1.1.1, isaacs/once 1.4.0, json-stringify-safe 5.0.1, node-ini 1.3.5, npmlog 4.1.2)
+(chownr 1.1.1, isaacs/once 1.4.0, json-stringify-safe 5.0.1, node-ini 1.3.5, npmlog 4.1.2, wrappy 1.0.2)
 
 The ISC License
 
@@ -825,36 +826,6 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
-
----
-
-ISC License
-(wrappy 1.0.2)
-
-Upstream-Contact: https://github.com/npm/wrappy/issues
-Source: https://github.com/npm/wrappy
-
-Files: *
-Copyright: 2015 Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)
-License: ISC
-
-Files: debian/*
-Copyright: 2015 Thorsten Alteholz <debian@alteholz.de>
-License: ISC
-
-License: ISC
-
-Permission to use, copy, modify, and/or distribute this software for any
- purpose with or without fee is hereby granted, provided that the above
- copyright notice and this permission notice appear in all copies.
- .
- THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
- WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
- MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
- ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
- WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
- ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
- OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 
 ---
 
@@ -1400,6 +1371,31 @@ THE SOFTWARE
 ---
 
 MIT License
+(aws4 1.8.0)
+
+Copyright 2013 Michael Hart (michael.hart.au@gmail.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
 (env-variable 0.0.5, kuler 1.0.1)
 
 Copyright 2014 Arnout Kazemier
@@ -1413,7 +1409,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(getpass 0.1.7, sshpk 1.15.2)
+(getpass 0.1.7, node-http-signature 1.2.0, sshpk 1.15.2)
 
 Copyright Joyent, Inc. All rights reserved.
 
@@ -1485,6 +1481,37 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE
+
+---
+
+MIT License
+(node-dashdash 1.14.1)
+
+Files: debian/*
+Copyright: 2017 Pirate Praveen <praveen@debian.org>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
 
 ---
 
@@ -1694,7 +1721,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Async v2.6.2, buffer-alloc 1.2.0, buffer-alloc-unsafe 1.1.0, buffer-fill 1.0.0, colors.js 1.3.3, colorspace 1.1.2, dev-null 0.1.1, expand-template 2.0.3, flatiron/winston 3.2.1, jsbn 0.1.1, lodash-es 4.17.15, logform 2.1.2, ms.js 2.1.2, nan v2.14.0, node-abi v2.8.0, node-bindings 1.5.0, noop-logger 0.1.1, prebuild-install 5.3.0, readable-stream v3.4.0, tar-fs 1.16.3, winston-transport 4.3.0)
+(Async v2.6.2, buffer-alloc 1.2.0, buffer-alloc-unsafe 1.1.0, buffer-fill 1.0.0, colors.js 1.3.3, colorspace 1.1.2, dev-null 0.1.1, expand-template 2.0.3, flatiron/winston 3.2.1, jsbn 0.1.1, Lo-Dash 4.17.15, lodash-es 4.17.15, logform 2.1.2, ms.js 2.1.2, nan v2.14.0, node-abi v2.8.0, node-bindings 1.5.0, noop-logger 0.1.1, prebuild-install 5.3.0, readable-stream v3.4.0, tar-fs 1.16.3, winston-transport 4.3.0)
 
 The MIT License
 ===============
@@ -2113,6 +2140,33 @@ SOFTWARE
 ---
 
 MIT License
+(asynckit 0.4.0)
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Alex Indigo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
 (fast-safe-stringify 2.0.6)
 
 The MIT License (MIT)
@@ -2483,4 +2537,34 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to http://unlicense.org/
+
+---
+
+X.Net License
+(readable-stream v3.4.0)
+
+The X.Net, Inc. License
+=======================
+
+Copyright (c) 2000-2001 X.Net, Inc. Lafayette, California, USA
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This agreement shall be governed in all respects by the laws of the State of
+California and by the laws of the United States of America
 
