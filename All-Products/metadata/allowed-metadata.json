@@ -12,6 +12,10 @@
     {
       "key": "jira_comments",
       "set_by": "jira_commenter program, run under Jenkins job http://server.jenkins.couchbase.com/job/load_build_database/"
+    },
+    {
+      "key": "blackduck_scan",
+      "set_by": "blackduck-detect-scan.sh program, run under Jenkins job http://server.jenkins.couchbase.com/job/blackduck-detect-scan/"
     }
   ]
 }
