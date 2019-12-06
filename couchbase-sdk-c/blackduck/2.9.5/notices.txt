@@ -7,6 +7,7 @@ Distribution: EXTERNAL
 
 Components: 
 
+couchbase-python-client 2.9.5 : Apache License 2.0
 Google C++ Testing Framework 1.7.0 : BSD 3-clause "New" or "Revised" License
 libcouchbase 2.9.5 : Apache License 2.0
 libcouchbase-debuginfo 2.9.0 : Apache License 2.0
@@ -16,13 +17,14 @@ libtext-template-perl 1.46 : (Artistic License 1.0 OR GNU General Public License
 libuv 1.24.1 : Expat License
 mediasoup 2.6.16 : ISC License
 OpenSSL 1.1.1 : (SSLeay License AND OpenSSL License)
+OpenSSL 1.1.1d : Apache License 2.0
 pystan 2.14.0.0 : GNU General Public License v3.0 only
 Text::Template 1.46 : (Artistic License 1.0 OR GNU General Public License v2.0 or later)
 
 Licenses: 
 
 Apache License 2.0
-(libcouchbase 2.9.5, libcouchbase-debuginfo 2.9.0)
+(couchbase-python-client 2.9.5, libcouchbase 2.9.5, libcouchbase-debuginfo 2.9.0, OpenSSL 1.1.1d)
 
 Apache License
 Version 2.0, January 2004
