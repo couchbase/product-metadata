@@ -29,6 +29,7 @@ eventing 57dcb73 confirmed by Jeelan
 eventing 89543fc eventing doesn't use plasma anymore
 eventing aedf405 cherry-picks
 eventing f6a7443 cherry-picks
+gocb 66897be
 go-couchbase 1159edb backports
 go-couchbase 17b9cd5 backports
 go-couchbase 3ca3995 backports
@@ -42,7 +43,6 @@ go-couchbase aa104d2 backports
 go-couchbase baa7196 
 go-couchbase e355ac8
 go-couchbase ea8f7d5 backports
-gocb 66897be
 gomemcached 3caad6d 
 gomemcached 4604300
 gomemcached 64243c7
@@ -297,6 +297,7 @@ tlm bad427f dep build change only
 tlm f7c0947 # Was later reverted
 voltron 36ad806 spock-only fix
 voltron 4a5bd45
+voltron 62f7f8c backport
 voltron 8ad444b
 voltron 9008a28
 voltron ad3e65a
