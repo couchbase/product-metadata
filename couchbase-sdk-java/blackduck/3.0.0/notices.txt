@@ -45,12 +45,15 @@ ParaNamer Core 2.8 : BSD 3-clause "New" or "Revised" License
 parser 0.10.0 : Apache License 2.0
 parser 0.13.0 : MIT License
 parser 0.14.0 : MIT License
+play-functional 2.8.1 : Apache License 2.0
+play-json 2.8.1 : Apache License 2.0
 reactive-streams v1.0.3 : Creative Commons Zero v1.0 Universal
 Scala v2.12.10 : Apache License 2.0
 Scala wrapper for reactor-core 0.4.6 : Apache License 2.0
 scala-compiler 2.12.10 : Apache License 2.0
 scala-java8-compat 0.9.0 : BSD 3-clause "New" or "Revised" License
 scala-xml 1.0.6 : BSD 3-clause "New" or "Revised" License
+SLF4J API Module 1.7.30 : MIT License
 test-interface 1.0 : BSD 3-clause "New" or "Revised" License
 ujson_2.12 0.7.1 : MIT License
 upack_2.12 0.7.1 : MIT License
@@ -63,7 +66,7 @@ util 0.14.0 : MIT License
 Licenses: 
 
 Apache License 2.0
-(core 0.10.0, core 2.3.3, FindBugs jsr305 3.0.2, generic 0.10.0, io.grpc:grpc-context 1.24.0, iServe Integrated Engine 3.3.1.RELEASE, Jackson module: Paranamer 2.10.1, jackson-annotations jackson-annotations-2.10.1, jackson-core 2.10.1, jackson-databind 2.10.1, Jackson-datatype-jdk8 2.10.1, Jackson-Datatype-JSR310 2.10.1, jackson-module-scala 2.10.1, jawn 0.10.0, Joda Time 2.10.5, json4s-ast 3.6.4, json4s-core 3.6.4, json4s-jackson 3.6.4, json4s-native 3.6.4, json4s-scalap 3.6.4, macro-compat 1.1.1, numbers 0.10.0, OpenTelemetry 0.2.0, OpenTracing API 0.33.0, parser 0.10.0, Scala v2.12.10, Scala wrapper for reactor-core 0.4.6, scala-compiler 2.12.10)
+(core 0.10.0, core 2.3.3, FindBugs jsr305 3.0.2, generic 0.10.0, io.grpc:grpc-context 1.24.0, iServe Integrated Engine 3.3.1.RELEASE, Jackson module: Paranamer 2.10.1, jackson-annotations jackson-annotations-2.10.1, jackson-core 2.10.1, jackson-databind 2.10.1, Jackson-datatype-jdk8 2.10.1, Jackson-Datatype-JSR310 2.10.1, jackson-module-scala 2.10.1, jawn 0.10.0, Joda Time 2.10.5, json4s-ast 3.6.4, json4s-core 3.6.4, json4s-jackson 3.6.4, json4s-native 3.6.4, json4s-scalap 3.6.4, macro-compat 1.1.1, numbers 0.10.0, OpenTelemetry 0.2.0, OpenTracing API 0.33.0, parser 0.10.0, play-functional 2.8.1, play-json 2.8.1, Scala v2.12.10, Scala wrapper for reactor-core 0.4.6, scala-compiler 2.12.10)
 
 Apache License
 Version 2.0, January 2004
@@ -468,7 +471,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 MIT License
-(acyclic 0.1.5, ast 0.14.0, Cats core 1.4.0, Cats kernel 1.4.0, Cats macros 1.4.0, json iterator 0.9.19, jsoniter-scala-core 1.0.0, jsoniter-scala-macros 1.0.0, machinist 0.6.5, parser 0.13.0, parser 0.14.0, ujson_2.12 0.7.1, upack_2.12 0.7.1, upickle 0.7.1, upickle-core_2.12 0.7.1, upickle-implicits_2.12 0.7.1, utest 0.6.4, util 0.14.0)
+(acyclic 0.1.5, ast 0.14.0, Cats core 1.4.0, Cats kernel 1.4.0, Cats macros 1.4.0, json iterator 0.9.19, jsoniter-scala-core 1.0.0, jsoniter-scala-macros 1.0.0, machinist 0.6.5, parser 0.13.0, parser 0.14.0, SLF4J API Module 1.7.30, ujson_2.12 0.7.1, upack_2.12 0.7.1, upickle 0.7.1, upickle-core_2.12 0.7.1, upickle-implicits_2.12 0.7.1, utest 0.6.4, util 0.14.0)
 
 The MIT License
 ===============
