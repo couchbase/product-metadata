@@ -96,8 +96,9 @@ github.com/alecthomas/participle v0.2.1 : MIT License
 github.com/syndtr/gosnappy 20150730-snapshot-156a0732 : BSD 3-clause "New" or "Revised" License
 glenn-brown/golang-pkg-pcre 20120522-snapshot-48bb82a8 : BSD 2-clause "Simplified" License
 glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55 : MIT License
+Go programming language 0 : BSD 3-clause "New" or "Revised" License
 Go programming language 0.0+git20170629.c81e7f2 : BSD 3-clause "New" or "Revised" License
-Go programming language 0.0~git20180322.88942b9 : BSD 3-clause "New" or "Revised" License
+Go programming language 0.0~git20190125.d66bd3c+ds : BSD 3-clause "New" or "Revised" License
 Go programming language 20171128-snapshot-57961680 : BSD 3-clause "New" or "Revised" License
 Go programming language 20180709-snapshot : MIT License
 go-curl 20180313-snapshot-9d81ad32 : Apache License 2.0
@@ -137,6 +138,7 @@ golang.org/x/tools 20181129-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
 goleveldb 0+git20160825.6ae1797 : BSD 2-clause "Simplified" License
 Google Mock 1.8.0 : BSD 3-clause "New" or "Revised" License
+Google V8 JavaScript Engine 5.3.332 : BSD 3-clause "New" or "Revised" License
 Google V8 JavaScript Engine 7.1.321 : BSD 3-clause "New" or "Revised" License
 google-glog 0.3.5 : BSD 3-clause "New" or "Revised" License
 google-gson 20180607-snapshot-9d44cbc1 : Apache License 2.0
@@ -159,6 +161,7 @@ jemalloc 5.1.0 : BSD 3-clause "New" or "Revised" License
 jooby-cli 2.3.0 : Apache License 2.0
 jQuery 1.10.2 : MIT License
 jQuery 2.1.1 : MIT License
+jQuery 2.1.3 : MIT License
 jQuery 2.1.4 : MIT License
 jQuery 3.3.1 : MIT License
 jQuery Unknown : MIT License
@@ -1028,7 +1031,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(dominikh/go-tools 2017.2.2, Go programming language 20171128-snapshot-57961680, golang-golangorg-crypto-devel 0, golang-x-text-dev 0.3.0, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180925-snapshot, golang.org/x/net 20170911-snapshot-66aacef3, golang.org/x/sys 20190108-snapshot-7fbe1cd0, golang.org/x/tools 20181107-snapshot, golang.org/x/tools 20181129-snapshot, golang.org/x/tools 20181129-snapshot-e21233ff)
+(dominikh/go-tools 2017.2.2, Go programming language 0, Go programming language 20171128-snapshot-57961680, golang-golangorg-crypto-devel 0, golang-x-text-dev 0.3.0, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180925-snapshot, golang.org/x/net 20170911-snapshot-66aacef3, golang.org/x/sys 20190108-snapshot-7fbe1cd0, golang.org/x/tools 20181107-snapshot, golang.org/x/tools 20181129-snapshot, golang.org/x/tools 20181129-snapshot-e21233ff)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -1645,6 +1648,40 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
+(Google V8 JavaScript Engine 5.3.332)
+
+Copyright 2008, Google Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+    * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+    * Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
 (tick-processor 0.1.0)
 
 Copyright 2009, 2011, 2012, 2013, 2017 the V8 project authors. All rights reserved.
@@ -1778,36 +1815,28 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(Go programming language 0.0~git20180322.88942b9)
-
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: golang.org/x/crypto
-Source: https://golang.org/x/crypto
-
-Files: *
-Copyright: 2009-2018 The Go Authors
-License: BSD-3-Clause
+(Go programming language 0.0~git20190125.d66bd3c+ds)
 
 Files: debian/*
-Copyright: 2013 Tonnerre Lombard <tonnerre@ancient-solutions.com>
-           2018 Dr. Tobias Quathamer <toddy@debian.org>
-License: BSD-3-Clause
+Copyright: 2013 Michael Stapelberg <stapelberg@debian.org>
+           2015 Tianon Gravi <tianon@debian.org>
+License: BSD-3-clause
 
-License: BSD-3-Clause
+License: BSD-3-clause
 
 Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions
- are met:
+ modification, are permitted provided that the following conditions are
+ met:
  .
- * Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
- * Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the
-   distribution.
- * The name of the author may not be used to endorse or promote
-   products derived from this software without specific prior written
-   permission.
+    * Redistributions of source code must retain the above copyright
+ notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+ copyright notice, this list of conditions and the following disclaimer
+ in the documentation and/or other materials provided with the
+ distribution.
+    * Neither the name of Google Inc. nor the names of its
+ contributors may be used to endorse or promote products derived from
+ this software without specific prior written permission.
  .
  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -3234,7 +3263,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(jQuery 2.1.1, jQuery 2.1.4)
+(jQuery 2.1.1, jQuery 2.1.3, jQuery 2.1.4)
 
 Copyright 2014 jQuery Foundation and other contributors
 http://jquery.com/
