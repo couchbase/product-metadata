@@ -10,15 +10,16 @@ Components:
 couchbase-lite-ios 2.6.0 : Apache License 2.0
 couchbase-lite-ios 2.7.0 : Apache License 2.0
 leetal/ios-cmake 3.1.0 : BSD 3-clause "New" or "Revised" License
-mbed TLS (formerly PolarSSL) mbedtls-2.19.1 : Unknown License
+mbed TLS (formerly PolarSSL) mbedtls-2.19.1 : Apache License 2.0
 mikoto2000/MiscellaneousStudy 20180822-snapshot-ca111611 : MIT License
+minizip-devel 1.2.7 : zlib License
 sqlitecpp 2.4.0 : MIT License
 zlib 1.2.7 : zlib License
 
 Licenses: 
 
 Apache License 2.0
-(couchbase-lite-ios 2.6.0, couchbase-lite-ios 2.7.0)
+(couchbase-lite-ios 2.6.0, couchbase-lite-ios 2.7.0, mbed TLS (formerly PolarSSL) mbedtls-2.19.1)
 
 Apache License
 Version 2.0, January 2004
@@ -293,15 +294,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
-Unknown License
-(mbed TLS (formerly PolarSSL) mbedtls-2.19.1)
-
-The license has not been identified.
-
----
-
 zlib License
-(zlib 1.2.7)
+(minizip-devel 1.2.7, zlib 1.2.7)
 
 The zlib/libpng License
 =======================
