@@ -8,12 +8,12 @@ Distribution: EXTERNAL
 Components: 
 
 attrs 19.3.0 : MIT License
-boltons 20.0.0 : BSD 3-clause "New" or "Revised" License
+boltons 20.1.0 : BSD 3-clause "New" or "Revised" License
 cattrs 1.0.0 : MIT License
 mypy-extensions 0.4.3 : MIT License
 pyrsistent 0.16.0 : MIT License
 Python six 1.14.0 : MIT License
-tobgu/pyrsistent 0.16.0 : MIT License
+python-typing-extensions 3.7.4.2 : Python License 2.0
 typing 3.7.4.1 : Python License 2.0
 wrapt 1.12.1 : BSD 2-clause "Simplified" License
 
@@ -49,7 +49,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(boltons 20.0.0)
+(boltons 20.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -83,7 +83,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 MIT License
-(attrs 19.3.0, cattrs 1.0.0, mypy-extensions 0.4.3, pyrsistent 0.16.0, Python six 1.14.0, tobgu/pyrsistent 0.16.0)
+(attrs 19.3.0, cattrs 1.0.0, mypy-extensions 0.4.3, pyrsistent 0.16.0, Python six 1.14.0)
 
 The MIT License
 ===============
@@ -110,7 +110,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 Python License 2.0
-(typing 3.7.4.1)
+(python-typing-extensions 3.7.4.2, typing 3.7.4.1)
 
 This license was approved as the official PSF License Version 2 on October 22,
 2004. The only differences between this and version 1 of the PSF license consist
