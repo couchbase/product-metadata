@@ -56,6 +56,22 @@ asterix-om 0.9.4.1 : Apache License 2.0
 asterix-replication 0.9.4.1 : Apache License 2.0
 asterix-runtime 0.9.4.1 : Apache License 2.0
 asterix-transactions 0.9.4.1 : Apache License 2.0
+AWS Event Stream 1.0.1 : Apache License 2.0
+AWS Java SDK :: Annotations 2.10.83 : Apache License 2.0
+AWS Java SDK :: Arns 2.10.83 : Apache License 2.0
+AWS Java SDK :: Auth 2.10.83 : Apache License 2.0
+AWS Java SDK :: AWS Core 2.10.83 : Apache License 2.0
+AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83 : Apache License 2.0
+AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83 : Apache License 2.0
+AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83 : Apache License 2.0
+AWS Java SDK :: HTTP Client Interface 2.10.83 : Apache License 2.0
+AWS Java SDK :: HTTP Clients :: Apache 2.10.83 : Apache License 2.0
+AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83 : Apache License 2.0
+AWS Java SDK :: Profiles 2.10.83 : Apache License 2.0
+AWS Java SDK :: Regions 2.10.83 : Apache License 2.0
+AWS Java SDK :: SDK Core 2.10.83 : Apache License 2.0
+AWS Java SDK :: Services :: Amazon S3 2.10.83 : Apache License 2.0
+AWS Java SDK :: Utilities 2.10.83 : Apache License 2.0
 AWS SDK for Go 20200407-snapshot : Apache License 2.0
 AWS SDK for Go v1.26.8 : Apache License 2.0
 AWS SDK for Go v1.27.1 : Apache License 2.0
@@ -302,6 +318,8 @@ mwitkow/go-conntrack 20190131-snapshot : Apache License 2.0
 natefinch/npipe 20140709-snapshot-272c8150 : MIT License
 Netty Project 4.1.46.Final : Apache License 2.0
 Netty Project netty-4.1.42.Final : Apache License 2.0
+Netty Reactive Streams HTTP support 2.0.4 : Apache License 2.0
+Netty Reactive Streams Implementation 2.0.4 : Apache License 2.0
 Netty/Codec/Redis 4.1.43.Final : Apache License 2.0
 Netty/Codec/SMTP 4.1.42.Final : Apache License 2.0
 Netty/Codec/SMTP 4.1.46.Final : Apache License 2.0
@@ -334,6 +352,7 @@ prometheus-procfs 20200210-snapshot : Apache License 2.0
 purell 20190829-snapshot : BSD 3-clause "New" or "Revised" License
 pyrolite 4.30 : MIT License
 react-native-google-signin 1.0.0-rc5 : MIT License
+reactive-streams 1.0.2 : Creative Commons Zero v1.0 Universal
 rebar 2.1.0-pre : Apache License 2.0
 rebar 2.5.1 : Apache License 2.0
 rebar 2.6.0 : (MIT License OR Apache License 2.0)
@@ -374,7 +393,7 @@ zlib 1.2.8 : zlib License
 Licenses: 
 
 Apache License 2.0
-([ini4j] 0.5.4, algebricks-common 0.3.4.1, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-data 0.3.4.1, algebricks-rewriter 0.3.2, algebricks-runtime 0.3.4.1, Apache Commons Codec 1.13, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.18, Apache Commons Compress 1.19, Apache Commons CSV commons-csv-1.8, Apache Commons Lang 2.4, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient 4.5.10, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.12, Apache HttpComponents Core 4.4.13, Apache log4j 2.12.1, Apache log4j 2.13.1, Apache Log4j JUL Adapter 2.12.1, Apache Log4j JUL Adapter 2.13.1, Apache Log4j Web Adapters 2.12.1, Apache Log4j Web Adapters 2.13.1, asterix-active 0.9.4.1, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-common 0.9.4.1, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-sqlpp 0.9.4.1, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-transactions 0.9.4.1, AWS SDK for Go 20200407-snapshot, AWS SDK for Go v1.26.8, AWS SDK for Go v1.27.1, Azure-azure-sdk-for-go v30.0.0, Azure-go-autorest 20200415-snapshot, Azure-go-autorest 20200419-snapshot, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.5, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, census-instrumentation/opencensus-go 20191225-snapshot, client-go v0.17.0, client_golang 20200325-snapshot, cloud.google.com/go v0.40.0, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase 6.5.0, Couchbase JVM Core IO 1.7.10, Couchbase JVM Core IO 1.7.13, couchbase/gocbcore v9.0.0, couchbase/moss v0.1.0, couchbase/vellum v1.0.1, couchbaselabs/gocbconnstr v1.0.5, docker-cli 20180417-snapshot, erlang 20.3.8.20, erlang-base 20.0.4, error-prone annotations 2.3.2, error-prone annotations 2.3.4, Facebook Folly v2019.04.01.00, fastutil 8.3.0, FlatBuffers 1.5.0, FlatBuffers v1.10.0, FlatBuffers Java API 1.10.0, flatbuffers-java 1.6.0.3, flatbuffers-java-grpc 1.10.0, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, go-curl 20180313-snapshot-9d81ad32, go-openapi/analysis 20190716-snapshot, go-openapi/errors 20200314-snapshot, go-openapi/jsonpointer 20190716-snapshot, go-openapi/loads 20190716-snapshot, go-openapi/spec 20190716-snapshot, go-openapi/validate v0.19.0, golang-github-aws-aws-sdk-go 1.27.4, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang/appengine 20190508-snapshot, golang/glog 20190106-snapshot, google-gofuzz 20200419-snapshot, google-gson 20180607-snapshot-9d44cbc1, google/go-genproto 20200318-snapshot-d950eab6, googleapis/gnostic 20190408-snapshot, gophercloud/gophercloud 20181202-snapshot-464bad03, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go 20190429-snapshot, grpc-go 20200214-snapshot, grpcio 1.9.0rc2, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.1-jre, Guava: Google Core Libraries for Java 28.2-jre, hadoop-common 2.10.0, hyracks-api 0.3.4.1, hyracks-client 0.3.4.1, hyracks-comm 0.3.4.1, hyracks-control-cc 0.3.4.1, hyracks-control-common 0.3.4.1, hyracks-control-nc 0.3.4.1, hyracks-data-std 0.3.4.1, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-net 0.3.4.1, hyracks-storage-am-bloomfilter 0.3.4.1, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-invertedindex 0.3.4.1, hyracks-storage-am-lsm-rtree 0.3.4.1, hyracks-storage-am-rtree 0.3.4.1, hyracks-storage-common 0.3.4.1, hyracks-util 0.3.4.1, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20181015-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.0, jackson-core 2.10.3, jackson-databind 2.10.0, jackson-databind 2.10.3, jmespath-go-jmespath c2b33e84, jooby-cli 2.8.1, jsonreference 20190716-snapshot, k8s.io/klog 20190415-snapshot, k8s.io/kube-openapi 20190429-snapshot, k8s.io/utils 20200305-snapshot, krestenkrab's triq 20151018-snapshot-c7306b8e, kubernetes/api kubernetes-1.16.2, kubernetes/apimachinery 20190617-snapshot, libcouchbase 2.10.6, Log4J API 2.12.1, Log4J API 2.13.1, Log4J Commons Logging 2.12.1, Log4J Commons Logging 2.13.1, matttproud-golang_protobuf_extensions 20181101-snapshot, meck 0.8.5, modern-go/concurrent 20190420-snapshot, modern-go/reflect2 20190422-snapshot, mongodb/mongo-go-driver 20190411-snapshot-618b23f5, mwitkow/go-conntrack 20190131-snapshot, Netty Project 4.1.46.Final, Netty Project netty-4.1.42.Final, Netty/Codec/Redis 4.1.43.Final, Netty/Codec/SMTP 4.1.42.Final, Netty/Codec/SMTP 4.1.46.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.26.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, oklog/run 20200409-snapshot, oklog/ulid 20190424-snapshot, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go 20200414-snapshot, opentracing-opentracing-go v1.0.2, Prometheus Monitoring v2.11.0, prometheus-client_model 20200402-snapshot, prometheus-common 20200330-snapshot, prometheus-procfs 20200210-snapshot, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, SLF4J Binding 2.12.1, SLF4J Binding 2.13.1, snappy-java 1.1.7.1, soheilhy/cmux 20200110-snapshot, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, Spring Initializr :: Generator 0.5.0.RELEASE, strfmt 20190716-snapshot, swag v0.19.4, tpcds 1.2, yaml for Go 20200228-snapshot)
+([ini4j] 0.5.4, algebricks-common 0.3.4.1, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-data 0.3.4.1, algebricks-rewriter 0.3.2, algebricks-runtime 0.3.4.1, Apache Commons Codec 1.13, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.18, Apache Commons Compress 1.19, Apache Commons CSV commons-csv-1.8, Apache Commons Lang 2.4, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient 4.5.10, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.12, Apache HttpComponents Core 4.4.13, Apache log4j 2.12.1, Apache log4j 2.13.1, Apache Log4j JUL Adapter 2.12.1, Apache Log4j JUL Adapter 2.13.1, Apache Log4j Web Adapters 2.12.1, Apache Log4j Web Adapters 2.13.1, asterix-active 0.9.4.1, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-common 0.9.4.1, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-sqlpp 0.9.4.1, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-transactions 0.9.4.1, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, AWS SDK for Go 20200407-snapshot, AWS SDK for Go v1.26.8, AWS SDK for Go v1.27.1, Azure-azure-sdk-for-go v30.0.0, Azure-go-autorest 20200415-snapshot, Azure-go-autorest 20200419-snapshot, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.5, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, census-instrumentation/opencensus-go 20191225-snapshot, client-go v0.17.0, client_golang 20200325-snapshot, cloud.google.com/go v0.40.0, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase 6.5.0, Couchbase JVM Core IO 1.7.10, Couchbase JVM Core IO 1.7.13, couchbase/gocbcore v9.0.0, couchbase/moss v0.1.0, couchbase/vellum v1.0.1, couchbaselabs/gocbconnstr v1.0.5, docker-cli 20180417-snapshot, erlang 20.3.8.20, erlang-base 20.0.4, error-prone annotations 2.3.2, error-prone annotations 2.3.4, Facebook Folly v2019.04.01.00, fastutil 8.3.0, FlatBuffers 1.5.0, FlatBuffers v1.10.0, FlatBuffers Java API 1.10.0, flatbuffers-java 1.6.0.3, flatbuffers-java-grpc 1.10.0, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, go-curl 20180313-snapshot-9d81ad32, go-openapi/analysis 20190716-snapshot, go-openapi/errors 20200314-snapshot, go-openapi/jsonpointer 20190716-snapshot, go-openapi/loads 20190716-snapshot, go-openapi/spec 20190716-snapshot, go-openapi/validate v0.19.0, golang-github-aws-aws-sdk-go 1.27.4, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang/appengine 20190508-snapshot, golang/glog 20190106-snapshot, google-gofuzz 20200419-snapshot, google-gson 20180607-snapshot-9d44cbc1, google/go-genproto 20200318-snapshot-d950eab6, googleapis/gnostic 20190408-snapshot, gophercloud/gophercloud 20181202-snapshot-464bad03, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go 20190429-snapshot, grpc-go 20200214-snapshot, grpcio 1.9.0rc2, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.1-jre, Guava: Google Core Libraries for Java 28.2-jre, hadoop-common 2.10.0, hyracks-api 0.3.4.1, hyracks-client 0.3.4.1, hyracks-comm 0.3.4.1, hyracks-control-cc 0.3.4.1, hyracks-control-common 0.3.4.1, hyracks-control-nc 0.3.4.1, hyracks-data-std 0.3.4.1, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-net 0.3.4.1, hyracks-storage-am-bloomfilter 0.3.4.1, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-invertedindex 0.3.4.1, hyracks-storage-am-lsm-rtree 0.3.4.1, hyracks-storage-am-rtree 0.3.4.1, hyracks-storage-common 0.3.4.1, hyracks-util 0.3.4.1, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20181015-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.0, jackson-core 2.10.3, jackson-databind 2.10.0, jackson-databind 2.10.3, jmespath-go-jmespath c2b33e84, jooby-cli 2.8.1, jsonreference 20190716-snapshot, k8s.io/klog 20190415-snapshot, k8s.io/kube-openapi 20190429-snapshot, k8s.io/utils 20200305-snapshot, krestenkrab's triq 20151018-snapshot-c7306b8e, kubernetes/api kubernetes-1.16.2, kubernetes/apimachinery 20190617-snapshot, libcouchbase 2.10.6, Log4J API 2.12.1, Log4J API 2.13.1, Log4J Commons Logging 2.12.1, Log4J Commons Logging 2.13.1, matttproud-golang_protobuf_extensions 20181101-snapshot, meck 0.8.5, modern-go/concurrent 20190420-snapshot, modern-go/reflect2 20190422-snapshot, mongodb/mongo-go-driver 20190411-snapshot-618b23f5, mwitkow/go-conntrack 20190131-snapshot, Netty Project 4.1.46.Final, Netty Project netty-4.1.42.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.43.Final, Netty/Codec/SMTP 4.1.42.Final, Netty/Codec/SMTP 4.1.46.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.26.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, oklog/run 20200409-snapshot, oklog/ulid 20190424-snapshot, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go 20200414-snapshot, opentracing-opentracing-go v1.0.2, Prometheus Monitoring v2.11.0, prometheus-client_model 20200402-snapshot, prometheus-common 20200330-snapshot, prometheus-procfs 20200210-snapshot, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, SLF4J Binding 2.12.1, SLF4J Binding 2.13.1, snappy-java 1.1.7.1, soheilhy/cmux 20200110-snapshot, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, Spring Initializr :: Generator 0.5.0.RELEASE, strfmt 20190716-snapshot, swag v0.19.4, tpcds 1.2, yaml for Go 20200228-snapshot)
 
 Apache License
 Version 2.0, January 2004
@@ -1959,6 +1978,158 @@ Redistribution and use in source and binary forms, with or without
  LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+Creative Commons Zero v1.0 Universal
+(reactive-streams 1.0.2)
+
+Creative Commons CC0 1.0 Universal
+==================================
+
+
+Creative Commons Legal Code
+---------------------------
+
+
+CC0 1.0 Universal
+-----------------
+
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL
+SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT
+RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS.
+CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE
+INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES
+RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+HEREUNDER.
+
+
+Statement of Purpose
+
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator and
+subsequent owner(s) (each and all, an "owner") of an original work of authorship
+and/or a database (each, a "Work").
+
+Certain owners wish to permanently relinquish those rights to a Work for the
+purpose of contributing to a commons of creative, cultural and scientific works
+("Commons") that the public can reliably and without fear of later claims of
+infringement build upon, modify, incorporate in other works, reuse and
+redistribute as freely as possible in any form whatsoever and for any purposes,
+including without limitation commercial purposes. These owners may contribute to
+the Commons to promote the ideal of a free culture and the further production of
+creative, cultural and scientific works, or to gain reputation or greater
+distribution for their Work in part through the use and efforts of others.
+
+For these and/or other purposes and motivations, and without any expectation of
+additional consideration or compensation, the person associating CC0 with a Work
+(the "Affirmer"), to the extent that he or she is an owner of Copyright and
+Related Rights in the Work, voluntarily elects to apply CC0 to the Work and
+publicly distribute the Work under its terms, with knowledge of his or her
+Copyright and Related Rights in the Work and the meaning and intended legal
+effect of CC0 on those rights.
+
+1. Copyright and Related Rights. A Work made available under CC0 may be protected
+by copyright and related or neighboring rights ("Copyright and Related Rights").
+Copyright and Related Rights include, but are not limited to, the following:
+
+  i. the right to reproduce, adapt, distribute, perform, display, communicate,
+    and translate a Work;
+
+  ii.  moral rights retained by the original author(s) and/or performer(s);
+
+  iii. publicity and privacy rights pertaining to a person's image or likeness
+    depicted in a Work;
+
+  iv. rights protecting against unfair competition in regards to a Work, subject
+    to the limitations in paragraph 4(a), below;
+
+  v. rights protecting the extraction, dissemination, use and reuse of data in a
+    Work;
+
+  vi. database rights (such as those arising under Directive 96/9/EC of the
+    European Parliament and of the Council of 11 March 1996 on the legal
+    protection of databases, and under any national implementation thereof,
+    including any amended or successor version of such directive); and
+
+  vii. other similar, equivalent or corresponding rights throughout the world
+    based on applicable law or treaty, and any national implementations thereof.
+
+2. Waiver. To the greatest extent permitted by, but not in contravention of,
+applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and
+unconditionally waives, abandons, and surrenders all of Affirmer's Copyright and
+Related Rights and associated claims and causes of action, whether now known or
+unknown (including existing as well as future claims and causes of action), in
+the Work
+
+  i.  in all territories worldwide,
+
+  ii.  for the maximum duration provided by applicable law or treaty (including
+    future time extensions),
+
+  iii.  in any current or future medium and for any number of copies, and
+
+  iv.  for any purpose whatsoever, including without limitation commercial,
+    advertising or promotional purposes (the "Waiver").
+
+Affirmer makes the Waiver for the benefit of each member of the public at large
+and to the detriment of Affirmer's heirs and successors, fully intending that
+such Waiver shall not be subject to revocation, rescission, cancellation,
+termination, or any other legal or equitable action to disrupt the quiet
+enjoyment of the Work by the public as contemplated by Affirmer's express
+Statement of Purpose.
+
+3. Public License Fallback. Should any part of the Waiver for any reason be
+judged legally invalid or ineffective under applicable law, then the Waiver shall
+be preserved to the maximum extent permitted taking into account Affirmer's
+express Statement of Purpose. In addition, to the extent the Waiver is so judged
+Affirmer hereby grants to each affected person a royalty-free, non transferable,
+non sublicensable, non exclusive, irrevocable and unconditional license to
+exercise Affirmer's Copyright and Related Rights in the Work
+
+  i.  in all territories worldwide,
+
+  ii.  for the maximum duration provided by applicable law or treaty (including
+    future time extensions),
+
+  iii.  in any current or future medium and for any number of copies, and
+
+  iv.  for any purpose whatsoever, including without limitation commercial,
+    advertising or promotional purposes (the "License").
+
+The License shall be deemed effective as of the date CC0 was applied by Affirmer
+to the Work. Should any part of the License for any reason be judged legally
+invalid or ineffective under applicable law, such partial invalidity or
+ineffectiveness shall not invalidate the remainder of the License, and in such
+case Affirmer hereby affirms that he or she will not
+
+  i.  exercise any of his or her remaining Copyright and Related Rights in the
+    Work or
+
+  ii.  assert any associated claims and causes of action with respect to the
+    Work, in either case contrary to Affirmer's express Statement of Purpose.
+
+4. Limitations and Disclaimers.
+
+  a. No trademark or patent rights held by Affirmer are waived, abandoned,
+    surrendered, licensed or otherwise affected by this document.
+
+  b. Affirmer offers the Work as-is and makes no representations or warranties of
+    any kind concerning the Work, express, implied, statutory or otherwise,
+    including without limitation warranties of title, merchantability, fitness
+    for a particular purpose, non infringement, or the absence of latent or other
+    defects, accuracy, or the present or absence of errors, whether or not
+    discoverable, all to the greatest extent permissible under applicable law.
+
+  c. Affirmer disclaims responsibility for clearing rights of other persons that
+    may apply to the Work or any use thereof, including without limitation any
+    person's Copyright and Related Rights in the Work. Further, Affirmer
+    disclaims responsibility for obtaining any necessary consents, permissions or
+    other rights required for any use of the Work.
+
+  d. Affirmer understands and acknowledges that Creative Commons is not a party
+    to this document and has no duty or obligation with respect to this CC0 or
+    use of the Work.
 
 ---
 
