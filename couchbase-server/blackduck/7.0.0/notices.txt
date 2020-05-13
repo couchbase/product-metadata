@@ -269,10 +269,11 @@ Gorilla Web Toolkit 20170523-snapshot : BSD 3-clause "New" or "Revised" License
 gorilla/muxy 20170123-snapshot-65b4fd5d : BSD 3-clause "New" or "Revised" License
 goskiplist 20170622-snapshot : Apache License 2.0
 govalidator 20191212-snapshot : MIT License
-grpc 1.12.0 : Apache License 2.0
+grpc 1.26.0 : Apache License 2.0
+grpc 1.28.1 : Apache License 2.0
 grpc-go 20200214-snapshot : Apache License 2.0
 grpc-go v1.17.0 : Apache License 2.0
-grpcio 1.9.0rc2 : Apache License 2.0
+grpcio 1.28.0rc1 : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1 : Apache License 2.0
 Guava: Google Core Libraries for Java 28.1-jre : Apache License 2.0
 Guava: Google Core Libraries for Java 28.2-jre : Apache License 2.0
@@ -334,7 +335,6 @@ kubernetes/apimachinery 20190617-snapshot : Apache License 2.0
 leemcloughlin/gofarmhash 20180505-snapshot : MIT License
 libcouchbase 2.10.6 : Apache License 2.0
 libevent 2.1.8 : BSD 3-clause "New" or "Revised" License
-libgrpc-dev 1.12.0 : BSD 3-clause "New" or "Revised" License
 Lo-Dash 3.3.0 : MIT License
 Log4J API 2.12.1 : Apache License 2.0
 Log4J API 2.13.1 : Apache License 2.0
@@ -2478,50 +2478,6 @@ Gorilla Web Toolkit 20170307-snapshot
 	Copyright 2012 The Gorilla Authors. All rights reserved
 goskiplist 20170622-snapshot
 	Copyright 2012 Google Inc. All rights reserved
-grpc 1.12.0
-	Copyright 2018 gRPC authors.
-	Copyright ©  2016")[assembly: AssemblyTrademark("")][assembly: AssemblyCulture("")]
-	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2016 gRPC authors.@rem@rem Licensed under the Apache License, Version 2.0 (the "License");@rem you may not use this file except in compliance with the License.@rem You may obtain a copy 
-	copyright checkerargp.add_argument(    '-o', '--output', default='details', choices=['list', 'details'])argp.add_argument('-s', '--skips', default=0, action='store_const', const=1)argp.add_argumen
-	Copyright 2016 gRPC authors.
-	Copyright 2015[The gRPC Authors](https://github.com/grpc/grpc/blob/master/AUTHORS)
-	Copyright 2018 gRPC authors.## Licensed under the Apache License, Version 2.0 (the "License");# you may not use this file except in compliance with the License.# You may obtain a copy of the L
-	Copyright 2009-2011 Philip Lowman <philip@yhbt.com>
-	Copyright (?P<first_year>RE_LICENSE = dict(    (k, r'\n'.join(LICENSE_PREFIX[k] +                   (RE_YEAR if re.search(RE_YEAR, line) else re.escape(line))                   for line in LICENSE
-	Copyright 2015-2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of 
-	Copyright 2008 Esben Mose Hansen, Ange Optimization ApS
-	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright ©  2015")[assembly: AssemblyTrademark("")][assembly: AssemblyCulture("")]
-	Copyright 2008 Google Inc.  All rights reserved
-	Copyright (C) 1995, 1996, 1997, and 1998 WIDE Project.All rights reserved
-	Copyright 2017 gRPC authors.@rem@rem Licensed under the Apache License, Version 2.0 (the "License");@rem you may not use this file except in compliance with the License.@rem You may obtain a copy 
-	Copyright 2018, gRPC Authors All rights reserved
-	Copyright 2014 gRPC authors.
-	COPYRIGHT\n"  "// OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\n"  "// SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT\n"  "// LIMITED TO, PROCUREMENT OF S
-	Copyright>Copyright 2015, Google Inc.</Copyright>    <AssemblyTitle>gRPC C# Healthchecking</AssemblyTitle>    <VersionPrefix>$(GrpcCsharpVersion)</VersionPrefix>    <Authors>Google Inc.</Authors> 
-	Copyright 2015-2017 gRPC authors.
-	Copyright>Copyright 2016, Google Inc.</Copyright>    <AssemblyTitle>gRPC C# Reflection</AssemblyTitle>    <VersionPrefix>$(GrpcCsharpVersion)</VersionPrefix>    <Authors>Google Inc.</Authors>    <
-	Copyright (c) 2015, Google Inc. * * Permission to use, copy, modify, and/or distribute this software for any * purpose with or without fee is hereby granted, provided that the above * copyright no
-	Copyright 2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright>Copyright 2017, Google Inc.</Copyright>    <AssemblyTitle>gRPC C# Core Testing</AssemblyTitle>    <VersionPrefix>$(GrpcCsharpVersion)</VersionPrefix>    <Authors>Google Inc.</Authors>   
-	Copyright 2016-2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of 
-	Copyright (C) 2009 - 2013 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provi
-	Copyright>Copyright 2015, Google Inc.</Copyright>    <AssemblyTitle>gRPC C# Core</AssemblyTitle>    <VersionPrefix>$(GrpcCsharpVersion)</VersionPrefix>    <Authors>Google Inc.</Authors>    <Target
-	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright (C) 1995, 1996, 1997, and 1998 WIDE Project. * All rights reserved
-	copyright\n"  "// notice, this list of conditions and the following disclaimer.\n"  "//     * Redistributions in binary form must reproduce the above\n"  "// copyright notice, this list of conditio
-	Copyright 2014 Google Inc. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the Lic
-	copyright missing        ok = False
-	Copyright (c) 2015 Lars Kanis
-	Copyright>Copyright 2015, Google Inc.</Copyright>    <AssemblyTitle>gRPC C# Auth</AssemblyTitle>    <VersionPrefix>$(GrpcCsharpVersion)</VersionPrefix>    <Authors>Google Inc.</Authors>    <Target
-	Copyright 2017 gRPC authors.
-	Copyright 2015-2016 gRPC authors.
-	Copyright (c) 2011 Petteri Aimonen <jpa at nanopb.mail.kapsi.fi>
-	Copyright 2015 gRPC authors.
-	Copyright 2009 Kitware, Inc.
-	Copyright 2016 The Chromium Authors. All rights reserved
-	Copyright: This stylesheet has been placed in the public domain - free to edit and use for all uses.*/
 grpc-go v1.17.0
 	Copyright 2018 gRPC authors.
 	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
@@ -2531,283 +2487,6 @@ grpc-go v1.17.0
 	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 	copyright message.git ls-files "*.go" | xargs grep -L "\(Copyright [0-9]\{4,\} gRPC authors\)\|DO NOT EDIT" 2>&1 | fail_on_output
 	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-grpcio 1.9.0rc2
-	Copyright (C) 2010-2013 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright (c) 1987-2001 The Regents of the University of California. * All rights reserved
-	Copyright remains Eric Young * the code are not to be removed. * If this package is used in a product, Eric Young should be given attribution * as the author of the parts of the library used. * Th
-	Copyright (c) 1998-2007 The OpenSSL Project.  All rights reserved
-	Copyright (c) 2012 Xan Lopez
-	Copyright (C) 1995-2003 Jean-loup Gailly. * For conditions of distribution and use, see copyright notice in zlib.h * * Pascal translation
-	Copyright (C) 1995-2003, 2010 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (C) 2004 - 2011 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provi
-	Copyright (c) 1999-2007 The OpenSSL Project.  All rights reserved
-	&copy, &strm);        assert(ret == Z_OK);
-	Copyright (C) 2011, 2016 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (C) 2007-2008 Even Rouault
-	Copyright 2013 Google Inc. All Rights Reserved
-	Copyright 2005 by Dominick Meglio * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided that the a
-	Copyright 2010, Google Inc.// All rights reserved
-	Copyright 2009, Google Inc.# All rights reserved
-	Copyright (c) 2017, Google Inc. * * Permission to use, copy, modify, and/or distribute this software for any * purpose with or without fee is hereby granted, provided that the above * copyright no
-	Copyright (c) 1998-2003 The OpenSSL Project.  All rights reserved
-	Copyright with his permission.  */
-	Copyright (c) 1990-2000 Info-ZIP.  All rights reserved
-	Copyright (c) 2001 The OpenSSL Project.  All rights reserved
-	Copyright (c) 2002-2006 The OpenSSL Project.  All rights reserved
-	Copyright (C) 1995-2017 Jean-Loup Gailly, Mark Adler. OS/400 version by P. Monnerat.")make_module     OS400           os400.cLINK=                           # No need to rebuild service program yet.
-	Copyright (C) 2007-2013 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright (c) 2014, Intel Corporation. * * Permission to use, copy, modify, and/or distribute this software for any * purpose with or without fee is hereby granted, provided that the above * copyr
-	Copyright 1998, 2011 by the Massachusetts Institute of Technology. * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is he
-	Copyright (C) 2004, 2005, 2012 Mark Adler, all rights reserved
-	Copyright 2000 by the Massachusetts Institute of Technology. * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby g
-	Copyright 2010 Google Inc.  All Rights Reserved
-	Copyright (C) 1995-2011, 2016 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright 2008, Google Inc.# All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2005, Google Inc.// All rights reserved
-	Copyright (C) 2002-2004 Dmitriy Anisimkov                 ----                                                            ----  Open source license information is in the zlib.ads file.  --
-	Copyright 2006, Google Inc.// All rights reserved
-	Copyright (C) 2004 - 2012 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provi
-	Copyright (C) 1998,1999,2000 by Jacques Nomssi Nzali.
-	Copyright (c) 1996,1999 by Internet Software Consortium. * * Permission to use, copy, modify, and distribute this software for any * purpose with or without fee is hereby granted, provided that the
-	Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com) * All rights reserved
-	Copyright 2009-2011 Philip Lowman <philip@yhbt.com>
-	Copyright (c) 2015 The OpenSSL Project.  All rights reserved
-	Copyright (C) 1998, 2007 Brian Raiter <breadbox@muppetlabs.com> * * This software is provided 'as-is', without any express or implied * warranty.  In no event will the author be held liable for any
-	Copyright (C) 1998-2010 Gilles Vollant (minizip) ( http://www.winimage.com/zLibDll/minizip.html )
-	Copyright 2008 Esben Mose Hansen, Ange Optimization ApS
-	Copyright (C) 2002-2013 Mark Adler, all rights reserved
-	Copyright (C) 1995-2017 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (c) 2011 The OpenSSL Project.  All rights reserved
-	Copyright (c) 2012 The OpenSSL Project.  All rights reserved
-	Copyright 2008 Google Inc. All Rights Reserved
-	Copyright (c) 2012 Philip Withnall
-	Copyright (C) 2004-2011 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	© Copyright Henrik Ravn 2004//// Use, modification and distribution are subject to the Boost Software License, Version 1.0.// (See accompanying file LICENSE_1_0.txt or copy at http://www.boost.o
-	Copyright (c) 2005 The OpenSSL Project.  All rights reserved
-	Copyright 2005-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2004 The OpenSSL Project.  All rights reserved
-	Copyright (C) 2003 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (c) 2015, Google Inc. * * Permission to use, copy, modify, and/or distribute this software for any * purpose with or without fee is hereby granted, provided that the above * copyright no
-	Copyright 2009 Google Inc. All Rights Reserved
-	Copyright 2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2006, Google Inc.# All rights reserved
-	Copyright (c) 2004 by Internet Systems Consortium, Inc. ("ISC")
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright (c) 2008 The OpenSSL Project.  All rights reserved
-	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright (C) 2004-2017 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright 2007, Google Inc.// All rights reserved
-	Copyright 2017 gRPC authors.
-	Copyright (c) 1999-2003 The OpenSSL Project.  All rights reserved
-	Copyright (c) 1999-2004 The OpenSSL Project.  All rights reserved
-	Copyright (C) 1995-2010 Jean-loup Gailly, Brian Raiter and Gilles Vollant.;; File written by Gilles Vollant, by converting to assembly the longest_match;  from Jean-loup Gailly in deflate.c of z
-	Copyright (c) 2011-2014, Andrey Kamaev
-	Copyright 2007-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (C) 2004-2017 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright 2005 Nokia. All rights reserved
-	Copyright (C) 2009-2016 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright (C) 2003 Chris Anderson <christop@charm.net>
-	Copyright (c) 2008 Steven G. Johnson <stevenj@alum.mit.edu>
-	Copyright 2016 gRPC authors.
-	Copyright 2009-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 1997,99 Borland Corp.,and is based on zlib version 1.0.4.  There are a series of bugsand security problems associated with that old zlib version, andwe recommend the users to update t
-	Copyright (C) 1995-2003, 2010, 2014, 2016 Jean-loup Gailly, Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (C) 2004-2010 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright (C) 1995-2003 by Jean-loup Gailly.
-	Copyright 2009 Google Inc.  All rights reserved
-	Copyright (C) 2003 by Cosmin Truta.
-	Copyright (c) 2014, 2015 Google Inc.; contributed by Alexey Sokolov <sokolov@google.com>
-	Copyright 1998 by the Massachusetts Institute of Technology.
-	Copyright (C) 2008 - 2009 by Daniel Stenberg et al
-	Copyright 2013, Google Inc.// All rights reserved
-	Copyright (c) 2014, Google Inc. * * Permission to use, copy, modify, and/or distribute this software for any * purpose with or without fee is hereby granted, provided that the above * copyright no
-	Copyright (C) 2003 Chris Anderson <christop@charm.net>
-	Copyright (C) 1998-2005 Gilles Vollant
-	Copyright 2016-2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of 
-	Copyright (c) 2000 The OpenSSL Project.  All rights reserved
-	Copyright (c) 1999 The OpenSSL Project.  All rights reserved
-	Copyright (C) 1995-2003 Mark Adler; * For conditions of distribution and use, see copyright notice in zlib.h; *
-	Copyright (C) 2002-2003 Dmitriy Anisimkov                 ----                                                            ----  Open source license information is in the zlib.ads file.  --
-	Copyright 1998 by the Massachusetts Institute of Technology.
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright (C) 2006, Network Resonance, Inc.
-	Copyright (C) 2004 - 2013 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provi
-	Copyright (C) 2015 The Android Open Source Project
-	Copyright (C) 2009-2010 Mathias Svensson ( http://result42.com )
-	Copyright (C) 1995-2005, 2010 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright 2008, Google Inc.// All rights reserved
-	Copyright: This stylesheet has been placed in the public domain - free to edit and use for all uses.*/
-	Copyright (C) 1995-2006, 2011, 2016 Jean-loup Gailly * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright 2006-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (C) 1995-2005, 2014, 2016 Jean-loup Gailly, Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	copyright conditions above. * * Dec-29-2003 -- I added AMD64 inflate asm support.  This version is also * slightly quicker on x86 systems because, instead of using rep movsb to copy * data, it use
-	Copyright 2003, Google Inc.// All rights reserved
-	Copyright 2015, Google Inc.// All rights reserved
-	Copyright (C) 2010 Jeremy Lal <kapouer@melix.org> * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, pro
-	Copyright (C) 2004-2009 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright (C) 2010-2012 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright 2015-2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of 
-	Copyright 2005 Google Inc. All Rights Reserved
-	Copyright (C) 2002-2013 Mark Adler * For conditions of distribution and use, see copyright notice in puff.h * version 2.3, 21 Jan 2013 */
-	Copyright (c) 2012, Intel Corporation#                                                                            ##  All rights reserved
-	Copyright (c) 2015, Google Inc.
-	Copyright (c) 2007 - 2016, Daniel Stenberg with many contributors, see AUTHORSfile.
-	Copyright (C) 2008 - 2013 by Daniel Stenberg et al
-	Copyright 1995-2017 Jean-loup Gailly and Mark Adler ";/*  If you use the zlib library in a product, an acknowledgment is welcome  in the documentation of your product. If for some reason you cannot
-	Copyright (C) 2009-2010 Mathias Svensson ( http://result42.com )*/
-	Copyright (c) 2013 Roy Stogner <roystgnr@ices.utexas.edu>
-	Copyright (c) 2004, 2005 by Mark Adler<br>Last modified 11 December 2005</i></body>
-	Copyright (c) 2012 Christian Persch
-	Copyright 1995-2017 Mark Adler ";/*  If you use the zlib library in a product, an acknowledgment is welcome  in the documentation of your product. If for some reason you cannot  include such an ac
-	Copyright (C) 2005, 2012 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h   Version 1.1  29 Sep 2012  Mark Adler */
-	Copyright (c) 2012, Intel Corporation*                                                                            **  All rights reserved
-	&copy) != 0      CBS_len(&sct_list) == 0) {    return 0;  }
-	Copyright (C) 1994 X Consortium
-	Copyright (C) 1995-2016 Jean-loup Gailly, Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (C) 2004 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provided * 
-	Copyright Henrik Ravn 2004//// Use, modification and distribution are subject to the Boost Software License, Version 1.0.// (See accompanying file LICENSE_1_0.txt or copy at http://www.boost.org
-	Copyright (C) 1995-2008 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (c) 2016 The Chromium Authors. All rights reserved
-	Copyright (C) 2005-2013 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, prov
-	Copyright 2008, Google Inc.All rights reserved
-	Copyright (c) 2014, Pavel Rojtberg# All rights reserved
-	Copyright 2003 Google Inc.// All rights reserved
-	Copyright (c) 1998-2001 The OpenSSL Project.  All rights reserved
-	Copyright (C) 2008 - 2012 by Daniel Stenberg et al
-	&copy, &data))      OPENSSL_PUT_ERROR(SSL, SSL_R_PARSE_TLSEXT);      *out_alert = SSL_AD_DECODE_ERROR;      return 0;    }
-	Copyright (C) 1995-1996 Jean-loup Gailly, Brian Raiter and Gilles Vollant.; File written by Gilles Vollant, by converting match686.S from Brian Raiter; for MASM. This is as assembly version of lon
-	Copyright (C) 2004, 2005, 2010, 2011, 2012, 2013, 2016 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	copyright conditions above.; *; * Mar-13-2003 -- Most of this is derived from inffast.S which is derived from; * the gcc -S output of zlib-1.2.0/inffast.c.  Zlib-1.2.0 is in beta release at; *
-	Copyright (c) 2015 Bastien ROUCARIES
-	Copyright 2009, Google Inc.// All rights reserved
-	Copyright (c) 2012 Dan Winship
-	Copyright (c) 2015, CloudFlare Ltd.
-	Copyright (c) 2014, Google Inc.
-	Copyright (C) 2002-2004 Dmitriy Anisimkov                   ----                                                                          ----  This library is free software; you can redistribute it
-	Copyright 2009 Google Inc.// All Rights Reserved
-	Copyright (c) 1998-2005 The OpenSSL Project.  All rights reserved
-	Copyright 1999-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2012 Paolo Borelli
-	Copyright 2010 The Go Authors. All rights reserved
-	Copyright (C) 2003-2010 Mark Adler\n");        fprintf(stderr, "usage: gun [-t] [file1.gz [file2.Z ...]]\n");        return 0;    }    if (argc && strcmp(*argv, "-t") == 0) {        test = 1;   
-	Copyright (c) 2011 Petteri Aimonen <jpa at nanopb.mail.kapsi.fi>
-	Copyright (c) 2011 Daniel Richard G. <skunk@iSKUNK.ORG>
-	Copyright 2015 gRPC authors.
-	Copyright 1998-2004 Gilles Vollant - http://www.winimage.com/zLibDll";
-	Copyright (c) 2006,2007 The OpenSSL Project.  All rights reserved
-	Copyright (C) 2005, 2013 by Dominick Meglio * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided 
-	Copyright (C) 1995-2016 Jean-loup Gailly * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (c) 1998-2010 - by Gilles Vollant - version 1.1 64 bits from Mathias Svensson
-	Copyright (C) 1995-2003 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright 1998, 2011, 2013 by the Massachusetts Institute of Technology. * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee
-	Copyright (C) 1995-2016 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (c) 2014 The OpenSSL Project.  All rights reserved
-	Copyright (c) 1997 * Christian Michelsen Research AS * Advanced Computing * Fantoftvegen 38, 5036 BERGEN, Norway * http://www.cmr.no * * Permission to use, copy, modify, distribute and sell this
-	&copy, channel_));
-	Copyright 2016 Brian Smith. * * Permission to use, copy, modify, and/or distribute this software for any * purpose with or without fee is hereby granted, provided that the above * copyright notice
-	Copyright (c) 2010 The OpenSSL Project.  All rights reserved
-	Copyright (c) 2013 The OpenSSL Project.  All rights reserved
-	Copyright (C) 2004, 2008, 2012 Mark Adler, all rights reserved
-	Copyright (C) 2003, 2005, 2008, 2010, 2012 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h   Version 1.7  12 August 2012  Mark Adler */
-	Copyright (c) 2006 The OpenSSL Project.  All rights reserved
-	Copyright (c) 2016, Google Inc. * * Permission to use, copy, modify, and/or distribute this software for any * purpose with or without fee is hereby granted, provided that the above * copyright no
-	Copyright (c) 2003 The OpenSSL Project.  All rights reserved
-	Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (C) 1998 - 2010 Gilles Vollant, Even Rouault, Mathias Svensson
-	Copyright 2008 Google Inc.  All Rights Reserved
-	Copyright (c) 2013 Daniel Stenberg <daniel@haxx.se>
-	Copyright 1998 by the Massachusetts Institute of Technology. *
-	Copyright (c) 2016, Google Inc.
-	Copyright (C) 2008-2013 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright (C) 2003, 2012, 2013 Mark Adler  version 1.3, 24 Aug 2013
-	Copyright (c) 1999-2002 The OpenSSL Project.  All rights reserved
-	Copyright 2007 Google Inc.
-	Copyright (c) 1999-2005 The OpenSSL Project.  All rights reserved
-	Copyright (c) 2011-2014, Andrey Kamaev# All rights reserved
-	Copyright (C) 1995-2017 Jean-loup Gailly * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright 2008 Google Inc.// All Rights Reserved
-	Copyright 2014 The Chromium Authors. All rights reserved
-	Copyright (C) 2003, 2012, 2013 Mark Adler * For conditions of distribution and use, see copyright notice in blast.h * version 1.3, 24 Aug 2013 * * blast.c decompresses data compressed by the PKWar
-	Copyright (C) 1998 by Bob Dellaca.
-	Copyright (c) 2004, 2005 Mark Adler.  --></head><body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#00A000"><h2 align="center"> zlib Usage Example </h2>We often get questions about how t
-	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright (C) 2011, RTFM, Inc.*/
-	Copyright (c) 1998-2002 The OpenSSL Project.  All rights reserved
-	Copyright (c) 1998-2000 The OpenSSL Project.  All rights reserved
-	Copyright (C) 1995-2006, 2010, 2011, 2012, 2016 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h * * Thanks to Rodney Brown <rbrown64@csc.com.au> for his contribu
-	Copyright (c) 1996 L. Peter Deutsch
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright (C) 2004, 2010 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (c) 1997,99 Borland Corporation{                                                       }
-	Copyright 2014-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 1996-1999 by Internet Software Consortium. * * Permission to use, copy, modify, and distribute this software for any * purpose with or without fee is hereby granted, provided that the
-	Copyright (C) 2004, 2008, 2012, 2016 Mark Adler, all rights reserved
-	Copyright (c) 1999-2008 The OpenSSL Project.  All rights reserved
-	Copyright (c) 1998-2011 The OpenSSL Project.  All rights reserved
-	Copyright (C) 1998 Brian Raiter <breadbox@muppetlabs.com>;;; You can look at http://www.muppetlabs.com/~breadbox/software/assembly.html;;;
-	Copyright (c) 2008 Benjamin Kosnik <bkoz@redhat.com>
-	Copyright (C) 2009 by Jakub Hrozek <jhrozek@redhat.com> * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby grante
-	Copyright (c) 2012 Zack Weinberg <zackw@panix.com>
-	Copyright (c) 2010-2011, Ethan Rublee
-	copyright conditions above. * * 2005 - Adaptation to Microsoft C Compiler for AMD64 by Gilles Vollant
-	Copyright (c) 2012, Intel Corporation
-	Copyright (c) 1998-2006 The OpenSSL Project.  All rights reserved
-	Copyright (C) 2003 by Cosmin Truta. * For conditions of distribution and use, see copyright notice in readme.txt *)
-	Copyright 2015-2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of 
-	Copyright (c) 1998-2004 The OpenSSL Project.  All rights reserved
-	Copyright 1998 by the Massachusetts Institute of Technology. * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby g
-	Copyright 2005 Dominick Meglio * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided that the abov
-	Copyright (C) 2009-2013 by Daniel Stenberg * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided t
-	Copyright 2002 Sun Microsystems, Inc. ALL RIGHTS RESERVED
-	Copyright 2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright (C) 1995-2003 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h *
-	&copy);                assert(ret == Z_OK);        err = 9;                        /* don't care next time around */        have += strm.avail_in;        strm.avail_in = step > have ? have : step;
-	&copy) != 0)    uint16_t type;    CBS data;
-	Copyright 1995-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (C) 2003, 2012 Mark Adler, all rights reserved
-	copyright conditions above. * * This version (Jan-23-2003) of inflate_fast was coded and tested under * GNU/Linux on a pentium 3, using the gcc-3.2 compiler distribution.  On that * machine, I fou
-	Copyright 2015-2016 gRPC authors.
-	Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
-	Copyright (C) 2009 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provided * 
-	Copyright (c) Henrik Ravn 2004Use, modification and distribution are subject to the Boost Software License, Version 1.0.
-	Copyright (C) 1998 by Jacques Nomssi Nzali. * For conditions of distribution and use, see copyright notice in readme.txt * * Adaptation to the zlibpas interface
-	Copyright (C) 1995-2003 Jean-loup Gailly and Mark Adler.
-	Copyright (C) 2004 - 2011 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, pr
-	Copyright 2015[The gRPC Authors](https://github.com/grpc/grpc/blob/master/AUTHORS)
-	Copyright (c) 2000-2005 The OpenSSL Project.  All rights reserved
-	Copyright (c) 2000-2002 The OpenSSL Project.  All rights reserved
-	Copyright (C) 2009-2013 by Daniel Stenberg et al
-	Copyright (C) 1995-2003 Mark Adler * For conditions of distribution and use, see copyright notice in zlib.h *
-	Copyright (c) 2000-2003 The OpenSSL Project.  All rights reserved
-	Copyright (C) 1995-2006, 2010, 2011, 2016 Jean-loup Gailly * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright 2009, Google Inc.// All rights reserved
-	Copyright (C) 2007, 2008, 2012 Mark Adler * Version 1.4  18 August 2012  Mark Adler */
-	copyright string in the executable of your product. */
-	Copyright (C) 2003 Cosmin Truta. * Derived from original sources by Bob Dellaca. * For conditions of distribution and use, see copyright notice in readme.txt *)
-	Copyright (C) 1995-2017 Jean-loup Gailly * detect_data_type() function provided freely by Cosmin Truta, 2006 * For conditions of distribution and use, see copyright notice in zlib.h */
-	Copyright (c) 1996 L. Peter Deutsch and Jean-Loup Gailly
-	Copyright (C) 2012 Marko Kreen <markokr@gmail.com> * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, pr
-	Copyright 2012 The Go Authors. All rights reserved
-	&copy, &sct_list)
-	Copyright (c) 2001-2011 The OpenSSL Project.  All rights reserved
-	Copyright (c) 2014, Intel Corporation.
-	Copyright (c) 2014, Pavel RojtbergAll rights reserved
-	Copyright 2007 Neal Norwitz
-	Copyright (C) 2009 - 2013 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provi
-	&copy, &strm);            assert(ret == Z_MEM_ERROR);    mem_limit(&strm, 0);    ret = inflateUndermine(&strm, 1);           assert(ret == Z_DATA_ERROR);    (void)inflateMark(&strm);    ret = infl
-	Copyright (C) 2002-2013 Mark Adler * For conditions of distribution and use, see copyright notice in puff.h * version 2.3, 21 Jan 2013 * * puff.c is a simple inflate written to be an unambiguous w
-	Copyright 2009 Google Inc. All rights reserved
-	Copyright 2009 Kitware, Inc.
-	Copyright (C) 2003, 2012 Mark Adler\n"               );        printf(            "usage: gzappend [-level] file.gz [ addthis [ andthis ... ]]\n");        return 0;
-	Copyright (C) 1995-1997 Eric Young (eay@cryptsoft.com) * All rights reserved
-	copyright to help *                      - Send help to stdout instead of stderr *                      - Add some preemptive typecasts *                      - Add L to constants in lseek() calls
-	Copyright (c) 2011 Daniel Stenberg <daniel@haxx.se>
-	Copyright (C) 2008 by Daniel Stenberg et al * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provided * 
-	Copyright (C) 2005 by Dominick Meglio * * Permission to use, copy, modify, and distribute this * software and its documentation for any purpose and without * fee is hereby granted, provided that t
-	Copyright (c) 2004 Kungliga Tekniska H * (Royal Institute of Technology, Stockholm, Sweden). * All rights reserved
-	Copyright (C) 2005 - 2010, Daniel Stenberg * * Permission to use, copy, modify, and distribute this software and its * documentation for any purpose and without fee is hereby granted, provided * t
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1
 	Copyright (C) 2018 The Guava Authors * * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except * in compliance with the License. You may obtain a copy of 
 	Copyright (C) 2018 The Guava Authors<a name="line.2"></a><span class="sourceLineNo">003</span> *<a name="line.3"></a><span class="sourceLineNo">004</span> * Licensed under the Apache License, Versio
@@ -5659,19 +5338,6 @@ libevent 2.1.8
 	Copyright (C) 2004-2015 Free Software Foundation, Inc.# This is free software; see the source for copying conditions.  There is NO# warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR
 	Copyright (c) 2007-2013 Niels Provos and Nick Mathewson * * Redistribution and use in source and binary forms, with or without * modification, are permitted provided that the following conditions 
 	Copyright (c) 2000-2007 Niels Provos <provos@citi.umich.edu> * All rights reserved
-libgrpc-dev 1.12.0
-	Copyright: Copyright (c) 2011 Petteri Aimonen <jpa at nanopb.mail.kapsi.fi>License: Zlib This software is provided 'as-is', without any express or implied warranty. In no event will the authors be 
-	copyright-format/1.0/Upstream-Name: grpcSource: https://github.com/grpc/grpc/archive/v1.3.2.tar.gz
-	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright: 1998, 1999, 2000 Thai Open Source Software Center Ltd  2015 Lars KanisLicense: Expat MIT License .  Permission is hereby granted, free of charge, to any person obtaining a copy of thi
-	Copyright 2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright: 2014, Google Inc.License: Apache-2.0
-	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright: 2008, Google Inc.  2015, Google Inc.  2015-2016, Google Inc.  2016, Google Inc.  2017, Google Inc.  Esben Mose Hansen, Ange Optimization ApS  2009, Kitware, Inc.  2009-2011, Philip L
-	Copyright 2015-2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of 
-	Copyright: 1980, 1982, 1983, 1986, 1987, 1988, 1989, 1993 The Regents of the University of California 1992, 1993, 1994 Henry Spencer 1993 John Brezak 1993 Martin Birgmeier 1993, 2004 Sun Microsyst
-	Copyright: 2015-2016 Andrew Pollock <apollock@debian.org>           2017-     Laszlo Boszormenyi (GCS) <gcs@debian.org>License: GPL-2+ This package is free software; you can redistribute it and/or 
-	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 Lo-Dash 3.3.0
 	Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/> * Based on Underscore.js 1.7.0 <http://underscorejs.org/LICENSE>
 	Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>
@@ -6722,7 +6388,7 @@ Zone.js v0.9.1
 Licenses: 
 
 Apache License 2.0
-([ini4j] 0.5.4, algebricks-common 0.3.4.1, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-data 0.3.4.1, algebricks-rewriter 0.3.2, algebricks-runtime 0.3.4.1, Apache Commons Codec 1.13, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.18, Apache Commons Compress 1.19, Apache Commons CSV commons-csv-1.8, Apache Commons Lang 2.4, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient 4.5.10, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.12, Apache HttpComponents Core 4.4.13, Apache log4j 2.12.1, Apache log4j 2.13.1, Apache Log4j JUL Adapter 2.12.1, Apache Log4j JUL Adapter 2.13.1, Apache Log4j Web Adapters 2.12.1, Apache Log4j Web Adapters 2.13.1, asterix-active 0.9.4.1, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-common 0.9.4.1, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-sqlpp 0.9.4.1, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-transactions 0.9.4.1, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, AWS SDK for Go 20200407-snapshot, AWS SDK for Go 20200427-snapshot, AWS SDK for Go v1.26.8, AWS SDK for Go v1.27.1, Azure-azure-sdk-for-go v30.0.0, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.5, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, census-instrumentation/opencensus-go 20191225-snapshot, client-go v0.17.0, client_golang 20200325-snapshot, cloud.google.com/go v0.40.0, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase 6.5.0, Couchbase JVM Core IO 1.7.10, Couchbase JVM Core IO 1.7.13, couchbase/gocbcore v9.0.0, couchbase/moss v0.1.0, couchbase/vellum v1.0.1, couchbaselabs/gocbconnstr v1.0.5, docker-cli 20180417-snapshot, erlang 20.3.8.20, erlang-base 20.0.4, error-prone annotations 2.3.2, error-prone annotations 2.3.4, Facebook Folly v2019.04.01.00, fastutil 8.3.0, FlatBuffers 1.5.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, go-openapi/analysis 20190716-snapshot, go-openapi/errors 20200314-snapshot, go-openapi/jsonpointer 20190716-snapshot, go-openapi/loads 20190716-snapshot, go-openapi/spec 20190716-snapshot, go-openapi/validate v0.19.0, golang-github-aws-aws-sdk-go 1.27.4, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang/appengine 20190508-snapshot, golang/glog 20190106-snapshot, google-gofuzz 20200419-snapshot, google/go-genproto 20200318-snapshot-d950eab6, googleapis/gnostic 20190408-snapshot, gophercloud/gophercloud 20181202-snapshot-464bad03, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go 20200214-snapshot, grpc-go v1.17.0, grpcio 1.9.0rc2, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.1-jre, Guava: Google Core Libraries for Java 28.2-jre, hadoop-common 2.10.0, hyracks-api 0.3.4.1, hyracks-client 0.3.4.1, hyracks-comm 0.3.4.1, hyracks-control-cc 0.3.4.1, hyracks-control-common 0.3.4.1, hyracks-control-nc 0.3.4.1, hyracks-data-std 0.3.4.1, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-net 0.3.4.1, hyracks-storage-am-bloomfilter 0.3.4.1, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-invertedindex 0.3.4.1, hyracks-storage-am-lsm-rtree 0.3.4.1, hyracks-storage-am-rtree 0.3.4.1, hyracks-storage-common 0.3.4.1, hyracks-util 0.3.4.1, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20181015-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.0, jackson-core 2.10.3, jackson-databind 2.10.0, jackson-databind 2.10.3, jmespath-go-jmespath c2b33e84, jsonreference 20190716-snapshot, k8s.io/klog 20190415-snapshot, k8s.io/kube-openapi 20190429-snapshot, k8s.io/utils 20200305-snapshot, krestenkrab's triq 20151018-snapshot-c7306b8e, kubernetes/api kubernetes-1.16.2, kubernetes/apimachinery 20190617-snapshot, libcouchbase 2.10.6, Log4J API 2.12.1, Log4J API 2.13.1, Log4J Commons Logging 2.12.1, Log4J Commons Logging 2.13.1, matttproud-golang_protobuf_extensions 20181101-snapshot, meck 0.8.5, modern-go/concurrent 20190420-snapshot, modern-go/reflect2 20190422-snapshot, mongodb/mongo-go-driver 20190411-snapshot-618b23f5, mwitkow/go-conntrack 20190131-snapshot, Netty Project 4.1.46.Final, Netty Project netty-4.1.42.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.43.Final, Netty/Codec/SMTP 4.1.42.Final, Netty/Codec/SMTP 4.1.46.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.26.Final, oklog/run 20200409-snapshot, oklog/ulid 20190424-snapshot, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go 20200414-snapshot, opentracing-opentracing-go v1.0.2, Prometheus Monitoring v2.11.0, prometheus-client_model 20200402-snapshot, prometheus-common 20200330-snapshot, prometheus-procfs 20200210-snapshot, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, RxJS 6.5.3, SLF4J Binding 2.12.1, SLF4J Binding 2.13.1, snappy-java 1.1.7.1, soheilhy/cmux 20200110-snapshot, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, strfmt 20190716-snapshot, swag v0.19.4, tpcds 1.2, tslib 1.11.1, yaml for Go 20200228-snapshot)
+([ini4j] 0.5.4, algebricks-common 0.3.4.1, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-data 0.3.4.1, algebricks-rewriter 0.3.2, algebricks-runtime 0.3.4.1, Apache Commons Codec 1.13, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.18, Apache Commons Compress 1.19, Apache Commons CSV commons-csv-1.8, Apache Commons Lang 2.4, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient 4.5.10, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.12, Apache HttpComponents Core 4.4.13, Apache log4j 2.12.1, Apache log4j 2.13.1, Apache Log4j JUL Adapter 2.12.1, Apache Log4j JUL Adapter 2.13.1, Apache Log4j Web Adapters 2.12.1, Apache Log4j Web Adapters 2.13.1, asterix-active 0.9.4.1, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-common 0.9.4.1, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-sqlpp 0.9.4.1, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-transactions 0.9.4.1, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, AWS SDK for Go 20200407-snapshot, AWS SDK for Go 20200427-snapshot, AWS SDK for Go v1.26.8, AWS SDK for Go v1.27.1, Azure-azure-sdk-for-go v30.0.0, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.5, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, census-instrumentation/opencensus-go 20191225-snapshot, client-go v0.17.0, client_golang 20200325-snapshot, cloud.google.com/go v0.40.0, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase 6.5.0, Couchbase JVM Core IO 1.7.10, Couchbase JVM Core IO 1.7.13, couchbase/gocbcore v9.0.0, couchbase/moss v0.1.0, couchbase/vellum v1.0.1, couchbaselabs/gocbconnstr v1.0.5, docker-cli 20180417-snapshot, erlang 20.3.8.20, erlang-base 20.0.4, error-prone annotations 2.3.2, error-prone annotations 2.3.4, Facebook Folly v2019.04.01.00, fastutil 8.3.0, FlatBuffers 1.5.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, go-openapi/analysis 20190716-snapshot, go-openapi/errors 20200314-snapshot, go-openapi/jsonpointer 20190716-snapshot, go-openapi/loads 20190716-snapshot, go-openapi/spec 20190716-snapshot, go-openapi/validate v0.19.0, golang-github-aws-aws-sdk-go 1.27.4, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang/appengine 20190508-snapshot, golang/glog 20190106-snapshot, google-gofuzz 20200419-snapshot, google/go-genproto 20200318-snapshot-d950eab6, googleapis/gnostic 20190408-snapshot, gophercloud/gophercloud 20181202-snapshot-464bad03, goskiplist 20170622-snapshot, grpc 1.26.0, grpc 1.28.1, grpc-go 20200214-snapshot, grpc-go v1.17.0, grpcio 1.28.0rc1, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.1-jre, Guava: Google Core Libraries for Java 28.2-jre, hadoop-common 2.10.0, hyracks-api 0.3.4.1, hyracks-client 0.3.4.1, hyracks-comm 0.3.4.1, hyracks-control-cc 0.3.4.1, hyracks-control-common 0.3.4.1, hyracks-control-nc 0.3.4.1, hyracks-data-std 0.3.4.1, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-net 0.3.4.1, hyracks-storage-am-bloomfilter 0.3.4.1, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-invertedindex 0.3.4.1, hyracks-storage-am-lsm-rtree 0.3.4.1, hyracks-storage-am-rtree 0.3.4.1, hyracks-storage-common 0.3.4.1, hyracks-util 0.3.4.1, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20181015-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.0, jackson-core 2.10.3, jackson-databind 2.10.0, jackson-databind 2.10.3, jmespath-go-jmespath c2b33e84, jsonreference 20190716-snapshot, k8s.io/klog 20190415-snapshot, k8s.io/kube-openapi 20190429-snapshot, k8s.io/utils 20200305-snapshot, krestenkrab's triq 20151018-snapshot-c7306b8e, kubernetes/api kubernetes-1.16.2, kubernetes/apimachinery 20190617-snapshot, libcouchbase 2.10.6, Log4J API 2.12.1, Log4J API 2.13.1, Log4J Commons Logging 2.12.1, Log4J Commons Logging 2.13.1, matttproud-golang_protobuf_extensions 20181101-snapshot, meck 0.8.5, modern-go/concurrent 20190420-snapshot, modern-go/reflect2 20190422-snapshot, mongodb/mongo-go-driver 20190411-snapshot-618b23f5, mwitkow/go-conntrack 20190131-snapshot, Netty Project 4.1.46.Final, Netty Project netty-4.1.42.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.43.Final, Netty/Codec/SMTP 4.1.42.Final, Netty/Codec/SMTP 4.1.46.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.26.Final, oklog/run 20200409-snapshot, oklog/ulid 20190424-snapshot, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go 20200414-snapshot, opentracing-opentracing-go v1.0.2, Prometheus Monitoring v2.11.0, prometheus-client_model 20200402-snapshot, prometheus-common 20200330-snapshot, prometheus-procfs 20200210-snapshot, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, RxJS 6.5.3, SLF4J Binding 2.12.1, SLF4J Binding 2.13.1, snappy-java 1.1.7.1, soheilhy/cmux 20200110-snapshot, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, strfmt 20190716-snapshot, swag v0.19.4, tpcds 1.2, tslib 1.11.1, yaml for Go 20200228-snapshot)
 
 Apache License
 Version 2.0, January 2004
@@ -8026,41 +7692,6 @@ Redistribution and use in source and binary forms, with or without
      * Neither the name of Google Inc. nor the names of its
        contributors may be used to endorse or promote products derived from
        this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(libgrpc-dev 1.12.0)
-
-License: BSD-3-clause
- All rights reserved.
- .
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-     * Redistributions of source code must retain the above copyright
- notice, this list of conditions and the following disclaimer.
-     * Redistributions in binary form must reproduce the above
- copyright notice, this list of conditions and the following disclaimer
- in the documentation and/or other materials provided with the
- distribution.
-     * Neither the name of the company nor the names of its contributors
- may be used to endorse or promote products derived from this
- software without specific prior written permission.
  .
  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
