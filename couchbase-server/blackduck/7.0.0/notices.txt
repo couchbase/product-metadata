@@ -184,7 +184,7 @@ Go Testify v1.3.0 : MIT License
 go-immutable-radix 20191014-snapshot : Mozilla Public License 2.0
 go-jsonpointer 20160814-snapshot-ba0abeac : MIT License
 go-kit-kit 20200311-snapshot : MIT License
-go-logfmt-logfmt 20200311-snapshot : MIT License
+go-logfmt-logfmt 20200511-snapshot : MIT License
 go-metrics master-efc2659 : BSD 2-clause "Simplified" License
 go-ole-go-ole 20180311-snapshot-1a4e6872 : MIT License
 go-ole-go-ole v1.2.3 : MIT License
@@ -233,11 +233,12 @@ golang.org/x/mod 20200409-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20170911-snapshot-66aacef3 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180223-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20190503-snapshot : BSD 3-clause "New" or "Revised" License
-golang.org/x/net 20200430-snapshot : BSD 3-clause "New" or "Revised" License
+golang.org/x/net 20200514-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 20200311-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync 20200307-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20200424-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/text 20171230-snapshot : BSD 3-clause "New" or "Revised" License
+golang.org/x/text 20200502-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/time 20191113-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools 20181107-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
@@ -311,7 +312,7 @@ jemalloc 5.1.0 : BSD 3-clause "New" or "Revised" License
 jmespath-go-jmespath c2b33e84 : Apache License 2.0
 jpillora-backoff 20200501-snapshot : MIT License
 js-beautify 1.10.3 : MIT License
-jsonreference 20190716-snapshot : Apache License 2.0
+jsonreference 20200509-snapshot : Apache License 2.0
 julienschmidt/httprouter 20170430-snapshot-975b5c4c : BSD 3-clause "New" or "Revised" License
 julienschmidt/httprouter 20190211-snapshot : BSD 3-clause "New" or "Revised" License
 jwt-go 20190425-snapshot : MIT License
@@ -362,6 +363,7 @@ ocLazyLoad 1.1.0 : MIT License
 oklog/run 20200409-snapshot : Apache License 2.0
 oklog/ulid 20190424-snapshot : Apache License 2.0
 olekukonko/ts 0.0~git20140412.0.ecf753e : MIT License
+OpenSSL 1.1.1b : (SSLeay License AND OpenSSL License)
 OpenSSL 1.1.1d : (SSLeay License AND OpenSSL License)
 OpenTracing API 0.31.0 : Apache License 2.0
 opentracing-contrib/go-stdlib 20190620-snapshot-cf7a6c98 : MIT License
@@ -382,6 +384,7 @@ pierrec-xxHash 20180819-snapshot : BSD 3-clause "New" or "Revised" License
 pkg/errors 20180417-snapshot-30136e27 : BSD 2-clause "Simplified" License
 pkg/errors 20200124-snapshot : BSD 2-clause "Simplified" License
 pmezard-go-difflib 1.0.0 : BSD 3-clause "New" or "Revised" License
+podman 1.8.3 : Apache License 2.0
 Prometheus Monitoring v2.11.0 : Apache License 2.0
 prometheus-client_model 20200402-snapshot : Apache License 2.0
 prometheus-common 20200330-snapshot : Apache License 2.0
@@ -417,7 +420,7 @@ StackExchange-wmi 1.0.0 : MIT License
 StackExchange-wmi 1.1.0 : MIT License
 steveyen-gtreap 0.0~git20150807.0.0abe01e : MIT License
 strfmt 20190716-snapshot : Apache License 2.0
-swag v0.19.4 : Apache License 2.0
+swag 20200502-snapshot : Apache License 2.0
 talentdeficit's jsx v0.9.0 : MIT License
 tdewolff-buffer v1.0.0 : MIT License
 tdewolff-minify v1.1.0 : MIT License
@@ -2492,8 +2495,6 @@ jbcrypt 0.4
 	Copyright &#169; 2017. All rights reserved
 jmespath-go-jmespath c2b33e84
 	Copyright 2015 James Saryerwinnie
-jsonreference 20190716-snapshot
-	Copyright 2013 sigu-399 ( https://github.com/sigu-399 )
 julienschmidt/httprouter 20170430-snapshot-975b5c4c
 	Copyright 2009 The Go Authors.// Use of this source code is governed by a BSD-style license that can be found// in the LICENSE file.
 	Copyright (c) 2013 Julien Schmidt. All rights reserved
@@ -5316,146 +5317,6 @@ olekukonko/ts 0.0~git20140412.0.ecf753e
 	Copyright: 2014 Oleku KonkoLicense: Expat
 	Copyright: 2017 Stephen Gelman <ssgelm@gmail.com>License: ExpatComment: Debian packaging is licensed under the same terms as upstream
 	copyright-format/1.0/Upstream-Name: tsSource: https://github.com/olekukonko/ts
-OpenSSL 1.1.1d
-	Copyright 1999-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2014-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright remains Eric Young * the code are not to be removed. * If this package is used in a product, Eric Young should be given attribution * as the author of the parts of the library used. * Th
-	Copyright 2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2008-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2002-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2012, Intel Corporation. All Rights Reserved
-	Copyright 2003-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2002-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (C) 19yy  <name of author>
-	Copyright 2001-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2014-2016 Cryptography Research, Inc. * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy *
-	Copyright 1999-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2007-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2013-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 1998-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2012-2016 Jean-Philippe Aumasson
-	Copyright (c) 2017, Oracle and/or its affiliates.  All rights reserved
-	Copyright (c) 2004, EdelKey Project. All Rights Reserved
-	Copyright 2015-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2006-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2004-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (C) 2017 National Security Research Institute. All Rights Reserved
-	Copyright 2016-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2014-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2015-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2005-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (C) 2006, Network Resonance, Inc. Copyright (C) 2011, RTFM, Inc. */
-	Copyright 2006-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2003-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2008 Andy Polyakov <appro@openssl.org>
-	Copyright 200 * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in the file LICENSE in the source di
-	Copyright (c) 1995-1998 Eric A. Young, Tim J. Hudson
-	Copyright (c) 1998-2019 The OpenSSL Project
-	Copyright 1995-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2012-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2006 NTT (Nippon Telegraph and Telephone Corporation) . * ALL RIGHTS RESERVED
-	Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com) * All rights reserved
-	Copyright (c) 1998-2004 The OpenSSL Project
-	Copyright 2000-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2011-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 199 * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in the file LICENSE in the source di
-	Copyright 2016-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2004-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2013 Mark Jason Dominus
-	Copyright (c) 2004, Richard Levitte <richard@levitte.org> * All rights reserved
-	Copyright 2016-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2007 KISA(Korea Information Security Agency). All rights reserved
-	Copyright 2005-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2018-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2010-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2017 Ribose Inc. All Rights Reserved
-	Copyright 2014 Cryptography Research, Inc. * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in t
-	Copyright 2003-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2004-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2015-2016 Cryptography Research, Inc. * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy *
-	Copyright 2012-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2011-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2016 VMS Software, Inc. All Rights Reserved
-	Copyright 2007-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2006-2018 The OpenSSL Project Authors. All Rights Reserved
-	copyright or	copyrights for the package.
-	Copyright (c) 2015 CloudFlare, Inc.
-	Copyright 2001-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2005 Nokia. All rights reserved
-	Copyright 2002-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2009-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2015-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2012, Samuel Neves <sneves@dei.uc.pt> * More information about the BLAKE2 hash function and its implementations * can be found at https://blake2.net. */
-	Copyright 2008-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2014-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2014-2016 The OpenSSL Project Authors. All Rights Reserved
-	copyright:stringz	"Montgomery multiplication for IA-64, CRYPTOGAMS by <appro\@openssl.org>"___
-	Copyright 1999-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2015 Cryptography Research, Inc. * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in t
-	Copyright 2013-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 1998-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2007-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2008-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2013 M. J. Dominus.# You may copy and distribute this program under the# same terms as Perl iteself.  # If in doubt, write to mjd-perl-template+@plover.com for a license.
-	Copyright 2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 1998-2004 The OpenSSL Project.  All rights reserved
-	Copyright 1998-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2011 Google Inc. * * Licensed under the Apache License, Version 2.0 (the "License");
-	Copyright 2012-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2017 National Security Research Institute.  All rights reserved
-	Copyright 2013-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2000-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 1995-2016 The OpenSSL Project Authors. All Rights Reserved
-	copyright of this Package, but belong to whoever generatedthem, and may be sold commercially, and may be aggregated with thisPackage.  If such scripts or library files are aggregated with thisPacka
-	Copyright 2001-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2009-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 199 * * Licensed under the OpenSSL license (the \"License\").  You may not use * this file except in compliance with the License.  You can obtain a copy * in the file LICENSE in the sour
-	Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved
-	Copyright 2000-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2004, 2018, Richard Levitte <richard@levitte.org> * All rights reserved
-	Copyright (c) 2013-2014 Timo Ter * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in the file LI
-	Copyright 2016 Cryptography Research, Inc. * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in t
-	Copyright 2006-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2017-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2005-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2011-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2002, Oracle and/or its affiliates. All rights reserved
-	Copyright 200 * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in the file LICENSE in the source
-	Copyright (c) 2014, Intel Corporation. All Rights Reserved
-	Copyright (c) 2016 Viktor Dukhovni <openssl-users@dukhovni.org>.# All rights reserved
-	Copyright (C) 1989, 1991 Free Software Foundation, Inc.                          59 Temple Place - Suite 330, Boston, MA                          02111-1307, USA. Everyone is permitted to copy and 
-	Copyright (C) 19yy name of author    Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.    This is free software, and you are welcome to redistribute it    under certain cond
-	Copyright 1995-2018 The OpenSSL Project Authors. All Rights Reserved
-	copyright} : {#     replace years yyyy-zzzz (or year yyyy) by yyyy-#     replace repeated years yyyy-yyyy by yyyy#   }
-	Copyright 1998-2001 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2010-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2004-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2005-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2012-2014 Daniel J. Bernstein
-	Copyright 2011-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2010-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2015, CloudFlare, Inc. * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in the fil
-	Copyright 2000-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 199            //VALUE "LegalTrademarks", "\\0"            //VALUE "PrivateBuild", "\\0"            //VALUE "SpecialBuild", "\\0"        END    END    BLOCK "VarFileInfo"    BEGIN   
-	Copyright 1995-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2001-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright (c) 2018, Oracle and/or its affiliates.  All rights reserved
-	Copyright 2012-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2009-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 1998-2016 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2013-2017 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2017-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 2002-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 1999-2019 The OpenSSL Project Authors. All Rights Reserved
-	Copyright 199 * * Licensed under the OpenSSL license (the "License").  You may not use * this file except in compliance with the License.  You can obtain a copy * in the file LICENSE in the source
-	Copyright (c) 1995-1998 Eric A. Young, Tim J. Hudson All rights reserved
-	Copyright 2015-2018 The OpenSSL Project Authors. All Rights Reserved
-	Copyright Patrick Powell 1995 * This code is based on code written by Patrick Powell <papowell@astart.com> * It may be used for any purpose as long as this notice remains intact * on all source cod
-	Copyright 2004-2014, Akamai Technologies. All Rights Reserved
-	Copyright 2017 BaishanCloud. All rights reserved
-	Copyright (c) 2004 Kungliga Tekniska H * (Royal Institute of Technology, Stockholm, Sweden). * All rights reserved
 OpenTracing API 0.31.0
 	Copyright 2016-2018 The OpenTracing Authors * * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except * in compliance with the License. You may obtain a c
 	Copyright 2016-2018 The OpenTracing Authors
@@ -6076,8 +5937,6 @@ steveyen-gtreap 0.0~git20150807.0.0abe01e
 	Copyright: 2012 Steve YenLicense: Expat
 strfmt 20190716-snapshot
 	Copyright 2015 go-swagger maintainers
-swag v0.19.4
-	Copyright 2015 go-swagger maintainers
 talentdeficit's jsx v0.9.0
 	Copyright (c) 2010 Alisdair Sullivan <alisdairsullivan@yahoo.ca>
 	copyright 2010 Alisdair Sullivan%% @version 0.9.0%% @doc this module defines the interface to the jsx json parsing library
@@ -6228,7 +6087,7 @@ Zone.js v0.9.1
 Licenses: 
 
 Apache License 2.0
-([ini4j] 0.5.4, algebricks-common 0.3.4.1, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-data 0.3.4.1, algebricks-rewriter 0.3.2, algebricks-runtime 0.3.4.1, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.18, Apache Commons Compress 1.19, Apache Commons CSV commons-csv-1.8, Apache Commons Lang 2.4, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.13, Apache log4j 2.13.1, Apache Log4j JUL Adapter 2.13.1, Apache Log4j Web Adapters 2.13.1, asterix-active 0.9.4.1, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-common 0.9.4.1, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-sqlpp 0.9.4.1, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-transactions 0.9.4.1, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, AWS SDK for Go 20200407-snapshot, AWS SDK for Go 20200427-snapshot, AWS SDK for Go v1.26.8, AWS SDK for Go v1.27.1, Azure-azure-sdk-for-go v30.0.0, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.5, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, census-instrumentation/opencensus-go 20191225-snapshot, client-go v0.17.0, client_golang 20200325-snapshot, cloud.google.com/go v0.40.0, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase 6.5.0, Couchbase JVM Core IO 1.7.10, Couchbase JVM Core IO 1.7.14, couchbase/gocbcore v9.0.0, couchbase/moss v0.1.0, couchbase/vellum v1.0.1, couchbaselabs/gocbconnstr v1.0.5, docker-cli 20180417-snapshot, erlang 20.3.8.20, erlang-base 20.0.4, error-prone annotations 2.3.4, Facebook Folly v2019.04.01.00, fastutil 8.3.0, FlatBuffers 1.5.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, go-openapi/analysis 20190716-snapshot, go-openapi/errors 20200314-snapshot, go-openapi/jsonpointer 20190716-snapshot, go-openapi/loads 20190716-snapshot, go-openapi/spec 20190716-snapshot, go-openapi/validate v0.19.0, golang-github-aws-aws-sdk-go 1.27.4, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang/appengine 20190508-snapshot, golang/glog 20190106-snapshot, google-gofuzz 20200419-snapshot, google/go-genproto 20200318-snapshot-d950eab6, googleapis/gnostic 20190408-snapshot, gophercloud/gophercloud 20181202-snapshot-464bad03, goskiplist 20170622-snapshot, grpc 1.26.0, grpc 1.28.1, grpc-go 20200214-snapshot, grpc-go v1.17.0, grpcio 1.28.0rc1, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.2-jre, hadoop-common 2.10.0, hyracks-api 0.3.4.1, hyracks-client 0.3.4.1, hyracks-comm 0.3.4.1, hyracks-control-cc 0.3.4.1, hyracks-control-common 0.3.4.1, hyracks-control-nc 0.3.4.1, hyracks-data-std 0.3.4.1, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-net 0.3.4.1, hyracks-storage-am-bloomfilter 0.3.4.1, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-invertedindex 0.3.4.1, hyracks-storage-am-lsm-rtree 0.3.4.1, hyracks-storage-am-rtree 0.3.4.1, hyracks-storage-common 0.3.4.1, hyracks-util 0.3.4.1, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20181015-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.3, jackson-databind 2.10.3, jmespath-go-jmespath c2b33e84, jsonreference 20190716-snapshot, k8s.io/klog 20190415-snapshot, k8s.io/kube-openapi 20190429-snapshot, k8s.io/utils 20200305-snapshot, krestenkrab's triq 20151018-snapshot-c7306b8e, kubernetes/api kubernetes-1.16.2, kubernetes/apimachinery 20190617-snapshot, libcouchbase 2.10.6, Log4J API 2.13.1, Log4J Commons Logging 2.13.1, matttproud-golang_protobuf_extensions 20181101-snapshot, meck 0.8.5, modern-go/concurrent 20190420-snapshot, modern-go/reflect2 20190422-snapshot, mongodb/mongo-go-driver 20190411-snapshot-618b23f5, mwitkow/go-conntrack 20190131-snapshot, Netty Project 4.1.46.Final, Netty Project 4.1.48.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.43.Final, Netty/Codec/SMTP 4.1.46.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, oklog/run 20200409-snapshot, oklog/ulid 20190424-snapshot, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go 20200414-snapshot, opentracing-opentracing-go v1.0.2, Prometheus Monitoring v2.11.0, prometheus-client_model 20200402-snapshot, prometheus-common 20200330-snapshot, prometheus-procfs 20200210-snapshot, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, RxJS 6.5.3, SLF4J Binding 2.13.1, snappy-java 1.1.7.1, soheilhy/cmux 20200110-snapshot, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, strfmt 20190716-snapshot, swag v0.19.4, tpcds 1.2, tslib 1.11.1, yaml for Go 20200228-snapshot)
+([ini4j] 0.5.4, algebricks-common 0.3.4.1, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-data 0.3.4.1, algebricks-rewriter 0.3.2, algebricks-runtime 0.3.4.1, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.18, Apache Commons Compress 1.19, Apache Commons CSV commons-csv-1.8, Apache Commons Lang 2.4, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.13, Apache log4j 2.13.1, Apache Log4j JUL Adapter 2.13.1, Apache Log4j Web Adapters 2.13.1, asterix-active 0.9.4.1, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-common 0.9.4.1, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-sqlpp 0.9.4.1, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-transactions 0.9.4.1, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, AWS SDK for Go 20200407-snapshot, AWS SDK for Go 20200427-snapshot, AWS SDK for Go v1.26.8, AWS SDK for Go v1.27.1, Azure-azure-sdk-for-go v30.0.0, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.5, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, census-instrumentation/opencensus-go 20191225-snapshot, client-go v0.17.0, client_golang 20200325-snapshot, cloud.google.com/go v0.40.0, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase 6.5.0, Couchbase JVM Core IO 1.7.10, Couchbase JVM Core IO 1.7.14, couchbase/gocbcore v9.0.0, couchbase/moss v0.1.0, couchbase/vellum v1.0.1, couchbaselabs/gocbconnstr v1.0.5, docker-cli 20180417-snapshot, erlang 20.3.8.20, erlang-base 20.0.4, error-prone annotations 2.3.4, Facebook Folly v2019.04.01.00, fastutil 8.3.0, FlatBuffers 1.5.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, go-openapi/analysis 20190716-snapshot, go-openapi/errors 20200314-snapshot, go-openapi/jsonpointer 20190716-snapshot, go-openapi/loads 20190716-snapshot, go-openapi/spec 20190716-snapshot, go-openapi/validate v0.19.0, golang-github-aws-aws-sdk-go 1.27.4, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang/appengine 20190508-snapshot, golang/glog 20190106-snapshot, google-gofuzz 20200419-snapshot, google/go-genproto 20200318-snapshot-d950eab6, googleapis/gnostic 20190408-snapshot, gophercloud/gophercloud 20181202-snapshot-464bad03, goskiplist 20170622-snapshot, grpc 1.26.0, grpc 1.28.1, grpc-go 20200214-snapshot, grpc-go v1.17.0, grpcio 1.28.0rc1, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.2-jre, hadoop-common 2.10.0, hyracks-api 0.3.4.1, hyracks-client 0.3.4.1, hyracks-comm 0.3.4.1, hyracks-control-cc 0.3.4.1, hyracks-control-common 0.3.4.1, hyracks-control-nc 0.3.4.1, hyracks-data-std 0.3.4.1, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-net 0.3.4.1, hyracks-storage-am-bloomfilter 0.3.4.1, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-invertedindex 0.3.4.1, hyracks-storage-am-lsm-rtree 0.3.4.1, hyracks-storage-am-rtree 0.3.4.1, hyracks-storage-common 0.3.4.1, hyracks-util 0.3.4.1, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20181015-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.3, jackson-databind 2.10.3, jmespath-go-jmespath c2b33e84, jsonreference 20200509-snapshot, k8s.io/klog 20190415-snapshot, k8s.io/kube-openapi 20190429-snapshot, k8s.io/utils 20200305-snapshot, krestenkrab's triq 20151018-snapshot-c7306b8e, kubernetes/api kubernetes-1.16.2, kubernetes/apimachinery 20190617-snapshot, libcouchbase 2.10.6, Log4J API 2.13.1, Log4J Commons Logging 2.13.1, matttproud-golang_protobuf_extensions 20181101-snapshot, meck 0.8.5, modern-go/concurrent 20190420-snapshot, modern-go/reflect2 20190422-snapshot, mongodb/mongo-go-driver 20190411-snapshot-618b23f5, mwitkow/go-conntrack 20190131-snapshot, Netty Project 4.1.46.Final, Netty Project 4.1.48.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.43.Final, Netty/Codec/SMTP 4.1.46.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, oklog/run 20200409-snapshot, oklog/ulid 20190424-snapshot, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go 20200414-snapshot, opentracing-opentracing-go v1.0.2, podman 1.8.3, Prometheus Monitoring v2.11.0, prometheus-client_model 20200402-snapshot, prometheus-common 20200330-snapshot, prometheus-procfs 20200210-snapshot, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, RxJS 6.5.3, SLF4J Binding 2.13.1, snappy-java 1.1.7.1, soheilhy/cmux 20200110-snapshot, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, strfmt 20190716-snapshot, swag 20200502-snapshot, tpcds 1.2, tslib 1.11.1, yaml for Go 20200228-snapshot)
 
 Apache License
 Version 2.0, January 2004
@@ -7274,7 +7133,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(alecthomas-template 20191209-snapshot, Chromium (Google Chrome) 81.0.4044.62, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-shape v1.3.7, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, edsrzf/mmap-go 20200407-snapshot, fsnotify-fsnotify 20191030-snapshot, Go programming language gopls/v0.4.0-pre2, go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20171002-snapshot-eb71ad9b, golang.org/x/lint 20191205-snapshot, golang.org/x/mod 20200409-snapshot, golang.org/x/net 20180223-snapshot, golang.org/x/net 20200430-snapshot, golang.org/x/oauth2 20200311-snapshot, golang.org/x/sync 20200307-snapshot, golang.org/x/sys 20200424-snapshot, golang.org/x/text 20171230-snapshot, golang.org/x/time 20191113-snapshot, golang.org/x/tools 20200331-snapshot, golang.org/x/xerrors 20200417-snapshot, google.golang.org/api 20200326-snapshot, googleapis/gax-go 20200224-snapshot, gopsutil v2.20.2, HdrHistogram_c 0.9.12, jemalloc 5.1.0, lz4 1.8.0, miekg/dns 20200228-snapshot, PCRE 8.41, PCRE 8.43)
+(alecthomas-template 20191209-snapshot, Chromium (Google Chrome) 81.0.4044.62, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-shape v1.3.7, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, edsrzf/mmap-go 20200407-snapshot, fsnotify-fsnotify 20191030-snapshot, Go programming language gopls/v0.4.0-pre2, go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20171002-snapshot-eb71ad9b, golang.org/x/lint 20191205-snapshot, golang.org/x/mod 20200409-snapshot, golang.org/x/net 20180223-snapshot, golang.org/x/net 20200514-snapshot, golang.org/x/oauth2 20200311-snapshot, golang.org/x/sync 20200307-snapshot, golang.org/x/sys 20200424-snapshot, golang.org/x/text 20171230-snapshot, golang.org/x/text 20200502-snapshot, golang.org/x/time 20191113-snapshot, golang.org/x/tools 20200331-snapshot, golang.org/x/xerrors 20200417-snapshot, google.golang.org/api 20200326-snapshot, googleapis/gax-go 20200224-snapshot, gopsutil v2.20.2, HdrHistogram_c 0.9.12, jemalloc 5.1.0, lz4 1.8.0, miekg/dns 20200228-snapshot, PCRE 8.41, PCRE 8.43)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -10810,7 +10669,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, @ng-bootstrap/ng-bootstrap 5.3.1, @uirouter/angularjs 1.0.25, alecthomas-kingpin 20200127-snapshot, alecthomas-units 20200109-snapshot, angular-hybrid 10.0.1, armon-go-metrics 20200416-snapshot, Bouncy Castle 1.64, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.64, cespare/xxhash 20191214-snapshot, CodeMirror 5.51.0, delegate 3.2.0, erlang-erlydtl 0.7.0, fatih-color 20200129-snapshot, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-kit-kit 20200311-snapshot, go-logfmt-logfmt 20200311-snapshot, go.etcd.io/bbolt v1.3.4, golang-github-ghodss-yaml-dev 20190919-snapshot, good-listener 1.2.2, govalidator 20191212-snapshot, hashicorp/go-hclog 20200409-snapshot, jpillora-backoff 20200501-snapshot, js-beautify 1.10.3, mattn-go-colorable 20200327-snapshot, mattn-go-isatty 20200411-snapshot, minimist 1.2.5, node-clipboard 1.5.16, node-mkdirp 0.5.5, opentracing-contrib/go-stdlib 20190620-snapshot-cf7a6c98, peterh/liner v1.1.0, pyrolite 4.30, select 1.1.2, serpent 1.23, shurcooL/httpfs 20191211-snapshot, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, sortablejs 1.10.2, StackExchange-wmi 1.1.0, ui-router-rx 0.6.4, ui-router/core 6.0.4)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, @ng-bootstrap/ng-bootstrap 5.3.1, @uirouter/angularjs 1.0.25, alecthomas-kingpin 20200127-snapshot, alecthomas-units 20200109-snapshot, angular-hybrid 10.0.1, armon-go-metrics 20200416-snapshot, Bouncy Castle 1.64, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.64, cespare/xxhash 20191214-snapshot, CodeMirror 5.51.0, delegate 3.2.0, erlang-erlydtl 0.7.0, fatih-color 20200129-snapshot, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-kit-kit 20200311-snapshot, go-logfmt-logfmt 20200511-snapshot, go.etcd.io/bbolt v1.3.4, golang-github-ghodss-yaml-dev 20190919-snapshot, good-listener 1.2.2, govalidator 20191212-snapshot, hashicorp/go-hclog 20200409-snapshot, jpillora-backoff 20200501-snapshot, js-beautify 1.10.3, mattn-go-colorable 20200327-snapshot, mattn-go-isatty 20200411-snapshot, minimist 1.2.5, node-clipboard 1.5.16, node-mkdirp 0.5.5, opentracing-contrib/go-stdlib 20190620-snapshot-cf7a6c98, peterh/liner v1.1.0, pyrolite 4.30, select 1.1.2, serpent 1.23, shurcooL/httpfs 20191211-snapshot, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, sortablejs 1.10.2, StackExchange-wmi 1.1.0, ui-router-rx 0.6.4, ui-router/core 6.0.4)
 
 The MIT License
 ===============
@@ -11815,7 +11674,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 ---
 
 OpenSSL License
-(OpenSSL 1.1.1d)
+(OpenSSL 1.1.1b, OpenSSL 1.1.1d)
 
 OpenSSL Project License
 =======================
@@ -11881,7 +11740,7 @@ Public domain code is not subject to any license.
 ---
 
 SSLeay License
-(OpenSSL 1.1.1d)
+(OpenSSL 1.1.1b, OpenSSL 1.1.1d)
 
 SSLeay License
 ==============
