@@ -2,8 +2,6 @@ Copyright 2020
 
 [couchbase-operator : 2.1.0]
 
-Phase: DEVELOPMENT
-Distribution: EXTERNAL
 
 Components: 
 
@@ -244,7 +242,7 @@ modern-go/reflect2 1.0.1 : Apache License 2.0
 mongodb/mongo-go-driver v1.0.3 : Apache License 2.0
 mongodb/mongo-go-driver v1.1.1 : Apache License 2.0
 mongodb/mongo-go-driver v1.1.2 : Apache License 2.0
-nakabonne/nestif v0.3.0 : Unknown License
+nakabonne/nestif v0.3.0 : BSD 2-clause "Simplified" License
 natefinch/lumberjack v2.0.0 : MIT License
 oklog/ulid v1.3.1 : Apache License 2.0
 OneOfOne/xxhash v1.2.2 : Apache License 2.0
@@ -1440,7 +1438,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(pkg/errors v0.9.1)
+(nakabonne/nestif v0.3.0, pkg/errors v0.9.1)
 
 BSD Two Clause License
 ======================
@@ -5152,7 +5150,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 ---
 
 Unknown License
-(go.googlesource.com/mod v0.1.0, nakabonne/nestif v0.3.0)
+(go.googlesource.com/mod v0.1.0)
 
 The license has not been identified.
 
