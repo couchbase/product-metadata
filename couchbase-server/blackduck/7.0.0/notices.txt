@@ -179,7 +179,6 @@ golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
 golang-github-spf13-pflag-dev 20170607-snapshot : BSD 3-clause "New" or "Revised" License
 golang-golangorg-crypto-devel 0 : BSD 3-clause "New" or "Revised" License
 golang-google-genproto-dev 0.0~git20171123.7f0da29 : Apache License 2.0
-golang-google-grpc 1.15.0 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20150731-snapshot-a911026e : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20160302-snapshot : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20171230-snapshot : BSD 3-clause "New" or "Revised" License
@@ -884,19 +883,6 @@ golang-google-genproto-dev 0.0~git20171123.7f0da29
 	Copyright: 2016 MartLicense: Apache-2.0Comment: Debian packaging is licensed under the same terms as upstream
 	Copyright: 2016-2017 Google Inc.License: Apache-2.0
 	Copyright 2016 Google Inc.
-golang-google-grpc 1.15.0
-	copyright-format/1.0/Upstream-Name: grpc-goSource: https://github.com/grpc/grpc-go
-	Copyright: 2017 Google Inc.License: Apache-2.0Comment: Missing sources for the gRPC protobuf definitions. Copied from https://github.com/grpc/grpc-proto/tree/master/grpc at commit da219ab.
-	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright: 2017 Google Inc.License: Apache-2.0Comment: Type definitions for general RPC systems vendored from https://github.com/googleapis/googleapis/tree/master/google/rpc at commit ae909b8.
-	Copyright 2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2014 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright: 2015-2016 Dmitry Smirnov <onlyjob@debian.org>License: GPL-3+
-	Copyright 2016 gRPC authors.
-	Copyright: 2014-2016 Google Inc.License: BSD-3-clause
-	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright: 2015-2016 Dmitry Smirnov <onlyjob@debian.org>License: GPL-3+ or BSD-3-clauseComment: patches can be licensed under the same terms as upstream.
-	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 golang-snappy-go-dev 20171230-snapshot
 	Copyright (c) 2011 The Snappy-Go Authors. All rights reserved
 	Copyright 2016 The Snappy-Go Authors. All rights reserved
@@ -2567,39 +2553,6 @@ Redistribution and use in source and binary forms, with or without
     * Neither the name of Google Inc. nor the names of its
  contributors may be used to endorse or promote products derived from
  this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(golang-google-grpc 1.15.0)
-
-License: BSD-3-clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-     * Redistributions of source code must retain the above copyright
-       notice, this list of conditions and the following disclaimer.
-     * Redistributions in binary form must reproduce the above
-       copyright notice, this list of conditions and the following disclaimer
-       in the documentation and/or other materials provided with the
-       distribution.
-     * Neither the name of Google Inc. nor the names of its
-       contributors may be used to endorse or promote products derived from
-       this software without specific prior written permission.
  .
  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
