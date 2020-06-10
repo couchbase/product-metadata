@@ -39,6 +39,7 @@ google/go-genproto 20190508-snapshot-54afdca5 : Apache License 2.0
 google/uuid v1.1.1 : BSD 3-clause "New" or "Revised" License
 googleapis/gnostic v0.2.0 : Apache License 2.0
 googleapis/google-api-go-client v0.4.0 : BSD 3-clause "New" or "Revised" License
+googleapis/google-cloud-go v0.38.0 : Apache License 2.0
 gregjones/httpcache 20190214-snapshot-3befbb6a : MIT License
 groupcache 20190208-snapshot-5b532d6f : Apache License 2.0
 grpc-gateway v1.8.5 : BSD 3-clause "New" or "Revised" License
@@ -251,6 +252,22 @@ googleapis/google-api-go-client v0.4.0
 	Copyright 2019 Google Inc. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2011 Google Inc. All rights reserved
+googleapis/google-cloud-go v0.38.0
+	Copyright 2017, Google Inc. All rights reserved
+	Copyright 2019 Google LLC
+	Copyright 2017 Google LLC
+	Copyright 2014 Google LLC
+	Copyright (c) 2001 David E. O
+	Copyright 2016 Google LLC
+	copyright header in the file. You also need to either run thecommands above using Golang 1.6 or manually change the "context" import to
+	Copyright (c) 1996-1998 John D. Polstra.  All rights reserved
+	Copyright 2018 Google Inc.
+	Copyright 2018 Google LLC
+	Copyright 2018 Google Inc. All Rights Reserved
+	Copyright 2018 Google LLC.
+	Copyright 2017, Google LLC
+	Copyright 2014 Google LLC// Modified 2018 by Jonathan Amsterdam (jbamsterdam@gmail.com)
+	Copyright 2015 Google LLC
 gregjones/httpcache 20190214-snapshot-3befbb6a
 	Copyright © 2012 Greg Jones (greg.jones@gmail.com)
 	copyright goauth2 authors: https://code.google.com/p/goauth2)func cloneRequest(r *http.Request) *http.Request {	// shallow copy of the struct	r2 := new(http.Request)	*r2 = *r	// deep copy of the 
@@ -723,7 +740,7 @@ yaml for Go v2.2.2
 Licenses: 
 
 Apache License 2.0
-(appscode/jsonpatch 1.0.0, btree v1.0.0, census-instrumentation/opencensus-go v0.19.3, client-go kubernetes-1.13.1, client_golang v0.9.2, contrib.go.opencensus.io/exporter/ocagent v0.4.12, Docker-org 20181023-snapshot-6480d4af, gengo 20190402-snapshot-e17681d1, github.com/go-logr/zapr v0.1.1, go-logr/logr v0.1.0, go-openapi/errors v0.17.2, golang/appengine v1.5.0, golang/glog 20160125-snapshot-23def4e6, google-gofuzz v1.0.0, google/go-genproto 20190508-snapshot-54afdca5, googleapis/gnostic v0.2.0, groupcache 20190208-snapshot-5b532d6f, grpc-go v1.20.1, inconshreveable/mousetrap v1.0, k8s.io/code-generator kubernetes-1.13.1, k8s.io/klog v0.3.0, kubernetes/apiextensions-apiserver kubernetes-1.13.1, kubernetes/apimachinery kubernetes-1.13.1, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 1.0.3, modern-go/reflect2 1.0.1, OpenCensus 0.2.0, operator-sdk v0.7.0, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-common v0.3.0, prometheus-procfs 20190507-snapshot-bc6930f2, sigs.k8s.io/controller-runtime v0.1.10, spf13-cobra v0.0.4, uber-go/atomic v1.4.0, yaml for Go v2.2.2)
+(appscode/jsonpatch 1.0.0, btree v1.0.0, census-instrumentation/opencensus-go v0.19.3, client-go kubernetes-1.13.1, client_golang v0.9.2, contrib.go.opencensus.io/exporter/ocagent v0.4.12, Docker-org 20181023-snapshot-6480d4af, gengo 20190402-snapshot-e17681d1, github.com/go-logr/zapr v0.1.1, go-logr/logr v0.1.0, go-openapi/errors v0.17.2, golang/appengine v1.5.0, golang/glog 20160125-snapshot-23def4e6, google-gofuzz v1.0.0, google/go-genproto 20190508-snapshot-54afdca5, googleapis/gnostic v0.2.0, googleapis/google-cloud-go v0.38.0, groupcache 20190208-snapshot-5b532d6f, grpc-go v1.20.1, inconshreveable/mousetrap v1.0, k8s.io/code-generator kubernetes-1.13.1, k8s.io/klog v0.3.0, kubernetes/apiextensions-apiserver kubernetes-1.13.1, kubernetes/apimachinery kubernetes-1.13.1, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 1.0.3, modern-go/reflect2 1.0.1, OpenCensus 0.2.0, operator-sdk v0.7.0, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-common v0.3.0, prometheus-procfs 20190507-snapshot-bc6930f2, sigs.k8s.io/controller-runtime v0.1.10, spf13-cobra v0.0.4, uber-go/atomic v1.4.0, yaml for Go v2.2.2)
 
 Apache License
 Version 2.0, January 2004
