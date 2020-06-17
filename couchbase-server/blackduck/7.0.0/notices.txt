@@ -242,7 +242,6 @@ jbcrypt 0.4 : ISC License
 jemalloc 5.2.1 : BSD 3-clause "New" or "Revised" License
 jmespath-go-jmespath c2b33e84 : Apache License 2.0
 js-beautify 1.10.3 : MIT License
-JSON for Modern C++ 3.5.0 : MIT License
 julienschmidt/httprouter 20170430-snapshot-975b5c4c : BSD 3-clause "New" or "Revised" License
 krestenkrab's triq 20151018-snapshot-c7306b8e : Apache License 2.0
 leemcloughlin/gofarmhash 20180505-snapshot : MIT License
@@ -287,8 +286,6 @@ os-homedir 1.0.2 : MIT License
 os-tmpdir 1.0.2 : MIT License
 osenv 0.1.5 : ISC License
 path-is-absolute 1.0.1 : MIT License
-PCRE 8.41 : BSD 3-clause "New" or "Revised" License
-PCRE 8.43 : BSD 3-clause "New" or "Revised" License
 peterh/liner v1.1.0 : MIT License
 philhofer-fwd v1.0.0 : MIT License
 pierrec-lz4 v1.1 : BSD 3-clause "New" or "Revised" License
@@ -2310,7 +2307,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(blevesearch/mmap-go v1.0.2, breakpad svn-r0, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-shape v1.3.7, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20171002-snapshot-eb71ad9b, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, gopsutil v2.20.2, HdrHistogram_c 0.9.12, jemalloc 5.2.1, lz4 1.8.0, PCRE 8.41, PCRE 8.43)
+(blevesearch/mmap-go v1.0.2, breakpad svn-r0, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-shape v1.3.7, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20171002-snapshot-eb71ad9b, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, gopsutil v2.20.2, HdrHistogram_c 0.9.12, jemalloc 5.2.1, lz4 1.8.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -5314,33 +5311,6 @@ MIT License
 MIT License
 
 Copyright (c) 2016 Leonid Bugaev
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(JSON for Modern C++ 3.5.0)
-
-MIT License 
-
-Copyright (c) 2013-2018 Niels Lohmann
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
