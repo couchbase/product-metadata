@@ -351,6 +351,14 @@ census-instrumentation/opencensus-go v0.21.0
 	Copyright 2018, OpenCensus Authors
 cespare/xxhash v1.1.0
 	Copyright (c) 2016 Caleb Spare
+client-go v0.17.0
+	Copyright The Kubernetes Authors.
+	Copyright 2017 The Kubernetes Authors.
+	Copyright 2016 The Kubernetes Authors.
+	Copyright 2018 The Kubernetes Authors.
+	Copyright 2015 The Kubernetes Authors.
+	Copyright 2014 The Kubernetes Authors.
+	Copyright 2019 The Kubernetes Authors.
 client9/misspell v0.3.4
 	Copyright (c) 2015-2017 Nick Galbreath
 	copyright Nick Galbreath and distribution is allowed under aMIT license.  See the following for details:
@@ -414,8 +422,8 @@ dominikh/go-tools 2019.2.3
 	Copyright 2014 The Go Authors. All rights reserved
 	Copyright (c) 2013 Kamil Kisiel <kamil@kamilkisiel.net>
 	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2018 The Go Authors. All rights reserved
 	Copyright (c) 2013 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
 	Copyright (c) 2009 The Go Authors. All rights reserved
 	Copyright 2018 Google Inc.
 	Copyright 2013 The Go Authors. All rights reserved
@@ -487,6 +495,8 @@ github.com/go-toolsmith/strparse v1.0.0
 	Copyright (c) 2018 go-toolsmith
 github.com/go-toolsmith/typep v1.0.0
 	Copyright (c) 2018 go-toolsmith
+github.com/gobuffalo/flect v0.2.0
+	Copyright (c) 2019 Mark Bates
 github.com/konsorten/go-windows-terminal-sequences v1.0.1
 	Copyright (c) 2018 marvin
 	Copyright (c) 2017 marvin
@@ -733,7 +743,7 @@ go-openapi/errors v0.19.2
 	Copyright 2015 go-swagger maintainers
 go-openapi/jsonpointer v0.17.0
 	Copyright 2013 sigu-399 ( https://github.com/sigu-399 )
-go-openapi/loads v0.19.2
+go-openapi/loads v0.19.4
 	Copyright 2015 go-swagger maintainers
 go-openapi/runtime v0.19.0
 	Copyright 2013 The Go Authors. All rights reserved
@@ -771,6 +781,11 @@ go-toml v1.2.0
 	Copyright (c) 2013 - 2017 Thomas Pelletier, Eric Anderton
 go-toolsmith/pkgload v1.0.0
 	Copyright (c) 2018 Iskander (Alex) Sharipov / Quasilyte
+go-viper v1.6.1
+	Copyright (c) 2014 Steve Francia
+	Copyright © 2016 Steve Francia <spf@spf13.com>.
+	Copyright © 2015 Steve Francia <spf@spf13.com>.
+	Copyright © 2014 Steve Francia <spf@spf13.com>.
 go.etcd.io/bbolt v1.3.3
 	Copyright (c) 2013 Ben Johnson
 go.googlesource.com/mod v0.1.0
@@ -885,7 +900,7 @@ googleapis/google-cloud-go v0.45.1
 	Copyright 2014 Google LLC// Modified 2018 by Jonathan Amsterdam (jbamsterdam@gmail.com)
 	Copyright 2015 Google LLC
 	Copyright 2019 Google Inc.
-gophercloud/gophercloud v0.1.0
+gophercloud/gophercloud v0.6.0
 	Copyright 2012-2013 Rackspace, Inc.
 gorilla/websocket v1.4.0
 	Copyright 2016 The Gorilla WebSocket Authors. All rights reserved
@@ -943,7 +958,7 @@ inconshreveable/mousetrap 1.0.0
 	Copyright 2014 Alan Shreve
 jonboulle-clockwork 0.1.0
 	Copyright {yyyy
-jsoniter-go v1.1.6
+jsoniter-go v1.1.9
 	Copyright (c) 2016 json-iterator
 jsonreference v0.18.0
 	Copyright 2013 sigu-399 ( https://github.com/sigu-399 )
@@ -951,6 +966,13 @@ julienschmidt/httprouter v1.2.0
 	Copyright 2009 The Go Authors.// Use of this source code is governed by a BSD-style license that can be found// in the LICENSE file.
 	Copyright (c) 2013 Julien Schmidt. All rights reserved
 	Copyright 2013 Julien Schmidt. All rights reserved
+k8s.io/code-generator v0.17.2
+	Copyright The Kubernetes Authors.
+	Copyright 2016 The Kubernetes Authors.
+	Copyright 2017 The Kubernetes Authors.
+	Copyright 2015 The Kubernetes Authors.
+	Copyright 2018 The Kubernetes Authors.
+	Copyright 2019 The Kubernetes Authors.
 k8s.io/klog v0.3.0
 	Copyright 2013 Google Inc. All Rights Reserved
 kisielk-gotool v1.0.0
@@ -1027,6 +1049,22 @@ klauspost-cpuid 1.2.0
 	Copyright (C) 2015- Klaus PostEmail: klauspost@gmail.comEveryone is permitted to copy and distribute verbatim copies of thislicense document, but changing it is not allowed.
 kr/pretty 0.1.0
 	Copyright 2012 Keith Rarick
+kubernetes/apiextensions-apiserver v0.17.0
+	Copyright The Kubernetes Authors.
+	Copyright 2017 The Kubernetes Authors.
+	Copyright 2016 The Kubernetes Authors.
+	Copyright 2018 The Kubernetes Authors.
+	Copyright 2019 The Kubernetes Authors.
+kubernetes/apimachinery v0.17.2
+	Copyright The Kubernetes Authors.
+	Copyright 2016 The Kubernetes Authors.
+	Copyright 2017 The Kubernetes Authors.
+	Copyright 2015 The Kubernetes Authors.
+	Copyright 2018 The Kubernetes Authors.
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2014 The Kubernetes Authors.
+	Copyright 2009 The Go Authors. All rights reserved
+	Copyright 2019 The Kubernetes Authors.
 mailru/easyjson v0.7.0
 	Copyright (c) 2016 Mail.Ru Group
 mapstructure v1.1.2
@@ -1257,6 +1295,8 @@ urfave-cli v1.20.0
 	Copyright of the binary if any
 	Copyright string	// Name of Author (Note: Use App.Authors, this is deprecated)	Author string	// Email of Author (Note: Use App.Authors, this is deprecated)	Email string	// Writer writer to w
 	Copyright (c) 2016 Jeremy Saenz
+uudashr/gocognit v1.0.1
+	Copyright (c) 2019 Nuruddin Ashr
 valyala-fasthttp v1.2.0
 	Copyright (c) 2018-present Kirill Danshin
 	Copyright (c) 2018-present Erik Dubbelboer
@@ -1682,7 +1722,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(code.googlesource.com/google-api-go-client v0.4.0, code.googlesource.com/google-api-go-client v0.7.0, code.googlesource.com/google-api-go-client v0.8.0, code.googlesource.com/google-api-go-client v0.9.0)
+(code.googlesource.com/google-api-go-client v0.14.0, code.googlesource.com/google-api-go-client v0.4.0, code.googlesource.com/google-api-go-client v0.7.0, code.googlesource.com/google-api-go-client v0.8.0, code.googlesource.com/google-api-go-client v0.9.0)
 
 Copyright (c) 2011 Google Inc. All rights reserved.
 
@@ -2060,7 +2100,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(blackfriday v1.5.2, code.googlesource.com/google-api-go-client v0.14.0, gitlab.com/cznic/golex v1.0.0, gitlab.com/cznic/mathutil v1.0.0, gitlab.com/cznic/strutil v1.0.0, gitlab.com/cznic/xc v1.0.0, go-zap v1.10.0, go.googlesource.com/mod v0.1.0, go.googlesource.com/mod v0.2.0, google/go-cmp v0.4.0, rsc/binaryregexp v0.2.0, sigs.k8s.io/yaml v1.2.0)
+(blackfriday v1.5.2, gitlab.com/cznic/golex v1.0.0, gitlab.com/cznic/mathutil v1.0.0, gitlab.com/cznic/strutil v1.0.0, gitlab.com/cznic/xc v1.0.0, go-zap v1.10.0, go.googlesource.com/mod v0.1.0, go.googlesource.com/mod v0.2.0, google/go-cmp v0.4.0, rsc/binaryregexp v0.2.0, sigs.k8s.io/yaml v1.2.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -3330,7 +3370,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(gomega v1.7.0, onsi/ginkgo v1.10.1, onsi/ginkgo v1.6.0)
+(gomega v1.7.0, gomega v1.7.1, gomega v1.8.1, onsi/ginkgo v1.10.1, onsi/ginkgo v1.11.0, onsi/ginkgo v1.6.0)
 
 Copyright (c) 2013-2014 Onsi Fakhouri
 
@@ -3726,7 +3766,7 @@ SOFTWARE
 ---
 
 MIT License
-(jsoniter-go v1.1.6, jsoniter-go v1.1.7)
+(jsoniter-go 1.1.8, jsoniter-go v1.1.6, jsoniter-go v1.1.7, jsoniter-go v1.1.9)
 
 MIT License
 
@@ -4031,7 +4071,7 @@ SOFTWARE
 ---
 
 MIT License
-(github.com/gobuffalo/flect v0.2.0, Go Logrus v1.5.0, Go Testify v1.5.1, go-critic/go-critic v0.4.1, go-viper v1.6.1, go-zap v1.14.1, go.uber.org/multierr v1.5.0, goconvey v1.6.4, GoDoc Text v0.2.0, gomega v1.7.1, gomega v1.8.1, gomega v1.9.0, goveralls v0.0.2, jsoniter-go 1.1.8, jsoniter-go v1.1.9, maratori/testpackage v1.0.1, onsi/ginkgo 1.12.0, onsi/ginkgo v1.11.0, sigs.k8s.io/yaml v1.2.0, tetafro/godot v0.2.5, uber-go/atomic v1.6.0, uudashr/gocognit v1.0.1, yuin/goldmark v1.1.27)
+(Go Logrus v1.5.0, Go Testify v1.5.1, go-critic/go-critic v0.4.1, go-zap v1.14.1, go.uber.org/multierr v1.5.0, goconvey v1.6.4, GoDoc Text v0.2.0, gomega v1.9.0, goveralls v0.0.2, maratori/testpackage v1.0.1, onsi/ginkgo 1.12.0, sigs.k8s.io/yaml v1.2.0, tetafro/godot v0.2.5, uber-go/atomic v1.6.0, uudashr/gocognit v1.0.1, yuin/goldmark v1.1.27)
 
 The MIT License
 ===============
@@ -4381,7 +4421,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(github.com/spf13/jwalterweatherman v1.0.0, spf13-cast v1.3.0)
+(github.com/spf13/jwalterweatherman v1.0.0, go-viper v1.6.1, spf13-cast v1.3.0)
 
 The MIT License (MIT)
 
@@ -4730,6 +4770,33 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(github.com/gobuffalo/flect v0.2.0)
+
+The MIT License (MIT)
+
+Copyright (c) 2019 Mark Bates
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
 
 ---
 
