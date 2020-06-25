@@ -40,8 +40,7 @@ go-systemd v7 : Apache License 2.0
 golang - crypto 20180718-snapshot-a2144134 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.2.0 : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170620-snapshot : BSD 2-clause "Simplified" License
-golang-github-json-iterator-go-dev 1.0.6 : MIT License
-golang-github-stretchr-testify 1.3.0 : MIT License
+golang-github-stretchr-testify 1.4.0 : MIT License
 golang-golang-x-oauth2 0.0~git20190604.0f29369 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20180330-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180704-snapshot : BSD 3-clause "New" or "Revised" License
@@ -242,18 +241,6 @@ golang protobuf v1.2.0
 	Copyright 2010 The Go Authors.https://github.com/golang/protobuf
 golang-github-elazarl-go-bindata-assetfs-dev 20170620-snapshot
 	Copyright (c) 2014, Elazar LeibovichAll rights reserved
-golang-github-json-iterator-go-dev 1.0.6
-	copyright-format/1.0/Upstream-Name: goSource: https://github.com/json-iterator/go
-	Copyright: 2016 json-iterator <taowen@didichuxing.com>License: Expat
-	Copyright: 2018 MartLicense: ExpatComment: Debian packaging is licensed under the same terms as upstream
-golang-github-stretchr-testify 1.3.0
-	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
-	Copyright (c) 2017-2018 objx contributors
-	Copyright (c) 2013, Patrick MezardAll rights reserved
-	Copyright (c) 2013-2016 Dave Collins <dave@davec.name> * * Permission to use, copy, modify, and distribute this software for any * purpose with or without fee is hereby granted, provided that the a
-	Copyright (c) 2014 Stretchr, Inc.
-	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>
-	Copyright (c) 2012-2018 Mat Ryer and Tyler Bunnell
 golang-golang-x-oauth2 0.0~git20190604.0f29369
 	copyright-format/1.0/Upstream-Name: oauth2Source: http://golang.org/x/oauth2
 	Copyright 2015 The Go Authors. All rights reserved
@@ -1235,7 +1222,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Go Testify v1.3.0, golang-github-stretchr-testify 1.3.0)
+(Go Testify v1.3.0, golang-github-stretchr-testify 1.4.0)
 
 MIT License
 
@@ -1309,42 +1296,6 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT 
 OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(golang-github-json-iterator-go-dev 1.0.6)
-
-Source: https://github.com/json-iterator/go
-
-Files: *
-Copyright: 2016 json-iterator <taowen@didichuxing.com>
-License: Expat
-
-Files: debian/*
-Copyright: 2018 Martín Ferrari <tincho@debian.org>
-License: Expat
-Comment: Debian packaging is licensed under the same terms as upstream
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
- of this software and associated documentation files (the "Software"), to deal
- in the Software without restriction, including without limitation the rights
- to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- copies of the Software, and to permit persons to whom the Software is
- furnished to do so, subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be included in all
- copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
 
 ---
 
