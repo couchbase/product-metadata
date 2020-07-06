@@ -29,6 +29,7 @@ angular-hybrid 10.0.1 : MIT License
 angular-ui-tree/angular-ui-tree 2.22.6 : MIT License
 Apache Commons Codec 1.14 : Apache License 2.0
 Apache Commons Collections commons-commons-collections-4.4 : Apache License 2.0
+Apache Commons Compress 1.19 : Apache License 2.0
 Apache Commons Compress 1.20 : Apache License 2.0
 Apache Commons CSV commons-csv-1.8 : Apache License 2.0
 Apache Commons Lang 3.9 : Apache License 2.0
@@ -165,7 +166,7 @@ golang-github-edsrzf-mmap-go 0.0~git20160512.0.935e0e8 : BSD 3-clause "New" or "
 golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 : BSD 2-clause "Simplified" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170227-snapshot-30f82fa2 : BSD 2-clause "Simplified" License
 golang-github-gorilla-context 0 : BSD 3-clause "New" or "Revised" License
-golang-github-grpc-grpc-go-devel 1.18.0 : BSD 3-clause "New" or "Revised" License
+golang-github-json-iterator-go-dev 1.0.6 : MIT License
 golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 : MIT License
 golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
 golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
@@ -378,6 +379,17 @@ Apache Commons Collections commons-commons-collections-4.4
 	Copyright 2013 The Apache Software Foundation. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may 
 	Copyright 2001-2019 The Apache Software Foundation
 	Copyright &#169; 2001</body>
+Apache Commons Compress 1.19
+	Copyright (c) 2007 IBM Corporation and others.# All rights reserved
+	Copyright 1987, 1998  The Open Group
+	Copyright (C) ______     _______________________. All Rights Reserved
+	Copyright � 2001 Keith Packard
+	Copyright � 2003 Richard Henderson
+	Copyright (c) 2004-2006 Intel Corportation * and licensed under the BSD license. */package org.apache.commons.compress.compressors.snappy;
+	Copyright 2002-2019 The Apache Software Foundation
+	Copyright (c) 2006 IBM Corporation and others.# All rights reserved
+	Copyright &#169; 2019 <a href="https://www.apache.org/">The Apache Software Foundation</a>. All rights reserved
+	Copyright 1987 by Digital Equipment Corporation, Maynard, Massachusetts.
 Apache Commons Lang 3.9
 	Copyright &#169; 2001</body>
 	&copy;') = false     * </pre>     *     * @param ch  the character to check     * @return true if between 65 and 90 or 97 and 122 inclusive
@@ -875,13 +887,11 @@ golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1
 	Copyright: 2014-2015 Elazar LeibovichLicense: BSD-2-clause
 	Copyright (c) 2014, Elazar Leibovich All rights reserved
 	Copyright (c) 2014, Elazar LeibovichAll rights reserved
-golang-github-grpc-grpc-go-devel 1.18.0
-	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2019 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2014 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
+golang-github-json-iterator-go-dev 1.0.6
+	copyright-format/1.0/Upstream-Name: goSource: https://github.com/json-iterator/go
+	Copyright: 2016 json-iterator <taowen@didichuxing.com>License: Expat
+	Copyright (c) 2016 json-iterator
+	Copyright: 2018 MartLicense: ExpatComment: Debian packaging is licensed under the same terms as upstream
 golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5
 	Copyright: 2015 Lee McLoughlin           2014 Google, Inc.License: Expat
 	copyright-format/1.0/Upstream-Name: gofarmhashSource: https://github.com/leemcloughlin/gofarmhash
@@ -1329,7 +1339,7 @@ Zone.js v0.9.1
 Licenses: 
 
 Apache License 2.0
-([ini4j] 0.5.4, algebricks-common 0.3.4.1, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-data 0.3.4.1, algebricks-rewriter 0.3.2, algebricks-runtime 0.3.4.1, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.20, Apache Commons CSV commons-csv-1.8, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.13, Apache log4j 2.13.1, Apache log4j 2.13.3, Apache Log4j JUL Adapter 2.13.1, Apache Log4j JUL Adapter 2.13.3, Apache Log4j Web Adapters 2.13.1, Apache Log4j Web Adapters 2.13.3, asterix-active 0.9.4.1, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-common 0.9.4.1, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-sqlpp 0.9.4.1, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-replication 0.9.4.1, asterix-runtime 0.9.1, asterix-runtime 0.9.4.1, asterix-transactions 0.9.4.1, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.5, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase JVM Core IO 1.7.14, couchbase-goxdcr v7.0.0-0000, couchbase/gocbcore v9.0.1, couchbase/moss v0.1.0, couchbase/vellum v1.0.1, docker-cli 20180417-snapshot, Erlang 20.3.8.20, error-prone annotations 2.3.4, Facebook Folly v2019.08.12.00, fastutil 8.3.0, FlatBuffers 1.5.0, FlatBuffers v1.10.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.28.1, grpc-go 20190429-snapshot, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.2-jre, hyracks-api 0.3.4.1, hyracks-client 0.3.4.1, hyracks-comm 0.3.4.1, hyracks-control-cc 0.3.4.1, hyracks-control-common 0.3.4.1, hyracks-control-nc 0.3.4.1, hyracks-data-std 0.3.4.1, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-net 0.3.4.1, hyracks-storage-am-bloomfilter 0.3.4.1, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-invertedindex 0.3.4.1, hyracks-storage-am-lsm-rtree 0.3.4.1, hyracks-storage-am-rtree 0.3.4.1, hyracks-storage-common 0.3.4.1, hyracks-util 0.3.4.1, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20200518-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.3, jackson-databind 2.10.3, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, Log4J API 2.13.1, Log4J API 2.13.3, Log4J Commons Logging 2.13.1, Log4J Commons Logging 2.13.3, meck 0.8.5, Netty Project 4.1.48.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.43.Final, Netty/Codec/SMTP 4.1.46.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, Prometheus Monitoring v2.17.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, RxJS 6.5.3, SLF4J Binding 2.13.1, SLF4J Binding 2.13.3, snappy-java 1.1.7.1, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2, tslib 1.11.1)
+([ini4j] 0.5.4, algebricks-common 0.3.4.1, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-data 0.3.4.1, algebricks-rewriter 0.3.2, algebricks-runtime 0.3.4.1, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.19, Apache Commons Compress 1.20, Apache Commons CSV commons-csv-1.8, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.13, Apache log4j 2.13.1, Apache log4j 2.13.3, Apache Log4j JUL Adapter 2.13.1, Apache Log4j JUL Adapter 2.13.3, Apache Log4j Web Adapters 2.13.1, Apache Log4j Web Adapters 2.13.3, asterix-active 0.9.4.1, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-common 0.9.4.1, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-sqlpp 0.9.4.1, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-replication 0.9.4.1, asterix-runtime 0.9.1, asterix-runtime 0.9.4.1, asterix-transactions 0.9.4.1, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.5, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase JVM Core IO 1.7.14, couchbase-goxdcr v7.0.0-0000, couchbase/gocbcore v9.0.1, couchbase/moss v0.1.0, couchbase/vellum v1.0.1, docker-cli 20180417-snapshot, Erlang 20.3.8.20, error-prone annotations 2.3.4, Facebook Folly v2019.08.12.00, fastutil 8.3.0, FlatBuffers 1.5.0, FlatBuffers v1.10.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.28.1, grpc-go 20190429-snapshot, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.2-jre, hyracks-api 0.3.4.1, hyracks-client 0.3.4.1, hyracks-comm 0.3.4.1, hyracks-control-cc 0.3.4.1, hyracks-control-common 0.3.4.1, hyracks-control-nc 0.3.4.1, hyracks-data-std 0.3.4.1, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-net 0.3.4.1, hyracks-storage-am-bloomfilter 0.3.4.1, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-invertedindex 0.3.4.1, hyracks-storage-am-lsm-rtree 0.3.4.1, hyracks-storage-am-rtree 0.3.4.1, hyracks-storage-common 0.3.4.1, hyracks-util 0.3.4.1, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20200518-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.3, jackson-databind 2.10.3, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, Log4J API 2.13.1, Log4J API 2.13.3, Log4J Commons Logging 2.13.1, Log4J Commons Logging 2.13.3, meck 0.8.5, Netty Project 4.1.48.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.43.Final, Netty/Codec/SMTP 4.1.46.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, Prometheus Monitoring v2.17.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, RxJS 6.5.3, SLF4J Binding 2.13.1, SLF4J Binding 2.13.3, snappy-java 1.1.7.1, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2, tslib 1.11.1)
 
 Apache License
 Version 2.0, January 2004
@@ -2296,7 +2306,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(blevesearch/mmap-go v1.0.2, breakpad svn-r0, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-shape v1.3.7, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20171002-snapshot-eb71ad9b, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, lz4 1.8.0, OpenJDK 11.0.7+10, PCRE 8.41, PCRE 8.43)
+(blevesearch/mmap-go v1.0.2, breakpad svn-r0, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-shape v1.3.7, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, go-zookeeper 20150410-snapshot-fa6674ab, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20171002-snapshot-eb71ad9b, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, lz4 1.8.0, OpenJDK 11.0.7+10, PCRE 8.41, PCRE 8.43)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -4886,6 +4896,42 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+---
+
+MIT License
+(golang-github-json-iterator-go-dev 1.0.6)
+
+Source: https://github.com/json-iterator/go
+
+Files: *
+Copyright: 2016 json-iterator <taowen@didichuxing.com>
+License: Expat
+
+Files: debian/*
+Copyright: 2018 Martín Ferrari <tincho@debian.org>
+License: Expat
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
 
 ---
 
