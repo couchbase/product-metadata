@@ -42,6 +42,7 @@ golang - crypto 20180718-snapshot-a2144134 : BSD 3-clause "New" or "Revised" Lic
 golang protobuf v1.2.0 : BSD 3-clause "New" or "Revised" License
 golang-1.11 1.11.2 : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170620-snapshot : BSD 2-clause "Simplified" License
+golang-github-json-iterator-go-dev 1.1.10 : Expat License
 golang-github-stretchr-testify 1.4.0 : MIT License
 golang-golang-x-oauth2 0.0~git20190604.0f29369 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20180330-snapshot : BSD 3-clause "New" or "Revised" License
@@ -66,7 +67,7 @@ gopsutil v2.18.12 : BSD 3-clause "New" or "Revised" License
 Gorilla Web Toolkit 20170307-snapshot : BSD 3-clause "New" or "Revised" License
 Gorilla Web Toolkit 20170523-snapshot : BSD 3-clause "New" or "Revised" License
 jonboulle-clockwork 20180214-snapshot-ed104f61 : Apache License 2.0
-jsoniter-go 1.1.8 : MIT License
+jsoniter-go v1.1.7 : MIT License
 kardianos-osext 20160806-snapshot : BSD 3-clause "New" or "Revised" License
 kardianos-service 20171101-snapshot-5ab7ce2c : zlib License
 modern-go/concurrent 1.0.0 : Apache License 2.0
@@ -490,7 +491,7 @@ Gorilla Web Toolkit 20170307-snapshot
 	Copyright 2012 The Gorilla Authors. All rights reserved
 jonboulle-clockwork 20180214-snapshot-ed104f61
 	Copyright {yyyy
-jsoniter-go 1.1.8
+jsoniter-go v1.1.7
 	Copyright (c) 2016 json-iterator
 kardianos-osext 20160806-snapshot
 	Copyright (c) 2012 The Go Authors. All rights reserved
@@ -1217,6 +1218,35 @@ Redistribution and use in source and binary forms, with or without
 
 ---
 
+Expat License
+(golang-github-json-iterator-go-dev 1.1.10)
+
+Expat License
+=============
+
+Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd
+                               and Clark Cooper
+Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
 ISC License
 (go-spew 1.1.0, go-spew 20190321-snapshot, go-spew v1.1.1)
 
@@ -1386,7 +1416,7 @@ SOFTWARE
 ---
 
 MIT License
-(jsoniter-go 1.1.8)
+(jsoniter-go v1.1.7)
 
 MIT License
 
