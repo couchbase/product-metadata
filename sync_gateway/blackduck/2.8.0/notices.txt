@@ -19,6 +19,7 @@ couchbase-go-couchbase master-20160613 : MIT License
 couchbase/go-blip 20180309-snapshot-238f46bf : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.5 : Apache License 2.0
 diiyw/chaingo 20180205-snapshot-e36409ee : Apache License 2.0
+felixge/fgprof v0.9.0 : Unknown License
 Go programming language 0.0~git20180614.a8fb68e : BSD 3-clause "New" or "Revised" License
 Go programming language 20190307-snapshot : MIT License
 Go Testify 20181108-snapshot : MIT License
@@ -51,6 +52,7 @@ golang.org/x/crypto 20180724-snapshot-c126467f : BSD 3-clause "New" or "Revised"
 golang.org/x/crypto 20180901-snapshot-182538f8 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180925-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20181226-snapshot : BSD 3-clause "New" or "Revised" License
+golang.org/x/oauth2 20200115-snapshot-bf48bf16 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20180811-snapshot-98c5dad5 : BSD 3-clause "New" or "Revised" License
 golang.org/x/text 20190314-snapshot : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.4.0 : Apache License 2.0
@@ -72,8 +74,8 @@ kardianos-osext 20160806-snapshot : BSD 3-clause "New" or "Revised" License
 kardianos-service 20171101-snapshot-5ab7ce2c : zlib License
 modern-go/concurrent 1.0.0 : Apache License 2.0
 modern-go/concurrent 20180511-snapshot : Apache License 2.0
+modern-go/reflect2 0.115.0 : Apache License 2.0
 modern-go/reflect2 1.0.1 : Apache License 2.0
-modern-go/reflect2 20190422-snapshot : Apache License 2.0
 natefinch/lumberjack 20170911-snapshot-aee46291 : MIT License
 opentracing-opentracing-go 20180908-snapshot-6aa6feba : Apache License 2.0
 pkg/errors v0.8.0 : BSD 2-clause "Simplified" License
@@ -566,7 +568,7 @@ wheelcomplex/gosigar v0.10.0
 Licenses: 
 
 Apache License 2.0
-(capi-release 1.86.0, coreos-go-oidc v2.2.1, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase/go-blip 20180309-snapshot-238f46bf, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, go-jose v2.2.1, go-jose v2.4.0, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang/appengine v1.4.0, google-gofuzz v1.0.0, google/pprof 0, googleapis/google-cloud-go v0.34.0, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17, gopkg.in/elastic/gosigar.v0 v0.10.2, jonboulle-clockwork 20180214-snapshot-ed104f61, modern-go/concurrent 1.0.0, modern-go/concurrent 20180511-snapshot, modern-go/reflect2 1.0.1, modern-go/reflect2 20190422-snapshot, opentracing-opentracing-go 20180908-snapshot-6aa6feba, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.7.3, wheelcomplex/gosigar v0.10.0)
+(capi-release 1.86.0, coreos-go-oidc v2.2.1, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase/go-blip 20180309-snapshot-238f46bf, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, go-jose v2.2.1, go-jose v2.4.0, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang/appengine v1.4.0, google-gofuzz v1.0.0, google/pprof 0, googleapis/google-cloud-go v0.34.0, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17, gopkg.in/elastic/gosigar.v0 v0.10.2, jonboulle-clockwork 20180214-snapshot-ed104f61, modern-go/concurrent 1.0.0, modern-go/concurrent 20180511-snapshot, modern-go/reflect2 0.115.0, modern-go/reflect2 1.0.1, opentracing-opentracing-go 20180908-snapshot-6aa6feba, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.7.3, wheelcomplex/gosigar v0.10.0)
 
 Apache License
 Version 2.0, January 2004
@@ -1030,6 +1032,40 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(golang.org/x/oauth2 20200115-snapshot-bf48bf16)
+
+Copyright (c) <YEAR>, <OWNER>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  * Neither the name of the <ORGANIZATION> nor the names of its contributors may
+    be used to endorse or promote products derived from this software without
+    specific prior written permission.
+
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
@@ -1679,6 +1715,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+---
+
+Unknown License
+(felixge/fgprof v0.9.0)
+
+The license has not been identified.
 
 ---
 
