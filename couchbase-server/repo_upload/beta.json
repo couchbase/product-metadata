@@ -1,0 +1,37 @@
+{
+  "editions": [
+    "community",
+    "enterprise"
+  ],
+  "gpg_keys": [
+    "79CF7903.priv.gpg",
+    "CD406E62.priv.gpg",
+    "D9223EDA.priv.gpg"
+  ],
+  "supported_releases": {
+    "enterprise": {
+      "released": [
+        "4.0.0-beta",
+        "4.5.0-beta",
+        "5.0.0-beta",
+        "5.0.0-beta2",
+        "5.5.0-beta",
+        "6.0.0-beta",
+        "6.5.0-beta",
+        "6.5.0-beta2"
+      ]
+    },
+    "community": {
+      "released": [
+        "4.0.0-beta",
+        "4.5.0-beta",
+        "5.0.0-beta",
+        "5.0.0-beta2",
+        "5.5.0-beta",
+        "6.0.0-beta",
+        "6.5.0-beta",
+        "6.5.0-beta2"
+      ]
+    }
+  }
+}
