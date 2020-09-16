@@ -120,6 +120,7 @@ d3-brush 1.1.5 : BSD 3-clause "New" or "Revised" License
 d3-color 1.4.1 : BSD 3-clause "New" or "Revised" License
 d3-dispatch 1.0.6 : BSD 3-clause "New" or "Revised" License
 d3-drag 1.2.5 : BSD 3-clause "New" or "Revised" License
+d3-dsv 2.0.0 : BSD 3-clause "New" or "Revised" License
 d3-ease 1.0.6 : BSD 3-clause "New" or "Revised" License
 d3-format 1.4.3 : BSD 3-clause "New" or "Revised" License
 d3-hierarchy 1.1.9 : BSD 3-clause "New" or "Revised" License
@@ -246,6 +247,7 @@ hyracks-storage-common 0.3.4.1 : Apache License 2.0
 hyracks-storage-common 0.3.5 : Apache License 2.0
 hyracks-util 0.3.4.1 : Apache License 2.0
 hyracks-util 0.3.5 : Apache License 2.0
+iconv-lite v0.4.24 : MIT License
 inconshreveable/mousetrap 0.0~git20141017.0.76626ae : Apache License 2.0
 inconshreveable/mousetrap 20200518-snapshot : Apache License 2.0
 inflight 1.0.6 : ISC License
@@ -320,8 +322,10 @@ reactive-streams 1.0.2 : Creative Commons Zero v1.0 Universal
 rebar 2.1.0-pre : Apache License 2.0
 rebar 2.5.1 : Apache License 2.0
 rebar 2.6.0 : (MIT License OR Apache License 2.0)
+rw 1.3.3 : BSD 3-clause "New" or "Revised" License
 RxJava 1.3.8 : Apache License 2.0
 RxJS 6.5.3 : Apache License 2.0
+safer-buffer 2.1.2 : MIT License
 select 1.1.2 : MIT License
 sigmund 1.0.1 : ISC License
 SLF4J API Module 1.7.25 : MIT License
@@ -1097,6 +1101,54 @@ hyracks-storage-common 0.3.4.1
 	Copyright 2019 The Apache Software Foundation
 hyracks-util 0.3.4.1
 	Copyright 2019 The Apache Software Foundation
+iconv-lite v0.4.24
+	©Ş«¬­®Ż°±˛ł´µ¶·¸ąş»Ľ˝ľżŔÁÂĂÄĹĆÇČÉĘËĚÍÎĎĐŃŇÓÔŐÖ×ŘŮÚŰÜÝŢßŕáâăäĺćçčéęëěíîďđńňóôőö÷řůúűüýţ˙"  },  "win1250": "windows1250",  "cp1250": "windows1250",  "windows1251": {    "type": "_sbcs",
+	©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿აბგდევზჱთიკლმნჲოპჟრსტჳუფქღყშჩცძწჭხჴჯჰჵæçèéêëìíîïðñòóôõö÷øùúûüýþÿ"  },  "pt154":    "type": "_sbcs",
+	©×«¬­®¯°±²³´µ¶·¸¹÷»¼½¾¿ְֱֲֳִֵֶַָֹֺֻּֽ־ֿ׀ׁׂ׃װױײ׳״�������אבגדהוזחטיךכלםמןנסעףפץצקרשת��‎‏�"  },  "win1255": "windows1255",  "cp1255": "windows1255",  "windows1256": {    "type": "_sbcs",
+	©ͺ«¬­�―°±²³΄΅Ά·ΈΉΊ»Ό½ΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡ�ΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώ�"  },  "cp28597": "iso88597",  "iso88598": {    "type": "_sbcs",
+	©╣║╗╝¢¥┐└┴┬├─┼��╚╔╩╦╠═╬¤���������┘┌█▄¦�▀������µ�������¯´­±‗¾¶§÷¸°¨·¹³²■ "  },  "ibm856": "cp856",  "csibm856": "cp856",  "cp857": {    "type": "_sbcs",
+	©╣║╗╝¢¥┐└┴┬├─┼ãÃ╚╔╩╦╠═╬¤ºªÊËÈ�ÍÎÏ┘┌█▄¦Ì▀ÓßÔÒõÕµ�×ÚÛÙìÿ¯´­±�¾¶§÷¸°¨·¹³²■ "  },  "ibm857": "cp857",  "csibm857": "cp857",  "cp858": {    "type": "_sbcs",
+	©™Ђђ≠Ѓѓ∞±≤≥іµ∂ЈЄєЇїЉљЊњјЅ¬√ƒ≈∆«»… ЋћЌќѕ–—“”‘’÷„ЎўЏџ№Ёёяабвгдежзийклмнопрстуфхцчшщъыьэю¤"  },  "macgreek":    "type": "_sbcs",
+	©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ"  },  "cp28591": "iso88591",  "iso88592": {    "type": "_sbcs",    "chars": "
+	©Ŗ«¬­®Æ°±²³´µ¶·ø¹ŗ»¼½¾æĄĮĀĆÄÅĘĒČÉŹĖĢĶĪĻŠŃŅÓŌÕÖ×ŲŁŚŪÜŻŽßąįāćäåęēčéźėģķīļšńņóōõö÷ųłśūüżž˙"  },  "win1257": "windows1257",  "cp1257": "windows1257",  "windows1258": {    "type": "_sbcs",
+	©ª«¬­®¯°±²³Žµ¶·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ"  },  "cp28605": "iso885915",  "iso885916": {    "type": "_sbcs",
+	©�«¬­®―°±²³΄µ¶·ΈΉΊ»Ό½ΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡ�ΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώ�"  },  "win1253": "windows1253",  "cp1253": "windows1253",  "windows1254": {    "type": "_sbcs",
+	©ھ«¬­®¯°±²³´µ¶·¸¹؛»¼½¾؟ہءآأؤإئابةتثجحخدذرزسشصض×طظعغـفقكàلâمنهوçèéêëىيîïًٌٍَôُِ÷ّùْûü‎‏ے"  },  "win1256": "windows1256",  "cp1256": "windows1256",  "windows1257": {    "type": "_sbcs",
+	©×«¬­®¯°±²³´µ¶·¸¹÷»¼½¾��������������������������������‗אבגדהוזחטיךכלםמןנסעףפץצקרשת��‎‏�"  },  "cp28598": "iso88598",  "iso88599": {    "type": "_sbcs",
+	©™ę¨≠ģĮįĪ≤≥īĶ∂∑łĻļĽľĹĺŅņŃ¬√ńŇ∆«»… ňŐÕőŌ–—“”‘’÷◊ōŔŕŘ‹›řŖŗŠ‚„šŚśÁŤťÍŽžŪÓÔūŮÚůŰűŲųÝýķŻŁżĢˇ"    },
+	©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂĂÄÅÆÇÈÉÊË̀ÍÎÏĐÑ̉ÓÔƠÖ×ØÙÚÛÜỮßàáâăäåæçèéêë́íîïđṇ̃óôơö÷øùúûüư₫ÿ"  },  "win1258": "windows1258",  "cp1258": "windows1258",  "iso88591": {    "type": "_sbcs",
+	©юабцдефгхийклмнопярстужвьызшэщчъЮАБЦДЕФГХИЙКЛМНОПЯРСТУЖВЬЫЗШЭЩЧЪ"  },  "koi8t":    "type": "_sbcs",
+	©®¬½¼Ł«»░▒▓│┤ĄČĘĖ╣║╗╝ĮŠ┐└┴┬├─┼ŲŪ╚╔╩╦╠═╬Žąčęėįšųūž┘┌█▄▌▐▀ÓßŌŃõÕµńĶķĻļņĒŅ’­±“¾¶§÷„°∙·¹³²■ "  },  "ibm775": "cp775",  "csibm775": "cp775",  "cp850": {    "type": "_sbcs",
+	©Є«¬­®Ї°±Ііґµ¶·ё№є»јЅѕїАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя"  },  "win1251": "windows1251",  "cp1251": "windows1251",  "windows1252": {    "type": "_sbcs",
+	©Ә«¬ӯ®Ҝ°ұІіҙө¶·ё№ә»јҪҫҝАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя"  },  "viscii":    "type": "_sbcs",    "chars": "\u0000\u0001Ẳ\u0003\u0004ẴẪ\u0007\b\t\n\u000b\f\r\u000e\u00
+	©®™¤№"],["8fa6e1","["8fa6e7","Ό"],["8fa6e9","ΎΫ"],["8fa6ec","Ώ"],["8fa6f1","άέήίϊΐόςύϋΰώ"],["8fa7c2","Ђ",10,"ЎЏ"],["8fa7f2","ђ",10,"ўџ"],["8fa9a1","ÆĐ"],["8fa9a4","Ħ"],["8fa9a6","Ĳ"],["8fa9
+	©ª«¬­®‾°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏŠÑÒÓÔÕÖ×ØÙÚÛÜÝŽßàáâãäåæçèéêëìíîïšñòóôõö÷øùúûüýžÿ"  },  "ibm922": "cp922",  "csibm922": "cp922",  "cp1046": {    "type": "_sbcs",    "chars": "ﺈ×÷ﹱ■│─┐
+	©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄¤ÐðÞþý·‚„‰ÂÊÁËÈÍÎÏÌÓÔ�ÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ"  },  "macroman":    "type": "_sbcs",
+	©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ"  },  "win1254": "windows1254",  "cp1254": "windows1254",  "windows1255": {    "type": "_sbcs",
+	©ΣΪ§≠°·Α±≤≥¥ΒΕΖΗΙΚΜΦΫΨΩάΝ¬ΟΡ≈Τ«»… ΥΧΆΈœ–―“”‘’÷ΉΊΌΎέήίόΏύαβψδεφγηιξκλμνοπώρστθωςχυζϊϋΐΰ�"  },  "maciceland":    "type": "_sbcs",
+	©юабцдефгхийклмнопярстужвьызшэщчъЮАБЦДЕФГХИЙКЛМНОПЯРСТУЖВЬЫЗШЭЩЧЪ"  },  "koi8ru":    "type": "_sbcs",
+	©⁄¤‹›Æ»–·‚„‰ÂćÁčÈÍÎÏÌÓÔđÒÚÛÙıˆ˜¯πË˚¸Êæˇ"  },  "maccyrillic":    "type": "_sbcs",
+	©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ"  },  "cp28599": "iso88599",  "iso885910": {    "type": "_sbcs",    "chars": "
+	©╣║╗╝¢¥┐└┴┬├─┼ãÃ╚╔╩╦╠═╬¤ðÐÊËÈ€ÍÎÏ┘┌█▄¦Ì▀ÓßÔÒõÕµþÞÚÛÙýÝ¯´­±‗¾¶§÷¸°¨·¹³²■ "  },  "ibm858": "cp858",  "csibm858": "cp858",  "cp860": {    "type": "_sbcs",    "chars": "ÇüéâãàÁçêÊèÍÔìÃÂÉÀÈôõòÚùÌÕÜ¢£
+	©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ"  },  "win1252": "windows1252",  "cp1252": "windows1252",  "windows1253": {    "type": "_sbcs",
+	©юабцдефгхийклмнопярстужвьызшэщчъЮАБЦДЕФГХИЙКЛМНОПЯРСТУЖВЬЫЗШЭЩЧЪ"  },  "koi8u":    "type": "_sbcs",
+	©����"  },  "macturkish":    "type": "_sbcs",
+	©Ғ«¬­®Ү°±Ііөµ¶·ё№ғ»әҢңүАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя"  },  "tcvn":    "type": "_sbcs",    "chars": "\u0000ÚỤ\u0003ỪỬỮ\u0007\b\t\n\u000b\f\r\u000e\u000f\u0010ỨỰỲỶ
+	©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶçèéêëìíîïðñòóôõö÷øùúûüýþÿ"  },  "georgianps":    "type": "_sbcs",
+	©ª«¬­®¯°±²³Ÿµ¶·Œ¹º»¼½¾¿ÀÁÂĂÄÅÆÇÈÉÊË̀ÍÎÏĐÑ̉ÓÔƠÖ×ØÙÚÛÜỮßàáâăäåæçèéêë́íîïđṇ̃óôơö÷øùúûüư₫ÿ"  },  "ibm1129": "cp1129",  "csibm1129": "cp1129",  "cp1133": {    "type": "_sbcs",    "chars": "
+	©™Ђђ≠Ѓѓ∞±≤≥іµґЈЄєЇїЉљЊњјЅ¬√ƒ≈∆«»… ЋћЌќѕ–—“”‘’÷„ЎўЏџ№Ёёяабвгдежзийклмнопрстуфхцчшщъыьэю¤"  },  "koi8r":    "type": "_sbcs",
+	©Ŗ«¬­®Æ°±²³“µ¶·ø¹ŗ»¼½¾æĄĮĀĆÄÅĘĒČÉŹĖĢĶĪĻŠŃŅÓŌÕÖ×ŲŁŚŪÜŻŽßąįāćäåęēčéźėģķīļšńņóōõö÷ųłśūüżž’"  },  "cp28603": "iso885913",  "iso885914": {    "type": "_sbcs",
+	©Ș«Ź­źŻ°±ČłŽ”¶·žčș»ŒœŸżÀÁÂĂÄĆÆÇÈÉÊËÌÍÎÏĐŃÒÓÔŐÖŚŰÙÚÛÜĘȚßàáâăäćæçèéêëìíîïđńòóôőöśűùúûüęțÿ"  },  "cp28606": "iso885916",  "cp437": {    "type": "_sbcs",    "chars": "ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜ¢£¥₧ƒ
+	©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸĞğİıŞş‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔ�ÒÚÛÙ�ˆ˜¯˘˙˚¸˝˛ˇ"  },  "macukraine":    "type": "_sbcs",
+	©ª«¬­®¯°±²³Ÿµ¶·Œ¹º»¼½¾¿ÀÁÂĂÄÅÆÇÈÉÊË̀ÍÎÏĐÑ̉ÓÔƠÖ×ØÙÚÛÜỮßàáâăäåæçèéêë́íîïđṇ̃óôơö÷øùúûüư₫ÿ"  },  "ibm1163": "cp1163",  "csibm1163": "cp1163",  "maccroatian": {    "type": "_sbcs",
+	©юабцдефгхийклмнопярстужвьызшэщчъЮАБЦДЕФГХИЙКЛМНОПЯРСТУЖВЬЫЗШЭЩЧЪ"  },  "armscii8":    "type": "_sbcs",    "chars": " �և։)(»«—.՝,-֊…՜՛՞ԱաԲբԳգԴդԵեԶզԷէԸըԹթԺժԻիԼլԽխԾծԿ
+	©ẂḋỲ­®ŸḞḟĠġṀṁ¶ṖẁṗẃṠỳẄẅṡÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏŴÑÒÓÔÕÖṪØÙÚÛÜÝŶßàáâãäåæçèéêëìíîïŵñòóôõöṫøùúûüýŷÿ"  },  "cp28604": "iso885914",  "iso885915": {    "type": "_sbcs",
+	©Ώ²³ά£έήίϊΐόύΑΒΓΔΕΖΗ½ΘΙ«»░▒▓│┤ΚΛΜΝ╣║╗╝ΞΟ┐└┴┬├─┼ΠΡ╚╔╩╦╠═╬ΣΤΥΦΧΨΩαβγ┘┌█▄δε▀ζηθικλμνξοπρσςτ΄­±υφχ§ψ΅°¨ωϋΰώ■ "  },  "ibm869": "cp869",  "csibm869": "cp869",  "cp922": {    "type": "_sbcs",
+	Copyright (c) 2011 Alexander Shtuchkin
+	©™´¨≠ĂŞ∞±≤≥¥µ∂∑∏π∫ªºΩăş¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄¤‹›Ţţ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔ�ÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ"  },  "macthai":    "type": "_sbcs",
+	©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄¤‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔ�ÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ"  },  "ascii":    "type": "_sbcs",    "chars": "������������������������������������������������������������
+	©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄¤‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔ�ÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ"  },  "macromania":    "type": "_sbcs",
+	©╣║╗╝¢¥┐└┴┬├─┼ãÃ╚╔╩╦╠═╬¤ðÐÊËÈıÍÎÏ┘┌█▄¦Ì▀ÓßÔÒõÕµþÞÚÛÙýÝ¯´­±‗¾¶§÷¸°¨·¹³²■ "  },  "ibm850": "cp850",  "csibm850": "cp850",  "cp852": {    "type": "_sbcs",    "chars": "ÇüéâäůćçłëŐőîŹÄĆÉĹĺôöĽľŚśÖÜŤť
 inconshreveable/mousetrap 0.0~git20141017.0.76626ae
 	copyright-format/1.0/Upstream-Name: github.com/inconshreveable/mousetrapSource: https://github.com/inconshreveable/mousetrap
 	Copyright 2014 Alan Shreve
@@ -1234,6 +1286,8 @@ rebar 2.5.1
 	Copyright (c) 2011 Trifork%%%% Permission is hereby granted, free of charge, to any person obtaining a copy%% of this software and associated documentation files (the "Software"), to deal%% in the
 	Copyright (c) 2011-2014 Tuncer Ayaz%%%% Permission is hereby granted, free of charge, to any person obtaining a copy%% of this software and associated documentation files (the "Software"), to deal
 	Copyright (c) 2013-2014 Tuncer Ayaz%%%% Permission is hereby granted, free of charge, to any person obtaining a copy%% of this software and associated documentation files (the "Software"), to deal
+rw 1.3.3
+	Copyright (c) 2014-2016, Michael BostockAll rights reserved
 RxJava 1.3.8
 	Copyright 2015 Netflix, Inc. * * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in * compliance with the License. You may obtain a copy of the Lice
 	Copyright 2015 Netflix, Inc. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
@@ -1249,6 +1303,8 @@ RxJava 1.3.8
 	Copyright 2014 Netflix, Inc. * <p/> * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of 
 	Copyright 2016 Netflix, Inc. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 	Copyright 2015 Netflix, Inc. * * Licensed under the Apache License, Version 2.0 (the "License"); you may not * use this file except in compliance with the License. You may obtain a copy of * the L
+safer-buffer 2.1.2
+	Copyright (c) 2018 Nikita Skovoroda <chalkerx@gmail.com>
 sigmund 1.0.1
 	Copyright (c) Isaac Z. Schlueter and Contributors
 	Copyright (c) Isaac Z. Schlueter and ContributorsPermission to use, copy, modify, and/or distribute this software for anypurpose with or without fee is hereby granted, provided that the abovec
@@ -2427,7 +2483,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(blevesearch/mmap-go v1.0.2, breakpad svn-r0, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-shape v1.3.7, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, lz4 1.8.0, PCRE 8.41, PCRE 8.43, texlive-full 2020.20200327)
+(blevesearch/mmap-go v1.0.2, breakpad svn-r0, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-shape v1.3.7, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, lz4 1.8.0, PCRE 8.41, PCRE 8.43, texlive-full 2020.20200327)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -2781,6 +2837,48 @@ Redistribution and use in source and binary forms, with or without
  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(rw 1.3.3)
+
+Upstream-Contact: https://github.com/mbostock/rw/issues
+Source: https://github.com/mbostock/rw
+
+Files: *
+Copyright: 2014-2016 Mike Bostock (http://bost.ocks.org/mike)
+License: BSD-3-Clause
+
+Files: debian/*
+Copyright: 2017 Pirate Praveen <praveen@debian.org>
+License: BSD-3-Clause
+
+License: BSD-3-clause
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+ 3. Neither the name of the University nor the names of its contributors
+    may be used to endorse or promote products derived from this software
+    without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE HOLDERS OR
+ CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+ EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+ PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+ NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -7806,6 +7904,32 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
+(iconv-lite v0.4.24)
+
+Copyright (c) 2011 Alexander Shtuchkin
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (config-chain 1.1.12)
 
 Copyright (c) 2011 Dominic Tarr
@@ -8215,6 +8339,33 @@ MIT License
 MIT License
 
 Copyright (c) 2016 Leonid Bugaev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
+(safer-buffer 2.1.2)
+
+MIT License
+
+Copyright (c) 2018 Nikita Skovoroda <chalkerx@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
