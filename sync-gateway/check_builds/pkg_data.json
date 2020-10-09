@@ -276,6 +276,81 @@
               }
             },
             "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
+          "2.7.4": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              },
+              "macosx": {
+                "arch": "x86_64",
+                "ext": "zip"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
+          "2.8.0": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              },
+              "macosx": {
+                "arch": "x86_64",
+                "ext": "zip"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
+          },
+          "3.0.0": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "debian": {
+                "arch": "x86_64",
+                "ext": "deb"
+              },
+              "redhat": {
+                "arch": "x86_64",
+                "ext": "rpm"
+              },
+              "windows": {
+                "arch": "x86_64",
+                "ext": "msi"
+              },
+              "macosx": {
+                "arch": "x86_64",
+                "ext": "zip"
+              }
+            },
+            "template": "{package}-{edition}_{VERSION}-{BLD_NUM}_{arch}.{ext}"
           }
         }
       },
