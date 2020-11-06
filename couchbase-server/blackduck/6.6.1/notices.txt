@@ -135,6 +135,7 @@ golang-github-edsrzf-mmap-go 0.0~git20160512.0.935e0e8 : BSD 3-clause "New" or "
 golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 : BSD 2-clause "Simplified" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170227-snapshot-30f82fa2 : BSD 2-clause "Simplified" License
 golang-github-gorilla-context 0 : BSD 3-clause "New" or "Revised" License
+golang-github-grpc-grpc-go-devel 1.18.0 : BSD 3-clause "New" or "Revised" License
 golang-github-json-iterator-go-dev 1.0.6 : MIT License
 golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 : MIT License
 golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
@@ -2072,6 +2073,13 @@ golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 debian:go
 	Copyright: 2014-2015 Elazar LeibovichLicense: BSD-2-clause
 	Copyright: 2015 Tim Potter <tpot@hpe.com>License: BSD-2-clauseComment: Debian packaging is licensed under the same terms as upstream
 	copyright-format/1.0/Upstream-Name: go-bindata-assetfsSource: https://github.com/elazarl/go-bindata-assetfs
+golang-github-grpc-grpc-go-devel 1.18.0 fedora:golang-github-grpc-grpc-go-devel/1.18.0-2.fc31/aarch64
+	Copyright 2014 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
+	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
+	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
+	Copyright 2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
+	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
+	Copyright 2019 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 golang-github-json-iterator-go-dev 1.0.6 ubuntu:golang-github-json-iterator-go/1.0.6-1
 	Copyright (c) 2016 json-iterator
 	Copyright: 2016 json-iterator <taowen@didichuxing.com>License: Expat
@@ -2099,7 +2107,7 @@ golang-github-spf13-pflag-dev 20170607-snapshot github:spf13/pflag:20170607-snap
 	Copyright (c) 2012 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
-golang-golangorg-crypto-devel 0 fedora:golang-golangorg-crypto-devel/0-0.20.20180306git9419663.fc29/x86_64
+golang-golangorg-crypto-devel 0 fedora:golang-golangorg-crypto-devel/0-0.20.20180306git9419663.fc28/x86_64
 	Copyright (c) 2009 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
@@ -5735,7 +5743,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(go-zookeeper 20150410-snapshot-fa6674ab, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, OpenJDK 11.0.9+11, PCRE 8.43)
+(go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, OpenJDK 11.0.9+11, PCRE 8.43)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
