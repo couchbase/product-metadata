@@ -167,7 +167,6 @@ golang-github-edsrzf-mmap-go 0.0~git20160512.0.935e0e8 : BSD 3-clause "New" or "
 golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 : BSD 2-clause "Simplified" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170227-snapshot-30f82fa2 : BSD 2-clause "Simplified" License
 golang-github-gorilla-context 0 : BSD 3-clause "New" or "Revised" License
-golang-github-grpc-grpc-go-devel 1.18.0 : BSD 3-clause "New" or "Revised" License
 golang-github-json-iterator-go-dev 1.0.6 : MIT License
 golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 : MIT License
 golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
@@ -2300,13 +2299,6 @@ golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 debian:go
 	Copyright: 2014-2015 Elazar LeibovichLicense: BSD-2-clause
 	Copyright: 2015 Tim Potter <tpot@hpe.com>License: BSD-2-clauseComment: Debian packaging is licensed under the same terms as upstream
 	copyright-format/1.0/Upstream-Name: go-bindata-assetfsSource: https://github.com/elazarl/go-bindata-assetfs
-golang-github-grpc-grpc-go-devel 1.18.0 fedora:golang-github-grpc-grpc-go-devel/1.18.0-2.fc31/aarch64
-	Copyright 2014 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2019 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 golang-github-json-iterator-go-dev 1.0.6 ubuntu:golang-github-json-iterator-go/1.0.6-1
 	Copyright (c) 2016 json-iterator
 	Copyright: 2016 json-iterator <taowen@didichuxing.com>License: Expat
@@ -2318,7 +2310,7 @@ golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 ubuntu:golang-g
 	Copyright: 2015 Lee McLoughlin           2014 Google, Inc.License: Expat
 	Copyright: 2017 Michael Lustfield <michael@lustfield.net>License: ExpatComment: Debian packaging is licensed under the same terms as upstream
 	copyright-format/1.0/Upstream-Name: gofarmhashSource: https://github.com/leemcloughlin/gofarmhash
-golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 ubuntu:golang-github-ryszard-goskiplist/0.0~git20150312.2dfbae5-2
+golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 debian:golang-github-ryszard-goskiplist/0.0~git20150312.2dfbae5-2
 	Copyright 2012 Google Inc. All rights reserved
 	Copyright: 2012 Google Inc., SoundCloud, Ltd.License: Apache-2.0Comment: Contributors:
 	Copyright: 2019 Drew Parsons <dparsons@debian.org>License: Apache-2.0Comment: Debian packaging is licensed under the same terms as upstream
@@ -6283,7 +6275,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 3-clause "New" or "Revised" License
-(d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, go-zookeeper 20150410-snapshot-fa6674ab, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, lz4 1.8.0, OpenJDK 11.0.9+11, PCRE 8.41, PCRE 8.43, Stax2 API 4.2, texlive-full 2020.20200327)
+(d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-transition v1.3.2, d3-zoom 1.8.3, go-zookeeper 20150410-snapshot-fa6674ab, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, lz4 1.8.0, OpenJDK 11.0.9+11, PCRE 8.41, PCRE 8.43, Stax2 API 4.2, texlive-full 2020.20200327)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
