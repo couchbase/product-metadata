@@ -115,7 +115,6 @@ github.com/syndtr/gosnappy 20150730-snapshot-156a0732 : BSD 3-clause "New" or "R
 glenn-brown/golang-pkg-pcre 20120522-snapshot-48bb82a8 : BSD 2-clause "Simplified" License
 glog 0.3.5 : BSD 3-clause "New" or "Revised" License
 glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55 : MIT License
-Go programming language 0.0+git20170629.c81e7f2 : BSD 3-clause "New" or "Revised" License
 Go programming language 0.0~git20190125.d66bd3c+ds : BSD 3-clause "New" or "Revised" License
 Go programming language 20171128-snapshot-57961680 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.3.0 : MIT License
@@ -128,7 +127,6 @@ go-spew v1.1.1 : ISC License
 go-sqlite3 master-20100709 : BSD 2-clause "Simplified" License
 go-zookeeper 20150410-snapshot-fa6674ab : BSD 3-clause "New" or "Revised" License
 go.etcd.io/bbolt v1.3.1-etcd.8 : MIT License
-golang protobuf 20181130-snapshot : BSD 3-clause "New" or "Revised" License
 golang protobuf 20190115-snapshot : BSD 3-clause "New" or "Revised" License
 golang-github-aws-aws-sdk-go 1.34.22 : Apache License 2.0
 golang-github-edsrzf-mmap-go 0.0~git20160512.0.935e0e8 : BSD 3-clause "New" or "Revised" License
@@ -142,7 +140,6 @@ golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
 golang-github-spf13-pflag-dev 20170607-snapshot : BSD 3-clause "New" or "Revised" License
 golang-golangorg-crypto-devel 0 : BSD 3-clause "New" or "Revised" License
 golang-google-genproto-dev 0.0~git20171123.7f0da29 : Apache License 2.0
-golang-google-grpc 1.15.0 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20150731-snapshot-a911026e : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20160302-snapshot : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20171230-snapshot : BSD 3-clause "New" or "Revised" License
@@ -151,8 +148,8 @@ golang.org/x/crypto 20180222-snapshot-432090b8 : BSD 3-clause "New" or "Revised"
 golang.org/x/crypto 20180502-snapshot-faadfbdc : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180704-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180925-snapshot : BSD 3-clause "New" or "Revised" License
-golang.org/x/net 20170911-snapshot-66aacef3 : BSD 3-clause "New" or "Revised" License
-golang.org/x/net 20180223-snapshot : BSD 3-clause "New" or "Revised" License
+golang.org/x/net 20180925-snapshot : BSD 3-clause "New" or "Revised" License
+golang.org/x/net 20190327-snapshot-e3b2ff56 : BSD 3-clause "New" or "Revised" License
 golang.org/x/text 20171230-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools 20181107-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
@@ -166,7 +163,7 @@ Gorilla Web Toolkit 20170523-snapshot : BSD 3-clause "New" or "Revised" License
 gorilla/muxy 20170123-snapshot-65b4fd5d : BSD 3-clause "New" or "Revised" License
 goskiplist 20170622-snapshot : Apache License 2.0
 grpc 1.12.0 : Apache License 2.0
-grpc-go 20190429-snapshot : Apache License 2.0
+grpc-go v1.24.0 : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1 : Apache License 2.0
 Guava: Google Core Libraries for Java 28.2-jre : Apache License 2.0
 HdrHistogram_c 0.9.12 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
@@ -247,6 +244,7 @@ philhofer-fwd v1.0.0 : MIT License
 pierrec-lz4 v1.1 : BSD 3-clause "New" or "Revised" License
 pierrec-xxHash 20180819-snapshot : BSD 3-clause "New" or "Revised" License
 pkg/errors 20180417-snapshot-30136e27 : BSD 2-clause "Simplified" License
+platform-external-golang-protobuf android-r-beta-2 : BSD 3-clause "New" or "Revised" License
 pmezard-go-difflib 1.0.0 : BSD 3-clause "New" or "Revised" License
 reactive-streams 1.0.2 : Creative Commons Zero v1.0 Universal
 rebar 2.1.0-pre : Apache License 2.0
@@ -1154,216 +1152,6 @@ glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55 debian:golang-github-glycerin
 	copyright (c) 2014, Jason E. Aten// license: MIT
 	copyright 2010 The Go Authors.
 	copyright-format/1.0/Upstream-Name: go-unsnap-streamSource: https://github.com/glycerine/go-unsnap-streamFiles-Excluded:
-Go programming language 0.0+git20170629.c81e7f2 debian:golang-golang-x-net-dev/1:0.0+git20170629.c81e7f2+dfsg-2
-	&copy = &#169f =
-	Copyright (C) 2009 Apple Inc. All rights reserved
-	Copyright (c) 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2010 The Go Authors. All rights reserved
-	Copyright 2010 The Go Authors. All rights reserved
-	Copyright 2010 The Go Authors. All rights reserved
-	Copyright 2011 The Go Authors. All rights reserved
-	Copyright 2011 The Go Authors. All rights reserved
-	Copyright 2011 The Go Authors. All rights reserved
-	Copyright 2011 The Go Authors. All rights reserved
-	Copyright 2011 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright Convention      (as revised on July 24, 1971). These rights and subject matter      take effect in the relevant jurisdiction in which the License      terms are sought to be enforced acco
-	Copyright: 2009 Apple Inc. All rights reserved
-	Copyright: 2009-2014 World Wide Web Consortium, (MIT, ERCIM, Keio, Beihang).License: W3CComment:
-	Copyright: 2011-2016 The Go AuthorsLicense: BSD-3-Clause
-	Copyright: 2012 The Go Authors. All rights reserved
-	Copyright: 2013 Jonathan Dray <jonathan.dray@gmail.com>           2015 Martín Ferrari <tincho@debian.org>License: BSD-3-Clause
-	copyright      in the Work). Notwithstanding the above, Licensor reserves the      right to release the Work under different license terms or to      stop distributing the Work at any time; provide
-	copyright in this software and any associated documentation will at all times remain with copyright holders. . Notes
-	copyright or rights arising from limitations or exceptions that are provided for in
-	copyright protection under copyright law or other applicable laws. . 3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, no
-	copyright-format/1.0/Upstream-Name: golang.org/x/netSource: https://go.googlesource.com/net/Comment: https://github.com/golang/netFiles-Excluded: http2/testdata/draft-ietf-httpbis-http2.xml
-	copyright-software-20021231 . This formulation of W3C's notice and license became active on December 31 2002. This version removes the copyright ownership notice such that this license can be used
-	©",	},	// Handle numeric ISO-8859-1 entity replacements.	{		"numericReplacements",		"Footnote&#x87;",		"Footnote‡",
 Go programming language 0.0~git20190125.d66bd3c+ds ubuntu:golang-golang-x-tools/1:0.0~git20190125.d66bd3c+ds-2
 	&copy	ctxt.OpenFile = func(path string) (io.ReadCloser, error)		// Fast path: names match exactly.		if content, ok := overlay[path]; ok {			return rc(content)		}
 	Copyright %d The Go Authors. All rights reserved
@@ -2027,18 +1815,6 @@ go-spew v1.1.1 github:davecgh/go-spew:v1.1.1
 	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>
 go.etcd.io/bbolt v1.3.1-etcd.8 github:etcd-io/bbolt:v1.3.1-etcd.8
 	Copyright (c) 2013 Ben Johnson
-golang protobuf 20181130-snapshot github:golang/protobuf:20181130-snapshot
-	Copyright 2010 The Go Authors.https://github.com/golang/protobuf
-	Copyright 2010 The Go Authors.  All rights reserved
-	Copyright 2010 The Go Authors.  All rights reserved
-	Copyright 2011 The Go Authors.  All rights reserved
-	Copyright 2012 The Go Authors.  All rights reserved
-	Copyright 2013 The Go Authors.  All rights reserved
-	Copyright 2014 The Go Authors.  All rights reserved
-	Copyright 2015 The Go Authors.  All rights reserved
-	Copyright 2016 The Go Authors.  All rights reserved
-	Copyright 2017 The Go Authors.  All rights reserved
-	Copyright 2018 The Go Authors.  All rights reserved
 golang protobuf 20190115-snapshot github:golang/protobuf:20190115-snapshot
 	Copyright 2010 The Go Authors.https://github.com/golang/protobuf
 	Copyright 2010 The Go Authors.  All rights reserved
@@ -2240,19 +2016,6 @@ golang-google-genproto-dev 0.0~git20171123.7f0da29 debian:golang-google-genproto
 	Copyright: 2016 MartLicense: Apache-2.0Comment: Debian packaging is licensed under the same terms as upstream
 	Copyright: 2016-2017 Google Inc.License: Apache-2.0
 	copyright-format/1.0/Upstream-Name: google.golang.org/genprotoSource: https://github.com/google/go-genproto
-golang-google-grpc 1.15.0 debian:golang-google-grpc-dev/1.15.0-1/all
-	Copyright 2014 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2016 gRPC authors.
-	Copyright 2016 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2017 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	Copyright: 2014-2016 Google Inc.License: BSD-3-clause
-	Copyright: 2015-2016 Dmitry Smirnov <onlyjob@debian.org>License: GPL-3+
-	Copyright: 2015-2016 Dmitry Smirnov <onlyjob@debian.org>License: GPL-3+ or BSD-3-clauseComment: patches can be licensed under the same terms as upstream.
-	Copyright: 2017 Google Inc.License: Apache-2.0Comment: Missing sources for the gRPC protobuf definitions. Copied from https://github.com/grpc/grpc-proto/tree/master/grpc at commit da219ab.
-	Copyright: 2017 Google Inc.License: Apache-2.0Comment: Type definitions for general RPC systems vendored from https://github.com/googleapis/googleapis/tree/master/google/rpc at commit ae909b8.
-	copyright-format/1.0/Upstream-Name: grpc-goSource: https://github.com/grpc/grpc-go
 golang-snappy-go-dev 20150731-snapshot-a911026e github:golang/snappy:a911026e1ffa84898778ccb0363930485e0aa880
 	Copyright 2011 The Snappy-Go Authors. All rights reserved
 	Copyright 2011 The Snappy-Go Authors. All rights reserved
@@ -3067,7 +2830,7 @@ golang.org/x/crypto 20180925-snapshot long_tail:golang.org/x/crypto#20180925-sna
 	Copyright 2018 The Go Authors. All rights reserved
 	Copyright 2018 The Go Authors. All rights reserved
 	Copyright 2018 The Go Authors. All rights reserved
-golang.org/x/net 20170911-snapshot-66aacef3 long_tail:golang.org/x/net#66aacef3dd8a676686c7ae3716979581e8b03c47
+golang.org/x/net 20180925-snapshot long_tail:golang.org/x/net#20180925-snapshot
 	&copy = &#169f =
 	Copyright (C) 2009 Apple Inc. All rights reserved
 	Copyright (c) 2009 The Go Authors. All rights reserved
@@ -3079,6 +2842,7 @@ golang.org/x/net 20170911-snapshot-66aacef3 long_tail:golang.org/x/net#66aacef3d
 	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
+	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2010 The Go Authors. All rights reserved
 	Copyright 2010 The Go Authors. All rights reserved
 	Copyright 2010 The Go Authors. All rights reserved
@@ -3113,6 +2877,10 @@ golang.org/x/net 20170911-snapshot-66aacef3 long_tail:golang.org/x/net#66aacef3d
 	Copyright 2012 The Go Authors. All rights reserved
 	Copyright 2012 The Go Authors. All rights reserved
 	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
 	Copyright 2013 The Go Authors. All rights reserved
 	Copyright 2013 The Go Authors. All rights reserved
 	Copyright 2013 The Go Authors. All rights reserved
@@ -3134,6 +2902,10 @@ golang.org/x/net 20170911-snapshot-66aacef3 long_tail:golang.org/x/net#66aacef3d
 	Copyright 2013 The Go Authors. All rights reserved
 	Copyright 2013 The Go Authors. All rights reserved
 	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
 	Copyright 2014 The Go Authors. All rights reserved
 	Copyright 2014 The Go Authors. All rights reserved
 	Copyright 2014 The Go Authors. All rights reserved
@@ -3190,7 +2962,6 @@ golang.org/x/net 20170911-snapshot-66aacef3 long_tail:golang.org/x/net#66aacef3d
 	Copyright 2015 The Go Authors. All rights reserved
 	Copyright 2015 The Go Authors. All rights reserved
 	Copyright 2015 The Go Authors. All rights reserved
-	Copyright 2015 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
@@ -3220,6 +2991,7 @@ golang.org/x/net 20170911-snapshot-66aacef3 long_tail:golang.org/x/net#66aacef3d
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2017 The Go Authors. All rights reserved
 	Copyright 2017 The Go Authors. All rights reserved
 	Copyright 2017 The Go Authors. All rights reserved
@@ -3264,52 +3036,16 @@ golang.org/x/net 20170911-snapshot-66aacef3 long_tail:golang.org/x/net#66aacef3d
 	Copyright 2017 The Go Authors. All rights reserved
 	Copyright 2017 The Go Authors. All rights reserved
 	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
 	©",	},	// Handle numeric ISO-8859-1 entity replacements.	{		"numericReplacements",		"Footnote&#x87;",		"Footnote‡",
-golang.org/x/net 20180223-snapshot long_tail:golang.org/x/net#20180223-snapshot
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2013 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
-	Copyright 2014 The Go Authors. All rights reserved
+golang.org/x/net 20190327-snapshot-e3b2ff56 long_tail:golang.org/x/net#e3b2ff56ed879efa686c9d09ed74f9bfe42f1a1d
+	Copyright (c) 2009 The Go Authors. All rights reserved
 	Copyright 2014 The Go Authors. All rights reserved
 	Copyright 2014 The Go Authors. All rights reserved
 	Copyright 2014 The Go Authors. All rights reserved
@@ -3324,53 +3060,17 @@ golang.org/x/net 20180223-snapshot long_tail:golang.org/x/net#20180223-snapshot
 	Copyright 2015 The Go Authors. All rights reserved
 	Copyright 2015 The Go Authors. All rights reserved
 	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
-	Copyright 2016 The Go Authors. All rights reserved
 	Copyright 2017 The Go Authors. All rights reserved
 	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
-	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
 golang.org/x/text 20171230-snapshot long_tail:golang.org/x/text#20171230-snapshot
 	Copyright 2012 The Go Authors. All rights reserved
 	Copyright 2012 The Go Authors. All rights reserved
@@ -3918,7 +3618,7 @@ Gorilla Web Toolkit 20170523-snapshot github:gorilla/mux:20170523-snapshot
 	Copyright 2012 The Gorilla Authors. All rights reserved
 goskiplist 20170622-snapshot github:ryszard/goskiplist:20170622-snapshot
 	Copyright 2012 Google Inc. All rights reserved
-grpc-go 20190429-snapshot github:grpc/grpc-go:20190429-snapshot
+grpc-go v1.24.0 fedora:golang-google-grpc/1.24.0-2.fc32/armv7hl
 	Copyright 2014 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 	Copyright 2015 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 	Copyright 2016 gRPC authors.
@@ -3927,8 +3627,7 @@ grpc-go 20190429-snapshot github:grpc/grpc-go:20190429-snapshot
 	Copyright 2018 gRPC authors.
 	Copyright 2018 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
 	Copyright 2019 gRPC authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the L
-	copyright message.git ls-files "*.go" | xargs grep -L "\(Copyright [0-9]\{4,\} gRPC authors\)\|DO NOT EDIT" 2>&1 | fail_on_output
-	copyright message.git ls-files "*.go" | xargs grep -L "\(Copyright [0-9]\{4,\} gRPC authors\)\|DO NOT EDIT" 2>&1 | fail_on_output
+	copyright message.(! git grep -L "\(Copyright [0-9]\{4,\} gRPC authors\)\|DO NOT EDIT" -- '*.go')
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1 maven:com.google.guava:failureaccess:1.0.1
 	Copyright &#169; 2010</body>
 	Copyright (C) 2018 The Guava Authors * * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except * in compliance with the License. You may obtain a copy of 
@@ -4676,7 +4375,7 @@ willf/bitset v1.0.0 github:willf/bitset:v1.0.0
 Licenses: 
 
 Apache License 2.0
-([ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-core 0.3.5, algebricks-data 0.3.5, algebricks-rewriter 0.3.2, algebricks-rewriter 0.3.5, algebricks-runtime 0.3.4.1, algebricks-runtime 0.3.5, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.13, Apache log4j 2.13.3, Apache Log4j JUL Adapter 2.13.3, Apache Log4j Web Adapters 2.13.3, asterix-active 0.9.5, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-app 0.9.5, asterix-common 0.9.4.1, asterix-common 0.9.5, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-common 0.9.5, asterix-lang-sqlpp 0.9.4.1, asterix-lang-sqlpp 0.9.5, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-om 0.9.5, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-runtime 0.9.5, asterix-transactions 0.9.5, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, AWS SDK for Go v1.34.20, AWS SDK for Ruby v2.11.582, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.7, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase v6.6.0, Couchbase JVM Core IO 1.7.14, couchbase platform v6.6.0, couchbase-goxdcr v6.5.1, couchbase/gocbcore v9.0.5, couchbase/vellum v1.0.1, couchbaselabs/gocbconnstr v1.0.4, docker-cli 20180417-snapshot, Erlang OTP-20.3.8.11, error-prone annotations 2.3.4, Facebook Folly v2019.08.12.00, fastutil 8.3.0, FlatBuffers 1.5.0, FlatBuffers v1.10.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-aws-aws-sdk-go 1.34.22, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go 20190429-snapshot, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.2-jre, hyracks-api 0.3.4.1, hyracks-api 0.3.5, hyracks-client 0.3.5, hyracks-comm 0.3.5, hyracks-control-cc 0.3.4.1, hyracks-control-cc 0.3.5, hyracks-control-common 0.3.4.1, hyracks-control-common 0.3.5, hyracks-control-nc 0.3.4.1, hyracks-control-nc 0.3.5, hyracks-data-std 0.3.4.1, hyracks-data-std 0.3.5, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-dataflow-std 0.3.5, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-ipc 0.3.5, hyracks-net 0.3.4, hyracks-net 0.3.5, hyracks-storage-am-bloomfilter 0.3.5, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.5, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-common 0.3.5, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-rtree 0.3.5, hyracks-storage-am-rtree 0.3.5, hyracks-storage-common 0.3.4.1, hyracks-storage-common 0.3.5, hyracks-util 0.3.4.1, hyracks-util 0.3.5, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20200518-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.3, jackson-databind 2.10.3, jmespath-go-jmespath c2b33e84, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, Log4J API 2.13.3, Log4J Commons Logging 2.13.3, meck 0.8.5, Netty Project 4.1.48.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.48.Final, Netty/Codec/SMTP 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, Netty/Transport/Native/KQueue 4.1.48.Final, Netty/Transport/Native/Unix/Common 4.1.51.Final, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, SLF4J Binding 2.13.3, snappy-java 1.1.7.1, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2)
+([ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-core 0.3.5, algebricks-data 0.3.5, algebricks-rewriter 0.3.2, algebricks-rewriter 0.3.5, algebricks-runtime 0.3.4.1, algebricks-runtime 0.3.5, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text commons-text-1.8, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.13, Apache log4j 2.13.3, Apache Log4j JUL Adapter 2.13.3, Apache Log4j Web Adapters 2.13.3, asterix-active 0.9.5, asterix-algebra 0.9.4.1, asterix-app 0.9.3, asterix-app 0.9.4.1, asterix-app 0.9.5, asterix-common 0.9.4.1, asterix-common 0.9.5, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-common 0.9.5, asterix-lang-sqlpp 0.9.4.1, asterix-lang-sqlpp 0.9.5, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-om 0.9.5, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-runtime 0.9.5, asterix-transactions 0.9.5, AWS Event Stream 1.0.1, AWS Java SDK :: Annotations 2.10.83, AWS Java SDK :: Arns 2.10.83, AWS Java SDK :: Auth 2.10.83, AWS Java SDK :: AWS Core 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Query Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.10.83, AWS Java SDK :: Core :: Protocols :: Protocol Core 2.10.83, AWS Java SDK :: HTTP Client Interface 2.10.83, AWS Java SDK :: HTTP Clients :: Apache 2.10.83, AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O 2.10.83, AWS Java SDK :: Profiles 2.10.83, AWS Java SDK :: Regions 2.10.83, AWS Java SDK :: SDK Core 2.10.83, AWS Java SDK :: Services :: Amazon S3 2.10.83, AWS Java SDK :: Utilities 2.10.83, AWS SDK for Go v1.34.20, AWS SDK for Ruby v2.11.582, bleve 20171012-snapshot-3b2bc30b, bleve v0.8.0, bleve v1.0.7, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase v6.6.0, Couchbase JVM Core IO 1.7.14, couchbase platform v6.6.0, couchbase-goxdcr v6.5.1, couchbase/gocbcore v9.0.5, couchbase/vellum v1.0.1, couchbaselabs/gocbconnstr v1.0.4, docker-cli 20180417-snapshot, Erlang OTP-20.3.8.11, error-prone annotations 2.3.4, Facebook Folly v2019.08.12.00, fastutil 8.3.0, FlatBuffers 1.5.0, FlatBuffers v1.10.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-aws-aws-sdk-go 1.34.22, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go v1.24.0, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.2-jre, hyracks-api 0.3.4.1, hyracks-api 0.3.5, hyracks-client 0.3.5, hyracks-comm 0.3.5, hyracks-control-cc 0.3.4.1, hyracks-control-cc 0.3.5, hyracks-control-common 0.3.4.1, hyracks-control-common 0.3.5, hyracks-control-nc 0.3.4.1, hyracks-control-nc 0.3.5, hyracks-data-std 0.3.4.1, hyracks-data-std 0.3.5, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-dataflow-std 0.3.5, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-ipc 0.3.5, hyracks-net 0.3.4, hyracks-net 0.3.5, hyracks-storage-am-bloomfilter 0.3.5, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.5, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-common 0.3.5, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-rtree 0.3.5, hyracks-storage-am-rtree 0.3.5, hyracks-storage-common 0.3.4.1, hyracks-storage-common 0.3.5, hyracks-util 0.3.4.1, hyracks-util 0.3.5, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20200518-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.3, jackson-databind 2.10.3, jmespath-go-jmespath c2b33e84, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, Log4J API 2.13.3, Log4J Commons Logging 2.13.3, meck 0.8.5, Netty Project 4.1.48.Final, Netty Reactive Streams HTTP support 2.0.4, Netty Reactive Streams Implementation 2.0.4, Netty/Codec/Redis 4.1.48.Final, Netty/Codec/SMTP 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, Netty/Transport/Native/KQueue 4.1.48.Final, Netty/Transport/Native/Unix/Common 4.1.51.Final, OpenTracing API 0.31.0, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, SLF4J Binding 2.13.3, snappy-java 1.1.7.1, spf13-cobra 20161117-snapshot, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2)
 
 Apache License
 Version 2.0, January 2004
@@ -5345,7 +5044,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(dominikh/go-tools 2017.2.2, Go programming language 20171128-snapshot-57961680, golang-golangorg-crypto-devel 0, golang-x-text-dev 0.3.0, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180502-snapshot-faadfbdc, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180925-snapshot, golang.org/x/net 20170911-snapshot-66aacef3, golang.org/x/tools 20181107-snapshot, golang.org/x/tools 20181129-snapshot-e21233ff)
+(dominikh/go-tools 2017.2.2, Go programming language 20171128-snapshot-57961680, golang-golangorg-crypto-devel 0, golang-x-text-dev 0.3.0, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180502-snapshot-faadfbdc, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180925-snapshot, golang.org/x/net 20180925-snapshot, golang.org/x/net 20190327-snapshot-e3b2ff56, golang.org/x/tools 20181107-snapshot, golang.org/x/tools 20181129-snapshot-e21233ff)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -5735,7 +5434,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(go-zookeeper 20150410-snapshot-fa6674ab, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/net 20180223-snapshot, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, OpenJDK 11.0.9+11, PCRE 8.43)
+(go-zookeeper 20150410-snapshot-fa6674ab, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.12, jemalloc 5.2.1, OpenJDK 11.0.9+11, PCRE 8.43, platform-external-golang-protobuf android-r-beta-2)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -5802,7 +5501,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang protobuf 20181130-snapshot, golang protobuf 20190115-snapshot)
+(golang protobuf 20190115-snapshot)
 
 Copyright 2010 The Go Authors.  All rights reserved.
 
@@ -5970,75 +5669,6 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(Go programming language 0.0+git20170629.c81e7f2)
-
-http://www.w3.org/International/tests/repository/html5/the-input-byte-stream/results-basics
- http://www.w3.org/Consortium/Legal/2015/doc-license
-
-License: BSD-3-Clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-    * Redistributions of source code must retain the above copyright
- notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
- copyright notice, this list of conditions and the following disclaimer
- in the documentation and/or other materials provided with the
- distribution.
-    * Neither the name of Google Inc. nor the names of its
- contributors may be used to endorse or promote products derived from
- this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(golang-google-grpc 1.15.0)
-
-License: BSD-3-clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-     * Redistributions of source code must retain the above copyright
-       notice, this list of conditions and the following disclaimer.
-     * Redistributions in binary form must reproduce the above
-       copyright notice, this list of conditions and the following disclaimer
-       in the documentation and/or other materials provided with the
-       distribution.
-     * Neither the name of Google Inc. nor the names of its
-       contributors may be used to endorse or promote products derived from
-       this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
