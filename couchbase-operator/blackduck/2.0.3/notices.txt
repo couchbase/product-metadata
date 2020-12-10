@@ -6,7 +6,6 @@ Copyright 2020
 Components: 
 
 appscode/jsonpatch 1.0.0 : Apache License 2.0
-Azure-go-autorest v11.9.0 : MIT License
 beorn7-perks v1.0.0 : MIT License
 btree v1.0.0 : Apache License 2.0
 census-instrumentation/opencensus-go v0.19.3 : Apache License 2.0
@@ -20,6 +19,7 @@ gengo 20190402-snapshot-e17681d1 : Apache License 2.0
 github.com/go-logr/zapr v0.1.1 : Apache License 2.0
 github.com/konsorten/go-windows-terminal-sequences v1.0.2 : MIT License
 Go Logrus v1.4.1 : MIT License
+go-autorest v11.9.0 : MIT License
 go-inf-inf v0.9.1 : BSD 3-clause "New" or "Revised" License
 go-logr/logr v0.1.0 : Apache License 2.0
 go-openapi/errors v0.17.2 : Apache License 2.0
@@ -82,10 +82,6 @@ appscode/jsonpatch 1.0.0 github:appscode/jsonpatch:1.0.0
 	Copyright (c) 2014, Evan PhoenixAll rights reserved
 	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>
 	Copyright {yyyy
-Azure-go-autorest v11.9.0 github:Azure/go-autorest:v11.9.0
-	Copyright 2015 Microsoft Corporation
-	Copyright 2017 Microsoft Corporation
-	Copyright 2018 Microsoft Corporation
 beorn7-perks v1.0.0 github:beorn7/perks:v1.0.0
 	Copyright (C) 2013 Blake Mizerany
 	Copyright (C) 2013 Blake Mizerany
@@ -144,6 +140,10 @@ github.com/go-logr/zapr v0.1.1 github:go-logr/zapr:v0.1.1
 github.com/konsorten/go-windows-terminal-sequences v1.0.2 github:konsorten/go-windows-terminal-sequences:v1.0.2
 	Copyright (c) 2017 marvin
 	Copyright (c) 2018 marvin
+go-autorest v11.9.0 github:Azure/go-autorest:v11.9.0
+	Copyright 2015 Microsoft Corporation
+	Copyright 2017 Microsoft Corporation
+	Copyright 2018 Microsoft Corporation
 go-inf-inf v0.9.1 github:go-inf/inf:v0.9.1
 	Copyright (c) 2009 The GoAuthors. All rights reserved
 	Copyright (c) 2012 P
@@ -2382,7 +2382,7 @@ SOFTWARE
 ---
 
 MIT License
-(Azure-go-autorest v11.9.0)
+(go-autorest v11.9.0)
 
 The MIT License
 ===============
