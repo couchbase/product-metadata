@@ -92,10 +92,10 @@ Gorilla Web Toolkit 20170523-snapshot : BSD 3-clause "New" or "Revised" License
 gorilla/muxy 20170123-snapshot-65b4fd5d : BSD 3-clause "New" or "Revised" License
 goskiplist 20170622-snapshot : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1 : Apache License 2.0
-Guava: Google Core Libraries for Java 28.2-jre : Apache License 2.0
+Guava: Google Core Libraries for Java v28.2 : Apache License 2.0
 HdrHistogram_c 0.9.13 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
 inconshreveable/mousetrap 0.0~git20141017.0.76626ae : Apache License 2.0
-inconshreveable/mousetrap 20200518-snapshot : Apache License 2.0
+inconshreveable/mousetrap v1.0.7 : Apache License 2.0
 jackson-annotations 2.10.3 : Apache License 2.0
 jackson-core 2.10.3 : Apache License 2.0
 jackson-databind 2.10.3 : Apache License 2.0
@@ -2566,7 +2566,7 @@ golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 ubuntu:golang-g
 	Copyright: 2015 Lee McLoughlin           2014 Google, Inc.License: Expat
 	Copyright: 2017 Michael Lustfield <michael@lustfield.net>License: ExpatComment: Debian packaging is licensed under the same terms as upstream
 	copyright-format/1.0/Upstream-Name: gofarmhashSource: https://github.com/leemcloughlin/gofarmhash
-golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 debian:golang-github-ryszard-goskiplist/0.0~git20150312.2dfbae5-2
+golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 ubuntu:golang-github-ryszard-goskiplist/0.0~git20150312.2dfbae5-2
 	Copyright 2012 Google Inc. All rights reserved
 	Copyright: 2012 Google Inc., SoundCloud, Ltd.License: Apache-2.0Comment: Contributors:
 	Copyright: 2019 Drew Parsons <dparsons@debian.org>License: Apache-2.0Comment: Debian packaging is licensed under the same terms as upstream
@@ -3616,7 +3616,7 @@ Guava InternalFutureFailureAccess and InternalFutures 1.0.1 maven:com.google.gua
 	Copyright (C) 2018 The Guava Authors * * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except * in compliance with the License. You may obtain a copy of 
 	Copyright (C) 2018 The Guava Authors<a name="line.2"></a><span class="sourceLineNo">003</span> *<a name="line.3"></a><span class="sourceLineNo">004</span> * Licensed under the Apache License, Versio
 	Copyright (C) 2018 The Guava Authors<a name="line.2"></a><span class="sourceLineNo">003</span> *<a name="line.3"></a><span class="sourceLineNo">004</span> * Licensed under the Apache License, Versio
-Guava: Google Core Libraries for Java 28.2-jre maven:com.google.guava:guava:28.2-jre
+Guava: Google Core Libraries for Java v28.2 maven:com.google.guava:guava:28.2-jre
 	Copyright &#169; 2010</body>
 	Copyright (C) 2005 The Guava Authors * * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except * in compliance with the License. You may obtain a copy of 
 	Copyright (C) 2005 The Guava Authors<a name="line.2"></a><span class="sourceLineNo">003</span> *<a name="line.3"></a><span class="sourceLineNo">004</span> * Licensed under the Apache License, Versio
@@ -3984,8 +3984,6 @@ inconshreveable/mousetrap 0.0~git20141017.0.76626ae debian:golang-github-inconsh
 	Copyright: 2014 Alan Shreve <alan@inconshreveable.com>License: Apache-2.0
 	Copyright: 2015 Anthony Fok <foka@debian.org>License: Apache-2.0Comment: Debian packaging is licensed under the same terms as upstream
 	copyright-format/1.0/Upstream-Name: github.com/inconshreveable/mousetrapSource: https://github.com/inconshreveable/mousetrap
-inconshreveable/mousetrap 20200518-snapshot github:inconshreveable/mousetrap:20200518-snapshot
-	Copyright 2014 Alan Shreve
 jackson-annotations 2.10.3 maven:com.fasterxml.jackson.core:jackson-annotations:2.10.3
 	Copyright &#169; 2008</body>
 jackson-core 2.10.3 maven:com.fasterxml.jackson.core:jackson-core:2.10.3
@@ -4995,7 +4993,7 @@ willf/bitset v1.0.0 github:willf/bitset:v1.0.0
 Licenses: 
 
 Apache License 2.0
-([ini4j] 0.5.4, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text 1.8, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.13, Apache log4j 2.13.3, Apache Log4j JUL Adapter 2.13.3, Apache Log4j Web Adapters 2.13.3, bleve 20171012-snapshot-3b2bc30b, bleve 20190104-snapshot-5cf4e4e0, bleve v0.7.0, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/blevex 20180227-snapshot-4b158bb5, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase v6.0.4, Couchbase JVM Core IO 1.7.14, couchbase platform v6.0.3, couchbase-gocb v1.3.7, couchbase-indexing 20180910-snapshot-c6e909a7, couchbase/vellum 20180910-snapshot-01d5c56e, docker-cli 20180417-snapshot, error-prone annotations 2.3.4, fastutil 8.3.0, FlatBuffers 1.5.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, goskiplist 20170622-snapshot, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 28.2-jre, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 20200518-snapshot, jackson-annotations 2.10.3, jackson-core 2.10.3, jackson-databind 2.10.3, krestenkrab's triq 20151018-snapshot-c7306b8e, Lantern (poser) 3.4.1, Log4J API 2.13.3, Log4J Commons Logging 2.13.3, meck 0.8.5, Netty Project 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, OpenTracing API 0.31.0, opentracing-opentracing-go v1.0.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, SLF4J Binding 2.13.3, spf13-cobra 0.0~git20161229.0.1dd5ff2, spf13-cobra 20180519-snapshot-16c014f1)
+([ini4j] 0.5.4, Apache Commons Codec 1.14, Apache Commons Collections commons-commons-collections-4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.9, Apache Commons Logging 1.2, Apache Commons Text 1.8, Apache HttpClient rel/v4.5.11, Apache HttpComponents Core 4.4.13, Apache log4j 2.13.3, Apache Log4j JUL Adapter 2.13.3, Apache Log4j Web Adapters 2.13.3, bleve 20171012-snapshot-3b2bc30b, bleve 20190104-snapshot-5cf4e4e0, bleve v0.7.0, blevesearch-segment 20180608-snapshot-762005e7, blevesearch/bleve-mapping-ui v0.2.0, blevesearch/blevex 20180227-snapshot-4b158bb5, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, Commons IO 2.6, Couchbase v6.0.4, Couchbase JVM Core IO 1.7.14, couchbase platform v6.0.3, couchbase-gocb v1.3.7, couchbase-indexing 20180910-snapshot-c6e909a7, couchbase/vellum 20180910-snapshot-01d5c56e, docker-cli 20180417-snapshot, error-prone annotations 2.3.4, fastutil 8.3.0, FlatBuffers 1.5.0, flatbuffers-java 1.6.0.3, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, goskiplist 20170622-snapshot, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java v28.2, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap v1.0.7, jackson-annotations 2.10.3, jackson-core 2.10.3, jackson-databind 2.10.3, krestenkrab's triq 20151018-snapshot-c7306b8e, Lantern (poser) 3.4.1, Log4J API 2.13.3, Log4J Commons Logging 2.13.3, meck 0.8.5, Netty Project 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.29.Final, OpenTracing API 0.31.0, opentracing-opentracing-go v1.0.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, RxJava 1.3.8, SLF4J Binding 2.13.3, spf13-cobra 0.0~git20161229.0.1dd5ff2, spf13-cobra 20180519-snapshot-16c014f1)
 
 Apache License
 Version 2.0, January 2004
