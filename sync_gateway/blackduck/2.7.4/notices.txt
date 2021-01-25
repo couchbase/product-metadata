@@ -1,4 +1,4 @@
-Copyright 2020
+Copyright 2021
 
 [sync_gateway : 2.7.4]
 
@@ -10,7 +10,7 @@ angular-route 1.7.8 : MIT License
 bootstrap-filestyle v2.0.0 : MIT License
 capi-release 1.86.0 : Apache License 2.0
 coreos-go-oidc 20160920-snapshot-5aa9381f : Apache License 2.0
-coreos-go-oidc 20161221-snapshot : Apache License 2.0
+coreos-go-oidc 20161214-snapshot : Apache License 2.0
 coreos-pkg v1 : Apache License 2.0
 couchbase-cbauth 20181108-snapshot-01fb27d3 : Apache License 2.0
 couchbase-cbgt 20190114-snapshot-6af8aa29 : Apache License 2.0
@@ -27,7 +27,7 @@ Go Testify v1.2.2 : MIT License
 Go Testify v1.3.0 : MIT License
 go-metrics master-efc2659 : BSD 2-clause "Simplified" License
 go-ole-go-ole 20180311-snapshot-1a4e6872 : MIT License
-go-ole-go-ole 20180625-snapshot-7a0fa49e : MIT License
+go-ole-go-ole 20181122-snapshot-ae2e2a20 : MIT License
 go-ole-go-ole v1.2.1 : MIT License
 go-sourcemap/sourcemap 20190924-snapshot : BSD 2-clause "Simplified" License
 go-spew 1.1.0 : ISC License
@@ -57,20 +57,23 @@ google-gofuzz v1.0.0 : Apache License 2.0
 gopkg.in/couchbaselabs/gocb.v1 v1.6.6 : Apache License 2.0
 gopkg.in/couchbaselabs/gocbcore.v7 v7.1.15 : Apache License 2.0
 gopkg.in/elastic/gosigar.v0 v0.10.2 : Apache License 2.0
+gopkg.in/elastic/gosigar.v0 v0.9.0 : Apache License 2.0
 gopsutil v2.18.11 : BSD 3-clause "New" or "Revised" License
 gopsutil v2.18.12 : BSD 3-clause "New" or "Revised" License
 Gorilla Web Toolkit 20170307-snapshot : BSD 3-clause "New" or "Revised" License
 Gorilla Web Toolkit 20170523-snapshot : BSD 3-clause "New" or "Revised" License
+gosigar 0.0~git20171121.dcb1afc : Apache License 2.0
 jonboulle-clockwork 20180214-snapshot-ed104f61 : Apache License 2.0
-jsoniter-go v1.1.7 : MIT License
+jsoniter-go v1.20.0 : MIT License
 kardianos-osext 20160806-snapshot : BSD 3-clause "New" or "Revised" License
+kardianos-service 0.0~git20181115.4c239ee : zlib License
 kardianos-service 20171101-snapshot-5ab7ce2c : zlib License
 modern-go/concurrent 0.67.0 : Apache License 2.0
 modern-go/concurrent 1.0.0 : Apache License 2.0
-modern-go/reflect2 0.115.0 : Apache License 2.0
 modern-go/reflect2 1.0.1 : Apache License 2.0
+modern-go/reflect2 v0.10.26 : Apache License 2.0
 natefinch/lumberjack 20170911-snapshot-aee46291 : MIT License
-opentracing-opentracing-go 20180908-snapshot-6aa6feba : Apache License 2.0
+opentracing-opentracing-go v0.49.1 : Apache License 2.0
 pkg/errors v0.8.0 : BSD 2-clause "Simplified" License
 pmezard-go-difflib 1.0.0 : BSD 3-clause "New" or "Revised" License
 robertkrimen/otto 20180907-snapshot-a813c59b : MIT License
@@ -82,7 +85,6 @@ stretchr/objx 20200304-snapshot : MIT License
 stretchr/objx v0.1 : MIT License
 stretchr/objx v0.1.0 : MIT License
 sync_gateway 2.7.3 : Apache License 2.0
-wheelcomplex/gosigar v0.10.0 : Apache License 2.0
 
 
 Copyright Text: 
@@ -629,7 +631,7 @@ capi-release 1.86.0 github:cloudfoundry/capi-release:1.86.0
 coreos-go-oidc 20160920-snapshot-5aa9381f github:coreos/go-oidc:5aa9381f6e998aa16cc96b4347d33dcc29792864
 	Copyright 2014 CoreOS, Inc
 	Copyright {yyyy
-coreos-go-oidc 20161221-snapshot github:coreos/go-oidc:20161221-snapshot
+coreos-go-oidc 20161214-snapshot github:coreos/go-oidc:20161214-snapshot
 	Copyright 2014 CoreOS, Inc
 	Copyright {yyyy
 coreos-pkg v1 github:coreos/pkg:v1
@@ -2270,10 +2272,10 @@ go-metrics master-efc2659 unknown:undefined
 	Copyright 2012 Richard Crowley. All rights reserved
 go-ole-go-ole 20180311-snapshot-1a4e6872 github:go-ole/go-ole:1a4e68721a901e86322631fed1191025a6d14c52
 	Copyright © 2013-2017 Yasuhiro Matsumoto, <mattn.jp@gmail.com>
-go-ole-go-ole 20180625-snapshot-7a0fa49e github:go-ole/go-ole:7a0fa49edf48165190530c675167e2f319a05268
+go-ole-go-ole 20181122-snapshot-ae2e2a20 github:go-ole/go-ole:ae2e2a20879aabdd3a51104ab6a4328af2773948
 	Copyright (c) 2016 Sebastian Schleemilch <https://github.com/itschleemilch>.
 	Copyright © 2013-2017 Yasuhiro Matsumoto, <mattn.jp@gmail.com>
-	©��+Er�!]"�h��÷����{�A{M�l��h���w���'r�5�li��fgq}�t�~Bӓ;u�z�[�>x��v�]y��-َyc�:_|��l���T�� :���hR�M��d�r�ӫ�;�x�TO�q�I;<>pN5mի?�&u�~J�[�r���0��AsM�kXw����2omۓ��p��k�%�w1�"0�����E�E�2��<���S_
+	©a�G��*�W��e���Y��{=�4f���ԓ��c��"�E����"5�9w�b~6��W�	w�k֫#�;i&)b�"�ν�qU��=l��M\�ؓq���Ą1�a�pt�6O����&�:G��R^@�F�� �R��:�PB�"��7	0�Ҷ���Sj�,��GU�������T2iO�P<�WY9,x �;�7Yc`�!�V�e��c
 go-ole-go-ole v1.2.1 github:go-ole/go-ole:v1.2.1
 	Copyright (c) 2016 Sebastian Schleemilch <https://github.com/itschleemilch>.
 	Copyright © 2013-2017 Yasuhiro Matsumoto, <mattn.jp@gmail.com>
@@ -4280,10 +4282,13 @@ Gorilla Web Toolkit 20170523-snapshot github:gorilla/mux:20170523-snapshot
 	Copyright 2011 Gorilla Authors. All rights reserved
 	Copyright 2012 The Gorilla Authors. All rights reserved
 	Copyright 2012 The Gorilla Authors. All rights reserved
+gosigar 0.0~git20171121.dcb1afc ubuntu:golang-github-cloudfoundry-gosigar/0.0~git20171121.dcb1afc-3
+	Copyright (c) 2015-Present CloudFoundry.org Foundation, Inc. All Rights Reserved
+	Copyright: 2009-2012 VMware, Inc.License: Apache-2.0
+	Copyright: 2015 Alexandre Viau <alexandre@alexandreviau.net>License: Apache-2.0Comment: Debian packaging is licensed under the same terms as upstream
+	copyright-format/1.0/Upstream-Name: gosigarSource: https://github.com/cloudfoundry/gosigar
 jonboulle-clockwork 20180214-snapshot-ed104f61 github:jonboulle/clockwork:ed104f61ea4877bea08af6f759805674861e968d
 	Copyright {yyyy
-jsoniter-go v1.1.7 github:json-iterator/go:v1.1.7
-	Copyright (c) 2016 json-iterator
 kardianos-osext 20160806-snapshot github:kardianos/osext:20160806-snapshot
 	Copyright (c) 2012 The Go Authors. All rights reserved
 	Copyright 2012 The Go Authors. All rights reserved
@@ -4291,6 +4296,21 @@ kardianos-osext 20160806-snapshot github:kardianos/osext:20160806-snapshot
 	Copyright 2012 The Go Authors. All rights reserved
 	Copyright 2012 The Go Authors. All rights reserved
 	Copyright 2012 The Go Authors. All rights reserved
+kardianos-service 0.0~git20181115.4c239ee debian:golang-github-kardianos-service/0.0~git20181115.4c239ee-2
+	Copyright (c) 2015 Daniel Theophanes
+	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2016 Lawrence Woodman <lwoodman@vlifesystems.com>// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2016 Lawrence Woodman <lwoodman@vlifesystems.com>// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright 2016 Lawrence Woodman <lwoodman@vlifesystems.com>// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
+	Copyright: 2015 Daniel TheophanesLicense: zlib
+	Copyright: 2018 Eric Dorland <eric@debian.org>License: zlibComment: Debian packaging is licensed under the same terms as upstream
+	copyright-format/1.0/Upstream-Name: serviceSource: https://github.com/kardianos/serviceFiles-Excluded:
 kardianos-service 20171101-snapshot-5ab7ce2c github:kardianos/service:5ab7ce2c8f38cc0ca92d711f7c4f3ea70d347702
 	Copyright (c) 2015 Daniel Theophanes
 	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
@@ -4301,8 +4321,6 @@ kardianos-service 20171101-snapshot-5ab7ce2c github:kardianos/service:5ab7ce2c8f
 	Copyright 2015 Daniel Theophanes.// Use of this source code is governed by a zlib-style// license that can be found in the LICENSE file.
 natefinch/lumberjack 20170911-snapshot-aee46291 github:natefinch/lumberjack:aee4629129445bbdfb69aa565537dcfa16544311
 	Copyright (c) 2014 Nate Finch
-opentracing-opentracing-go 20180908-snapshot-6aa6feba github:opentracing/opentracing-go:6aa6febac7b98f836100ecaea478c04f30b6dbd0
-	Copyright 2016 The OpenTracing Authors
 pkg/errors v0.8.0 github:pkg/errors:v0.8.0
 	Copyright (c) 2015, Dave Cheney <dave@cheney.net>All rights reserved
 pmezard-go-difflib 1.0.0 github:pmezard/go-difflib:v1.0.0
@@ -4375,21 +4393,12 @@ sync_gateway 2.7.3 github:couchbaselabs/sync_gateway:2.7.3
 	Copyright 2017 Couchbase, Inc.
 	Copyright Apple Computer, Inc., 2010���}!1AQa"q2���#B��R��$3br�	%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz���������������������������������������������������������
 	©Ŝ�*�lk��I�z�*�~�Y��%Ѷ�*��m���mh�Ӹ�^U�RG�����P�U����	��PV��`Q-\�(1� ���Z��I�U�Um�"���������Uv��׼��m�e86K��'�%m�q���V�4ҋ���#n���*ˏ�ӭ��y��ʖL*ߵ+:��W_�,�Mb�\��Z�AL9�uUF��(0�׌�Gdv�+��?Bo�=$�)c۲ci
-wheelcomplex/gosigar v0.10.0 github:elastic/gosigar:v0.10.0
-	Copyright (c) 2012 VMware, Inc.
-	Copyright (c) 2012 VMware, Inc.
-	Copyright (c) 2012 VMware, Inc.
-	Copyright (c) 2012 VMware, Inc.
-	Copyright (c) 2012 VMware, Inc.
-	Copyright (c) 2012 VMware, Inc.
-	Copyright (c) 2012 VMware, Inc.
-	Copyright (c) 2016 Jasper Lievisse Adriaanse <j@jasper.la>.
 
 
 Licenses: 
 
 Apache License 2.0
-(capi-release 1.86.0, coreos-go-oidc 20160920-snapshot-5aa9381f, coreos-go-oidc 20161221-snapshot, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase/go-blip 20180309-snapshot-238f46bf, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, google-gofuzz v1.0.0, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.15, gopkg.in/elastic/gosigar.v0 v0.10.2, jonboulle-clockwork 20180214-snapshot-ed104f61, modern-go/concurrent 0.67.0, modern-go/concurrent 1.0.0, modern-go/reflect2 0.115.0, modern-go/reflect2 1.0.1, opentracing-opentracing-go 20180908-snapshot-6aa6feba, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.7.3, wheelcomplex/gosigar v0.10.0)
+(capi-release 1.86.0, coreos-go-oidc 20160920-snapshot-5aa9381f, coreos-go-oidc 20161214-snapshot, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase/go-blip 20180309-snapshot-238f46bf, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, google-gofuzz v1.0.0, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.15, gopkg.in/elastic/gosigar.v0 v0.10.2, gopkg.in/elastic/gosigar.v0 v0.9.0, gosigar 0.0~git20171121.dcb1afc, jonboulle-clockwork 20180214-snapshot-ed104f61, modern-go/concurrent 0.67.0, modern-go/concurrent 1.0.0, modern-go/reflect2 1.0.1, modern-go/reflect2 v0.10.26, opentracing-opentracing-go v0.49.1, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.7.3)
 
 Apache License
 Version 2.0, January 2004
@@ -4857,6 +4866,39 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
+(pmezard-go-difflib 1.0.0)
+
+Copyright (c) 2013, Patrick Mezard
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+    Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+    Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+    The names of its contributors may not be used to endorse or promote
+products derived from this software without specific prior written
+permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
 (golang.org/x/text v0.6.1)
 
 Copyright (c) <YEAR>, <OWNER>
@@ -4920,50 +4962,6 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(pmezard-go-difflib 1.0.0)
-
-Source: https://github.com/pmezard/go-difflib
-
-Files: *
-Copyright: 2013 Patrick Mézard
-License: BSD-3-clause
-
-Files: debian/*
-Copyright: 2016 Dmitry Smirnov <onlyjob@debian.org>
-License: BSD-3-clause
-
-License: BSD-3-clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-    Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
- .
-    Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the distribution.
- .
-    The names of its contributors may not be used to endorse or promote
-    products derived from this software without specific prior written
-    permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
- IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
- TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
- PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
- TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
- PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
- LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
- NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
- SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -5165,33 +5163,6 @@ SOFTWARE
 ---
 
 MIT License
-(jsoniter-go v1.1.7)
-
-MIT License
-
-Copyright (c) 2016 json-iterator
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (stretchr/objx 20200304-snapshot, stretchr/objx v0.1, stretchr/objx v0.1.0)
 
 The MIT License
@@ -5220,7 +5191,7 @@ SOFTWARE
 ---
 
 MIT License
-(Go Testify 20181108-snapshot)
+(Go Testify 20181108-snapshot, jsoniter-go v1.20.0)
 
 The MIT License
 ===============
@@ -5354,7 +5325,7 @@ SOFTWARE
 ---
 
 MIT License
-(go-ole-go-ole 20180311-snapshot-1a4e6872, go-ole-go-ole 20180625-snapshot-7a0fa49e, go-ole-go-ole v1.2.1)
+(go-ole-go-ole 20180311-snapshot-1a4e6872, go-ole-go-ole 20181122-snapshot-ae2e2a20, go-ole-go-ole v1.2.1)
 
 The MIT License (MIT)
 
@@ -5381,7 +5352,7 @@ SOFTWARE
 ---
 
 zlib License
-(kardianos-service 20171101-snapshot-5ab7ce2c)
+(kardianos-service 0.0~git20181115.4c239ee, kardianos-service 20171101-snapshot-5ab7ce2c)
 
 The zlib/libpng License
 =======================
