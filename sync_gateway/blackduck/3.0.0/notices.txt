@@ -23,10 +23,10 @@ coreos-go-oidc v2.2.1 : Apache License 2.0
 coreos-pkg v1 : Apache License 2.0
 couchbase-cbauth 20181108-snapshot-01fb27d3 : Apache License 2.0
 couchbase-cbgt 20190114-snapshot-6af8aa29 : Apache License 2.0
-couchbase-go-couchbase 20180430-snapshot-16db1f1f : MIT License
-couchbase-go-couchbase master-20160613 : MIT License
+couchbase-go-couchbase 0 : MIT License
 couchbase-gocb v2.1.8 : Apache License 2.0
 couchbase-gomemcached xdcrDiffer_v1.0 : MIT License
+couchbase-goutils 0 : Apache License 2.0
 couchbase/go-blip 20180309-snapshot-238f46bf : Apache License 2.0
 couchbase/gocbcore v9.1.0 : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.5 : Apache License 2.0
@@ -78,6 +78,7 @@ golang-github-elazarl-go-bindata-assetfs-dev 20170620-snapshot : BSD 2-clause "S
 golang-github-json-iterator-go-dev 1.1.10 : Expat License
 golang-github-stretchr-testify 1.4.0 : MIT License
 golang-golang-x-oauth2 0.0~git20190604.0f29369 : BSD 3-clause "New" or "Revised" License
+golang-google-protobuf-dev 1.25.0+git20201208.160c747 : BSD 3-clause "New" or "Revised" License
 golang-mock v1.1.1 : Apache License 2.0
 golang-procfs 0.1.3 : Apache License 2.0
 golang-snappy-go-dev 20160302-snapshot : BSD 3-clause "New" or "Revised" License
@@ -136,7 +137,7 @@ matttproud-golang_protobuf_extensions v1.0.1 : Apache License 2.0
 modern-go/concurrent 0.67.0 : Apache License 2.0
 modern-go/concurrent 1.0.0 : Apache License 2.0
 modern-go/reflect2 1.0.1 : Apache License 2.0
-modern-go/reflect2 v0.10.26 : Apache License 2.0
+modern-go/reflect2 20190221-snapshot : Apache License 2.0
 natefinch/lumberjack 20170911-snapshot-aee46291 : MIT License
 omd - Open Monitoring Distribution Labs Edition v3.40-labs-edition : GNU General Public License v2.0 only
 OpenCensus 0.2.1 : Apache License 2.0
@@ -163,7 +164,7 @@ sergi/go-diff 20180205-snapshot-da645544 : (MIT License AND Apache License 2.0)
 shirou/w32 20160930-snapshot-bb4de019 : BSD 3-clause "New" or "Revised" License
 StackExchange-wmi 1.0.0 : MIT License
 StackExchange-wmi 20180816-snapshot-b12b22c5 : MIT License
-stretchr/objx 20200304-snapshot : MIT License
+stretchr/objx 2.1.1-build1 : MIT License
 stretchr/objx v0.1 : MIT License
 stretchr/objx v0.1.0 : MIT License
 stretchr/objx v0.1.1 : MIT License
@@ -808,26 +809,6 @@ couchbase-cbgt 20190114-snapshot-6af8aa29 github:couchbase/cbgt:6af8aa29d87913f1
 	copyright 2016 Couchbase, Inc.
 	copyright-mark:before
 	copyright-mark:before  content: "\e194";}.glyphicon-registration-mark:before {  content: "\e195";
-couchbase-go-couchbase 20180430-snapshot-16db1f1f github:couchbase/go-couchbase:16db1f1fe037412f12738fa4d8448c549c4edd77
-	Copyright (c) 2013  Couchbase, Inc.
-	Copyright (c) 2013 Couchbase, Inc.// Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file// except in compliance with the License. You may obtain a copy of the L
-	Copyright (c) 2013 Couchbase, Inc.// Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file// except in compliance with the License. You may obtain a copy of the L
-	Copyright (c) 2014 Couchbase, Inc.
-	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-	Copyright (c) 2016 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-couchbase-go-couchbase master-20160613 unknown:undefined
-	Copyright (c) 2013  Couchbase, Inc.
-	Copyright (c) 2013 Couchbase, Inc.// Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file// except in compliance with the License. You may obtain a copy of the L
-	Copyright (c) 2013 Couchbase, Inc.// Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file// except in compliance with the License. You may obtain a copy of the L
-	Copyright (c) 2014 Couchbase, Inc.
-	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
-	Copyright (c) 2016 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License");//  you may not use this file except in compliance with the//  License. You may obtain a copy of
 couchbase/go-blip 20180309-snapshot-238f46bf github:couchbase/go-blip:238f46bf38971b117d90e70cba9bd4682428a8b6
 	Copyright (c) 2013 Jens Alfke.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the Lic
 	Copyright (c) 2013 Jens Alfke. Copyright (c) 2015-2017 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the L
@@ -5122,9 +5103,6 @@ StackExchange-wmi 1.0.0 github:StackExchange/wmi:1.0.0
 	Copyright (c) 2013 Stack Exchange
 StackExchange-wmi 20180816-snapshot-b12b22c5 github:StackExchange/wmi:b12b22c5341f0c26d88c4d66176330500e84db68
 	Copyright (c) 2013 Stack Exchange
-stretchr/objx 20200304-snapshot github:stretchr/objx:20200304-snapshot
-	Copyright (c) 2014 Stretchr, Inc.
-	Copyright (c) 2017-2018 objx contributors
 stretchr/objx v0.1.0 github:stretchr/objx:v0.1.0
 	Copyright (c) 2012 - 2013 Mat Ryer and Tyler Bunnell
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
@@ -5172,7 +5150,7 @@ yaml for Go v2.2.4 github:go-yaml/yaml:v2.2.4
 Licenses: 
 
 Apache License 2.0
-(capi-release 1.86.0, client_golang v0.9.1, client_golang v1.0.0, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase-gocb v2.1.8, couchbase/go-blip 20180309-snapshot-238f46bf, couchbase/gocbcore v9.1.0, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, envoyproxy/protoc-gen-validate v0.1.0, Go Testify v1.4.0, go-jose v2.2.0, go-jose v2.4.0, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang-mock v1.1.1, golang-procfs 0.1.3, golang/appengine v1.1.0, golang/appengine v1.4.0, google-gofuzz v1.0.0, google/pprof 0, google/pprof 0.0~git20200905.acf8798, googleapis/google-cloud-go v0.26.0, googleapis/google-cloud-go v0.34.0, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocb.v1 v2.2.0, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17, gopkg.in/couchbaselabs/gocbcore.v7 v9.1.0, gopkg.in/elastic/gosigar.v0 v0.10.2, gopkg.in/elastic/gosigar.v0 v0.9.0, gosigar 0.0~git20171121.dcb1afc, grpc-go v1.19.0, grpc-go v1.23.0, grpc-go v1.27.0, jonboulle-clockwork 20180214-snapshot-ed104f61, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 0.67.0, modern-go/concurrent 1.0.0, modern-go/reflect2 1.0.1, modern-go/reflect2 v0.10.26, OpenCensus 0.2.1, opentracing-opentracing-go v0.49.1, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus-procfs v0.2.0, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5)
+(capi-release 1.86.0, client_golang v0.9.1, client_golang v1.0.0, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase-gocb v2.1.8, couchbase-goutils 0, couchbase/go-blip 20180309-snapshot-238f46bf, couchbase/gocbcore v9.1.0, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, envoyproxy/protoc-gen-validate v0.1.0, Go Testify v1.4.0, go-jose v2.2.0, go-jose v2.4.0, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang-mock v1.1.1, golang-procfs 0.1.3, golang/appengine v1.1.0, golang/appengine v1.4.0, google-gofuzz v1.0.0, google/pprof 0, google/pprof 0.0~git20200905.acf8798, googleapis/google-cloud-go v0.26.0, googleapis/google-cloud-go v0.34.0, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocb.v1 v2.2.0, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17, gopkg.in/couchbaselabs/gocbcore.v7 v9.1.0, gopkg.in/elastic/gosigar.v0 v0.10.2, gopkg.in/elastic/gosigar.v0 v0.9.0, gosigar 0.0~git20171121.dcb1afc, grpc-go v1.19.0, grpc-go v1.23.0, grpc-go v1.27.0, jonboulle-clockwork 20180214-snapshot-ed104f61, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 0.67.0, modern-go/concurrent 1.0.0, modern-go/reflect2 1.0.1, modern-go/reflect2 20190221-snapshot, OpenCensus 0.2.1, opentracing-opentracing-go v0.49.1, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus-procfs v0.2.0, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5)
 
 Apache License
 Version 2.0, January 2004
@@ -5768,7 +5746,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang protobuf v1.24.2, golang.org/x/oauth2 7.1.1, golang.org/x/text v0.6.1, google/go-cmp v0.5.0, protocolbuffers/protobuf-go v1.25.0)
+(golang protobuf v1.24.2, golang-google-protobuf-dev 1.25.0+git20201208.160c747, golang.org/x/oauth2 7.1.1, golang.org/x/text v0.6.1, google/go-cmp v0.5.0, protocolbuffers/protobuf-go v1.25.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -6490,31 +6468,6 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(couchbase-go-couchbase 20180430-snapshot-16db1f1f, couchbase-go-couchbase master-20160613)
-
-Copyright (c) 2013  Couchbase, Inc.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (beorn7-perks v1.0.0, beorn7-perks v1.0.1)
 
 Copyright (C) 2013 Blake Mizerany
@@ -6818,7 +6771,7 @@ Permission is hereby granted, free of charge, to any person obtaining
 ---
 
 MIT License
-(stretchr/objx 20200304-snapshot, stretchr/objx v0.1, stretchr/objx v0.1.0, stretchr/objx v0.1.1)
+(stretchr/objx v0.1, stretchr/objx v0.1.0, stretchr/objx v0.1.1)
 
 The MIT License
 
@@ -6846,7 +6799,7 @@ SOFTWARE
 ---
 
 MIT License
-(couchbase-gomemcached xdcrDiffer_v1.0, felixge/fgprof v0.9.0, Go Testify 20181108-snapshot, jsoniter-go v1.1.10, jsoniter-go v1.20.0)
+(couchbase-go-couchbase 0, couchbase-gomemcached xdcrDiffer_v1.0, felixge/fgprof v0.9.0, Go Testify 20181108-snapshot, jsoniter-go v1.1.10, jsoniter-go v1.20.0, stretchr/objx 2.1.1-build1)
 
 The MIT License
 ===============
