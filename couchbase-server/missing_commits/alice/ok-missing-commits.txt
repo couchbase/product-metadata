@@ -8,6 +8,7 @@ backup de46c4d Doc only
 backup de46c4d Doc only
 build 36fd32f
 build c191ec0
+build cb0da95 Not needed for later releases
 cbgt 5a22d71 # Is a backport
 cbq-gui 7a80f6b
 couchbase-cli 5675b11 Docs and backports
@@ -32,7 +33,6 @@ couchstore 9cf71ba
 couchstore af8deda fixes for backports, per Srinath
 couchstore e8a5275
 eventing 89543fc eventing doesn't use plasma anymore
-gocb 66897be
 go-couchbase 3ca3995 backports
 go-couchbase 413e5b0
 go-couchbase 74d1cf9 backports
@@ -40,6 +40,7 @@ go-couchbase 921760d
 go-couchbase 9629624 backports
 go-couchbase baa7196 
 go-couchbase e355ac8
+gocb 66897be
 gomemcached 3caad6d 
 gomemcached 4604300
 gomemcached 64243c7

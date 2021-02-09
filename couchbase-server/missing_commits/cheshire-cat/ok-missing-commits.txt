@@ -19,6 +19,7 @@ bleve f116a37
 build 36fd32f
 build 3e152a7 backport
 build c191ec0
+build cb0da95 Not needed for later releases
 cbft 8d4105a Handled by separate commit
 cbgt 5a22d71 # Is a backport
 cbq-gui 7a80f6b
@@ -108,7 +109,6 @@ eventing f6940d2 confirmed OK by Jeelan
 eventing f6a7443 cherry-picks
 eventing f6d280c confirmed OK by Jeelan
 eventing ff79357 confirmed OK by Jeelan
-gocb 66897be
 go-couchbase 1159edb backports
 go-couchbase 17b9cd5 backports
 go-couchbase 3ca3995 backports
@@ -122,6 +122,7 @@ go-couchbase aa104d2 backports
 go-couchbase baa7196 
 go-couchbase e355ac8
 go-couchbase ea8f7d5 backports
+gocb 66897be
 gomemcached 3caad6d 
 gomemcached 4604300
 gomemcached 64243c7
@@ -421,11 +422,7 @@ query eacf37e
 query ebc5762 cherry-picks
 query ec5b66f
 query ed795e4 cherry-picks
-query-ee 2dd1ff8 
-query-ee 713ad35 
 query ee7e18e backport
-query-ee 80915e4 
-query-ee 9290ce3 
 query efcfea6
 query f0e3c5d
 query f190f6c
@@ -439,6 +436,10 @@ query fe08c059 Confirmed by Sitaram
 query fe41e8c
 query fe95a0f cherry-picks
 query ff6ad321 revert
+query-ee 2dd1ff8 
+query-ee 713ad35 
+query-ee 80915e4 
+query-ee 9290ce3 
 query-ui 0f706ed
 query-ui 36644e0
 query-ui 66d25d3
