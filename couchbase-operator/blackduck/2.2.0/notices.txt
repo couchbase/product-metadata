@@ -135,7 +135,7 @@ go-openapi/validate v0.18.0 : Apache License 2.0
 go-openapi/validate v0.19.2 : Apache License 2.0
 go-openapi/validate v0.19.5 : Apache License 2.0
 go-resty/resty v1.12.0 : MIT License
-go-spew 1.1.0 : ISC License
+go-spew 20201001-snapshot : ISC License
 go-spew v1.1.1 : ISC License
 go-stack-stack v1.8.0 : MIT License
 go-toml v1.2.0 : MIT License
@@ -174,8 +174,8 @@ golang-github-ghodss-yaml-dev 1.0.0 : Expat License
 golang-github-hashicorp-memberlist v0.1.3 : Mozilla Public License 2.0
 golang-github-magiconair-properties 1.8.0 : BSD 2-clause "Simplified" License
 golang-github-magiconair-properties v1.8.1 : BSD 2-clause "Simplified" License
-golang-github-spf13-pflag-dev 1.0.1 : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev 1.0.3 : BSD 3-clause "New" or "Revised" License
+golang-github-spf13-pflag-dev 20200223-snapshot : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev v1.0.5 : BSD 3-clause "New" or "Revised" License
 golang-mock 1.3.1 : Apache License 2.0
 golang-mock v1.1.1 : Apache License 2.0
@@ -186,15 +186,15 @@ golang/appengine v1.5.0 : Apache License 2.0
 golang/appengine v1.6.1 : Apache License 2.0
 golang/appengine v1.6.5 : Apache License 2.0
 golangci/golangci-lint v1.33.0 : GNU General Public License v3.0 only
+gomega 20200825-snapshot : MIT License
 gomega v1.10.1 : MIT License
 gomega v1.10.2 : MIT License
 gomega v1.7.0 : MIT License
 gomega v1.7.1 : MIT License
-gomega v1.9.0 : MIT License
 gomodules/jsonpatch v2.0.1 : Apache License 2.0
 google-gofuzz v1.0.0 : Apache License 2.0
 google-gofuzz v1.1.0 : Apache License 2.0
-google/go-cmp 0.2.0 : BSD 3-clause "New" or "Revised" License
+google/go-cmp 20190919-snapshot : BSD 3-clause "New" or "Revised" License
 google/go-cmp v0.3.0 : BSD 3-clause "New" or "Revised" License
 google/go-cmp v0.3.1 : BSD 3-clause "New" or "Revised" License
 google/go-cmp v0.4.0 : BSD 3-clause "New" or "Revised" License
@@ -205,7 +205,7 @@ google/uuid v1.0.0 : BSD 3-clause "New" or "Revised" License
 google/uuid v1.1.1 : BSD 3-clause "New" or "Revised" License
 googleapis/gax-go v2.0.4 : BSD 3-clause "New" or "Revised" License
 googleapis/gax-go v2.0.5 : BSD 3-clause "New" or "Revised" License
-googleapis/gnostic v0.1.0 : Apache License 2.0
+googleapis/gnostic 20200304-snapshot : Apache License 2.0
 googleapis/gnostic v0.3.1 : Apache License 2.0
 googleapis/gnostic v0.4.1 : Apache License 2.0
 googleapis/google-cloud-go v0.26.0 : Apache License 2.0
@@ -270,7 +270,7 @@ k8s.io/cli-runtime v0.19.4 : Apache License 2.0
 k8s.io/code-generator v0.17.0 : Apache License 2.0
 k8s.io/code-generator v0.18.6 : Apache License 2.0
 k8s.io/code-generator v0.19.4 : Apache License 2.0
-k8s.io/klog v0.3.0 : Apache License 2.0
+k8s.io/klog 20210117-snapshot : Apache License 2.0
 k8s.io/klog v1.0.0 : Apache License 2.0
 kisielk-gotool v1.0.0 : (MIT License AND BSD 3-clause "New" or "Revised" License)
 klauspost-compress v1.10.7 : BSD 3-clause "New" or "Revised" License
@@ -355,8 +355,8 @@ prometheus/tsdb v0.7.1 : Apache License 2.0
 pty v1.1.1 : MIT License
 pty v1.1.5 : MIT License
 pty v1.1.8 : MIT License
-purell 1.1.0 : BSD 3-clause "New" or "Revised" License
-purell v1.0.0 : BSD 3-clause "New" or "Revised" License
+purell 20200521-snapshot : BSD 3-clause "New" or "Revised" License
+purell 20201017-snapshot : BSD 3-clause "New" or "Revised" License
 purell v1.1.1 : BSD 3-clause "New" or "Revised" License
 quasilyte/go-ruleguard v0.2.0 : BSD 3-clause "New" or "Revised" License
 rogpeppe/go-internal v1.3.0 : BSD 3-clause "New" or "Revised" License
@@ -1942,7 +1942,7 @@ go-resty/resty v1.12.0 github:go-resty/resty:v1.12.0
 	Copyright (c) 2015-2019 Jeevanandam M (jeeva@myjeeva.com), All rights reserved
 	Copyright (c) 2015-2019 Jeevanandam M. (jeeva@myjeeva.com), All rights reserved
 	Copyright (c) 2015-2019 Jeevanandam M., https://myjeeva.com <jeeva@myjeeva.com>
-go-spew 1.1.0 github:davecgh/go-spew:v1.1.0
+go-spew 20201001-snapshot github:davecgh/go-spew:v1.1.0
 	Copyright (c) 2012-2013 Dave Collins <dave@davec.name>
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
@@ -2272,19 +2272,19 @@ golang-github-magiconair-properties v1.8.1 github:magiconair/properties:v1.8.1
 	Copyright 2018 Frank Schroeder. All rights reserved
 	Copyright 2018 Frank Schroeder. All rights reserved
 	Copyright 2018 Frank Schroeder. All rights reserved
-golang-github-spf13-pflag-dev 1.0.1 github:spf13/pflag:v1.0.1
-	Copyright (c) 2012 Alex Ogier. All rights reserved
-	Copyright (c) 2012 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2009 The Go Authors. All rights reserved
-	Copyright 2010 The Go Authors.  All rights reserved
-	Copyright 2012 The Go Authors. All rights reserved
 golang-github-spf13-pflag-dev 1.0.3 github:spf13/pflag:v1.0.3
 	Copyright (c) 2012 Alex Ogier. All rights reserved
 	Copyright (c) 2012 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
+	Copyright 2009 The Go Authors. All rights reserved
+	Copyright 2009 The Go Authors. All rights reserved
+	Copyright 2009 The Go Authors. All rights reserved
+	Copyright 2010 The Go Authors.  All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+golang-github-spf13-pflag-dev 20200223-snapshot github:spf13/pflag:v1.0.1
+	Copyright (c) 2012 Alex Ogier. All rights reserved
+	Copyright (c) 2012 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2009 The Go Authors. All rights reserved
@@ -2585,16 +2585,37 @@ golang/appengine v1.6.5 github:golang/appengine:v1.6.5
 	Copyright 2019 Google Inc. All rights reserved
 	Copyright 2019 Google Inc. All rights reserved
 	Copyright 2019 Google Inc. All rights reserved
+gomega 20200825-snapshot github:onsi/gomega:v1.9.0
+	Copyright (c) 2013-2014 Onsi Fakhouri
 gomega v1.10.1 github:onsi/gomega:v1.10.1
 	Copyright (c) 2013-2014 Onsi Fakhouri
 gomega v1.7.0 github:onsi/gomega:v1.7.0
-	Copyright (c) 2013-2014 Onsi Fakhouri
-gomega v1.9.0 github:onsi/gomega:v1.9.0
 	Copyright (c) 2013-2014 Onsi Fakhouri
 gomodules/jsonpatch v2.0.1 github:gomodules/jsonpatch:v2.0.1
 	Copyright {yyyy
 google-gofuzz v1.1.0 github:google/gofuzz:v1.1.0
 	Copyright 2014 Google Inc. All rights reserved
+google/go-cmp 20190919-snapshot github:google/go-cmp:v0.2.0
+	Copyright (c) 2017 The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
+	Copyright 2017, The Go Authors. All rights reserved
 google/go-cmp v0.3.0 github:google/go-cmp:v0.3.0
 	Copyright (c) 2017 The Go Authors. All rights reserved
 	Copyright 2017, The Go Authors. All rights reserved
@@ -2652,7 +2673,7 @@ googleapis/gax-go v2.0.5 github:googleapis/gax-go:v2.0.5
 	Copyright 2018, Google Inc.// All rights reserved
 	Copyright 2019 Google LLC
 	Copyright 2019, Google Inc.// All rights reserved
-googleapis/gnostic v0.1.0 github:googleapis/gnostic:v0.1.0
+googleapis/gnostic 20200304-snapshot github:googleapis/gnostic:v0.1.0
 	Copyright 2016 Google Inc. All Rights Reserved
 	Copyright 2017 Google Inc. All Rights Reserved
 	Copyright 2017 Google Inc. All Rights Reserved
@@ -3445,7 +3466,7 @@ julienschmidt/httprouter v1.2.0 github:julienschmidt/httprouter:v1.2.0
 	Copyright 2013 Julien Schmidt. All rights reserved
 	Copyright 2013 Julien Schmidt. All rights reserved
 	Copyright 2013 Julien Schmidt. All rights reserved
-k8s.io/klog v0.3.0 github:kubernetes/klog:v0.3.0
+k8s.io/klog 20210117-snapshot github:kubernetes/klog:v0.3.0
 	Copyright 2013 Google Inc. All Rights Reserved
 k8s.io/klog v1.0.0 github:kubernetes/klog:v1.0.0
 	Copyright 2013 Google Inc. All Rights Reserved
@@ -4778,9 +4799,9 @@ pty v1.1.1 github:kr/pty:v1.1.1
 	Copyright (c) 2011 Keith Rarick
 pty v1.1.8 github:kr/pty:v1.1.8
 	Copyright (c) 2019 Keith Rarick
-purell 1.1.0 github:PuerkitoBio/purell:v1.1.0
+purell 20200521-snapshot github:PuerkitoBio/purell:v1.1.0
 	Copyright (c) 2012, Martin AngersAll rights reserved
-purell v1.0.0 github:PuerkitoBio/purell:v1.0.0
+purell 20201017-snapshot github:PuerkitoBio/purell:v1.0.0
 	Copyright (c) 2012, Martin AngersAll rights reserved
 purell v1.1.1 github:PuerkitoBio/purell:v1.1.1
 	Copyright (c) 2012, Martin AngersAll rights reserved
@@ -5131,7 +5152,7 @@ yuin/goldmark v1.1.27 github:yuin/goldmark:v1.1.27
 Licenses: 
 
 Apache License 2.0
-(bgentry-speakeasy 0.1.0, btree v1.0.0, census-instrumentation/opencensus-go 0.22.0, census-instrumentation/opencensus-go v0.21.0, census-instrumentation/opencensus-go v0.22.2, client-go v0.17.0, client-go v0.18.6, client-go v0.19.4, client_golang v0.9.1, client_golang v0.9.3, client_golang v1.0.0, client_golang v1.7.1, docker-go-units v0.3.3, docker-go-units v0.4.0, envoyproxy/protoc-gen-validate v0.1.0, etcdctl v0.2.0, etcdctl v0.3.0, github.com/go-logr/zapr v0.1.0, github.com/go-logr/zapr v0.3.0, Go Testify v1.4.0, go-ini-ini v1.51.0, go-jose v2.2.2, go-logr/logr v0.1.0, go-logr/logr v0.2.0, go-logr/logr v0.3.0, go-openapi/analysis v0.17.0, go-openapi/analysis v0.18.0, go-openapi/analysis v0.19.2, go-openapi/analysis v0.19.5, go-openapi/errors v0.17.0, go-openapi/errors v0.18.0, go-openapi/errors v0.19.2, go-openapi/jsonpointer v0.17.0, go-openapi/jsonpointer v0.18.0, go-openapi/jsonpointer v0.19.2, go-openapi/jsonpointer v0.19.3, go-openapi/loads v0.17.0, go-openapi/loads v0.18.0, go-openapi/loads v0.19.0, go-openapi/loads v0.19.2, go-openapi/loads v0.19.4, go-openapi/runtime v0.19.0, go-openapi/runtime v0.19.4, go-openapi/spec v0.17.0, go-openapi/spec v0.18.0, go-openapi/spec v0.19.2, go-openapi/spec v0.19.3, go-openapi/spec v0.19.4, go-openapi/validate v0.18.0, go-openapi/validate v0.19.2, go-openapi/validate v0.19.5, golang-mock 1.3.1, golang-mock v1.1.1, golang-mock v1.2.0, golang/appengine v1.1.0, golang/appengine v1.4.0, golang/appengine v1.5.0, golang/appengine v1.6.1, golang/appengine v1.6.5, gomodules/jsonpatch v2.0.1, google-gofuzz v1.0.0, google-gofuzz v1.1.0, google/renameio v0.1.0, googleapis/gnostic v0.1.0, googleapis/gnostic v0.3.1, googleapis/gnostic v0.4.1, googleapis/google-cloud-go v0.26.0, googleapis/google-cloud-go v0.34.0, googleapis/google-cloud-go v0.38.0, googleapis/google-cloud-go v0.44.1, googleapis/google-cloud-go v0.44.2, googleapis/google-cloud-go v0.45.1, googleapis/google-cloud-go v0.46.3, googleapis/google-cloud-go v0.51.0, gophercloud/gophercloud v0.1.0, gophercloud/gophercloud v0.6.0, grpc-ecosystem/go-grpc-middleware v1.0.0, grpc-ecosystem/go-grpc-prometheus v1.2.0, grpc-go v1.19.0, grpc-go v1.20.1, grpc-go v1.21.0, grpc-go v1.21.1, grpc-go v1.23.0, grpc-go v1.23.1, grpc-go v1.26.0, grpc-go v1.27.0, inconshreveable/mousetrap 1.0.0, jonboulle-clockwork 0.1.0, jsonreference v0.17.0, jsonreference v0.18.0, jsonreference v0.19.2, jsonreference v0.19.3, k8s.io/cli-runtime v0.19.4, k8s.io/code-generator v0.17.0, k8s.io/code-generator v0.18.6, k8s.io/code-generator v0.19.4, k8s.io/klog v0.3.0, k8s.io/klog v1.0.0, kubernetes/api v0.17.0, kubernetes/api v0.18.6, kubernetes/api v0.19.4, kubernetes/apiextensions-apiserver v0.17.0, kubernetes/apiextensions-apiserver v0.18.6, kubernetes/apiextensions-apiserver v0.19.4, kubernetes/apimachinery v0.17.0, kubernetes/apimachinery v0.18.6, kubernetes/apimachinery v0.19.4, kubernetes/apiserver v0.17.0, kubernetes/apiserver v0.18.6, kubernetes/apiserver v0.19.4, kubernetes/component-base v0.17.0, kubernetes/component-base v0.18.6, kubernetes/component-base v0.19.4, matttproud-golang_protobuf_extensions v1.0.1, modern-go/reflect2 1.0.1, mongodb/mongo-go-driver v1.0.3, mongodb/mongo-go-driver v1.1.1, mongodb/mongo-go-driver v1.1.2, oklog/ulid v1.3.1, OneOfOne/xxhash v1.2.2, OpenCensus 0.2.1, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.4.0, prometheus-common v0.4.1, prometheus-procfs v0.0.11, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus/tsdb v0.7.1, sergi/go-diff v1.0.0, sigs.k8s.io/controller-runtime v0.6.4, sigs.k8s.io/controller-tools v0.2.8, soheilhy/cmux v0.1.4, spf13-afero v1.1.2, spf13-afero v1.2.2, spf13-cobra 0.0.5, spf13-cobra v0.0.3, spf13-cobra v1.0.0, spf13-cobra v1.1.1, strfmt v0.17.0, strfmt v0.18.0, strfmt v0.19.0, strfmt v0.19.3, swag v0.17.0, swag v0.18.0, swag v0.19.2, swag v0.19.5, uber-go/atomic v1.4.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5, yaml for Go v2.2.8, yaml for Go v2.3.0)
+(bgentry-speakeasy 0.1.0, btree v1.0.0, census-instrumentation/opencensus-go 0.22.0, census-instrumentation/opencensus-go v0.21.0, census-instrumentation/opencensus-go v0.22.2, client-go v0.17.0, client-go v0.18.6, client-go v0.19.4, client_golang v0.9.1, client_golang v0.9.3, client_golang v1.0.0, client_golang v1.7.1, docker-go-units v0.3.3, docker-go-units v0.4.0, envoyproxy/protoc-gen-validate v0.1.0, etcdctl v0.2.0, etcdctl v0.3.0, github.com/go-logr/zapr v0.1.0, github.com/go-logr/zapr v0.3.0, Go Testify v1.4.0, go-ini-ini v1.51.0, go-jose v2.2.2, go-logr/logr v0.1.0, go-logr/logr v0.2.0, go-logr/logr v0.3.0, go-openapi/analysis v0.17.0, go-openapi/analysis v0.18.0, go-openapi/analysis v0.19.2, go-openapi/analysis v0.19.5, go-openapi/errors v0.17.0, go-openapi/errors v0.18.0, go-openapi/errors v0.19.2, go-openapi/jsonpointer v0.17.0, go-openapi/jsonpointer v0.18.0, go-openapi/jsonpointer v0.19.2, go-openapi/jsonpointer v0.19.3, go-openapi/loads v0.17.0, go-openapi/loads v0.18.0, go-openapi/loads v0.19.0, go-openapi/loads v0.19.2, go-openapi/loads v0.19.4, go-openapi/runtime v0.19.0, go-openapi/runtime v0.19.4, go-openapi/spec v0.17.0, go-openapi/spec v0.18.0, go-openapi/spec v0.19.2, go-openapi/spec v0.19.3, go-openapi/spec v0.19.4, go-openapi/validate v0.18.0, go-openapi/validate v0.19.2, go-openapi/validate v0.19.5, golang-mock 1.3.1, golang-mock v1.1.1, golang-mock v1.2.0, golang/appengine v1.1.0, golang/appengine v1.4.0, golang/appengine v1.5.0, golang/appengine v1.6.1, golang/appengine v1.6.5, gomodules/jsonpatch v2.0.1, google-gofuzz v1.0.0, google-gofuzz v1.1.0, google/renameio v0.1.0, googleapis/gnostic 20200304-snapshot, googleapis/gnostic v0.3.1, googleapis/gnostic v0.4.1, googleapis/google-cloud-go v0.26.0, googleapis/google-cloud-go v0.34.0, googleapis/google-cloud-go v0.38.0, googleapis/google-cloud-go v0.44.1, googleapis/google-cloud-go v0.44.2, googleapis/google-cloud-go v0.45.1, googleapis/google-cloud-go v0.46.3, googleapis/google-cloud-go v0.51.0, gophercloud/gophercloud v0.1.0, gophercloud/gophercloud v0.6.0, grpc-ecosystem/go-grpc-middleware v1.0.0, grpc-ecosystem/go-grpc-prometheus v1.2.0, grpc-go v1.19.0, grpc-go v1.20.1, grpc-go v1.21.0, grpc-go v1.21.1, grpc-go v1.23.0, grpc-go v1.23.1, grpc-go v1.26.0, grpc-go v1.27.0, inconshreveable/mousetrap 1.0.0, jonboulle-clockwork 0.1.0, jsonreference v0.17.0, jsonreference v0.18.0, jsonreference v0.19.2, jsonreference v0.19.3, k8s.io/cli-runtime v0.19.4, k8s.io/code-generator v0.17.0, k8s.io/code-generator v0.18.6, k8s.io/code-generator v0.19.4, k8s.io/klog 20210117-snapshot, k8s.io/klog v1.0.0, kubernetes/api v0.17.0, kubernetes/api v0.18.6, kubernetes/api v0.19.4, kubernetes/apiextensions-apiserver v0.17.0, kubernetes/apiextensions-apiserver v0.18.6, kubernetes/apiextensions-apiserver v0.19.4, kubernetes/apimachinery v0.17.0, kubernetes/apimachinery v0.18.6, kubernetes/apimachinery v0.19.4, kubernetes/apiserver v0.17.0, kubernetes/apiserver v0.18.6, kubernetes/apiserver v0.19.4, kubernetes/component-base v0.17.0, kubernetes/component-base v0.18.6, kubernetes/component-base v0.19.4, matttproud-golang_protobuf_extensions v1.0.1, modern-go/reflect2 1.0.1, mongodb/mongo-go-driver v1.0.3, mongodb/mongo-go-driver v1.1.1, mongodb/mongo-go-driver v1.1.2, oklog/ulid v1.3.1, OneOfOne/xxhash v1.2.2, OpenCensus 0.2.1, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.4.0, prometheus-common v0.4.1, prometheus-procfs v0.0.11, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus/tsdb v0.7.1, sergi/go-diff v1.0.0, sigs.k8s.io/controller-runtime v0.6.4, sigs.k8s.io/controller-tools v0.2.8, soheilhy/cmux v0.1.4, spf13-afero v1.1.2, spf13-afero v1.2.2, spf13-cobra 0.0.5, spf13-cobra v0.0.3, spf13-cobra v1.0.0, spf13-cobra v1.1.1, strfmt v0.17.0, strfmt v0.18.0, strfmt v0.19.0, strfmt v0.19.3, swag v0.17.0, swag v0.18.0, swag v0.19.2, swag v0.19.5, uber-go/atomic v1.4.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5, yaml for Go v2.2.8, yaml for Go v2.3.0)
 
 Apache License
 Version 2.0, January 2004
@@ -5634,7 +5655,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang-github-spf13-pflag-dev 1.0.1, golang-github-spf13-pflag-dev 1.0.3)
+(golang-github-spf13-pflag-dev 1.0.3, golang-github-spf13-pflag-dev 20200223-snapshot)
 
 Copyright (c) 2012 Alex Ogier. All rights reserved.
 Copyright (c) 2012 The Go Authors. All rights reserved.
@@ -5834,7 +5855,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(purell 1.1.0, purell v1.0.0)
+(purell 20200521-snapshot, purell 20201017-snapshot)
 
 Copyright (c) 2012, Martin Angers
 All rights reserved.
@@ -5981,7 +6002,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(google/go-cmp 0.2.0, google/go-cmp v0.3.1, google/go-cmp v0.4.0)
+(google/go-cmp 20190919-snapshot, google/go-cmp v0.3.1, google/go-cmp v0.4.0)
 
 Copyright (c) 2017 The Go Authors. All rights reserved.
 
@@ -7170,7 +7191,7 @@ this License. But first, please read
 ---
 
 ISC License
-(go-spew 1.1.0, go-spew v1.1.1)
+(go-spew 20201001-snapshot, go-spew v1.1.1)
 
 ISC License
 
@@ -7523,7 +7544,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(gomega v1.10.1, gomega v1.7.0, gomega v1.7.1, gomega v1.9.0, onsi/ginkgo 1.12.0, onsi/ginkgo v1.10.1, onsi/ginkgo v1.11.0, onsi/ginkgo v1.12.1, onsi/ginkgo v1.6.0)
+(gomega 20200825-snapshot, gomega v1.10.1, gomega v1.7.0, gomega v1.7.1, onsi/ginkgo 1.12.0, onsi/ginkgo v1.10.1, onsi/ginkgo v1.11.0, onsi/ginkgo v1.12.1, onsi/ginkgo v1.6.0)
 
 Copyright (c) 2013-2014 Onsi Fakhouri
 
