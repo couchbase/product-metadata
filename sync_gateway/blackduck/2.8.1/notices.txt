@@ -51,8 +51,8 @@ go-ole-go-ole 20180311-snapshot-1a4e6872 : MIT License
 go-ole-go-ole 20181122-snapshot-ae2e2a20 : MIT License
 go-ole-go-ole v1.2.1 : MIT License
 go-sourcemap/sourcemap 20190924-snapshot : BSD 2-clause "Simplified" License
-go-spew 1.1.0 : ISC License
 go-spew 20190321-snapshot : ISC License
+go-spew 20201001-snapshot : ISC License
 go-spew v1.1.1 : ISC License
 go-stack-stack v1.8.0 : MIT License
 go-systemd 10 : Apache License 2.0
@@ -2447,7 +2447,14 @@ go-ole-go-ole v1.2.1 github:go-ole/go-ole:v1.2.1
 	Copyright © 2013-2017 Yasuhiro Matsumoto, <mattn.jp@gmail.com>
 go-sourcemap/sourcemap 20190924-snapshot github:go-sourcemap/sourcemap:20190924-snapshot
 	Copyright (c) 2016 The github.com/go-sourcemap/sourcemap Contributors.All rights reserved
-go-spew 1.1.0 github:davecgh/go-spew:v1.1.0
+go-spew 20190321-snapshot github:davecgh/go-spew:20190321-snapshot
+	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
+	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
+	Copyright (c) 2013 Dave Collins <dave@davec.name> * * Permission to use, copy, modify, and distribute this software for any * purpose with or without fee is hereby granted, provided that the above
+	Copyright (c) 2013-2016 Dave Collins <dave@davec.name> * * Permission to use, copy, modify, and distribute this software for any * purpose with or without fee is hereby granted, provided that the a
+	Copyright (c) 2015 Dave Collins <dave@davec.name>
+	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>
+go-spew 20201001-snapshot github:davecgh/go-spew:v1.1.0
 	Copyright (c) 2012-2013 Dave Collins <dave@davec.name>
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
@@ -2462,13 +2469,6 @@ go-spew 1.1.0 github:davecgh/go-spew:v1.1.0
 	Copyright (c) 2015 Dave Collins <dave@davec.name>
 	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>
 	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>//// Permission to use, copy, modify, and distribute this software for any// purpose with or without fee is hereby granted, provided that th
-go-spew 20190321-snapshot github:davecgh/go-spew:20190321-snapshot
-	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
-	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
-	Copyright (c) 2013 Dave Collins <dave@davec.name> * * Permission to use, copy, modify, and distribute this software for any * purpose with or without fee is hereby granted, provided that the above
-	Copyright (c) 2013-2016 Dave Collins <dave@davec.name> * * Permission to use, copy, modify, and distribute this software for any * purpose with or without fee is hereby granted, provided that the a
-	Copyright (c) 2015 Dave Collins <dave@davec.name>
-	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>
 go-spew v1.1.1 github:davecgh/go-spew:v1.1.1
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
@@ -6270,7 +6270,7 @@ END OF TERMS AND CONDITIONS
 ---
 
 ISC License
-(go-spew 1.1.0, go-spew 20190321-snapshot, go-spew v1.1.1)
+(go-spew 20190321-snapshot, go-spew 20201001-snapshot, go-spew v1.1.1)
 
 ISC License
 
