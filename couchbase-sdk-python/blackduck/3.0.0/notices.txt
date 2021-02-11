@@ -9,6 +9,7 @@ attrs-python 20.3.0 : MIT License
 boltons 20.2.1 : BSD 3-clause "New" or "Revised" License
 elastic/rally 2.0.2 : Apache License 2.0
 mypy-extensions 0.4.3 : MIT License
+pip 9.0.1 : MIT License
 pyrsistent 0.17.3 : MIT License
 python-attrs 20.3.0 : MIT License
 python-pyrsistent 0.17.3 : MIT License
@@ -21,6 +22,54 @@ Copyright Text:
 
 mypy-extensions 0.4.3 pypi:mypy-extensions/0.4.3
 	Copyright (c) 2016-2017 Jukka Lehtosalo and contributors
+pip 9.0.1 pypi:pip/9.0.1
+	Copyright (C) 1998# the Initial Developer. All Rights Reserved
+	Copyright (C) 1998# the Initial Developer. All Rights Reserved
+	Copyright (C) 2001# the Initial Developer. All Rights Reserved
+	Copyright (C) 2002 Lars Gustaebel <lars@gustaebel.de># All rights reserved
+	Copyright (C) 2005# the Initial Developer. All Rights Reserved
+	Copyright (C) 2012 The Python Software Foundation.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012 The Python Software Foundation.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012 The Python Software Foundation.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012 The Python Software Foundation.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012-2013 Python Software Foundation.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012-2013 Vinay Sajip.# Licensed to the Python Software Foundation under a contributor agreement.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012-2015 Vinay Sajip.# Licensed to the Python Software Foundation under a contributor agreement.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012-2016 The Python Software Foundation.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012-2016 The Python Software Foundation.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012-2016 The Python Software Foundation.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2012-2016 Vinay Sajip.# Licensed to the Python Software Foundation under a contributor agreement.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2013 Vinay Sajip.# Licensed to the Python Software Foundation under a contributor agreement.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2013-2015 Vinay Sajip.# Licensed to the Python Software Foundation under a contributor agreement.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2013-2016 Vinay Sajip.# Licensed to the Python Software Foundation under a contributor agreement.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (C) 2013-2016 Vinay Sajip.# Licensed to the Python Software Foundation under a contributor agreement.# See LICENSE.txt and CONTRIBUTORS.txt.
+	Copyright (c) 2003-2016  Paul T. McGuire
+	Copyright (c) 2005-2010 ActiveState Software Inc.
+	Copyright (c) 2008-2016 The pip developers (see AUTHORS.txt file)
+	Copyright (c) 2009 Raymond Hettinger
+	Copyright (c) 2010-2015 Benjamin Peterson
+	Copyright (c) 2012 Giorgos Verigakis <verigak@gmail.com>
+	Copyright (c) 2013 Eddy Petri
+	Copyright 2007 Google Inc.#  Licensed to PSF under a Contributor Agreement.
+	Copyright 2009 Raymond Hettinger, released under the MIT License.# http://code.activestate.com/recipes/576693/try:
+	Copyright 2009-2010 by Vinay Sajip. All Rights Reserved
+	Copyright 2013-2014 Ray Holder#### Licensed under the Apache License, Version 2.0 (the "License");## you may not use this file except in compliance with the License.## You may obtain a copy of the
+	Copyright 2014-2016
+	Copyright 2015,2016 Nir Cohen
+	Copyright 2016 Kenneth Reitz
+	Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.
+	Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.'''This module generates ANSI character codes to printing colors to terminals.See: http://en.wikipedia.org/wiki/ANSI_escape_c
+	Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.from . import win32
+	Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.from .initialise import init, deinit, reinit, colorama_textfrom .ansi import Fore, Back, Style, Cursorfrom .ansitowin32 impor
+	Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.import atexitimport contextlibimport sys
+	Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.import reimport sysimport os
+	Copyright © 2008
+	copyright = '2008-2016, PyPA
+	copyright: (c) 2012 by Kenneth Reitz.:license: Apache2, see LICENSE for more details."""
+	copyright: (c) 2016 by Kenneth Reitz.:license: Apache 2.0, see LICENSE for more details."""
+	copyright: Copyright 2012 by Simon Sapin    :license: BSD, see LICENSE for details.
+	©'    assert iter_decode_to_string(    assert iter_decode_to_string([        b'\xEF\xBB\xBF', b'\xc3', b'\xa9'], 'latin1') == 'é'    assert iter_decode_to_string([        b'\xEF\xBB\xBF', b'a', b
+	©', lookup(    assert decode(b'\xEF\xBB\xBF\xc3\xa9', 'ascii') == ('é', lookup('utf8'))  # UTF-8 with BOM
 wrapt 1.12.1 pypi:wrapt/1.12.1
 	Copyright (c) 2013-2019, Graham DumpletonAll rights reserved
 
@@ -275,6 +324,32 @@ OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+MIT License
+(pip 9.0.1)
+
+Copyright (c) 2008-2016 The pip developers (see AUTHORS.txt file)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
