@@ -10,7 +10,7 @@ Angular 1.7.9 : MIT License
 angular-route 1.7.8 : MIT License
 beorn7-perks 20200818-snapshot : MIT License
 beorn7-perks v1.0.1 : MIT License
-bootstrap-filestyle v2.0.0 : MIT License
+bootstrap-filestyle v2.1.0 : MIT License
 capi-release 1.86.0 : Apache License 2.0
 cespare/xxhash v2.1.1 : MIT License
 chzyer/logex v1.1.10 : MIT License
@@ -22,11 +22,10 @@ coreos-pkg v1 : Apache License 2.0
 couchbase-cbauth 20181108-snapshot-01fb27d3 : Apache License 2.0
 couchbase-cbgt 20190114-snapshot-6af8aa29 : Apache License 2.0
 couchbase-go-couchbase 0 : MIT License
-couchbase-gocb v2.1.8 : Apache License 2.0
+couchbase-gocb v2.2.0 : Apache License 2.0
 couchbase-gomemcached xdcrDiffer_v1.0 : MIT License
 couchbase-goutils 0 : Apache License 2.0
-couchbase/go-blip 20180309-snapshot-238f46bf : Apache License 2.0
-couchbase/gocbcore v9.1.0 : Apache License 2.0
+couchbase/gocbcore v9.1.1 : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.5 : Apache License 2.0
 diiyw/chaingo 20180205-snapshot-e36409ee : Apache License 2.0
 errwrap v1.0.0 : Mozilla Public License 2.0
@@ -42,8 +41,8 @@ Go Testify 20201102-snapshot : MIT License
 Go Testify v1.2.2 : MIT License
 Go Testify v1.3.0 : MIT License
 Go Testify v1.4.0 : Apache License 2.0
-go-jose 20201202-snapshot : Apache License 2.0
 go-jose v2.2.0 : Apache License 2.0
+go-jose v2.4.1 : Apache License 2.0
 go-kit-kit 20201106-snapshot : MIT License
 go-kit-kit 20201210-snapshot : MIT License
 go-logfmt-logfmt 20201211-snapshot : MIT License
@@ -63,7 +62,7 @@ go-systemd 9 : Apache License 2.0
 go-systemd v7 : Apache License 2.0
 GoDoc Text v0.1.0 : MIT License
 golang - crypto 20180718-snapshot-a2144134 : BSD 3-clause "New" or "Revised" License
-golang protobuf 1.25.0 : BSD 3-clause "New" or "Revised" License
+golang protobuf 1.25.0+git20201208.160c747 : BSD 3-clause "New" or "Revised" License
 golang protobuf 1.4.2 : BSD 3-clause "New" or "Revised" License
 golang protobuf 20201016-snapshot : BSD 3-clause "New" or "Revised" License
 golang protobuf 20210125-snapshot : BSD 3-clause "New" or "Revised" License
@@ -126,7 +125,6 @@ matttproud-golang_protobuf_extensions v1.0.1 : Apache License 2.0
 modern-go/concurrent 20190822-snapshot : Apache License 2.0
 modern-go/concurrent 20200818-snapshot : Apache License 2.0
 modern-go/reflect2 1.0.1 : Apache License 2.0
-modern-go/reflect2 20201011-snapshot : Apache License 2.0
 natefinch/lumberjack 20170911-snapshot-aee46291 : MIT License
 omd - Open Monitoring Distribution Labs Edition v3.40-labs-edition : GNU General Public License v2.0 only
 opentracing-opentracing-go 20201208-snapshot : Apache License 2.0
@@ -140,9 +138,9 @@ prometheus-client_model v0.2.0 : Apache License 2.0
 prometheus-common v0.10.0 : Apache License 2.0
 prometheus-common v0.11.1 : Apache License 2.0
 prometheus-common v0.4.1 : Apache License 2.0
+prometheus-procfs 20200905-snapshot : Apache License 2.0
 prometheus-procfs v0.0.2 : Apache License 2.0
 prometheus-procfs v0.1.3 : Apache License 2.0
-prometheus-procfs v0.2.0 : Apache License 2.0
 Protocol Buffers 1.3.2 : BSD 3-clause "New" or "Revised" License
 protocolbuffers/protobuf-go 1.25.0+git20201208.160c747 : BSD 3-clause "New" or "Revised" License
 robertkrimen/otto 20180907-snapshot-a813c59b : MIT License
@@ -178,10 +176,10 @@ beorn7-perks 20200818-snapshot github:beorn7/perks:v1.0.0
 beorn7-perks v1.0.1 github:beorn7/perks:v1.0.1
 	Copyright (C) 2013 Blake Mizerany
 	Copyright (C) 2013 Blake Mizerany
-bootstrap-filestyle v2.0.0 bower:bootstrap-filestyle/v2.0.0
+bootstrap-filestyle v2.1.0 bower:bootstrap-filestyle/v2.1.0
 	Copyright (c) 2017 Markus Lima
-	Copyright (c) 2017 Markus Vinicius da Silva Lima * Version 2.0.0 * Licensed under the MIT license. */
-	Copyright (c) 2017 Markus Vinicius da Silva Lima * Version 2.0.0 * Licensed under the MIT license. */(function($) {	"use strict";
+	Copyright (c) 2017 Markus Vinicius da Silva Lima * Version 2.1.0 * Licensed under the MIT license. */
+	Copyright (c) 2017 Markus Vinicius da Silva Lima * Version 2.1.0 * Licensed under the MIT license. */(function($) {	"use strict";
 	Copyright 2011-2017 The Bootstrap Authors
 	Copyright 2011-2017 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors) * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 	Copyright 2011-2017 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */@media print{*,::after,::before{text-shadow:none!important;box-shadow:none!important}
@@ -711,8 +709,11 @@ capi-release 1.86.0 github:cloudfoundry/capi-release:1.86.0
 	© ≠ €!",      'a      'b' => 3.141,      'COUNT' => @@count += 1,      'c' => 'c',      'd' => [ 1, "b", 3.14 ],      'e' => { 'foo' => 'bar' },      'g' => "松本行弘",      'h' => 1000.0,      '
 	©/.�����y椔���4����)n���2*r�W�^lf��%DQ;��n}[/8�An�yT������Z�ꍷ�1[�\��$���hE1րok�F������!����ے��S"���̔��G���u0��<qdY�����AO�ٔ,΀�/O��Q��J��BANc(ۨWÊ������4XSjY#��?��ga�W�s�5�u�6hظ@��D
 	©���%��W{as��3޿�u�"囙3�\���C�]��.׮O���������������������]�Ѽ��N���!xȈ��xX��X�M����#ِZZ�Y&���$q$��ҏ9����n��������׹'��,�2�g\h.Y���쳐*w��;:���S�cl�7�#����X/��E0ͼ@�	�c52%f�-7<{}�Q
-cespare/xxhash v2.1.1 github:cespare/xxhash:v2.1.1
+cespare/xxhash v2.1.1 ubuntu:golang-github-cespare-xxhash/2.1.1-1
 	Copyright (c) 2016 Caleb Spare
+	Copyright: 2016 Caleb Spare <cespare@gmail.com>License: Expat
+	Copyright: 2017 Alexandre Viau <aviau@debian.org>License: ExpatComment: Debian packaging is licensed under the same terms as upstream
+	copyright-format/1.0/Upstream-Name: xxhashSource: https://github.com/cespare/xxhash
 client_golang 20200818-snapshot github:prometheus/client_golang:v1.0.0
 	Copyright (c) 2013, The Prometheus Authors// All rights reserved
 	Copyright 2010 The Go AuthorsSee source code for license details.
@@ -776,10 +777,6 @@ couchbase-cbgt 20190114-snapshot-6af8aa29 github:couchbase/cbgt:6af8aa29d87913f1
 	copyright 2016 Couchbase, Inc.
 	copyright-mark:before
 	copyright-mark:before  content: "\e194";}.glyphicon-registration-mark:before {  content: "\e195";
-couchbase/go-blip 20180309-snapshot-238f46bf github:couchbase/go-blip:238f46bf38971b117d90e70cba9bd4682428a8b6
-	Copyright (c) 2013 Jens Alfke.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the Lic
-	Copyright (c) 2013 Jens Alfke. Copyright (c) 2015-2017 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the L
-	Copyright {yyyy
 couchbaselabs/gocbconnstr v1.0.5 github:couchbaselabs/gocbconnstr:v1.0.5
 	Copyright 2016 Couchbase Inc.
 diiyw/chaingo 20180205-snapshot-e36409ee github:diiyw/chaingo:e36409ee79b35a09e3a47f1c793f286b92fe693c
@@ -2363,7 +2360,7 @@ Go Testify v1.4.0 github:stretchr/testify:v1.4.0
 	Copyright (c) 2014 Stretchr, Inc.
 	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>
 	Copyright (c) 2017-2018 objx contributors
-go-jose 20201202-snapshot github:square/go-jose:v2.4.0
+go-jose v2.2.0 github:square/go-jose:v2.2.0
 	Copyright (c) 2012 The Go Authors. All rights reserved
 	Copyright 2010 The Go Authors.  All rights reserved
 	Copyright 2010 The Go Authors.  All rights reserved
@@ -2377,7 +2374,7 @@ go-jose 20201202-snapshot github:square/go-jose:v2.4.0
 	Copyright 2016 Zbigniew Mandziejewicz
 	Copyright 2017 Square Inc. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the Lic
 	Copyright 2018 Square Inc. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the Lic
-go-jose v2.2.0 github:square/go-jose:v2.2.0
+go-jose v2.4.1 github:square/go-jose:v2.4.1
 	Copyright (c) 2012 The Go Authors. All rights reserved
 	Copyright 2010 The Go Authors.  All rights reserved
 	Copyright 2010 The Go Authors.  All rights reserved
@@ -4958,7 +4955,7 @@ yaml for Go v2.2.4 github:go-yaml/yaml:v2.2.4
 Licenses: 
 
 Apache License 2.0
-(capi-release 1.86.0, client_golang 20190925-snapshot, client_golang 20200818-snapshot, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase-gocb v2.1.8, couchbase-goutils 0, couchbase/go-blip 20180309-snapshot-238f46bf, couchbase/gocbcore v9.1.0, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, Go Testify v1.4.0, go-jose 20201202-snapshot, go-jose v2.2.0, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang-procfs 0.1.3, golang/appengine v1.4.0, google-gofuzz 20200818-snapshot, google/pprof 0, google/pprof 0.0~git20200905.acf8798, googleapis/google-cloud-go 20200910-snapshot, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocb.v1 v2.2.0, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17, gopkg.in/couchbaselabs/gocbcore.v7 v9.1.0, gopkg.in/elastic/gosigar.v0 v0.10.2, gopkg.in/elastic/gosigar.v0 v0.9.0, gosigar 0.0~git20171121.dcb1afc, jonboulle-clockwork 20180214-snapshot-ed104f61, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20190822-snapshot, modern-go/concurrent 20200818-snapshot, modern-go/reflect2 1.0.1, modern-go/reflect2 20201011-snapshot, opentracing-opentracing-go 20201208-snapshot, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus-procfs v0.2.0, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5)
+(capi-release 1.86.0, client_golang 20190925-snapshot, client_golang 20200818-snapshot, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase-gocb v2.2.0, couchbase-goutils 0, couchbase/gocbcore v9.1.1, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, Go Testify v1.4.0, go-jose v2.2.0, go-jose v2.4.1, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang-procfs 0.1.3, golang/appengine v1.4.0, google-gofuzz 20200818-snapshot, google/pprof 0, google/pprof 0.0~git20200905.acf8798, googleapis/google-cloud-go 20200910-snapshot, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocb.v1 v2.2.0, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17, gopkg.in/couchbaselabs/gocbcore.v7 v9.1.0, gopkg.in/elastic/gosigar.v0 v0.10.2, gopkg.in/elastic/gosigar.v0 v0.9.0, gosigar 0.0~git20171121.dcb1afc, jonboulle-clockwork 20180214-snapshot-ed104f61, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20190822-snapshot, modern-go/concurrent 20200818-snapshot, modern-go/reflect2 1.0.1, opentracing-opentracing-go 20201208-snapshot, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs 20200905-snapshot, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5)
 
 Apache License
 Version 2.0, January 2004
@@ -5554,7 +5551,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang protobuf 1.25.0, golang protobuf 20201016-snapshot, golang.org/x/oauth2 20201223-snapshot, golang.org/x/text 20200809-snapshot, google/go-cmp v0.5.0, protocolbuffers/protobuf-go 1.25.0+git20201208.160c747)
+(golang protobuf 1.25.0+git20201208.160c747, golang protobuf 20201016-snapshot, golang.org/x/oauth2 20201223-snapshot, golang.org/x/text 20200809-snapshot, google/go-cmp v0.5.0, protocolbuffers/protobuf-go 1.25.0+git20201208.160c747)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -6225,7 +6222,7 @@ SOFTWARE
 ---
 
 MIT License
-(bootstrap-filestyle v2.0.0)
+(bootstrap-filestyle v2.1.0)
 
 Copyright (c) 2017 Markus Lima
 
