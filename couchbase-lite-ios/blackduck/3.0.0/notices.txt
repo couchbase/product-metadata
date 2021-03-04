@@ -66,6 +66,18 @@ ARMmbed/mbed-crypto mbedcrypto-2.1.0d0 github:ARMmbed/mbed-crypto:mbedcrypto-2.1
 	copyright-header.txt -minimal -tmpdir dist/minimal -skip-compilation -extract-uints -add-include <inttypes.h> -add-include <stdbool.h> -add-include "kremlin/internal/compat.h" -add-include "kremlin/in
 	copyright-header.txt -minimal -tmpdir dist/uint128 -skip-compilation -extract-uints -add-include <inttypes.h> -add-include <stdbool.h> -add-include "kremlin/internal/types.h" -bundle FStar.UInt128= *
 	copyright-header.txt -minimal -tmpdir extracted -warn-error * F* version: 059db0c8 * KreMLin version: 916c37ac */
+CBLiteSwift 2.7.1-beta3 github:kabirsaheb/couchbase-lite-ios:2.7.1-beta3
+	Copyright (c) 2016 Couchbase, Inc All rights reserved
+	Copyright (c) 2017 Couchbase, Inc All rights reserved
+	Copyright (c) 2017 Couchbase, Inc All rights reserved
+	Copyright (c) 2018 Couchbase, Inc All rights reserved
+	Copyright (c) 2018 Couchbase, Inc. All rights reserved
+	Copyright (c) 2019 Couchbase, Inc All rights reserved
+	Copyright (c) 2020 Couchbase, Inc All rights reserved
+	Copyright (c) 2020 Couchbase, Inc. All rights reserved
+	Copyright © 2017 Couchbase. All rights reserved
+	Copyright © 2020 Couchbase. All rights reserved
+	copyright to this source code.  In place of ** a legal notice, here is a blessing: **
 com.tagtraum:libz 4.0.0 maven:com.tagtraum:libz:4.0.0
 	&copy);                assert(ret == Z_OK);        err = 9;                        /* don't care next time around */        have += strm.avail_in;        strm.avail_in = step > have ? have : step;
 	&copy, &strm);            assert(ret == Z_MEM_ERROR);    mem_limit(&strm, 0);    ret = inflateUndermine(&strm, 1);           assert(ret == Z_DATA_ERROR);    (void)inflateMark(&strm);    ret = infl
