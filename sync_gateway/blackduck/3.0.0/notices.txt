@@ -91,6 +91,7 @@ golang.org/x/sys 20180811-snapshot-98c5dad5 : BSD 3-clause "New" or "Revised" Li
 golang.org/x/text 20200809-snapshot : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.4.0 : Apache License 2.0
 golang/text 20180804-snapshot-17ff2d57 : BSD 3-clause "New" or "Revised" License
+Google Cloud Client Libraries for Go 20200910-snapshot : Apache License 2.0
 google-gofuzz 20200818-snapshot : Apache License 2.0
 google/go-cmp 20210117-snapshot : BSD 3-clause "New" or "Revised" License
 google/go-cmp v0.3.1 : BSD 3-clause "New" or "Revised" License
@@ -99,7 +100,6 @@ google/go-cmp v0.5.0 : BSD 3-clause "New" or "Revised" License
 google/pprof 0 : Apache License 2.0
 google/pprof 0.0~git20200905.acf8798 : Apache License 2.0
 google/uuid v1.1.1 : BSD 3-clause "New" or "Revised" License
-googleapis/google-cloud-go 20200910-snapshot : Apache License 2.0
 gopkg.in/couchbaselabs/gocb.v1 v1.6.6 : Apache License 2.0
 gopkg.in/couchbaselabs/gocb.v1 v2.2.0 : Apache License 2.0
 gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17 : Apache License 2.0
@@ -777,6 +777,8 @@ couchbase-cbgt 20190114-snapshot-6af8aa29 github:couchbase/cbgt:6af8aa29d87913f1
 	copyright 2016 Couchbase, Inc.
 	copyright-mark:before
 	copyright-mark:before  content: "\e194";}.glyphicon-registration-mark:before {  content: "\e195";
+couchbase-gomemcached xdcrDiffer_v1.0 github:couchbase/gomemcached:xdcrDiffer_v1.0
+	Copyright (c) 2013 Dustin Sallings
 couchbaselabs/gocbconnstr v1.0.5 github:couchbaselabs/gocbconnstr:v1.0.5
 	Copyright 2016 Couchbase Inc.
 diiyw/chaingo 20180205-snapshot-e36409ee github:diiyw/chaingo:e36409ee79b35a09e3a47f1c793f286b92fe693c
@@ -803,6 +805,9 @@ diiyw/chaingo 20180205-snapshot-e36409ee github:diiyw/chaingo:e36409ee79b35a09e3
 	Copyright 2018 Cheuk
 errwrap v1.0.0 github:hashicorp/errwrap:v1.0.0
 	copyright doctrines of fair use, fair dealing, or other equivalents.
+felixge/fgprof v0.9.0 github:felixge/fgprof:v0.9.0
+	COPYRIGHT: The code for populating	// writeRuntimeProfile in src/runtime/pprof/pprof.go.	//	// Find out how many records there are (GoroutineProfile(nil)),	// allocate that many records, and get t
+	Copyright © 2020 Felix Geisend
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 github:konsorten/go-windows-terminal-sequences:v1.0.1
 	Copyright (c) 2017 marvin
 	Copyright (c) 2018 marvin
@@ -2683,6 +2688,29 @@ golang protobuf 1.4.2 github:golang/protobuf:v1.4.2
 	Copyright 2019 The Go Authors. All rights reserved
 	Copyright 2020 The Go Authors. All rights reserved
 	Copyright 2020 The Go Authors. All rights reserved
+golang protobuf 20201016-snapshot github:golang/protobuf:20201016-snapshot
+	Copyright 2010 The Go Authors.https://github.com/golang/protobuf
+	Copyright 2010 The Go Authors.  All rights reserved
+	Copyright 2010 The Go Authors.  All rights reserved
+	Copyright 2010 The Go Authors. All rights reserved
+	Copyright 2010 The Go Authors. All rights reserved
+	Copyright 2011 The Go Authors.  All rights reserved
+	Copyright 2012 The Go Authors.  All rights reserved
+	Copyright 2013 The Go Authors.  All rights reserved
+	Copyright 2014 The Go Authors.  All rights reserved
+	Copyright 2015 The Go Authors.  All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors.  All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors.  All rights reserved
+	Copyright 2018 The Go Authors.  All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2019 The Go Authors. All rights reserved
+	Copyright 2019 The Go Authors. All rights reserved
 golang protobuf 20210125-snapshot github:golang/protobuf:v1.2.0
 	Copyright 2010 The Go Authors.https://github.com/golang/protobuf
 	Copyright 2010 The Go Authors.  All rights reserved
@@ -2785,6 +2813,11 @@ golang protobuf v1.4.1 github:golang/protobuf:v1.4.1
 	Copyright 2020 The Go Authors. All rights reserved
 golang-github-elazarl-go-bindata-assetfs-dev 20170620-snapshot github:elazarl/go-bindata-assetfs:20170620-snapshot
 	Copyright (c) 2014, Elazar LeibovichAll rights reserved
+golang-github-json-iterator-go-dev 1.1.10 ubuntu:golang-github-json-iterator-go/1.1.10-1
+	Copyright (c) 2016 json-iterator
+	Copyright: 2016 json-iterator <taowen@didichuxing.com>License: Expat
+	Copyright: 2018 MartLicense: ExpatComment: Debian packaging is licensed under the same terms as upstream
+	copyright-format/1.0/Upstream-Name: goSource: https://github.com/json-iterator/go
 golang-github-stretchr-testify 1.4.0 fedora:golang-github-stretchr-testify/1.4.0-2.fc32/armv7hl
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
 	Copyright (c) 2012-2018 Mat Ryer and Tyler Bunnell
@@ -2848,6 +2881,21 @@ golang-golang-x-oauth2 0.0~git20190604.0f29369 debian:golang-golang-x-oauth2/0.0
 	Copyright: 2014-2015 The oauth2 Authors           2014-2016 The Go AuthorsLicense: BSD-3-clause
 	Copyright: 2015 Michael Stapelberg <stapelberg@debian.org>License: BSD-3-clauseComment: Debian packaging is licensed under the same terms as upstream
 	copyright-format/1.0/Upstream-Name: oauth2Source: http://golang.org/x/oauth2
+golang-procfs 0.1.3 debian:golang-procfs/0.1.3-2
+	Copyright 2014 Prometheus Team// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of the Li
+	Copyright 2014-2015 The Prometheus Authors
+	Copyright 2017 Prometheus Team// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of the Li
+	Copyright 2017 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2018 The Prometheus Authors# Licensed under the Apache License, Version 2.0 (the "License");# you may not use this file except in compliance with the License.# You may obtain a copy of th
+	Copyright 2018 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2019 The Prometheus Authors
+	Copyright 2019 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2020 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright: 2014-2015 The Prometheus AuthorsLicense: Apache-2.0
+	Copyright: 2015 MartLicense: Apache-2.0
+	Copyright: 2017 Roger LuethiLicense: Apache-2.0
+	Copyright|generated  done}
+	copyright-format/1.0/Upstream-Name: github.com/prometheus/procfsSource: https://github.com/prometheus/procfs/
 golang-snappy-go-dev 20160302-snapshot github:golang/snappy:20160302-snapshot
 	Copyright (c) 2011 The Snappy-Go Authors. All rights reserved
 	Copyright 2011 The Snappy-Go Authors. All rights reserved
@@ -4387,6 +4435,189 @@ golang.org/x/sys 20180811-snapshot-98c5dad5 long_tail:golang.org/x/sys#98c5dad5d
 	Copyright 2018 The Go Authors. All rights reserved
 	Copyright 2018 The Go Authors. All rights reserved
 	Copyright 2018 The Go Authors. All rights reserved
+golang.org/x/text 20200809-snapshot long_tail:golang.org/x/text#20200809-snapshot
+	Copyright (c) 2009 The Go Authors. All rights reserved
+	Copyright 2011 The Go Authors. All rights reserved
+	Copyright 2011 The Go Authors. All rights reserved
+	Copyright 2011 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2012 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2013 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2014 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2015 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2016 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2017 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	Copyright 2018 The Go Authors. All rights reserved
+	©ټE\xffd\xbb	"\xc0\x7f\xa4_b\xaa\xbe9\\\xc9O\xa0\xa0\xf2F\xb5ҋ.?m\xeb)\x90\x18pX\xe4" +	"\xbf\xd2\xd1d\x06S\xfc8\xa3\x0b\x0f\x83#\x1a\x96[A;\x0f&\x92~\x0d\x03." +	"\x83\x0bs+\u07b3\x09L\xb1\xa5\xfa
 golang/appengine v1.4.0 github:golang/appengine:v1.4.0
 	Copyright 2011 Google Inc. All Rights Reserved
 	Copyright 2011 Google Inc. All Rights Reserved
@@ -4636,6 +4867,26 @@ golang/text 20180804-snapshot-17ff2d57 github:golang/text:17ff2d5776d28fa6ba2280
 	Copyright 2018 The Go Authors. All rights reserved
 	Copyright 2018 The Go Authors. All rights reserved
 	©ټE\xffd\xbb	"\xc0\x7f\xa4_b\xaa\xbe9\\\xc9O\xa0\xa0\xf2F\xb5ҋ.?m\xeb)\x90\x18pX\xe4" +	"\xbf\xd2\xd1d\x06S\xfc8\xa3\x0b\x0f\x83#\x1a\x96[A;\x0f&\x92~\x0d\x03." +	"\x83\x0bs+\u07b3\x09L\xb1\xa5\xfa
+Google Cloud Client Libraries for Go 20200910-snapshot github:googleapis/google-cloud-go:v0.34.0
+	Copyright (c) 1996-1998 John D. Polstra.  All rights reserved
+	Copyright (c) 2001 David E. O
+	Copyright 2014 Google LLC
+	Copyright 2014 Google LLC// Modified 2018 by Jonathan Amsterdam (jbamsterdam@gmail.com)
+	Copyright 2015 Google LLC
+	Copyright 2015 Google LLC
+	Copyright 2016 Google LLC
+	Copyright 2016 Google LLC
+	Copyright 2017 Google LLC
+	Copyright 2017 Google LLC
+	Copyright 2017 Google LLC
+	Copyright 2017, Google Inc. All rights reserved
+	Copyright 2017, Google LLC
+	Copyright 2018 Google Inc.
+	Copyright 2018 Google Inc. All Rights Reserved
+	Copyright 2018 Google LLC
+	Copyright 2018 Google LLC
+	Copyright 2018 Google LLC.
+	copyright header in the file. You also need to either run thecommands above using Golang 1.6 or manually change the "context" import to
 google/go-cmp 20210117-snapshot github:google/go-cmp:v0.3.0
 	Copyright (c) 2017 The Go Authors. All rights reserved
 	Copyright 2017, The Go Authors. All rights reserved
@@ -4665,6 +4916,42 @@ google/go-cmp 20210117-snapshot github:google/go-cmp:v0.3.0
 	Copyright 2019, The Go Authors. All rights reserved
 	Copyright 2019, The Go Authors. All rights reserved
 	©�����J~��|(_.��� �s������_��k8�����/j�q�U_�B>T�Eۣ��u~�d�T��v8�q��)0�鈞&C���I�B�9b2sw���󸾖���,ܴ%��5ٽL�����s�^�oQ�ہ)���%�vR�����S��$�)�+�/��{/v�Q2��FT�ku�j86�!��g�|�S;�<�r�E
+google/pprof 0.0~git20200905.acf8798 debian:golang-github-google-pprof/0.0~git20200905.acf8798-2~bpo10+1
+	Copyright (C) 2020 Free Software Foundation, Inc.",			want: false,		},
+	Copyright (C) 2020 Free Software Foundation, Inc.",			want: true,		},
+	Copyright (c) 2013 Justin Palmer
+	Copyright 2009-2017 Andrea Leofreddi <a.leofreddi@vleo.net>. All rights reserved
+	Copyright 2009-2017 Andrea Leofreddi <a.leofreddi@vleo.net>. All rights reserved
+	Copyright 2010-2017 Mike BostockAll rights reserved
+	Copyright 2014 Google Inc. All Rights Reserved
+	Copyright 2016 Google Inc. All Rights Reserved
+	Copyright 2016 Google Inc. All Rights Reserved
+	Copyright 2017 Google Inc. All Rights Reserved
+	Copyright 2017 Google Inc. All Rights Reserved
+	Copyright 2017 Google Inc. All Rights Reserved
+	Copyright 2018 Google Inc. All Rights Reserved
+	Copyright 2018 Google Inc. All Rights Reserved
+	Copyright 2018 Google Inc. All Rights Reserved
+	Copyright 2019 Google Inc. All Rights Reserved
+	Copyright {yyyy
+google/pprof 0 fedora:golang-github-google-pprof/0-0.8.20200727git1a94d86.fc33/armv7hl
+	Copyright (C) 2020 Free Software Foundation, Inc.",			want: false,		},
+	Copyright (C) 2020 Free Software Foundation, Inc.",			want: true,		},
+	Copyright (c) 2013 Justin Palmer
+	Copyright 2009-2017 Andrea Leofreddi <a.leofreddi@vleo.net>. All rights reserved
+	Copyright 2009-2017 Andrea Leofreddi <a.leofreddi@vleo.net>. All rights reserved
+	Copyright 2010-2017 Mike BostockAll rights reserved
+	Copyright 2014 Google Inc. All Rights Reserved
+	Copyright 2016 Google Inc. All Rights Reserved
+	Copyright 2016 Google Inc. All Rights Reserved
+	Copyright 2017 Google Inc. All Rights Reserved
+	Copyright 2017 Google Inc. All Rights Reserved
+	Copyright 2017 Google Inc. All Rights Reserved
+	Copyright 2018 Google Inc. All Rights Reserved
+	Copyright 2018 Google Inc. All Rights Reserved
+	Copyright 2018 Google Inc. All Rights Reserved
+	Copyright 2019 Google Inc. All Rights Reserved
+	Copyright {yyyy
 google/uuid v1.1.1 github:google/uuid:v1.1.1
 	Copyright (c) 2009,2014 Google Inc. All rights reserved
 	Copyright 2016 Google Inc.  All rights reserved
@@ -4672,26 +4959,6 @@ google/uuid v1.1.1 github:google/uuid:v1.1.1
 	Copyright 2017 Google Inc.  All rights reserved
 	Copyright 2017 Google Inc.  All rights reserved
 	Copyright 2018 Google Inc.  All rights reserved
-googleapis/google-cloud-go 20200910-snapshot github:googleapis/google-cloud-go:v0.34.0
-	Copyright (c) 1996-1998 John D. Polstra.  All rights reserved
-	Copyright (c) 2001 David E. O
-	Copyright 2014 Google LLC
-	Copyright 2014 Google LLC// Modified 2018 by Jonathan Amsterdam (jbamsterdam@gmail.com)
-	Copyright 2015 Google LLC
-	Copyright 2015 Google LLC
-	Copyright 2016 Google LLC
-	Copyright 2016 Google LLC
-	Copyright 2017 Google LLC
-	Copyright 2017 Google LLC
-	Copyright 2017 Google LLC
-	Copyright 2017, Google Inc. All rights reserved
-	Copyright 2017, Google LLC
-	Copyright 2018 Google Inc.
-	Copyright 2018 Google Inc. All Rights Reserved
-	Copyright 2018 Google LLC
-	Copyright 2018 Google LLC
-	Copyright 2018 Google LLC.
-	copyright header in the file. You also need to either run thecommands above using Golang 1.6 or manually change the "context" import to
 gopkg.in/couchbaselabs/gocb.v1 v1.6.6 long_tail:gopkg.in/couchbaselabs/gocb.v1#v1.6.6
 	Copyright 2016 Couchbase Inc.
 gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17 long_tail:gopkg.in/couchbaselabs/gocbcore.v7#v7.1.17
@@ -4752,8 +5019,12 @@ gosigar 0.0~git20171121.dcb1afc ubuntu:golang-github-cloudfoundry-gosigar/0.0~gi
 	Copyright: 2009-2012 VMware, Inc.License: Apache-2.0
 	Copyright: 2015 Alexandre Viau <alexandre@alexandreviau.net>License: Apache-2.0Comment: Debian packaging is licensed under the same terms as upstream
 	copyright-format/1.0/Upstream-Name: gosigarSource: https://github.com/cloudfoundry/gosigar
+hashicorp-go-multierror v1.1.0 fedora:golang-github-hashicorp-multierror/1.1.0-4.fc33/armv7hl
+	copyright doctrines of fair use, fair dealing, or other equivalents.
 jonboulle-clockwork 20180214-snapshot-ed104f61 github:jonboulle/clockwork:ed104f61ea4877bea08af6f759805674861e968d
 	Copyright {yyyy
+jsoniter-go v1.1.10 github:json-iterator/go:v1.1.10
+	Copyright (c) 2016 json-iterator
 jsoniter-go v1.1.6 github:json-iterator/go:v1.1.6
 	Copyright (c) 2016 json-iterator
 julienschmidt/httprouter 20200701-snapshot github:julienschmidt/httprouter:v1.2.0
@@ -4808,12 +5079,27 @@ pkg/errors v0.9.1 github:pkg/errors:v0.9.1
 pmezard-go-difflib 1.0.0 github:pmezard/go-difflib:v1.0.0
 	Copyright (c) 2013, Patrick MezardAll rights reserved
 	Copyright (c) 2013, Patrick MezardAll rights reserved
+pquerna/cachecontrol 0.0~git20171018.0dec1b3 debian:golang-github-pquerna-cachecontrol/0.0~git20171018.0dec1b3-1.1
+	Copyright 2009 The Go Authors. All rights reserved
+	Copyright 2015 Paul Querna * *  Licensed under the Apache License, Version 2.0 (the "License"); *  you may not use this file except in compliance with the License. *  You may obtain a copy of the 
 pquerna/cachecontrol 20180711-snapshot-1555304b github:pquerna/cachecontrol:1555304b9b35fdd2b425bccf1a5613677705e7d0
 	Copyright 2009 The Go Authors. All rights reserved
 	Copyright 2015 Paul Querna * *  Licensed under the Apache License, Version 2.0 (the "License"); *  you may not use this file except in compliance with the License. *  You may obtain a copy of the 
 prometheus-client_model v0.2.0 github:prometheus/client_model:v0.2.0
 	Copyright 2012-2015 The Prometheus Authors
 prometheus-common v0.10.0 github:prometheus/common:v0.10.0
+	Copyright (c) 2011, Open Knowledge Foundation Ltd.All rights reserved
+	Copyright (c) 2011, Open Knowledge Foundation Ltd.All rights reserved
+	Copyright 2013 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2014 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2015 The Prometheus Authors
+	Copyright 2015 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2016 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2017 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2018 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2019 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2020 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+prometheus-common v0.11.1 github:prometheus/common:v0.11.1
 	Copyright (c) 2011, Open Knowledge Foundation Ltd.All rights reserved
 	Copyright (c) 2011, Open Knowledge Foundation Ltd.All rights reserved
 	Copyright 2013 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
@@ -4836,6 +5122,17 @@ prometheus-common v0.4.1 github:prometheus/common:v0.4.1
 	Copyright 2017 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
 	Copyright 2018 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
 	Copyright 2019 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+prometheus-procfs 20200905-snapshot github:prometheus/procfs:v0.1.2
+	Copyright 2014 Prometheus Team// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of the Li
+	Copyright 2014-2015 The Prometheus Authors
+	Copyright 2017 Prometheus Team// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of the Li
+	Copyright 2017 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2018 The Prometheus Authors# Licensed under the Apache License, Version 2.0 (the "License");# you may not use this file except in compliance with the License.# You may obtain a copy of th
+	Copyright 2018 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2019 The Prometheus Authors
+	Copyright 2019 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2020 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright|generated  done}
 prometheus-procfs v0.0.2 github:prometheus/procfs:v0.0.2
 	Copyright 2014 Prometheus Team// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of the Li
 	Copyright 2014-2015 The Prometheus Authors
@@ -4844,6 +5141,17 @@ prometheus-procfs v0.0.2 github:prometheus/procfs:v0.0.2
 	Copyright 2018 The Prometheus Authors# Licensed under the Apache License, Version 2.0 (the "License");# you may not use this file except in compliance with the License.# You may obtain a copy of th
 	Copyright 2018 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
 	Copyright 2019 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright|generated  done}
+prometheus-procfs v0.1.3 github:prometheus/procfs:v0.1.3
+	Copyright 2014 Prometheus Team// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of the Li
+	Copyright 2014-2015 The Prometheus Authors
+	Copyright 2017 Prometheus Team// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of the Li
+	Copyright 2017 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2018 The Prometheus Authors# Licensed under the Apache License, Version 2.0 (the "License");# you may not use this file except in compliance with the License.# You may obtain a copy of th
+	Copyright 2018 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2019 The Prometheus Authors
+	Copyright 2019 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
+	Copyright 2020 The Prometheus Authors// Licensed under the Apache License, Version 2.0 (the "License");// you may not use this file except in compliance with the License.// You may obtain a copy of
 	Copyright|generated  done}
 Protocol Buffers 1.3.2 ubuntu:golang-goprotobuf-dev/1.3.2-1/i386
 	Copyright 2010 The Go Authors.  All rights reserved
@@ -4938,6 +5246,31 @@ stretchr/objx v0.1 github:stretchr/objx:v0.1
 	Copyright (c) 2014 Stretchr, Inc.
 	Copyright (c) 2015-2016 Dave Collins <dave@davec.name>
 	Copyright (c) 2017-2018 objx contributors
+sync_gateway 2.8.0 github:couchbaselabs/sync_gateway:2.8.0
+	Copyright (c) 2012 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2012 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2012 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2012 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2012 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2012 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2012 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2012-2013 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy o
+	Copyright (c) 2012-2013 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy o
+	Copyright (c) 2013 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2013 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2013 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2013 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2014 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2015 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2016 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2016 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2016 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2016 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright (c) 2016 Couchbase, Inc. All rights reserved
+	Copyright (c) 2017 Couchbase, Inc.//  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file//  except in compliance with the License. You may obtain a copy of the
+	Copyright 2017 Couchbase, Inc.
+	Copyright Apple Computer, Inc., 2010���}!1AQa"q2���#B��R��$3br�	%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz���������������������������������������������������������
+	©Ŝ�*�lk��I�z�*�~�Y��%Ѷ�*��m���mh�Ӹ�^U�RG�����P�U����	��PV��`Q-\�(1� ���Z��I�U�Um�"���������Uv��׼��m�e86K��'�%m�q���V�4ҋ���#n���*ˏ�ӭ��y��ʖL*ߵ+:��W_�,�Mb�\��Z�AL9�uUF��(0�׌�Gdv�+��?Bo�=$�)c۲ci
 yaml for Go v2.2.1 github:go-yaml/yaml:v2.2.1
 	Copyright (c) 2006 Kirill Simonov
 	Copyright 2011-2016 Canonical Ltd.
@@ -4955,7 +5288,7 @@ yaml for Go v2.2.4 github:go-yaml/yaml:v2.2.4
 Licenses: 
 
 Apache License 2.0
-(capi-release 1.86.0, client_golang 20190925-snapshot, client_golang 20200818-snapshot, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase-gocb v2.2.0, couchbase-goutils 0, couchbase/gocbcore v9.1.1, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, Go Testify v1.4.0, go-jose v2.2.0, go-jose v2.4.1, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang-procfs 0.1.3, golang/appengine v1.4.0, google-gofuzz 20200818-snapshot, google/pprof 0, google/pprof 0.0~git20200905.acf8798, googleapis/google-cloud-go 20200910-snapshot, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocb.v1 v2.2.0, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17, gopkg.in/couchbaselabs/gocbcore.v7 v9.1.0, gopkg.in/elastic/gosigar.v0 v0.10.2, gopkg.in/elastic/gosigar.v0 v0.9.0, gosigar 0.0~git20171121.dcb1afc, jonboulle-clockwork 20180214-snapshot-ed104f61, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20190822-snapshot, modern-go/concurrent 20200818-snapshot, modern-go/reflect2 1.0.1, opentracing-opentracing-go 20201208-snapshot, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs 20200905-snapshot, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5)
+(capi-release 1.86.0, client_golang 20190925-snapshot, client_golang 20200818-snapshot, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg v1, couchbase-cbauth 20181108-snapshot-01fb27d3, couchbase-cbgt 20190114-snapshot-6af8aa29, couchbase-gocb v2.2.0, couchbase-goutils 0, couchbase/gocbcore v9.1.1, couchbaselabs/gocbconnstr v1.0.5, diiyw/chaingo 20180205-snapshot-e36409ee, Go Testify v1.4.0, go-jose v2.2.0, go-jose v2.4.1, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang-procfs 0.1.3, golang/appengine v1.4.0, Google Cloud Client Libraries for Go 20200910-snapshot, google-gofuzz 20200818-snapshot, google/pprof 0, google/pprof 0.0~git20200905.acf8798, gopkg.in/couchbaselabs/gocb.v1 v1.6.6, gopkg.in/couchbaselabs/gocb.v1 v2.2.0, gopkg.in/couchbaselabs/gocbcore.v7 v7.1.17, gopkg.in/couchbaselabs/gocbcore.v7 v9.1.0, gopkg.in/elastic/gosigar.v0 v0.10.2, gopkg.in/elastic/gosigar.v0 v0.9.0, gosigar 0.0~git20171121.dcb1afc, jonboulle-clockwork 20180214-snapshot-ed104f61, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20190822-snapshot, modern-go/concurrent 20200818-snapshot, modern-go/reflect2 1.0.1, opentracing-opentracing-go 20201208-snapshot, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs 20200905-snapshot, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5)
 
 Apache License
 Version 2.0, January 2004
@@ -5262,7 +5595,7 @@ THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(Go programming language 0.0~git20180614.a8fb68e, Go programming language 20180824-snapshot-4bcd98cc, golang - crypto 20180718-snapshot-a2144134, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180901-snapshot-182538f8, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190414-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang/text 20180804-snapshot-17ff2d57, rsc/letsencrypt v0.0.1)
+(Go programming language 0.0~git20180614.a8fb68e, Go programming language 20180824-snapshot-4bcd98cc, golang - crypto 20180718-snapshot-a2144134, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180901-snapshot-182538f8, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190414-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text 20200809-snapshot, golang/text 20180804-snapshot-17ff2d57, rsc/letsencrypt v0.0.1)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -5485,40 +5818,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(pmezard-go-difflib 1.0.0)
-
-Copyright (c) 2013, Patrick Mezard
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-    Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in the
-documentation and/or other materials provided with the distribution.
-    The names of its contributors may not be used to endorse or promote
-products derived from this software without specific prior written
-permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
-IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
-TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
-PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
-TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(google/go-cmp v0.3.1, google/go-cmp v0.4.0)
+(google/go-cmp v0.3.1, google/go-cmp v0.4.0, google/go-cmp v0.5.0)
 
 Copyright (c) 2017 The Go Authors. All rights reserved.
 
@@ -5551,7 +5851,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang protobuf 1.25.0+git20201208.160c747, golang protobuf 20201016-snapshot, golang.org/x/oauth2 20201223-snapshot, golang.org/x/text 20200809-snapshot, google/go-cmp v0.5.0, protocolbuffers/protobuf-go 1.25.0+git20201208.160c747)
+(golang protobuf 1.25.0+git20201208.160c747, golang.org/x/oauth2 20201223-snapshot, protocolbuffers/protobuf-go 1.25.0+git20201208.160c747)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -5585,7 +5885,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang protobuf 1.4.2, golang protobuf 20210125-snapshot, golang protobuf v1.3.1, golang protobuf v1.3.2, golang protobuf v1.4.0, golang protobuf v1.4.1)
+(golang protobuf 1.4.2, golang protobuf 20201016-snapshot, golang protobuf 20210125-snapshot, golang protobuf v1.3.1, golang protobuf v1.3.2, golang protobuf v1.4.0, golang protobuf v1.4.1)
 
 Copyright 2010 The Go Authors.  All rights reserved.
 
@@ -5771,6 +6071,50 @@ Redistribution and use in source and binary forms, with or without
  THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(pmezard-go-difflib 1.0.0)
+
+Source: https://github.com/pmezard/go-difflib
+
+Files: *
+Copyright: 2013 Patrick Mézard
+License: BSD-3-clause
+
+Files: debian/*
+Copyright: 2016 Dmitry Smirnov <onlyjob@debian.org>
+License: BSD-3-clause
+
+License: BSD-3-clause
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are
+ met:
+ .
+    Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+ .
+    Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+ .
+    The names of its contributors may not be used to endorse or promote
+    products derived from this software without specific prior written
+    permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+ IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+ TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+ PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+ HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+ TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+ NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -6197,6 +6541,31 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
+(couchbase-gomemcached xdcrDiffer_v1.0)
+
+Copyright (c) 2013 Dustin Sallings
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
 (alecthomas-kingpin v2.2.6)
 
 Copyright (C) 2014 Alec Thomas
@@ -6218,6 +6587,34 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+---
+
+MIT License
+(cespare/xxhash v2.1.1)
+
+Copyright (c) 2016 Caleb Spare
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -6410,7 +6807,7 @@ SOFTWARE
 ---
 
 MIT License
-(jsoniter-go v1.1.6)
+(jsoniter-go v1.1.10, jsoniter-go v1.1.6)
 
 MIT License
 
@@ -6433,43 +6830,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
-
----
-
-MIT License
-(cespare/xxhash v2.1.1)
-
-Source: https://github.com/cespare/xxhash
-
-Files: *
-Copyright: 2016 Caleb Spare <cespare@gmail.com>
-License: Expat
-
-Files: debian/*
-Copyright: 2017 Alexandre Viau <aviau@debian.org>
-License: Expat
-Comment: Debian packaging is licensed under the same terms as upstream
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining
- a copy of this software and associated documentation files (the
- "Software"), to deal in the Software without restriction, including
- without limitation the rights to use, copy, modify, merge, publish,
- distribute, sublicense, and/or sell copies of the Software, and to
- permit persons to whom the Software is furnished to do so, subject to
- the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
- LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
- OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
- WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -6502,7 +6862,7 @@ SOFTWARE
 ---
 
 MIT License
-(couchbase-go-couchbase 0, couchbase-gomemcached xdcrDiffer_v1.0, felixge/fgprof v0.9.0, Go Testify 20181108-snapshot, jsoniter-go 20201208-snapshot, jsoniter-go v1.1.10, stretchr/objx 20210115-snapshot)
+(couchbase-go-couchbase 0, Go Testify 20181108-snapshot, jsoniter-go 20201208-snapshot, stretchr/objx 20210115-snapshot)
 
 The MIT License
 ===============
@@ -6794,6 +7154,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+---
+
+MIT License
+(felixge/fgprof v0.9.0)
+
+The MIT License (MIT)
+Copyright © 2020 Felix Geisendörfer <felix@fsync.gmbh>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
