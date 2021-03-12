@@ -6,6 +6,7 @@ Copyright 2021
 Components: 
 
 [ini4j] 0.5.4 : Apache License 2.0
+alecthomas/participle v0.2.1 : MIT License
 algebricks-common 0.3.5 : Apache License 2.0
 algebricks-compiler 0.3.4.1 : Apache License 2.0
 algebricks-core 0.3.4.1 : Apache License 2.0
@@ -110,21 +111,20 @@ folsom 0.8.1 : Apache License 2.0
 forestdb v1.2 : Apache License 2.0
 geocouch 20180430-snapshot-92def13f : Apache License 2.0
 geometry-api-java 2.0.0 : Apache License 2.0
-github.com/alecthomas/participle v0.2.1 : MIT License
 github.com/syndtr/gosnappy 20150730-snapshot-156a0732 : BSD 3-clause "New" or "Revised" License
 glenn-brown/golang-pkg-pcre 20120522-snapshot-48bb82a8 : BSD 2-clause "Simplified" License
 glog 0.3.5 : BSD 3-clause "New" or "Revised" License
 glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55 : MIT License
 Go programming language 0.0~git20190125.d66bd3c+ds : BSD 3-clause "New" or "Revised" License
 Go programming language 20171128-snapshot-57961680 : BSD 3-clause "New" or "Revised" License
-Go Testify 20201102-snapshot : MIT License
 Go Testify v1.3.0 : MIT License
+Go Testify v1.5.1 : MIT License
 go-jsonpointer 20160814-snapshot-ba0abeac : MIT License
 go-metrics master-efc2659 : BSD 2-clause "Simplified" License
 go-ole-go-ole 20180311-snapshot-1a4e6872 : MIT License
 go-ole-go-ole v1.2.0 : MIT License
 go-ole-go-ole v1.2.4 : MIT License
-go-spew 20201001-snapshot : ISC License
+go-spew v1.1.0 : ISC License
 go-spew v1.1.1 : ISC License
 go-sqlite3 master-20100709 : BSD 2-clause "Simplified" License
 go-zookeeper 20150410-snapshot-fa6674ab : BSD 3-clause "New" or "Revised" License
@@ -280,7 +280,7 @@ tinylib-msgp 20181103-snapshot : MIT License
 tpcds 1.2 : Apache License 2.0
 tracymacding/goleveldb 20160629-snapshot-ab8b5dcf : BSD 2-clause "Simplified" License
 urllib3 1.13.1 : MIT License
-willf/bitset 20200628-snapshot : BSD 3-clause "New" or "Revised" License
+willf/bitset v1.0.0 : BSD 3-clause "New" or "Revised" License
 willf/bitset v1.1.10 : BSD 3-clause "New" or "Revised" License
 yaml for Go v2.2.2 : (MIT License AND Apache License 2.0)
 zlib 1.2.11 : zlib License
@@ -1125,7 +1125,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(willf/bitset 20200628-snapshot, willf/bitset v1.1.10)
+(willf/bitset v1.0.0, willf/bitset v1.1.10)
 
 Copyright (c) 2014 Will Fitzgerald. All rights reserved.
 
@@ -3397,7 +3397,7 @@ That's all there is to it!
 ---
 
 ISC License
-(go-spew 20201001-snapshot, go-spew v1.1.1)
+(go-spew v1.1.0, go-spew v1.1.1)
 
 ISC License
 
@@ -3744,7 +3744,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(github.com/alecthomas/participle v0.2.1)
+(alecthomas/participle v0.2.1)
 
 Copyright (C) 2017 Alec Thomas
 
@@ -3858,7 +3858,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Go Testify 20201102-snapshot, Go Testify v1.3.0)
+(Go Testify v1.3.0, Go Testify v1.5.1)
 
 MIT License
 
