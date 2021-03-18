@@ -164,8 +164,6 @@ google-snappy 1.1.1 : BSD 3-clause "New" or "Revised" License
 google/uuid 20180409-snapshot : BSD 3-clause "New" or "Revised" License
 google/uuid v1.1.1 : BSD 3-clause "New" or "Revised" License
 gopsutil v2.20.2 : BSD 3-clause "New" or "Revised" License
-Gorilla Web Toolkit 20170307-snapshot : BSD 3-clause "New" or "Revised" License
-Gorilla Web Toolkit 20170523-snapshot : BSD 3-clause "New" or "Revised" License
 gorilla/muxy 20170123-snapshot-65b4fd5d : BSD 3-clause "New" or "Revised" License
 goskiplist 20170622-snapshot : Apache License 2.0
 grpc 1.12.0 : Apache License 2.0
@@ -258,6 +256,8 @@ reactive-streams 1.0.2 : Creative Commons Zero v1.0 Universal
 rebar 2.1.0-pre : Apache License 2.0
 rebar 2.5.1 : Apache License 2.0
 rebar 2.6.0 : (MIT License OR Apache License 2.0)
+rpc 20170307-snapshot : BSD 3-clause "New" or "Revised" License
+rpc 20170523-snapshot : BSD 3-clause "New" or "Revised" License
 RxJava 1.3.8 : Apache License 2.0
 SLF4J API Module 1.7.25 : MIT License
 SLF4J Binding 2.13.3 : Apache License 2.0
@@ -1062,7 +1062,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang-github-gorilla-context 0, Gorilla Web Toolkit 20170307-snapshot, Gorilla Web Toolkit 20170523-snapshot)
+(golang-github-gorilla-context 0, rpc 20170307-snapshot, rpc 20170523-snapshot)
 
 Copyright (c) 2012 Rodrigo Moraes. All rights reserved.
 
