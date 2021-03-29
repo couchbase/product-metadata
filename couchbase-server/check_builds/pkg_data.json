@@ -439,12 +439,6 @@
                 "sep1": "-",
                 "sep2": "."
               },
-              "centos8": {
-                "arch": "x86_64",
-                "ext": "rpm",
-                "sep1": "-",
-                "sep2": "."
-              },
               "debian9": {
                 "arch": "amd64",
                 "ext": "deb",
@@ -470,6 +464,12 @@
                 "sep2": "."
               },
               "oel8": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "rhel8": {
                 "arch": "x86_64",
                 "ext": "rpm",
                 "sep1": "-",
