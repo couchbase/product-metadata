@@ -527,12 +527,6 @@
                 "sep1": "-",
                 "sep2": "."
               },
-              "centos8": {
-                "arch": "x86_64",
-                "ext": "rpm",
-                "sep1": "-",
-                "sep2": "."
-              },
               "debian9": {
                 "arch": "amd64",
                 "ext": "deb",
@@ -563,6 +557,12 @@
                 "sep1": "-",
                 "sep2": "."
               },
+              "rhel8": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
               "suse12": {
                 "arch": "x86_64",
                 "ext": "rpm",
@@ -576,6 +576,12 @@
                 "sep2": "."
               },
               "ubuntu18.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "ubuntu20.04": {
                 "arch": "amd64",
                 "ext": "deb",
                 "sep1": "_",
