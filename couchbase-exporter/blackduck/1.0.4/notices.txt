@@ -5,30 +5,38 @@ Copyright 2021
 
 Components: 
 
-beorn7-perks 20200818-snapshot : MIT License
+beorn7-perks 20180510-snapshot-3a771d99 : MIT License
+beorn7-perks v1.0.0 : MIT License
 beorn7-perks v1.0.1 : MIT License
-client_golang 20190925-snapshot : Apache License 2.0
-client_golang 20200818-snapshot : Apache License 2.0
-client_golang 20201001-snapshot : Apache License 2.0
-go-kit-kit 20201106-snapshot : MIT License
-go-logfmt-logfmt 20201211-snapshot : MIT License
+client_golang v0.9.1 : Apache License 2.0
+client_golang v1.0.0 : Apache License 2.0
+client_golang v1.1.0 : Apache License 2.0
+go-kit-kit v0.8.0 : MIT License
 go-logfmt-logfmt v0.3.0 : MIT License
+go-logfmt-logfmt v0.4.0 : MIT License
 go-stack-stack v1.8.0 : MIT License
-golang protobuf 20210125-snapshot : BSD 3-clause "New" or "Revised" License
+golang protobuf v1.2.0 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.3.1 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.3.2 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys 20181116-snapshot-5ac8a444 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys 20190215-snapshot-d0b11bda : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys 20190731-snapshot-cbf593c0 : BSD 3-clause "New" or "Revised" License
+logfmt 20140226-snapshot-b84e30ac : MIT License
 matttproud-golang_protobuf_extensions v1.0.1 : Apache License 2.0
-pkg/errors 20210119-snapshot : BSD 2-clause "Simplified" License
+pkg/errors v0.8.0 : BSD 2-clause "Simplified" License
 pkg/errors v0.8.1 : BSD 2-clause "Simplified" License
-prometheus-common 20200925-snapshot : Apache License 2.0
+prometheus-client_model 20180714-snapshot-5c3871d8 : Apache License 2.0
+prometheus-client_model 20190204-snapshot-fd36f422 : Apache License 2.0
 prometheus-common v0.4.1 : Apache License 2.0
+prometheus-common v0.6.0 : Apache License 2.0
+prometheus-procfs 20181009-snapshot-185b4288 : Apache License 2.0
 prometheus-procfs v0.0.2 : Apache License 2.0
 prometheus-procfs v0.0.3 : Apache License 2.0
 
 Licenses: 
 
 Apache License 2.0
-(client_golang 20190925-snapshot, client_golang 20200818-snapshot, client_golang 20201001-snapshot, matttproud-golang_protobuf_extensions v1.0.1, prometheus-common 20200925-snapshot, prometheus-common v0.4.1, prometheus-procfs v0.0.2, prometheus-procfs v0.0.3)
+(client_golang v0.9.1, client_golang v1.0.0, client_golang v1.1.0, matttproud-golang_protobuf_extensions v1.0.1, prometheus-client_model 20180714-snapshot-5c3871d8, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-common v0.4.1, prometheus-common v0.6.0, prometheus-procfs 20181009-snapshot-185b4288, prometheus-procfs v0.0.2, prometheus-procfs v0.0.3)
 
 Apache License
 Version 2.0, January 2004
@@ -215,7 +223,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(pkg/errors 20210119-snapshot, pkg/errors v0.8.1)
+(pkg/errors v0.8.0, pkg/errors v0.8.1)
 
 Copyright (c) 2015, Dave Cheney <dave@cheney.net>
 All rights reserved.
@@ -244,7 +252,41 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang protobuf 20210125-snapshot, golang protobuf v1.3.1, golang protobuf v1.3.2)
+(golang.org/x/sys 20181116-snapshot-5ac8a444, golang.org/x/sys 20190215-snapshot-d0b11bda, golang.org/x/sys 20190731-snapshot-cbf593c0)
+
+Copyright (c) <YEAR>, <OWNER>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  * Neither the name of the <ORGANIZATION> nor the names of its contributors may
+    be used to endorse or promote products derived from this software without
+    specific prior written permission.
+
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(golang protobuf v1.2.0, golang protobuf v1.3.1, golang protobuf v1.3.2)
 
 Copyright 2010 The Go Authors.  All rights reserved.
 
@@ -277,7 +319,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 MIT License
-(beorn7-perks 20200818-snapshot, beorn7-perks v1.0.1)
+(beorn7-perks 20180510-snapshot-3a771d99, beorn7-perks v1.0.0, beorn7-perks v1.0.1)
 
 Copyright (C) 2013 Blake Mizerany
 
@@ -333,6 +375,21 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
+(logfmt 20140226-snapshot-b84e30ac)
+
+See http://godoc.org/github.com/kr/logfmt for format, and other documentation and examples.
+
+Copyright (C) 2013 Keith Rarick, Blake Mizerany
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (go-stack-stack v1.8.0)
 
 The MIT License (MIT)
@@ -360,7 +417,7 @@ SOFTWARE
 ---
 
 MIT License
-(go-logfmt-logfmt 20201211-snapshot)
+(go-logfmt-logfmt v0.4.0)
 
 The MIT License (MIT)
 
@@ -387,7 +444,7 @@ SOFTWARE
 ---
 
 MIT License
-(go-kit-kit 20201106-snapshot)
+(go-kit-kit v0.8.0)
 
 The MIT License (MIT)
 
