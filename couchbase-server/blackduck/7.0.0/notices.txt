@@ -406,6 +406,12 @@ google/uuid v1.2.0 : BSD 3-clause "New" or "Revised" License
 googletest.src 1.8.0 : BSD 3-clause "New" or "Revised" License
 gopherjs 20190910-snapshot-9d188e94 : BSD 2-clause "Simplified" License
 gopkg.in/v1/fsnotify v1.4.7 : BSD 3-clause "New" or "Revised" License
+gorilla/context 20160108-snapshot-215affda : BSD 3-clause "New" or "Revised" License
+gorilla/context 20170307-snapshot : BSD 3-clause "New" or "Revised" License
+gorilla/mux 1.7.4 : BSD 3-clause "New" or "Revised" License
+gorilla/mux 20170523-snapshot : BSD 3-clause "New" or "Revised" License
+gorilla/mux 20171025-snapshot-043ee659 : BSD 3-clause "New" or "Revised" License
+gorilla/mux v1.8.0 : BSD 3-clause "New" or "Revised" License
 gorilla/muxy 20170123-snapshot-65b4fd5d : BSD 3-clause "New" or "Revised" License
 goskiplist 20170622-snapshot : Apache License 2.0
 grpc 1.28.1 : Apache License 2.0
@@ -565,12 +571,6 @@ rebar 2.1.0-pre : Apache License 2.0
 rebar 2.5.1 : Apache License 2.0
 rebar 2.6.0 : (MIT License OR Apache License 2.0)
 requests 2.25.1 : Apache License 2.0
-rpc 1.7.4 : BSD 3-clause "New" or "Revised" License
-rpc 20160108-snapshot-215affda : BSD 3-clause "New" or "Revised" License
-rpc 20170307-snapshot : BSD 3-clause "New" or "Revised" License
-rpc 20170523-snapshot : BSD 3-clause "New" or "Revised" License
-rpc 20171025-snapshot-043ee659 : BSD 3-clause "New" or "Revised" License
-rpc v1.8.0 : BSD 3-clause "New" or "Revised" License
 rw 1.3.3 : BSD 3-clause "New" or "Revised" License
 safer-buffer 2.1.2 : MIT License
 select 1.1.2 : MIT License
@@ -1498,7 +1498,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang-github-gorilla-context 0, rpc 20160108-snapshot-215affda, rpc 20170307-snapshot, rpc 20170523-snapshot, rpc 20171025-snapshot-043ee659)
+(golang-github-gorilla-context 0, gorilla/context 20160108-snapshot-215affda, gorilla/context 20170307-snapshot, gorilla/mux 20170523-snapshot, gorilla/mux 20171025-snapshot-043ee659)
 
 Copyright (c) 2012 Rodrigo Moraes. All rights reserved.
 
@@ -1565,7 +1565,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(rpc 1.7.4, rpc v1.8.0)
+(gorilla/mux 1.7.4, gorilla/mux v1.8.0)
 
 Copyright (c) 2012-2018 The Gorilla Authors. All rights reserved.
 
