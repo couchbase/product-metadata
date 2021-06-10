@@ -36,7 +36,7 @@ client_golang v1.7.1 : Apache License 2.0
 coreos-go-oidc v2.2.1 : Apache License 2.0
 coreos-pkg v1 : Apache License 2.0
 errwrap v1.0.0 : Mozilla Public License 2.0
-felixge/fgprof v0.9.0 : MIT License
+felixge/fgprof v0.9.1 : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
 go-check-check 20171108-snapshot-20d25e28 : BSD 2-clause "Simplified" License
 go-check-check 20190902-snapshot-41f04d3b : BSD 2-clause "Simplified" License
@@ -80,11 +80,11 @@ golang.org/x/crypto 20180724-snapshot-c126467f : BSD 3-clause "New" or "Revised"
 golang.org/x/crypto 20180925-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20190514-snapshot-22d7a77e : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180724-snapshot-3673e40b : BSD 3-clause "New" or "Revised" License
-golang.org/x/net 20180824-snapshot-4bcd98cc : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180925-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20181114-snapshot-adae6a3d : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20181213-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20181219-snapshot-1e06a53d : BSD 3-clause "New" or "Revised" License
+golang.org/x/net 20190108-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 20210329-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync 20180924-snapshot-37e7f081 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync 20181107-snapshot-42b31787 : BSD 3-clause "New" or "Revised" License
@@ -544,7 +544,7 @@ THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20180824-snapshot-4bcd98cc, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text 20200809-snapshot, golang.org/x/text v0.3.0, golang/net 1.11+git20190403.48a9fcb, golang/text 20180804-snapshot-17ff2d57, rsc/letsencrypt v0.0.1)
+(golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190108-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text 20200809-snapshot, golang.org/x/text v0.3.0, golang/net 1.11+git20190403.48a9fcb, golang/text 20180804-snapshot-17ff2d57, rsc/letsencrypt v0.0.1)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -2097,10 +2097,10 @@ SOFTWARE
 ---
 
 MIT License
-(felixge/fgprof v0.9.0)
+(felixge/fgprof v0.9.1)
 
 The MIT License (MIT)
-Copyright © 2020 Felix Geisendörfer <felix@fsync.gmbh>
+Copyright © 2020 Felix Geisendörfer <felix@felixge.de>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
