@@ -1,0 +1,35 @@
+{
+  "couchbase-lite-c": {
+    "max_build_time": 120,
+    "package": {
+      "couchbase-lite-c": {
+        "release": {
+          "3.0.0": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "android": {
+                "ext": "zip"
+              },
+              "ios": {
+                "ext": "zip"
+              },
+              "linux": {
+                "ext": "tar.gz"
+              },
+              "macosx": {
+                "ext": "zip"
+              },
+              "windows-x64": {
+                "ext": "zip"
+              }
+            },
+            "template": "{package}-{platform}-{VERSION}-{BLD_NUM}-{edition}.{ext}"
+          }
+        }
+      }
+    }
+  }
+}
