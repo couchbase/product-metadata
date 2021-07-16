@@ -37,9 +37,13 @@ client-go v0.19.4-rc.0 : Apache License 2.0
 client_golang v0.9.1 : Apache License 2.0
 client_golang v1.0.0 : Apache License 2.0
 client_golang v1.7.1 : Apache License 2.0
+diskv v2.0.1 : MIT License
 docker-migrator 20171108-snapshot-449fdfce : (Educational Community License v2.0 AND Apache License 2.0)
 dominikh/go-tools 2019.2.3 : MIT License
 dominikh/go-tools 20190106-snapshot-3f1c8253 : MIT License
+evanphx/json-patch v4.2.0 : BSD 3-clause "New" or "Revised" License
+evanphx/json-patch v4.5.0 : BSD 3-clause "New" or "Revised" License
+evanphx/json-patch v4.9.0 : BSD 3-clause "New" or "Revised" License
 fsnotify-fsnotify v1.4.7 : BSD 3-clause "New" or "Revised" License
 fsnotify-fsnotify v1.4.9 : BSD 3-clause "New" or "Revised" License
 github.com/go-logr/zapr v0.1.0 : Apache License 2.0
@@ -59,6 +63,7 @@ go-openapi/spec 20160825-snapshot-6aced65f : Apache License 2.0
 go-openapi/spec v0.19.3 : Apache License 2.0
 go-openapi/spec v0.19.4 : Apache License 2.0
 go-restful 20171108-snapshot-ff4f55a2 : MIT License
+go-restful v2.9.5 : MIT License
 go-spew v1.1.0 : ISC License
 go-spew v1.1.1 : ISC License
 go-tomb-tomb 20150422-snapshot-dd632973 : BSD 3-clause "New" or "Revised" License
@@ -169,6 +174,7 @@ jsoniter-go v1.1.6 : MIT License
 jsonreference 20180126-snapshot-13c6e358 : Apache License 2.0
 jsonreference v0.19.2 : Apache License 2.0
 jsonreference v0.19.3 : Apache License 2.0
+jwt-go v3.2.0 : MIT License
 k8s.io/cli-runtime v0.19.4 : Apache License 2.0
 k8s.io/utils 20200324-snapshot-a9aa75ae : Apache License 2.0
 k8s.io/utils 20200603-snapshot-c1c6865a : Apache License 2.0
@@ -179,6 +185,7 @@ kubernetes/apiextensions-apiserver v0.18.6 : Apache License 2.0
 kubernetes/apiextensions-apiserver v0.19.4-rc.0 : Apache License 2.0
 kubernetes/apimachinery v0.18.6-rc.0 : Apache License 2.0
 kubernetes/apimachinery v0.19.4-rc.0 : Apache License 2.0
+kustomize v2.0.3 : Apache License 2.0
 liggitt/tabwriter 20181228-snapshot-89fcab3d : BSD 3-clause "New" or "Revised" License
 mailru/easyjson 20160825-snapshot-d5b7844b : MIT License
 mailru/easyjson 20190614-snapshot-94de47d6 : MIT License
@@ -236,7 +243,7 @@ yaml for Go v2.3.0 : Apache License 2.0
 Licenses: 
 
 Apache License 2.0
-(AWS SDK for Go 1.38.40, Go Testify v1.4.0, Google Cloud Client Libraries for Go 20200910-snapshot, Google Cloud Client Libraries for Go v0.38.0, Google Cloud Client Libraries for Go v0.51.0, btree 20180813-snapshot-4030bb1f, btree v1.0.0, client-go v0.18.6-rc.0, client-go v0.19.4-rc.0, client_golang v0.9.1, client_golang v1.0.0, client_golang v1.7.1, docker-migrator 20171108-snapshot-449fdfce, github.com/go-logr/zapr v0.1.0, github.com/go-logr/zapr v0.3.0, go-logr/logr v0.1.0, go-logr/logr v0.2.0, go-logr/logr v0.3.0, go-openapi/errors v0.19.2, go-openapi/jsonpointer 20180126-snapshot-46af16f9, go-openapi/jsonpointer v0.19.2, go-openapi/jsonpointer v0.19.3, go-openapi/spec 20160825-snapshot-6aced65f, go-openapi/spec v0.19.3, go-openapi/spec v0.19.4, golang-github-ghodss-yaml-dev 20190325-snapshot-25d852ae, golang/appengine v1.4.0, golang/appengine v1.5.0, golang/appengine v1.6.5, golang/glog 20160125-snapshot-23def4e6, gomodules/jsonpatch v2.0.1, google-gofuzz v1.0.0, google-gofuzz v1.1.0, googleapis/gnostic v0.1.0, googleapis/gnostic v0.3.1, googleapis/gnostic v0.4.1, groupcache 20180126-snapshot-02826c3e, groupcache 20190208-snapshot-5b532d6f, groupcache 20191227-snapshot-215e8716, inconshreveable/mousetrap 1.0.0, jmespath-go-jmespath v0.4.0, jsonreference 20180126-snapshot-13c6e358, jsonreference v0.19.2, jsonreference v0.19.3, k8s.io/cli-runtime v0.19.4, k8s.io/utils 20200324-snapshot-a9aa75ae, k8s.io/utils 20200603-snapshot-c1c6865a, k8s.io/utils 20200729-snapshot-d5654de0, kubernetes/api v0.18.6, kubernetes/api v0.19.4, kubernetes/apiextensions-apiserver v0.18.6, kubernetes/apiextensions-apiserver v0.19.4-rc.0, kubernetes/apimachinery v0.18.6-rc.0, kubernetes/apimachinery v0.19.4-rc.0, mailru/easyjson 20190709-snapshot-b2ccc519, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20180228-snapshot-e0a39a4c, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 1.0.1, modern-go/reflect2 20180630-snapshot-4b7aa43c, prometheus-client_model 20180714-snapshot-5c3871d8, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.4.1, prometheus-procfs 20181009-snapshot-185b4288, prometheus-procfs v0.0.11, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, sigs.k8s.io/controller-runtime v0.6.4, spf13-cobra 0.0.5, spf13-cobra v1.0.0, spf13-cobra v1.1.1, swag 20160825-snapshot-1d0bd113, swag v0.19.2, swag v0.19.5, uber-go/atomic v1.4.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5, yaml for Go v2.2.8, yaml for Go v2.3.0)
+(AWS SDK for Go 1.38.40, Go Testify v1.4.0, Google Cloud Client Libraries for Go 20200910-snapshot, Google Cloud Client Libraries for Go v0.38.0, Google Cloud Client Libraries for Go v0.51.0, btree 20180813-snapshot-4030bb1f, btree v1.0.0, client-go v0.18.6-rc.0, client-go v0.19.4-rc.0, client_golang v0.9.1, client_golang v1.0.0, client_golang v1.7.1, docker-migrator 20171108-snapshot-449fdfce, github.com/go-logr/zapr v0.1.0, github.com/go-logr/zapr v0.3.0, go-logr/logr v0.1.0, go-logr/logr v0.2.0, go-logr/logr v0.3.0, go-openapi/errors v0.19.2, go-openapi/jsonpointer 20180126-snapshot-46af16f9, go-openapi/jsonpointer v0.19.2, go-openapi/jsonpointer v0.19.3, go-openapi/spec 20160825-snapshot-6aced65f, go-openapi/spec v0.19.3, go-openapi/spec v0.19.4, golang-github-ghodss-yaml-dev 20190325-snapshot-25d852ae, golang/appengine v1.4.0, golang/appengine v1.5.0, golang/appengine v1.6.5, golang/glog 20160125-snapshot-23def4e6, gomodules/jsonpatch v2.0.1, google-gofuzz v1.0.0, google-gofuzz v1.1.0, googleapis/gnostic v0.1.0, googleapis/gnostic v0.3.1, googleapis/gnostic v0.4.1, groupcache 20180126-snapshot-02826c3e, groupcache 20190208-snapshot-5b532d6f, groupcache 20191227-snapshot-215e8716, inconshreveable/mousetrap 1.0.0, jmespath-go-jmespath v0.4.0, jsonreference 20180126-snapshot-13c6e358, jsonreference v0.19.2, jsonreference v0.19.3, k8s.io/cli-runtime v0.19.4, k8s.io/utils 20200324-snapshot-a9aa75ae, k8s.io/utils 20200603-snapshot-c1c6865a, k8s.io/utils 20200729-snapshot-d5654de0, kubernetes/api v0.18.6, kubernetes/api v0.19.4, kubernetes/apiextensions-apiserver v0.18.6, kubernetes/apiextensions-apiserver v0.19.4-rc.0, kubernetes/apimachinery v0.18.6-rc.0, kubernetes/apimachinery v0.19.4-rc.0, kustomize v2.0.3, mailru/easyjson 20190709-snapshot-b2ccc519, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20180228-snapshot-e0a39a4c, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 1.0.1, modern-go/reflect2 20180630-snapshot-4b7aa43c, prometheus-client_model 20180714-snapshot-5c3871d8, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.4.1, prometheus-procfs 20181009-snapshot-185b4288, prometheus-procfs v0.0.11, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, sigs.k8s.io/controller-runtime v0.6.4, spf13-cobra 0.0.5, spf13-cobra v1.0.0, spf13-cobra v1.1.1, swag 20160825-snapshot-1d0bd113, swag v0.19.2, swag v0.19.5, uber-go/atomic v1.4.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5, yaml for Go v2.2.8, yaml for Go v2.3.0)
 
 Apache License
 Version 2.0, January 2004
@@ -830,6 +837,68 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
+(evanphx/json-patch v4.2.0)
+
+Copyright (c) 2014, Evan Phoenix
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+* Neither the name of the Evan Phoenix nor the names of its contributors 
+  may be used to endorse or promote products derived from this software 
+  without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE 
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER 
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, 
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE 
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(evanphx/json-patch v4.9.0)
+
+Copyright (c) 2014, Evan Phoenix
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+* Neither the name of the Evan Phoenix nor the names of its contributors 
+  may be used to endorse or promote products derived from this software 
+  without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE 
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER 
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, 
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE 
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
 (google/go-cmp v0.2.0, google/go-cmp v0.3.1, google/go-cmp v0.4.0, google/go-cmp v0.5.2)
 
 Copyright (c) 2017 The Go Authors. All rights reserved.
@@ -993,6 +1062,47 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(evanphx/json-patch v4.5.0)
+
+Source: https://github.com/evanphx/json-patch
+
+Files: *
+Copyright: 2014, Evan Phoenix
+License: BSD-3-clause
+
+Files: debian/*
+Copyright: 2015 Tim Potter <tpot@hpe.com>
+License: BSD-3-clause
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: BSD-3-clause
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+ .
+ * Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+ * Redistributions in binary form must reproduce the above copyright notice
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+ * Neither the name of the Evan Phoenix nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE
+ FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -1416,7 +1526,45 @@ SOFTWARE
 ---
 
 MIT License
-(go-restful 20171108-snapshot-ff4f55a2)
+(diskv v2.0.1)
+
+Copyright (c) 2011-2012 Peter Bourgon
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(jwt-go v3.2.0)
+
+Copyright (c) 2012 Dave Grijalva
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(go-restful 20171108-snapshot-ff4f55a2, go-restful v2.9.5)
 
 Copyright (c) 2012,2013 Ernest Micklei
 
