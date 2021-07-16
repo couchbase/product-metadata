@@ -8,14 +8,17 @@ Components:
 BurntSushi/toml v0.3.1 : MIT License
 Go Testify v1.3.0 : MIT License
 Go Testify v1.4.0 : Apache License 2.0
+Go Testify v1.7.0 : MIT License
 Go programming language 20190311-snapshot-11955173 : BSD 3-clause "New" or "Revised" License
 Go programming language 20190620-snapshot-6e04913c : BSD 3-clause "New" or "Revised" License
 Go programming language 20191021-snapshot-9cc4af7d : BSD 3-clause "New" or "Revised" License
 Go programming language 20191029-snapshot-b9c20aec : BSD 3-clause "New" or "Revised" License
+Go programming language 20191119-snapshot-298f0cb1 : BSD 3-clause "New" or "Revised" License
 Go programming language 20200129-snapshot-2f3ba24b : BSD 3-clause "New" or "Revised" License
+Go programming language v0.1.0 : BSD 3-clause "New" or "Revised" License
 dominikh/go-tools 2019.2.3 : MIT License
+dominikh/go-tools v0.1.4 : MIT License
 fsnotify-fsnotify v1.4.9 : BSD 3-clause "New" or "Revised" License
-go-check-check 20171108-snapshot-20d25e28 : BSD 2-clause "Simplified" License
 go-spew v1.1.0 : ISC License
 go-spew v1.1.1 : ISC License
 go-zap v1.16.0 : MIT License
@@ -23,21 +26,27 @@ go.uber.org/multierr v1.5.0 : MIT License
 go.uber.org/multierr v1.6.0 : MIT License
 godotenv v1.3.0 : MIT License
 golang.org/x/mod 20191105-snapshot-c90efee7 : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.3.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.4.2 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20191005-snapshot-aed5e4c7 : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20190516-snapshot-a985d340 : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20191005-snapshot-1b5146ad : BSD 3-clause "New" or "Revised" License
+golang.org/x/xerrors 20200804-snapshot-5ec99f83 : BSD 3-clause "New" or "Revised" License
 luacheck 0.24.0 : Expat License
 oklog/run v1.1.0 : Apache License 2.0
 pkg/errors v0.8.1 : BSD 2-clause "Simplified" License
+pkg/errors v0.9.1 : BSD 2-clause "Simplified" License
 pmezard-go-difflib 1.0.0 : BSD 3-clause "New" or "Revised" License
 uber-go/atomic 1.7.0 : MIT License
 uber-go/atomic v1.6.0 : MIT License
+yaml for Go 20200512-snapshot-9f266ea9 : Apache License 2.0
 yaml for Go v2.2.2 : (MIT License AND Apache License 2.0)
+yaml for Go v2.4.0 : Apache License 2.0
 
 Licenses: 
 
 Apache License 2.0
-(Go Testify v1.4.0, oklog/run v1.1.0, yaml for Go v2.2.2)
+(Go Testify v1.4.0, oklog/run v1.1.0, yaml for Go 20200512-snapshot-9f266ea9, yaml for Go v2.2.2, yaml for Go v2.4.0)
 
 Apache License
 Version 2.0, January 2004
@@ -224,36 +233,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(go-check-check 20171108-snapshot-20d25e28)
-
-Copyright (c) 2010-2013 Gustavo Niemeyer <gustavo@niemeyer.net>
-
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met: 
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer. 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution. 
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 2-clause "Simplified" License
-(pkg/errors v0.8.1)
+(pkg/errors v0.8.1, pkg/errors v0.9.1)
 
 Copyright (c) 2015, Dave Cheney <dave@cheney.net>
 All rights reserved.
@@ -277,6 +257,39 @@ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
 SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(golang.org/x/mod v0.3.0)
+
+Copyright (c) 2009 The Go Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+   * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+   * Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
@@ -316,7 +329,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(Go programming language 20190311-snapshot-11955173, Go programming language 20190620-snapshot-6e04913c, Go programming language 20191021-snapshot-9cc4af7d, Go programming language 20191029-snapshot-b9c20aec, Go programming language 20200129-snapshot-2f3ba24b, golang.org/x/mod 20191105-snapshot-c90efee7, golang.org/x/sys 20191005-snapshot-aed5e4c7, golang.org/x/xerrors 20190516-snapshot-a985d340, golang.org/x/xerrors 20191005-snapshot-1b5146ad)
+(Go programming language 20190311-snapshot-11955173, Go programming language 20190620-snapshot-6e04913c, Go programming language 20191021-snapshot-9cc4af7d, Go programming language 20191029-snapshot-b9c20aec, Go programming language 20191119-snapshot-298f0cb1, Go programming language 20200129-snapshot-2f3ba24b, Go programming language v0.1.0, golang.org/x/mod 20191105-snapshot-c90efee7, golang.org/x/mod v0.4.2, golang.org/x/sys 20191005-snapshot-aed5e4c7, golang.org/x/xerrors 20190516-snapshot-a985d340, golang.org/x/xerrors 20191005-snapshot-1b5146ad, golang.org/x/xerrors 20200804-snapshot-5ec99f83)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -621,6 +634,33 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+---
+
+MIT License
+(Go Testify v1.7.0, dominikh/go-tools v0.1.4)
+
+The MIT License
+===============
+
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
