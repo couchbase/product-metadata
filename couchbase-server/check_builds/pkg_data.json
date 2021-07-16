@@ -502,6 +502,90 @@
             },
             "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
           },
+          "neo": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "amzn2": {
+                "arch": [
+                  "x86_64",
+                  "aarch64"
+                ],
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "centos7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "debian9": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "debian10": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "macos": {
+                "arch": "x86_64-unnotarized",
+                "ext": "dmg",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "oel7": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "oel8": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "rhel8": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse12": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "suse15": {
+                "arch": "x86_64",
+                "ext": "rpm",
+                "sep1": "-",
+                "sep2": "."
+              },
+              "ubuntu18.04": {
+                "arch": "amd64",
+                "ext": "deb",
+                "sep1": "_",
+                "sep2": "_"
+              },
+              "windows": {
+                "arch": "amd64",
+                "ext": "msi",
+                "sep1": "_",
+                "sep2": "_"
+              }
+            },
+            "template": "{product}-{edition}{sep1}{VERSION}-{BLD_NUM}-{platform}{sep2}{arch}.{ext}"
+          },
           "2.1.2": {
             "platform": {
             }
