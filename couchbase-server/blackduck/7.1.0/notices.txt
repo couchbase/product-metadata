@@ -328,7 +328,7 @@ blevesearch/upsidedown_store_api v1.0.1 : Apache License 2.0
 boltdb/bolt 1.3.0 : MIT License
 brace-expansion 1.1.11 : MIT License
 brave 5.13.3 : Apache License 2.0
-brotlipy 0.7.0 : MIT License
+brotlipy v0.7.0 : MIT License
 btree 20180813-snapshot-4030bb1f : Apache License 2.0
 btree v1.0.0 : Apache License 2.0
 census-ecosystem/opencensus-go-exporter-aws 20200617-snapshot-c478e41e : Apache License 2.0
@@ -7081,31 +7081,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(brotlipy 0.7.0)
-
-Copyright (c) 2015 Cory Benfield
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
 (DataDog-datadog-go v3.2.0)
 
 Copyright (c) 2015 Datadog, Inc
@@ -8693,7 +8668,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, AWS SDK for Go 1.38.17, AWS SDK for Go 1.38.35, Azure/azure-service-bus-go v0.10.11, Azure/azure-storage-blob-go 0.13.0, Azure/azure-storage-blob-go v0.14.0, Azure/go-amqp v0.13.4, Azure/go-amqp v0.13.7, Bouncy Castle 1.68, Bouncy Castle 1.69, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.68, Go Testify v1.7.0, Microsoft Azure Java Core Library 1.17.0, Microsoft Azure Netty HTTP Client Library 1.10.0, Microsoft Azure common module for Storage 12.12.0, Microsoft Azure internal Avro module for Storage 12.0.5, Microsoft-go-winio 20190918-snapshot-fc70bd9a, SLF4J API Module 1.7.25, StackExchange-wmi v1.2.1, TestContainers Core 1.14.3, alecthomas/participle v0.4.1, azure-storage-blob 12.12.0, cffi 1.14.5, chzyer/test 20190214-snapshot-a1ea475d, couchbase-go-couchbase 20201023-snapshot-7b3be89b, couchbase-go-couchbase v0.1.0, couchbase-gomemcached 20200618-snapshot-5bac349a, couchbase-gomemcached v0.1.3, delegate 3.2.0, diff2html 3.2.0, dominikh/go-tools 20190106-snapshot-3f1c8253, dominikh/go-tools 20190417-snapshot-e561f679, dominikh/go-tools 20190523-snapshot-ea95bdfd, dominikh/go-tools c2f93a96b099cbbec1de36336ab049ffa620e6d7, erlang-erlydtl 0.7.0, fmtlib/fmt 7.1.3, form3tech-oss/jwt-go v3.2.5, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-jsonpointer 20140810-snapshot-75939f54, go-ole-go-ole v1.2.5, gobwas/pool v0.2.0, golang-github-ghodss-yaml-dev 1.0.0, good-listener 1.2.2, google/go-genproto 20190618-snapshot-b515fa19, gsl-lite 0.38.1, hashicorp/go-hclog v0.16.1, jamiealquiza/tachymeter v2.0.0, jsoniter-go 20171115-snapshot-f7279a60, jsoniter-go v1.1.11, liburing 0.6, mapstructure v1.4.1, mattn-go-sqlite3 v1.14.6, mattn-go-sqlite3 v1.14.8, mitchellh/go-testing-interface 20171004-snapshot-a61a9959, natsort 7.1.1, nhooyr/websocket v1.8.6, nhooyr/websocket v1.8.7, niemeyer/pretty 20200227-snapshot-a10e7cae, node-clipboard 1.5.16, peterh/liner v1.2.0, pq v1.10.0, pq v1.10.1, python-wheel 0.36.2, select 1.1.2, sn-2-ui-router-ng2 6.0.1, spdlog v1.8.5, urllib3 1.26.6, whitequark/ipaddr.js 2.0.1, yuin/goldmark v1.3.5)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, AWS SDK for Go 1.38.17, AWS SDK for Go 1.38.35, Azure/azure-service-bus-go v0.10.11, Azure/azure-storage-blob-go 0.13.0, Azure/azure-storage-blob-go v0.14.0, Azure/go-amqp v0.13.4, Azure/go-amqp v0.13.7, Bouncy Castle 1.68, Bouncy Castle 1.69, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.68, Go Testify v1.7.0, Microsoft Azure Java Core Library 1.17.0, Microsoft Azure Netty HTTP Client Library 1.10.0, Microsoft Azure common module for Storage 12.12.0, Microsoft Azure internal Avro module for Storage 12.0.5, Microsoft-go-winio 20190918-snapshot-fc70bd9a, SLF4J API Module 1.7.25, StackExchange-wmi v1.2.1, TestContainers Core 1.14.3, alecthomas/participle v0.4.1, azure-storage-blob 12.12.0, brotlipy v0.7.0, cffi 1.14.5, chzyer/test 20190214-snapshot-a1ea475d, couchbase-go-couchbase 20201023-snapshot-7b3be89b, couchbase-go-couchbase v0.1.0, couchbase-gomemcached 20200618-snapshot-5bac349a, couchbase-gomemcached v0.1.3, delegate 3.2.0, diff2html 3.2.0, dominikh/go-tools 20190106-snapshot-3f1c8253, dominikh/go-tools 20190417-snapshot-e561f679, dominikh/go-tools 20190523-snapshot-ea95bdfd, dominikh/go-tools c2f93a96b099cbbec1de36336ab049ffa620e6d7, erlang-erlydtl 0.7.0, fmtlib/fmt 7.1.3, form3tech-oss/jwt-go v3.2.5, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-jsonpointer 20140810-snapshot-75939f54, go-ole-go-ole v1.2.5, gobwas/pool v0.2.0, golang-github-ghodss-yaml-dev 1.0.0, good-listener 1.2.2, google/go-genproto 20190618-snapshot-b515fa19, gsl-lite 0.38.1, hashicorp/go-hclog v0.16.1, jamiealquiza/tachymeter v2.0.0, jsoniter-go 20171115-snapshot-f7279a60, jsoniter-go v1.1.11, liburing 0.6, mapstructure v1.4.1, mattn-go-sqlite3 v1.14.6, mattn-go-sqlite3 v1.14.8, mitchellh/go-testing-interface 20171004-snapshot-a61a9959, natsort 7.1.1, nhooyr/websocket v1.8.6, nhooyr/websocket v1.8.7, niemeyer/pretty 20200227-snapshot-a10e7cae, node-clipboard 1.5.16, peterh/liner v1.2.0, pq v1.10.0, pq v1.10.1, python-wheel 0.36.2, select 1.1.2, sn-2-ui-router-ng2 6.0.1, spdlog v1.8.5, urllib3 1.26.6, whitequark/ipaddr.js 2.0.1, yuin/goldmark v1.3.5)
 
 The MIT License
 ===============
