@@ -22,7 +22,7 @@
     "2.6.0":   [ "debian", "redhat", "windows"],
     "2.7.4":   [ "debian", "redhat", "windows", "macos"],
     "2.8.0":   [ "debian", "redhat", "windows", "macos"],
-    "3.0.0":   [ "debian", "redhat", "windows", "macos", "macos:arm64"]
+    "3.0.0":   [ "debian", "redhat", "windows", "macos", "macos:arm64", "amzn2:aarch64" ]
   }
 %}
 
@@ -66,6 +66,7 @@
     "debian": deb_bits,
     "redhat": rpm_bits,
     "macos": mac_bits,
+    "amzn2": rpm_bits,
     "windows": win_bits
   }
 %}
