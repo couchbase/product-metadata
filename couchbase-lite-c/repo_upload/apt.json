@@ -1,0 +1,30 @@
+{
+    "os_versions": {
+      "stretch": {
+        "distro": "debian",
+        "version": "9.1",
+        "full": "debian9"
+      },
+      "buster": {
+        "distro": "debian",
+        "version": "10.1",
+        "full": "debian10"
+      },
+      "focal": {
+        "distro": "ubuntu",
+        "version": "20.04",
+        "full": "ubuntu20.04"
+      }
+    },
+    "distro_info": {
+      "debian": {
+        "security_url": "http://security.debian.org",
+        "security_path": "{}/updates"
+      },
+      "ubuntu": {
+        "security_url": "http://security.ubuntu.com/ubuntu",
+        "security_path": "{}-security"
+      }
+    }
+  }
+  
