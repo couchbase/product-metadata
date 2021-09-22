@@ -51,7 +51,7 @@ Netty/TomcatNative [OpenSSL - Dynamic] 2.0.39.Final-redhat-00001 : Public Domain
 Netty/Transport/Native/KQueue 4.1.63.Final-redhat-00001 : Apache License 2.0
 Netty/Transport/Native/Unix/Common 4.1.63.Final-redhat-00001 : Apache License 2.0
 OpenJDK 11.0.11+9 : GNU General Public License v2.0 w/Classpath exception
-OpenSSL 1.1.1k : Apache License 2.0
+OpenSSL 1.1.1k : (SSLeay License AND The Open SSL License)
 OpenTracing API 0.31.0 : Apache License 2.0
 PCRE 8.43 : BSD 3-clause "New" or "Revised" License
 Protocol Buffers 1.3.4 : BSD 3-clause "New" or "Revised" License
@@ -278,7 +278,7 @@ zlib 1.2.11 : zlib License
 Licenses: 
 
 Apache License 2.0
-(AWS SDK for Go 20210607-snapshot, AWS SDK for Go v1.33.10, AWS SDK for Go v1.34.20, AWS SDK for Ruby v2.11.582, Apache Commons Codec 1.15, Apache Commons Collections 4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.9, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.14, Apache Log4j 2.14.1, Apache Log4j JUL Adapter 2.14.1, Apache Log4j Web Adapters 2.14.1, Commons IO 2.8.0, Couchbase 6.6.3, Couchbase JVM Core IO 1.7.20, FlatBuffers 1.5.0, FlatBuffers v1.10.0, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 30.1-jre, Log4J API 2.14.1, Log4J Commons Logging 2.14.1, Netty Project netty-4.1.63.Final, Netty/Codec/Redis 4.1.48.Final, Netty/Codec/SMTP 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.39.Final, Netty/Transport/Native/KQueue 4.1.63.Final-redhat-00001, Netty/Transport/Native/Unix/Common 4.1.63.Final-redhat-00001, OpenSSL 1.1.1k, OpenTracing API 0.31.0, RxJava 1.3.8, SLF4J Binding 2.14.1, [ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-core 0.3.5, algebricks-data 0.3.5, algebricks-rewriter 0.3.2, algebricks-rewriter 0.3.5, algebricks-runtime 0.3.4.1, algebricks-runtime 0.3.5, asterix-active 0.9.7, asterix-algebra 0.9.4.1, asterix-app 0.9.4.1, asterix-app 0.9.6, asterix-common 0.9.4.1, asterix-common 0.9.5, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-common 0.9.5, asterix-lang-sqlpp 0.9.4.1, asterix-lang-sqlpp 0.9.5, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-om 0.9.5, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-runtime 0.9.6, asterix-transactions 0.9.6, blevesearch-segment v0.8.0, blevesearch/bleve-mapping-ui v0.3.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, couchbase platform v6.6.1, couchbase-cbgt v1.0.0, couchbase-goutils 0, couchbase-goxdcr v6.5.1, couchbase/gocbcore v9.0.7, couchbase/vellum v1.0.2, couchbaselabs/bleve 20171012-snapshot-3b2bc30b, couchbaselabs/bleve v0.8.0, couchbaselabs/bleve v1.0.7, couchbaselabs/gocbconnstr v1.0.4, erlang-otp OTP-20.3.8.11, error-prone annotations 2.3.4, fastutil 8.3.0, flatbuffers-java 1.6.0.3, folly v2019.08.12.00, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-aws-aws-sdk-go 1.34.22, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go v1.24.0, hyracks-api 0.3.4.1, hyracks-api 0.3.6, hyracks-client 0.3.5, hyracks-comm 0.3.6, hyracks-control-cc 0.3.4.1, hyracks-control-cc 0.3.6, hyracks-control-common 0.3.4.1, hyracks-control-common 0.3.6, hyracks-control-nc 0.3.4.1, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-data-std 0.3.4.1, hyracks-data-std 0.3.6, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-dataflow-std 0.3.6, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-ipc 0.3.6, hyracks-net 0.3.4, hyracks-net 0.3.6, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-rtree 0.3.7, hyracks-storage-common 0.3.4.1, hyracks-storage-common 0.3.6, hyracks-util 0.3.4.1, hyracks-util 0.3.7, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, inconshreveable/mousetrap 20200811-snapshot, jackson-annotations jackson-annotations-2.12.3, jackson-core 2.12.3, jackson-databind 2.12.3, jmespath-go-jmespath c2b33e84, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, meck 0.8.5, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, snappy-java 1.1.7.1, spf13-cobra 0.0.5, spf13-cobra 0.0~git20161229.0.1dd5ff2, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2, yaml for Go v2.2.2)
+(AWS SDK for Go 20210607-snapshot, AWS SDK for Go v1.33.10, AWS SDK for Go v1.34.20, AWS SDK for Ruby v2.11.582, Apache Commons Codec 1.15, Apache Commons Collections 4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.9, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.14, Apache Log4j 2.14.1, Apache Log4j JUL Adapter 2.14.1, Apache Log4j Web Adapters 2.14.1, Commons IO 2.8.0, Couchbase 6.6.3, Couchbase JVM Core IO 1.7.20, FlatBuffers 1.5.0, FlatBuffers v1.10.0, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 30.1-jre, Log4J API 2.14.1, Log4J Commons Logging 2.14.1, Netty Project netty-4.1.63.Final, Netty/Codec/Redis 4.1.48.Final, Netty/Codec/SMTP 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.39.Final, Netty/Transport/Native/KQueue 4.1.63.Final-redhat-00001, Netty/Transport/Native/Unix/Common 4.1.63.Final-redhat-00001, OpenTracing API 0.31.0, RxJava 1.3.8, SLF4J Binding 2.14.1, [ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-core 0.3.5, algebricks-data 0.3.5, algebricks-rewriter 0.3.2, algebricks-rewriter 0.3.5, algebricks-runtime 0.3.4.1, algebricks-runtime 0.3.5, asterix-active 0.9.7, asterix-algebra 0.9.4.1, asterix-app 0.9.4.1, asterix-app 0.9.6, asterix-common 0.9.4.1, asterix-common 0.9.5, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-common 0.9.5, asterix-lang-sqlpp 0.9.4.1, asterix-lang-sqlpp 0.9.5, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-om 0.9.5, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-runtime 0.9.6, asterix-transactions 0.9.6, blevesearch-segment v0.8.0, blevesearch/bleve-mapping-ui v0.3.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, couchbase platform v6.6.1, couchbase-cbgt v1.0.0, couchbase-goutils 0, couchbase-goxdcr v6.5.1, couchbase/gocbcore v9.0.7, couchbase/vellum v1.0.2, couchbaselabs/bleve 20171012-snapshot-3b2bc30b, couchbaselabs/bleve v0.8.0, couchbaselabs/bleve v1.0.7, couchbaselabs/gocbconnstr v1.0.4, erlang-otp OTP-20.3.8.11, error-prone annotations 2.3.4, fastutil 8.3.0, flatbuffers-java 1.6.0.3, folly v2019.08.12.00, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-aws-aws-sdk-go 1.34.22, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go v1.24.0, hyracks-api 0.3.4.1, hyracks-api 0.3.6, hyracks-client 0.3.5, hyracks-comm 0.3.6, hyracks-control-cc 0.3.4.1, hyracks-control-cc 0.3.6, hyracks-control-common 0.3.4.1, hyracks-control-common 0.3.6, hyracks-control-nc 0.3.4.1, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-data-std 0.3.4.1, hyracks-data-std 0.3.6, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-dataflow-std 0.3.6, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-ipc 0.3.6, hyracks-net 0.3.4, hyracks-net 0.3.6, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-rtree 0.3.7, hyracks-storage-common 0.3.4.1, hyracks-storage-common 0.3.6, hyracks-util 0.3.4.1, hyracks-util 0.3.7, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, inconshreveable/mousetrap 20200811-snapshot, jackson-annotations jackson-annotations-2.12.3, jackson-core 2.12.3, jackson-databind 2.12.3, jmespath-go-jmespath c2b33e84, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, meck 0.8.5, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, snappy-java 1.1.7.1, spf13-cobra 0.0.5, spf13-cobra 0.0~git20161229.0.1dd5ff2, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2, yaml for Go v2.2.2)
 
 Apache License
 Version 2.0, January 2004
@@ -5211,6 +5211,120 @@ Public Domain
 (HdrHistogram_c 0.9.13, Netty/TomcatNative [OpenSSL - Dynamic] 2.0.39.Final-redhat-00001, erlang-poolboy 1.5.1)
 
 Public domain code is not subject to any license.
+
+---
+
+SSLeay License
+(OpenSSL 1.1.1k)
+
+SSLeay License
+==============
+
+
+Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com) All rights reserved.
+---------------------------------------------------------------------------
+
+This package is an SSL implementation written by Eric Young (eay@cryptsoft.com).
+The implementation was written so as to conform with Netscapes SSL. This library
+is free for commercial and non-commercial use as long as the following conditions
+are aheared to. The following conditions apply to all code found in this
+distribution, be it the RC4, RSA, lhash, DES, etc., code; not just the SSL code.
+The SSL documentation included with this distribution is covered by the same
+copyright terms except that the holder is Tim Hudson (tjh@cryptsoft.com).
+
+Copyright remains Eric Young's, and as such any Copyright notices in the code are
+not to be removed. If this package is used in a product, Eric Young should be
+given attribution as the author of the parts of the library used. This can be in
+the form of a textual message at program startup or in documentation (online or
+textual) provided with the package. Redistribution and use in source and binary
+forms, with or without modification, are permitted provided that the following
+conditions are met:
+
+  1. Redistributions of source code must retain the copyright notice, this list
+    of conditions and the following disclaimer.
+
+  2. Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  3. All advertising materials mentioning features or use of this software must
+    display the following acknowledgement: "This product includes cryptographic
+    software written by Eric Young (eay@cryptsoft.com)". The word 'cryptographic'
+    can be left out if the rouines from the library being used are not
+    cryptographic related :-).
+
+  4. If you include any Windows specific code (or a derivative thereof) from the
+    apps directory (application code) you must include an acknowledgement: "This
+    product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+
+
+THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.The licence and distribution terms for any publically available
+version or derivative of this code cannot be changed. i.e. this code cannot
+simply be copied and put under another distribution licence [including the GNU
+Public Licence.
+
+---
+
+The Open SSL License
+(OpenSSL 1.1.1k)
+
+OpenSSL
+=======
+
+
+Copyright (c) 1998-2000 The OpenSSL Project. All rights reserved.
+-----------------------------------------------------------------
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  1. Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  2. Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  3. All advertising materials mentioning features or use of this software must
+    display the following acknowledgment: This product includes software
+    developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org)
+
+  4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+    endorse or promote products derived from this software without prior written
+    permission. For written permission, please contact openssl-core@openssl.org
+
+  5. Products derived from this software may not be called "OpenSSL" nor may
+    "OpenSSL" appear in their names without prior written permission of the
+    OpenSSL Project.
+
+  6. Redistributions of any form whatsoever must retain the following
+    acknowledgment: "This product includes software developed by the OpenSSL
+    Project for use in the OpenSSL Toolkit (http://www.openssl.org)"
+
+
+
+
+THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
+written by Eric Young (eay@cryptsoft.com). This product includes software written
+by Tim Hudson (tjh@cryptsoft.com).
 
 ---
 
