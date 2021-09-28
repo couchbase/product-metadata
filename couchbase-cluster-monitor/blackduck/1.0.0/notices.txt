@@ -1060,7 +1060,6 @@ isexe 2.0.0 : ISC License
 isobject 2.1.0 : MIT License
 isobject 3.0.1 : MIT License
 isstream 0.1.2 : MIT License
-isstream 1.1.0 : MIT License
 istanbul-lib-coverage 3.0.0 : BSD 3-clause "New" or "Revised" License
 istanbul-lib-instrument 4.0.3 : BSD 3-clause "New" or "Revised" License
 istanbul-lib-report 3.0.0 : BSD 3-clause "New" or "Revised" License
@@ -1504,6 +1503,7 @@ sindresorhus/globals 11.12.0 : MIT License
 sindresorhus/globby 11.0.4 : MIT License
 sindresorhus/globby 5.0.0 : MIT License
 sindresorhus/globby 6.1.0 : MIT License
+sindresorhus/is-stream 1.1.0 : MIT License
 sindresorhus/normalize-url 6.1.0 : MIT License
 sindresorhus/onetime v5.1.2 : MIT License
 sindresorhus/slash v3.0.0 : MIT License
@@ -16166,7 +16166,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(Decamelize 1.2.0, Del using Globs 2.2.2, Strip ANSI 3.0.1, ansi-regex 2.1.1, ansi-styles 2.2.1, arrify 1.0.1, builtin-modules 1.1.1, code-point-at 1.1.0, escape-string-regexp 1.0.5, has-ansi 2.0.0, ip-regex v2.1.0, is-binary-path 1.0.1, is-fullwidth-code-point 1.0.0, is-fullwidth-code-point 2.0.0, is-path-cwd 1.0.0, is-path-in-cwd v1.0.1, is-wsl 1.1.0, isstream 1.1.0, npm-run-path 2.0.2, number-is-nan 1.0.1, p-defer 1.0.0, p-finally 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, resolve-cwd 2.0.0, resolve-from 3.0.0, set-immediate-shim 1.0.1, shebang-regex 1.0.0, sindresorhus/globby 5.0.0, sindresorhus/supports-color 2.0.0, string-width 1.0.2, strip-eof 1.0.0)
+(Decamelize 1.2.0, Del using Globs 2.2.2, Strip ANSI 3.0.1, ansi-regex 2.1.1, ansi-styles 2.2.1, arrify 1.0.1, builtin-modules 1.1.1, code-point-at 1.1.0, escape-string-regexp 1.0.5, has-ansi 2.0.0, ip-regex v2.1.0, is-binary-path 1.0.1, is-fullwidth-code-point 1.0.0, is-fullwidth-code-point 2.0.0, is-path-cwd 1.0.0, is-path-in-cwd v1.0.1, is-wsl 1.1.0, npm-run-path 2.0.2, number-is-nan 1.0.1, p-defer 1.0.0, p-finally 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, resolve-cwd 2.0.0, resolve-from 3.0.0, set-immediate-shim 1.0.1, shebang-regex 1.0.0, sindresorhus/globby 5.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/supports-color 2.0.0, string-width 1.0.2, strip-eof 1.0.0)
 
 The MIT License (MIT)
 
