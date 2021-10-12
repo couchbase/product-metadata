@@ -43,7 +43,7 @@ HdrHistogram_c 0.9.13 : (BSD 3-clause "New" or "Revised" License AND Public Doma
 JSON for Modern C++ 3.5.0 : MIT License
 Log4J API 2.14.1 : Apache License 2.0
 Log4J Commons Logging 2.14.1 : Apache License 2.0
-Netty Project netty-4.1.63.Final : Apache License 2.0
+Netty Project 4.1.63.Final : Apache License 2.0
 Netty/Codec/Redis 4.1.48.Final : Apache License 2.0
 Netty/Codec/SMTP 4.1.48.Final : Apache License 2.0
 Netty/TomcatNative [BoringSSL - Static] 2.0.39.Final : Apache License 2.0
@@ -143,7 +143,6 @@ go-spew v1.1.1 : ISC License
 go-sqlite3 master-20100709 : BSD 2-clause "Simplified" License
 go-zookeeper 20150410-snapshot-fa6674ab : BSD 3-clause "New" or "Revised" License
 go.etcd.io/bbolt 20180912-snapshot-7ee3ded5 : MIT License
-go.googlesource.com/tools 20180708-snapshot-9f2124fb : BSD 3-clause "New" or "Revised" License
 go.googlesource.com/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
 golang protobuf 20190115-snapshot : BSD 3-clause "New" or "Revised" License
 golang-github-aws-aws-sdk-go 1.34.22 : Apache License 2.0
@@ -151,6 +150,7 @@ golang-github-edsrzf-mmap-go 0.0~git20160512.0.935e0e8 : BSD 3-clause "New" or "
 golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 : BSD 2-clause "Simplified" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170227-snapshot-30f82fa2 : BSD 2-clause "Simplified" License
 golang-github-gorilla-context 0 : BSD 3-clause "New" or "Revised" License
+golang-github-json-iterator-go-dev 1.0.6 : MIT License
 golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 : MIT License
 golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
 golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
@@ -278,7 +278,7 @@ zlib 1.2.11 : zlib License
 Licenses: 
 
 Apache License 2.0
-(AWS SDK for Go 20210607-snapshot, AWS SDK for Go v1.33.10, AWS SDK for Go v1.34.20, AWS SDK for Ruby v2.11.582, Apache Commons Codec 1.15, Apache Commons Collections 4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.9, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.14, Apache Log4j 2.14.1, Apache Log4j JUL Adapter 2.14.1, Apache Log4j Web Adapters 2.14.1, Commons IO 2.8.0, Couchbase 6.6.3, Couchbase JVM Core IO 1.7.20, FlatBuffers 1.5.0, FlatBuffers v1.10.0, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 30.1-jre, Log4J API 2.14.1, Log4J Commons Logging 2.14.1, Netty Project netty-4.1.63.Final, Netty/Codec/Redis 4.1.48.Final, Netty/Codec/SMTP 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.39.Final, Netty/Transport/Native/KQueue 4.1.63.Final-redhat-00001, Netty/Transport/Native/Unix/Common 4.1.63.Final-redhat-00001, OpenTracing API 0.31.0, RxJava 1.3.8, SLF4J Binding 2.14.1, [ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-core 0.3.5, algebricks-data 0.3.5, algebricks-rewriter 0.3.2, algebricks-rewriter 0.3.5, algebricks-runtime 0.3.4.1, algebricks-runtime 0.3.5, asterix-active 0.9.7, asterix-algebra 0.9.4.1, asterix-app 0.9.4.1, asterix-app 0.9.6, asterix-common 0.9.4.1, asterix-common 0.9.5, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-common 0.9.5, asterix-lang-sqlpp 0.9.4.1, asterix-lang-sqlpp 0.9.5, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-om 0.9.5, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-runtime 0.9.6, asterix-transactions 0.9.6, blevesearch-segment v0.8.0, blevesearch/bleve-mapping-ui v0.3.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, couchbase platform v6.6.1, couchbase-cbgt v1.0.0, couchbase-goutils 0, couchbase-goxdcr v6.5.1, couchbase/gocbcore v9.0.7, couchbase/vellum v1.0.2, couchbaselabs/bleve 20171012-snapshot-3b2bc30b, couchbaselabs/bleve v0.8.0, couchbaselabs/bleve v1.0.7, couchbaselabs/gocbconnstr v1.0.4, erlang-otp OTP-20.3.8.11, error-prone annotations 2.3.4, fastutil 8.3.0, flatbuffers-java 1.6.0.3, folly v2019.08.12.00, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-aws-aws-sdk-go 1.34.22, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go v1.24.0, hyracks-api 0.3.4.1, hyracks-api 0.3.6, hyracks-client 0.3.5, hyracks-comm 0.3.6, hyracks-control-cc 0.3.4.1, hyracks-control-cc 0.3.6, hyracks-control-common 0.3.4.1, hyracks-control-common 0.3.6, hyracks-control-nc 0.3.4.1, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-data-std 0.3.4.1, hyracks-data-std 0.3.6, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-dataflow-std 0.3.6, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-ipc 0.3.6, hyracks-net 0.3.4, hyracks-net 0.3.6, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-rtree 0.3.7, hyracks-storage-common 0.3.4.1, hyracks-storage-common 0.3.6, hyracks-util 0.3.4.1, hyracks-util 0.3.7, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, inconshreveable/mousetrap 20200811-snapshot, jackson-annotations jackson-annotations-2.12.3, jackson-core 2.12.3, jackson-databind 2.12.3, jmespath-go-jmespath c2b33e84, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, meck 0.8.5, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, snappy-java 1.1.7.1, spf13-cobra 0.0.5, spf13-cobra 0.0~git20161229.0.1dd5ff2, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2, yaml for Go v2.2.2)
+(AWS SDK for Go 20210607-snapshot, AWS SDK for Go v1.33.10, AWS SDK for Go v1.34.20, AWS SDK for Ruby v2.11.582, Apache Commons Codec 1.15, Apache Commons Collections 4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.9, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.14, Apache Log4j 2.14.1, Apache Log4j JUL Adapter 2.14.1, Apache Log4j Web Adapters 2.14.1, Commons IO 2.8.0, Couchbase 6.6.3, Couchbase JVM Core IO 1.7.20, FlatBuffers 1.5.0, FlatBuffers v1.10.0, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 30.1-jre, Log4J API 2.14.1, Log4J Commons Logging 2.14.1, Netty Project 4.1.63.Final, Netty/Codec/Redis 4.1.48.Final, Netty/Codec/SMTP 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.39.Final, Netty/Transport/Native/KQueue 4.1.63.Final-redhat-00001, Netty/Transport/Native/Unix/Common 4.1.63.Final-redhat-00001, OpenTracing API 0.31.0, RxJava 1.3.8, SLF4J Binding 2.14.1, [ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-core 0.3.5, algebricks-data 0.3.5, algebricks-rewriter 0.3.2, algebricks-rewriter 0.3.5, algebricks-runtime 0.3.4.1, algebricks-runtime 0.3.5, asterix-active 0.9.7, asterix-algebra 0.9.4.1, asterix-app 0.9.4.1, asterix-app 0.9.6, asterix-common 0.9.4.1, asterix-common 0.9.5, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-common 0.9.5, asterix-lang-sqlpp 0.9.4.1, asterix-lang-sqlpp 0.9.5, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-om 0.9.5, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-runtime 0.9.6, asterix-transactions 0.9.6, blevesearch-segment v0.8.0, blevesearch/bleve-mapping-ui v0.3.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, couchbase platform v6.6.1, couchbase-cbgt v1.0.0, couchbase-goutils 0, couchbase-goxdcr v6.5.1, couchbase/gocbcore v9.0.7, couchbase/vellum v1.0.2, couchbaselabs/bleve 20171012-snapshot-3b2bc30b, couchbaselabs/bleve v0.8.0, couchbaselabs/bleve v1.0.7, couchbaselabs/gocbconnstr v1.0.4, erlang-otp OTP-20.3.8.11, error-prone annotations 2.3.4, fastutil 8.3.0, flatbuffers-java 1.6.0.3, folly v2019.08.12.00, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-aws-aws-sdk-go 1.34.22, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go v1.24.0, hyracks-api 0.3.4.1, hyracks-api 0.3.6, hyracks-client 0.3.5, hyracks-comm 0.3.6, hyracks-control-cc 0.3.4.1, hyracks-control-cc 0.3.6, hyracks-control-common 0.3.4.1, hyracks-control-common 0.3.6, hyracks-control-nc 0.3.4.1, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-data-std 0.3.4.1, hyracks-data-std 0.3.6, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-dataflow-std 0.3.6, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-ipc 0.3.6, hyracks-net 0.3.4, hyracks-net 0.3.6, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-rtree 0.3.7, hyracks-storage-common 0.3.4.1, hyracks-storage-common 0.3.6, hyracks-util 0.3.4.1, hyracks-util 0.3.7, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, inconshreveable/mousetrap 20200811-snapshot, jackson-annotations jackson-annotations-2.12.3, jackson-core 2.12.3, jackson-databind 2.12.3, jmespath-go-jmespath c2b33e84, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, meck 0.8.5, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, rebar 2.1.0-pre, rebar 2.5.1, rebar 2.6.0, snappy-java 1.1.7.1, spf13-cobra 0.0.5, spf13-cobra 0.0~git20161229.0.1dd5ff2, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2, yaml for Go v2.2.2)
 
 Apache License
 Version 2.0, January 2004
@@ -1310,7 +1310,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(HdrHistogram_c 0.9.13, PCRE 8.43, edsrzf/mmap-go 20210217-snapshot, go-zookeeper 20150410-snapshot-fa6674ab, go.googlesource.com/tools 20180708-snapshot-9f2124fb, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/sys 20190812-snapshot-fde4db37, golang.org/x/text 20171230-snapshot, lz4 1.8.0)
+(HdrHistogram_c 0.9.13, PCRE 8.43, edsrzf/mmap-go 20210217-snapshot, go-zookeeper 20150410-snapshot-fa6674ab, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/sys 20190812-snapshot-fde4db37, golang.org/x/text 20171230-snapshot, lz4 1.8.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -4946,6 +4946,42 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+---
+
+MIT License
+(golang-github-json-iterator-go-dev 1.0.6)
+
+Source: https://github.com/json-iterator/go
+
+Files: *
+Copyright: 2016 json-iterator <taowen@didichuxing.com>
+License: Expat
+
+Files: debian/*
+Copyright: 2018 Martín Ferrari <tincho@debian.org>
+License: Expat
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
 
 ---
 
