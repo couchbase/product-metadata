@@ -1,0 +1,32 @@
+{
+  "os_versions": {
+    "focal": {
+      "distro": "ubuntu",
+      "version": "20.04",
+      "full": "ubuntu20.04",
+      "platforms": "amd64 arm64 armhf"
+    },
+    "buster": {
+      "distro": "debian",
+      "version": "10.1",
+      "full": "debian10",
+      "platforms": "armhf arm64 amd64"
+    },
+    "stretch": {
+      "distro": "debian",
+      "version": "9.1",
+      "full": "debian9",
+      "platforms": "armhf amd64"
+    }
+  },
+  "distro_info": {
+    "debian": {
+      "security_url": "http://security.debian.org",
+      "security_path": "{}/updates"
+    },
+    "ubuntu": {
+      "security_url": "http://security.ubuntu.com/ubuntu",
+      "security_path": "{}-security"
+    }
+  }
+}
