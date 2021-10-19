@@ -10,16 +10,6 @@ BurntSushi/toml v0.3.1 : MIT License
 Go Testify v1.2.2 : MIT License
 Go Testify v1.3.0 : MIT License
 Go Testify v1.4.0 : Apache License 2.0
-Go programming language 20180907-snapshot-90fa682c : BSD 3-clause "New" or "Revised" License
-Go programming language 20181010-snapshot-1f849cf5 : BSD 3-clause "New" or "Revised" License
-Go programming language 20190311-snapshot-11955173 : BSD 3-clause "New" or "Revised" License
-Go programming language 20190312-snapshot-e65039ee : BSD 3-clause "New" or "Revised" License
-Go programming language 20190614-snapshot-5aca471b : BSD 3-clause "New" or "Revised" License
-Go programming language 20190620-snapshot-6e04913c : BSD 3-clause "New" or "Revised" License
-Go programming language 20191021-snapshot-9cc4af7d : BSD 3-clause "New" or "Revised" License
-Go programming language 20191029-snapshot-b9c20aec : BSD 3-clause "New" or "Revised" License
-Go programming language 20191124-snapshot-a911d900 : BSD 3-clause "New" or "Revised" License
-Go programming language 20191224-snapshot-7b8e75db : BSD 3-clause "New" or "Revised" License
 Google Cloud Client Libraries for Go 20200910-snapshot : Apache License 2.0
 Google Cloud Client Libraries for Go v0.38.0 : Apache License 2.0
 Google Cloud Client Libraries for Go v0.51.0 : Apache License 2.0
@@ -70,6 +60,16 @@ go-tomb-tomb 20150422-snapshot-dd632973 : BSD 3-clause "New" or "Revised" Licens
 go-zap v1.10.0 : BSD 3-clause "New" or "Revised" License
 go-zap v1.14.1 : MIT License
 go-zap v1.8.0 : MIT License
+go.googlesource.com/tools 20180907-snapshot-90fa682c : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20181010-snapshot-1f849cf5 : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20190311-snapshot-11955173 : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20190312-snapshot-e65039ee : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20190614-snapshot-5aca471b : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20190620-snapshot-6e04913c : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20191021-snapshot-9cc4af7d : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20191029-snapshot-b9c20aec : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20191124-snapshot-a911d900 : BSD 3-clause "New" or "Revised" License
+go.googlesource.com/tools 20191224-snapshot-7b8e75db : BSD 3-clause "New" or "Revised" License
 go.uber.org/multierr v1.1.0 : MIT License
 go.uber.org/multierr v1.5.0 : MIT License
 gogo-protobuf v1.1.1 : BSD 3-clause "New" or "Revised" License
@@ -97,6 +97,9 @@ golang.org/x/crypto 20191011-snapshot-87dc89f0 : BSD 3-clause "New" or "Revised"
 golang.org/x/crypto 20191127-snapshot-e9b2fee4 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20200211-snapshot-bac4c82f : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20200622-snapshot-75b28801 : BSD 3-clause "New" or "Revised" License
+golang.org/x/lint 20190301-snapshot-5614ed5b : BSD 3-clause "New" or "Revised" License
+golang.org/x/lint 20190930-snapshot-16217165 : BSD 3-clause "New" or "Revised" License
+golang.org/x/lint 20191125-snapshot-fdd1cda4 : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod 20191105-snapshot-c90efee7 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20170113-snapshot-f2499483 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180724-snapshot-3673e40b : BSD 3-clause "New" or "Revised" License
@@ -979,7 +982,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(AWS SDK for Go 1.38.40, Go programming language 20180907-snapshot-90fa682c, Go programming language 20181010-snapshot-1f849cf5, Go programming language 20190311-snapshot-11955173, Go programming language 20190312-snapshot-e65039ee, Go programming language 20190614-snapshot-5aca471b, Go programming language 20190620-snapshot-6e04913c, Go programming language 20191021-snapshot-9cc4af7d, Go programming language 20191029-snapshot-b9c20aec, Go programming language 20191124-snapshot-a911d900, Go programming language 20191224-snapshot-7b8e75db, go-zap v1.10.0, golang protobuf 20200220-snapshot-67d41d38, golang protobuf 20200313-snapshot-b860323f, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20180831-snapshot-0709b304, golang.org/x/crypto 20190407-snapshot-cbcb7502, golang.org/x/crypto 20190611-snapshot-5c40567a, golang.org/x/crypto 20191011-snapshot-87dc89f0, golang.org/x/crypto 20191127-snapshot-e9b2fee4, golang.org/x/crypto 20200211-snapshot-bac4c82f, golang.org/x/crypto 20200622-snapshot-75b28801, golang.org/x/mod 20191105-snapshot-c90efee7, golang.org/x/net 20170113-snapshot-f2499483, golang.org/x/net 20180906-snapshot-161cd47e, golang.org/x/net 20181114-snapshot-adae6a3d, golang.org/x/net 20181219-snapshot-1e06a53d, golang.org/x/net 20190311-snapshot-d8887717, golang.org/x/net 20190402-snapshot-eb5bcb51, golang.org/x/net 20190603-snapshot-60506f45, golang.org/x/net 20190613-snapshot-d28f0bde, golang.org/x/net 20190620-snapshot-3b0461ee, golang.org/x/net 20190826-snapshot-ba9fcec4, golang.org/x/net 20191108-snapshot-c0dbc17a, golang.org/x/net 20200324-snapshot-d3edc997, golang.org/x/net 20200518-snapshot-59133d7f, golang.org/x/net 20200706-snapshot-ab342639, golang.org/x/net 20201105-snapshot-69a78807, golang.org/x/oauth2 20180628-snapshot-858c2ad4, golang.org/x/oauth2 20190211-snapshot-e64efc72, golang.org/x/oauth2 20190507-snapshot-0f29369c, golang.org/x/sys 20170830-snapshot-bb24a47a, golang.org/x/sys 20180905-snapshot-ebe1bf3e, golang.org/x/sys 20180908-snapshot-d0be0721, golang.org/x/sys 20181116-snapshot-5ac8a444, golang.org/x/sys 20190215-snapshot-d0b11bda, golang.org/x/sys 20190405-snapshot-97732733, golang.org/x/sys 20190615-snapshot-15dcb6c0, golang.org/x/sys 20190904-snapshot-749cb33b, golang.org/x/sys 20191005-snapshot-aed5e4c7, golang.org/x/sys 20191021-snapshot-742c48ec, golang.org/x/sys 20191025-snapshot-33540a1f, golang.org/x/sys 20191120-snapshot-bd437916, golang.org/x/sys 20191228-snapshot-04cbcbbf, golang.org/x/sys 20200106-snapshot-b016eb3d, golang.org/x/sys 20200323-snapshot-85ca7c5b, golang.org/x/sys 20200615-snapshot-f1bc7362, golang.org/x/sys 20200622-snapshot-ed371f2e, golang.org/x/sys 20200930-snapshot-fdedc70b, golang.org/x/text 20160721-snapshot-2910a502, golang.org/x/text 20180804-snapshot-17ff2d57, golang.org/x/time 20191023-snapshot-555d28b2, golang.org/x/xerrors 20190516-snapshot-a985d340, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang.org/x/xerrors 20191005-snapshot-1b5146ad, google.golang.org/protobuf 20200109-snapshot-ec00e32a, google.golang.org/protobuf 20200221-snapshot-4d8936d0, google.golang.org/protobuf 20200227-snapshot-ab0ca4ff, google.golang.org/protobuf 20200309-snapshot-e05f789c, goproxy 20180725-snapshot-947c36da)
+(AWS SDK for Go 1.38.40, go-zap v1.10.0, go.googlesource.com/tools 20180907-snapshot-90fa682c, go.googlesource.com/tools 20181010-snapshot-1f849cf5, go.googlesource.com/tools 20190311-snapshot-11955173, go.googlesource.com/tools 20190312-snapshot-e65039ee, go.googlesource.com/tools 20190614-snapshot-5aca471b, go.googlesource.com/tools 20190620-snapshot-6e04913c, go.googlesource.com/tools 20191021-snapshot-9cc4af7d, go.googlesource.com/tools 20191029-snapshot-b9c20aec, go.googlesource.com/tools 20191124-snapshot-a911d900, go.googlesource.com/tools 20191224-snapshot-7b8e75db, golang protobuf 20200220-snapshot-67d41d38, golang protobuf 20200313-snapshot-b860323f, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20180831-snapshot-0709b304, golang.org/x/crypto 20190407-snapshot-cbcb7502, golang.org/x/crypto 20190611-snapshot-5c40567a, golang.org/x/crypto 20191011-snapshot-87dc89f0, golang.org/x/crypto 20191127-snapshot-e9b2fee4, golang.org/x/crypto 20200211-snapshot-bac4c82f, golang.org/x/crypto 20200622-snapshot-75b28801, golang.org/x/lint 20190301-snapshot-5614ed5b, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/lint 20191125-snapshot-fdd1cda4, golang.org/x/mod 20191105-snapshot-c90efee7, golang.org/x/net 20170113-snapshot-f2499483, golang.org/x/net 20180906-snapshot-161cd47e, golang.org/x/net 20181114-snapshot-adae6a3d, golang.org/x/net 20181219-snapshot-1e06a53d, golang.org/x/net 20190311-snapshot-d8887717, golang.org/x/net 20190402-snapshot-eb5bcb51, golang.org/x/net 20190603-snapshot-60506f45, golang.org/x/net 20190613-snapshot-d28f0bde, golang.org/x/net 20190620-snapshot-3b0461ee, golang.org/x/net 20190826-snapshot-ba9fcec4, golang.org/x/net 20191108-snapshot-c0dbc17a, golang.org/x/net 20200324-snapshot-d3edc997, golang.org/x/net 20200518-snapshot-59133d7f, golang.org/x/net 20200706-snapshot-ab342639, golang.org/x/net 20201105-snapshot-69a78807, golang.org/x/oauth2 20180628-snapshot-858c2ad4, golang.org/x/oauth2 20190211-snapshot-e64efc72, golang.org/x/oauth2 20190507-snapshot-0f29369c, golang.org/x/sys 20170830-snapshot-bb24a47a, golang.org/x/sys 20180905-snapshot-ebe1bf3e, golang.org/x/sys 20180908-snapshot-d0be0721, golang.org/x/sys 20181116-snapshot-5ac8a444, golang.org/x/sys 20190215-snapshot-d0b11bda, golang.org/x/sys 20190405-snapshot-97732733, golang.org/x/sys 20190615-snapshot-15dcb6c0, golang.org/x/sys 20190904-snapshot-749cb33b, golang.org/x/sys 20191005-snapshot-aed5e4c7, golang.org/x/sys 20191021-snapshot-742c48ec, golang.org/x/sys 20191025-snapshot-33540a1f, golang.org/x/sys 20191120-snapshot-bd437916, golang.org/x/sys 20191228-snapshot-04cbcbbf, golang.org/x/sys 20200106-snapshot-b016eb3d, golang.org/x/sys 20200323-snapshot-85ca7c5b, golang.org/x/sys 20200615-snapshot-f1bc7362, golang.org/x/sys 20200622-snapshot-ed371f2e, golang.org/x/sys 20200930-snapshot-fdedc70b, golang.org/x/text 20160721-snapshot-2910a502, golang.org/x/text 20180804-snapshot-17ff2d57, golang.org/x/time 20191023-snapshot-555d28b2, golang.org/x/xerrors 20190516-snapshot-a985d340, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang.org/x/xerrors 20191005-snapshot-1b5146ad, google.golang.org/protobuf 20200109-snapshot-ec00e32a, google.golang.org/protobuf 20200221-snapshot-4d8936d0, google.golang.org/protobuf 20200227-snapshot-ab0ca4ff, google.golang.org/protobuf 20200309-snapshot-e05f789c, goproxy 20180725-snapshot-947c36da)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
