@@ -2120,6 +2120,37 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
+(pycparser 2.20)
+
+Copyright (c) 2008-2017, Eli Bendersky
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this 
+  list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice, 
+  this list of conditions and the following disclaimer in the documentation 
+  and/or other materials provided with the distribution.
+* Neither the name of Eli Bendersky nor the names of its contributors may 
+  be used to endorse or promote products derived from this software without 
+  specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE 
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT 
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
 (go.googlesource.com/tools 20181129-snapshot-e21233ff, golang-golangorg-crypto-devel 0, golang.org/x/crypto 20171031-snapshot-bd6f299f, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180502-snapshot-faadfbdc, golang.org/x/crypto 20180513-snapshot-bd6f299f, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180925-snapshot, golang.org/x/mod v0.1.0, golang.org/x/mod v0.2.0, golang.org/x/mod v0.3.0, golang.org/x/net 20170911-snapshot-66aacef3, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20181130-snapshot-351d144f, golang.org/x/sync 20180314-snapshot-1d60e460, golang.org/x/sys 20190624-snapshot-c5567b49, golang.org/x/sys 20191008-snapshot-543471e8, golang.org/x/sys 20200703-snapshot, golang.org/x/text v0.3.0, golang.org/x/text v0.3.2, golang.org/x/text v0.3.3, golang.org/x/time 20181108-snapshot-85acf8d2, rsc/quote v3.1.0, rsc/sampler v1.3.0)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
@@ -3765,49 +3796,6 @@ Redistribution and use in source and binary forms, with or without
  LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(pycparser 2.20)
-
-Upstream-Contact: Eli Bendersky <eliben@gmail.com>
-Source: http://pypi.python.org/pypi/pycparser
-
-Files: *
-Copyright: 2008-2020, Eli Bendersky <eliben@gmail.com>
-License: bsd-3-bendersky
-
-Files: pycparser/ply/*
-Copyright: 2001-2017 David M. Beazley (Dabeaz LLC) <dave@dabeaz.com>
-License: bsd-3-dabeaz
-
-Files: debian/*
-Copyright: 2012-2020, Stefano Rivera <stefanor@debian.org>
-License: bsd-3-bendersky
-
-License: bsd-3-bendersky
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are met:
- * Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
- * Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
- * Neither the name of Eli Bendersky nor the names of its contributors may
-   be used to endorse or promote products derived from this software without
-   specific prior written permission.
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
- AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
- IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
- DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
- FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
- DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
- SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
- CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
- OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -11155,7 +11143,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(os-homedir 1.0.2, path-is-absolute 1.0.1)
+(os-homedir 1.0.2, os-tmpdir 1.0.2, path-is-absolute 1.0.1)
 
 The MIT License (MIT)
 
@@ -11216,44 +11204,6 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(os-tmpdir 1.0.2)
-
-Upstream-Contact: https://github.com/sindresorhus/os-tmpdir/issues
-Source: https://github.com/sindresorhus/os-tmpdir
-
-Files: *
-Copyright: 2015 Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-License: Expat
-
-Files: debian/*
-Copyright: 2015 Ross Gammon <rossgammon@mail.dk>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
 
 ---
 
