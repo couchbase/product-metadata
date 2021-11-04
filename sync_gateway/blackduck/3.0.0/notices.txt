@@ -5,6 +5,7 @@ Copyright 2021
 
 Components: 
 
+Go Testify 1.2.2+git20181212.5b93e2d : Expat License
 Go Testify 20181108-snapshot : MIT License
 Go Testify v1.2.2 : MIT License
 Go Testify v1.3.0 : MIT License
@@ -32,7 +33,7 @@ client_golang v0.9.1 : Apache License 2.0
 client_golang v1.0.0 : Apache License 2.0
 client_golang v1.7.1 : Apache License 2.0
 coreos-go-oidc v2.2.1 : Apache License 2.0
-coreos-pkg v1 : Apache License 2.0
+coreos-pkg 2 : Apache License 2.0
 errwrap v1.0.0 : Mozilla Public License 2.0
 felixge/fgprof v0.9.1 : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
@@ -69,10 +70,9 @@ golang protobuf v1.3.2 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.4.0-rc.1 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.4.1 : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170620-snapshot : BSD 2-clause "Simplified" License
-golang-github-json-iterator-go-dev 1.1.10 : Expat License
-golang-github-stretchr-testify 1.4.0 : MIT License
+golang-github-pkg-errors 0.8.0+git20180311.816c908 : BSD 2-clause "Simplified" License
 golang-golang-x-oauth2 0.0~git20190604.0f29369 : BSD 3-clause "New" or "Revised" License
-golang-procfs 0.1.3 : Apache License 2.0
+golang-golang-x-text 0.3.4 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20160302-snapshot : BSD 3-clause "New" or "Revised" License
 golang-x-text-dev 0.3.4 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180704-snapshot : BSD 3-clause "New" or "Revised" License
@@ -125,7 +125,6 @@ gopsutil v2.18.11 : BSD 3-clause "New" or "Revised" License
 gopsutil v2.18.12 : BSD 3-clause "New" or "Revised" License
 gorilla/context 20170307-snapshot : BSD 3-clause "New" or "Revised" License
 gorilla/mux 20170523-snapshot : BSD 3-clause "New" or "Revised" License
-gosigar 0.0~git20171121.dcb1afc : Apache License 2.0
 hashicorp-go-multierror v1.1.0 : Mozilla Public License 2.0
 ianlancetaylor/demangle 20181102-snapshot-5e5cf602 : BSD 3-clause "New" or "Revised" License
 jonboulle-clockwork 20180214-snapshot-ed104f61 : Apache License 2.0
@@ -134,16 +133,17 @@ jsoniter-go v1.1.6 : MIT License
 jsoniter-go v1.1.7 : MIT License
 julienschmidt/httprouter v1.2.0 : BSD 3-clause "New" or "Revised" License
 kardianos-osext 20160806-snapshot : BSD 3-clause "New" or "Revised" License
-kardianos-service 0.0~git20181115.4c239ee : zlib License
 kardianos-service 20171101-snapshot-5ab7ce2c : zlib License
+kardianos-service 20171117-snapshot-14a49b39 : zlib License
 kr/pretty 0.1.0 : MIT License
 logfmt 20140226-snapshot-b84e30ac : MIT License
+lxc/lxd-pkg-ubuntu 4.4 : Apache License 2.0
 matttproud-golang_protobuf_extensions v1.0.1 : Apache License 2.0
 mergo 0.3.12 : BSD 3-clause "New" or "Revised" License
 modern-go/concurrent 1.0.0 : Apache License 2.0
 modern-go/concurrent 20180228-snapshot-e0a39a4c : Apache License 2.0
 modern-go/concurrent 20180305-snapshot-bacd9c7e : Apache License 2.0
-modern-go/concurrent 20211005-snapshot : Apache License 2.0
+modern-go/concurrent 20190822-snapshot : Apache License 2.0
 modern-go/reflect2 1.0.1 : Apache License 2.0
 modern-go/reflect2 20180630-snapshot-4b7aa43c : Apache License 2.0
 mwitkow/go-conntrack 20161129-snapshot-cc309e4a : Apache License 2.0
@@ -165,9 +165,7 @@ prometheus-procfs 20200723-snapshot : Apache License 2.0
 prometheus-procfs v0.0.2 : Apache License 2.0
 prometheus-procfs v0.1.3 : Apache License 2.0
 prometheus/prometheus v2.20.0 : Apache License 2.0
-protocolbuffers/protobuf-go 1.25.0+git20201208.160c747 : BSD 3-clause "New" or "Revised" License
 robertkrimen/otto 20180907-snapshot-a813c59b : MIT License
-rsc/letsencrypt v0.0.1 : BSD 3-clause "New" or "Revised" License
 sergi/go-diff 20180205-snapshot-da645544 : (MIT License AND Apache License 2.0)
 shirou/w32 20160930-snapshot-bb4de019 : BSD 3-clause "New" or "Revised" License
 stretchr/objx 20210115-snapshot : MIT License
@@ -184,7 +182,7 @@ yaml for Go v2.3.0 : Apache License 2.0
 Licenses: 
 
 Apache License 2.0
-(Go Testify v1.4.0, Google Cloud Client Libraries for Go 20200910-snapshot, client_golang v0.9.1, client_golang v1.0.0, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg v1, go-jose v2.2.0, go-jose v2.4.1, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang-procfs 0.1.3, golang/appengine v1.4.0, google-gofuzz v1.0.0, google/go-genproto 20200526-snapshot-cb27e3aa, google/pprof 0, google/pprof 0.0~git20200905.acf8798, google/pprof 20200615-snapshot-03e1cf38, gosigar 0.0~git20171121.dcb1afc, jonboulle-clockwork 20180214-snapshot-ed104f61, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 1.0.0, modern-go/concurrent 20180228-snapshot-e0a39a4c, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/concurrent 20211005-snapshot, modern-go/reflect2 1.0.1, modern-go/reflect2 20180630-snapshot-4b7aa43c, mwitkow/go-conntrack 20161129-snapshot-cc309e4a, opentracing-opentracing-go 20201208-snapshot, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model 20180714-snapshot-5c3871d8, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs 20181009-snapshot-185b4288, prometheus-procfs 20200723-snapshot, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus/prometheus v2.20.0, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, wheelcomplex/gosigar v0.10.2, wheelcomplex/gosigar v0.9.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5, yaml for Go v2.3.0)
+(Go Testify v1.4.0, Google Cloud Client Libraries for Go 20200910-snapshot, client_golang v0.9.1, client_golang v1.0.0, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg 2, go-jose v2.2.0, go-jose v2.4.1, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang/appengine v1.4.0, google-gofuzz v1.0.0, google/go-genproto 20200526-snapshot-cb27e3aa, google/pprof 0, google/pprof 0.0~git20200905.acf8798, google/pprof 20200615-snapshot-03e1cf38, jonboulle-clockwork 20180214-snapshot-ed104f61, lxc/lxd-pkg-ubuntu 4.4, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 1.0.0, modern-go/concurrent 20180228-snapshot-e0a39a4c, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/concurrent 20190822-snapshot, modern-go/reflect2 1.0.1, modern-go/reflect2 20180630-snapshot-4b7aa43c, mwitkow/go-conntrack 20161129-snapshot-cc309e4a, opentracing-opentracing-go 20201208-snapshot, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model 20180714-snapshot-5c3871d8, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs 20181009-snapshot-185b4288, prometheus-procfs 20200723-snapshot, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus/prometheus v2.20.0, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, wheelcomplex/gosigar v0.10.2, wheelcomplex/gosigar v0.9.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5, yaml for Go v2.3.0)
 
 Apache License
 Version 2.0, January 2004
@@ -548,8 +546,51 @@ THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
+BSD 2-clause "Simplified" License
+(golang-github-pkg-errors 0.8.0+git20180311.816c908)
+
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: github.com/pkg/errors
+Source: https://github.com/pkg/errors
+
+Files: *
+Copyright: 2015 Dave Cheney <dave@cheney.net>
+License: BSD-2-clause
+
+Files: debian/*
+Copyright: 2016 Anthony Fok <foka@debian.org>
+License: BSD-2-clause
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: BSD-2-clause
+ All rights reserved.
+ .
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+ .
+ * Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+ .
+ * Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+ FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
 BSD 3-clause "New" or "Revised" License
-(golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180718-snapshot-a2144134, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190108-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text v0.3.0, golang/net 1.11+git20190403.48a9fcb, rsc/letsencrypt v0.0.1)
+(golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180718-snapshot-a2144134, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190108-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text v0.3.0, golang/net 1.11+git20190403.48a9fcb)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -838,7 +879,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(go.googlesource.com/tools 20180907-snapshot-90fa682c, golang protobuf 1.25.0+git20201208.160c747, golang protobuf 20200220-snapshot-67d41d38, golang protobuf 20200313-snapshot-b860323f, golang.org/x/net 20181114-snapshot-adae6a3d, golang.org/x/net 20181219-snapshot-1e06a53d, golang.org/x/net 20190613-snapshot-d28f0bde, golang.org/x/oauth2 20210329-snapshot, golang.org/x/sync 20180924-snapshot-37e7f081, golang.org/x/sync 20181107-snapshot-42b31787, golang.org/x/sync 20190830-snapshot-cd5d95a4, golang.org/x/sys 20180905-snapshot-ebe1bf3e, golang.org/x/sys 20181116-snapshot-5ac8a444, golang.org/x/sys 20190215-snapshot-d0b11bda, golang.org/x/sys 20191203-snapshot-ce4227a4, golang.org/x/sys 20200106-snapshot-b016eb3d, golang.org/x/sys 20200615-snapshot-f1bc7362, golang.org/x/text 20171230-snapshot, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.3.4, google.golang.org/protobuf 20200109-snapshot-ec00e32a, google.golang.org/protobuf 20200221-snapshot-4d8936d0, google.golang.org/protobuf 20200227-snapshot-ab0ca4ff, google.golang.org/protobuf 20200309-snapshot-e05f789c, google.golang.org/protobuf 20200522-snapshot-81db48ad, mergo 0.3.12, protocolbuffers/protobuf-go 1.25.0+git20201208.160c747)
+(go.googlesource.com/tools 20180907-snapshot-90fa682c, golang protobuf 1.25.0+git20201208.160c747, golang protobuf 20200220-snapshot-67d41d38, golang protobuf 20200313-snapshot-b860323f, golang-golang-x-text 0.3.4, golang.org/x/net 20181114-snapshot-adae6a3d, golang.org/x/net 20181219-snapshot-1e06a53d, golang.org/x/net 20190613-snapshot-d28f0bde, golang.org/x/oauth2 20210329-snapshot, golang.org/x/sync 20180924-snapshot-37e7f081, golang.org/x/sync 20181107-snapshot-42b31787, golang.org/x/sync 20190830-snapshot-cd5d95a4, golang.org/x/sys 20180905-snapshot-ebe1bf3e, golang.org/x/sys 20181116-snapshot-5ac8a444, golang.org/x/sys 20190215-snapshot-d0b11bda, golang.org/x/sys 20191203-snapshot-ce4227a4, golang.org/x/sys 20200106-snapshot-b016eb3d, golang.org/x/sys 20200615-snapshot-f1bc7362, golang.org/x/text 20171230-snapshot, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.3.4, google.golang.org/protobuf 20200109-snapshot-ec00e32a, google.golang.org/protobuf 20200221-snapshot-4d8936d0, google.golang.org/protobuf 20200227-snapshot-ab0ca4ff, google.golang.org/protobuf 20200309-snapshot-e05f789c, google.golang.org/protobuf 20200522-snapshot-81db48ad, mergo 0.3.12)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1153,7 +1194,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 Expat License
-(golang-github-json-iterator-go-dev 1.1.10)
+(Go Testify 1.2.2+git20181212.5b93e2d)
 
 Expat License
 =============
@@ -1527,7 +1568,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Go Testify v1.3.0, golang-github-stretchr-testify 1.4.0)
+(Go Testify v1.3.0)
 
 MIT License
 
@@ -2331,7 +2372,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 ---
 
 zlib License
-(kardianos-service 0.0~git20181115.4c239ee, kardianos-service 20171101-snapshot-5ab7ce2c)
+(kardianos-service 20171101-snapshot-5ab7ce2c, kardianos-service 20171117-snapshot-14a49b39)
 
 The zlib/libpng License
 =======================
