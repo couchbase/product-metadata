@@ -6,17 +6,53 @@
       "full": "ubuntu20.04",
       "platforms": "amd64 arm64 armhf"
     },
-    "buster": {
+    "wheezy": {
       "distro": "debian",
-      "version": "10.1",
-      "full": "debian10",
-      "platforms": "armhf arm64 amd64"
+      "version": "7.0",
+      "full": "debian7",
+      "platforms": ""
+    },
+    "jessie": {
+      "distro": "debian",
+      "version": "8.0",
+      "full": "debian8",
+      "platforms": ""
     },
     "stretch": {
       "distro": "debian",
       "version": "9.1",
       "full": "debian9",
       "platforms": "armhf amd64"
+    },
+    "buster": {
+      "distro": "debian",
+      "version": "10.1",
+      "full": "debian10",
+      "platforms": "armhf arm64 amd64"
+    },
+    "trusty": {
+      "distro": "ubuntu",
+      "version": "14.04",
+      "full": "ubuntu14.04",
+      "platforms": "amd64 arm64 armhf"
+    },
+    "xenial": {
+      "distro": "ubuntu",
+      "version": "16.04",
+      "full": "ubuntu16.04",
+      "platforms": ""
+    },
+    "bionic": {
+      "distro": "ubuntu",
+      "version": "18.04",
+      "full": "ubuntu18.04",
+      "platforms": ""
+    },
+    "focal": {
+      "distro": "ubuntu",
+      "version": "20.04",
+      "full": "ubuntu20.04",
+      "platforms": "amd64 arm64 armhf"
     }
   },
   "distro_info": {
