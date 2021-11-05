@@ -8,7 +8,6 @@ Components:
 AWS SDK for Go 20210607-snapshot : Apache License 2.0
 AWS SDK for Go v1.33.10 : Apache License 2.0
 AWS SDK for Go v1.34.20 : Apache License 2.0
-AWS SDK for Ruby v2.11.582 : Apache License 2.0
 Apache Commons Codec 1.15 : Apache License 2.0
 Apache Commons Collections 4.4 : Apache License 2.0
 Apache Commons Compress 1.20 : Apache License 2.0
@@ -23,6 +22,7 @@ Apache Log4j Web Adapters 2.14.1 : Apache License 2.0
 Boost C++ Libraries - boost 1.67.0 : Boost Software License 1.0
 Bouncy Castle 1.68 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.68 : MIT License
+BouncyCastle 1.2.0.3-jre17-rc1 : GNU General Public License v3.0 or later
 Breakpad r835 : BSD 3-clause "New" or "Revised" License
 Commons IO 2.8.0 : Apache License 2.0
 ContinuumIO/conda 4.6.14 : BSD 3-clause "New" or "Revised" License
@@ -31,6 +31,7 @@ Couchbase JVM Core IO 1.7.20 : Apache License 2.0
 DataDog/zstd v1.3.4 : BSD 3-clause "New" or "Revised" License
 FlatBuffers 1.5.0 : Apache License 2.0
 FlatBuffers v1.10.0 : Apache License 2.0
+Gitaly v13.7.5 : Expat License
 Go Testify v1.3.0 : MIT License
 Go Testify v1.5.1 : MIT License
 Go programming language 0.0~git20190125.d66bd3c+ds : BSD 3-clause "New" or "Revised" License
@@ -115,17 +116,14 @@ cuckoofilter 20180825-snapshot : MIT License
 curl 7.66.0 : curl License
 double-conversion v3.0.0 : BSD 3-clause "New" or "Revised" License
 edsrzf/mmap-go 20210217-snapshot : BSD 3-clause "New" or "Revised" License
-edsrzf/mmap-go master-20160511 : BSD 3-clause "New" or "Revised" License
 edsrzf/mmap-go v1.0.0 : BSD 3-clause "New" or "Revised" License
 erlang-erlydtl 0.7.0 : MIT License
 erlang-otp OTP-20.3.8.11 : Apache License 2.0
 erlang-poolboy 1.5.1 : Public Domain
-erlang-rebar 2.1.0 : MIT License
 error-prone annotations 2.3.4 : Apache License 2.0
 fastutil 8.3.0 : Apache License 2.0
 flatbuffers-java 1.6.0.3 : Apache License 2.0
 folly v2019.08.12.00 : Apache License 2.0
-folsom 0.8.1 : Apache License 2.0
 forestdb v1.2 : Apache License 2.0
 geocouch 20180430-snapshot-92def13f : Apache License 2.0
 geometry-api-java 2.0.0 : Apache License 2.0
@@ -147,6 +145,7 @@ go.etcd.io/bbolt 20180912-snapshot-7ee3ded5 : MIT License
 go.googlesource.com/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
 golang protobuf 20190115-snapshot : BSD 3-clause "New" or "Revised" License
 golang-github-aws-aws-sdk-go 1.34.22 : Apache License 2.0
+golang-github-couchbase-moss 0.0~git20170914.0.07c86e8 : Apache License 2.0
 golang-github-edsrzf-mmap-go 0.0~git20160512.0.935e0e8 : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 : BSD 2-clause "Simplified" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170227-snapshot-30f82fa2 : BSD 2-clause "Simplified" License
@@ -156,13 +155,12 @@ golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
 golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
 golang-github-spf13-pflag-dev 1.0.3 : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev 20170607-snapshot : BSD 3-clause "New" or "Revised" License
-golang-golangorg-crypto-devel 0 : BSD 3-clause "New" or "Revised" License
 golang-google-genproto-dev 0.0~git20171123.7f0da29 : Apache License 2.0
+golang-google-grpc 1.27.1 : Apache License 2.0
 golang-snappy-go-dev 20150731-snapshot-a911026e : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20160302-snapshot : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20171230-snapshot : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v0.0.1 : BSD 3-clause "New" or "Revised" License
-golang-x-text-dev 0.3.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180222-snapshot-432090b8 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180502-snapshot-faadfbdc : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180513-snapshot-bd6f299f : BSD 3-clause "New" or "Revised" License
@@ -174,6 +172,7 @@ golang.org/x/net 20190327-snapshot-e3b2ff56 : BSD 3-clause "New" or "Revised" Li
 golang.org/x/sys 20190812-snapshot-fde4db37 : BSD 3-clause "New" or "Revised" License
 golang.org/x/text 20171230-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/text 20180110-snapshot : BSD 3-clause "New" or "Revised" License
+golang/net 1.5.2+git20151229.0cb26f7 : BSD 3-clause "New" or "Revised" License
 goleveldb 0+git20160825.6ae1797 : BSD 2-clause "Simplified" License
 google-snappy 1.1.1 : BSD 3-clause "New" or "Revised" License
 google/uuid 20180409-snapshot : BSD 3-clause "New" or "Revised" License
@@ -185,7 +184,6 @@ gorilla/mux 20170523-snapshot : BSD 3-clause "New" or "Revised" License
 gorilla/muxy 20170123-snapshot-65b4fd5d : BSD 3-clause "New" or "Revised" License
 goskiplist 20170622-snapshot : Apache License 2.0
 grpc 1.12.0 : Apache License 2.0
-grpc-go v1.24.0 : Apache License 2.0
 hyracks-api 0.3.4.1 : Apache License 2.0
 hyracks-api 0.3.6 : Apache License 2.0
 hyracks-client 0.3.5 : Apache License 2.0
@@ -239,6 +237,7 @@ libgcc 7.3.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libnuma1 2.0.11 : GNU Lesser General Public License v2.1 or later
 libstdc++ 7.3.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libuv 1.20.3 : (MIT License AND ISC License AND BSD 3-clause "New" or "Revised" License)
+lxc/lxd-pkg-ubuntu 3.21 : Apache License 2.0
 lz4 1.8.0 : BSD 3-clause "New" or "Revised" License
 mattn-go-runewidth 0.0.4 : MIT License
 meck 0.8.5 : Apache License 2.0
@@ -268,7 +267,6 @@ tdewolff-parse v1.1.0 : MIT License
 tdewolff-strconv 20171112-snapshot-8fc9bd05 : MIT License
 tinylib-msgp 20181103-snapshot : MIT License
 tpcds 1.2 : Apache License 2.0
-tracymacding/goleveldb 20160629-snapshot-ab8b5dcf : BSD 2-clause "Simplified" License
 willf/bitset v1.0.0 : BSD 3-clause "New" or "Revised" License
 willf/bitset v1.1.10 : BSD 3-clause "New" or "Revised" License
 yaml for Go v2.2.2 : (MIT License AND Apache License 2.0)
@@ -277,7 +275,7 @@ zlib 1.2.11 : zlib License
 Licenses: 
 
 Apache License 2.0
-(AWS SDK for Go 20210607-snapshot, AWS SDK for Go v1.33.10, AWS SDK for Go v1.34.20, AWS SDK for Ruby v2.11.582, Apache Commons Codec 1.15, Apache Commons Collections 4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.9, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.14, Apache Log4j 2.14.1, Apache Log4j JUL Adapter 2.14.1, Apache Log4j Web Adapters 2.14.1, Commons IO 2.8.0, Couchbase 6.6.3, Couchbase JVM Core IO 1.7.20, FlatBuffers 1.5.0, FlatBuffers v1.10.0, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 30.1-jre, Log4J API 2.14.1, Log4J Commons Logging 2.14.1, Netty Project 4.1.63.Final, Netty/Codec/Redis 4.1.48.Final, Netty/Codec/SMTP 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.39.Final, Netty/Transport/Native/KQueue 4.1.63.Final-redhat-00001, Netty/Transport/Native/Unix/Common 4.1.63.Final-redhat-00001, OpenTracing API 0.31.0, RxJava 1.3.8, SLF4J Binding 2.14.1, [ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-core 0.3.5, algebricks-data 0.3.5, algebricks-rewriter 0.3.2, algebricks-rewriter 0.3.5, algebricks-runtime 0.3.4.1, algebricks-runtime 0.3.5, asterix-active 0.9.7, asterix-algebra 0.9.4.1, asterix-app 0.9.4.1, asterix-app 0.9.6, asterix-common 0.9.4.1, asterix-common 0.9.5, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-common 0.9.5, asterix-lang-sqlpp 0.9.4.1, asterix-lang-sqlpp 0.9.5, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-om 0.9.5, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-runtime 0.9.6, asterix-transactions 0.9.6, blevesearch-segment v0.8.0, blevesearch/bleve-mapping-ui v0.3.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, couchbase platform v6.6.1, couchbase-cbgt v1.0.0, couchbase-goutils 0, couchbase-goxdcr v6.5.1, couchbase/gocbcore v9.0.7, couchbaselabs/bleve 20171012-snapshot-3b2bc30b, couchbaselabs/bleve v0.8.0, couchbaselabs/bleve v1.0.7, couchbaselabs/gocbconnstr v1.0.4, couchbaselabs/vellum v1.0.2, erlang-otp OTP-20.3.8.11, error-prone annotations 2.3.4, fastutil 8.3.0, flatbuffers-java 1.6.0.3, folly v2019.08.12.00, folsom 0.8.1, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-aws-aws-sdk-go 1.34.22, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, goskiplist 20170622-snapshot, grpc 1.12.0, grpc-go v1.24.0, hyracks-api 0.3.4.1, hyracks-api 0.3.6, hyracks-client 0.3.5, hyracks-comm 0.3.6, hyracks-control-cc 0.3.4.1, hyracks-control-cc 0.3.6, hyracks-control-common 0.3.4.1, hyracks-control-common 0.3.6, hyracks-control-nc 0.3.4.1, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-data-std 0.3.4.1, hyracks-data-std 0.3.6, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-dataflow-std 0.3.6, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-ipc 0.3.6, hyracks-net 0.3.4, hyracks-net 0.3.6, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-rtree 0.3.7, hyracks-storage-common 0.3.4.1, hyracks-storage-common 0.3.6, hyracks-util 0.3.4.1, hyracks-util 0.3.7, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, inconshreveable/mousetrap 20200811-snapshot, jackson-annotations jackson-annotations-2.12.3, jackson-core 2.12.3, jackson-databind 2.12.3, jmespath-go-jmespath c2b33e84, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, meck 0.8.5, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, rebar 2.5.1, rebar 2.6.0, snappy-java 1.1.7.1, spf13-cobra 0.0.5, spf13-cobra 0.0~git20161229.0.1dd5ff2, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2, yaml for Go v2.2.2)
+(AWS SDK for Go 20210607-snapshot, AWS SDK for Go v1.33.10, AWS SDK for Go v1.34.20, Apache Commons Codec 1.15, Apache Commons Collections 4.4, Apache Commons Compress 1.20, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.9, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.14, Apache Log4j 2.14.1, Apache Log4j JUL Adapter 2.14.1, Apache Log4j Web Adapters 2.14.1, Commons IO 2.8.0, Couchbase 6.6.3, Couchbase JVM Core IO 1.7.20, FlatBuffers 1.5.0, FlatBuffers v1.10.0, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava: Google Core Libraries for Java 30.1-jre, Log4J API 2.14.1, Log4J Commons Logging 2.14.1, Netty Project 4.1.63.Final, Netty/Codec/Redis 4.1.48.Final, Netty/Codec/SMTP 4.1.48.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.39.Final, Netty/Transport/Native/KQueue 4.1.63.Final-redhat-00001, Netty/Transport/Native/Unix/Common 4.1.63.Final-redhat-00001, OpenTracing API 0.31.0, RxJava 1.3.8, SLF4J Binding 2.14.1, [ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-compiler 0.3.4.1, algebricks-core 0.3.4.1, algebricks-core 0.3.5, algebricks-data 0.3.5, algebricks-rewriter 0.3.2, algebricks-rewriter 0.3.5, algebricks-runtime 0.3.4.1, algebricks-runtime 0.3.5, asterix-active 0.9.7, asterix-algebra 0.9.4.1, asterix-app 0.9.4.1, asterix-app 0.9.6, asterix-common 0.9.4.1, asterix-common 0.9.5, asterix-external-data 0.9.4.1, asterix-lang-aql 0.9.4.1, asterix-lang-common 0.9.4.1, asterix-lang-common 0.9.5, asterix-lang-sqlpp 0.9.4.1, asterix-lang-sqlpp 0.9.5, asterix-metadata 0.9.4.1, asterix-om 0.9.4.1, asterix-om 0.9.5, asterix-replication 0.9.4.1, asterix-runtime 0.9.4.1, asterix-runtime 0.9.6, asterix-transactions 0.9.6, blevesearch-segment v0.8.0, blevesearch/bleve-mapping-ui v0.3.0, blevesearch/snowballstem 20180110-snapshot-26b06a2c, com.conversantmedia:disruptor 1.2.15, couchbase platform v6.6.1, couchbase-cbgt v1.0.0, couchbase-goutils 0, couchbase-goxdcr v6.5.1, couchbase/gocbcore v9.0.7, couchbaselabs/bleve 20171012-snapshot-3b2bc30b, couchbaselabs/bleve v0.8.0, couchbaselabs/bleve v1.0.7, couchbaselabs/gocbconnstr v1.0.4, couchbaselabs/vellum v1.0.2, erlang-otp OTP-20.3.8.11, error-prone annotations 2.3.4, fastutil 8.3.0, flatbuffers-java 1.6.0.3, folly v2019.08.12.00, forestdb v1.2, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, golang-github-aws-aws-sdk-go 1.34.22, golang-github-couchbase-moss 0.0~git20170914.0.07c86e8, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang-google-grpc 1.27.1, goskiplist 20170622-snapshot, grpc 1.12.0, hyracks-api 0.3.4.1, hyracks-api 0.3.6, hyracks-client 0.3.5, hyracks-comm 0.3.6, hyracks-control-cc 0.3.4.1, hyracks-control-cc 0.3.6, hyracks-control-common 0.3.4.1, hyracks-control-common 0.3.6, hyracks-control-nc 0.3.4.1, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-data-std 0.3.4.1, hyracks-data-std 0.3.6, hyracks-dataflow-common 0.3.4.1, hyracks-dataflow-std 0.3.4.1, hyracks-dataflow-std 0.3.6, hyracks-http 0.3.4.1, hyracks-ipc 0.3.4.1, hyracks-ipc 0.3.6, hyracks-net 0.3.4, hyracks-net 0.3.6, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-btree 0.3.4.1, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-common 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.4.1, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-common 0.3.4.1, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-rtree 0.3.7, hyracks-storage-common 0.3.4.1, hyracks-storage-common 0.3.6, hyracks-util 0.3.4.1, hyracks-util 0.3.7, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, inconshreveable/mousetrap 20200811-snapshot, jackson-annotations jackson-annotations-2.12.3, jackson-core 2.12.3, jackson-databind 2.12.3, jmespath-go-jmespath c2b33e84, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 2.10.6, lxc/lxd-pkg-ubuntu 3.21, meck 0.8.5, opentracing-cpp v1.5.1, opentracing-opentracing-go v1.0.2, rebar 2.5.1, rebar 2.6.0, snappy-java 1.1.7.1, spf13-cobra 0.0.5, spf13-cobra 0.0~git20161229.0.1dd5ff2, spf13-cobra 20180519-snapshot-16c014f1, tpcds 1.2, yaml for Go v2.2.2)
 
 Apache License
 Version 2.0, January 2004
@@ -671,36 +669,6 @@ THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 2-clause "Simplified" License
-(tracymacding/goleveldb 20160629-snapshot-ab8b5dcf)
-
-Copyright 2012 Suryandaru Triandana <syndtr@gmail.com>
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in the
-documentation and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 2-clause "Simplified" License
 (goleveldb 0+git20160825.6ae1797)
 
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
@@ -918,7 +886,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(go.googlesource.com/tools 20181129-snapshot-e21233ff, golang-golangorg-crypto-devel 0, golang-x-text-dev 0.3.0, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180502-snapshot-faadfbdc, golang.org/x/crypto 20180513-snapshot-bd6f299f, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180925-snapshot, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181226-snapshot-927f9776, golang.org/x/net 20190327-snapshot-e3b2ff56, golang.org/x/text 20180110-snapshot)
+(go.googlesource.com/tools 20181129-snapshot-e21233ff, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180502-snapshot-faadfbdc, golang.org/x/crypto 20180513-snapshot-bd6f299f, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180925-snapshot, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181226-snapshot-927f9776, golang.org/x/net 20190327-snapshot-e3b2ff56, golang.org/x/text 20180110-snapshot, golang/net 1.5.2+git20151229.0cb26f7)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -1017,7 +985,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(edsrzf/mmap-go master-20160511, edsrzf/mmap-go v1.0.0)
+(edsrzf/mmap-go v1.0.0)
 
 Copyright (c) 2011, Evan Shaw <edsrzf@gmail.com>
 All rights reserved.
@@ -1814,6 +1782,35 @@ this Software without prior written authorization of the copyright holder.
 
 ---
 
+Expat License
+(Gitaly v13.7.5)
+
+Expat License
+=============
+
+Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd
+                               and Clark Cooper
+Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
 GNU General Public License v2.0 w/Classpath exception
 (OpenJDK 11.0.11+9)
 
@@ -2176,7 +2173,7 @@ distributing those programs directly.
 ---
 
 GNU General Public License v3.0 or later
-(Readline 7.0)
+(BouncyCastle 1.2.0.3-jre17-rc1, Readline 7.0)
 
 GNU GENERAL PUBLIC LICENSE
 ==========================
@@ -4977,7 +4974,7 @@ SOFTWARE
 ---
 
 MIT License
-(Bouncy Castle 1.68, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.68, SLF4J API Module 1.7.25, erlang-erlydtl 0.7.0, erlang-rebar 2.1.0, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-ole-go-ole v1.2.0, sbinet liner master-20150202)
+(Bouncy Castle 1.68, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.68, SLF4J API Module 1.7.25, erlang-erlydtl 0.7.0, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-ole-go-ole v1.2.0, sbinet liner master-20150202)
 
 The MIT License
 ===============
