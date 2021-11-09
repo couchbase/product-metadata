@@ -64,7 +64,6 @@ Azure/go-amqp v0.13.12 : MIT License
 Boost C++ Libraries - boost 1.74.0.2 : Boost Software License 1.0
 Bouncy Castle 1.68 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.68 : MIT License
-BouncyCastle 1.2.0.3-jre17-rc1 : GNU General Public License v3.0 or later
 Brave Instrumentation: Http Adapters 5.13.3 : Apache License 2.0
 Brave instrumentation for Reactor Netty HTTP 1.0.7 : Apache License 2.0
 Breakpad r835 : BSD 3-clause "New" or "Revised" License
@@ -328,6 +327,7 @@ code.googlesource.com/google-api-go-client v0.7.0 : BSD 3-clause "New" or "Revis
 code.googlesource.com/google-api-go-client v0.8.0 : BSD 3-clause "New" or "Revised" License
 code.googlesource.com/google-api-go-client v0.9.0 : BSD 3-clause "New" or "Revised" License
 com.conversantmedia:disruptor 1.2.15 : Apache License 2.0
+com.guicedee.services:bouncycastle 1.2.0.3-jre17-rc1 : GNU General Public License v3.0 or later
 config-chain 1.1.12 : MIT License
 containerd/cgroups 20190919-snapshot-bf292b21 : Apache License 2.0
 containerd/console 20180822-snapshot-c12b1e79 : Apache License 2.0
@@ -5074,7 +5074,7 @@ distributing those programs directly.
 ---
 
 GNU General Public License v3.0 or later
-(BouncyCastle 1.2.0.3-jre17-rc1, GMP 6.2.1, libgcc-ng 11.2.0, libgomp 11.2.0)
+(GMP 6.2.1, com.guicedee.services:bouncycastle 1.2.0.3-jre17-rc1, libgcc-ng 11.2.0, libgomp 11.2.0)
 
 GNU GENERAL PUBLIC LICENSE
 ==========================
