@@ -5,8 +5,8 @@ Copyright 2021
 
 Components: 
 
-Go Testify 1.2.2+git20181212.5b93e2d : Expat License
 Go Testify 20181108-snapshot : MIT License
+Go Testify 20181122-snapshot-8019298d : MIT License
 Go Testify v1.2.2 : MIT License
 Go Testify v1.3.0 : MIT License
 Go Testify v1.4.0 : Apache License 2.0
@@ -32,6 +32,7 @@ chzyer/test 20190214-snapshot-a1ea475d : MIT License
 client_golang v0.9.1 : Apache License 2.0
 client_golang v1.0.0 : Apache License 2.0
 client_golang v1.7.1 : Apache License 2.0
+client_golang v1.8.0 : Apache License 2.0
 coreos-go-oidc v2.2.1 : Apache License 2.0
 coreos-pkg 2 : Apache License 2.0
 errwrap v1.0.0 : Mozilla Public License 2.0
@@ -39,15 +40,14 @@ felixge/fgprof v0.9.1 : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
 go-check-check 20171108-snapshot-20d25e28 : BSD 2-clause "Simplified" License
 go-check-check 20190902-snapshot-41f04d3b : BSD 2-clause "Simplified" License
-go-jose v2.2.0 : Apache License 2.0
-go-jose v2.4.1 : Apache License 2.0
+go-jose 20191028-snapshot : Apache License 2.0
 go-kit-kit v0.8.0 : MIT License
 go-kit-kit v0.9.0 : MIT License
 go-logfmt-logfmt v0.3.0 : MIT License
 go-logfmt-logfmt v0.4.0 : MIT License
 go-metrics master-efc2659 : BSD 2-clause "Simplified" License
 go-ole-go-ole 20180311-snapshot-1a4e6872 : MIT License
-go-ole-go-ole 20181122-snapshot-ae2e2a20 : MIT License
+go-ole-go-ole 20180625-snapshot-7a0fa49e : MIT License
 go-ole-go-ole v1.2.1 : MIT License
 go-sourcemap/sourcemap 20190924-snapshot : BSD 2-clause "Simplified" License
 go-spew 20181108-snapshot-46e4c3ce : ISC License
@@ -62,6 +62,7 @@ go.googlesource.com/tools 20180907-snapshot-90fa682c : BSD 3-clause "New" or "Re
 golang protobuf 1.25.0+git20201208.160c747 : BSD 3-clause "New" or "Revised" License
 golang protobuf 1.4.2 : BSD 3-clause "New" or "Revised" License
 golang protobuf 20200220-snapshot-67d41d38 : BSD 3-clause "New" or "Revised" License
+golang protobuf 20200224-snapshot : BSD 3-clause "New" or "Revised" License
 golang protobuf 20200313-snapshot-b860323f : BSD 3-clause "New" or "Revised" License
 golang protobuf 20201016-snapshot : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.2.0 : BSD 3-clause "New" or "Revised" License
@@ -70,16 +71,18 @@ golang protobuf v1.3.2 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.4.0-rc.1 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.4.1 : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170620-snapshot : BSD 2-clause "Simplified" License
+golang-github-json-iterator-go-dev 1.1.10 : Expat License
 golang-github-pkg-errors 0.8.0+git20180311.816c908 : BSD 2-clause "Simplified" License
 golang-golang-x-oauth2 0.0~git20190604.0f29369 : BSD 3-clause "New" or "Revised" License
 golang-golang-x-text 0.3.4 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20160302-snapshot : BSD 3-clause "New" or "Revised" License
 golang-x-text-dev 0.3.4 : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto 20180605-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180704-snapshot : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto 20180718-snapshot-a2144134 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180724-snapshot-c126467f : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180925-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20190514-snapshot-22d7a77e : BSD 3-clause "New" or "Revised" License
+golang.org/x/net 20180620-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180724-snapshot-3673e40b : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180925-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20181114-snapshot-adae6a3d : BSD 3-clause "New" or "Revised" License
@@ -119,22 +122,21 @@ google/go-cmp v0.4.0 : BSD 3-clause "New" or "Revised" License
 google/go-cmp v0.5.0 : BSD 3-clause "New" or "Revised" License
 google/go-genproto 20200526-snapshot-cb27e3aa : Apache License 2.0
 google/pprof 0 : Apache License 2.0
-google/pprof 0.0~git20200905.acf8798 : Apache License 2.0
 google/pprof 20200615-snapshot-03e1cf38 : Apache License 2.0
 gopsutil v2.18.11 : BSD 3-clause "New" or "Revised" License
 gopsutil v2.18.12 : BSD 3-clause "New" or "Revised" License
 gorilla/context 20170307-snapshot : BSD 3-clause "New" or "Revised" License
 gorilla/mux 20170523-snapshot : BSD 3-clause "New" or "Revised" License
+gosigar v1.1.0 : Apache License 2.0
 hashicorp-go-multierror v1.1.0 : Mozilla Public License 2.0
 ianlancetaylor/demangle 20181102-snapshot-5e5cf602 : BSD 3-clause "New" or "Revised" License
 jonboulle-clockwork 20180214-snapshot-ed104f61 : Apache License 2.0
+jsoniter-go 20190912-snapshot : MIT License
 jsoniter-go v1.1.10 : MIT License
 jsoniter-go v1.1.6 : MIT License
-jsoniter-go v1.1.7 : MIT License
 julienschmidt/httprouter v1.2.0 : BSD 3-clause "New" or "Revised" License
 kardianos-osext 20160806-snapshot : BSD 3-clause "New" or "Revised" License
 kardianos-service 20171101-snapshot-5ab7ce2c : zlib License
-kardianos-service 20171117-snapshot-14a49b39 : zlib License
 kr/pretty 0.1.0 : MIT License
 logfmt 20140226-snapshot-b84e30ac : MIT License
 lxc/lxd-pkg-ubuntu 4.4 : Apache License 2.0
@@ -171,8 +173,8 @@ shirou/w32 20160930-snapshot-bb4de019 : BSD 3-clause "New" or "Revised" License
 stretchr/objx 20210115-snapshot : MIT License
 stretchr/objx v0.1.1 : MIT License
 sync_gateway 2.8.0 : Apache License 2.0
+wheelcomplex/gosigar 20180514-snapshot-37f05ff4 : Apache License 2.0
 wheelcomplex/gosigar v0.10.2 : Apache License 2.0
-wheelcomplex/gosigar v0.9.0 : Apache License 2.0
 yaml for Go v2.2.1 : Apache License 2.0
 yaml for Go v2.2.2 : (MIT License AND Apache License 2.0)
 yaml for Go v2.2.4 : Apache License 2.0
@@ -182,7 +184,7 @@ yaml for Go v2.3.0 : Apache License 2.0
 Licenses: 
 
 Apache License 2.0
-(Go Testify v1.4.0, Google Cloud Client Libraries for Go 20200910-snapshot, client_golang v0.9.1, client_golang v1.0.0, client_golang v1.7.1, coreos-go-oidc v2.2.1, coreos-pkg 2, go-jose v2.2.0, go-jose v2.4.1, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang/appengine v1.4.0, google-gofuzz v1.0.0, google/go-genproto 20200526-snapshot-cb27e3aa, google/pprof 0, google/pprof 0.0~git20200905.acf8798, google/pprof 20200615-snapshot-03e1cf38, jonboulle-clockwork 20180214-snapshot-ed104f61, lxc/lxd-pkg-ubuntu 4.4, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 1.0.0, modern-go/concurrent 20180228-snapshot-e0a39a4c, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/concurrent 20190822-snapshot, modern-go/reflect2 1.0.1, modern-go/reflect2 20180630-snapshot-4b7aa43c, mwitkow/go-conntrack 20161129-snapshot-cc309e4a, opentracing-opentracing-go 20201208-snapshot, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model 20180714-snapshot-5c3871d8, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs 20181009-snapshot-185b4288, prometheus-procfs 20200723-snapshot, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus/prometheus v2.20.0, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, wheelcomplex/gosigar v0.10.2, wheelcomplex/gosigar v0.9.0, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5, yaml for Go v2.3.0)
+(Go Testify v1.4.0, Google Cloud Client Libraries for Go 20200910-snapshot, client_golang v0.9.1, client_golang v1.0.0, client_golang v1.7.1, client_golang v1.8.0, coreos-go-oidc v2.2.1, coreos-pkg 2, go-jose 20191028-snapshot, go-systemd 10, go-systemd 20160707-snapshot, go-systemd 9, go-systemd v7, golang/appengine v1.4.0, google-gofuzz v1.0.0, google/go-genproto 20200526-snapshot-cb27e3aa, google/pprof 0, google/pprof 20200615-snapshot-03e1cf38, gosigar v1.1.0, jonboulle-clockwork 20180214-snapshot-ed104f61, lxc/lxd-pkg-ubuntu 4.4, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 1.0.0, modern-go/concurrent 20180228-snapshot-e0a39a4c, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/concurrent 20190822-snapshot, modern-go/reflect2 1.0.1, modern-go/reflect2 20180630-snapshot-4b7aa43c, mwitkow/go-conntrack 20161129-snapshot-cc309e4a, opentracing-opentracing-go 20201208-snapshot, pquerna/cachecontrol 0.0~git20171018.0dec1b3, pquerna/cachecontrol 20180711-snapshot-1555304b, prometheus-client_model 20180714-snapshot-5c3871d8, prometheus-client_model 20190204-snapshot-fd36f422, prometheus-client_model v0.2.0, prometheus-common v0.10.0, prometheus-common v0.11.1, prometheus-common v0.4.1, prometheus-procfs 20181009-snapshot-185b4288, prometheus-procfs 20200723-snapshot, prometheus-procfs v0.0.2, prometheus-procfs v0.1.3, prometheus/prometheus v2.20.0, sergi/go-diff 20180205-snapshot-da645544, sync_gateway 2.8.0, wheelcomplex/gosigar 20180514-snapshot-37f05ff4, wheelcomplex/gosigar v0.10.2, yaml for Go v2.2.1, yaml for Go v2.2.2, yaml for Go v2.2.4, yaml for Go v2.2.5, yaml for Go v2.3.0)
 
 Apache License
 Version 2.0, January 2004
@@ -590,7 +592,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180718-snapshot-a2144134, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190108-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text v0.3.0, golang/net 1.11+git20190403.48a9fcb)
+(golang.org/x/crypto 20180605-snapshot, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180620-snapshot, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190108-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text v0.3.0, golang/net 1.11+git20190403.48a9fcb)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -913,7 +915,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang protobuf 1.4.2, golang protobuf 20201016-snapshot, golang protobuf v1.2.0, golang protobuf v1.3.1, golang protobuf v1.3.2, golang protobuf v1.4.0-rc.1, golang protobuf v1.4.1)
+(golang protobuf 1.4.2, golang protobuf 20200224-snapshot, golang protobuf 20201016-snapshot, golang protobuf v1.2.0, golang protobuf v1.3.1, golang protobuf v1.3.2, golang protobuf v1.4.0-rc.1, golang protobuf v1.4.1)
 
 Copyright 2010 The Go Authors.  All rights reserved.
 
@@ -1194,7 +1196,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 Expat License
-(Go Testify 1.2.2+git20181212.5b93e2d)
+(golang-github-json-iterator-go-dev 1.1.10)
 
 Expat License
 =============
@@ -1595,7 +1597,7 @@ SOFTWARE
 ---
 
 MIT License
-(jsoniter-go v1.1.10, jsoniter-go v1.1.6, jsoniter-go v1.1.7)
+(jsoniter-go 20190912-snapshot, jsoniter-go v1.1.10, jsoniter-go v1.1.6)
 
 MIT License
 
@@ -1702,7 +1704,7 @@ SOFTWARE
 ---
 
 MIT License
-(Go Testify 20181108-snapshot, chzyer/test 20190214-snapshot-a1ea475d, stretchr/objx 20210115-snapshot)
+(Go Testify 20181108-snapshot, Go Testify 20181122-snapshot-8019298d, chzyer/test 20190214-snapshot-a1ea475d, stretchr/objx 20210115-snapshot)
 
 The MIT License
 ===============
@@ -1917,7 +1919,7 @@ SOFTWARE
 ---
 
 MIT License
-(go-ole-go-ole 20180311-snapshot-1a4e6872, go-ole-go-ole 20181122-snapshot-ae2e2a20, go-ole-go-ole v1.2.1)
+(go-ole-go-ole 20180311-snapshot-1a4e6872, go-ole-go-ole 20180625-snapshot-7a0fa49e, go-ole-go-ole v1.2.1)
 
 The MIT License (MIT)
 
@@ -2372,7 +2374,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 ---
 
 zlib License
-(kardianos-service 20171101-snapshot-5ab7ce2c, kardianos-service 20171117-snapshot-14a49b39)
+(kardianos-service 20171101-snapshot-5ab7ce2c)
 
 The zlib/libpng License
 =======================
