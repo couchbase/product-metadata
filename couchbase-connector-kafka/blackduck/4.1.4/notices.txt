@@ -5,25 +5,25 @@ Copyright 2021
 
 Components: 
 
-Couchbase JVM Core IO 2.2.3 : Apache License 2.0
+com.github.therapi:therapi-runtime-javadoc 0.12.0 : Apache License 2.0
 Couchbase Java DCP Client 0.37.0 : Apache License 2.0
 Couchbase Java SDK 3.2.3 : Apache License 2.0
+Couchbase JVM Core IO 2.2.3 : Apache License 2.0
 HdrHistogram 2.1.12 : (BSD 2-clause "Simplified" License AND Creative Commons Public Domain Dedication and Certification)
+jsoup 1.14.2 : MIT License
 LatencyUtils 2.0.3 : (BSD 2-clause "Simplified" License AND Creative Commons Public Domain Dedication and Certification)
 Metrics Core 4.0.7 : Apache License 2.0
 Metrics Integration with JMX 4.0.7 : Apache License 2.0
-Reactor Core 3.4.6 : Apache License 2.0
-SLF4J API Module 1.7.30 : MIT License
-com.github.therapi:therapi-runtime-javadoc 0.12.0 : Apache License 2.0
-jsoup 1.14.2 : MIT License
 micrometer-core 1.5.5 : Apache License 2.0
 micrometer-registry-jmx 1.5.5 : Apache License 2.0
 reactive-streams v1.0.3 : Creative Commons Zero v1.0 Universal
+Reactor Core 3.4.6 : Apache License 2.0
+SLF4J API Module 1.7.30 : MIT License
 
 Licenses: 
 
 Apache License 2.0
-(Couchbase JVM Core IO 2.2.3, Couchbase Java DCP Client 0.37.0, Couchbase Java SDK 3.2.3, Metrics Core 4.0.7, Metrics Integration with JMX 4.0.7, Reactor Core 3.4.6, com.github.therapi:therapi-runtime-javadoc 0.12.0, micrometer-core 1.5.5, micrometer-registry-jmx 1.5.5)
+(com.github.therapi:therapi-runtime-javadoc 0.12.0, Couchbase Java DCP Client 0.37.0, Couchbase Java SDK 3.2.3, Couchbase JVM Core IO 2.2.3, Metrics Core 4.0.7, Metrics Integration with JMX 4.0.7, micrometer-core 1.5.5, micrometer-registry-jmx 1.5.5, Reactor Core 3.4.6)
 
 Apache License
 Version 2.0, January 2004
@@ -432,7 +432,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 MIT License
-(SLF4J API Module 1.7.30, jsoup 1.14.2)
+(jsoup 1.14.2, SLF4J API Module 1.7.30)
 
 The MIT License
 ===============
