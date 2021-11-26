@@ -5,39 +5,26 @@ Copyright 2021
 
 Components: 
 
-Cats core 2.6.1 : MIT License
-Cats kernel 2.6.1 : MIT License
-HdrHistogram 2.1.8 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
-Jackson-Datatype-JSR310 2.10.5 : Apache License 2.0
-Jackson-datatype-jdk8 2.10.5 : Apache License 2.0
-Jackson-module-Afterburner 2.12.5 : Apache License 2.0
-Java Concurrency Tools Core Library 3.3.0 : Apache License 2.0
-LatencyUtils 2.0.3 : (BSD 2-clause "Simplified" License AND Creative Commons Public Domain Dedication and Certification)
-Netty Project 4.1.70.Final : Apache License 2.0
-Netty/TomcatNative [BoringSSL - Static] 2.0.45.Final : Apache License 2.0
-Netty/Transport/Classes/Epoll 4.1.70.Final : Apache License 2.0
-Netty/Transport/Classes/KQueue 4.1.70.Final : Apache License 2.0
-Netty/Transport/Native/KQueue 4.1.70.Final : Apache License 2.0
-Netty/Transport/Native/Unix/Common 4.1.70.Final : Apache License 2.0
-ParaNamer Core 2.8 : BSD 3-clause "New" or "Revised" License
-Reactor Core 3.4.11 : Apache License 2.0
-Reactor Core 3.4.12 : Apache License 2.0
-Scala v2.12.10 : Apache License 2.0
-Scala v2.12.14 : Apache License 2.0
-Scala wrapper for reactor-core 0.8.0 : Apache License 2.0
 annotation 0.5.4 : Apache License 2.0
 ast 1.2.0 : MIT License
+Cats core 2.6.1 : MIT License
+Cats kernel 2.6.1 : MIT License
 core 0.14.1 : Apache License 2.0
 core 2.3.7 : Apache License 2.0
 generic 0.14.1 : Apache License 2.0
 geny 0.6.10 : MIT License
+HdrHistogram 2.1.8 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
 jackson-annotations 2.10.5 : Apache License 2.0
 jackson-annotations 2.12.5 : Apache License 2.0
 jackson-core 2.10.5 : Apache License 2.0
 jackson-core 2.12.5 : Apache License 2.0
 jackson-databind 2.12.5 : Apache License 2.0
 jackson-databind 2.9.10.8 : Apache License 2.0
+Jackson-datatype-jdk8 2.10.5 : Apache License 2.0
+Jackson-Datatype-JSR310 2.10.5 : Apache License 2.0
+Jackson-module-Afterburner 2.12.5 : Apache License 2.0
 jackson-module-scala 2.12.5 : Apache License 2.0
+Java Concurrency Tools Core Library 3.3.0 : Apache License 2.0
 jawn 0.14.1 : Apache License 2.0
 json iterator 0.9.23 : MIT License
 json4s-ast 3.6.11 : Apache License 2.0
@@ -47,12 +34,25 @@ json4s-native 3.6.11 : Apache License 2.0
 json4s-scalap 3.6.11 : Apache License 2.0
 jsoniter-scala-core 2.10.2 : MIT License
 jsoniter-scala-macros 2.10.2 : MIT License
+LatencyUtils 2.0.3 : (BSD 2-clause "Simplified" License AND Creative Commons Public Domain Dedication and Certification)
+Netty Project 4.1.70.Final : Apache License 2.0
+Netty/TomcatNative [BoringSSL - Static] 2.0.45.Final : Apache License 2.0
+Netty/Transport/Classes/Epoll 4.1.70.Final : Apache License 2.0
+Netty/Transport/Classes/KQueue 4.1.70.Final : Apache License 2.0
+Netty/Transport/Native/KQueue 4.1.70.Final : Apache License 2.0
+Netty/Transport/Native/Unix/Common 4.1.70.Final : Apache License 2.0
 numbers 0.14.1 : Apache License 2.0
+ParaNamer Core 2.8 : BSD 3-clause "New" or "Revised" License
 parser 0.14.1 : Apache License 2.0
 parser 1.2.0 : MIT License
 play-functional 2.9.2 : Apache License 2.0
 play-json 2.9.2 : Apache License 2.0
 reactive-streams v1.0.3 : Creative Commons Zero v1.0 Universal
+Reactor Core 3.4.11 : Apache License 2.0
+Reactor Core 3.4.12 : Apache License 2.0
+Scala v2.12.10 : Apache License 2.0
+Scala v2.12.14 : Apache License 2.0
+Scala wrapper for reactor-core 0.8.0 : Apache License 2.0
 scala-collection-compat 2.5.0 : Apache License 2.0
 scala-compiler 2.12.14 : Apache License 2.0
 scala-java8-compat 1.0.1 : Apache License 2.0
@@ -68,7 +68,7 @@ util 1.2.0 : MIT License
 Licenses: 
 
 Apache License 2.0
-(Jackson-Datatype-JSR310 2.10.5, Jackson-datatype-jdk8 2.10.5, Jackson-module-Afterburner 2.12.5, Java Concurrency Tools Core Library 3.3.0, Netty Project 4.1.70.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.45.Final, Netty/Transport/Classes/Epoll 4.1.70.Final, Netty/Transport/Classes/KQueue 4.1.70.Final, Netty/Transport/Native/KQueue 4.1.70.Final, Netty/Transport/Native/Unix/Common 4.1.70.Final, Reactor Core 3.4.11, Reactor Core 3.4.12, Scala v2.12.10, Scala v2.12.14, Scala wrapper for reactor-core 0.8.0, annotation 0.5.4, core 0.14.1, core 2.3.7, generic 0.14.1, jackson-annotations 2.10.5, jackson-annotations 2.12.5, jackson-core 2.10.5, jackson-core 2.12.5, jackson-databind 2.12.5, jackson-databind 2.9.10.8, jackson-module-scala 2.12.5, jawn 0.14.1, json4s-ast 3.6.11, json4s-core 3.6.11, json4s-jackson 3.6.11, json4s-native 3.6.11, json4s-scalap 3.6.11, numbers 0.14.1, parser 0.14.1, play-functional 2.9.2, play-json 2.9.2, scala-collection-compat 2.5.0, scala-compiler 2.12.14, scala-java8-compat 1.0.1, snappy 0.4)
+(annotation 0.5.4, core 0.14.1, core 2.3.7, generic 0.14.1, jackson-annotations 2.10.5, jackson-annotations 2.12.5, jackson-core 2.10.5, jackson-core 2.12.5, jackson-databind 2.12.5, jackson-databind 2.9.10.8, Jackson-datatype-jdk8 2.10.5, Jackson-Datatype-JSR310 2.10.5, Jackson-module-Afterburner 2.12.5, jackson-module-scala 2.12.5, Java Concurrency Tools Core Library 3.3.0, jawn 0.14.1, json4s-ast 3.6.11, json4s-core 3.6.11, json4s-jackson 3.6.11, json4s-native 3.6.11, json4s-scalap 3.6.11, Netty Project 4.1.70.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.45.Final, Netty/Transport/Classes/Epoll 4.1.70.Final, Netty/Transport/Classes/KQueue 4.1.70.Final, Netty/Transport/Native/KQueue 4.1.70.Final, Netty/Transport/Native/Unix/Common 4.1.70.Final, numbers 0.14.1, parser 0.14.1, play-functional 2.9.2, play-json 2.9.2, Reactor Core 3.4.11, Reactor Core 3.4.12, Scala v2.12.10, Scala v2.12.14, Scala wrapper for reactor-core 0.8.0, scala-collection-compat 2.5.0, scala-compiler 2.12.14, scala-java8-compat 1.0.1, snappy 0.4)
 
 Apache License
 Version 2.0, January 2004
@@ -582,7 +582,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 MIT License
-(Cats core 2.6.1, Cats kernel 2.6.1, ast 1.2.0, geny 0.6.10, json iterator 0.9.23, jsoniter-scala-core 2.10.2, jsoniter-scala-macros 2.10.2, parser 1.2.0, ujson_2.12 1.4.2, upack_2.12 1.4.2, upickle 1.4.2, upickle-core_2.12 1.4.2, upickle-implicits_2.12 1.4.2, util 1.2.0)
+(ast 1.2.0, Cats core 2.6.1, Cats kernel 2.6.1, geny 0.6.10, json iterator 0.9.23, jsoniter-scala-core 2.10.2, jsoniter-scala-macros 2.10.2, parser 1.2.0, ujson_2.12 1.4.2, upack_2.12 1.4.2, upickle 1.4.2, upickle-core_2.12 1.4.2, upickle-implicits_2.12 1.4.2, util 1.2.0)
 
 The MIT License
 ===============
