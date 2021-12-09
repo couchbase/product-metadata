@@ -11,16 +11,25 @@ Apache HttpComponents Core 4.4.14 : Apache License 2.0
 commons-codec 1.11 : Apache License 2.0
 Couchbase Java SDK 3.2.3 : Apache License 2.0
 Couchbase JVM Core IO 2.2.3 : Apache License 2.0
+HdrHistogram 2.1.8 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
 jackson-annotations 2.12.4.redhat-00001 : Apache License 2.0
 jackson-core 2.12.4 : Apache License 2.0
 jackson-databind 2.12.4 : Apache License 2.0
+Jackson-module-Afterburner 2.12.4 : Apache License 2.0
+Java Concurrency Tools Core Library 3.3.0 : Apache License 2.0
+LatencyUtils 2.0.3 : (BSD 2-clause "Simplified" License AND Creative Commons Public Domain Dedication and Certification)
+Netty Project 4.1.67.Final : Apache License 2.0
+Netty/TomcatNative [BoringSSL - Static] 2.0.40.Final : Apache License 2.0
+Netty/Transport/Native/KQueue 4.1.67.Final : Apache License 2.0
+Netty/Transport/Native/Unix/Common 4.1.67.Final : Apache License 2.0
 reactive-streams v1.0.3 : Creative Commons Zero v1.0 Universal
 Reactor Core 3.4.9 : Apache License 2.0
+snappy 0.4 : Apache License 2.0
 
 Licenses: 
 
 Apache License 2.0
-(Apache Commons Logging 1.2, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.14, commons-codec 1.11, Couchbase Java SDK 3.2.3, Couchbase JVM Core IO 2.2.3, jackson-annotations 2.12.4.redhat-00001, jackson-core 2.12.4, jackson-databind 2.12.4, Reactor Core 3.4.9)
+(Apache Commons Logging 1.2, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.14, commons-codec 1.11, Couchbase Java SDK 3.2.3, Couchbase JVM Core IO 2.2.3, jackson-annotations 2.12.4.redhat-00001, jackson-core 2.12.4, jackson-databind 2.12.4, Jackson-module-Afterburner 2.12.4, Java Concurrency Tools Core Library 3.3.0, Netty Project 4.1.67.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.40.Final, Netty/Transport/Native/KQueue 4.1.67.Final, Netty/Transport/Native/Unix/Common 4.1.67.Final, Reactor Core 3.4.9, snappy 0.4)
 
 Apache License
 Version 2.0, January 2004
@@ -206,8 +215,113 @@ third-party archives.
 
 ---
 
+BSD 2-clause "Simplified" License
+(HdrHistogram 2.1.8)
+
+-----------------------------------------------------------------------------
+** Beginning of "BSD 2-Clause License" text. **
+
+ Copyright (c) 2012, 2013, 2014 Gil Tene
+ Copyright (c) 2014 Michael Barker
+ Copyright (c) 2014 Matt Warren
+ All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+
+ 1. Redistributions of source code must retain the above copyright notice,
+    this list of conditions and the following disclaimer.
+
+ 2. Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+ LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+ CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+ SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+ THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 2-clause "Simplified" License
+(LatencyUtils 2.0.3)
+
+BSD Two Clause License
+======================
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  1. Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  2. Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+---
+
+Creative Commons Public Domain Dedication and Certification
+(LatencyUtils 2.0.3)
+
+Creative Commons Public Domain Dedication
+=========================================
+
+Copyright-Only Dedication (based on United States law) or Public Domain
+Certification
+
+The person or persons who have associated work with this document (the
+"Dedicator" or "Certifier") hereby either
+
+  a.  certifies that, to the best of his knowledge, the work of authorship
+    identified is in the public domain of the country from which the work is
+    published, or
+
+  b.  hereby dedicates whatever copyright the dedicators holds in the work of
+    authorship identified below (the "Work") to the public domain.
+
+A certifier, moreover, dedicates any copyright interest he may have in the
+associated work, and for these purposes, is described as a "dedicator" below.
+
+A certifier has taken reasonable steps to verify the copyright status of this
+work. Certifier recognizes that his good faith efforts may not shield him from
+liability if in fact the work certified is not in the public domain.
+
+Dedicator makes this dedication for the benefit of the public at large and to the
+detriment of the Dedicator's heirs and successors. Dedicator intends this
+dedication to be an overt act of relinquishment in perpetuity of all present and
+future rights under copyright law, whether vested or contingent, in the Work.
+Dedicator understands that such relinquishment of all rights includes the
+relinquishment of all rights to enforce (by lawsuit or otherwise) those
+copyrights in the Work.
+
+Dedicator recognizes that, once placed in the public domain, the Work may be
+freely reproduced, distributed, transmitted, used, modified, built upon, or
+otherwise exploited by anyone for any purpose, commercial or non-commercial, and
+in any way, including by methods that have not yet been invented or conceived.
+
+---
+
 Creative Commons Zero v1.0 Universal
-(reactive-streams v1.0.3)
+(HdrHistogram 2.1.8, reactive-streams v1.0.3)
 
 Creative Commons CC0 1.0 Universal
 ==================================
@@ -355,4 +469,11 @@ case Affirmer hereby affirms that he or she will not
   d. Affirmer understands and acknowledges that Creative Commons is not a party
     to this document and has no duty or obligation with respect to this CC0 or
     use of the Work.
+
+---
+
+Public Domain
+(HdrHistogram 2.1.8)
+
+Public domain code is not subject to any license.
 
