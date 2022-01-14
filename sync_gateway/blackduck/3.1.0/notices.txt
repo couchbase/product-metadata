@@ -26,6 +26,8 @@ coreos-pkg 2 : Apache License 2.0
 felixge/fgprof v0.9.1 : MIT License
 felixge/fgprof v0.9.2 : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
+Go Logrus v1.2.0 : MIT License
+Go Logrus v1.4.2 : MIT License
 Go Testify 20181108-snapshot : MIT License
 Go Testify 20181122-snapshot-8019298d : MIT License
 Go Testify v1.2.2 : MIT License
@@ -165,8 +167,6 @@ robertkrimen/otto 20180907-snapshot-a813c59b : MIT License
 sergi/go-diff 20180205-snapshot-da645544 : (MIT License AND Apache License 2.0)
 shirou/w32 20160930-snapshot-bb4de019 : BSD 3-clause "New" or "Revised" License
 SILVER Wrapper 20171101-snapshot-e767f60a : MIT License
-Sirupsen/logrus v1.2.0 : MIT License
-Sirupsen/logrus v1.4.2 : MIT License
 StackExchange-wmi 1.0.0 : MIT License
 StackExchange-wmi 20180816-snapshot-b12b22c5 : MIT License
 stretchr/objx 20210115-snapshot : MIT License
@@ -591,7 +591,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang.org/x/crypto 20180605-snapshot, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180620-snapshot, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190108-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text v0.3.0, golang/net 1.11+git20190403.48a9fcb)
+(golang-golang-x-text 0.3.4, golang.org/x/crypto 20180605-snapshot, golang.org/x/crypto 20180704-snapshot, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20180925-snapshot, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180620-snapshot, golang.org/x/net 20180724-snapshot-3673e40b, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/net 20190108-snapshot, golang.org/x/oauth2 20210329-snapshot, golang.org/x/sys 20180811-snapshot-98c5dad5, golang.org/x/text v0.3.0, golang/net 1.11+git20190403.48a9fcb, golang/text v0.3.4)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -752,6 +752,40 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
+(mergo 0.3.12)
+
+Copyright (c) 2013 Dario Castañé. All rights reserved.
+Copyright (c) 2012 The Go Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+   * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+   * Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
 (julienschmidt/httprouter v1.2.0)
 
 Copyright (c) 2013 Julien Schmidt. All rights reserved.
@@ -847,7 +881,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(google.golang.org/protobuf v1.21.0, google.golang.org/protobuf v1.22.0, google.golang.org/protobuf v1.23.0)
+(golang protobuf 1.25.0+git20201208.160c747, google.golang.org/protobuf v1.21.0, google.golang.org/protobuf v1.22.0, google.golang.org/protobuf v1.23.0)
 
 Copyright (c) 2018 The Go Authors. All rights reserved.
 
@@ -880,7 +914,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(go.googlesource.com/tools 20180907-snapshot-90fa682c, golang protobuf 1.25.0+git20201208.160c747, golang protobuf 20200220-snapshot-67d41d38, golang protobuf 20200313-snapshot-b860323f, golang-golang-x-text 0.3.4, golang.org/x/net 20181114-snapshot-adae6a3d, golang.org/x/net 20181219-snapshot-1e06a53d, golang.org/x/net 20190613-snapshot-d28f0bde, golang.org/x/oauth2 20210329-snapshot, golang.org/x/sync 20180924-snapshot-37e7f081, golang.org/x/sync 20181107-snapshot-42b31787, golang.org/x/sync 20190830-snapshot-cd5d95a4, golang.org/x/sys 20180905-snapshot-ebe1bf3e, golang.org/x/sys 20181116-snapshot-5ac8a444, golang.org/x/sys 20190215-snapshot-d0b11bda, golang.org/x/sys 20191203-snapshot-ce4227a4, golang.org/x/sys 20200106-snapshot-b016eb3d, golang.org/x/sys 20200615-snapshot-f1bc7362, golang.org/x/text 20171230-snapshot, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.3.4, google.golang.org/protobuf 20200109-snapshot-ec00e32a, google.golang.org/protobuf 20200221-snapshot-4d8936d0, google.golang.org/protobuf 20200227-snapshot-ab0ca4ff, google.golang.org/protobuf 20200309-snapshot-e05f789c, google.golang.org/protobuf 20200522-snapshot-81db48ad, mergo 0.3.12)
+(go.googlesource.com/tools 20180907-snapshot-90fa682c, golang protobuf 20200220-snapshot-67d41d38, golang protobuf 20200313-snapshot-b860323f, golang.org/x/net 20181114-snapshot-adae6a3d, golang.org/x/net 20181219-snapshot-1e06a53d, golang.org/x/net 20190613-snapshot-d28f0bde, golang.org/x/sync 20180924-snapshot-37e7f081, golang.org/x/sync 20181107-snapshot-42b31787, golang.org/x/sync 20190830-snapshot-cd5d95a4, golang.org/x/sys 20180905-snapshot-ebe1bf3e, golang.org/x/sys 20181116-snapshot-5ac8a444, golang.org/x/sys 20190215-snapshot-d0b11bda, golang.org/x/sys 20191203-snapshot-ce4227a4, golang.org/x/sys 20200106-snapshot-b016eb3d, golang.org/x/sys 20200615-snapshot-f1bc7362, golang.org/x/text 20171230-snapshot, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, google.golang.org/protobuf 20200109-snapshot-ec00e32a, google.golang.org/protobuf 20200221-snapshot-4d8936d0, google.golang.org/protobuf 20200227-snapshot-ab0ca4ff, google.golang.org/protobuf 20200309-snapshot-e05f789c, google.golang.org/protobuf 20200522-snapshot-81db48ad)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1308,7 +1342,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(alecthomas-units 20151022-snapshot-2efee857, alecthomas-units 20190717-snapshot-c3de453c)
+(alecthomas-kingpin v2.2.6, alecthomas-units 20151022-snapshot-2efee857, alecthomas-units 20190717-snapshot-c3de453c)
 
 Copyright (C) 2014 Alec Thomas
 
@@ -1396,6 +1430,34 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
+(cespare/xxhash v2.1.1)
+
+Copyright (c) 2016 Caleb Spare
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (Go Testify v1.2.2)
 
 Files: *
@@ -1451,46 +1513,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
-
----
-
-MIT License
-(alecthomas-kingpin v2.2.6)
-
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: github.com/alecthomas/kingpin
-Upstream-Contact: Alec Thomas <alec@swapoff.org>
-Source: https://github.com/alecthomas/kingpin
-
-Files: *
-Copyright: 2014-2016 Alec Thomas <alec@swapoff.org>
-License: Expat
-
-Files: debian/*
-Copyright: 2016 Peter Colberg <peter@colberg.org>
-License: Expat
-Comment: Debian packaging is licensed under the same terms as upstream
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining
- a copy of this software and associated documentation files (the
- "Software"), to deal in the Software without restriction, including
- without limitation the rights to use, copy, modify, merge, publish,
- distribute, sublicense, and/or sell copies of the Software, and to
- permit persons to whom the Software is furnished to do so, subject to
- the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
- LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
- OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
- WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -1638,44 +1660,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(cespare/xxhash v2.1.1)
-
-Source: https://github.com/cespare/xxhash
-
-Files: *
-Copyright: 2016 Caleb Spare <cespare@gmail.com>
-License: Expat
-
-Files: debian/*
-Copyright: 2017 Alexandre Viau <aviau@debian.org>
-License: Expat
-Comment: Debian packaging is licensed under the same terms as upstream
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining
- a copy of this software and associated documentation files (the
- "Software"), to deal in the Software without restriction, including
- without limitation the rights to use, copy, modify, merge, publish,
- distribute, sublicense, and/or sell copies of the Software, and to
- permit persons to whom the Software is furnished to do so, subject to
- the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
- LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
- OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
- WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(stretchr/objx v0.1.1)
+(stretchr/objx 20210115-snapshot, stretchr/objx v0.1.1)
 
 The MIT License
 
@@ -1703,7 +1688,7 @@ SOFTWARE
 ---
 
 MIT License
-(chzyer/test 20190214-snapshot-a1ea475d, felixge/fgprof v0.9.2, Go Testify 20181108-snapshot, Go Testify 20181122-snapshot-8019298d, SILVER Wrapper 20171101-snapshot-e767f60a, stretchr/objx 20210115-snapshot)
+(felixge/fgprof v0.9.2, Go Testify 20181108-snapshot, Go Testify 20181122-snapshot-8019298d, SILVER Wrapper 20171101-snapshot-e767f60a)
 
 The MIT License
 ===============
@@ -1810,7 +1795,7 @@ SOFTWARE
 ---
 
 MIT License
-(Sirupsen/logrus v1.2.0, Sirupsen/logrus v1.4.2)
+(Go Logrus v1.2.0, Go Logrus v1.4.2)
 
 The MIT License (MIT)
 
@@ -1896,6 +1881,33 @@ MIT License
 The MIT License (MIT)
 
 Copyright (c) 2015 go-logfmt
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
+(chzyer/test 20190214-snapshot-a1ea475d)
+
+The MIT License (MIT)
+
+Copyright (c) 2016 chzyer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
