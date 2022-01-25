@@ -163,7 +163,7 @@ grpc 1.12.0 : Apache License 2.0
 grpc-go v1.24.0 : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1 : Apache License 2.0
 Guava: Google Core Libraries for Java 30.1-jre : Apache License 2.0
-HdrHistogram_c 0.9.2 : 
+HdrHistogram_c 0.9.2 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
 hyracks-api 0.3.4.1 : Apache License 2.0
 hyracks-api 0.3.6 : Apache License 2.0
 hyracks-client 0.3.5 : Apache License 2.0
@@ -1183,7 +1183,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(go-zookeeper 20150410-snapshot-fa6674ab, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/sys 20190812-snapshot-fde4db37, golang.org/x/text 20171230-snapshot, lz4 1.8.0, PCRE 8.43, willf/bitset 20210915-snapshot)
+(go-zookeeper 20150410-snapshot-fa6674ab, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/sys 20190812-snapshot-fde4db37, golang.org/x/text 20171230-snapshot, HdrHistogram_c 0.9.2, lz4 1.8.0, PCRE 8.43, willf/bitset 20210915-snapshot)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -5301,7 +5301,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 Public Domain
-(erlang-poolboy 1.5.1)
+(erlang-poolboy 1.5.1, HdrHistogram_c 0.9.2)
 
 Public domain code is not subject to any license.
 
