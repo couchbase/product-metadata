@@ -600,7 +600,7 @@ mattn-go-isatty v0.0.14 : MIT License
 mattn-go-runewidth 0.0.4 : MIT License
 mattn-go-runewidth v0.0.3 : MIT License
 mattn-go-sqlite3 v1.14.11 : MIT License
-mattn/go-ieproxy v0.0.3 : MIT License
+mattn/go-ieproxy v0.0.1 : MIT License
 matttproud-golang_protobuf_extensions v1.0.1 : Apache License 2.0
 meck 0.8.5 : Apache License 2.0
 Microsoft Azure client library for File Storage Data Lake 12.7.2 : MIT License
@@ -6163,6 +6163,35 @@ SOFTWARE
 ---
 
 MIT License
+(mattn/go-ieproxy v0.0.1)
+
+MIT License
+
+Copyright (c) 2014 mattn
+Copyright (c) 2017 oliverpool
+Copyright (c) 2019 Adele Reed
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
 (safer-buffer 2.1.2)
 
 MIT License
@@ -6508,7 +6537,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, armon-go-metrics v0.3.10, azure-identity 1.4.1, azure-storage-blob 12.14.3, Azure/azure-sdk-for-go v61.5.0, Azure/azure-storage-blob-go v0.14.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, BurntSushi/toml v1.0.0, charset-normalizer 2.0.10, Checker Qual 3.20.0, clipboard.js 1.5.16, couchbase-go-couchbase v0.1.1, couchbase-gomemcached v0.1.4, delegate 3.2.0, dominikh/go-tools v0.2.2, erlang-erlydtl 0.7.0, esbuild 0.13.13, fatih-color v1.13.0, foxcpp/go-mockdns v1.0.0, github.com/golang-jwt/jwt v4.3.0, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-jsonpointer 20140810-snapshot-75939f54, go-ole-go-ole v1.2.6, go-zap v1.21.0, go.uber.org/goleak v1.1.11, golang-github-youmark-pkcs8 1.1, good-listener 1.2.2, hashicorp/go-hclog v1.1.0, jsoniter-go 20171115-snapshot-f7279a60, jsoniter-go v1.1.12, libcxx 12.0.1, mapstructure v1.4.3, mattn-go-colorable v0.1.12, mattn-go-isatty v0.0.14, mattn-go-sqlite3 v1.14.11, mattn/go-ieproxy v0.0.3, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.11.0, msal4j-persistence-extension 1.1.0, ncurses 6.2.20211002, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, uber-go/atomic v1.9.0, urllib3 1.26.8, whitequark/ipaddr.js 2.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, armon-go-metrics v0.3.10, azure-identity 1.4.1, azure-storage-blob 12.14.3, Azure/azure-sdk-for-go v61.5.0, Azure/azure-storage-blob-go v0.14.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, BurntSushi/toml v1.0.0, charset-normalizer 2.0.10, Checker Qual 3.20.0, clipboard.js 1.5.16, couchbase-go-couchbase v0.1.1, couchbase-gomemcached v0.1.4, delegate 3.2.0, dominikh/go-tools v0.2.2, erlang-erlydtl 0.7.0, esbuild 0.13.13, fatih-color v1.13.0, foxcpp/go-mockdns v1.0.0, github.com/golang-jwt/jwt v4.3.0, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-jsonpointer 20140810-snapshot-75939f54, go-ole-go-ole v1.2.6, go-zap v1.21.0, go.uber.org/goleak v1.1.11, golang-github-youmark-pkcs8 1.1, good-listener 1.2.2, hashicorp/go-hclog v1.1.0, jsoniter-go 20171115-snapshot-f7279a60, jsoniter-go v1.1.12, libcxx 12.0.1, mapstructure v1.4.3, mattn-go-colorable v0.1.12, mattn-go-isatty v0.0.14, mattn-go-sqlite3 v1.14.11, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.11.0, msal4j-persistence-extension 1.1.0, ncurses 6.2.20211002, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, uber-go/atomic v1.9.0, urllib3 1.26.8, whitequark/ipaddr.js 2.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
 
 The MIT License
 ===============
