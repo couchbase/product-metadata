@@ -1075,6 +1075,10 @@ micromatch 3.1.10 : MIT License
 micromatch 4.0.4 : MIT License
 micromatch/braces 2.3.2 : MIT License
 micromatch/braces 3.0.2 : MIT License
+Microsoft/tslib 1.14.1 : BSD Zero Clause License
+Microsoft/tslib 2.1.0 : BSD Zero Clause License
+Microsoft/tslib 2.3.0 : BSD Zero Clause License
+Microsoft/tslib 2.3.1 : BSD Zero Clause License
 mikeal/aws-sign 0.7.0 : Apache License 2.0
 mikeal/oauth-sign 0.9.0 : Apache License 2.0
 mime 1.6.0 : MIT License
@@ -1216,7 +1220,7 @@ path-dirname 1.0.2 : MIT License
 path-exists 3.0.0 : MIT License
 path-exists 4.0.0 : MIT License
 path-is-absolute 1.0.1 : MIT License
-path-is-inside 1.0.2 : (MIT License OR Do What The F*ck You Want To Public License)
+path-is-inside 1.0.2 : MIT License
 path-key 2.0.1 : MIT License
 path-parse 1.0.7 : MIT License
 path-to-regexp 0.1.7 : MIT License
@@ -1493,10 +1497,6 @@ tough-cookie v2.5.0 : BSD 3-clause "New" or "Revised" License
 trace-event 1.0.3 : MIT License
 tree-kill v1.2.2 : MIT License
 ts-node 10.3.1 : MIT License
-tslib 1.14.1 : BSD Zero Clause License
-tslib 2.1.0 : BSD Zero Clause License
-tslib 2.3.0 : BSD Zero Clause License
-tslib 2.3.1 : BSD Zero Clause License
 tslint 6.1.3 : Apache License 2.0
 tsutils 2.29.0 : MIT License
 tweetnacl-js 0.14.5 : The Unlicense
@@ -3473,7 +3473,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD Zero Clause License
-(tslib 1.14.1, tslib 2.1.0, tslib 2.3.0, tslib 2.3.1)
+(Microsoft/tslib 1.14.1, Microsoft/tslib 2.1.0, Microsoft/tslib 2.3.0, Microsoft/tslib 2.3.1)
 
 BSD Zero Clause License
 =======================
@@ -3974,26 +3974,6 @@ case Affirmer hereby affirms that he or she will not
   d. Affirmer understands and acknowledges that Creative Commons is not a party
     to this document and has no duty or obligation with respect to this CC0 or
     use of the Work.
-
----
-
-Do What The F*ck You Want To Public License
-(path-is-inside 1.0.2)
-
-Do What You Want License
-========================
-
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-Version 2, December 2004
-
-Copyright (C) 2004 Sam Hocevar
-22 rue de Plaisance, 75014 Paris, France
-Everyone is permitted to copy and distribute verbatim or modified copies of this
-license document, and changing it is allowed as long as the name is changed.
-
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-0. You just DO WHAT THE FUCK YOU WANT TO.
 
 ---
 
@@ -8912,31 +8892,6 @@ IN THE SOFTWARE
 ---
 
 MIT License
-(GoDoc Text v0.2.0)
-
-Copyright 2012 Keith Rarick
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
 (convert-source-map 1.8.0)
 
 Copyright 2013 Thorsten Lorenz. 
@@ -9609,7 +9564,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(GoDoc Text v0.1.0)
+(GoDoc Text v0.1.0, GoDoc Text v0.2.0)
 
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: github.com/kr/text
@@ -13876,33 +13831,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(class-utils 0.3.6)
-
-The MIT License (MIT)
-
-Copyright (c) 2015, 2017-2018, Jon Schlinkert.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
 (assign-symbols 1.0.0, define-property 0.2.5, is-accessor-descriptor 0.1.6, is-data-descriptor 0.1.4, is-extendable 0.1.1, pascalcase 0.1.1)
 
 The MIT License (MIT)
@@ -15729,7 +15657,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ent 2.2.0, minimist 1.2.5, node-concat-map 0.0.1, safe-regex 1.1.0, text-table 0.2.0)
+(ent 2.2.0, is-typedarray 1.0.0, minimist 1.2.5, node-concat-map 0.0.1, safe-regex 1.1.0, text-table 0.2.0)
 
 This software is released under the MIT license:
 
@@ -15749,41 +15677,6 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(is-typedarray 1.0.0)
-
-Upstream-Contact: Hugh Kennedy <hughskennedy@gmail.com>
-Source: https://github.com/hughsk/is-typedarray
-
-Files: *
-Copyright: 2014-2015, Hugh Kennedy <hughskennedy@gmail.com>
-License: MIT
-
-Files: debian/*
-Copyright: 2015, Daniel Pocock
-License: MIT
-
-License: MIT
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
- this software and associated documentation files (the "Software"), to deal in
- the Software without restriction, including without limitation the rights to
- use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
- the Software, and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be included in all
- copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
- FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
- COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
- IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -16189,6 +16082,45 @@ License: Expat
 
 Files: debian/tests/modules/bash-path/*
 Copyright: 2017, Jon Schlinkert (https://github.com/jonschlinkert)
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
+(class-utils 0.3.6)
+
+Upstream-Contact: https://github.com/jonschlinkert/class-utils/issues
+Source: https://github.com/jonschlinkert/class-utils
+
+Files: *
+Copyright: 2015, 2017-2018, Jon Schlinkert <https://github.com/jonschlinkert>
+License: Expat
+
+Files: debian/*
+Copyright: 2016 Sruthi Chandran <srud@disroot.org>
+ 2019, Xavier Guimard <yadd@debian.org>
 License: Expat
 
 License: Expat
