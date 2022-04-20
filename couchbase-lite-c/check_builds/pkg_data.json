@@ -48,12 +48,148 @@
               }
             },
             "template": "{package}-{edition}-{VERSION}-{BLD_NUM}-{platform}.{ext}"
+          },
+          "3.0.2": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "android": {
+                "ext": "zip"
+              },
+              "debian10-x86_64": {
+                "ext": "tar.gz"
+              },
+              "debian9-x86_64": {
+                "ext": "tar.gz"
+              },
+              "ios": {
+                "ext": "zip"
+              },
+              "macos": {
+                "ext": "zip"
+              },
+              "raspbian9": {
+                "ext": "tar.gz"
+              },
+              "raspios10-arm64": {
+                "ext": "tar.gz"
+              },
+              "raspios10-armhf": {
+                "ext": "tar.gz"
+              },
+              "ubuntu20.04-armhf": {
+                "ext": "tar.gz"
+              },
+              "ubuntu20.04-arm64": {
+                "ext": "tar.gz"
+              },
+              "ubuntu20.04-x86_64": {
+                "ext": "tar.gz"
+              },
+              "windows-x86_64": {
+                "ext": "zip"
+              }
+            },
+            "template": "{package}-{edition}-{VERSION}-{BLD_NUM}-{platform}.{ext}"
+          },
+          "3.1.0": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "platform": {
+              "android": {
+                "ext": "zip"
+              },
+              "debian10-x86_64": {
+                "ext": "tar.gz"
+              },
+              "debian9-x86_64": {
+                "ext": "tar.gz"
+              },
+              "ios": {
+                "ext": "zip"
+              },
+              "macos": {
+                "ext": "zip"
+              },
+              "raspbian9": {
+                "ext": "tar.gz"
+              },
+              "raspios10-arm64": {
+                "ext": "tar.gz"
+              },
+              "raspios10-armhf": {
+                "ext": "tar.gz"
+              },
+              "ubuntu20.04-armhf": {
+                "ext": "tar.gz"
+              },
+              "ubuntu20.04-arm64": {
+                "ext": "tar.gz"
+              },
+              "ubuntu20.04-x86_64": {
+                "ext": "tar.gz"
+              },
+              "windows-x86_64": {
+                "ext": "zip"
+              }
+            },
+            "template": "{package}-{edition}-{VERSION}-{BLD_NUM}-{platform}.{ext}"
           }
         }
       },
       "libcblite": {
         "release": {
           "3.0.0": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "dev": [
+              "",
+              "-dev"
+            ],
+            "platform": {
+              "debian10_amd64": {},
+              "debian10_arm64": {},
+              "debian10_armhf": {},
+              "debian9_amd64": {},
+              "debian9_armhf": {},
+              "raspbian9_armhf": {},
+              "raspios10_arm64": {},
+              "raspios10_armhf": {},
+              "ubuntu20.04_amd64": {},
+              "ubuntu20.04_armhf": {}
+            },
+            "template": "{package}{dev}-{edition}_{VERSION}-{BLD_NUM}-{platform}.deb"
+          },
+          "3.0.2": {
+            "edition": [
+              "community",
+              "enterprise"
+            ],
+            "dev": [
+              "",
+              "-dev"
+            ],
+            "platform": {
+              "debian10_amd64": {},
+              "debian10_arm64": {},
+              "debian10_armhf": {},
+              "debian9_amd64": {},
+              "debian9_armhf": {},
+              "raspbian9_armhf": {},
+              "raspios10_arm64": {},
+              "raspios10_armhf": {},
+              "ubuntu20.04_amd64": {},
+              "ubuntu20.04_armhf": {}
+            },
+            "template": "{package}{dev}-{edition}_{VERSION}-{BLD_NUM}-{platform}.deb"
+          },
+          "3.1.0": {
             "edition": [
               "community",
               "enterprise"
