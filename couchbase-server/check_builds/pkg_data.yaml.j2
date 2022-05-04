@@ -13,7 +13,7 @@
     "alice": [ "amzn2", "centos6", "centos7", "debian8", "debian9", "macos", "oel6", "oel7", "rhel8", "suse11", "suse12", "ubuntu16.04", "ubuntu18.04", "windows" ],
     "mad-hatter": [ "amzn2", "centos7", "centos8", "debian9", "debian10", "macos", "oel7", "oel8", "suse12", "suse15", "ubuntu16.04", "ubuntu18.04", "ubuntu20.04", "windows" ],
     "cheshire-cat": [ "amzn2", "centos7", "debian9", "debian10", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "windows" ],
-    "neo": [ "amzn2", "amzn2:aarch64", "centos7", "debian9", "debian10", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "ubuntu20.04", "windows" ]
+    "neo": [ "amzn2", "amzn2:aarch64", "centos7", "debian10", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "ubuntu20.04", "windows" ]
   }
 %}
 
@@ -95,7 +95,7 @@ filenames:
 {%    endif                                        %}
 {%    for edition in [ "community", "enterprise" ] %}
 
-  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
+  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version_tuple }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
 
 {%    endfor %}
 {% endfor %}
