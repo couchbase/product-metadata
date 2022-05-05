@@ -95,7 +95,7 @@ filenames:
 {%    endif                                        %}
 {%    for edition in [ "community", "enterprise" ] %}
 
-  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version_tuple }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
+  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
 
 {%    endfor %}
 {% endfor %}
