@@ -647,6 +647,8 @@ istanbul-lib-instrument 5.1.0 : BSD 3-clause "New" or "Revised" License
 istanbul-lib-report 3.0.0 : BSD 3-clause "New" or "Revised" License
 istanbul-lib-source-maps 4.0.1 : BSD 3-clause "New" or "Revised" License
 istanbul-reports 3.1.4 : BSD 3-clause "New" or "Revised" License
+itchyny/gojq 0.12.6 : Expat License
+itchyny/timefmt-go 0.1.3 : Expat License
 jansson 2.14 : MIT License
 jasmine-spec-reporter 7.0.0 : Apache License 2.0
 jasmine/jasmine 2.8.0 : MIT License
@@ -1071,6 +1073,7 @@ setprototypeof v1.2.0 : ISC License
 shallow-clone 3.0.1 : MIT License
 shebang-command 1.2.0 : MIT License
 shebang-regex 1.0.0 : MIT License
+signal-exit 3.0.7 : ISC License
 sindresorhus/globals 11.12.0 : MIT License
 sindresorhus/globby 11.1.0 : MIT License
 sindresorhus/globby 5.0.0 : MIT License
@@ -1131,7 +1134,6 @@ svgo 2.8.0 : MIT License
 swag v0.19.5 : Apache License 2.0
 symbol-observable 4.0.0 : MIT License
 tapable 2.2.1 : MIT License
-tapjs/signal-exit 3.0.7 : ISC License
 tar 6.1.11 : ISC License
 tar-fs 2.0.0 : MIT License
 tar-stream v2.2.0 : MIT License
@@ -1199,6 +1201,7 @@ Visionmedia Debug 4.3.1 : MIT License
 Visionmedia Debug 4.3.2 : MIT License
 Visionmedia Debug 4.3.3 : MIT License
 visionmedia/batch 0.6.1 : MIT License
+vmihailenco/msgpack v5.3.5 : BSD 2-clause "Simplified" License
 vmihailenco/tagparser v2.0.0 : BSD 2-clause "Simplified" License
 void-elements 2.0.1 : MIT License
 watchpack 2.3.1 : MIT License
@@ -1589,7 +1592,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(@yarnpkg/lockfile 1.1.0, css-what 5.1.0, CSSselect 4.2.1, damerau-levenshtein 1.0.8, domelementtype 2.2.0, DomHandler 4.3.0, domutils 2.8.0, go-check-check 20200227-snapshot-8fa46927, go-check-check 20201130-snapshot-10cb9826, node-entities 2.2.0, nth-check 2.0.1, regjsparser 0.8.4, terser 5.7.1, vmihailenco/tagparser v2.0.0)
+(@yarnpkg/lockfile 1.1.0, css-what 5.1.0, CSSselect 4.2.1, damerau-levenshtein 1.0.8, domelementtype 2.2.0, DomHandler 4.3.0, domutils 2.8.0, go-check-check 20200227-snapshot-8fa46927, go-check-check 20201130-snapshot-10cb9826, node-entities 2.2.0, nth-check 2.0.1, regjsparser 0.8.4, terser 5.7.1, vmihailenco/msgpack v5.3.5, vmihailenco/tagparser v2.0.0)
 
 BSD Two Clause License
 ======================
@@ -3467,7 +3470,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 Expat License
-(luacheck 0.24.0)
+(itchyny/gojq 0.12.6, itchyny/timefmt-go 0.1.3, luacheck 0.24.0)
 
 Expat License
 =============
@@ -4818,7 +4821,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(@npmcli/git 2.1.0, @npmcli/node-gyp 1.0.3, @npmcli/promise-spawn 1.3.2, @npmcli/run-script 2.0.0, are-we-there-yet 3.0.0, ast-types-flow 0.0.7, boolbase 1.0.0, cacache 15.2.0, css-declaration-sorter 6.1.4, electron-to-chromium 1.4.76, fastq 1.13.0, flatted 3.2.5, glob-parent 6.0.2, hosted-git-info 4.1.0, iarna/gauge 4.0.2, ignore-walk 4.0.1, license-webpack-plugin v2.3.20, make-fetch-happen 9.1.0, minipass 3.1.6, node-glob 7.2.0, node-graceful-fs 4.2.9, npm-packlist 3.0.0, npm-pick-manifest 6.1.1, npm-registry-fetch 11.0.0, npmlog 6.0.1, pacote 12.0.2, picocolors 1.0.0, read-package-json-fast 2.0.3, ssri 8.0.1, tapjs/signal-exit 3.0.7, wide-align 1.1.5, yargs-parser 20.2.9, yargs-parser 21.0.1)
+(@npmcli/git 2.1.0, @npmcli/node-gyp 1.0.3, @npmcli/promise-spawn 1.3.2, @npmcli/run-script 2.0.0, are-we-there-yet 3.0.0, ast-types-flow 0.0.7, boolbase 1.0.0, cacache 15.2.0, css-declaration-sorter 6.1.4, electron-to-chromium 1.4.76, fastq 1.13.0, flatted 3.2.5, glob-parent 6.0.2, hosted-git-info 4.1.0, iarna/gauge 4.0.2, ignore-walk 4.0.1, license-webpack-plugin v2.3.20, make-fetch-happen 9.1.0, minipass 3.1.6, node-glob 7.2.0, node-graceful-fs 4.2.9, npm-packlist 3.0.0, npm-pick-manifest 6.1.1, npm-registry-fetch 11.0.0, npmlog 6.0.1, pacote 12.0.2, picocolors 1.0.0, read-package-json-fast 2.0.3, signal-exit 3.0.7, ssri 8.0.1, wide-align 1.1.5, yargs-parser 20.2.9, yargs-parser 21.0.1)
 
 ISC License (ISCL)
 ==================
@@ -5285,7 +5288,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(nodejs/string_decoder 1.1.1, nodejs/string_decoder v1.3.0, readable-stream 3.6.0, readable-stream v2.3.7)
+(nodejs/string_decoder 1.1.1, readable-stream 3.6.0, readable-stream v2.3.7)
 
 """
 Copyright Node.js contributors. All rights reserved.
@@ -8618,7 +8621,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(function-bind 1.1.1, isarray 1.0.0)
+(function-bind 1.1.1, isarray 1.0.0, nodejs/string_decoder v1.3.0)
 
 License: Expat
 
@@ -12065,7 +12068,7 @@ SOFTWARE
 ---
 
 MIT License
-(define-property 1.0.0, object-visit 1.0.1, unset-value 1.0.0)
+(collection-visit 1.0.0, define-property 1.0.0, object-visit 1.0.1, unset-value 1.0.0)
 
 The MIT License (MIT)
 
@@ -14440,44 +14443,6 @@ License: Expat
 Files: debian/*
 Copyright: 2016 Sruthi Chandran <srud@disroot.org>
  2019, Xavier Guimard <yadd@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(collection-visit 1.0.0)
-
-Upstream-Contact: https://github.com/jonschlinkert/collection-visit/issues
-Source: https://github.com/jonschlinkert/collection-visit
-
-Files: *
-Copyright: 2016 Jon Schlinkert (https://github.com/jonschlinkert)
-License: Expat
-
-Files: debian/*
-Copyright: 2016 Sruthi Chandran <srud@disroot.org>
 License: Expat
 
 License: Expat
