@@ -295,7 +295,7 @@ golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 : BSD 2-c
 golang-github-elazarl-go-bindata-assetfs-dev 1.0.0 : BSD 2-clause "Simplified" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170227-snapshot-30f82fa2 : BSD 2-clause "Simplified" License
 golang-github-gorilla-context 0 : BSD 3-clause "New" or "Revised" License
-golang-github-grpc-grpc-go 1.18.0 : BSD 3-clause "New" or "Revised" License
+golang-github-grpc-grpc-go-devel 1.18.0 : BSD 3-clause "New" or "Revised" License
 golang-github-json-iterator-go-dev 1.0.6 : MIT License
 golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 : MIT License
 golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
@@ -592,7 +592,7 @@ pycparser 2.21 : BSD 3-clause "New" or "Revised" License
 pyOpenSSL 22.0.0 : Apache License 2.0
 pypi/setuptools 58.0.4 : MIT License
 PySocks 1.7.1 : BSD 3-clause "New" or "Revised" License
-Python programming language 3.9.12 : (zlib License AND Python Software Foundation License 2.0 AND BSD 2-clause "Simplified" License AND Diffstat License AND Stichting Mathematisch License AND GNU General Public License v2.0 or later AND Open Group License AND CNRI Python License AND MIT License AND Xmlproc License AND Historic Permission Notice and Disclaimer AND BSD 3-clause "New" or "Revised" License AND PythonPlot License AND BeOpen.com License Agreement for Python 2.0 AND The Open SSL License)
+Python programming language 3.9.12 : Python Software Foundation License 2.0
 Python six 1.15.0 : MIT License
 python-certifi 2021.10.8 : Mozilla Public License 2.0
 python-cryptography 36.0.0 : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
@@ -860,7 +860,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(AWS SDK for Go 1.38.17, glenn-brown/golang-pkg-pcre 20161121-snapshot, go-check-check 20190902-snapshot-41f04d3b, go-check-check 20200227-snapshot-8fa46927, go-metrics 20200313-snapshot-10cdbea8, gopherjs 20190910-snapshot-9d188e94, Python programming language 3.9.12)
+(AWS SDK for Go 1.38.17, glenn-brown/golang-pkg-pcre 20161121-snapshot, go-check-check 20190902-snapshot-41f04d3b, go-check-check 20200227-snapshot-8fa46927, go-metrics 20200313-snapshot-10cdbea8, gopherjs 20190910-snapshot-9d188e94)
 
 BSD Two Clause License
 ======================
@@ -1910,7 +1910,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(AWS SDK for Go 1.38.17, blackfriday v1.5.2, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20200724-snapshot-2164a8ac, golang-github-grpc-grpc-go 1.18.0, golang-golang-x-text 0.3.7, golang-snappy-go-dev 20150731-snapshot-a911026e, golang-snappy-go-dev v0.0.4, golang-x-text-dev 0.3.7, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20200819-snapshot-5c72a883, golang.org/x/crypto 20210313-snapshot-e6e6c4f2, golang.org/x/crypto 20210322-snapshot-0c34fe9e, golang.org/x/lint 20201207-snapshot-83fdc39f, golang.org/x/net 20180223-snapshot, golang.org/x/net 20180801-snapshot, golang.org/x/net 20190311-snapshot-d8887717, golang.org/x/net 20190402-snapshot-eb5bcb51, golang.org/x/net 20210324-snapshot-d1beb07c, golang.org/x/net 20210409-snapshot-afb366fc, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20200212-snapshot-12a6c2dc, golang.org/x/sys 20210323-snapshot-47abb651, golang.org/x/sys 20210403-snapshot-5e06dd20, golang.org/x/term 20210219-snapshot-6a3ed077, golang.org/x/text v0.3.7, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang.org/x/xerrors 20200804-snapshot-5ec99f83, Google V8 JavaScript Engine 8.3.110.13, google/uuid 20180806-snapshot, google/uuid v1.3.0, HdrHistogram_c 0.9.2, jsdiff 4.0.2, jsdiff v5.0.0, menuinst 1.4.18, PCRE 8.43, pierrec-xxHash 20190902-snapshot, pycparser 2.21, PySocks 1.7.1, Python programming language 3.9.12, python-cryptography 36.0.0, Stax2 API 4.2.1, Tcl/Tk 8.6.11)
+(AWS SDK for Go 1.38.17, blackfriday v1.5.2, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20200724-snapshot-2164a8ac, golang-github-grpc-grpc-go-devel 1.18.0, golang-golang-x-text 0.3.7, golang-snappy-go-dev 20150731-snapshot-a911026e, golang-snappy-go-dev v0.0.4, golang-x-text-dev 0.3.7, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20200819-snapshot-5c72a883, golang.org/x/crypto 20210313-snapshot-e6e6c4f2, golang.org/x/crypto 20210322-snapshot-0c34fe9e, golang.org/x/lint 20201207-snapshot-83fdc39f, golang.org/x/net 20180223-snapshot, golang.org/x/net 20180801-snapshot, golang.org/x/net 20190311-snapshot-d8887717, golang.org/x/net 20190402-snapshot-eb5bcb51, golang.org/x/net 20210324-snapshot-d1beb07c, golang.org/x/net 20210409-snapshot-afb366fc, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20200212-snapshot-12a6c2dc, golang.org/x/sys 20210323-snapshot-47abb651, golang.org/x/sys 20210403-snapshot-5e06dd20, golang.org/x/term 20210219-snapshot-6a3ed077, golang.org/x/text v0.3.7, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang.org/x/xerrors 20200804-snapshot-5ec99f83, Google V8 JavaScript Engine 8.3.110.13, google/uuid 20180806-snapshot, google/uuid v1.3.0, HdrHistogram_c 0.9.2, jsdiff 4.0.2, jsdiff v5.0.0, menuinst 1.4.18, PCRE 8.43, pierrec-xxHash 20190902-snapshot, pycparser 2.21, PySocks 1.7.1, python-cryptography 36.0.0, Stax2 API 4.2.1, Tcl/Tk 8.6.11)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -2605,57 +2605,6 @@ Redistribution and use in source and binary forms, with or without
 
 ---
 
-BeOpen.com License Agreement for Python 2.0
-(Python programming language 3.9.12)
-
-BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0
-===========================================
-
---------------------------------------------------------------------------------
-
-BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1
-
-1. This LICENSE AGREEMENT is between BeOpen.com ("BeOpen"), having an office at
-160 Saratoga Avenue, Santa Clara, CA 95051, and the Individual or Organization
-("Licensee") accessing and otherwise using this software in source or binary form
-and its associated documentation ("the Software").
-
-2. Subject to the terms and conditions of this BeOpen Python License Agreement,
-BeOpen hereby grants Licensee a non-exclusive, royalty-free, world-wide license
-to reproduce, analyze, test, perform and/or display publicly, prepare derivative
-works, distribute, and otherwise use the Software alone or in any derivative
-version, provided, however, that the BeOpen Python License is retained in the
-Software, alone or in any derivative version prepared by Licensee.
-
-3. BeOpen is making the Software available to Licensee on an "AS IS" basis. 
-BEOPEN MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED.  BY WAY OF
-EXAMPLE, BUT NOT LIMITATION, BEOPEN MAKES NO AND DISCLAIMS ANY REPRESENTATION OR
-WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE
-OF THE SOFTWARE WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
-
-4. BEOPEN SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF THE SOFTWARE FOR
-ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF USING,
-MODIFYING OR DISTRIBUTING THE SOFTWARE, OR ANY DERIVATIVE THEREOF, EVEN IF
-ADVISED OF THE POSSIBILITY THEREOF.
-
-5. This License Agreement will automatically terminate upon a material breach of
-its terms and conditions.
-
-6. This License Agreement shall be governed by and interpreted in all respects by
-the law of the State of California, excluding conflict of law provisions. 
-Nothing in this License Agreement shall be deemed to create any relationship of
-agency, partnership, or joint venture between BeOpen and Licensee.  This License
-Agreement does not grant permission to use BeOpen trademarks or trade names in a
-trademark sense to endorse or promote products or services of Licensee, or any
-third party.  As an exception, the "BeOpen Python" logos available at
-http://www.pythonlabs.com/logos.html may be used according to the permissions
-granted on that web page.
-
-7. By copying, installing or otherwise using the software, Licensee agrees to be
-bound by the terms and conditions of this License Agreement.
-
----
-
 Boost Software License 1.0
 (Boost C++ Libraries - boost 1.74.0.2)
 
@@ -2800,79 +2749,6 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT
 STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGE.
-
----
-
-CNRI Python License
-(Python programming language 3.9.12)
-
-Python License (CNRI Python License)
-====================================
-
-
-CNRI OPEN SOURCE LICENSE AGREEMENT
-----------------------------------
-
-
-
-IMPORTANT: PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY.
-
-BY CLICKING ON "ACCEPT" WHERE INDICATED BELOW, OR BY COPYING, INSTALLING OR
-OTHERWISE USING PYTHON 1.6, beta 1 SOFTWARE, YOU ARE DEEMED TO HAVE AGREED TO THE
-TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT.
-
-1. This LICENSE AGREEMENT is between the Corporation for National Research
-Initiatives, having an office at 1895 Preston White Drive, Reston, VA 20191
-("CNRI"), and the Individual or Organization ("Licensee") accessing and otherwise
-using Python 1.6, beta 1 software in source or binary form and its associated
-documentation, as released at the www.python.org Internet site on August 4, 2000
-("Python 1.6b1").
-
-2. Subject to the terms and conditions of this License Agreement, CNRI hereby
-grants Licensee a non-exclusive, royalty-free, world-wide license to reproduce,
-analyze, test, perform and/or display publicly, prepare derivative works,
-distribute, and otherwise use Python 1.6b1 alone or in any derivative version,
-provided, however, that CNRIs License Agreement is retained in Python 1.6b1,
-alone or in any derivative version prepared by Licensee.
-
-Alternately, in lieu of CNRIs License Agreement, Licensee may substitute the
-following text (omitting the quotes): "Python 1.6, beta 1, is made available
-subject to the terms and conditions in CNRIs License Agreement. This Agreement
-may be located on the Internet using the following unique, persistent identifier
-(known as a handle): 1895.22/1011. This Agreement may also be obtained from a
-proxy server on the Internet using the URL:http://hdl.handle.net/1895.22/1011".
-
-3. In the event Licensee prepares a derivative work that is based on or
-incorporates Python 1.6b1 or any part thereof, and wants to make the derivative
-work available to the public as provided herein, then Licensee hereby agrees to
-indicate in any such work the nature of the modifications made to Python 1.6b1.
-
-4. CNRI is making Python 1.6b1 available to Licensee on an "AS IS" basis. CNRI
-MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE,
-BUT NOT LIMITATION, CNRI MAKES NO AND DISCLAIMS ANY REPRESENTATION OR WARRANTY OF
-MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF PYTHON
-1.6b1WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
-
-5. CNRI SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF THE SOFTWARE FOR
-ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF USING,
-MODIFYING OR DISTRIBUTING PYTHON 1.6b1, OR ANY DERIVATIVE THEREOF, EVEN IF
-ADVISED OF THE POSSIBILITY THEREOF.
-
-6. This License Agreement will automatically terminate upon a material breach of
-its terms and conditions.
-
-7. This License Agreement shall be governed by and interpreted in all respects by
-the law of the State of Virginia, excluding conflict of law provisions. Nothing
-in this License Agreement shall be deemed to create any relationship of agency,
-partnership, or joint venture between CNRI and Licensee. This License Agreement
-does not grant permission to use CNRI trademarks or trade name in a trademark
-sense to endorse or promote products or services of Licensee, or any third party.
-
-8. By clicking on the "ACCEPT" button where indicated, or by copying, installing
-or otherwise using Python 1.6b1, Licensee agrees to be bound by the terms and
-conditions of this License Agreement.
-
-ACCEPT
 
 ---
 
@@ -4022,33 +3898,6 @@ case Affirmer hereby affirms that he or she will not
 
 ---
 
-Diffstat License
-(Python programming language 3.9.12)
-
-Diffstat License
-================
-
-Copyright 1994-2001,2002 by Thomas E. Dickey
-All Rights Reserved.
-
-Permission to use, copy, modify, and distribute this software and its
-documentation for any purpose and without fee is hereby granted, provided that
-the above copyright notice appear in all copies and that both that copyright
-notice and this permission notice appear in supporting documentation, and that
-the name of the above listed copyright holder(s) not be used in advertising or
-publicity pertaining to distribution of the software without specific, written
-prior permission.
-
-THE ABOVE LISTED COPYRIGHT HOLDER(S) DISCLAIM ALL WARRANTIES WITH REGARD TO THIS
-SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO
-EVENT SHALL THE ABOVE LISTED COPYRIGHT HOLDER(S) BE LIABLE FOR ANY SPECIAL,
-INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
-OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
-TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
-THIS SOFTWARE.
-
----
-
 Eclipse Public License 1.0
 (Go programming language 20180717-snapshot)
 
@@ -4265,7 +4114,7 @@ resulting litigation.
 ---
 
 GNU General Public License v2.0 or later
-(Go programming language 20180717-snapshot, Python programming language 3.9.12)
+(Go programming language 20180717-snapshot)
 
 The GNU General Public License (GPL)
 ====================================
@@ -6148,49 +5997,6 @@ a lawsuit) alleging that this implementation of Go or a Contribution incorporate
 within this implementation of Go constitutes direct or contributory patent
 infringement, then any patent licenses granted to You under this License for this
 implementation of Go shall terminate as of the date such litigation is filed.
-
----
-
-Historic Permission Notice and Disclaimer
-(Python programming language 3.9.12)
-
-Historical Permission Notice and Disclaimer
-===========================================
-
-<copyright notice>
-
-Permission to use, copy, modify and distribute this software and its
-documentation for any purpose and without fee is hereby granted, provided that
-the above copyright notice appear in all copies[,] [and] that both [that] [the]
-copyright notice and this permission notice appear in supporting documentation[,
-and that the name [of] <copyright holder> [or <related entities>] not be used in
-advertising or publicity pertaining to distribution of the software without
-specific, written prior permission]. [<copyright holder> makes no representations
-about the suitability of this software for any purpose. It is provided "as is"
-without express or implied warranty.]
-
-[<copyright holder> DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS[,][.] IN NO EVENT
-SHALL <copyright holder> BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL
-DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
-WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
-OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.]
-
----
-
-Explanation:
-
-Angle brackets hold "fields", e.g. <copyright holder>.
-
-Square brackets hold optional text, e.g. [or <related entities>].
-
-A license can have variations in capitalization and whitespace, and still be
-considered an instance of this template.
-
-It may be possible to construct a grammatically incorrect license from this
-template, or one that lacks a disclaimer, or one that includes a
-double-disclaimer. That is acceptable, as long as it remains impossible to
-construct a non-OSD-compliant license that matches the pattern
 
 ---
 
@@ -8175,7 +7981,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, AWS SDK for Go 1.38.17, azure-storage-blob 12.14.3, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, charset-normalizer 2.0.4, clipboard.js 1.5.16, couchbase-go-couchbase 20201023-snapshot-7b3be89b, couchbase-gomemcached 20200618-snapshot-5bac349a, delegate 3.2.0, erlang-erlydtl 0.7.0, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, glycerine/goconvey 20190410-snapshot-58a59202, go-jsonpointer 20140810-snapshot-75939f54, good-listener 1.2.2, jsoniter-go 20171115-snapshot-f7279a60, jsoniter-go 20201117-snapshot-e6b9536d, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, niemeyer/pretty 20200227-snapshot-a10e7cae, peterh/liner v1.2.0, Python programming language 3.9.12, python-wheel 0.37.1, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, StackExchange-wmi 20210224-snapshot-fe8f1750, tqdm 4.63.0, urllib3 1.26.8, whitequark/ipaddr.js 2.0.1)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, AWS SDK for Go 1.38.17, azure-storage-blob 12.14.3, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, charset-normalizer 2.0.4, clipboard.js 1.5.16, couchbase-go-couchbase 20201023-snapshot-7b3be89b, couchbase-gomemcached 20200618-snapshot-5bac349a, delegate 3.2.0, erlang-erlydtl 0.7.0, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, glycerine/goconvey 20190410-snapshot-58a59202, go-jsonpointer 20140810-snapshot-75939f54, good-listener 1.2.2, jsoniter-go 20171115-snapshot-f7279a60, jsoniter-go 20201117-snapshot-e6b9536d, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, niemeyer/pretty 20200227-snapshot-a10e7cae, peterh/liner v1.2.0, python-wheel 0.37.1, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, StackExchange-wmi 20210224-snapshot-fe8f1750, tqdm 4.63.0, urllib3 1.26.8, whitequark/ipaddr.js 2.0.1)
 
 The MIT License
 ===============
@@ -9301,35 +9107,6 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 ---
 
-Open Group License
-(Python programming language 3.9.12)
-
-Open Group License
-==================
-
-Copyright 1996, 1998 The Open Group
-
-Permission to use, copy, modify, distribute, and sell this software and its
-documentation for any purpose is hereby granted without fee, provided that the
-above copyright notice appear in all copies and that both that copyright notice
-and this permission notice appear in supporting documentation.
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE OPEN GROUP BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
-CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Except as contained in this notice, the name of The Open Group shall not be used
-in advertising or otherwise to promote the sale, use or other dealings in this
-Software without prior written authorization from The Open Group.
-
----
-
 Public Domain
 (erlang-poolboy 1.5.1, HdrHistogram_c 0.9.2, SQLite 3.38.2, tzdata 2022a, win_inet_pton 1.1.0, XZ Utils 5.2.5)
 
@@ -9395,26 +9172,6 @@ PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 
 ---
 
-PythonPlot License
-(Python programming language 3.9.12)
-
-PythonPlot License
-==================
-
-Permission to use, copy, modify and distribute this software and its
-documentation for any purpose and without fee is hereby granted The author makes
-no representations about the suitability of this software for any purpose. It is
-provided "as is" without express or implied warranty.
-
-THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR
-BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
-CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION
-WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-
----
-
 SSLeay License
 (Go programming language 20180717-snapshot, OpenSSL 1.1.1n)
 
@@ -9475,35 +9232,6 @@ Public Licence.
 
 ---
 
-Stichting Mathematisch License
-(Python programming language 3.9.12)
-
-Stichting Mathematisch License
-==============================
-
-Copyright 1991, 1992, 1993, 1994 by Stichting Mathematisch Centrum,
-Amsterdam, The Netherlands.
-
-                   All Rights Reserved
-
-Permission to use, copy, modify, and distribute this software and its
-documentation for any purpose and without fee is hereby granted, provided that
-the above copyright notice appear in all copies and that both that copyright
-notice and this permission notice appear in supporting documentation, and that
-the names of Stichting Mathematisch Centrum or CWI not be used in advertising or
-publicity pertaining to distribution of the software without specific, written
-prior permission.
-
-STICHTING MATHEMATISCH CENTRUM DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
-SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO
-EVENT SHALL STICHTING MATHEMATISCH CENTRUM BE LIABLE FOR ANY SPECIAL, INDIRECT OR
-CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA
-OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
-ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
-SOFTWARE.
-
----
-
 TCL/TK License
 (Tcl/Tk 8.6.11)
 
@@ -9553,7 +9281,7 @@ license.
 ---
 
 The Open SSL License
-(Go programming language 20180717-snapshot, OpenSSL 1.1.1n, Python programming language 3.9.12)
+(Go programming language 20180717-snapshot, OpenSSL 1.1.1n)
 
 OpenSSL
 =======
@@ -9680,26 +9408,6 @@ X Window System is a trademark of X Consortium, Inc.
 
 ---
 
-Xmlproc License
-(Python programming language 3.9.12)
-
-xmlproc License
-===============
-
-Permission to use, copy, modify, and distribute this software and its
-documentation for any purpose and without fee is hereby granted, provided that
-the above copyright notice appear in all copies and that modified copies are
-clearly marked as such.
-
-LARS MARIUS GARSHOL DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT
-SHALL LARS MARIUS GARSHOL BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL
-DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
-WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
-OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-
----
-
 curl License
 (curl 7.78.0)
 
@@ -9729,7 +9437,7 @@ this Software without prior written authorization of the copyright holder.
 ---
 
 zlib License
-(Go programming language 20180717-snapshot, Python programming language 3.9.12, zlib 1.2.11)
+(Go programming language 20180717-snapshot, zlib 1.2.11)
 
 The zlib/libpng License
 =======================
