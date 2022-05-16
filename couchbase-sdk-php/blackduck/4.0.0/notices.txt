@@ -14,7 +14,7 @@ Bootstrap (Twitter) 3.2.0 : MIT License
 Bootstrap (Twitter) 3.3.4 : MIT License
 C++ Guideline Support Library 4.0.0 : MIT License
 couchbase v3.1.0 : Apache License 2.0
-couchnode 4.1.0 : MIT License
+couchbase-python-client 4.0.0rc1 : Apache License 2.0
 fmtlib/fmt 8.0.1 : MIT License
 google-snappy 1.1.8 : BSD 3-clause "New" or "Revised" License
 HdrHistogram_c 0.9.13 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
@@ -29,11 +29,12 @@ PyYAML 5.4.1 : MIT License
 spdlog 1.9.2 : MIT License
 tao-pegtl 3.2.5 : MIT License
 taocpp/json 0.0+git20200604.f357d72 : Expat License
+taocpp/json 1.0.0-beta.13 : MIT License
 
 Licenses: 
 
 Apache License 2.0
-(benchmark 1.4.1, benchmark 1.5.1, benchmark v1.5.0, couchbase v3.1.0, log4cplus - Logging Framework for C++ 2.0.7)
+(benchmark 1.4.1, benchmark 1.5.1, benchmark v1.5.0, couchbase v3.1.0, couchbase-python-client 4.0.0rc1, log4cplus - Logging Framework for C++ 2.0.7)
 
 Apache License
 Version 2.0, January 2004
@@ -460,19 +461,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(couchnode 4.1.0)
-
-Copyright (c) 2015 Indigo United <hello@indigounited.com>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (PyYAML 5.4.1)
 
 Copyright (c) 2017-2021 Ingy döt Net
@@ -526,7 +514,7 @@ SOFTWARE
 ---
 
 MIT License
-(C++ Guideline Support Library 4.0.0, tao-pegtl 3.2.5)
+(C++ Guideline Support Library 4.0.0, tao-pegtl 3.2.5, taocpp/json 1.0.0-beta.13)
 
 The MIT License
 ===============
