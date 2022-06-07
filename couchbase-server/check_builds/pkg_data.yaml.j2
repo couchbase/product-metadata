@@ -13,7 +13,8 @@
     "alice": [ "amzn2", "centos6", "centos7", "debian8", "debian9", "macos", "oel6", "oel7", "rhel8", "suse11", "suse12", "ubuntu16.04", "ubuntu18.04", "windows" ],
     "mad-hatter": [ "amzn2", "centos7", "centos8", "debian9", "debian10", "macos", "oel7", "oel8", "suse12", "suse15", "ubuntu16.04", "ubuntu18.04", "ubuntu20.04", "windows" ],
     "cheshire-cat": [ "amzn2", "centos7", "debian9", "debian10", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "windows" ],
-    "neo": [ "amzn2", "amzn2:aarch64", "centos7", "debian10", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "ubuntu20.04", "windows" ]
+    "neo": [ "amzn2", "centos7", "debian10", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "ubuntu20.04", "windows", "linux:aarch64" ],
+    "elixir": [ "linux", "linux:aarch64", "windows", "macos" ]
   }
 %}
 
@@ -54,28 +55,29 @@
 # Map platforms to defined sets of filename bits
 {%
   set filebits_for = {
-    "amzn2": rpm_bits,
-    "centos6": rpm_bits,
-    "centos7": rpm_bits,
-    "centos8": rpm_bits,
-    "debian7": deb_bits,
-    "debian8": deb_bits,
-    "debian9": deb_bits,
-    "debian10": deb_bits,
-    "macos": mac_bits,
-    "oel6": rpm_bits,
-    "oel7": rpm_bits,
-    "oel8": rpm_bits,
-    "rhel8": rpm_bits,
-    "suse11": rpm_bits,
-    "suse12": rpm_bits,
-    "suse15": rpm_bits,
-    "ubuntu12.04": deb_bits,
-    "ubuntu14.04": deb_bits,
-    "ubuntu16.04": deb_bits,
-    "ubuntu18.04": deb_bits,
-    "ubuntu20.04": deb_bits,
-    "windows": win_bits
+    "amzn2": [ rpm_bits ],
+    "centos6": [ rpm_bits ],
+    "centos7": [ rpm_bits ],
+    "centos8": [ rpm_bits ],
+    "debian7": [ deb_bits ],
+    "debian8": [ deb_bits ],
+    "debian9": [ deb_bits ],
+    "debian10": [ deb_bits ],
+    "linux": [ deb_bits, rpm_bits ],
+    "macos": [ mac_bits ],
+    "oel6": [ rpm_bits ],
+    "oel7": [ rpm_bits ],
+    "oel8": [ rpm_bits ],
+    "rhel8": [ rpm_bits ],
+    "suse11": [ rpm_bits ],
+    "suse12": [ rpm_bits ],
+    "suse15": [ rpm_bits ],
+    "ubuntu12.04": [ deb_bits ],
+    "ubuntu14.04": [ deb_bits ],
+    "ubuntu16.04": [ deb_bits ],
+    "ubuntu18.04": [ deb_bits ],
+    "ubuntu20.04": [ deb_bits ],
+    "windows": [ win_bits ]
   }
 %}
 
@@ -84,18 +86,19 @@
 ####### ACTUAL OUTPUT TEMPLATE ########
 
 filenames:
-{% for platform_entry in platforms_for[release]    %}
-{%    set plat_bits = platform_entry.split(':')    %}
-{%    set platform = plat_bits[0]                  %}
-{%    set bits = filebits_for[platform]            %}
-{%    if plat_bits | length > 1                    %}
-{%       set arch = plat_bits[1]                   %}
-{%    else                                         %}
-{%       set arch = bits["default_arch"]           %}
-{%    endif                                        %}
-{%    for edition in [ "community", "enterprise" ] %}
+{% for platform_entry in platforms_for[release]      %}
+{%    set plat_bits = platform_entry.split(':')      %}
+{%    set platform = plat_bits[0]                    %}
+{%    for bits in filebits_for[platform]             %}
+{%      if plat_bits | length > 1                    %}
+{%         set arch = plat_bits[1]                   %}
+{%      else                                         %}
+{%         set arch = bits["default_arch"]           %}
+{%      endif                                        %}
+{%      for edition in [ "community", "enterprise" ] %}
 
   - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
 
+{%      endfor %}
 {%    endfor %}
 {% endfor %}
