@@ -86,16 +86,19 @@
 ####### ACTUAL OUTPUT TEMPLATE ########
 
 filenames:
-{% for platform_entry in platforms_for[release]      %}
-{%    set plat_bits = platform_entry.split(':')      %}
-{%    set platform = plat_bits[0]                    %}
-{%    for bits in filebits_for[platform]             %}
-{%      if plat_bits | length > 1                    %}
-{%         set arch = plat_bits[1]                   %}
-{%      else                                         %}
-{%         set arch = bits["default_arch"]           %}
-{%      endif                                        %}
-{%      for edition in [ "community", "enterprise" ] %}
+{% for platform_entry in platforms_for[release]             %}
+{%    set plat_bits = platform_entry.split(':')             %}
+{%    set platform = plat_bits[0]                           %}
+{%    for bits in filebits_for[platform]                    %}
+{%      if plat_bits | length > 1                           %}
+{%         set arch = plat_bits[1]                          %}
+{%      else                                                %}
+{%         set arch = bits["default_arch"]                  %}
+{%      endif                                               %}
+{%      if (arch == "aarch64") and (bits["ext"] == "deb")   %}
+{%         set arch = "arm64"                               %}
+{%      endif                                               %}
+{%      for edition in [ "community", "enterprise" ]        %}
 
   - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
 
