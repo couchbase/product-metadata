@@ -198,7 +198,7 @@ com.google.api.grpc:proto-google-iam-v1 1.2.0 : Apache License 2.0
 Commander.js v2.20.3 : MIT License
 Commons IO 2.11.0 : Apache License 2.0
 commons-codec 1.15 : Apache License 2.0
-config-chain 1.1.12 : MIT License
+config-chain 1.1.13 : MIT License
 Core functionality for the Reactor Netty library 1.0.14 : Apache License 2.0
 couchbase-blance v0.1.1 : Apache License 2.0
 couchbase-cbauth v0.1.0 : Apache License 2.0
@@ -580,7 +580,7 @@ jhump/protoreflect v1.6.0 : Apache License 2.0
 JMES Path Query library 1.12.109 : Apache License 2.0
 jmespath-go-jmespath v0.4.0 : Apache License 2.0
 Joda Time 2.8.1 : Apache License 2.0
-js-beautify 1.10.3 : MIT License
+js-beautify 1.14.3 : MIT License
 jsdiff 4.0.2 : BSD 3-clause "New" or "Revised" License
 jsdiff v5.0.0 : BSD 3-clause "New" or "Revised" License
 JSON for Modern C++ v3.9.0 : MIT License
@@ -629,7 +629,6 @@ Microsoft Windows Azure Storage Client SDK 8.6.6 : Apache License 2.0
 Microsoft/tslib 1.11.1 : Apache License 2.0
 miekg/dns v1.1.25 : BSD 3-clause "New" or "Revised" License
 minimatch 3.0.4 : ISC License
-minimist 1.2.5 : MIT License
 mitchellh-copystructure v1.2.0 : MIT License
 mitchellh-go-homedir v1.1.0 : MIT License
 mitchellh-reflectwalk v1.0.2 : MIT License
@@ -663,10 +662,9 @@ node-concat-map 0.0.1 : MIT License
 node-glob v7.1.6 : ISC License
 node-lru-cache 4.1.5 : ISC License
 node-mkdirp 0.3.0 : MIT License
-node-mkdirp 0.5.5 : MIT License
 node-semver 5.7.1 : ISC License
 nopt 1.0.10 : MIT License
-nopt v4.0.3 : ISC License
+nopt v5.0.0 : ISC License
 OAuth 2.0 SDK with OpenID Connect extensions 9.7 : Apache License 2.0
 ocLazyLoad 1.1.0 : MIT License
 oklog/run v1.1.0 : Apache License 2.0
@@ -677,9 +675,6 @@ OpenJDK 11.0.15+10 : GNU General Public License v2.0 w/Classpath exception
 OpenSSL 1.1.1o : (SSLeay License AND OpenSSL License)
 OpenTracing API 0.31.0 : Apache License 2.0
 opentracing-opentracing-go 20180301-snapshot : Apache License 2.0
-os-homedir 1.0.2 : MIT License
-os-tmpdir 1.0.2 : MIT License
-osenv 0.1.5 : ISC License
 pascaldekloe/goe v0.1.0 : Public Domain
 path-is-absolute 1.0.1 : MIT License
 PCRE 8.44 : BSD 3-clause "New" or "Revised" License
@@ -718,7 +713,7 @@ python-certifi 2022.5.18.1 : Mozilla Public License 2.0
 python-pem 21.2.0 : MIT License
 python-snappy 0.6.0 : BSD 3-clause "New" or "Revised" License
 python_abi 3.9 : BSD 3-clause "New" or "Revised" License
-RamdaJs 0.26.1 : MIT License
+RamdaJs 0.28.0 : MIT License
 re2j 1.1 : BSD 3-clause "New" or "Revised" License
 reactive-streams v1.0.3 : Creative Commons Zero v1.0 Universal
 ReactiveX RxJS 6.5.3 : Apache License 2.0
@@ -6440,7 +6435,7 @@ THIS SOFTWARE.
 ---
 
 ISC License
-(ini 1.3.8, isaacs/once 1.4.0, minimatch 3.0.4, node-glob v7.1.6, node-lru-cache 4.1.5, node-semver 5.7.1, nopt v4.0.3, osenv 0.1.5, proto-list 1.2.4, pseudomap 1.0.2, sigmund 1.0.1, wrappy 1.0.2, yallist 2.1.2)
+(ini 1.3.8, isaacs/once 1.4.0, minimatch 3.0.4, node-glob v7.1.6, node-lru-cache 4.1.5, node-semver 5.7.1, proto-list 1.2.4, pseudomap 1.0.2, sigmund 1.0.1, wrappy 1.0.2, yallist 2.1.2)
 
 The ISC License
 
@@ -6510,6 +6505,37 @@ Permission to use, copy, modify, and/or distribute this software for any
  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
  PERFORMANCE OF THIS SOFTWARE
+
+---
+
+ISC License
+(nopt v5.0.0)
+
+Upstream-Contact: https://github.com/isaacs/nopt/issues
+Source: https://github.com/isaacs/nopt
+
+Files: *
+Copyright: Isaac Z. Schlueter and Contributors
+License: ISC
+
+Files: debian/*
+Copyright: 2012, Jérémy Lal <kapouer@melix.org>
+ 2020, Xavier Guimard <yadd@debian.org>
+License: ISC
+
+License: ISC
+
+Permission to use, copy, modify, and/or distribute this software for any
+ purpose with or without fee is hereby granted, provided that the above
+ copyright notice and this permission notice appear in all copies.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+ WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+ MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+ WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
+ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 
 ---
 
@@ -6816,34 +6842,6 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(config-chain 1.1.12)
-
-Copyright (c) 2011 Dominic Tarr
-
-Permission is hereby granted, free of charge, 
-to any person obtaining a copy of this software and 
-associated documentation files (the "Software"), to 
-deal in the Software without restriction, including 
-without limitation the rights to use, copy, modify, 
-merge, publish, distribute, sublicense, and/or sell 
-copies of the Software, and to permit persons to whom 
-the Software is furnished to do so, 
-subject to the following conditions:
-
-The above copyright notice and this permission notice 
-shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR 
-ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -7768,7 +7766,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(node-mkdirp 0.3.0, node-mkdirp 0.5.5)
+(node-mkdirp 0.3.0)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -8035,7 +8033,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, armon-go-metrics v0.3.10, azure-identity 1.4.1, azure-storage-blob 12.14.3, Azure/azure-sdk-for-go v61.5.0, Azure/azure-storage-blob-go v0.14.0, AzureAD/microsoft-authentication-library-for-go v0.5.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, BurntSushi/toml v1.0.0, charset-normalizer 2.0.12, Checker Qual 3.20.0, clipboard.js 1.5.16, couchbase-go-couchbase v0.1.1, couchbase-gomemcached v0.1.4, cpuguy83-go-md2man 2.0.1, delegate 3.2.0, dominikh/go-tools v0.2.2, erlang-erlydtl 0.7.0, esbuild 0.13.13, fatih-color v1.13.0, foxcpp/go-mockdns v1.0.0, github.com/golang-jwt/jwt 3.2.2, github.com/golang-jwt/jwt v4.2.0, github.com/golang-jwt/jwt v4.3.0, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, Go Testify 1.7.1, go-jsonpointer 20140810-snapshot-75939f54, go-ole-go-ole v1.2.6, go-zap v1.21.0, go.uber.org/goleak v1.1.11, golang-github-youmark-pkcs8 1.1, good-listener 1.2.2, hashicorp/go-hclog v1.1.0, jsoniter-go 20171115-snapshot-f7279a60, jsoniter-go v1.1.12, libcxx 14.0.0, mapstructure v1.4.3, mattn-go-colorable v0.1.12, mattn-go-isatty v0.0.14, mattn-go-sqlite3 v1.14.11, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.11.0, msal4j-persistence-extension 1.1.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, uber-go/atomic v1.9.0, urllib3 1.26.9, whitequark/ipaddr.js 2.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, armon-go-metrics v0.3.10, azure-identity 1.4.1, azure-storage-blob 12.14.3, Azure/azure-sdk-for-go v61.5.0, Azure/azure-storage-blob-go v0.14.0, AzureAD/microsoft-authentication-library-for-go v0.5.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, BurntSushi/toml v1.0.0, charset-normalizer 2.0.12, Checker Qual 3.20.0, clipboard.js 1.5.16, config-chain 1.1.13, couchbase-go-couchbase v0.1.1, couchbase-gomemcached v0.1.4, cpuguy83-go-md2man 2.0.1, delegate 3.2.0, dominikh/go-tools v0.2.2, erlang-erlydtl 0.7.0, esbuild 0.13.13, fatih-color v1.13.0, foxcpp/go-mockdns v1.0.0, github.com/golang-jwt/jwt 3.2.2, github.com/golang-jwt/jwt v4.2.0, github.com/golang-jwt/jwt v4.3.0, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, Go Testify 1.7.1, go-jsonpointer 20140810-snapshot-75939f54, go-ole-go-ole v1.2.6, go-zap v1.21.0, go.uber.org/goleak v1.1.11, golang-github-youmark-pkcs8 1.1, good-listener 1.2.2, hashicorp/go-hclog v1.1.0, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, jsoniter-go v1.1.12, libcxx 14.0.0, mapstructure v1.4.3, mattn-go-colorable v0.1.12, mattn-go-isatty v0.0.14, mattn-go-sqlite3 v1.14.11, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.11.0, msal4j-persistence-extension 1.1.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, RamdaJs 0.28.0, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, uber-go/atomic v1.9.0, urllib3 1.26.9, whitequark/ipaddr.js 2.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
 
 The MIT License
 ===============
@@ -8120,21 +8118,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(js-beautify 1.10.3)
-
-The MIT License (MIT)
-
-Copyright (c) 2007-2018 Einar Lielmanis, Liam Newman, and contributors.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (boltdb/bolt 1.3.0, go.etcd.io/bbolt v1.3.5)
 
 The MIT License (MIT)
@@ -8166,33 +8149,6 @@ MIT License
 The MIT License (MIT)
 
 Copyright (c) 2013 Mitchell Hashimoto
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
-(RamdaJs 0.26.1)
-
-The MIT License (MIT)
-
-Copyright (c) 2013-2018 Scott Sauyet and Michael Hurley
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -8620,7 +8576,7 @@ SOFTWARE
 ---
 
 MIT License
-(os-homedir 1.0.2, os-tmpdir 1.0.2, path-is-absolute 1.0.1)
+(path-is-absolute 1.0.1)
 
 The MIT License (MIT)
 
@@ -8702,7 +8658,7 @@ SOFTWARE
 ---
 
 MIT License
-(minimist 1.2.5, node-concat-map 0.0.1)
+(node-concat-map 0.0.1)
 
 This software is released under the MIT license:
 
