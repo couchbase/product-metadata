@@ -346,8 +346,6 @@ go-zap v1.21.0 : MIT License
 go-zookeeper 20150410-snapshot-fa6674ab : BSD 3-clause "New" or "Revised" License
 go-zookeeper 20200724-snapshot-2164a8ac : BSD 3-clause "New" or "Revised" License
 go.etcd.io/bbolt v1.3.5 : MIT License
-go.googlesource.com/tools 20181127-snapshot-45ff765b : BSD 3-clause "New" or "Revised" License
-go.googlesource.com/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
 go.uber.org/goleak v1.1.11 : MIT License
 go.uber.org/multierr v1.7.0 : MIT License
 godebug v1.1.0 : Apache License 2.0
@@ -398,6 +396,8 @@ golang.org/x/sys 20220114-snapshot-da31bd32 : BSD 3-clause "New" or "Revised" Li
 golang.org/x/term 20210927-snapshot-03fcf44c : BSD 3-clause "New" or "Revised" License
 golang.org/x/text v0.3.7 : BSD 3-clause "New" or "Revised" License
 golang.org/x/time 20220204-snapshot-90d013bb : BSD 3-clause "New" or "Revised" License
+golang.org/x/tools 20181127-snapshot-45ff765b : BSD 3-clause "New" or "Revised" License
+golang.org/x/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20200804-snapshot-5ec99f83 : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.7 : Apache License 2.0
 golang/geo 20210211-snapshot-740aa86c : Apache License 2.0
@@ -1553,7 +1553,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(Go programming language 1.11.6, Go programming language go1.13.7, go.googlesource.com/tools 20181127-snapshot-45ff765b, go.googlesource.com/tools 20181129-snapshot-e21233ff, golang.org/x/crypto 20171031-snapshot-bd6f299f, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180502-snapshot-faadfbdc, golang.org/x/crypto 20180513-snapshot-bd6f299f, golang.org/x/crypto 20180925-snapshot, golang.org/x/net 20170911-snapshot-66aacef3, golang.org/x/net 20180312-snapshot-a337091b, golang/text v0.3.4, miekg/dns v1.1.25)
+(Go programming language 1.11.6, Go programming language go1.13.7, golang.org/x/crypto 20171031-snapshot-bd6f299f, golang.org/x/crypto 20180222-snapshot-432090b8, golang.org/x/crypto 20180502-snapshot-faadfbdc, golang.org/x/crypto 20180513-snapshot-bd6f299f, golang.org/x/crypto 20180925-snapshot, golang.org/x/net 20170911-snapshot-66aacef3, golang.org/x/net 20180312-snapshot-a337091b, golang.org/x/tools 20181127-snapshot-45ff765b, golang.org/x/tools 20181129-snapshot-e21233ff, golang/text v0.3.4, miekg/dns v1.1.25)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
