@@ -5,56 +5,55 @@ Copyright 2022
 
 Components: 
 
-abonander/mime_guess 2.0.3 : MIT License
-addr2line 0.16.0 : (MIT License OR Apache License 2.0)
+abonander/mime_guess 2.0.4 : MIT License
+addr2line 0.17.0 : (MIT License OR Apache License 2.0)
 adler 1.0.2 : (BSD Zero Clause License OR MIT License OR Apache License 2.0)
 aes 0.6.0 : (MIT License OR Apache License 2.0)
 aes-gcm 0.8.0 : (MIT License OR Apache License 2.0)
 aes-soft 0.6.4 : (MIT License OR Apache License 2.0)
 aesni 0.10.0 : (MIT License OR Apache License 2.0)
-ahash 0.7.4 : (MIT License OR Apache License 2.0)
+ahash 0.7.6 : (MIT License OR Apache License 2.0)
 alexcrichton/cfg-if 1.0.0 : (MIT License AND Apache License 2.0)
-alexcrichton/jobserver-rs 0.1.22 : (MIT License AND Apache License 2.0)
-alexcrichton/openssl-probe 0.1.4 : (MIT License AND Apache License 2.0)
-alexcrichton/proc-macro2 1.0.28 : (MIT License OR Apache License 2.0)
+alexcrichton/jobserver-rs 0.1.24 : (MIT License AND Apache License 2.0)
+alexcrichton/openssl-probe 0.1.5 : (MIT License OR Apache License 2.0)
+alexcrichton/proc-macro2 1.0.40 : (MIT License OR Apache License 2.0)
 alexcrichton/rustc-demangle 0.1.21 : (MIT License OR Apache License 2.0)
-alexcrichton/socket2-rs 0.4.1 : (MIT License OR Apache License 2.0)
+alexcrichton/socket2-rs 0.4.4 : (MIT License OR Apache License 2.0)
 alloc-no-stdlib 2.0.3 : BSD 3-clause "New" or "Revised" License
 alloc-stdlib 0.2.1 : BSD 3-clause "New" or "Revised" License
 alphanumeric-sort 1.4.4 : MIT License
-Amanieu/parking_lot 0.12.0 : (MIT License AND Apache License 2.0)
-Amanieu/parking_lot 0.4.6 : (MIT License OR Apache License 2.0)
-Amanieu/parking_lot 0.9.1 : (MIT License OR Apache License 2.0)
+Amanieu/parking_lot 0.12.1 : (MIT License AND Apache License 2.0)
+Amanieu/parking_lot 0.4.7 : (MIT License OR Apache License 2.0)
+Amanieu/parking_lot 0.9.3 : (MIT License OR Apache License 2.0)
 Amanieu/thread_local-rs 1.1.4 : (MIT License OR Apache License 2.0)
 ansi-parser 0.8.0 : Mozilla Public License 2.0
 ansi-str 0.1.1 : MIT License
-anyhow 1.0.42 : (MIT License OR Apache License 2.0)
+anyhow 1.0.58 : (MIT License OR Apache License 2.0)
 array-init-cursor 0.2.0 : (MIT License OR Apache License 2.0)
 arrow-format 0.4.0 : Apache License 2.0
 arrow2 0.11.2 : Apache License 2.0
 as-slice 0.1.5 : (MIT License OR Apache License 2.0)
 async-channel 1.6.1 : (MIT License OR Apache License 2.0)
 async-executor 1.4.1 : (MIT License OR Apache License 2.0)
-async-global-executor 2.0.2 : (MIT License OR Apache License 2.0)
-async-io 1.6.0 : (MIT License OR Apache License 2.0)
-async-lock 2.4.0 : (MIT License OR Apache License 2.0)
-async-mutex 1.4.0 : (MIT License OR Apache License 2.0)
-async-std 1.9.0 : (MIT License OR Apache License 2.0)
-async-stream 0.3.2 : MIT License
-async-stream-impl 0.3.2 : MIT License
-async-task 4.0.3 : (MIT License OR Apache License 2.0)
-async-trait 0.1.51 : (MIT License OR Apache License 2.0)
+async-global-executor 2.2.0 : (MIT License OR Apache License 2.0)
+async-io 1.7.0 : (MIT License OR Apache License 2.0)
+async-lock 2.5.0 : (MIT License OR Apache License 2.0)
+async-std 1.12.0 : (MIT License OR Apache License 2.0)
+async-stream 0.3.3 : MIT License
+async-stream-impl 0.3.3 : MIT License
+async-task 4.2.0 : (MIT License OR Apache License 2.0)
+async-trait 0.1.56 : (MIT License OR Apache License 2.0)
 atomic-waker 1.0.0 : (MIT License OR Apache License 2.0)
-autocfg 1.0.1 : (MIT License OR Apache License 2.0)
-base-x 0.2.8 : MIT License
+autocfg 1.1.0 : (MIT License OR Apache License 2.0)
+base-x 0.2.11 : MIT License
 bitflags/bitflags 1.3.2 : (MIT License OR Apache License 2.0)
 bitpacking 0.8.4 : MIT License
-blocking 1.0.2 : (MIT License OR Apache License 2.0)
-bluejekyll/trust-dns 0.20.3 : (MIT License OR Apache License 2.0)
+blocking 1.2.0 : (MIT License OR Apache License 2.0)
+bluejekyll/trust-dns 0.20.4 : (MIT License OR Apache License 2.0)
 bluss/arrayvec 0.1.14 : (MIT License OR Apache License 2.0)
 bluss/arrayvec 0.7.2 : (MIT License OR Apache License 2.0)
 bluss/either 1.6.1 : (MIT License OR Apache License 2.0)
-bluss/indexmap 1.7.0 : (MIT License AND Apache License 2.0)
+bluss/indexmap 1.9.1 : (MIT License AND Apache License 2.0)
 bluss/maplit 1.0.2 : (MIT License OR Apache License 2.0)
 bluss/scopeguard 1.1.0 : (MIT License OR Apache License 2.0)
 briansmith/ring 0.16.20 : (SSLeay License AND ISC License AND The Open SSL License)
@@ -63,89 +62,88 @@ briansmith/webpki 0.22.0 :
 brotli-decompressor 2.3.2 : (MIT License OR BSD 3-clause "New" or "Revised" License)
 brownstone 1.1.0 : Mozilla Public License 2.0
 build_const 0.2.2 : MIT License
-BurntSushi/bstr 0.2.16 : 
+BurntSushi/bstr 0.2.17 : (MIT License OR Apache License 2.0)
 BurntSushi/byteorder 1.4.3 : MIT License
 BurntSushi/regex-automata 0.1.10 : 
 BurntSushi/rust-csv 0.1.10 : (MIT License OR The Unlicense)
 BurntSushi/rust-csv 1.1.6 : MIT License
-BurntSushi/rust-memchr 2.4.0 : (MIT License OR The Unlicense)
+BurntSushi/rust-memchr 2.5.0 : (MIT License OR The Unlicense)
 BurntSushi/same-file 1.0.6 : The Unlicense
-BurntSushi/termcolor 1.1.2 : (MIT License OR The Unlicense)
+BurntSushi/termcolor 1.1.3 : (MIT License OR The Unlicense)
 BurntSushi/ucd-generate 0.1.3 : (MIT License OR Apache License 2.0)
 BurntSushi/walkdir 2.3.2 : MIT License
-byte-unit 4.0.12 : MIT License
-bytemuck 1.7.2 : (zlib License OR MIT License OR Apache License 2.0)
-bytemuck_derive 1.0.1 : (zlib License OR MIT License OR Apache License 2.0)
+byte-unit 4.0.14 : MIT License
+bytemuck 1.9.1 : (zlib License OR MIT License OR Apache License 2.0)
+bytemuck_derive 1.1.0 : (zlib License OR MIT License OR Apache License 2.0)
 bytesize 1.1.0 : Apache License 2.0
-cache-padded 1.1.1 : (MIT License OR Apache License 2.0)
+cache-padded 1.2.0 : (MIT License OR Apache License 2.0)
 calamine 0.18.0 : MIT License
-capnproto/capnproto-rust 0.14.5 : MIT License
+capnproto/capnproto-rust 0.14.6 : MIT License
 carllerche/iovec 0.1.4 : (MIT License OR Apache License 2.0)
-cc-rs 1.0.69 : MIT License
+cc-rs 1.0.73 : MIT License
 chrono-humanize 0.2.1 : (MIT License OR Apache License 2.0)
 chrono-tz 0.6.1 : (MIT License OR Apache License 2.0)
 chrono-tz-build 0.0.2 : (MIT License OR Apache License 2.0)
 chronotope/chrono v0.4.19 : (MIT License OR Apache License 2.0)
 chyh1990/yaml-rust 0.4.5 : (MIT License OR Apache License 2.0)
-clap-rs/clap 2.33.3 : MIT License
+clap-rs/clap 2.34.0 : MIT License
 codepage 0.1.1 : (MIT License OR Apache License 2.0)
 comfy-table 5.0.1 : MIT License
 concurrent-queue 1.2.2 : (MIT License OR Apache License 2.0)
 console 0.15.0 : MIT License
-const_fn 0.4.8 : (MIT License OR Apache License 2.0)
-const_format 0.2.22 : zlib License
+const_fn 0.4.9 : (MIT License OR Apache License 2.0)
+const_format 0.2.25 : zlib License
 const_format_proc_macros 0.2.22 : zlib License
 contain-rs/vec-map 0.8.2 : (MIT License OR Apache License 2.0)
 crc-rs 1.8.1 : MIT License
+crossbeam (rust) 0.5.5 : (MIT License OR Apache License 2.0)
 crossbeam (rust) 0.8.1 : (MIT License OR Apache License 2.0)
-crossbeam (rust) 0.8.8 : (MIT License OR Apache License 2.0)
-crossbeam (rust) 0.9.5 : (MIT License OR Apache License 2.0)
-crossbeam (rust) v0.5.1 : MIT License
-crossterm 0.23.0 : MIT License
+crossbeam (rust) 0.8.10 : (MIT License OR Apache License 2.0)
+crossbeam (rust) 0.9.9 : (MIT License OR Apache License 2.0)
+crossterm 0.23.2 : MIT License
 crossterm_winapi 0.9.0 : MIT License
 crunchy 0.2.2 : MIT License
-cryptocorrosion/cryptocorrosion 0.2.10 : (MIT License OR Apache License 2.0)
-cstr_core 0.2.4 : (MIT License OR Apache License 2.0)
-ctor 0.1.20 : (MIT License OR Apache License 2.0)
+cryptocorrosion/cryptocorrosion 0.2.16 : (MIT License OR Apache License 2.0)
+cstr_core 0.2.5 : (MIT License OR Apache License 2.0)
+ctor 0.1.22 : (MIT License OR Apache License 2.0)
 ctr 0.6.0 : (MIT License OR Apache License 2.0)
-cty 0.2.1 : (MIT License OR Apache License 2.0)
+cty 0.2.2 : (MIT License OR Apache License 2.0)
 ctz/sct.rs 0.7.0 : (MIT License OR ISC License OR Apache License 2.0)
-Detegr/rust-ctrlc 3.2.1 : (MIT License OR Apache License 2.0)
+Detegr/rust-ctrlc 3.2.2 : (MIT License OR Apache License 2.0)
 dguo/strsim-rs 0.8.0 : MIT License
 dialoguer 0.9.0 : MIT License
 dirs 4.0.0 : (MIT License OR Apache License 2.0)
 dirs-next 2.0.0 : (MIT License OR Apache License 2.0)
-dirs-sys 0.3.6 : (MIT License OR Apache License 2.0)
+dirs-sys 0.3.7 : (MIT License OR Apache License 2.0)
 dirs-sys-next 0.1.2 : (MIT License OR Apache License 2.0)
 discard 1.0.4 : MIT License
-dropbox/rust-brotli 3.3.2 : (MIT License OR BSD 3-clause "New" or "Revised" License)
+dropbox/rust-brotli 3.3.4 : BSD 3-clause "New" or "Revised" License
 dtolnay/dtoa 0.4.8 : 
 dtolnay/itoa 1.0.2 : (MIT License OR Apache License 2.0)
-dtolnay/quote 1.0.9 : (MIT License AND Apache License 2.0)
-dtolnay/ryu 1.0.5 : (Apache License 2.0 OR Boost Software License 1.0)
-dtolnay/serde-yaml 0.8.17 : 
+dtolnay/quote 1.0.20 : (MIT License AND Apache License 2.0)
+dtolnay/ryu 1.0.10 : (Apache License 2.0 OR Boost Software License 1.0)
+dtolnay/serde-yaml 0.8.24 : (MIT License OR Apache License 2.0)
 dtolnay/typetag 0.1.8 : (MIT License OR Apache License 2.0)
-dtparse 1.2.0 : Apache License 2.0
+dtparse 1.3.0 : Apache License 2.0
 dunce 1.0.2 : Creative Commons Zero v1.0 Universal
-embed-resource 1.7.1 : MIT License
-eml-parser 0.1.2 : 
+eml-parser 0.1.3 : 
 encode_unicode 0.3.6 : (MIT License OR Apache License 2.0)
-encoding_rs 0.8.30 : (MIT License AND Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
-enum-as-inner 0.3.3 : (MIT License OR Apache License 2.0)
+encoding_rs 0.8.31 : (BSD 3-clause "New" or "Revised" License AND (MIT License OR Apache License 2.0))
+enum-as-inner 0.3.4 : (MIT License OR Apache License 2.0)
 env_logger 0.8.4 : (MIT License OR Apache License 2.0)
-erased-serde 0.3.18 : (MIT License OR Apache License 2.0)
+erased-serde 0.3.21 : (MIT License OR Apache License 2.0)
 errno 0.2.8 : (MIT License OR Apache License 2.0)
 errno-dragonfly 0.1.2 : MIT License
-event-listener 2.5.1 : (MIT License OR Apache License 2.0)
-fake 2.4.0 : (MIT License OR Apache License 2.0)
+event-listener 2.5.2 : (MIT License OR Apache License 2.0)
+fake 2.5.0 : (MIT License OR Apache License 2.0)
 fallible-iterator 0.2.0 : (MIT License OR Apache License 2.0)
 fallible-streaming-iterator 0.1.9 : (MIT License OR Apache License 2.0)
-fastrand 1.5.0 : (MIT License OR Apache License 2.0)
-fd-lock 3.0.4 : (MIT License OR Apache License 2.0)
+fastrand 1.7.0 : (MIT License OR Apache License 2.0)
+fd-lock 3.0.6 : (MIT License OR Apache License 2.0)
 filesize 0.2.0 : MIT License
 filetime 0.2.16 : (MIT License OR Apache License 2.0)
-fitzgen/bumpalo 3.7.0 : Apache License 2.0
-flate2 1.0.20 : (MIT License AND Apache License 2.0)
+fitzgen/bumpalo 3.10.0 : (MIT License OR Apache License 2.0)
+flate2 1.0.24 : (MIT License OR Apache License 2.0)
 foreign-types 0.1.1 : (MIT License OR Apache License 2.0)
 foreign-types 0.3.2 : (MIT License OR Apache License 2.0)
 fsevent 0.4.0 : MIT License
@@ -153,19 +151,19 @@ fsevent-sys 2.0.1 : MIT License
 fuchsia-zircon 0.3.3 : BSD 3-clause "New" or "Revised" License
 fuchsia-zircon-sys 0.3.3 : BSD 3-clause "New" or "Revised" License
 futures-lite 1.12.0 : (MIT License OR Apache License 2.0)
-futures-task 0.3.16 : (MIT License OR Apache License 2.0)
+futures-task 0.3.21 : (MIT License OR Apache License 2.0)
 fuzzy-matcher 0.3.7 : MIT License
-generic-array 0.14.4 : MIT License
-getrandom 0.2.3 : (MIT License OR Apache License 2.0)
-getset 0.1.1 : MIT License
+generic-array 0.14.5 : MIT License
+gethostname 0.2.3 : Apache License 2.0
+getrandom 0.2.7 : (MIT License OR Apache License 2.0)
+getset 0.1.2 : MIT License
 ghash 0.3.1 : (MIT License OR Apache License 2.0)
-ghost 0.1.2 : (MIT License OR Apache License 2.0)
-Gilnaa/memoffset 0.6.4 : MIT License
-gimli-rs 0.25.0 : 
+Gilnaa/memoffset 0.6.5 : MIT License
+gimli-rs 0.26.1 : (MIT License OR Apache License 2.0)
 glob 0.3.0 : (MIT License OR Apache License 2.0)
 globwalk 0.8.1 : MIT License
 hamcrest2 0.3.0 : (MIT License OR Apache License 2.0)
-harryfei/which-rs 4.2.2 : MIT License
+harryfei/which-rs 4.2.5 : MIT License
 hash32 0.1.1 : (MIT License OR Apache License 2.0)
 hash_hasher 2.0.3 : (MIT License OR Apache License 2.0)
 hashlink 0.7.0 : (MIT License OR Apache License 2.0)
@@ -175,15 +173,15 @@ hex 0.4.3 : (MIT License OR Apache License 2.0)
 hkdf 0.10.0 : (MIT License OR Apache License 2.0)
 hostname 0.3.1 : MIT License
 htmlescape 0.3.1 : (MIT License OR Apache License 2.0 OR Mozilla Public License 2.0)
-http-types 2.11.1 : (MIT License OR Apache License 2.0)
-httpdate 1.0.1 : (MIT License OR Apache License 2.0)
+http-types 2.12.0 : (MIT License OR Apache License 2.0)
+httpdate 1.0.2 : (MIT License OR Apache License 2.0)
 humansize 1.1.1 : (MIT License OR Apache License 2.0)
-humantime-serde 1.0.1 : (MIT License OR Apache License 2.0)
-hyper-rustls 0.22.1 : (MIT License OR ISC License OR Apache License 2.0)
+humantime-serde 1.1.1 : (MIT License OR Apache License 2.0)
+hyper-rustls 0.23.0 : (MIT License OR ISC License OR Apache License 2.0)
 hyper-tls 0.5.0 : (MIT License OR Apache License 2.0)
-hyperium/h2 v0.3.13 : MIT License
-hyperium/http 0.2.4 : (MIT License OR Apache License 2.0)
-hyperium/http-body 0.4.2 : MIT License
+hyperium/h2 0.3.13 : MIT License
+hyperium/http 0.2.8 : (MIT License AND Apache License 2.0)
+hyperium/http-body 0.4.5 : MIT License
 hyperium/mime 0.3.16 : (MIT License OR Apache License 2.0)
 ia0/data-encoding 2.3.2 : MIT License
 ical 0.7.0 : 
@@ -192,20 +190,21 @@ infer 0.2.3 : MIT License
 Inflector 0.11.4 : BSD 2-clause "Simplified" License
 inotify 0.7.1 : ISC License
 inotify-sys 0.1.5 : ISC License
-instant 0.1.10 : BSD 3-clause "New" or "Revised" License
-integer-encoding 3.0.2 : MIT License
-inventory 0.2.2 : (MIT License OR Apache License 2.0)
-io-lifetimes 0.5.3 : (MIT License OR Apache License 2.0 with Exceptions OR Apache License 2.0)
+instant 0.1.12 : BSD 3-clause "New" or "Revised" License
+integer-encoding 3.0.4 : MIT License
+inventory 0.2.3 : (MIT License OR Apache License 2.0)
+io-lifetimes 0.7.2 : (MIT License OR Apache License 2.0 with Exceptions OR Apache License 2.0)
 ipconfig 0.2.2 : (MIT License OR Apache License 2.0)
-ipnet 2.3.1 : (MIT License OR Apache License 2.0)
+ipnet 2.5.0 : (MIT License OR Apache License 2.0)
+is-root 0.1.2 : MIT License
 is_ci 1.1.1 : ISC License
 is_debug 1.0.1 : (MIT License AND Apache License 2.0)
 is_executable 1.0.1 : (MIT License OR Apache License 2.0)
 japaric/heapless 0.5.6 : (MIT License OR Apache License 2.0)
-jedisct1/rust-siphash 0.3.7 : Apache License 2.0
+jedisct1/rust-siphash 0.3.10 : Apache License 2.0
 joinery 2.1.0 : MIT License
-Keats/tera 1.12.1 : MIT License
-Kimundi/rustc-version-rs 0.4.0 : (MIT License OR Apache License 2.0)
+Keats/tera 1.16.0 : MIT License
+Kimundi/rustc-version-rs 0.2.3 : (MIT License OR Apache License 2.0)
 kornelski/deunicode 0.4.3 : BSD 3-clause "New" or "Revised" License
 koute/stdweb 0.1.5 : (MIT License OR Apache License 2.0)
 koute/stdweb 0.2.9 : (MIT License OR Apache License 2.0)
@@ -214,88 +213,89 @@ koute/stdweb 0.5.3 : (MIT License OR Apache License 2.0)
 kv-log-macro 1.0.7 : (MIT License OR Apache License 2.0)
 lazy_static 1.4.0 : (MIT License AND Apache License 2.0)
 lazycell 1.3.0 : (MIT License OR Apache License 2.0)
-lexical 6.0.1 : (MIT License OR Apache License 2.0)
-lexical-core 0.8.2 : (MIT License OR Apache License 2.0)
-lexical-parse-float 0.8.2 : (MIT License OR Apache License 2.0)
-lexical-parse-integer 0.8.0 : (MIT License OR Apache License 2.0)
-lexical-util 0.8.1 : (MIT License OR Apache License 2.0)
-lexical-write-float 0.8.2 : (MIT License OR Apache License 2.0)
-lexical-write-integer 0.8.0 : (MIT License OR Apache License 2.0)
-libm 0.2.1 : (MIT License OR Apache License 2.0)
+lexical 6.1.1 : (MIT License OR Apache License 2.0)
+lexical-core 0.8.5 : (MIT License OR Apache License 2.0)
+lexical-parse-float 0.8.5 : (MIT License OR Apache License 2.0)
+lexical-parse-integer 0.8.6 : (MIT License OR Apache License 2.0)
+lexical-util 0.8.5 : (MIT License OR Apache License 2.0)
+lexical-write-float 0.8.5 : (MIT License OR Apache License 2.0)
+lexical-write-integer 0.8.5 : (MIT License OR Apache License 2.0)
+libm 0.2.2 : (MIT License OR Apache License 2.0)
 libproc 0.10.0 : MIT License
 libsqlite3-sys 0.24.2 : MIT License
-linked-hash-map 0.5.4 : (MIT License OR Apache License 2.0)
-linux-raw-sys 0.0.42 : (MIT License OR Apache License 2.0 with Exceptions OR Apache License 2.0)
-log 0.4.14 : (MIT License OR Apache License 2.0)
+linked-hash-map 0.5.6 : (MIT License OR Apache License 2.0)
+linux-raw-sys 0.0.46 : (MIT License OR Apache License 2.0 with Exceptions OR Apache License 2.0)
+log 0.4.17 : (MIT License OR Apache License 2.0)
 lru-cache 0.1.2 : (MIT License OR Apache License 2.0)
 lz4 1.23.3 : MIT License
 lz4-sys 1.9.3 : MIT License
 malloc_buf 0.0.6 : MIT License
 match_cfg 0.1.0 : (MIT License OR Apache License 2.0)
-matches 0.1.8 : MIT License
-matklad/once_cell 1.8.0 : (MIT License OR Apache License 2.0)
-memmap2 0.5.3 : (MIT License OR Apache License 2.0)
+matches 0.1.9 : MIT License
+matklad/once_cell 1.12.0 : Apache License 2.0
+memmap2 0.5.4 : (MIT License OR Apache License 2.0)
 meval 0.2.0 : (MIT License OR The Unlicense)
 mgeisler/textwrap 0.15.0 : MIT License
-miette 4.6.0 : Apache License 2.0
-miette-derive 4.6.0 : Apache License 2.0
+miette 4.7.1 : Apache License 2.0
+miette-derive 4.7.1 : Apache License 2.0
 minimal-lexical 0.2.1 : (MIT License OR Apache License 2.0)
-miniz_oxide 0.4.4 : (zlib License OR MIT License OR Apache License 2.0)
+miniz_oxide 0.5.3 : (zlib License OR MIT License OR Apache License 2.0)
 mio-extras 2.0.6 : (MIT License OR Apache License 2.0)
-miow 0.3.7 : (MIT License OR Apache License 2.0)
-mitsuhiko/rust-sha1 0.6.0 : BSD 3-clause "New" or "Revised" License
+miow 0.2.2 : (MIT License OR Apache License 2.0)
+mitsuhiko/rust-sha1 0.6.1 : BSD 3-clause "New" or "Revised" License
 multiversion 0.6.1 : (MIT License OR Apache License 2.0)
 multiversion-macros 0.6.1 : (MIT License OR Apache License 2.0)
 mvdnes/spin-rs 0.5.2 : MIT License
-native-tls 0.2.7 : (MIT License OR Apache License 2.0)
+native-tls 0.2.10 : (MIT License OR Apache License 2.0)
 net2 0.2.37 : (MIT License OR Apache License 2.0)
-nix-rust/nix 0.23.1 : MIT License
+nix-rust/nix 0.24.1 : MIT License
 nom-supreme 0.6.0 : Mozilla Public License 2.0
-nox/serde_urlencoded 0.7.0 : (MIT License OR Apache License 2.0)
-ntapi 0.3.6 : (MIT License OR Apache License 2.0)
-Nu Shell 0.63.0 : MIT License
-nu-ansi-term 0.45.1 : MIT License
-nu-cli 0.63.0 : MIT License
-nu-color-config 0.63.0 : MIT License
-nu-command 0.63.0 : MIT License
-nu-engine 0.63.0 : MIT License
-nu-glob 0.63.0 : (MIT License OR Apache License 2.0)
-nu-json 0.63.0 : MIT License
-nu-parser 0.63.0 : MIT License
-nu-path 0.63.0 : MIT License
-nu-plugin 0.63.0 : MIT License
-nu-pretty-hex 0.63.0 : MIT License
-nu-protocol 0.63.0 : MIT License
-nu-system 0.63.0 : MIT License
-nu-table 0.63.0 : MIT License
-nu-term-grid 0.63.0 : MIT License
-nu-test-support 0.63.0 : MIT License
-nu-utils 0.63.0 : MIT License
+nox/serde_urlencoded 0.7.1 : (MIT License OR Apache License 2.0)
+ntapi 0.3.7 : (MIT License OR Apache License 2.0)
+Nu Shell 0.64.0 : MIT License
+nu-ansi-term 0.46.0 : MIT License
+nu-cli 0.64.0 : MIT License
+nu-color-config 0.64.0 : MIT License
+nu-command 0.64.0 : MIT License
+nu-engine 0.64.0 : MIT License
+nu-glob 0.64.0 : (MIT License OR Apache License 2.0)
+nu-json 0.64.0 : MIT License
+nu-parser 0.64.0 : MIT License
+nu-path 0.64.0 : MIT License
+nu-plugin 0.64.0 : MIT License
+nu-pretty-hex 0.64.0 : MIT License
+nu-protocol 0.64.0 : MIT License
+nu-system 0.64.0 : MIT License
+nu-table 0.64.0 : MIT License
+nu-term-grid 0.64.0 : MIT License
+nu-test-support 0.64.0 : MIT License
+nu-utils 0.64.0 : MIT License
 num-bigint 0.4.3 : (MIT License OR Apache License 2.0)
 num-format 0.4.0 : (MIT License OR Apache License 2.0)
-num-integer 0.1.44 : (MIT License OR Apache License 2.0)
-num-iter 0.1.42 : (MIT License OR Apache License 2.0)
-num-rational 0.4.0 : (MIT License OR Apache License 2.0)
-num-traits num-traits-0.2.14 : (MIT License OR Apache License 2.0)
-num_cpus 1.13.0 : (MIT License OR Apache License 2.0)
+num-integer 0.1.45 : (MIT License OR Apache License 2.0)
+num-iter 0.1.43 : (MIT License OR Apache License 2.0)
+num-rational 0.4.1 : (MIT License OR Apache License 2.0)
+num-traits 0.2.15 : (MIT License AND Apache License 2.0)
+num_cpus 1.13.1 : (MIT License OR Apache License 2.0)
 nvzqz/static-assertions-rs 1.1.0 : (MIT License OR Apache License 2.0)
 objc 0.2.7 : MIT License
-object-rs 0.26.0 : Apache License 2.0
+object-rs 0.28.4 : (MIT License OR Apache License 2.0)
 ogham/rust-users 0.11.0 : MIT License
+openssl-macros 0.1.0 : (MIT License OR Apache License 2.0)
 overload 0.1.1 : MIT License
-owo-colors 3.2.0 : MIT License
+owo-colors 3.4.0 : MIT License
 paholg/typenum 1.15.0 : (MIT License OR Apache License 2.0)
 parking 2.0.0 : (MIT License OR Apache License 2.0)
-parquet-format-async-temp 0.3.0 : Apache License 2.0
+parquet-format-async-temp 0.3.1 : Apache License 2.0
 parquet2 0.12.1 : Apache License 2.0
 parse-zoneinfo 0.3.0 : MIT License
 passcod/notify 4.0.17 : Creative Commons Zero v1.0 Universal
 pathdiff 0.2.1 : (MIT License OR Apache License 2.0)
 pest-parser 2.1.0 : (MIT License OR Apache License 2.0)
 pest-parser 2.1.3 : (MIT License OR Apache License 2.0)
-pin-project-lite 0.2.7 : (MIT License OR Apache License 2.0)
+pin-project-lite 0.2.9 : (MIT License OR Apache License 2.0)
 pin-utils 0.1.0 : (MIT License OR Apache License 2.0)
-pkg-config 0.3.19 : (MIT License OR Apache License 2.0)
+pkg-config 0.3.25 : (MIT License OR Apache License 2.0)
 planus 0.2.0 : (MIT License OR Apache License 2.0)
 polars 0.21.1 : MIT License
 polars-arrow 0.21.1 : MIT License
@@ -305,62 +305,63 @@ polars-lazy 0.21.1 : MIT License
 polars-ops 0.21.1 : MIT License
 polars-time 0.21.1 : MIT License
 polars-utils 0.21.1 : MIT License
-polling 2.1.0 : (MIT License OR Apache License 2.0)
+polling 2.2.0 : (MIT License OR Apache License 2.0)
 polyval 0.4.5 : (MIT License OR Apache License 2.0)
 pori 0.0.0 : MIT License
-powierza-coefficient 1.0.0 : MIT License
+powierza-coefficient 1.0.1 : MIT License
 proc-macro-error 1.0.4 : (MIT License OR Apache License 2.0)
 proc-macro-error-attr 1.0.4 : (MIT License OR Apache License 2.0)
 proc-macro-hack 0.5.19 : (MIT License OR Apache License 2.0)
-proc-macro-nested 0.1.7 : (MIT License OR Apache License 2.0)
 procfs 0.12.0 : (MIT License OR Apache License 2.0)
 pwd 1.3.1 : 
 rand_chacha 0.3.1 : MIT License
 rand_core 0.6.3 : (MIT License OR Apache License 2.0)
 rand_distr 0.4.3 : MIT License
-rand_hc 0.3.1 : MIT License
-rayon 1.5.1 : (MIT License OR Apache License 2.0)
-rayon 1.9.1 : (MIT License OR Apache License 2.0)
-redox-os 0.2.9 : MIT License
-redox_users 0.4.0 : MIT License
-reedline 0.6.0 : MIT License
+rand_hc 0.2.0 : MIT License
+rand_pcg 0.2.1 : MIT License
+random_color 0.6.1 : MIT License
+rayon 1.5.3 : Apache License 2.0
+rayon 1.9.3 : (MIT License OR Apache License 2.0)
+redox-os 0.2.13 : MIT License
+redox_users 0.4.3 : MIT License
+reedline 0.7.0 : MIT License
 reem/rust-void 1.0.2 : 
 resolv-conf 0.7.0 : (MIT License OR Apache License 2.0)
 result 1.0.0 : MIT License
 ripgrep 0.4.18 : (MIT License OR The Unlicense)
-ripgrep 0.4.8 : (MIT License OR The Unlicense)
+ripgrep 0.4.9 : (MIT License OR The Unlicense)
 roxmltree 0.14.1 : (MIT License OR Apache License 2.0)
 rpassword 4.0.5 : Apache License 2.0
-rusqlite v0.27.0 : MIT License
+rusqlite 0.27.0 : MIT License
 rust-aho-corasick 0.7.18 : (MIT License OR The Unlicense)
 rust-ansi-term v0.12.1 : MIT License
 rust-base64 0.13.0 : (MIT License OR Apache License 2.0)
-rust-embed 6.3.0 : MIT License
+rust-embed 6.4.0 : MIT License
 rust-embed-impl 6.2.0 : MIT License
-rust-embed-utils 7.1.0 : MIT License
-rust-hyper v0.14.19 : MIT License
+rust-embed-utils 7.2.0 : MIT License
+rust-hyper 0.14.19 : MIT License
 rust-itertools/itertools 0.10.3 : Apache License 2.0
 rust-lang-nursery/failure 0.1.8 : (MIT License OR Apache License 2.0)
-rust-lang-nursery/futures-rs 0.3.16 : (MIT License AND Apache License 2.0)
-rust-lang/backtrace-rs 0.3.61 : 
-rust-lang/hashbrown 0.12.0 : (MIT License AND Apache License 2.0)
-rust-libc 0.2.119 : (MIT License AND Apache License 2.0)
-rust-mio 0.7.13 : MIT License
+rust-lang-nursery/futures-rs 0.3.21 : (MIT License OR Apache License 2.0)
+rust-lang/backtrace-rs 0.3.65 : (MIT License OR Apache License 2.0)
+rust-lang/hashbrown 0.12.1 : (MIT License AND Apache License 2.0)
+rust-libc 0.2.126 : (MIT License AND Apache License 2.0)
+rust-mio 0.8.4 : MIT License
 rust-nom 7.1.1 : MIT License
 rust-num/num num-0.4.0 : (MIT License AND Apache License 2.0)
-rust-num/num-complex num-complex-0.4.0 : (MIT License AND Apache License 2.0)
-rust-openssl 0.10.35 : Apache License 2.0
-rust-openssl 0.9.65 : MIT License
+rust-num/num-complex 0.4.2 : (MIT License OR Apache License 2.0)
+rust-openssl 0.10.40 : Apache License 2.0
+rust-openssl 0.9.74 : MIT License
 rust-phf 0.10.0 : MIT License
 rust-phf 0.10.1 : MIT License
-rust-random/rand 0.8.4 : (MIT License OR Apache License 2.0)
-rust-regex 0.6.25 : (MIT License OR Apache License 2.0)
-rust-regex 1.5.5 : (MIT License AND Apache License 2.0)
+rust-random/rand 0.8.5 : (MIT License OR Apache License 2.0)
+rust-regex 0.6.26 : (MIT License OR Apache License 2.0)
+rust-regex 1.5.6 : (MIT License AND Apache License 2.0)
 rust-url 0.2.3 : (MIT License AND Apache License 2.0)
 rust-url 1.0.1 : (MIT License OR Apache License 2.0)
 rust-url 2.1.0 : (MIT License OR Apache License 2.0)
 rust-url 2.2.2 : (MIT License AND Apache License 2.0)
-rust_decimal 0.10.2 : MIT License
+rust_decimal 1.25.0 : MIT License
 RustCrypto/hashes 0.10.1 : (MIT License OR Apache License 2.0)
 RustCrypto/hashes 0.10.2 : (MIT License OR Apache License 2.0)
 RustCrypto/hashes 0.8.2 : (MIT License OR Apache License 2.0)
@@ -375,124 +376,122 @@ RustCrypto/utils 0.1.2 : (MIT License OR Apache License 2.0)
 RustCrypto/utils 0.1.5 : (MIT License OR Apache License 2.0)
 RustCrypto/utils 0.10.2 : (MIT License OR Apache License 2.0)
 RustCrypto/utils 0.2.0 : (MIT License OR Apache License 2.0)
-RustCrypto/utils 0.2.1 : (MIT License OR Apache License 2.0)
+RustCrypto/utils 0.2.2 : (MIT License OR Apache License 2.0)
 RustCrypto/utils 0.3.0 : (MIT License OR Apache License 2.0)
 RustCrypto/utils 0.3.1 : (MIT License OR Apache License 2.0)
-rustix 0.33.3 : (MIT License OR Apache License 2.0 with Exceptions OR Apache License 2.0)
+rustix 0.35.6 : (MIT License OR Apache License 2.0 with Exceptions OR Apache License 2.0)
 rustls 0.20.6 : (MIT License OR ISC License OR Apache License 2.0)
 rustls-pemfile 1.0.0 : (MIT License OR ISC License OR Apache License 2.0)
-rustversion 1.0.5 : (MIT License OR Apache License 2.0)
-rustwasm/gloo 0.2.1 : (MIT License OR Apache License 2.0)
-seanmonstar/httparse v1.7.1 : (MIT License OR Apache License 2.0)
+rustversion 1.0.7 : (MIT License OR Apache License 2.0)
+rustwasm/gloo 0.2.4 : (MIT License OR Apache License 2.0)
+seanmonstar/httparse 1.7.1 : (MIT License OR Apache License 2.0)
 seanmonstar/pretty-env-logger 0.4.0 : (MIT License OR Apache License 2.0)
-seanmonstar/reqwest 0.11.4 : (MIT License OR Apache License 2.0)
+seanmonstar/reqwest 0.11.11 : (MIT License AND Apache License 2.0)
 seanmonstar/try-lock 0.2.3 : MIT License
 seanmonstar/unicase 2.6.0 : (MIT License OR Apache License 2.0)
 seanmonstar/want 0.3.0 : MIT License
-security-framework 2.3.0 : (MIT License OR Apache License 2.0)
-security-framework 2.3.1 : (MIT License OR Apache License 2.0)
-semver 1.0.6 : (MIT License OR Apache License 2.0)
+security-framework 2.6.1 : (MIT License OR Apache License 2.0)
+semver 0.9.0 : (MIT License OR Apache License 2.0)
 semver-parser v0.7.0 : (MIT License AND Apache License 2.0)
-serde 1.0.127 : (MIT License OR Apache License 2.0)
-serde 1.0.136 : (MIT License OR Apache License 2.0)
+serde 1.0.137 : (MIT License OR Apache License 2.0)
 serde_ini 0.2.0 : MIT License
-serde_json 1.0.66 : (MIT License OR Apache License 2.0)
-serde_qs 0.7.2 : (MIT License OR Apache License 2.0)
+serde_json 1.0.81 : Apache License 2.0
+serde_qs 0.8.5 : (MIT License OR Apache License 2.0)
 SergioBenitez/cookie-rs 0.14.4 : (MIT License OR Apache License 2.0)
-SergioBenitez/version_check 0.9.3 : (MIT License OR Apache License 2.0)
-servo/core-foundation-rs 0.8.2 : (MIT License OR Apache License 2.0)
-servo/core-foundation-rs 0.9.1 : (MIT License OR Apache License 2.0)
+SergioBenitez/version_check 0.9.4 : (MIT License OR Apache License 2.0)
+servo/core-foundation-rs 0.8.3 : (MIT License OR Apache License 2.0)
+servo/core-foundation-rs 0.9.3 : (MIT License AND Apache License 2.0)
 servo/rust-fnv 1.0.7 : (MIT License OR Apache License 2.0)
-servo/rust-smallvec 1.6.1 : (MIT License OR Apache License 2.0)
-servo/unicode-bidi 0.3.5 : (MIT License OR Apache License 2.0)
+servo/rust-smallvec 1.8.1 : (MIT License OR Apache License 2.0)
+servo/unicode-bidi 0.3.8 : (MIT License OR Apache License 2.0)
+sha1_smol 1.0.0 : BSD 3-clause "New" or "Revised" License
 shadow-rs 0.11.0 : (MIT License AND Apache License 2.0)
 sharkdp/lscolors 0.9.0 : (MIT License OR Apache License 2.0)
-signal-hook 0.3.13 : (MIT License OR Apache License 2.0)
-signal-hook-mio 0.2.1 : (MIT License OR Apache License 2.0)
+signal-hook 0.3.14 : (MIT License OR Apache License 2.0)
+signal-hook-mio 0.2.3 : (MIT License OR Apache License 2.0)
 signal-hook-registry 1.4.0 : (MIT License OR Apache License 2.0)
-simdutf8 0.1.3 : (MIT License OR Apache License 2.0)
-slab 0.4.3 : MIT License
+simdutf8 0.1.4 : (MIT License OR Apache License 2.0)
+slab 0.4.6 : MIT License
 slug 0.1.4 : (MIT License OR Apache License 2.0)
 smawk 0.3.1 : MIT License
 snap 1.0.5 : BSD 3-clause "New" or "Revised" License
 softprops/atty 0.2.14 : MIT License
 sqlparser 0.16.0 : Apache License 2.0
-srijs/rust-crc32fast 1.2.1 : (MIT License OR Apache License 2.0)
+srijs/rust-crc32fast 1.3.2 : (MIT License OR Apache License 2.0)
 stable_deref_trait 1.2.0 : (MIT License OR Apache License 2.0)
 standback 0.2.17 : (MIT License OR Apache License 2.0)
-Stebalien/tempfile 3.2.0 : (MIT License OR Apache License 2.0)
-steffengy/schannel-rs 0.1.19 : MIT License
+Stebalien/tempfile 3.3.0 : (MIT License OR Apache License 2.0)
+steffengy/schannel-rs 0.1.20 : MIT License
 streaming-decompression 0.1.0 : Apache License 2.0
-streaming-iterator 0.1.5 : (MIT License OR Apache License 2.0)
+streaming-iterator 0.1.6 : (MIT License OR Apache License 2.0)
 strength_reduce 0.2.3 : (MIT License OR Apache License 2.0)
 strip-ansi-escapes 0.1.1 : (MIT License OR Apache License 2.0)
-strum-rs 0.24.0 : MIT License
+strum-rs 0.24.1 : MIT License
+strum-rs 0.24.2 : MIT License
 subtle 2.4.1 : BSD 3-clause "New" or "Revised" License
 supports-color 1.3.0 : Apache License 2.0
 supports-hyperlinks 1.2.0 : Apache License 2.0
 supports-unicode 1.0.2 : Apache License 2.0
-syn 1.0.74 : (MIT License AND Apache License 2.0)
+syn 1.0.98 : Apache License 2.0
 synstructure 0.12.6 : MIT License
-sys-locale 0.2.0 : (MIT License OR Apache License 2.0)
-sysinfo-rs 0.23.11 : MIT License
+sys-locale 0.2.1 : (MIT License OR Apache License 2.0)
+sysinfo-rs 0.24.5 : MIT License
 tafia/quick-xml 0.22.0 : MIT License
 tailhook/humantime 2.1.0 : (MIT License OR Apache License 2.0)
 tailhook/quick-error 1.2.3 : (MIT License OR Apache License 2.0)
 temp-dir 0.1.11 : Apache License 2.0
 terminal_size 0.1.17 : (MIT License OR Apache License 2.0)
-TeXitoi/structopt 0.3.22 : (MIT License OR Apache License 2.0)
-TeXitoi/structopt 0.4.15 : (MIT License OR Apache License 2.0)
-thiserror 1.0.30 : (MIT License OR Apache License 2.0)
-thiserror-impl 1.0.30 : (MIT License OR Apache License 2.0)
+TeXitoi/structopt 0.3.26 : (MIT License OR Apache License 2.0)
+TeXitoi/structopt 0.4.18 : (MIT License OR Apache License 2.0)
+thiserror 1.0.31 : (MIT License OR Apache License 2.0)
+thiserror-impl 1.0.31 : (MIT License OR Apache License 2.0)
 time 0.2.27 : (MIT License OR Apache License 2.0)
 time-macros 0.1.1 : (MIT License OR Apache License 2.0)
 time-macros-impl 0.1.2 : (MIT License OR Apache License 2.0)
-tinyvec 1.3.1 : (zlib License OR MIT License OR Apache License 2.0)
+tinyvec 1.6.0 : (zlib License OR MIT License OR Apache License 2.0)
 tinyvec_macros 0.1.0 : (zlib License OR MIT License OR Apache License 2.0)
 titlecase 1.1.0 : MIT License
-tokio 0.7.2 : MIT License
-tokio 1.13.1 : MIT License
-tokio 1.3.0 : MIT License
+tokio 0.7.3 : MIT License
+tokio 1.19.2 : MIT License
+tokio 1.8.0 : MIT License
 tokio-native-tls 0.3.0 : MIT License
 tokio-rs/bytes 1.1.0 : MIT License
 tokio-rustls 0.23.4 : (MIT License OR Apache License 2.0)
-toml-rs 0.5.8 : (MIT License OR Apache License 2.0)
-tower-rs/tower 0.3.1 : MIT License
-tracing 0.1.26 : MIT License
-tracing-attributes 0.1.21 : MIT License
-tracing-core 0.1.18 : MIT License
+toml-rs 0.5.9 : (MIT License OR Apache License 2.0)
+tower-rs/tower 0.3.2 : MIT License
+tracing 0.1.35 : MIT License
+tracing-core 0.1.28 : MIT License
 trash 2.1.4 : MIT License
 umask 2.0.0 : MIT License
-uncased 0.9.6 : (MIT License OR Apache License 2.0)
+uncased 0.9.7 : (MIT License OR Apache License 2.0)
 unic-char-property 0.9.0 : (MIT License OR Apache License 2.0)
 unic-char-range 0.9.0 : (MIT License OR Apache License 2.0)
 unic-common 0.9.0 : (MIT License OR Apache License 2.0)
 unic-segment 0.9.0 : (MIT License OR Apache License 2.0)
 unic-ucd-segment 0.9.0 : (MIT License OR Apache License 2.0)
 unic-ucd-version 0.9.0 : (MIT License OR Apache License 2.0)
+unicode-ident 1.0.1 : (MIT License OR Apache License 2.0)
 unicode-linebreak 0.1.2 : Apache License 2.0
-unicode-rs/unicode-normalization 0.1.19 : (MIT License OR Apache License 2.0)
+unicode-rs/unicode-normalization 0.1.20 : (MIT License OR Apache License 2.0)
 unicode-rs/unicode-segmentation 1.9.0 : (MIT License OR Apache License 2.0)
 unicode-rs/unicode-width 0.1.9 : (MIT License OR Apache License 2.0)
-unicode-rs/unicode-xid 0.2.2 : (MIT License OR Apache License 2.0)
-utf8-width 0.1.5 : MIT License
+unicode-rs/unicode-xid 0.2.3 : (MIT License OR Apache License 2.0)
+utf8-width 0.1.6 : MIT License
 utf8parse 0.2.0 : (MIT License OR Apache License 2.0)
 uuid-rs/uuid 0.8.2 : (MIT License AND Apache License 2.0)
-value-bag 1.0.0-alpha.7 : (MIT License OR Apache License 2.0)
+value-bag 1.0.0-alpha.9 : (MIT License OR Apache License 2.0)
 vcpkg-rs 0.2.15 : (MIT License OR Apache License 2.0)
 vec1 1.8.0 : (MIT License OR Apache License 2.0)
-vswhom 0.1.0 : MIT License
-vswhom-sys 0.1.1 : MIT License
 vte 0.10.1 : (MIT License OR Apache License 2.0)
 vte_generate_state_changes 0.1.1 : (MIT License OR Apache License 2.0)
 waker-fn 1.1.0 : (MIT License OR Apache License 2.0)
-wasi 0.10.0+wasi-snapshot-preview1 : (MIT License OR Apache License 2.0 with Exceptions OR Apache License 2.0)
-wasm-bindgen 0.2.74 : (MIT License OR Apache License 2.0)
-wasm-bindgen 0.3.51 : (MIT License OR Apache License 2.0)
-wasm-bindgen 0.4.24 : (MIT License OR Apache License 2.0)
+wasi 0.11.0+wasi-snapshot-preview1 : (MIT License OR Apache License 2.0 with Exceptions OR Apache License 2.0)
+wasm-bindgen 0.2.81 : Apache License 2.0
+wasm-bindgen 0.3.58 : (MIT License OR Apache License 2.0)
+wasm-bindgen 0.4.31 : (MIT License OR Apache License 2.0)
 wax 0.4.0 : MIT License
 webdesus/fs_extra 1.2.0 : MIT License
-webpki-roots 0.21.1 : Mozilla Public License 2.0
+webpki-roots 0.22.3 : Mozilla Public License 2.0
 wepoll-ffi 0.1.2 : (MIT License OR BSD 2-clause "Simplified" License OR Apache License 2.0)
 widestring 0.4.3 : (MIT License OR Apache License 2.0)
 winapi-rs 0.1.1 : MIT License
@@ -502,16 +501,17 @@ winapi-rs 0.3.9 : (MIT License AND Apache License 2.0)
 winapi-rs 0.4.0 : (MIT License OR Apache License 2.0)
 winapi-util 0.1.5 : (MIT License OR The Unlicense)
 windows 0.37.0 : (MIT License OR Apache License 2.0)
-windows-sys 0.32.0 : (MIT License OR Apache License 2.0)
+windows-sys 0.36.1 : (MIT License OR Apache License 2.0)
 windows_aarch64_msvc 0.37.0 : (MIT License OR Apache License 2.0)
 windows_i686_gnu 0.37.0 : (MIT License OR Apache License 2.0)
 windows_i686_msvc 0.37.0 : (MIT License OR Apache License 2.0)
 windows_x86_64_gnu 0.37.0 : (MIT License OR Apache License 2.0)
 windows_x86_64_msvc 0.37.0 : (MIT License OR Apache License 2.0)
 winreg 0.10.1 : MIT License
+winres 0.1.12 : MIT License
 XAMPPRocky/remove_dir_all 0.5.3 : (MIT License OR Apache License 2.0)
 xmlparser 0.13.3 : (MIT License OR Apache License 2.0)
-zeroize 1.5.3 : (MIT License OR Apache License 2.0)
+zeroize 1.5.5 : (MIT License OR Apache License 2.0)
 zip 0.5.13 : MIT License
 zstd 0.11.2+zstd.1.5.2 : MIT License
 zstd-safe 5.0.2+zstd.1.5.2 : (MIT License OR Apache License 2.0)
@@ -520,7 +520,7 @@ zstd-sys 2.0.1+zstd.1.5.2 : (MIT License OR Apache License 2.0)
 Licenses: 
 
 Apache License 2.0
-(addr2line 0.16.0, adler 1.0.2, aes 0.6.0, aes-gcm 0.8.0, aes-soft 0.6.4, aesni 0.10.0, ahash 0.7.4, alexcrichton/cfg-if 1.0.0, alexcrichton/jobserver-rs 0.1.22, alexcrichton/openssl-probe 0.1.4, alexcrichton/proc-macro2 1.0.28, alexcrichton/rustc-demangle 0.1.21, alexcrichton/socket2-rs 0.4.1, Amanieu/parking_lot 0.12.0, Amanieu/parking_lot 0.4.6, Amanieu/parking_lot 0.9.1, Amanieu/thread_local-rs 1.1.4, anyhow 1.0.42, array-init-cursor 0.2.0, arrow-format 0.4.0, arrow2 0.11.2, as-slice 0.1.5, async-channel 1.6.1, async-executor 1.4.1, async-global-executor 2.0.2, async-io 1.6.0, async-lock 2.4.0, async-mutex 1.4.0, async-std 1.9.0, async-task 4.0.3, async-trait 0.1.51, atomic-waker 1.0.0, autocfg 1.0.1, bitflags/bitflags 1.3.2, blocking 1.0.2, bluejekyll/trust-dns 0.20.3, bluss/arrayvec 0.1.14, bluss/arrayvec 0.7.2, bluss/either 1.6.1, bluss/indexmap 1.7.0, bluss/maplit 1.0.2, bluss/scopeguard 1.1.0, BurntSushi/ucd-generate 0.1.3, bytemuck 1.7.2, bytemuck_derive 1.0.1, bytesize 1.1.0, cache-padded 1.1.1, carllerche/iovec 0.1.4, chrono-humanize 0.2.1, chrono-tz 0.6.1, chrono-tz-build 0.0.2, chronotope/chrono v0.4.19, chyh1990/yaml-rust 0.4.5, codepage 0.1.1, concurrent-queue 1.2.2, const_fn 0.4.8, contain-rs/vec-map 0.8.2, crossbeam (rust) 0.8.1, crossbeam (rust) 0.8.8, crossbeam (rust) 0.9.5, cryptocorrosion/cryptocorrosion 0.2.10, cstr_core 0.2.4, ctor 0.1.20, ctr 0.6.0, cty 0.2.1, ctz/sct.rs 0.7.0, Detegr/rust-ctrlc 3.2.1, dirs 4.0.0, dirs-next 2.0.0, dirs-sys 0.3.6, dirs-sys-next 0.1.2, dtolnay/itoa 1.0.2, dtolnay/quote 1.0.9, dtolnay/ryu 1.0.5, dtolnay/typetag 0.1.8, dtparse 1.2.0, encode_unicode 0.3.6, encoding_rs 0.8.30, enum-as-inner 0.3.3, env_logger 0.8.4, erased-serde 0.3.18, errno 0.2.8, event-listener 2.5.1, fake 2.4.0, fallible-iterator 0.2.0, fallible-streaming-iterator 0.1.9, fastrand 1.5.0, fd-lock 3.0.4, filetime 0.2.16, fitzgen/bumpalo 3.7.0, flate2 1.0.20, foreign-types 0.1.1, foreign-types 0.3.2, futures-lite 1.12.0, futures-task 0.3.16, getrandom 0.2.3, ghash 0.3.1, ghost 0.1.2, glob 0.3.0, hamcrest2 0.3.0, hash32 0.1.1, hash_hasher 2.0.3, hashlink 0.7.0, heck 0.4.0, hermitcore/libhermit-rs 0.1.19, hex 0.4.3, hkdf 0.10.0, htmlescape 0.3.1, http-types 2.11.1, httpdate 1.0.1, humansize 1.1.1, humantime-serde 1.0.1, hyper-rustls 0.22.1, hyper-tls 0.5.0, hyperium/http 0.2.4, hyperium/mime 0.3.16, inventory 0.2.2, io-lifetimes 0.5.3, ipconfig 0.2.2, ipnet 2.3.1, is_debug 1.0.1, is_executable 1.0.1, japaric/heapless 0.5.6, jedisct1/rust-siphash 0.3.7, Kimundi/rustc-version-rs 0.4.0, koute/stdweb 0.1.5, koute/stdweb 0.2.9, koute/stdweb 0.4.20, koute/stdweb 0.5.3, kv-log-macro 1.0.7, lazy_static 1.4.0, lazycell 1.3.0, lexical 6.0.1, lexical-core 0.8.2, lexical-parse-float 0.8.2, lexical-parse-integer 0.8.0, lexical-util 0.8.1, lexical-write-float 0.8.2, lexical-write-integer 0.8.0, libm 0.2.1, linked-hash-map 0.5.4, linux-raw-sys 0.0.42, log 0.4.14, lru-cache 0.1.2, match_cfg 0.1.0, matklad/once_cell 1.8.0, memmap2 0.5.3, miette 4.6.0, miette-derive 4.6.0, minimal-lexical 0.2.1, miniz_oxide 0.4.4, mio-extras 2.0.6, miow 0.3.7, multiversion 0.6.1, multiversion-macros 0.6.1, native-tls 0.2.7, net2 0.2.37, nox/serde_urlencoded 0.7.0, ntapi 0.3.6, nu-glob 0.63.0, num-bigint 0.4.3, num-format 0.4.0, num-integer 0.1.44, num-iter 0.1.42, num-rational 0.4.0, num-traits num-traits-0.2.14, num_cpus 1.13.0, nvzqz/static-assertions-rs 1.1.0, object-rs 0.26.0, paholg/typenum 1.15.0, parking 2.0.0, parquet-format-async-temp 0.3.0, parquet2 0.12.1, pathdiff 0.2.1, pest-parser 2.1.0, pest-parser 2.1.3, pin-project-lite 0.2.7, pin-utils 0.1.0, pkg-config 0.3.19, planus 0.2.0, polling 2.1.0, polyval 0.4.5, proc-macro-error 1.0.4, proc-macro-error-attr 1.0.4, proc-macro-hack 0.5.19, proc-macro-nested 0.1.7, procfs 0.12.0, rand_core 0.6.3, rayon 1.5.1, rayon 1.9.1, resolv-conf 0.7.0, roxmltree 0.14.1, rpassword 4.0.5, rust-base64 0.13.0, rust-itertools/itertools 0.10.3, rust-lang-nursery/failure 0.1.8, rust-lang-nursery/futures-rs 0.3.16, rust-lang/hashbrown 0.12.0, rust-libc 0.2.119, rust-num/num num-0.4.0, rust-num/num-complex num-complex-0.4.0, rust-openssl 0.10.35, rust-random/rand 0.8.4, rust-regex 0.6.25, rust-regex 1.5.5, rust-url 0.2.3, rust-url 1.0.1, rust-url 2.1.0, rust-url 2.2.2, RustCrypto/hashes 0.10.1, RustCrypto/hashes 0.10.2, RustCrypto/hashes 0.8.2, RustCrypto/MACs 0.11.0, RustCrypto/traits 0.1.3, RustCrypto/traits 0.10.3, RustCrypto/traits 0.11.1, RustCrypto/traits 0.2.5, RustCrypto/traits 0.3.2, RustCrypto/traits 0.4.1, RustCrypto/utils 0.1.2, RustCrypto/utils 0.1.5, RustCrypto/utils 0.10.2, RustCrypto/utils 0.2.0, RustCrypto/utils 0.2.1, RustCrypto/utils 0.3.0, RustCrypto/utils 0.3.1, rustix 0.33.3, rustls 0.20.6, rustls-pemfile 1.0.0, rustversion 1.0.5, rustwasm/gloo 0.2.1, seanmonstar/httparse v1.7.1, seanmonstar/pretty-env-logger 0.4.0, seanmonstar/reqwest 0.11.4, seanmonstar/unicase 2.6.0, security-framework 2.3.0, security-framework 2.3.1, semver 1.0.6, semver-parser v0.7.0, serde 1.0.127, serde 1.0.136, serde_json 1.0.66, serde_qs 0.7.2, SergioBenitez/cookie-rs 0.14.4, SergioBenitez/version_check 0.9.3, servo/core-foundation-rs 0.8.2, servo/core-foundation-rs 0.9.1, servo/rust-fnv 1.0.7, servo/rust-smallvec 1.6.1, servo/unicode-bidi 0.3.5, shadow-rs 0.11.0, sharkdp/lscolors 0.9.0, signal-hook 0.3.13, signal-hook-mio 0.2.1, signal-hook-registry 1.4.0, simdutf8 0.1.3, slug 0.1.4, sqlparser 0.16.0, srijs/rust-crc32fast 1.2.1, stable_deref_trait 1.2.0, standback 0.2.17, Stebalien/tempfile 3.2.0, streaming-decompression 0.1.0, streaming-iterator 0.1.5, strength_reduce 0.2.3, strip-ansi-escapes 0.1.1, supports-color 1.3.0, supports-hyperlinks 1.2.0, supports-unicode 1.0.2, syn 1.0.74, sys-locale 0.2.0, tailhook/humantime 2.1.0, tailhook/quick-error 1.2.3, temp-dir 0.1.11, terminal_size 0.1.17, TeXitoi/structopt 0.3.22, TeXitoi/structopt 0.4.15, thiserror 1.0.30, thiserror-impl 1.0.30, time 0.2.27, time-macros 0.1.1, time-macros-impl 0.1.2, tinyvec 1.3.1, tinyvec_macros 0.1.0, tokio-rustls 0.23.4, toml-rs 0.5.8, uncased 0.9.6, unic-char-property 0.9.0, unic-char-range 0.9.0, unic-common 0.9.0, unic-segment 0.9.0, unic-ucd-segment 0.9.0, unic-ucd-version 0.9.0, unicode-linebreak 0.1.2, unicode-rs/unicode-normalization 0.1.19, unicode-rs/unicode-segmentation 1.9.0, unicode-rs/unicode-width 0.1.9, unicode-rs/unicode-xid 0.2.2, utf8parse 0.2.0, uuid-rs/uuid 0.8.2, value-bag 1.0.0-alpha.7, vcpkg-rs 0.2.15, vec1 1.8.0, vte 0.10.1, vte_generate_state_changes 0.1.1, waker-fn 1.1.0, wasi 0.10.0+wasi-snapshot-preview1, wasm-bindgen 0.2.74, wasm-bindgen 0.3.51, wasm-bindgen 0.4.24, wepoll-ffi 0.1.2, widestring 0.4.3, winapi-rs 0.3.9, winapi-rs 0.4.0, windows 0.37.0, windows-sys 0.32.0, windows_aarch64_msvc 0.37.0, windows_i686_gnu 0.37.0, windows_i686_msvc 0.37.0, windows_x86_64_gnu 0.37.0, windows_x86_64_msvc 0.37.0, XAMPPRocky/remove_dir_all 0.5.3, xmlparser 0.13.3, zeroize 1.5.3, zstd-safe 5.0.2+zstd.1.5.2, zstd-sys 2.0.1+zstd.1.5.2)
+(addr2line 0.17.0, adler 1.0.2, aes 0.6.0, aes-gcm 0.8.0, aes-soft 0.6.4, aesni 0.10.0, ahash 0.7.6, alexcrichton/cfg-if 1.0.0, alexcrichton/jobserver-rs 0.1.24, alexcrichton/openssl-probe 0.1.5, alexcrichton/proc-macro2 1.0.40, alexcrichton/rustc-demangle 0.1.21, alexcrichton/socket2-rs 0.4.4, Amanieu/parking_lot 0.12.1, Amanieu/parking_lot 0.4.7, Amanieu/parking_lot 0.9.3, Amanieu/thread_local-rs 1.1.4, anyhow 1.0.58, array-init-cursor 0.2.0, arrow-format 0.4.0, arrow2 0.11.2, as-slice 0.1.5, async-channel 1.6.1, async-executor 1.4.1, async-global-executor 2.2.0, async-io 1.7.0, async-lock 2.5.0, async-std 1.12.0, async-task 4.2.0, async-trait 0.1.56, atomic-waker 1.0.0, autocfg 1.1.0, bitflags/bitflags 1.3.2, blocking 1.2.0, bluejekyll/trust-dns 0.20.4, bluss/arrayvec 0.1.14, bluss/arrayvec 0.7.2, bluss/either 1.6.1, bluss/indexmap 1.9.1, bluss/maplit 1.0.2, bluss/scopeguard 1.1.0, BurntSushi/bstr 0.2.17, BurntSushi/ucd-generate 0.1.3, bytemuck 1.9.1, bytemuck_derive 1.1.0, bytesize 1.1.0, cache-padded 1.2.0, carllerche/iovec 0.1.4, chrono-humanize 0.2.1, chrono-tz 0.6.1, chrono-tz-build 0.0.2, chronotope/chrono v0.4.19, chyh1990/yaml-rust 0.4.5, codepage 0.1.1, concurrent-queue 1.2.2, const_fn 0.4.9, contain-rs/vec-map 0.8.2, crossbeam (rust) 0.5.5, crossbeam (rust) 0.8.1, crossbeam (rust) 0.8.10, crossbeam (rust) 0.9.9, cryptocorrosion/cryptocorrosion 0.2.16, cstr_core 0.2.5, ctor 0.1.22, ctr 0.6.0, cty 0.2.2, ctz/sct.rs 0.7.0, Detegr/rust-ctrlc 3.2.2, dirs 4.0.0, dirs-next 2.0.0, dirs-sys 0.3.7, dirs-sys-next 0.1.2, dtolnay/itoa 1.0.2, dtolnay/quote 1.0.20, dtolnay/ryu 1.0.10, dtolnay/serde-yaml 0.8.24, dtolnay/typetag 0.1.8, dtparse 1.3.0, encode_unicode 0.3.6, encoding_rs 0.8.31, enum-as-inner 0.3.4, env_logger 0.8.4, erased-serde 0.3.21, errno 0.2.8, event-listener 2.5.2, fake 2.5.0, fallible-iterator 0.2.0, fallible-streaming-iterator 0.1.9, fastrand 1.7.0, fd-lock 3.0.6, filetime 0.2.16, fitzgen/bumpalo 3.10.0, flate2 1.0.24, foreign-types 0.1.1, foreign-types 0.3.2, futures-lite 1.12.0, futures-task 0.3.21, gethostname 0.2.3, getrandom 0.2.7, ghash 0.3.1, gimli-rs 0.26.1, glob 0.3.0, hamcrest2 0.3.0, hash32 0.1.1, hash_hasher 2.0.3, hashlink 0.7.0, heck 0.4.0, hermitcore/libhermit-rs 0.1.19, hex 0.4.3, hkdf 0.10.0, htmlescape 0.3.1, http-types 2.12.0, httpdate 1.0.2, humansize 1.1.1, humantime-serde 1.1.1, hyper-rustls 0.23.0, hyper-tls 0.5.0, hyperium/http 0.2.8, hyperium/mime 0.3.16, inventory 0.2.3, io-lifetimes 0.7.2, ipconfig 0.2.2, ipnet 2.5.0, is_debug 1.0.1, is_executable 1.0.1, japaric/heapless 0.5.6, jedisct1/rust-siphash 0.3.10, Kimundi/rustc-version-rs 0.2.3, koute/stdweb 0.1.5, koute/stdweb 0.2.9, koute/stdweb 0.4.20, koute/stdweb 0.5.3, kv-log-macro 1.0.7, lazy_static 1.4.0, lazycell 1.3.0, lexical 6.1.1, lexical-core 0.8.5, lexical-parse-float 0.8.5, lexical-parse-integer 0.8.6, lexical-util 0.8.5, lexical-write-float 0.8.5, lexical-write-integer 0.8.5, libm 0.2.2, linked-hash-map 0.5.6, linux-raw-sys 0.0.46, log 0.4.17, lru-cache 0.1.2, match_cfg 0.1.0, matklad/once_cell 1.12.0, memmap2 0.5.4, miette 4.7.1, miette-derive 4.7.1, minimal-lexical 0.2.1, miniz_oxide 0.5.3, mio-extras 2.0.6, miow 0.2.2, multiversion 0.6.1, multiversion-macros 0.6.1, native-tls 0.2.10, net2 0.2.37, nox/serde_urlencoded 0.7.1, ntapi 0.3.7, nu-glob 0.64.0, num-bigint 0.4.3, num-format 0.4.0, num-integer 0.1.45, num-iter 0.1.43, num-rational 0.4.1, num-traits 0.2.15, num_cpus 1.13.1, nvzqz/static-assertions-rs 1.1.0, object-rs 0.28.4, openssl-macros 0.1.0, paholg/typenum 1.15.0, parking 2.0.0, parquet-format-async-temp 0.3.1, parquet2 0.12.1, pathdiff 0.2.1, pest-parser 2.1.0, pest-parser 2.1.3, pin-project-lite 0.2.9, pin-utils 0.1.0, pkg-config 0.3.25, planus 0.2.0, polling 2.2.0, polyval 0.4.5, proc-macro-error 1.0.4, proc-macro-error-attr 1.0.4, proc-macro-hack 0.5.19, procfs 0.12.0, rand_core 0.6.3, rayon 1.5.3, rayon 1.9.3, resolv-conf 0.7.0, roxmltree 0.14.1, rpassword 4.0.5, rust-base64 0.13.0, rust-itertools/itertools 0.10.3, rust-lang-nursery/failure 0.1.8, rust-lang-nursery/futures-rs 0.3.21, rust-lang/backtrace-rs 0.3.65, rust-lang/hashbrown 0.12.1, rust-libc 0.2.126, rust-num/num num-0.4.0, rust-num/num-complex 0.4.2, rust-openssl 0.10.40, rust-random/rand 0.8.5, rust-regex 0.6.26, rust-regex 1.5.6, rust-url 0.2.3, rust-url 1.0.1, rust-url 2.1.0, rust-url 2.2.2, RustCrypto/hashes 0.10.1, RustCrypto/hashes 0.10.2, RustCrypto/hashes 0.8.2, RustCrypto/MACs 0.11.0, RustCrypto/traits 0.1.3, RustCrypto/traits 0.10.3, RustCrypto/traits 0.11.1, RustCrypto/traits 0.2.5, RustCrypto/traits 0.3.2, RustCrypto/traits 0.4.1, RustCrypto/utils 0.1.2, RustCrypto/utils 0.1.5, RustCrypto/utils 0.10.2, RustCrypto/utils 0.2.0, RustCrypto/utils 0.2.2, RustCrypto/utils 0.3.0, RustCrypto/utils 0.3.1, rustix 0.35.6, rustls 0.20.6, rustls-pemfile 1.0.0, rustversion 1.0.7, rustwasm/gloo 0.2.4, seanmonstar/httparse 1.7.1, seanmonstar/pretty-env-logger 0.4.0, seanmonstar/reqwest 0.11.11, seanmonstar/unicase 2.6.0, security-framework 2.6.1, semver 0.9.0, semver-parser v0.7.0, serde 1.0.137, serde_json 1.0.81, serde_qs 0.8.5, SergioBenitez/cookie-rs 0.14.4, SergioBenitez/version_check 0.9.4, servo/core-foundation-rs 0.8.3, servo/core-foundation-rs 0.9.3, servo/rust-fnv 1.0.7, servo/rust-smallvec 1.8.1, servo/unicode-bidi 0.3.8, shadow-rs 0.11.0, sharkdp/lscolors 0.9.0, signal-hook 0.3.14, signal-hook-mio 0.2.3, signal-hook-registry 1.4.0, simdutf8 0.1.4, slug 0.1.4, sqlparser 0.16.0, srijs/rust-crc32fast 1.3.2, stable_deref_trait 1.2.0, standback 0.2.17, Stebalien/tempfile 3.3.0, streaming-decompression 0.1.0, streaming-iterator 0.1.6, strength_reduce 0.2.3, strip-ansi-escapes 0.1.1, supports-color 1.3.0, supports-hyperlinks 1.2.0, supports-unicode 1.0.2, syn 1.0.98, sys-locale 0.2.1, tailhook/humantime 2.1.0, tailhook/quick-error 1.2.3, temp-dir 0.1.11, terminal_size 0.1.17, TeXitoi/structopt 0.3.26, TeXitoi/structopt 0.4.18, thiserror 1.0.31, thiserror-impl 1.0.31, time 0.2.27, time-macros 0.1.1, time-macros-impl 0.1.2, tinyvec 1.6.0, tinyvec_macros 0.1.0, tokio-rustls 0.23.4, toml-rs 0.5.9, uncased 0.9.7, unic-char-property 0.9.0, unic-char-range 0.9.0, unic-common 0.9.0, unic-segment 0.9.0, unic-ucd-segment 0.9.0, unic-ucd-version 0.9.0, unicode-ident 1.0.1, unicode-linebreak 0.1.2, unicode-rs/unicode-normalization 0.1.20, unicode-rs/unicode-segmentation 1.9.0, unicode-rs/unicode-width 0.1.9, unicode-rs/unicode-xid 0.2.3, utf8parse 0.2.0, uuid-rs/uuid 0.8.2, value-bag 1.0.0-alpha.9, vcpkg-rs 0.2.15, vec1 1.8.0, vte 0.10.1, vte_generate_state_changes 0.1.1, waker-fn 1.1.0, wasi 0.11.0+wasi-snapshot-preview1, wasm-bindgen 0.2.81, wasm-bindgen 0.3.58, wasm-bindgen 0.4.31, wepoll-ffi 0.1.2, widestring 0.4.3, winapi-rs 0.3.9, winapi-rs 0.4.0, windows 0.37.0, windows-sys 0.36.1, windows_aarch64_msvc 0.37.0, windows_i686_gnu 0.37.0, windows_i686_msvc 0.37.0, windows_x86_64_gnu 0.37.0, windows_x86_64_msvc 0.37.0, XAMPPRocky/remove_dir_all 0.5.3, xmlparser 0.13.3, zeroize 1.5.5, zstd-safe 5.0.2+zstd.1.5.2, zstd-sys 2.0.1+zstd.1.5.2)
 
 Apache License
 Version 2.0, January 2004
@@ -707,7 +707,7 @@ third-party archives.
 ---
 
 Apache License 2.0 with Exceptions
-(io-lifetimes 0.5.3, linux-raw-sys 0.0.42, rustix 0.33.3, wasi 0.10.0+wasi-snapshot-preview1)
+(io-lifetimes 0.7.2, linux-raw-sys 0.0.46, rustix 0.35.6, wasi 0.11.0+wasi-snapshot-preview1)
 
 This license may contain an exception relative to the applicability of certain
 provisions of the license and this exception may alter your specific obligations
@@ -967,7 +967,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(alloc-no-stdlib 2.0.3, brotli-decompressor 2.3.2, dropbox/rust-brotli 3.3.2)
+(alloc-no-stdlib 2.0.3, brotli-decompressor 2.3.2)
 
 Copyright (c) 2016 Dropbox, Inc.
 All rights reserved.
@@ -1019,9 +1019,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(instant 0.1.10)
+(instant 0.1.12)
 
 Copyright (c) 2019, Sébastien Crozet
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -1052,7 +1053,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(alloc-stdlib 0.2.1, fuchsia-zircon 0.3.3, fuchsia-zircon-sys 0.3.3, kornelski/deunicode 0.4.3)
+(alloc-stdlib 0.2.1, dropbox/rust-brotli 3.3.4, encoding_rs 0.8.31, fuchsia-zircon 0.3.3, fuchsia-zircon-sys 0.3.3, kornelski/deunicode 0.4.3, sha1_smol 1.0.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1119,39 +1120,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(encoding_rs 0.8.30)
-
-Copyright © WHATWG (Apple, Google, Mozilla, Microsoft).
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(mitsuhiko/rust-sha1 0.6.0)
+(mitsuhiko/rust-sha1 0.6.1)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
@@ -1205,7 +1174,7 @@ THIS SOFTWARE.
 ---
 
 Boost Software License 1.0
-(dtolnay/ryu 1.0.5)
+(dtolnay/ryu 1.0.10)
 
 Boost Software License - Version 1.0
 ====================================
@@ -1432,7 +1401,7 @@ THIS SOFTWARE
 ---
 
 ISC License
-(ctz/sct.rs 0.7.0, hyper-rustls 0.22.1)
+(ctz/sct.rs 0.7.0, hyper-rustls 0.23.0)
 
 ISC License (ISC)
 Copyright (c) 2016, Joseph Birr-Pixton <jpixton@gmail.com>
@@ -1559,7 +1528,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(RustCrypto/utils 0.2.0)
+(RustCrypto/utils 0.2.0, RustCrypto/utils 0.2.2)
 
 Copyright (c) 2006-2009 Graydon Hoare
 Copyright (c) 2009-2013 Mozilla Foundation
@@ -1658,7 +1627,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(crossbeam (rust) v0.5.1, lazy_static 1.4.0, rayon 1.5.1, rayon 1.9.1)
+(lazy_static 1.4.0)
 
 Copyright (c) 2010 The Rust Project Developers
 
@@ -1689,7 +1658,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(servo/core-foundation-rs 0.8.2)
+(servo/core-foundation-rs 0.8.3, servo/core-foundation-rs 0.9.3)
 
 Copyright (c) 2012-2013 Mozilla Foundation
 
@@ -1777,7 +1746,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(capnproto/capnproto-rust 0.14.5)
+(capnproto/capnproto-rust 0.14.6)
 
 Copyright (c) 2013-2018 Sandstorm Development Group, Inc. and contributors
 
@@ -1802,7 +1771,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(alexcrichton/cfg-if 1.0.0, alexcrichton/jobserver-rs 0.1.22, alexcrichton/openssl-probe 0.1.4, alexcrichton/proc-macro2 1.0.28, alexcrichton/rustc-demangle 0.1.21, alexcrichton/socket2-rs 0.4.1, cc-rs 1.0.69, flate2 1.0.20, match_cfg 0.1.0, miow 0.3.7, pkg-config 0.3.19, rust-openssl 0.9.65, wasm-bindgen 0.2.74, wasm-bindgen 0.3.51, wasm-bindgen 0.4.24)
+(alexcrichton/cfg-if 1.0.0, alexcrichton/jobserver-rs 0.1.24, alexcrichton/openssl-probe 0.1.5, alexcrichton/rustc-demangle 0.1.21, alexcrichton/socket2-rs 0.4.4, match_cfg 0.1.0, miow 0.2.2)
 
 Copyright (c) 2014 Alex Crichton
 
@@ -1860,31 +1829,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
 IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(rust-mio 0.7.13)
-
-Copyright (c) 2014 Carl Lerche and other MIO contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
 
 ---
 
@@ -1978,7 +1922,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(bitflags/bitflags 1.3.2, env_logger 0.8.4, glob 0.3.0, net2 0.2.37, num-bigint 0.4.3, num-integer 0.1.44, num-iter 0.1.42, num-rational 0.4.0, rust-num/num num-0.4.0, rust-num/num-complex num-complex-0.4.0)
+(bitflags/bitflags 1.3.2, env_logger 0.8.4, glob 0.3.0, net2 0.2.37, num-bigint 0.4.3, rust-num/num num-0.4.0, semver 0.9.0)
 
 Copyright (c) 2014 The Rust Project Developers
 
@@ -2009,40 +1953,41 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(log 0.4.14)
-
-Copyright (c) 2014 The Rust Project Developers
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(matches 0.1.8)
+(matches 0.1.9)
 
 Copyright (c) 2014-2016 Simon Sapin
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be included in all copies or substantial portions
+of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(rand_pcg 0.2.1)
+
+Copyright (c) 2014-2017 Melissa O'Neill and PCG Project contributors
+Copyright 2018 Developers of the Rand project
 
 Permission is hereby granted, free of charge, to any
 person obtaining a copy of this software and associated
@@ -2096,38 +2041,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(rust-libc 0.2.119)
-
-Copyright (c) 2014-2020 The Rust Project Developers
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(rusqlite v0.27.0)
+(rusqlite 0.27.0)
 
 Copyright (c) 2014-2021 The rusqlite developers
 
@@ -2183,7 +2097,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(num_cpus 1.13.0)
+(num_cpus 1.13.1)
 
 Copyright (c) 2015
 
@@ -2260,7 +2174,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(slug 0.1.4, Stebalien/tempfile 3.2.0)
+(slug 0.1.4, Stebalien/tempfile 3.3.0)
 
 Copyright (c) 2015 Steven Allen
 
@@ -2291,7 +2205,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(contain-rs/vec-map 0.8.2, heck 0.4.0, is_executable 1.0.1, linked-hash-map 0.5.4, lru-cache 0.1.2, servo/unicode-bidi 0.3.5, unicode-rs/unicode-normalization 0.1.19, unicode-rs/unicode-segmentation 1.9.0, unicode-rs/unicode-width 0.1.9, unicode-rs/unicode-xid 0.2.2)
+(contain-rs/vec-map 0.8.2, gimli-rs 0.26.1, heck 0.4.0, is_executable 1.0.1, lru-cache 0.1.2, unicode-rs/unicode-segmentation 1.9.0, unicode-rs/unicode-width 0.1.9)
 
 Copyright (c) 2015 The Rust Project Developers
 
@@ -2422,7 +2336,7 @@ SOFTWARE
 ---
 
 MIT License
-(bluejekyll/trust-dns 0.20.3, enum-as-inner 0.3.3)
+(bluejekyll/trust-dns 0.20.4, enum-as-inner 0.3.4)
 
 Copyright (c) 2015 The trust-dns Developers
 Copyright (c) 2017 Google LLC.
@@ -2448,7 +2362,7 @@ SOFTWARE
 ---
 
 MIT License
-(harryfei/which-rs 4.2.2)
+(harryfei/which-rs 4.2.5)
 
 Copyright (c) 2015 fangyuanziti
 
@@ -2469,19 +2383,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-
----
-
-MIT License
-(steffengy/schannel-rs 0.1.19)
-
-Copyright (c) 2015 steffengy
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -2626,7 +2527,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(futures-task 0.3.16, rust-lang-nursery/futures-rs 0.3.16)
+(rust-lang-nursery/futures-rs 0.3.21)
 
 Copyright (c) 2016 Alex Crichton
 Copyright (c) 2017 The Tokio Authors
@@ -2658,38 +2559,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ahash 0.7.4, rust-lang/hashbrown 0.12.0)
-
-Copyright (c) 2016 Amanieu d'Antras
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(nox/serde_urlencoded 0.7.0)
+(nox/serde_urlencoded 0.7.1)
 
 Copyright (c) 2016 Anthony Ramine
 
@@ -2720,7 +2590,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(serde_qs 0.7.2)
+(serde_qs 0.8.5)
 
 Copyright (c) 2016 Anthony Ramine
 Copyright (c) 2017 Sam Scott
@@ -2811,7 +2681,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ctz/sct.rs 0.7.0, hyper-rustls 0.22.1)
+(ctz/sct.rs 0.7.0, hyper-rustls 0.23.0)
 
 Copyright (c) 2016 Joseph Birr-Pixton <jpixton@gmail.com>
 
@@ -2886,82 +2756,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(httpdate 1.0.1)
-
-Copyright (c) 2016 Pyfisch
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
-(seanmonstar/reqwest 0.11.4)
-
-Copyright (c) 2016 Sean McArthur
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
-(streaming-iterator 0.1.5)
-
-Copyright (c) 2016 Steven Fackler
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(Amanieu/parking_lot 0.12.0, Amanieu/parking_lot 0.4.6, Amanieu/parking_lot 0.9.1, Amanieu/thread_local-rs 1.1.4, cstr_core 0.2.4, dtolnay/quote 1.0.9, Kimundi/rustc-version-rs 0.4.0)
+(Amanieu/parking_lot 0.4.7, Amanieu/thread_local-rs 1.1.4, cstr_core 0.2.5, Kimundi/rustc-version-rs 0.2.3)
 
 Copyright (c) 2016 The Rust Project Developers
 
@@ -3048,31 +2843,6 @@ SOFTWARE
 ---
 
 MIT License
-(native-tls 0.2.7)
-
-Copyright (c) 2016 The rust-native-tls Developers
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (result 1.0.0, serde_ini 0.2.0)
 
 Copyright (c) 2016 arcnmx
@@ -3094,37 +2864,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-
----
-
-MIT License
-(fake 2.4.0)
-
-Copyright (c) 2016 cksac
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -3160,38 +2899,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(bluss/indexmap 1.7.0)
-
-Copyright (c) 2016--2017
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(addr2line 0.16.0)
+(addr2line 0.17.0)
 
 Copyright (c) 2016-2018 The gimli Developers
 
@@ -3435,7 +3143,7 @@ SOFTWARE
 ---
 
 MIT License
-(Gilnaa/memoffset 0.6.4, globwalk 0.8.1)
+(Gilnaa/memoffset 0.6.5, globwalk 0.8.1)
 
 Copyright (c) 2017 Gilad Naaman
 
@@ -3491,7 +3199,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(cty 0.2.1, japaric/heapless 0.5.6)
+(cty 0.2.2, japaric/heapless 0.5.6)
 
 Copyright (c) 2017 Jorge Aparicio
 
@@ -3549,34 +3257,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
 IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(redox-os 0.2.9)
-
-Copyright (c) 2017 Redox OS Developers
-
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -3694,38 +3374,7 @@ SOFTWARE
 ---
 
 MIT License
-(hyperium/http 0.2.4)
-
-Copyright (c) 2017 http-rs authors
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(signal-hook 0.3.13, signal-hook-mio 0.2.1, signal-hook-registry 1.4.0)
+(signal-hook-mio 0.2.3, signal-hook-registry 1.4.0)
 
 Copyright (c) 2017 tokio-jsonrpc developers
 
@@ -3787,7 +3436,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(RustCrypto/utils 0.1.2, RustCrypto/utils 0.2.1, RustCrypto/utils 0.3.1)
+(RustCrypto/utils 0.1.2, RustCrypto/utils 0.3.1)
 
 Copyright (c) 2018 Artyom Pavlov
 Copyright (c) 2018 The RustCrypto Project Developers
@@ -3819,7 +3468,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(proc-macro-hack 0.5.19, proc-macro-nested 0.1.7)
+(proc-macro-hack 0.5.19)
 
 Copyright (c) 2018 David Tolnay
 
@@ -3850,7 +3499,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(as-slice 0.1.5, hash32 0.1.1)
+(as-slice 0.1.5, hash32 0.1.1, libm 0.2.2)
 
 Copyright (c) 2018 Jorge Aparicio
 
@@ -3881,7 +3530,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(autocfg 1.0.1)
+(autocfg 1.1.0)
 
 Copyright (c) 2018 Josh Stone
 
@@ -4000,37 +3649,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(servo/rust-smallvec 1.6.1)
-
-Copyright (c) 2018 The Servo Project Developers
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (pin-utils 0.1.0)
 
 Copyright (c) 2018 The pin-utils authors
@@ -4118,7 +3736,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(dirs 4.0.0, dirs-next 2.0.0, dirs-sys 0.3.6, dirs-sys-next 0.1.2)
+(dirs 4.0.0, dirs-next 2.0.0, dirs-sys-next 0.1.2)
 
 Copyright (c) 2018-2019 dirs-rs contributors
 
@@ -4139,93 +3757,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
-
----
-
-MIT License
-(integer-encoding 3.0.2)
-
-Copyright (c) 2018-2020 Lewin Bormann (lbo@spheniscida.de)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to
-deal in the Software without restriction, including without limitation the
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-sell copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-IN THE SOFTWARE
-
----
-
-MIT License
-(async-stream 0.3.2, async-stream-impl 0.3.2, slab 0.4.3)
-
-Copyright (c) 2019 Carl Lerche
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(hyperium/http-body 0.4.2)
-
-Copyright (c) 2019 Hyper Contributors
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -4251,37 +3782,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
-
----
-
-MIT License
-(rustwasm/gloo 0.2.1)
-
-Copyright (c) 2019 Rust and WebAssembly Working Group
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -4317,7 +3817,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(cryptocorrosion/cryptocorrosion 0.2.10)
+(cryptocorrosion/cryptocorrosion 0.2.16)
 
 Copyright (c) 2019 The CryptoCorrosion Contributors
 
@@ -4411,40 +3911,9 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(tokio-native-tls 0.3.0, tracing 0.1.26, tracing-core 0.1.18)
+(tokio-native-tls 0.3.0)
 
 Copyright (c) 2019 Tokio Contributors
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(tower-rs/tower 0.3.1)
-
-Copyright (c) 2019 Tower Contributors
 
 Permission is hereby granted, free of charge, to any
 person obtaining a copy of this software and associated
@@ -4560,70 +4029,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(tokio 1.3.0)
-
-Copyright (c) 2020 Tokio Contributors
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(memmap2 0.5.3)
-
-Copyright (c) 2020 Yevhenii Reizner
-Copyright (c) 2015 Dan Burkert
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(tokio 1.13.1)
+(tokio 1.8.0)
 
 Copyright (c) 2021 Tokio Contributors
 
@@ -4698,20 +4104,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(ipnet 2.3.1)
-
-Copyright 2017 Juniper Networks, Inc.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(rand_hc 0.3.1)
+(rand_hc 0.2.0)
 
 Copyright 2018 Developers of the Rand project
 
@@ -4742,7 +4135,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(getrandom 0.2.3, rand_chacha 0.3.1, rand_core 0.6.3, rust-random/rand 0.8.4)
+(rand_chacha 0.3.1, rand_core 0.6.3)
 
 Copyright 2018 Developers of the Rand project
 Copyright (c) 2014 The Rust Project Developers
@@ -4787,38 +4180,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(encoding_rs 0.8.30)
-
-Copyright Mozilla Foundation
-
-Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the
-Software without restriction, including without
-limitation the rights to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice
-shall be included in all copies or substantial portions
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(chyh1990/yaml-rust 0.4.5, koute/stdweb 0.1.5, koute/stdweb 0.2.9, koute/stdweb 0.4.20, koute/stdweb 0.5.3, num-traits num-traits-0.2.14, ripgrep 0.4.18, rust-regex 0.6.25, rust-regex 1.5.5, semver-parser v0.7.0, servo/core-foundation-rs 0.9.1, toml-rs 0.5.8)
+(chyh1990/yaml-rust 0.4.5, koute/stdweb 0.1.5, koute/stdweb 0.2.9, koute/stdweb 0.4.20, koute/stdweb 0.5.3, ripgrep 0.4.18, semver-parser v0.7.0)
 
 License: MIT
 
@@ -4901,35 +4263,6 @@ SOFTWARE
 ---
 
 MIT License
-(crossterm 0.23.0)
-
-MIT License
-
-
-
-Copyright (c) 2019 Timon
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (wepoll-ffi 0.1.2)
 
 MIT License
@@ -4959,67 +4292,11 @@ SOFTWARE
 ---
 
 MIT License
-(value-bag 1.0.0-alpha.7)
-
-MIT License
-
-
-
-Copyright (c) 2020 sval-rs
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (mgeisler/textwrap 0.15.0)
 
 MIT License
 
 Copyright (c) 2016 Martin Geisler
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(rust_decimal 0.10.2)
-
-MIT License
-
-Copyright (c) 2016 Paul Mason
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -5075,33 +4352,6 @@ MIT License
 MIT License
 
 Copyright (c) 2017 Denis Kurilenko
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(miniz_oxide 0.4.4)
-
-MIT License
-
-Copyright (c) 2017 Frommi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -5259,7 +4509,7 @@ SOFTWARE
 ---
 
 MIT License
-(TeXitoi/structopt 0.3.22, TeXitoi/structopt 0.4.15)
+(TeXitoi/structopt 0.3.26, TeXitoi/structopt 0.4.18)
 
 MIT License
 
@@ -5286,65 +4536,11 @@ SOFTWARE
 ---
 
 MIT License
-(srijs/rust-crc32fast 1.2.1)
+(srijs/rust-crc32fast 1.3.2)
 
 MIT License
 
 Copyright (c) 2018 Sam Rijs, Alex Crichton and contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(byte-unit 4.0.12)
-
-MIT License
-
-Copyright (c) 2018 magiclen.org (Ron Li)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(zeroize 1.5.3)
-
-MIT License
-
-Copyright (c) 2018-2021 The RustCrypto Project Developers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -5529,60 +4725,6 @@ SOFTWARE
 ---
 
 MIT License
-(utf8-width 0.1.5)
-
-MIT License
-
-Copyright (c) 2020 magiclen.org (Ron Li)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(sys-locale 0.2.0)
-
-MIT License
-
-Copyright (c) 2021 1Password
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (is_debug 1.0.1)
 
 MIT License
@@ -5610,7 +4752,7 @@ SOFTWARE
 ---
 
 MIT License
-(getset 0.1.1)
+(getset 0.1.2)
 
 MIT License
 
@@ -5669,7 +4811,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(adler 1.0.2, anyhow 1.0.42, async-executor 1.4.1, async-global-executor 2.0.2, async-io 1.6.0, async-lock 2.4.0, async-std 1.9.0, async-task 4.0.3, async-trait 0.1.51, atomic-waker 1.0.0, blocking 1.0.2, cache-padded 1.1.1, concurrent-queue 1.2.2, const_fn 0.4.8, Detegr/rust-ctrlc 3.2.1, dtolnay/typetag 0.1.8, event-listener 2.5.1, fastrand 1.5.0, futures-lite 1.12.0, ghost 0.1.2, hashlink 0.7.0, hermitcore/libhermit-rs 0.1.19, inventory 0.2.2, io-lifetimes 0.5.3, lexical-core 0.8.2, lexical-parse-float 0.8.2, lexical-parse-integer 0.8.0, lexical-util 0.8.1, lexical-write-float 0.8.2, lexical-write-integer 0.8.0, matklad/once_cell 1.8.0, minimal-lexical 0.2.1, parking 2.0.0, pathdiff 0.2.1, pest-parser 2.1.0, pest-parser 2.1.3, pin-project-lite 0.2.7, polling 2.1.0, rust-lang-nursery/failure 0.1.8, rustix 0.33.3, rustversion 1.0.5, semver 1.0.6, serde 1.0.127, serde 1.0.136, serde_json 1.0.66, syn 1.0.74, thiserror 1.0.30, thiserror-impl 1.0.30, waker-fn 1.1.0)
+(adler 1.0.2, async-executor 1.4.1, atomic-waker 1.0.0, cache-padded 1.2.0, concurrent-queue 1.2.2, const_fn 0.4.9, Detegr/rust-ctrlc 3.2.2, dtolnay/typetag 0.1.8, event-listener 2.5.2, fastrand 1.7.0, futures-lite 1.12.0, hashlink 0.7.0, hermitcore/libhermit-rs 0.1.19, minimal-lexical 0.2.1, parking 2.0.0, pathdiff 0.2.1, pest-parser 2.1.0, pest-parser 2.1.3, polling 2.2.0, rust-lang-nursery/failure 0.1.8, waker-fn 1.1.0)
 
 Permission is hereby granted, free of charge, to any
 person obtaining a copy of this software and associated
@@ -5750,41 +4892,7 @@ SOFTWARE
 ---
 
 MIT License
-(ntapi 0.3.6)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"),to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
-SOFTWARE
-
----
-
-MIT License
-(ctor 0.1.20, hamcrest2 0.3.0)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(tinyvec 1.3.1)
+(hamcrest2 0.3.0)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -5821,34 +4929,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 ---
 
 MIT License
-(lexical 6.0.1)
-
-The MIT License
-
-Copyright (c) 2013 Andreas Samoljuk
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (titlecase 1.1.0)
 
 The MIT License
@@ -5877,7 +4957,7 @@ OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(alphanumeric-sort 1.4.4, ansi-str 0.1.1, array-init-cursor 0.2.0, async-mutex 1.4.0, brotli-decompressor 2.3.2, bytemuck 1.7.2, bytemuck_derive 1.0.1, chrono-tz-build 0.0.2, crossbeam (rust) 0.8.8, crossterm_winapi 0.9.0, crunchy 0.2.2, dropbox/rust-brotli 3.3.2, dtolnay/itoa 1.0.2, erased-serde 0.3.18, filetime 0.2.16, fuzzy-matcher 0.3.7, htmlescape 0.3.1, hyperium/h2 v0.3.13, joinery 2.1.0, libm 0.2.1, libsqlite3-sys 0.24.2, linux-raw-sys 0.0.42, lz4 1.23.3, lz4-sys 1.9.3, malloc_buf 0.0.6, mio-extras 2.0.6, Nu Shell 0.63.0, nu-ansi-term 0.45.1, nu-cli 0.63.0, nu-color-config 0.63.0, nu-command 0.63.0, nu-engine 0.63.0, nu-glob 0.63.0, nu-json 0.63.0, nu-parser 0.63.0, nu-path 0.63.0, nu-plugin 0.63.0, nu-pretty-hex 0.63.0, nu-protocol 0.63.0, nu-system 0.63.0, nu-table 0.63.0, nu-term-grid 0.63.0, nu-test-support 0.63.0, nu-utils 0.63.0, objc 0.2.7, owo-colors 3.2.0, paholg/typenum 1.15.0, planus 0.2.0, polars 0.21.1, polars-arrow 0.21.1, polars-core 0.21.1, polars-io 0.21.1, polars-lazy 0.21.1, polars-ops 0.21.1, polars-time 0.21.1, polars-utils 0.21.1, pori 0.0.0, powierza-coefficient 1.0.0, rand_distr 0.4.3, reedline 0.6.0, rust-embed-utils 7.1.0, rust-hyper v0.14.19, rust-nom 7.1.1, rustls 0.20.6, rustls-pemfile 1.0.0, seanmonstar/httparse v1.7.1, simdutf8 0.1.3, strength_reduce 0.2.3, strum-rs 0.24.0, sysinfo-rs 0.23.11, tokio 0.7.2, tokio-rustls 0.23.4, tracing-attributes 0.1.21, trash 2.1.4, umask 2.0.0, unic-char-property 0.9.0, unic-char-range 0.9.0, unic-common 0.9.0, unic-segment 0.9.0, unic-ucd-segment 0.9.0, unic-ucd-version 0.9.0, vec1 1.8.0, vte_generate_state_changes 0.1.1, wasi 0.10.0+wasi-snapshot-preview1, wax 0.4.0, winapi-rs 0.4.0, windows 0.37.0, windows-sys 0.32.0, windows_aarch64_msvc 0.37.0, windows_i686_gnu 0.37.0, windows_i686_msvc 0.37.0, windows_x86_64_gnu 0.37.0, windows_x86_64_msvc 0.37.0, zstd 0.11.2+zstd.1.5.2, zstd-safe 5.0.2+zstd.1.5.2, zstd-sys 2.0.1+zstd.1.5.2)
+(abonander/mime_guess 2.0.4, ahash 0.7.6, alexcrichton/proc-macro2 1.0.40, alphanumeric-sort 1.4.4, Amanieu/parking_lot 0.12.1, Amanieu/parking_lot 0.9.3, ansi-str 0.1.1, anyhow 1.0.58, array-init-cursor 0.2.0, async-global-executor 2.2.0, async-io 1.7.0, async-lock 2.5.0, async-std 1.12.0, async-stream 0.3.3, async-stream-impl 0.3.3, async-task 4.2.0, async-trait 0.1.56, base-x 0.2.11, blocking 1.2.0, bluss/indexmap 1.9.1, brotli-decompressor 2.3.2, BurntSushi/rust-memchr 2.5.0, byte-unit 4.0.14, bytemuck 1.9.1, bytemuck_derive 1.1.0, cc-rs 1.0.73, chrono-tz-build 0.0.2, clap-rs/clap 2.34.0, crossbeam (rust) 0.5.5, crossbeam (rust) 0.8.10, crossbeam (rust) 0.9.9, crossterm 0.23.2, crossterm_winapi 0.9.0, crunchy 0.2.2, ctor 0.1.22, dirs-sys 0.3.7, dtolnay/itoa 1.0.2, dtolnay/quote 1.0.20, dtolnay/serde-yaml 0.8.24, encoding_rs 0.8.31, erased-serde 0.3.21, fake 2.5.0, fd-lock 3.0.6, filetime 0.2.16, fitzgen/bumpalo 3.10.0, flate2 1.0.24, futures-task 0.3.21, fuzzy-matcher 0.3.7, getrandom 0.2.7, htmlescape 0.3.1, httpdate 1.0.2, hyperium/h2 0.3.13, hyperium/http 0.2.8, hyperium/http-body 0.4.5, integer-encoding 3.0.4, inventory 0.2.3, io-lifetimes 0.7.2, ipnet 2.5.0, is-root 0.1.2, joinery 2.1.0, Keats/tera 1.16.0, lexical 6.1.1, lexical-core 0.8.5, lexical-parse-float 0.8.5, lexical-parse-integer 0.8.6, lexical-util 0.8.5, lexical-write-float 0.8.5, lexical-write-integer 0.8.5, libsqlite3-sys 0.24.2, linked-hash-map 0.5.6, linux-raw-sys 0.0.46, log 0.4.17, lz4 1.23.3, lz4-sys 1.9.3, malloc_buf 0.0.6, memmap2 0.5.4, miniz_oxide 0.5.3, mio-extras 2.0.6, native-tls 0.2.10, nix-rust/nix 0.24.1, ntapi 0.3.7, Nu Shell 0.64.0, nu-ansi-term 0.46.0, nu-cli 0.64.0, nu-color-config 0.64.0, nu-command 0.64.0, nu-engine 0.64.0, nu-glob 0.64.0, nu-json 0.64.0, nu-parser 0.64.0, nu-path 0.64.0, nu-plugin 0.64.0, nu-pretty-hex 0.64.0, nu-protocol 0.64.0, nu-system 0.64.0, nu-table 0.64.0, nu-term-grid 0.64.0, nu-test-support 0.64.0, nu-utils 0.64.0, num-integer 0.1.45, num-iter 0.1.43, num-rational 0.4.1, num-traits 0.2.15, objc 0.2.7, object-rs 0.28.4, openssl-macros 0.1.0, owo-colors 3.4.0, paholg/typenum 1.15.0, pin-project-lite 0.2.9, pkg-config 0.3.25, planus 0.2.0, polars 0.21.1, polars-arrow 0.21.1, polars-core 0.21.1, polars-io 0.21.1, polars-lazy 0.21.1, polars-ops 0.21.1, polars-time 0.21.1, polars-utils 0.21.1, pori 0.0.0, powierza-coefficient 1.0.1, rand_distr 0.4.3, random_color 0.6.1, rayon 1.9.3, redox_users 0.4.3, reedline 0.7.0, rust-embed 6.4.0, rust-embed-utils 7.2.0, rust-hyper 0.14.19, rust-lang/backtrace-rs 0.3.65, rust-lang/hashbrown 0.12.1, rust-libc 0.2.126, rust-mio 0.8.4, rust-nom 7.1.1, rust-num/num-complex 0.4.2, rust-openssl 0.9.74, rust-random/rand 0.8.5, rust-regex 0.6.26, rust-regex 1.5.6, rust_decimal 1.25.0, rustix 0.35.6, rustls 0.20.6, rustls-pemfile 1.0.0, rustversion 1.0.7, rustwasm/gloo 0.2.4, seanmonstar/httparse 1.7.1, seanmonstar/reqwest 0.11.11, security-framework 2.6.1, serde 1.0.137, servo/rust-smallvec 1.8.1, servo/unicode-bidi 0.3.8, signal-hook 0.3.14, simdutf8 0.1.4, slab 0.4.6, steffengy/schannel-rs 0.1.20, streaming-iterator 0.1.6, strength_reduce 0.2.3, strum-rs 0.24.1, strum-rs 0.24.2, sys-locale 0.2.1, sysinfo-rs 0.24.5, thiserror 1.0.31, thiserror-impl 1.0.31, tinyvec 1.6.0, tokio 0.7.3, tokio 1.19.2, tokio-rustls 0.23.4, toml-rs 0.5.9, tower-rs/tower 0.3.2, tracing 0.1.35, tracing-core 0.1.28, trash 2.1.4, umask 2.0.0, uncased 0.9.7, unic-char-property 0.9.0, unic-char-range 0.9.0, unic-common 0.9.0, unic-segment 0.9.0, unic-ucd-segment 0.9.0, unic-ucd-version 0.9.0, unicode-ident 1.0.1, unicode-rs/unicode-normalization 0.1.20, unicode-rs/unicode-xid 0.2.3, utf8-width 0.1.6, value-bag 1.0.0-alpha.9, vec1 1.8.0, vte_generate_state_changes 0.1.1, wasi 0.11.0+wasi-snapshot-preview1, wasm-bindgen 0.3.58, wasm-bindgen 0.4.31, wax 0.4.0, winapi-rs 0.4.0, windows 0.37.0, windows-sys 0.36.1, windows_aarch64_msvc 0.37.0, windows_i686_gnu 0.37.0, windows_i686_msvc 0.37.0, windows_x86_64_gnu 0.37.0, windows_x86_64_msvc 0.37.0, winres 0.1.12, zeroize 1.5.5, zstd 0.11.2+zstd.1.5.2, zstd-safe 5.0.2+zstd.1.5.2, zstd-sys 2.0.1+zstd.1.5.2)
 
 The MIT License
 ===============
@@ -5904,7 +4984,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 MIT License
-(generic-array 0.14.4)
+(generic-array 0.14.5)
 
 The MIT License (MIT)
 
@@ -6069,65 +5149,11 @@ THE SOFTWARE
 ---
 
 MIT License
-(BurntSushi/byteorder 1.4.3, BurntSushi/rust-csv 0.1.10, BurntSushi/rust-csv 1.1.6, BurntSushi/rust-memchr 2.4.0, BurntSushi/termcolor 1.1.2, BurntSushi/ucd-generate 0.1.3, BurntSushi/walkdir 2.3.2, ripgrep 0.4.8, rust-aho-corasick 0.7.18)
+(BurntSushi/byteorder 1.4.3, BurntSushi/rust-csv 0.1.10, BurntSushi/rust-csv 1.1.6, BurntSushi/termcolor 1.1.3, BurntSushi/ucd-generate 0.1.3, BurntSushi/walkdir 2.3.2, ripgrep 0.4.9, rust-aho-corasick 0.7.18)
 
 The MIT License (MIT)
 
 Copyright (c) 2015 Andrew Gallant
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
-(abonander/mime_guess 2.0.3)
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Austin Bonander
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(nix-rust/nix 0.23.1)
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Carl Lerche + nix-rust Authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -6156,6 +5182,33 @@ The MIT License (MIT)
 
 Copyright (c) 2015 Danny Guo
 Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
+(redox-os 0.2.13)
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Jeremy Soller
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -6210,86 +5263,6 @@ MIT License
 The MIT License (MIT)
 
 Copyright (c) 2015 Pierre Baillet
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(security-framework 2.3.0, security-framework 2.3.1)
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Steven Fackler
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(Keats/tera 1.12.1)
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Vincent Prouillet
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(clap-rs/clap 2.33.3)
-
-The MIT License (MIT)
-
-Copyright (c) 2015-2016 Kevin B. Knapp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -6501,65 +5474,11 @@ THE SOFTWARE
 ---
 
 MIT License
-(redox_users 0.4.0)
-
-The MIT License (MIT)
-
-Copyright (c) 2017 Jose Narvaez
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(humantime-serde 1.0.1)
+(humantime-serde 1.1.1)
 
 The MIT License (MIT)
 
 Copyright (c) 2017 The serde-humantime Developers
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(embed-resource 1.7.1)
-
-The MIT License (MIT)
-
-Copyright (c) 2017 nabijaczleweli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -6609,7 +5528,7 @@ SOFTWARE
 ---
 
 MIT License
-(rust-embed 6.3.0, rust-embed-impl 6.2.0)
+(rust-embed-impl 6.2.0)
 
 The MIT License (MIT)
 
@@ -6636,7 +5555,34 @@ SOFTWARE
 ---
 
 MIT License
-(crossbeam (rust) 0.8.1, crossbeam (rust) 0.9.5)
+(BurntSushi/bstr 0.2.17)
+
+The MIT License (MIT)
+
+Copyright (c) 2018-2019 Andrew Gallant
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(crossbeam (rust) 0.8.1)
 
 The MIT License (MIT)
 
@@ -6669,34 +5615,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(fd-lock 3.0.4)
-
-The MIT License (MIT)
-
-Copyright (c) 2019 Yoshua Wuyts
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(http-types 2.11.1)
+(http-types 2.12.0)
 
 The MIT License (MIT)
 
@@ -6704,33 +5623,6 @@ Copyright (c) 2019 Yoshua Wuyts
 Copyright (c) 2017 http-rs authors
 Copyright (c) 2020 Jacob Brown
 Copyright (c) 2016-2018 Michael Tilli (Pyfisch) & `httpdate` contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(vswhom 0.1.0, vswhom-sys 0.1.1)
-
-The MIT License (MIT)
-
-Copyright (c) 2019 nabijaczleweli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -6780,34 +5672,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(base-x 0.2.8)
-
-The MIT License (MIT)
-
-Copyright base-x contributors and Oleksii Rudenko (c) 2016
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(SergioBenitez/version_check 0.9.3)
+(SergioBenitez/version_check 0.9.4)
 
 The MIT License (MIT)
 Copyright (c) 2017-2018 Sergio Benitez
@@ -6831,33 +5696,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
-MIT License
-(uncased 0.9.6)
-
-The MIT License (MIT)
-Copyright (c) 2020 Sergio Benitez
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
 Mozilla Public License 2.0
-(ansi-parser 0.8.0, brownstone 1.1.0, htmlescape 0.3.1, indent_write 2.2.0, nom-supreme 0.6.0, webpki-roots 0.21.1)
+(ansi-parser 0.8.0, brownstone 1.1.0, htmlescape 0.3.1, indent_write 2.2.0, nom-supreme 0.6.0, webpki-roots 0.22.3)
 
 Mozilla Public License
 Version 2.0
@@ -7385,7 +6225,7 @@ by Tim Hudson (tjh@cryptsoft.com).
 ---
 
 The Unlicense
-(BurntSushi/rust-csv 0.1.10, BurntSushi/rust-memchr 2.4.0, BurntSushi/same-file 1.0.6, BurntSushi/termcolor 1.1.2, meval 0.2.0, ripgrep 0.4.18, ripgrep 0.4.8, rust-aho-corasick 0.7.18, winapi-util 0.1.5)
+(BurntSushi/rust-csv 0.1.10, BurntSushi/rust-memchr 2.5.0, BurntSushi/same-file 1.0.6, BurntSushi/termcolor 1.1.3, meval 0.2.0, ripgrep 0.4.18, ripgrep 0.4.9, rust-aho-corasick 0.7.18, winapi-util 0.1.5)
 
 The Unlicense
 =============
@@ -7415,7 +6255,7 @@ For more information, please refer to http://unlicense.org/
 ---
 
 zlib License
-(bytemuck 1.7.2, bytemuck_derive 1.0.1, const_format 0.2.22, const_format_proc_macros 0.2.22, miniz_oxide 0.4.4, tinyvec 1.3.1, tinyvec_macros 0.1.0)
+(bytemuck 1.9.1, bytemuck_derive 1.1.0, const_format 0.2.25, const_format_proc_macros 0.2.22, miniz_oxide 0.5.3, tinyvec 1.6.0, tinyvec_macros 0.1.0)
 
 The zlib/libpng License
 =======================
