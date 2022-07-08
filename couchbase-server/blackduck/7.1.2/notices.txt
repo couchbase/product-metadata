@@ -212,6 +212,7 @@ couchbase-gocb v2.2.2 : Apache License 2.0
 couchbase-gocb v2.3.2 : Apache License 2.0
 couchbase-gocb v2.3.5 : Apache License 2.0
 couchbase-gomemcached v0.1.4 : MIT License
+couchbase-gomemcached v0.2 : MIT License
 couchbase-goutils v0.1.2 : Apache License 2.0
 couchbase-goxdcr v7.1.0-1003_2 : Apache License 2.0
 couchbase/cbft v0.5.0 : Business Source License 1.1
@@ -6204,36 +6205,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(go-test/deep v1.0.2)
-
-Copyright:
- 2019 Dawid Dziurla <dawidd0811@gmail.com>
-License: Expat
-Comment: Debian packaging is licensed under the same terms as upstream
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining a
- copy of this software and associated documentation files (the "Software"),
- to deal in the Software without restriction, including without limitation
- the rights to use, copy, modify, merge, publish, distribute, sublicense,
- and/or sell copies of the Software, and to permit persons to whom the
- Software is furnished to do so, subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be included
- in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
- OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
- IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
- CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
- TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
- SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (cpuguy83-go-md2man 2.0.1)
 
 Files: *
@@ -6883,6 +6854,33 @@ SOFTWARE
 ---
 
 MIT License
+(go-test/deep v1.0.2)
+
+MIT License
+
+Copyright 2015-2017 Daniel Nichter
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
 (foxcpp/go-mockdns v1.0.0)
 
 MIT License
@@ -7055,6 +7053,36 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
+(stretchr/objx v0.1.1)
+
+Source: https://github.com/stretchr/objx
+
+Files: *
+Copyright:
+ Copyright (c) 2014 Stretchr, Inc.
+License: Expat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (Angular UI Bootstrap 1.2.0)
 
 The MIT License
@@ -7166,7 +7194,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(stretchr/objx v0.1.0, stretchr/objx v0.1.1, stretchr/objx v0.3.0)
+(stretchr/objx v0.1.0, stretchr/objx v0.3.0)
 
 The MIT License
 
@@ -7248,7 +7276,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, azure-identity 1.4.1, azure-storage-blob 12.14.3, AzureAD/microsoft-authentication-library-for-go v0.5.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, Checker Qual 3.22.2, clipboard.js 1.5.16, delegate 3.2.0, erlang-erlydtl 0.7.0, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-jsonpointer 20140810-snapshot-75939f54, good-listener 1.2.2, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, libcxx 14.0.0, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.11.0, msal4j-persistence-extension 1.1.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, azure-identity 1.4.1, azure-storage-blob 12.14.3, AzureAD/microsoft-authentication-library-for-go v0.5.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, Checker Qual 3.22.2, clipboard.js 1.5.16, couchbase-gomemcached v0.2, delegate 3.2.0, erlang-erlydtl 0.7.0, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, go-jsonpointer 20140810-snapshot-75939f54, good-listener 1.2.2, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, libcxx 14.0.0, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.11.0, msal4j-persistence-extension 1.1.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
 
 The MIT License
 ===============
