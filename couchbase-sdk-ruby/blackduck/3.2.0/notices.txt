@@ -10,14 +10,14 @@ ASIO C++ Library 1.18.0 : Boost Software License 1.0
 benchmark 1.5.1 : Apache License 2.0
 benchmark v1.5.0 : Apache License 2.0
 C++ Guideline Support Library v3.1.0 : MIT License
-Catch2 2.13.0 : Boost Software License 1.0
 Catch2 2.13.2 : Boost Software License 1.0
 Catch2 2.13.4 : Boost Software License 1.0
+Catch2 v2.13.1 : Boost Software License 1.0
+Catch2 v2.9.1 : Boost Software License 1.0
 google-snappy 1.1.6 : BSD 3-clause "New" or "Revised" License
 google-snappy 1.1.8 : BSD 3-clause "New" or "Revised" License
 HdrHistogram_c 0.9.13 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
 joyent-http-parser 2.9.4 : MIT License
-log4cplus - Logging Framework for C++ 2.0.7 : (BSD 2-clause "Simplified" License AND Apache License 2.0)
 restinio 0.6.13 : 
 spdlog 1.8.1 : MIT License
 taocpp/json 0.0+git20200604.f357d72 : Expat License
@@ -25,7 +25,7 @@ taocpp/json 0.0+git20200604.f357d72 : Expat License
 Licenses: 
 
 Apache License 2.0
-(benchmark 1.5.1, benchmark v1.5.0, log4cplus - Logging Framework for C++ 2.0.7)
+(benchmark 1.5.1, benchmark v1.5.0)
 
 Apache License
 Version 2.0, January 2004
@@ -211,35 +211,6 @@ third-party archives.
 
 ---
 
-BSD 2-clause "Simplified" License
-(log4cplus - Logging Framework for C++ 2.0.7)
-
-BSD Two Clause License
-======================
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-  1. Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
-
-  2. Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED
-WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
-SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
-OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
----
-
 BSD 3-clause "New" or "Revised" License
 (HdrHistogram_c 0.9.13)
 
@@ -345,7 +316,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 Boost Software License 1.0
-(asio 1.18.0, ASIO C++ Library 1.18.0, Catch2 2.13.0, Catch2 2.13.2, Catch2 2.13.4)
+(asio 1.18.0, ASIO C++ Library 1.18.0, Catch2 2.13.2, Catch2 2.13.4, Catch2 v2.13.1, Catch2 v2.9.1)
 
 Boost Software License - Version 1.0
 ====================================
