@@ -12,20 +12,20 @@ benchmark v1.5.0 : Apache License 2.0
 Bootstrap (Twitter) 3.2.0 : MIT License
 Bootstrap (Twitter) 3.3.4 : MIT License
 C++ Guideline Support Library 4.0.0 : MIT License
+Catch2 2.13.7 : Boost Software License 1.0
 fmtlib/fmt 8.0.1 : MIT License
 google-snappy 1.1.8 : BSD 3-clause "New" or "Revised" License
 HdrHistogram_c 0.9.13 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
-log4cplus - Logging Framework for C++ 2.0.7 : (BSD 2-clause "Simplified" License AND Apache License 2.0)
 spdlog 1.9.2 : MIT License
 tao-pegtl 3.2.2 : Boost Software License 1.0
-tao-pegtl 3.2.5 : MIT License
+tao-pegtl 3.2.6 : MIT License
 taocpp/json 0.0+git20200604.f357d72 : Expat License
 taocpp/json 1.0.0-beta.13 : MIT License
 
 Licenses: 
 
 Apache License 2.0
-(benchmark 1.5.1, benchmark v1.5.0, log4cplus - Logging Framework for C++ 2.0.7)
+(benchmark 1.5.1, benchmark v1.5.0)
 
 Apache License
 Version 2.0, January 2004
@@ -211,35 +211,6 @@ third-party archives.
 
 ---
 
-BSD 2-clause "Simplified" License
-(log4cplus - Logging Framework for C++ 2.0.7)
-
-BSD Two Clause License
-======================
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-  1. Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
-
-  2. Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED
-WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
-SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
-OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
----
-
 BSD 3-clause "New" or "Revised" License
 (HdrHistogram_c 0.9.13)
 
@@ -309,7 +280,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 Boost Software License 1.0
-(asio 1.21.0, ASIO C++ Library 1.21.0, tao-pegtl 3.2.2)
+(asio 1.21.0, ASIO C++ Library 1.21.0, Catch2 2.13.7, tao-pegtl 3.2.2)
 
 Boost Software License - Version 1.0
 ====================================
@@ -446,6 +417,33 @@ SOFTWARE
 ---
 
 MIT License
+(tao-pegtl 3.2.6)
+
+The MIT License
+===============
+
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+MIT License
 (spdlog 1.9.2)
 
 The MIT License (MIT)
@@ -471,33 +469,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-
----
-
-MIT License
-(tao-pegtl 3.2.5)
-
-The MIT License (MIT)
-
-Copyright (c) 2007-2021 Dr. Colin Hirsch and Daniel Frey
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
 
 ---
 
