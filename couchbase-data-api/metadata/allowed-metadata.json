@@ -1,0 +1,9 @@
+{
+  "note": "Please update the Wiki page https://hub.internal.couchbase.com/confluence/display/CR/Supported+Metadata+Entries+for+Build+Database for any changes",
+  "whitelist": [
+    {
+      "key": "cloud_ami",
+      "set_by": "Jenkins job http://server.jenkins.couchbase.com/view/couchbase-cloud-ami/"
+    }
+  ]
+}
