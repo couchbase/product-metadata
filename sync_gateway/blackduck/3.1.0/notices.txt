@@ -47,10 +47,9 @@ golang.org/x/net 20220804-snapshot-a33c5aa5 : BSD 3-clause "New" or "Revised" Li
 golang.org/x/oauth2 20211104-snapshot-d3ed0bb2 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync 20210219-snapshot-036812b2 : BSD 3-clause "New" or "Revised" License
 golang.org/x/text v0.3.7 : BSD 3-clause "New" or "Revised" License
-golang.org/x/xerrors 20200804-snapshot-5ec99f83 : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.6 : Apache License 2.0
 google.golang.org/protobuf v1.26.0 : BSD 3-clause "New" or "Revised" License
-google/go-cmp v0.5.5 : BSD 3-clause "New" or "Revised" License
+google/go-cmp v0.5.8 : BSD 3-clause "New" or "Revised" License
 google/pprof 20211214-snapshot-6f573593 : Apache License 2.0
 google/uuid v1.3.0 : BSD 3-clause "New" or "Revised" License
 gopsutil v3.21.11 : BSD 3-clause "New" or "Revised" License
@@ -589,39 +588,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(google/go-cmp v0.5.5)
-
-Copyright (c) 2017 The Go Authors. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-   * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-   * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-   * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
 (google.golang.org/protobuf v1.26.0)
 
 Copyright (c) 2018 The Go Authors. All rights reserved.
@@ -655,7 +621,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/net 20220804-snapshot-a33c5aa5, golang.org/x/oauth2 20211104-snapshot-d3ed0bb2, golang.org/x/sync 20210219-snapshot-036812b2, golang.org/x/xerrors 20200804-snapshot-5ec99f83, klauspost-compress v1.15.2)
+(golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/net 20220804-snapshot-a33c5aa5, golang.org/x/oauth2 20211104-snapshot-d3ed0bb2, golang.org/x/sync 20210219-snapshot-036812b2, google/go-cmp v0.5.8, klauspost-compress v1.15.2)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
