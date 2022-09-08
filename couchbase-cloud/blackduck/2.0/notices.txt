@@ -1523,7 +1523,6 @@ go-etcd v3.3.15 : Apache License 2.0
 go-git/go-billy v5.3.1 : Apache License 2.0
 go-git/go-git v5.4.2 : Apache License 2.0
 go-git/go-git-fixtures v4.2.1 : Apache License 2.0
-go-github v17.0.0 : BSD 3-clause "New" or "Revised" License
 go-immutable-radix v1.1.0 : Mozilla Public License 2.0
 go-inf-inf v0.9.1 : BSD 3-clause "New" or "Revised" License
 go-ini-ini v1.62.0 : Apache License 2.0
@@ -1588,10 +1587,9 @@ gomega v1.17.0 : MIT License
 gomodules/jsonpatch v2.0.1 : Apache License 2.0
 Google Cloud Client Libraries for Go 20210117-snapshot : Apache License 2.0
 Google Cloud Client Libraries for Go v0.100.2 : Apache License 2.0
-google-go-querystring v1.0.0 : BSD 3-clause "New" or "Revised" License
+google-go-querystring v1.1.0 : BSD 3-clause "New" or "Revised" License
 google-gofuzz v1.0.0 : Apache License 2.0
 google.golang.org/protobuf v1.28.0 : BSD 3-clause "New" or "Revised" License
-google/go-cmp v0.5.7 : BSD 3-clause "New" or "Revised" License
 google/go-cmp v0.5.8 : BSD 3-clause "New" or "Revised" License
 google/subcommands v1.0.1 : Apache License 2.0
 google/uuid v1.3.0 : BSD 3-clause "New" or "Revised" License
@@ -1884,6 +1882,7 @@ jmespath-go-jmespath v0.4.0 : Apache License 2.0
 JohnCGriffin/overflow 20170615-snapshot-4d914c92 : 
 jonboulle-clockwork v0.2.0 : Apache License 2.0
 jonschlinkert/object-copy 0.1.0 : MIT License
+jonschlinkert/unset-value 1.0.0 : MIT License
 josharian/intern v1.0.0 : MIT License
 jpillora-backoff 1.0.0 : MIT License
 js-base64 2.6.4 : BSD 3-clause "New" or "Revised" License
@@ -2865,7 +2864,6 @@ universalify 1.0.0 : MIT License
 universalify 2.0.0 : MIT License
 unload 2.2.0 : Apache License 2.0
 unpipe 1.0.0 : MIT License
-unset-value 1.0.0 : MIT License
 untildify v4.0.0 : MIT License
 unxhr 1.0.1 : MIT License
 unzipper 0.8.14 : MIT License
@@ -5491,7 +5489,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(google-go-querystring v1.0.0)
+(google-go-querystring v1.1.0)
 
 Copyright (c) 2013 Google. All rights reserved.
 
@@ -5901,39 +5899,6 @@ BSD 3-clause "New" or "Revised" License
 (kennygrant/sanitize v1.2.4)
 
 Copyright (c) 2017 Mechanism Design. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-   * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-   * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-   * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(google/go-cmp v0.5.7)
-
-Copyright (c) 2017 The Go Authors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
@@ -6458,39 +6423,6 @@ Redistribution and use in source and binary forms, with or without
  LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(go-github v17.0.0)
-
-License: BSD-3-clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
-      copyright notice, this list of conditions and the following
-      disclaimer in the documentation and/or other materials provided
-      with the distribution.
-    * Neither the name of Google Inc. nor the names of its
-      contributors may be used to endorse or promote products derived
-      from this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -26024,7 +25956,7 @@ SOFTWARE
 ---
 
 MIT License
-(collection-visit 1.0.0, define-property 1.0.0, object-visit 1.0.1, unset-value 1.0.0)
+(collection-visit 1.0.0, define-property 1.0.0, jonschlinkert/unset-value 1.0.0, object-visit 1.0.1)
 
 The MIT License (MIT)
 
