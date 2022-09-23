@@ -430,7 +430,7 @@ Google Cloud Storage 2.9.0 : Apache License 2.0
 Google HTTP Client Library for Java 1.42.0 : Apache License 2.0
 Google Logger 0.7.1 : Apache License 2.0
 Google OAuth Client Library for Java 1.34.1 : Apache License 2.0
-Google V8 JavaScript Engine 8.3.110.13 : BSD 3-clause "New" or "Revised" License
+Google V8 JavaScript Engine 10.7.21 : 
 google-gofuzz v1.2.0 : Apache License 2.0
 google-gson 2.9.0 : Apache License 2.0
 google-snappy 1.1.1 : BSD 3-clause "New" or "Revised" License
@@ -642,6 +642,7 @@ libffi 3.4.2 : MIT License
 libgcc 10.2.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libgcc-ng 11.2.0 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libgomp 11.2.0 : GNU General Public License v3.0 w/GCC Runtime Library exception
+libicu 71.1 : (MIT License AND Public Domain AND Unicode Character Database Terms Of Use)
 libnuma1 2.0.11 : GNU Lesser General Public License v2.1 or later
 libsodium 1.0.18 : ISC License
 libstdc++ 10.2.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
@@ -836,6 +837,7 @@ yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
 youmark/pkcs8 20181117-snapshot-1be2e3e5 : MIT License
 zeekay/highlight.js 10.4.1 : BSD 3-clause "New" or "Revised" License
 zlib 1.2.11 : zlib License
+zlib 1.2.12 : zlib License
 Zone.js v0.9.1 : MIT License
 zstd 1.5.0 : BSD 3-clause "New" or "Revised" License
 zstd-jni 1.5.0-1 : BSD 2-clause "Simplified" License
@@ -2443,7 +2445,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(_libgcc_mutex 0.1, bits-and-blooms/bitset v1.2.2, blackfriday v1.5.2, blevesearch/mmap-go v1.0.4, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, edsrzf/mmap-go 1.1.0, GAX (Google Api eXtensions) 0.103.2, GAX (Google Api eXtensions) 2.18.2, GAX (Google Api eXtensions) 2.7.1, Go programming language 1.18.5, Go programming language 1.19, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20201211-snapshot-7117e9ea, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/net 20220722-snapshot-a158d28d, golang.org/x/net 20220728-snapshot-c7608f3a, golang.org/x/net 20220804-snapshot-a33c5aa5, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20211112-snapshot-0c823b97, golang.org/x/sys 20220114-snapshot-da31bd32, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/term 20220722-snapshot-a9ba230a, golang.org/x/time 20220722-snapshot-e5dcc9cf, golang.org/x/tools v0.1.11, golang.org/x/xerrors 20200804-snapshot-5ec99f83, Google API Common 2.2.1, Google Auth Library for Java 1.7.0, Google V8 JavaScript Engine 8.3.110.13, google.golang.org/protobuf v1.28.0, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.8, googleapis/gax-go v2.4.0, gopsutil v3.22.7, HdrHistogram_c 0.9.2, jemalloc 5.3.0, jsdiff 4.0.2, jsdiff v5.0.0, PCRE 8.44, prometheus-procfs 0.8.0, Protocol Buffer Java API 3.21.1, Protocol Buffer Java Util Package 3.21.1, pycryptodome 3.10.4, PySocks 1.7.1, re2j 1.1, Stax2 API 4.2.1, tklauser/go-sysconf 0.3.10)
+(_libgcc_mutex 0.1, bits-and-blooms/bitset v1.2.2, blackfriday v1.5.2, blevesearch/mmap-go v1.0.4, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, edsrzf/mmap-go 1.1.0, GAX (Google Api eXtensions) 0.103.2, GAX (Google Api eXtensions) 2.18.2, GAX (Google Api eXtensions) 2.7.1, Go programming language 1.18.5, Go programming language 1.19, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20201211-snapshot-7117e9ea, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/net 20220722-snapshot-a158d28d, golang.org/x/net 20220728-snapshot-c7608f3a, golang.org/x/net 20220804-snapshot-a33c5aa5, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20211112-snapshot-0c823b97, golang.org/x/sys 20220114-snapshot-da31bd32, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/term 20220722-snapshot-a9ba230a, golang.org/x/time 20220722-snapshot-e5dcc9cf, golang.org/x/tools v0.1.11, golang.org/x/xerrors 20200804-snapshot-5ec99f83, Google API Common 2.2.1, Google Auth Library for Java 1.7.0, google.golang.org/protobuf v1.28.0, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.8, googleapis/gax-go v2.4.0, gopsutil v3.22.7, HdrHistogram_c 0.9.2, jemalloc 5.3.0, jsdiff 4.0.2, jsdiff v5.0.0, PCRE 8.44, prometheus-procfs 0.8.0, Protocol Buffer Java API 3.21.1, Protocol Buffer Java Util Package 3.21.1, pycryptodome 3.10.4, PySocks 1.7.1, re2j 1.1, Stax2 API 4.2.1, tklauser/go-sysconf 0.3.10)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -8629,7 +8631,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, Animal Sniffer Annotations 1.19, azure-identity 1.4.1, azure-storage-blob 12.14.3, Azure/azure-sdk-for-go v66.0.0, AzureAD/microsoft-authentication-library-for-go v0.5.3, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, BurntSushi/toml v1.2.0, Checker Qual 3.22.2, clipboard.js 1.5.16, cpuguy83-go-md2man 2.0.2, curl 7.84.0, delegate 3.2.0, dominikh/go-tools v0.3.2, enacl v1.2.1, erlang-erlydtl 0.7.0, github.com/golang-jwt/jwt v4.4.2, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, Go Testify 1.8.0, go-jsonpointer 20140810-snapshot-75939f54, good-listener 1.2.2, hashicorp/go-hclog v1.2.1, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, mapstructure v1.5.0, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.11.0, msal4j-persistence-extension 1.1.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, prataprc/monster 20210210-snapshot-07525cc2, rqlite v1.14.14, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, SLF4J Reload4j Binding 1.7.36, sn-2-ui-router-ng2 6.0.1, spdlog 1.10.0, urfAVE/cli v2.11.1, xrash/smetrics 20201216-snapshot-039620a6, yaml for Go v3.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, Animal Sniffer Annotations 1.19, azure-identity 1.4.1, azure-storage-blob 12.14.3, Azure/azure-sdk-for-go v66.0.0, AzureAD/microsoft-authentication-library-for-go v0.5.3, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, BurntSushi/toml v1.2.0, Checker Qual 3.22.2, clipboard.js 1.5.16, cpuguy83-go-md2man 2.0.2, curl 7.84.0, delegate 3.2.0, dominikh/go-tools v0.3.2, enacl v1.2.1, erlang-erlydtl 0.7.0, github.com/golang-jwt/jwt v4.4.2, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, Go Testify 1.8.0, go-jsonpointer 20140810-snapshot-75939f54, good-listener 1.2.2, hashicorp/go-hclog v1.2.1, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, libicu 71.1, mapstructure v1.5.0, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.14.2, Microsoft Azure internal Avro module for Storage 12.1.3, Microsoft Azure Java Core Library 1.24.1, Microsoft Azure Netty HTTP Client Library 1.11.6, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.11.0, msal4j-persistence-extension 1.1.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, prataprc/monster 20210210-snapshot-07525cc2, rqlite v1.14.14, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, SLF4J Reload4j Binding 1.7.36, sn-2-ui-router-ng2 6.0.1, spdlog 1.10.0, urfAVE/cli v2.11.1, xrash/smetrics 20201216-snapshot-039620a6, yaml for Go v3.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
 
 The MIT License
 ===============
@@ -9861,7 +9863,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 ---
 
 Public Domain
-(erlang-poolboy 1.5.1, HdrHistogram_c 0.9.2, pascaldekloe/goe v0.1.0, pycryptodome 3.10.4, SQLite 3.37.1, tzdata 2022a, win_inet_pton 1.1.0, XZ Utils 5.2.5)
+(erlang-poolboy 1.5.1, HdrHistogram_c 0.9.2, libicu 71.1, pascaldekloe/goe v0.1.0, pycryptodome 3.10.4, SQLite 3.37.1, tzdata 2022a, win_inet_pton 1.1.0, XZ Utils 5.2.5)
 
 Public domain code is not subject to any license.
 
@@ -10087,6 +10089,37 @@ by Tim Hudson (tjh@cryptsoft.com).
 
 ---
 
+Unicode Character Database Terms Of Use
+(libicu 71.1)
+
+UCD Terms of Use
+================
+
+Disclaimer
+
+The Unicode Character Database is provided as is by Unicode, Inc. No claims are
+made as to fitness for any particular purpose. No warranties of any kind are
+expressed or implied. The recipient agrees to determine applicability of
+information provided. If this file has been purchased on magnetic or optical
+media from Unicode, Inc., the sole remedy for any claim will be exchange of
+defective media within 90 days of receipt.
+
+This disclaimer is applicable for all other data files accompanying the Unicode
+Character Database, some of which have been compiled by the Unicode Consortium,
+and some of which have been supplied by other sources.
+
+Limitations on Rights to Redistribute This Data
+
+Recipient is granted the right to make copies in any form for internal
+distribution and to freely use the information supplied in the creation of
+products supporting the UnicodeTM Standard. The files in the Unicode Character
+Database can be redistributed to third parties or other organizations (whether
+for profit or not) as long as this notice and the disclaimer notice are retained.
+Information can be extracted from these files and used in documentation or
+programs, as long as there is an accompanying notice indicating the source.
+
+---
+
 University of Illinois/NCSA Open Source License
 (Go programming language 20180717-snapshot, libcxx 13.0.1)
 
@@ -10162,7 +10195,7 @@ X Window System is a trademark of X Consortium, Inc.
 ---
 
 zlib License
-(Go programming language 20180717-snapshot, zlib 1.2.11)
+(Go programming language 20180717-snapshot, zlib 1.2.11, zlib 1.2.12)
 
 The zlib/libpng License
 =======================
