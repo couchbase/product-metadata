@@ -108,7 +108,7 @@ filenames:
 {%-       set arch = "arm64"                                %}
 {%-     endif                                               %}
 {%-     for edition in [ "community", "enterprise" ]        %}
-  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ unnotarized }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
+  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}{{ unnotarized }}.{{ bits["ext"] }}
 {%-     endfor                                              %}
 {%-     if (version_tuple >= (7, 1, 0)) and
             (platform in tools_plats) and
