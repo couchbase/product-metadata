@@ -12,6 +12,7 @@ Kotlin 1.7.10 : Apache License 2.0
 kotlin-stdlib-common 1.7.10 : Apache License 2.0
 leetal/ios-cmake 3.1.0 : BSD 3-clause "New" or "Revised" License
 libb64 1.2.1 : Creative Commons Public Domain Dedication and Certification
+libicu 71.1 : (MIT License AND Public Domain AND Unicode Character Database Terms Of Use)
 libstemmer 0 : BSD 3-clause "New" or "Revised" License
 libwebp 1.2.0 : BSD 3-clause "New" or "Revised" License
 mbed TLS 2.28.1 : Apache License 2.0
@@ -19,7 +20,7 @@ OkHttp 3.14.7 : Apache License 2.0
 OkIO 1.17.2 : Apache License 2.0
 org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.7.10 : Apache License 2.0
 org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.7.10 : Apache License 2.0
-SQLite 3.32.1 : Public Domain
+SQLite 3.39.3 : Public Domain
 sqlite3-unicodesn 20160920-snapshot-af75748c : Public Domain
 SQLiteCpp 2.0.0 : MIT License
 zlib 1.2.12 : zlib License
@@ -360,7 +361,7 @@ in any way, including by methods that have not yet been invented or conceived.
 ---
 
 MIT License
-(jsonsl 20171103-snapshot-684b60f9)
+(jsonsl 20171103-snapshot-684b60f9, libicu 71.1)
 
 The MIT License
 ===============
@@ -415,9 +416,40 @@ IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 Public Domain
-(SQLite 3.32.1, sqlite3-unicodesn 20160920-snapshot-af75748c)
+(libicu 71.1, SQLite 3.39.3, sqlite3-unicodesn 20160920-snapshot-af75748c)
 
 Public domain code is not subject to any license.
+
+---
+
+Unicode Character Database Terms Of Use
+(libicu 71.1)
+
+UCD Terms of Use
+================
+
+Disclaimer
+
+The Unicode Character Database is provided as is by Unicode, Inc. No claims are
+made as to fitness for any particular purpose. No warranties of any kind are
+expressed or implied. The recipient agrees to determine applicability of
+information provided. If this file has been purchased on magnetic or optical
+media from Unicode, Inc., the sole remedy for any claim will be exchange of
+defective media within 90 days of receipt.
+
+This disclaimer is applicable for all other data files accompanying the Unicode
+Character Database, some of which have been compiled by the Unicode Consortium,
+and some of which have been supplied by other sources.
+
+Limitations on Rights to Redistribute This Data
+
+Recipient is granted the right to make copies in any form for internal
+distribution and to freely use the information supplied in the creation of
+products supporting the UnicodeTM Standard. The files in the Unicode Character
+Database can be redistributed to third parties or other organizations (whether
+for profit or not) as long as this notice and the disclaimer notice are retained.
+Information can be extracted from these files and used in documentation or
+programs, as long as there is an accompanying notice indicating the source.
 
 ---
 
