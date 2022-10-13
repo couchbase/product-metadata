@@ -248,7 +248,6 @@ folly v2020.08.24.00 : Apache License 2.0
 forestdb v1.2 : Apache License 2.0
 form3tech-oss/jwt-go v3.2.2 : MIT License
 fs.realpath 1.0.0 : ISC License
-fsnotify-fsnotify v1.4.7 : BSD 3-clause "New" or "Revised" License
 geocouch 20180430-snapshot-92def13f : Apache License 2.0
 geometry-api-java 2.0.0 : Apache License 2.0
 github.com/blevesearch/vellum v1.0.3 : Apache License 2.0
@@ -317,7 +316,6 @@ golang-x-text-dev 0.3.7 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20171031-snapshot-bd6f299f : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180503-snapshot-c2843e01 : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto 20200819-snapshot-5c72a883 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20210313-snapshot-e6e6c4f2 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20210322-snapshot-0c34fe9e : BSD 3-clause "New" or "Revised" License
 golang.org/x/lint 20201207-snapshot-83fdc39f : BSD 3-clause "New" or "Revised" License
@@ -326,15 +324,14 @@ golang.org/x/net 0.0+git20170629.c81e7f2 : BSD 3-clause "New" or "Revised" Licen
 golang.org/x/net 20170911-snapshot-66aacef3 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180223-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180312-snapshot-a337091b : BSD 3-clause "New" or "Revised" License
-golang.org/x/net 20190311-snapshot-d8887717 : BSD 3-clause "New" or "Revised" License
-golang.org/x/net 20190402-snapshot-eb5bcb51 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20210324-snapshot-d1beb07c : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20210409-snapshot-afb366fc : BSD 3-clause "New" or "Revised" License
+golang.org/x/net 20220728-snapshot-c7608f3a : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20181221-snapshot-b4a75ba8 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys 20200212-snapshot-12a6c2dc : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20210323-snapshot-47abb651 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20210403-snapshot-5e06dd20 : BSD 3-clause "New" or "Revised" License
 golang.org/x/term 20210219-snapshot-6a3ed077 : BSD 3-clause "New" or "Revised" License
+golang.org/x/term 20210927-snapshot-03fcf44c : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools 20181127-snapshot-45ff765b : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools v0.1.0 : BSD 3-clause "New" or "Revised" License
@@ -1692,7 +1689,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(fsnotify-fsnotify v1.4.7, gopkg.in/v1/fsnotify v1.4.7)
+(gopkg.in/v1/fsnotify v1.4.7)
 
 Copyright (c) 2012 The Go Authors. All rights reserved.
 Copyright (c) 2012 fsnotify Authors. All rights reserved.
@@ -2041,7 +2038,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(blackfriday v1.5.2, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, Go programming language 1.18.5, Go programming language 1.18.7, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20200724-snapshot-2164a8ac, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20200819-snapshot-5c72a883, golang.org/x/crypto 20210313-snapshot-e6e6c4f2, golang.org/x/crypto 20210322-snapshot-0c34fe9e, golang.org/x/lint 20201207-snapshot-83fdc39f, golang.org/x/net 20190311-snapshot-d8887717, golang.org/x/net 20190402-snapshot-eb5bcb51, golang.org/x/net 20210324-snapshot-d1beb07c, golang.org/x/net 20210409-snapshot-afb366fc, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20200212-snapshot-12a6c2dc, golang.org/x/sys 20210323-snapshot-47abb651, golang.org/x/sys 20210403-snapshot-5e06dd20, golang.org/x/term 20210219-snapshot-6a3ed077, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang.org/x/xerrors 20200804-snapshot-5ec99f83, Google V8 JavaScript Engine 8.3.110.13, HdrHistogram_c 0.9.2, jsdiff 4.0.2, jsdiff v5.0.0, menuinst 1.4.18, PCRE 8.43, PySocks 1.7.1, Stax2 API 4.2.1, Tcl/Tk 8.6.11)
+(blackfriday v1.5.2, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, Go programming language 1.18.5, Go programming language 1.18.7, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20200724-snapshot-2164a8ac, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20210313-snapshot-e6e6c4f2, golang.org/x/crypto 20210322-snapshot-0c34fe9e, golang.org/x/lint 20201207-snapshot-83fdc39f, golang.org/x/net 20210324-snapshot-d1beb07c, golang.org/x/net 20210409-snapshot-afb366fc, golang.org/x/net 20220728-snapshot-c7608f3a, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20210323-snapshot-47abb651, golang.org/x/sys 20210403-snapshot-5e06dd20, golang.org/x/term 20210219-snapshot-6a3ed077, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang.org/x/xerrors 20200804-snapshot-5ec99f83, Google V8 JavaScript Engine 8.3.110.13, HdrHistogram_c 0.9.2, jsdiff 4.0.2, jsdiff v5.0.0, menuinst 1.4.18, PCRE 8.43, PySocks 1.7.1, Stax2 API 4.2.1, Tcl/Tk 8.6.11)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
