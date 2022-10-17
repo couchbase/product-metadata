@@ -537,9 +537,9 @@ golang.org/x/net 20220708-snapshot-1185a901 : BSD 3-clause "New" or "Revised" Li
 golang.org/x/oauth2 20220711-snapshot-c8730f7f : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20210820-snapshot-2c5d950f : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20220114-snapshot-da31bd32 : BSD 3-clause "New" or "Revised" License
-golang.org/x/text v0.3.7 : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20200804-snapshot-5ec99f83 : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.7 : Apache License 2.0
+golang/text v0.3.7 : BSD 3-clause "New" or "Revised" License
 gomega v1.2.0 : MIT License
 google.golang.org/protobuf v1.27.1 : BSD 3-clause "New" or "Revised" License
 google.golang.org/protobuf v1.28.0 : BSD 3-clause "New" or "Revised" License
@@ -2327,7 +2327,7 @@ POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang.org/x/text v0.3.7, miekg/dns v1.1.25)
+(golang/text v0.3.7, miekg/dns v1.1.25)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
