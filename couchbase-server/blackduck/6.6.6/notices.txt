@@ -168,7 +168,6 @@ go-check-check 20171108-snapshot-20d25e28 : BSD 2-clause "Simplified" License
 go-jsonpointer 20160814-snapshot-ba0abeac : MIT License
 go-metrics master-efc2659 : BSD 2-clause "Simplified" License
 go-ole-go-ole 184688adcb6ddaa744fe787e6e6a47a95f8b5e44 : MIT License
-go-ole-go-ole 20210325-snapshot : MIT License
 go-spew v1.1.0 : ISC License
 go-sqlite3 master-20100709 : BSD 2-clause "Simplified" License
 go-zookeeper 20150410-snapshot-fa6674ab : BSD 3-clause "New" or "Revised" License
@@ -185,15 +184,12 @@ golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
 golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
 golang-github-spf13-pflag-dev 1.0.3 : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev 20180613-snapshot : BSD 3-clause "New" or "Revised" License
-golang-golang-x-sys-dev 0.0~git20211216.1d35b9e : BSD 3-clause "New" or "Revised" License
-golang-golang-x-text 0.3.7 : BSD 3-clause "New" or "Revised" License
 golang-google-genproto-dev 0.0~git20171123.7f0da29 : Apache License 2.0
 golang-google-grpc 1.11.0 : BSD 3-clause "New" or "Revised" License
 golang-google-grpc 1.27.1 : Apache License 2.0
 golang-snappy-go-dev 20150731-snapshot-a911026e : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev 20171230-snapshot : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v0.0.1 : BSD 3-clause "New" or "Revised" License
-golang-x-text-dev 0.3.7 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180925-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20181226-snapshot-927f9776 : BSD 3-clause "New" or "Revised" License
@@ -204,7 +200,6 @@ golang.org/x/tools 20181127-snapshot-45ff765b : BSD 3-clause "New" or "Revised" 
 golang.org/x/tools 20181129-snapshot-e21233ff : BSD 3-clause "New" or "Revised" License
 golang/net 1.12+git20190812.cdfb69a : BSD 3-clause "New" or "Revised" License
 golang/text v0.3.7 : BSD 3-clause "New" or "Revised" License
-goleveldb 20190103-snapshot : BSD 2-clause "Simplified" License
 Google Mock 1.8.0 : BSD 3-clause "New" or "Revised" License
 Google V8 JavaScript Engine 7.1.321 : BSD 3-clause "New" or "Revised" License
 google-snappy 1.1.1 : BSD 3-clause "New" or "Revised" License
@@ -760,36 +755,6 @@ THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 2-clause "Simplified" License
-(goleveldb 20190103-snapshot)
-
-Copyright 2012 Suryandaru Triandana <syndtr@gmail.com>
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in the
-documentation and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 2-clause "Simplified" License
 (golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1)
 
 Source: https://github.com/elazarl/go-bindata-assetfs
@@ -1020,7 +985,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang-golang-x-sys-dev 0.0~git20211216.1d35b9e, golang-golang-x-text 0.3.7, golang.org/x/crypto 0, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181226-snapshot-927f9776, golang.org/x/net 20190326-snapshot, golang.org/x/net d8887717615a059821345a5c23649351b52a1c0b, golang.org/x/tools 20181127-snapshot-45ff765b, golang.org/x/tools 20181129-snapshot-e21233ff, golang/net 1.12+git20190812.cdfb69a, golang/text v0.3.7)
+(golang.org/x/crypto 0, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181226-snapshot-927f9776, golang.org/x/net 20190326-snapshot, golang.org/x/net d8887717615a059821345a5c23649351b52a1c0b, golang.org/x/tools 20181127-snapshot-45ff765b, golang.org/x/tools 20181129-snapshot-e21233ff, golang/net 1.12+git20190812.cdfb69a, golang/text v0.3.7)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -1766,53 +1731,6 @@ HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
 LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(golang-x-text-dev 0.3.7)
-
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: golang.org/x/text
-Source: https://go.googlesource.com/text/
-Comment:
- https://github.com/golang/text
-
-Files: *
-Copyright: 2009-2015 The Go Authors
-License: BSD-3-Clause
-
-Files: debian/*
-Copyright: 2015 Martina Ferrari <tina@debian.org>
-License: BSD-3-Clause
-
-License: BSD-3-Clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-    * Redistributions of source code must retain the above copyright
- notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
- copyright notice, this list of conditions and the following disclaimer
- in the documentation and/or other materials provided with the
- distribution.
-    * Neither the name of Google Inc. nor the names of its
- contributors may be used to endorse or promote products derived from
- this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -5045,7 +4963,7 @@ SOFTWARE
 ---
 
 MIT License
-(go-ole-go-ole 184688adcb6ddaa744fe787e6e6a47a95f8b5e44, go-ole-go-ole 20210325-snapshot)
+(go-ole-go-ole 184688adcb6ddaa744fe787e6e6a47a95f8b5e44)
 
 The MIT License (MIT)
 
