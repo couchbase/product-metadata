@@ -297,15 +297,12 @@ golang-github-elazarl-go-bindata-assetfs-dev 0.0~git20151224.0.57eb5e1 : BSD 2-c
 golang-github-elazarl-go-bindata-assetfs-dev 1.0.0 : BSD 2-clause "Simplified" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170227-snapshot-30f82fa2 : BSD 2-clause "Simplified" License
 golang-github-gorilla-context 0 : BSD 3-clause "New" or "Revised" License
-golang-github-grpc-grpc-go-devel 1.18.0 : BSD 3-clause "New" or "Revised" License
 golang-github-json-iterator-go-dev 1.0.6 : MIT License
 golang-github-leemcloughlin-gofarmhash 0.0~git20160919.0.0a055c5 : MIT License
 golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5 : Apache License 2.0
 golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
 golang-github-spf13-pflag-dev 1.0.3 : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev 20180613-snapshot : BSD 3-clause "New" or "Revised" License
-golang-golang-x-sys-dev 0.0~git20211216.1d35b9e : BSD 3-clause "New" or "Revised" License
-golang-golang-x-text 0.3.7 : BSD 3-clause "New" or "Revised" License
 golang-google-genproto-dev 0.0~git20171123.7f0da29 : Apache License 2.0
 golang-google-grpc 1.11.0 : BSD 3-clause "New" or "Revised" License
 golang-google-grpc 1.6.0 : BSD 3-clause "New" or "Revised" License
@@ -314,7 +311,6 @@ golang-snappy-go-dev 20171230-snapshot : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v0.0.1 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v0.0.3 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
-golang-x-text-dev 0.3.7 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20171031-snapshot-bd6f299f : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180503-snapshot-c2843e01 : BSD 3-clause "New" or "Revised" License
@@ -343,7 +339,6 @@ golang/net 1.12+git20190812.cdfb69a : BSD 3-clause "New" or "Revised" License
 golang/text v0.3.6 : BSD 3-clause "New" or "Revised" License
 golang/text v0.3.7 : BSD 3-clause "New" or "Revised" License
 goleveldb 1.0.0 : BSD 2-clause "Simplified" License
-goleveldb 20190103-snapshot : BSD 2-clause "Simplified" License
 gomega 1.4.3 : MIT License
 good-listener 1.2.2 : MIT License
 Google C++ Testing Framework 1.10.0 : BSD 3-clause "New" or "Revised" License
@@ -560,7 +555,6 @@ nopt v4.0.3 : ISC License
 ocLazyLoad 1.1.0 : MIT License
 onsi/ginkgo v1.7.0 : MIT License
 OpenJDK 11.0.15+10 : GNU General Public License v2.0 w/Classpath exception
-OpenSSL 1.1.1o : (SSLeay License AND OpenSSL License)
 OpenSSL 1.1.1q : (SSLeay License AND OpenSSL License)
 OpenTracing API 0.31.0 : Apache License 2.0
 opentracing-opentracing-go 20180301-snapshot : Apache License 2.0
@@ -1068,7 +1062,7 @@ THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 2-clause "Simplified" License
-(goleveldb 1.0.0, goleveldb 20190103-snapshot)
+(goleveldb 1.0.0)
 
 Copyright 2012 Suryandaru Triandana <syndtr@gmail.com>
 All rights reserved.
@@ -1398,7 +1392,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(AWS SDK for Go 1.38.17, golang-golang-x-sys-dev 0.0~git20211216.1d35b9e, golang-golang-x-text 0.3.7, golang.org/x/crypto 0, golang.org/x/crypto 20171031-snapshot-bd6f299f, golang.org/x/mod v0.3.0, golang.org/x/net 20170911-snapshot-66aacef3, golang.org/x/net 20180223-snapshot, golang.org/x/net 20180312-snapshot-a337091b, golang.org/x/tools 20181127-snapshot-45ff765b, golang.org/x/tools 20181129-snapshot-e21233ff, golang.org/x/tools v0.1.0, golang/net 1.12+git20190812.cdfb69a, golang/text v0.3.6, golang/text v0.3.7)
+(AWS SDK for Go 1.38.17, golang.org/x/crypto 0, golang.org/x/crypto 20171031-snapshot-bd6f299f, golang.org/x/mod v0.3.0, golang.org/x/net 20170911-snapshot-66aacef3, golang.org/x/net 20180223-snapshot, golang.org/x/net 20180312-snapshot-a337091b, golang.org/x/tools 20181127-snapshot-45ff765b, golang.org/x/tools 20181129-snapshot-e21233ff, golang.org/x/tools v0.1.0, golang/net 1.12+git20190812.cdfb69a, golang/text v0.3.6, golang/text v0.3.7)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -2006,7 +2000,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(blackfriday v1.5.2, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, Go programming language 1.18.5, Go programming language 1.18.7, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20200724-snapshot-2164a8ac, golang-github-grpc-grpc-go-devel 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20210313-snapshot-e6e6c4f2, golang.org/x/crypto 20210322-snapshot-0c34fe9e, golang.org/x/lint 20201207-snapshot-83fdc39f, golang.org/x/net 20210324-snapshot-d1beb07c, golang.org/x/net 20210409-snapshot-afb366fc, golang.org/x/net 20220728-snapshot-c7608f3a, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20210403-snapshot-5e06dd20, golang.org/x/term 20210219-snapshot-6a3ed077, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang.org/x/xerrors 20200804-snapshot-5ec99f83, Google V8 JavaScript Engine 8.3.110.13, google/go-cmp v0.5.9, gopsutil v3.22.8, HdrHistogram_c 0.9.2, jsdiff 4.0.2, jsdiff v5.0.0, menuinst 1.4.18, PCRE 8.43, PySocks 1.7.1, Stax2 API 4.2.1, Tcl/Tk 8.6.11, tklauser/go-sysconf 0.3.10, tklauser/numcpus 0.4.0)
+(blackfriday v1.5.2, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, Go programming language 1.18.5, Go programming language 1.18.7, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20200724-snapshot-2164a8ac, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20210313-snapshot-e6e6c4f2, golang.org/x/crypto 20210322-snapshot-0c34fe9e, golang.org/x/lint 20201207-snapshot-83fdc39f, golang.org/x/net 20210324-snapshot-d1beb07c, golang.org/x/net 20210409-snapshot-afb366fc, golang.org/x/net 20220728-snapshot-c7608f3a, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20210403-snapshot-5e06dd20, golang.org/x/term 20210219-snapshot-6a3ed077, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang.org/x/xerrors 20200804-snapshot-5ec99f83, Google V8 JavaScript Engine 8.3.110.13, google/go-cmp v0.5.9, gopsutil v3.22.8, HdrHistogram_c 0.9.2, jsdiff 4.0.2, jsdiff v5.0.0, menuinst 1.4.18, PCRE 8.43, PySocks 1.7.1, Stax2 API 4.2.1, Tcl/Tk 8.6.11, tklauser/go-sysconf 0.3.10, tklauser/numcpus 0.4.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -2311,53 +2305,6 @@ HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
 LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(golang-x-text-dev 0.3.7)
-
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: golang.org/x/text
-Source: https://go.googlesource.com/text/
-Comment:
- https://github.com/golang/text
-
-Files: *
-Copyright: 2009-2015 The Go Authors
-License: BSD-3-Clause
-
-Files: debian/*
-Copyright: 2015 Martina Ferrari <tina@debian.org>
-License: BSD-3-Clause
-
-License: BSD-3-Clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-    * Redistributions of source code must retain the above copyright
- notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
- copyright notice, this list of conditions and the following disclaimer
- in the documentation and/or other materials provided with the
- distribution.
-    * Neither the name of Google Inc. nor the names of its
- contributors may be used to endorse or promote products derived from
- this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -7813,7 +7760,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 ---
 
 OpenSSL License
-(OpenSSL 1.1.1o, OpenSSL 1.1.1q)
+(OpenSSL 1.1.1q)
 
 OpenSSL Project License
 =======================
@@ -7937,7 +7884,7 @@ PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 ---
 
 SSLeay License
-(OpenSSL 1.1.1o, OpenSSL 1.1.1q)
+(OpenSSL 1.1.1q)
 
 SSLeay License
 ==============
