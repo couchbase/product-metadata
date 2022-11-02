@@ -1,0 +1,9 @@
+{
+    "note": "Please update the Wiki page https://hub.internal.couchbase.com/confluence/display/CR/Supported+Metadata+Entries+for+Build+Database for any changes",
+    "whitelist": [
+      {
+        "key": "staging_docker",
+        "set_by": "Jenkins job https://server.jenkins.couchbase.com/job/create_docker_staging/"
+      }
+    ]
+  }

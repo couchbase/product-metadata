@@ -3,19 +3,23 @@
   "whitelist": [
     {
       "key": "cloud_ami",
-      "set_by": "Jenkins job http://server.jenkins.couchbase.com/job/capella-ami/"
+      "set_by": "Jenkins job https://server.jenkins.couchbase.com/job/capella-ami/"
     },
     {
       "key": "kickoff_qe",
-      "set_by": "Jenkins job http://server.jenkins.couchbase.com/job/kickoff-qe/"
+      "set_by": "Jenkins job https://server.jenkins.couchbase.com/job/kickoff-qe/"
     },
     {
       "key": "sanity",
-      "set_by": "Jenkins job http://server.jenkins.couchbase.com/view/build-sanity/job/build_sanity_matrix/"
+      "set_by": "Jenkins job https://server.jenkins.couchbase.com/view/build-sanity/job/build_sanity_matrix/"
     },
     {
       "key": "unit_test",
-      "set_by": "Jenkins job http://cv.jenkins.couchbase.com/job/unit-simple-test/"
+      "set_by": "Jenkins job https://cv.jenkins.couchbase.com/job/unit-simple-test/"
+    },
+    {
+      "key": "staging_docker",
+      "set_by": "Jenkins job https://server.jenkins.couchbase.com/job/create_docker_staging/"
     }
   ]
 }
