@@ -819,8 +819,6 @@ bonjour 3.5.0 : MIT License
 boolbase 1.0.0 : ISC License
 brace 0.11.1 : MIT License
 brace-expansion 1.1.11 : MIT License
-braces 2.3.2 : MIT License
-braces 3.0.2 : MIT License
 bradleyjkemp/cupaloy v2.2.0 : MIT License
 broadcast-channel 3.6.0 : MIT License
 brorand 1.1.0 : MIT License
@@ -1324,6 +1322,10 @@ expressjs/accepts 1.3.7 : MIT License
 expressjs/accepts 1.3.8 : MIT License
 expressjs/compressible 2.0.18 : MIT License
 expressjs/express 4.17.2 : MIT License
+expressjs/mime-types 2.1.18 : MIT License
+expressjs/mime-types 2.1.30 : MIT License
+expressjs/mime-types 2.1.34 : MIT License
+expressjs/mime-types 2.1.35 : MIT License
 ext 1.6.0 : ISC License
 extend 3.0.2 : MIT License
 extend-shallow 2.0.1 : MIT License
@@ -1455,6 +1457,7 @@ global-dirs 3.0.0 : MIT License
 globalyzer 0.1.0 : MIT License
 globrex 0.1.2 : MIT License
 go humanize v1.0.0 : MIT License
+Go Logrus v1.7.0 : MIT License
 Go Testify 1.8.0 : MIT License
 go-ansiterm 20170929-snapshot-d6e3b332 : MIT License
 go-autorest v14.2.0 : Apache License 2.0
@@ -1621,11 +1624,9 @@ huandu/xstrings v1.3.2 : MIT License
 human-signals 1.1.1 : Apache License 2.0
 human-signals 2.1.0 : Apache License 2.0
 hyphenate-style-name 1.0.4 : BSD 3-clause "New" or "Revised" License
-i18next/i18next 20.1.0 : MIT License
+i18next 20.1.0 : MIT License
 iarna/gauge 1.2.7 : ISC License
 iarna/gauge v2.7.4 : ISC License
-iarna/write-file-atomic 3.0.3 : ISC License
-iarna/write-file-atomic 4.0.2 : ISC License
 iconv-lite 0.6.3 : MIT License
 iconv-lite v0.4.24 : MIT License
 icrowley/fake 20180203-snapshot-4178557a : MIT License
@@ -1840,10 +1841,6 @@ jsesc 0.5.0 : MIT License
 jsesc v2.5.2 : MIT License
 jshttp/content-type 1.0.4 : MIT License
 jshttp/fresh 0.5.2 : MIT License
-jshttp/mime-types 2.1.18 : MIT License
-jshttp/mime-types 2.1.30 : MIT License
-jshttp/mime-types 2.1.34 : MIT License
-jshttp/mime-types 2.1.35 : MIT License
 json-parse-better-errors 1.0.2 : MIT License
 json-parse-even-better-errors 2.3.1 : MIT License
 json-schema 0.4.0 : (BSD 3-clause "New" or "Revised" License OR Academic Free License v2.1)
@@ -1999,6 +1996,8 @@ micromatch 3.1.0 : MIT License
 micromatch 3.1.10 : MIT License
 micromatch 4.0.4 : MIT License
 micromatch 4.0.5 : MIT License
+micromatch/braces 2.3.2 : MIT License
+micromatch/braces 3.0.2 : MIT License
 microseconds 0.2.0 : MIT License
 Microsoft-go-winio v0.4.16 : MIT License
 Microsoft-hcsshim v0.8.6 : MIT License
@@ -2252,7 +2251,6 @@ parse-json 4.0.0 : MIT License
 parse-json v5.2.0 : MIT License
 parse5 3.0.3 : MIT License
 parse5 6.0.1 : MIT License
-parseurl 1.3.3 : MIT License
 pascal-case 3.1.2 : MIT License
 pascalcase 0.1.1 : MIT License
 pascaldekloe/goe v0.1.0 : Public Domain
@@ -2286,6 +2284,7 @@ picomatch 2.3.0 : MIT License
 picomatch 2.3.1 : MIT License
 pify 2.3.0 : MIT License
 pify 3.0.0 : MIT License
+pillarjs/parseurl 1.3.3 : MIT License
 pirates 4.0.5 : MIT License
 pkg-dir 2.0.0 : MIT License
 pkg-dir 4.2.0 : MIT License
@@ -2519,8 +2518,8 @@ seed-random 2.2.0 : MIT License
 select-hose 2.0.0 : MIT License
 selfsigned 2.0.0 : MIT License
 senchalabs / connect 3.6.6 : MIT License
-Send for Node.js 0.16.2 : MIT License
-Send for Node.js 0.17.2 : MIT License
+send 0.16.2 : MIT License
+send 0.17.2 : MIT License
 sendgrid-sendgrid-go v3.8.0 : MIT License
 sendgrid/rest 2.6.2 : MIT License
 sergi/go-diff v1.1.0 : (MIT License AND Apache License 2.0)
@@ -2548,8 +2547,6 @@ shelljs 0.8.5 : BSD 3-clause "New" or "Revised" License
 shurcooL/httpfs 20190707-snapshot-8d4bc4ba : MIT License
 side-channel 1.0.4 : MIT License
 siebenmann/go-kstat 20200303-snapshot-4e8294f9 : 
-signal-exit 3.0.7 : ISC License
-signal-exit v3.0.3 : ISC License
 sigs.k8s.io/controller-runtime v0.5.2 : Apache License 2.0
 sigs.k8s.io/yaml v1.1.0 : (MIT License AND BSD 3-clause "New" or "Revised" License)
 simple-concat 1.0.1 : MIT License
@@ -2571,12 +2568,6 @@ sindresorhus/onetime 2.0.1 : MIT License
 sindresorhus/onetime v5.1.2 : MIT License
 sindresorhus/slash 4.0.0 : MIT License
 sindresorhus/slash v3.0.0 : MIT License
-sindresorhus/supports-color 2.0.0 : MIT License
-sindresorhus/supports-color 3.2.3 : MIT License
-sindresorhus/supports-color 5.5.0 : MIT License
-sindresorhus/supports-color 8.1.1 : MIT License
-sindresorhus/supports-color v7.2.0 : MIT License
-Sirupsen/logrus v1.7.0 : MIT License
 sirv 1.0.19 : MIT License
 sisteransi 1.0.5 : MIT License
 slack-go/slack v0.6.3 : BSD 2-clause "Simplified" License
@@ -2678,6 +2669,11 @@ style-loader 3.3.1 : MIT License
 subarg 1.0.0 : MIT License
 subosito/gotenv v1.2.0 : MIT License
 substack/node-binary 0.3.0 : MIT License
+supports-color 2.0.0 : MIT License
+supports-color 3.2.3 : MIT License
+supports-color 5.5.0 : MIT License
+supports-color 8.1.1 : MIT License
+supports-color v7.2.0 : MIT License
 supports-hyperlinks 2.2.0 : MIT License
 supports-hyperlinks 2.3.0 : MIT License
 supports-preserve-symlinks-flag 1.0.0 : MIT License
@@ -2695,6 +2691,8 @@ symbol-observable 1.2.0 : MIT License
 symbol-tree 3.2.4 : MIT License
 tailwindcss 3.0.24 : MIT License
 tapable 2.2.1 : MIT License
+tapjs/signal-exit 3.0.7 : ISC License
+tapjs/signal-exit v3.0.3 : ISC License
 tar 4.4.19 : ISC License
 tar-fs v2.1.1 : MIT License
 tar-stream 2.2.0 : MIT License
@@ -2881,6 +2879,8 @@ wrap-ansi 3.0.1 : MIT License
 wrap-ansi v6.2.0 : MIT License
 wrap-ansi v7.0.0 : MIT License
 wrappy 1.0.2 : ISC License
+write-file-atomic 3.0.3 : ISC License
+write-file-atomic 4.0.2 : ISC License
 xanzy-ssh-agent v0.3.0 : Apache License 2.0
 xml-name-validator 3.0.0 : Apache License 2.0
 xml-name-validator 4.0.0 : Apache License 2.0
@@ -9539,7 +9539,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(ast-types-flow 0.0.7, boolbase 1.0.0, bs-recipes 1.3.4, cypress-get-table 1.0.1, electron-to-chromium 1.4.242, emirpasic-gods v1.12.0, eslint-import-resolver-typescript 2.4.0, eslint-plugin-typescript-sort-keys 2.1.0, flatted 3.2.7, iarna/write-file-atomic 4.0.2, nano-time 1.0.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver 7.3.7, node-semver 7.3.8, splitargs 0.0.7, svelte-hmr 0.14.12, v8-to-istanbul 9.0.1, yargs-parser 21.1.1)
+(ast-types-flow 0.0.7, boolbase 1.0.0, bs-recipes 1.3.4, cypress-get-table 1.0.1, electron-to-chromium 1.4.242, emirpasic-gods v1.12.0, eslint-import-resolver-typescript 2.4.0, eslint-plugin-typescript-sort-keys 2.1.0, flatted 3.2.7, nano-time 1.0.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver 7.3.7, node-semver 7.3.8, splitargs 0.0.7, svelte-hmr 0.14.12, v8-to-istanbul 9.0.1, write-file-atomic 4.0.2, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
@@ -9652,7 +9652,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(signal-exit 3.0.7, signal-exit v3.0.3)
+(tapjs/signal-exit 3.0.7, tapjs/signal-exit v3.0.3)
 
 The ISC License
 
@@ -9944,7 +9944,7 @@ Permission to use, copy, modify, and/or distribute this software for any
 ---
 
 ISC License
-(iarna/write-file-atomic 3.0.3)
+(write-file-atomic 3.0.3)
 
 Upstream-Contact: https://github.com/iarna/write-file-atomic/issues
 Source: https://github.com/iarna/write-file-atomic
@@ -10847,7 +10847,7 @@ OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Send for Node.js 0.16.2, Send for Node.js 0.17.2)
+(send 0.16.2, send 0.17.2)
 
 (The MIT License)
 
@@ -11402,7 +11402,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(expressjs/accepts 1.3.7, expressjs/accepts 1.3.8, jshttp/mime-types 2.1.18, jshttp/mime-types 2.1.30, jshttp/mime-types 2.1.34)
+(expressjs/accepts 1.3.7, expressjs/accepts 1.3.8, expressjs/mime-types 2.1.18, expressjs/mime-types 2.1.30, expressjs/mime-types 2.1.34)
 
 (The MIT License)
 
@@ -17317,7 +17317,7 @@ SOFTWARE
 ---
 
 MIT License
-(@types/aria-query 4.2.1, @types/aria-query 4.2.2, @types/babel__core 7.1.18, @types/babel__core 7.1.19, @types/babel__generator 7.6.4, @types/babel__template 7.4.1, @types/babel__traverse 7.14.2, @types/body-parser 1.19.2, @types/bonjour 3.5.10, @types/cheerio 0.22.18, @types/connect 3.4.35, @types/connect-history-api-fallback 1.3.5, @types/cookie 0.4.1, @types/cors 2.8.12, @types/d3-color 2.0.1, @types/d3-dsv 3.0.0, @types/d3-interpolate 2.0.0, @types/d3-interpolate 3.0.1, @types/d3-path 2.0.0, @types/d3-path 3.0.0, @types/eslint-scope 3.7.3, @types/estree 0.0.50, @types/express 4.17.13, @types/express-serve-static-core 4.17.28, @types/graceful-fs 4.1.5, @types/history 4.7.8, @types/html-minifier-terser 6.0.0, @types/http-proxy 1.17.8, @types/istanbul-lib-coverage 2.0.3, @types/istanbul-reports 3.0.0, @types/istanbul-reports 3.0.1, @types/jest-axe 3.5.3, @types/json-schema 7.0.11, @types/json-schema 7.0.7, @types/json-schema 7.0.9, @types/lodash 4.14.171, @types/mime 1.3.2, @types/parse5 6.0.3, @types/prop-types 15.7.4, @types/pug 2.0.6, @types/qrcode.react 1.0.1, @types/qs 6.9.7, @types/range-parser 1.2.4, @types/react 16.14.21, @types/react 17.0.37, @types/react-dom 16.9.13, @types/react-redux 7.1.16, @types/react-transition-group 4.4.3, @types/retry 0.12.1, @types/sass 1.43.1, @types/scheduler 0.16.2, @types/serve-index 1.9.1, @types/serve-static 1.13.10, @types/sinonjs__fake-timers 6.0.4, @types/sizzle 2.3.3, @types/sockjs 0.3.33, @types/stack-utils 2.0.1, @types/testing-library__cypress 5.0.9, @types/testing-library__jest-dom 5.9.5, @types/uuid 8.3.0, @types/uuid 8.3.4, @types/ws 8.2.2, @types/yargs 15.0.13, @types/yargs 15.0.14, @types/yargs 16.0.4, @types/yargs-parser 20.2.0, @types/yargs-parser 21.0.0, crypto-browserify/pbkdf2 v3.1.1, jshttp/mime-types 2.1.35)
+(@types/aria-query 4.2.1, @types/aria-query 4.2.2, @types/babel__core 7.1.18, @types/babel__core 7.1.19, @types/babel__generator 7.6.4, @types/babel__template 7.4.1, @types/babel__traverse 7.14.2, @types/body-parser 1.19.2, @types/bonjour 3.5.10, @types/cheerio 0.22.18, @types/connect 3.4.35, @types/connect-history-api-fallback 1.3.5, @types/cookie 0.4.1, @types/cors 2.8.12, @types/d3-color 2.0.1, @types/d3-dsv 3.0.0, @types/d3-interpolate 2.0.0, @types/d3-interpolate 3.0.1, @types/d3-path 2.0.0, @types/d3-path 3.0.0, @types/eslint-scope 3.7.3, @types/estree 0.0.50, @types/express 4.17.13, @types/express-serve-static-core 4.17.28, @types/graceful-fs 4.1.5, @types/history 4.7.8, @types/html-minifier-terser 6.0.0, @types/http-proxy 1.17.8, @types/istanbul-lib-coverage 2.0.3, @types/istanbul-reports 3.0.0, @types/istanbul-reports 3.0.1, @types/jest-axe 3.5.3, @types/json-schema 7.0.11, @types/json-schema 7.0.7, @types/json-schema 7.0.9, @types/lodash 4.14.171, @types/mime 1.3.2, @types/parse5 6.0.3, @types/prop-types 15.7.4, @types/pug 2.0.6, @types/qrcode.react 1.0.1, @types/qs 6.9.7, @types/range-parser 1.2.4, @types/react 16.14.21, @types/react 17.0.37, @types/react-dom 16.9.13, @types/react-redux 7.1.16, @types/react-transition-group 4.4.3, @types/retry 0.12.1, @types/sass 1.43.1, @types/scheduler 0.16.2, @types/serve-index 1.9.1, @types/serve-static 1.13.10, @types/sinonjs__fake-timers 6.0.4, @types/sizzle 2.3.3, @types/sockjs 0.3.33, @types/stack-utils 2.0.1, @types/testing-library__cypress 5.0.9, @types/testing-library__jest-dom 5.9.5, @types/uuid 8.3.0, @types/uuid 8.3.4, @types/ws 8.2.2, @types/yargs 15.0.13, @types/yargs 15.0.14, @types/yargs 16.0.4, @types/yargs-parser 20.2.0, @types/yargs-parser 21.0.0, crypto-browserify/pbkdf2 v3.1.1, expressjs/mime-types 2.1.35)
 
 MIT License
 
@@ -20636,7 +20636,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(ansi-escapes 4.3.2, ansi-regex 6.0.1, array-union 3.0.1, camelcase 6.3.0, decompress-response 6.0.0, Del using Globs v6.0.0, emittery v0.8.1, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, figures 3.2.0, find-cache-dir 3.3.1, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, global-dirs 2.1.0, global-dirs 3.0.0, hasha 5.2.2, import-fresh 3.3.0, is-docker 2.2.1, is-installed-globally 0.4.0, is-npm 5.0.0, is-plain-obj 3.0.0, is-unicode-supported 0.1.0, log-symbols 4.1.0, mimic-response 2.1.0, mimic-response 3.1.0, p-limit 3.1.0, p-locate v5.0.0, p-map 4.0.0, parse-json v5.2.0, pretty-bytes 5.6.0, sindresorhus/globals 13.10.0, sindresorhus/is-stream 2.0.1, sindresorhus/onetime v5.1.2, sindresorhus/slash 4.0.0, sindresorhus/supports-color 8.1.1, string-length 4.0.2, Strip ANSI 7.0.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
+(ansi-escapes 4.3.2, ansi-regex 6.0.1, array-union 3.0.1, camelcase 6.3.0, decompress-response 6.0.0, Del using Globs v6.0.0, emittery v0.8.1, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, figures 3.2.0, find-cache-dir 3.3.1, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, global-dirs 2.1.0, global-dirs 3.0.0, hasha 5.2.2, import-fresh 3.3.0, is-docker 2.2.1, is-installed-globally 0.4.0, is-npm 5.0.0, is-plain-obj 3.0.0, is-unicode-supported 0.1.0, log-symbols 4.1.0, mimic-response 2.1.0, mimic-response 3.1.0, p-limit 3.1.0, p-locate v5.0.0, p-map 4.0.0, parse-json v5.2.0, pretty-bytes 5.6.0, sindresorhus/globals 13.10.0, sindresorhus/is-stream 2.0.1, sindresorhus/onetime v5.1.2, sindresorhus/slash 4.0.0, string-length 4.0.2, Strip ANSI 7.0.1, supports-color 8.1.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
 
 MIT License
 
@@ -20666,7 +20666,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(aggregate-error 3.1.0, ansi-escapes v3.2.0, ansi-regex 3.0.0, ansi-regex 3.0.1, ansi-regex 5.0.0, ansi-regex 5.0.1, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, any-observable 0.3.0, array-union v2.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.1, Chalk 4.1.1, Chalk 4.1.2, Chalk v3.0.0, Chalk v4.1.0, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, clipboardy 1.2.3, decompress-response v4.2.1, define-lazy-prop 2.0.0, detect-indent 6.1.0, escape-string-regexp v2.0.0, execa 0.7.0, execa 0.8.0, execa 1.0.0, filter-console 0.1.1, filter-obj 2.0.2, has-flag 3.0.0, has-flag 4.0.0, import-local 3.1.0, indent-string 3.2.0, indent-string v4.0.0, ip-regex 4.3.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-installed-globally 0.3.2, is-ip 3.1.0, is-observable 1.1.0, is-path-cwd v2.2.0, is-path-inside 3.0.3, is-wsl 2.2.0, leven 3.1.0, locate-path v5.0.0, log-symbols v3.0.0, log-update 2.3.0, log-update 4.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, node-open 6.4.0, npm-run-path 4.0.1, opn 5.3.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 4.1.0, p-map 2.1.0, p-map 3.0.0, p-retry 4.6.1, p-try 2.2.0, parent-module 1.0.1, parse-json 4.0.0, path-exists 4.0.0, path-key 3.1.1, path-type 4.0.0, pify 3.0.0, quick-lru 5.1.1, read-pkg 3.0.0, read-pkg-up 3.0.0, redent 3.0.0, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, resolve-pkg 2.0.0, shebang-regex 3.0.0, sindresorhus/globby 11.0.3, sindresorhus/globby 11.0.4, sindresorhus/is-stream v2.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color v7.2.0, split-on-first 1.1.0, string-width 2.1.1, string-width 4.2.2, string-width 4.2.3, Strip ANSI 6.0.1, strip-bom 4.0.0, strip-final-newline 2.0.0, strip-indent v3.0.0, terminal-link 2.1.1, type-fest 0.8.1, untildify v4.0.0, widest-line 2.0.1, wrap-ansi 3.0.1, wrap-ansi v6.2.0)
+(aggregate-error 3.1.0, ansi-escapes v3.2.0, ansi-regex 3.0.0, ansi-regex 3.0.1, ansi-regex 5.0.0, ansi-regex 5.0.1, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, any-observable 0.3.0, array-union v2.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.1, Chalk 4.1.1, Chalk 4.1.2, Chalk v3.0.0, Chalk v4.1.0, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, clipboardy 1.2.3, decompress-response v4.2.1, define-lazy-prop 2.0.0, detect-indent 6.1.0, escape-string-regexp v2.0.0, execa 0.7.0, execa 0.8.0, execa 1.0.0, filter-console 0.1.1, filter-obj 2.0.2, has-flag 3.0.0, has-flag 4.0.0, import-local 3.1.0, indent-string 3.2.0, indent-string v4.0.0, ip-regex 4.3.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-installed-globally 0.3.2, is-ip 3.1.0, is-observable 1.1.0, is-path-cwd v2.2.0, is-path-inside 3.0.3, is-wsl 2.2.0, leven 3.1.0, locate-path v5.0.0, log-symbols v3.0.0, log-update 2.3.0, log-update 4.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, node-open 6.4.0, npm-run-path 4.0.1, opn 5.3.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 4.1.0, p-map 2.1.0, p-map 3.0.0, p-retry 4.6.1, p-try 2.2.0, parent-module 1.0.1, parse-json 4.0.0, path-exists 4.0.0, path-key 3.1.1, path-type 4.0.0, pify 3.0.0, quick-lru 5.1.1, read-pkg 3.0.0, read-pkg-up 3.0.0, redent 3.0.0, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, resolve-pkg 2.0.0, shebang-regex 3.0.0, sindresorhus/globby 11.0.3, sindresorhus/globby 11.0.4, sindresorhus/is-stream v2.0.0, split-on-first 1.1.0, string-width 2.1.1, string-width 4.2.2, string-width 4.2.3, Strip ANSI 6.0.1, strip-bom 4.0.0, strip-final-newline 2.0.0, strip-indent v3.0.0, supports-color 5.5.0, supports-color v7.2.0, terminal-link 2.1.1, type-fest 0.8.1, untildify v4.0.0, widest-line 2.0.1, wrap-ansi 3.0.1, wrap-ansi v6.2.0)
 
 MIT License
 
@@ -24030,7 +24030,7 @@ SOFTWARE
 ---
 
 MIT License
-(Sirupsen/logrus v1.7.0)
+(Go Logrus v1.7.0)
 
 The MIT License (MIT)
 
@@ -24626,7 +24626,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(braces 2.3.2, clone-deep 4.0.1, micromatch 3.1.10, normalize-path 3.0.0)
+(clone-deep 4.0.1, micromatch 3.1.10, micromatch/braces 2.3.2, normalize-path 3.0.0)
 
 The MIT License (MIT)
 
@@ -27034,7 +27034,7 @@ SOFTWARE
 ---
 
 MIT License
-(i18next/i18next 20.1.0)
+(i18next 20.1.0)
 
 The MIT License (MIT)
 
@@ -28089,7 +28089,7 @@ SOFTWARE
 ---
 
 MIT License
-(ansi-regex 2.1.1, ansi-styles 2.2.1, camelcase 2.1.1, camelcase 4.1.0, cli-boxes 1.0.0, cli-cursor 2.1.0, cli-truncate 0.2.1, code-point-at 1.1.0, Decamelize 1.2.0, elegant-spinner 1.0.1, escape-string-regexp 1.0.5, figures 1.7.0, figures 2.0.0, filter-obj 1.1.0, find-up 2.1.0, has-ansi 2.0.0, has-flag 1.0.0, invert-kv 1.0.0, is-binary-path 1.0.1, is-fullwidth-code-point 1.0.0, is-fullwidth-code-point 2.0.0, is-plain-obj 1.1.0, is-wsl 1.1.0, lcid 1.0.0, load-json-file 4.0.0, log-symbols 1.0.2, npm-run-path 2.0.2, number-is-nan 1.0.1, os-homedir 1.0.2, os-locale 1.4.0, os-tmpdir 1.0.2, p-finally 1.0.0, p-try 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, pkg-dir 2.0.0, pkg-up 2.0.0, query-string v4.3.4, registry-url 3.1.0, restore-cursor 1.0.1, restore-cursor 2.0.0, serialize-error 2.1.0, shebang-regex 1.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/onetime 1.1.0, sindresorhus/onetime 2.0.1, sindresorhus/supports-color 2.0.0, sindresorhus/supports-color 3.2.3, string-width 1.0.2, Strip ANSI 3.0.1, strip-eof 1.0.0, strip-json-comments 2.0.1, term-size 1.2.0, wrap-ansi 2.1.0)
+(ansi-regex 2.1.1, ansi-styles 2.2.1, camelcase 2.1.1, camelcase 4.1.0, cli-boxes 1.0.0, cli-cursor 2.1.0, cli-truncate 0.2.1, code-point-at 1.1.0, Decamelize 1.2.0, elegant-spinner 1.0.1, escape-string-regexp 1.0.5, figures 1.7.0, figures 2.0.0, filter-obj 1.1.0, find-up 2.1.0, has-ansi 2.0.0, has-flag 1.0.0, invert-kv 1.0.0, is-binary-path 1.0.1, is-fullwidth-code-point 1.0.0, is-fullwidth-code-point 2.0.0, is-plain-obj 1.1.0, is-wsl 1.1.0, lcid 1.0.0, load-json-file 4.0.0, log-symbols 1.0.2, npm-run-path 2.0.2, number-is-nan 1.0.1, os-homedir 1.0.2, os-locale 1.4.0, os-tmpdir 1.0.2, p-finally 1.0.0, p-try 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, pkg-dir 2.0.0, pkg-up 2.0.0, query-string v4.3.4, registry-url 3.1.0, restore-cursor 1.0.1, restore-cursor 2.0.0, serialize-error 2.1.0, shebang-regex 1.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/onetime 1.1.0, sindresorhus/onetime 2.0.1, string-width 1.0.2, Strip ANSI 3.0.1, strip-eof 1.0.0, strip-json-comments 2.0.1, supports-color 2.0.0, supports-color 3.2.3, term-size 1.2.0, wrap-ansi 2.1.0)
 
 The MIT License (MIT)
 
@@ -29787,7 +29787,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(parseurl 1.3.3)
+(pillarjs/parseurl 1.3.3)
 
 Upstream-Contact: https://github.com/expressjs/parseurl/issues
 Source: https://github.com/expressjs/parseurl
@@ -30053,7 +30053,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
