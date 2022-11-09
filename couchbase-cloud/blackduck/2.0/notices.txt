@@ -819,6 +819,8 @@ bonjour 3.5.0 : MIT License
 boolbase 1.0.0 : ISC License
 brace 0.11.1 : MIT License
 brace-expansion 1.1.11 : MIT License
+braces 2.3.2 : MIT License
+braces 3.0.2 : MIT License
 bradleyjkemp/cupaloy v2.2.0 : MIT License
 broadcast-channel 3.6.0 : MIT License
 brorand 1.1.0 : MIT License
@@ -1322,10 +1324,6 @@ expressjs/accepts 1.3.7 : MIT License
 expressjs/accepts 1.3.8 : MIT License
 expressjs/compressible 2.0.18 : MIT License
 expressjs/express 4.17.2 : MIT License
-expressjs/mime-types 2.1.18 : MIT License
-expressjs/mime-types 2.1.30 : MIT License
-expressjs/mime-types 2.1.34 : MIT License
-expressjs/mime-types 2.1.35 : MIT License
 ext 1.6.0 : ISC License
 extend 3.0.2 : MIT License
 extend-shallow 2.0.1 : MIT License
@@ -1627,6 +1625,8 @@ hyphenate-style-name 1.0.4 : BSD 3-clause "New" or "Revised" License
 i18next 20.1.0 : MIT License
 iarna/gauge 1.2.7 : ISC License
 iarna/gauge v2.7.4 : ISC License
+iarna/write-file-atomic 3.0.3 : ISC License
+iarna/write-file-atomic 4.0.2 : ISC License
 iconv-lite 0.6.3 : MIT License
 iconv-lite v0.4.24 : MIT License
 icrowley/fake 20180203-snapshot-4178557a : MIT License
@@ -1841,6 +1841,10 @@ jsesc 0.5.0 : MIT License
 jsesc v2.5.2 : MIT License
 jshttp/content-type 1.0.4 : MIT License
 jshttp/fresh 0.5.2 : MIT License
+jshttp/mime-types 2.1.18 : MIT License
+jshttp/mime-types 2.1.30 : MIT License
+jshttp/mime-types 2.1.34 : MIT License
+jshttp/mime-types 2.1.35 : MIT License
 json-parse-better-errors 1.0.2 : MIT License
 json-parse-even-better-errors 2.3.1 : MIT License
 json-schema 0.4.0 : (BSD 3-clause "New" or "Revised" License OR Academic Free License v2.1)
@@ -1996,8 +2000,6 @@ micromatch 3.1.0 : MIT License
 micromatch 3.1.10 : MIT License
 micromatch 4.0.4 : MIT License
 micromatch 4.0.5 : MIT License
-micromatch/braces 2.3.2 : MIT License
-micromatch/braces 3.0.2 : MIT License
 microseconds 0.2.0 : MIT License
 Microsoft-go-winio v0.4.16 : MIT License
 Microsoft-hcsshim v0.8.6 : MIT License
@@ -2879,8 +2881,6 @@ wrap-ansi 3.0.1 : MIT License
 wrap-ansi v6.2.0 : MIT License
 wrap-ansi v7.0.0 : MIT License
 wrappy 1.0.2 : ISC License
-write-file-atomic 3.0.3 : ISC License
-write-file-atomic 4.0.2 : ISC License
 xanzy-ssh-agent v0.3.0 : Apache License 2.0
 xml-name-validator 3.0.0 : Apache License 2.0
 xml-name-validator 4.0.0 : Apache License 2.0
@@ -9539,7 +9539,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(ast-types-flow 0.0.7, boolbase 1.0.0, bs-recipes 1.3.4, cypress-get-table 1.0.1, electron-to-chromium 1.4.242, emirpasic-gods v1.12.0, eslint-import-resolver-typescript 2.4.0, eslint-plugin-typescript-sort-keys 2.1.0, flatted 3.2.7, nano-time 1.0.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver 7.3.7, node-semver 7.3.8, splitargs 0.0.7, svelte-hmr 0.14.12, v8-to-istanbul 9.0.1, write-file-atomic 4.0.2, yargs-parser 21.1.1)
+(ast-types-flow 0.0.7, boolbase 1.0.0, bs-recipes 1.3.4, cypress-get-table 1.0.1, electron-to-chromium 1.4.242, emirpasic-gods v1.12.0, eslint-import-resolver-typescript 2.4.0, eslint-plugin-typescript-sort-keys 2.1.0, flatted 3.2.7, iarna/write-file-atomic 4.0.2, nano-time 1.0.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver 7.3.7, node-semver 7.3.8, splitargs 0.0.7, svelte-hmr 0.14.12, v8-to-istanbul 9.0.1, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
@@ -9944,7 +9944,7 @@ Permission to use, copy, modify, and/or distribute this software for any
 ---
 
 ISC License
-(write-file-atomic 3.0.3)
+(iarna/write-file-atomic 3.0.3)
 
 Upstream-Contact: https://github.com/iarna/write-file-atomic/issues
 Source: https://github.com/iarna/write-file-atomic
@@ -11402,7 +11402,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(expressjs/accepts 1.3.7, expressjs/accepts 1.3.8, expressjs/mime-types 2.1.18, expressjs/mime-types 2.1.30, expressjs/mime-types 2.1.34)
+(expressjs/accepts 1.3.7, expressjs/accepts 1.3.8, jshttp/mime-types 2.1.18, jshttp/mime-types 2.1.30, jshttp/mime-types 2.1.34)
 
 (The MIT License)
 
@@ -17317,7 +17317,7 @@ SOFTWARE
 ---
 
 MIT License
-(@types/aria-query 4.2.1, @types/aria-query 4.2.2, @types/babel__core 7.1.18, @types/babel__core 7.1.19, @types/babel__generator 7.6.4, @types/babel__template 7.4.1, @types/babel__traverse 7.14.2, @types/body-parser 1.19.2, @types/bonjour 3.5.10, @types/cheerio 0.22.18, @types/connect 3.4.35, @types/connect-history-api-fallback 1.3.5, @types/cookie 0.4.1, @types/cors 2.8.12, @types/d3-color 2.0.1, @types/d3-dsv 3.0.0, @types/d3-interpolate 2.0.0, @types/d3-interpolate 3.0.1, @types/d3-path 2.0.0, @types/d3-path 3.0.0, @types/eslint-scope 3.7.3, @types/estree 0.0.50, @types/express 4.17.13, @types/express-serve-static-core 4.17.28, @types/graceful-fs 4.1.5, @types/history 4.7.8, @types/html-minifier-terser 6.0.0, @types/http-proxy 1.17.8, @types/istanbul-lib-coverage 2.0.3, @types/istanbul-reports 3.0.0, @types/istanbul-reports 3.0.1, @types/jest-axe 3.5.3, @types/json-schema 7.0.11, @types/json-schema 7.0.7, @types/json-schema 7.0.9, @types/lodash 4.14.171, @types/mime 1.3.2, @types/parse5 6.0.3, @types/prop-types 15.7.4, @types/pug 2.0.6, @types/qrcode.react 1.0.1, @types/qs 6.9.7, @types/range-parser 1.2.4, @types/react 16.14.21, @types/react 17.0.37, @types/react-dom 16.9.13, @types/react-redux 7.1.16, @types/react-transition-group 4.4.3, @types/retry 0.12.1, @types/sass 1.43.1, @types/scheduler 0.16.2, @types/serve-index 1.9.1, @types/serve-static 1.13.10, @types/sinonjs__fake-timers 6.0.4, @types/sizzle 2.3.3, @types/sockjs 0.3.33, @types/stack-utils 2.0.1, @types/testing-library__cypress 5.0.9, @types/testing-library__jest-dom 5.9.5, @types/uuid 8.3.0, @types/uuid 8.3.4, @types/ws 8.2.2, @types/yargs 15.0.13, @types/yargs 15.0.14, @types/yargs 16.0.4, @types/yargs-parser 20.2.0, @types/yargs-parser 21.0.0, crypto-browserify/pbkdf2 v3.1.1, expressjs/mime-types 2.1.35)
+(@types/aria-query 4.2.1, @types/aria-query 4.2.2, @types/babel__core 7.1.18, @types/babel__core 7.1.19, @types/babel__generator 7.6.4, @types/babel__template 7.4.1, @types/babel__traverse 7.14.2, @types/body-parser 1.19.2, @types/bonjour 3.5.10, @types/cheerio 0.22.18, @types/connect 3.4.35, @types/connect-history-api-fallback 1.3.5, @types/cookie 0.4.1, @types/cors 2.8.12, @types/d3-color 2.0.1, @types/d3-dsv 3.0.0, @types/d3-interpolate 2.0.0, @types/d3-interpolate 3.0.1, @types/d3-path 2.0.0, @types/d3-path 3.0.0, @types/eslint-scope 3.7.3, @types/estree 0.0.50, @types/express 4.17.13, @types/express-serve-static-core 4.17.28, @types/graceful-fs 4.1.5, @types/history 4.7.8, @types/html-minifier-terser 6.0.0, @types/http-proxy 1.17.8, @types/istanbul-lib-coverage 2.0.3, @types/istanbul-reports 3.0.0, @types/istanbul-reports 3.0.1, @types/jest-axe 3.5.3, @types/json-schema 7.0.11, @types/json-schema 7.0.7, @types/json-schema 7.0.9, @types/lodash 4.14.171, @types/mime 1.3.2, @types/parse5 6.0.3, @types/prop-types 15.7.4, @types/pug 2.0.6, @types/qrcode.react 1.0.1, @types/qs 6.9.7, @types/range-parser 1.2.4, @types/react 16.14.21, @types/react 17.0.37, @types/react-dom 16.9.13, @types/react-redux 7.1.16, @types/react-transition-group 4.4.3, @types/retry 0.12.1, @types/sass 1.43.1, @types/scheduler 0.16.2, @types/serve-index 1.9.1, @types/serve-static 1.13.10, @types/sinonjs__fake-timers 6.0.4, @types/sizzle 2.3.3, @types/sockjs 0.3.33, @types/stack-utils 2.0.1, @types/testing-library__cypress 5.0.9, @types/testing-library__jest-dom 5.9.5, @types/uuid 8.3.0, @types/uuid 8.3.4, @types/ws 8.2.2, @types/yargs 15.0.13, @types/yargs 15.0.14, @types/yargs 16.0.4, @types/yargs-parser 20.2.0, @types/yargs-parser 21.0.0, crypto-browserify/pbkdf2 v3.1.1, jshttp/mime-types 2.1.35)
 
 MIT License
 
@@ -24626,7 +24626,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(clone-deep 4.0.1, micromatch 3.1.10, micromatch/braces 2.3.2, normalize-path 3.0.0)
+(braces 2.3.2, clone-deep 4.0.1, micromatch 3.1.10, normalize-path 3.0.0)
 
 The MIT License (MIT)
 
@@ -30053,7 +30053,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(micromatch/braces 3.0.2)
+(braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
