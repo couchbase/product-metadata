@@ -5,36 +5,55 @@ Copyright 2022
 
 Components: 
 
+@ampproject/remapping 2.2.0 : Apache License 2.0
 @babel/code-frame 7.14.5 : MIT License
+@babel/code-frame 7.18.6 : MIT License
 @babel/compat-data 7.15.0 : MIT License
+@babel/compat-data 7.20.1 : MIT License
 @babel/core 7.15.0 : MIT License
+@babel/core 7.20.2 : MIT License
 @babel/generator 7.15.0 : MIT License
+@babel/generator 7.20.4 : MIT License
 @babel/helper-annotate-as-pure 7.14.5 : MIT License
 @babel/helper-builder-binary-assignment-operator-visitor 7.14.5 : MIT License
 @babel/helper-compilation-targets 7.15.0 : MIT License
+@babel/helper-compilation-targets 7.20.0 : MIT License
 @babel/helper-create-class-features-plugin 7.15.0 : MIT License
 @babel/helper-create-regexp-features-plugin 7.14.5 : MIT License
 @babel/helper-define-polyfill-provider 0.2.3 : MIT License
+@babel/helper-environment-visitor 7.18.9 : MIT License
 @babel/helper-explode-assignable-expression 7.14.5 : MIT License
 @babel/helper-function-name 7.14.5 : MIT License
+@babel/helper-function-name 7.19.0 : MIT License
 @babel/helper-get-function-arity 7.14.5 : MIT License
 @babel/helper-hoist-variables 7.14.5 : MIT License
+@babel/helper-hoist-variables 7.18.6 : MIT License
 @babel/helper-member-expression-to-functions 7.15.0 : MIT License
 @babel/helper-module-imports 7.14.5 : MIT License
+@babel/helper-module-imports 7.18.6 : MIT License
 @babel/helper-module-transforms 7.15.0 : MIT License
+@babel/helper-module-transforms 7.20.2 : MIT License
 @babel/helper-optimise-call-expression 7.14.5 : MIT License
 @babel/helper-plugin-utils 7.14.5 : MIT License
 @babel/helper-remap-async-to-generator 7.14.5 : MIT License
 @babel/helper-replace-supers 7.15.0 : MIT License
 @babel/helper-simple-access 7.14.8 : MIT License
+@babel/helper-simple-access 7.20.2 : MIT License
 @babel/helper-skip-transparent-expression-wrappers 7.14.5 : MIT License
 @babel/helper-split-export-declaration 7.14.5 : MIT License
+@babel/helper-split-export-declaration 7.18.6 : MIT License
+@babel/helper-string-parser 7.19.4 : MIT License
 @babel/helper-validator-identifier 7.14.9 : MIT License
+@babel/helper-validator-identifier 7.19.1 : MIT License
 @babel/helper-validator-option 7.14.5 : MIT License
+@babel/helper-validator-option 7.18.6 : MIT License
 @babel/helper-wrap-function 7.14.5 : MIT License
 @babel/helpers 7.15.3 : MIT License
+@babel/helpers 7.20.1 : MIT License
 @babel/highlight 7.14.5 : MIT License
+@babel/highlight 7.18.6 : MIT License
 @babel/parser 7.15.3 : MIT License
+@babel/parser 7.20.3 : MIT License
 @babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining 7.14.5 : MIT License
 @babel/plugin-proposal-async-generator-functions 7.14.9 : MIT License
 @babel/plugin-proposal-class-properties 7.14.5 : MIT License
@@ -108,8 +127,11 @@ Components:
 @babel/preset-modules 0.1.4 : MIT License
 @babel/runtime 7.15.3 : MIT License
 @babel/template 7.14.5 : MIT License
+@babel/template 7.18.10 : MIT License
 @babel/traverse 7.15.0 : MIT License
+@babel/traverse 7.20.1 : MIT License
 @babel/types 7.15.0 : MIT License
+@babel/types 7.20.2 : MIT License
 @bcoe/v8-coverage 0.2.3 : MIT License
 @eslint/eslintrc 1.3.3 : MIT License
 @humanwhocodes/config-array 0.11.7 : Apache License 2.0
@@ -117,18 +139,24 @@ Components:
 @humanwhocodes/object-schema 1.2.1 : BSD 3-clause "New" or "Revised" License
 @istanbuljs/load-nyc-config 1.1.0 : ISC License
 @istanbuljs/schema 0.1.3 : MIT License
-@jest/console 27.1.0 : MIT License
-@jest/core 27.1.0 : MIT License
-@jest/environment 27.1.0 : MIT License
-@jest/fake-timers 27.1.0 : MIT License
-@jest/globals 27.1.0 : MIT License
-@jest/reporters 27.1.0 : MIT License
-@jest/source-map 27.0.6 : MIT License
-@jest/test-result 27.1.0 : MIT License
-@jest/test-sequencer 27.1.0 : MIT License
-@jest/transform 27.1.0 : MIT License
-@jest/types 26.6.2 : MIT License
+@jest/console 27.5.1 : MIT License
+@jest/core 27.5.1 : MIT License
+@jest/environment 27.5.1 : MIT License
+@jest/fake-timers 27.5.1 : MIT License
+@jest/globals 27.5.1 : MIT License
+@jest/reporters 27.5.1 : MIT License
+@jest/source-map 27.5.1 : MIT License
+@jest/test-result 27.5.1 : MIT License
+@jest/test-sequencer 27.5.1 : MIT License
+@jest/transform 27.5.1 : MIT License
 @jest/types 27.1.0 : MIT License
+@jest/types 27.5.1 : MIT License
+@jridgewell/gen-mapping 0.1.1 : MIT License
+@jridgewell/gen-mapping 0.3.2 : MIT License
+@jridgewell/resolve-uri 3.1.0 : MIT License
+@jridgewell/set-array 1.1.2 : MIT License
+@jridgewell/sourcemap-codec 1.4.14 : MIT License
+@jridgewell/trace-mapping 0.3.17 : MIT License
 @mrmlnc/readdir-enhanced 2.2.1 : MIT License
 @naytev/grapheme-splitter 1.0.4 : MIT License
 @nodelib/fs.scandir 2.1.5 : MIT License
@@ -137,7 +165,7 @@ Components:
 @nodelib/fs.walk 1.2.8 : MIT License
 @sindresorhus/is 0.14.0 : MIT License
 @sinonjs/commons 1.8.3 : BSD 3-clause "New" or "Revised" License
-@sinonjs/fake-timers 7.1.2 : BSD 3-clause "New" or "Revised" License
+@sinonjs/fake-timers 8.1.0 : BSD 3-clause "New" or "Revised" License
 @szmarczak/http-timer 1.1.2 : MIT License
 @tootallnate/once 1.1.2 : MIT License
 @types/babel__core 7.1.15 : MIT License
@@ -156,7 +184,7 @@ Components:
 @types/istanbul-lib-coverage 2.0.3 : MIT License
 @types/istanbul-lib-report 3.0.0 : MIT License
 @types/istanbul-reports 3.0.1 : MIT License
-@types/jest 27.0.0 : MIT License
+@types/jest 27.5.2 : MIT License
 @types/json-schema 7.0.11 : MIT License
 @types/json-schema 7.0.9 : MIT License
 @types/linkify-it 3.0.2 : MIT License
@@ -164,7 +192,7 @@ Components:
 @types/mdurl 1.0.2 : MIT License
 @types/mime 3.0.1 : MIT License
 @types/minimatch 3.0.5 : MIT License
-@types/node 16.4.14 : MIT License
+@types/node 16.18.3 : MIT License
 @types/node 16.7.6 : MIT License
 @types/parse-json 4.0.0 : MIT License
 @types/prettier 2.3.2 : MIT License
@@ -180,17 +208,16 @@ Components:
 @types/webpack 4.41.33 : MIT License
 @types/webpack-dev-server 3.11.6 : MIT License
 @types/webpack-sources 3.2.0 : MIT License
-@types/yargs 15.0.14 : MIT License
 @types/yargs 16.0.4 : MIT License
 @types/yargs-parser 20.2.1 : MIT License
-@typescript-eslint/eslint-plugin 5.42.0 : MIT License
-@typescript-eslint/parser 5.42.0 : BSD 2-clause "Simplified" License
-@typescript-eslint/scope-manager 5.42.0 : MIT License
-@typescript-eslint/type-utils 5.42.0 : MIT License
-@typescript-eslint/types 5.42.0 : MIT License
-@typescript-eslint/typescript-estree 5.42.0 : BSD 2-clause "Simplified" License
-@typescript-eslint/utils 5.42.0 : MIT License
-@typescript-eslint/visitor-keys 5.42.0 : MIT License
+@typescript-eslint/eslint-plugin 5.42.1 : MIT License
+@typescript-eslint/parser 5.42.1 : BSD 2-clause "Simplified" License
+@typescript-eslint/scope-manager 5.42.1 : MIT License
+@typescript-eslint/type-utils 5.42.1 : MIT License
+@typescript-eslint/types 5.42.1 : MIT License
+@typescript-eslint/typescript-estree 5.42.1 : BSD 2-clause "Simplified" License
+@typescript-eslint/utils 5.42.1 : MIT License
+@typescript-eslint/visitor-keys 5.42.1 : MIT License
 @vue/babel-helper-vue-jsx-merge-props 1.2.1 : MIT License
 @vue/babel-helper-vue-transform-on 1.0.2 : MIT License
 @vue/babel-plugin-jsx 1.0.6 : MIT License
@@ -271,7 +298,6 @@ ansi-styles v4.3.0 : MIT License
 anymatch 2.0.0 : ISC License
 anymatch 3.1.2 : ISC License
 aproba 1.2.0 : ISC License
-are-we-there-yet 1.1.7 : ISC License
 argparse 1.0.10 : MIT License
 argparse 2.0.1 : Python Software Foundation License 2.0
 arr-diff 4.0.0 : MIT License
@@ -300,7 +326,7 @@ Autoprefixer 9.8.6 : MIT License
 aws4 v1.11.0 : MIT License
 babel-loader 8.2.2 : MIT License
 babel-plugin-dynamic-import-node 2.3.3 : MIT License
-babel-plugin-istanbul 6.0.0 : BSD 3-clause "New" or "Revised" License
+babel-plugin-istanbul 6.1.1 : BSD 3-clause "New" or "Revised" License
 babel-plugin-polyfill-corejs2 0.2.2 : MIT License
 babel-plugin-polyfill-corejs3 0.2.4 : MIT License
 babel-plugin-polyfill-regenerator 0.2.2 : MIT License
@@ -333,6 +359,7 @@ browserify-zlib 0.2.0 : MIT License
 browserify/resolve 1.21.0 : MIT License
 browserify/resolve v1.20.0 : MIT License
 browserslist 4.16.8 : MIT License
+browserslist 4.21.4 : MIT License
 bs-logger 0.2.6 : MIT License
 Buffer v4.9.2 : MIT License
 Buffer v5.7.1 : MIT License
@@ -360,6 +387,7 @@ camelcase 5.3.1 : MIT License
 camelcase 6.2.0 : MIT License
 caniuse-api 3.0.0 : MIT License
 caniuse-lite 1.0.30001252 : Creative Commons Attribution 4.0
+caniuse-lite 1.0.30001431 : Creative Commons Attribution 4.0
 caseless 0.12.0 : Apache License 2.0
 Chalk 1.1.3 : MIT License
 Chalk 2.4.2 : MIT License
@@ -371,6 +399,7 @@ chokidar 3.5.2 : MIT License
 chownr 1.1.4 : ISC License
 ci-info 2.0.0 : MIT License
 ci-info 3.2.0 : MIT License
+ci-info 3.5.0 : MIT License
 cipher-base 1.0.4 : MIT License
 cjs-module-lexer 1.2.2 : MIT License
 class-utils 0.3.6 : MIT License
@@ -384,18 +413,19 @@ cliui v7.0.4 : ISC License
 clone-response 1.0.2 : MIT License
 co 4.6.0 : MIT License
 coa 2.0.2 : MIT License
-code-point-at 1.1.0 : MIT License
 collect-v8-coverage 1.0.1 : MIT License
 collection-visit 1.0.0 : MIT License
 color-name 1.1.3 : MIT License
 color-name 1.1.4 : MIT License
 color-string 1.6.0 : MIT License
 colorette 1.3.0 : MIT License
+colorette 1.4.0 : MIT License
+colorette 2.0.19 : MIT License
 combined-stream 1.0.8 : MIT License
 Commander.js 2.17.1 : MIT License
 Commander.js 2.19.0 : MIT License
+Commander.js 8.3.0 : MIT License
 Commander.js v2.20.3 : MIT License
-Commander.js v7.2.0 : MIT License
 commonjs-assert v1.5.0 : MIT License
 compression 1.7.4 : MIT License
 concat-stream 1.6.2 : MIT License
@@ -403,7 +433,6 @@ configstore 5.0.1 : BSD 2-clause "Simplified" License
 connect-history-api-fallback 1.6.0 : MIT License
 consola 2.15.3 : MIT License
 console-browserify 1.2.0 : MIT License
-console-control-strings 1.1.0 : ISC License
 consolidate 0.15.1 : MIT License
 constants-browserify 1.0.0 : MIT License
 content-disposition 0.5.3 : MIT License
@@ -415,7 +444,6 @@ core-js 3.16.4 : MIT License
 core-util-is 1.0.2 : MIT License
 cosmiconfig 5.2.1 : MIT License
 cosmiconfig 7.0.1 : MIT License
-couchnode 3.2.4 : Apache License 2.0
 create-hash 1.2.0 : MIT License
 create-hmac 1.1.7 : MIT License
 createecdh 4.0.4 : MIT License
@@ -458,7 +486,7 @@ Decamelize 1.2.0 : MIT License
 decimal.js 10.3.1 : MIT License
 decode-uri-component 0.2.0 : MIT License
 decompress-response 3.3.0 : MIT License
-decompress-response v4.2.1 : MIT License
+decompress-response 6.0.0 : MIT License
 dedent 0.7.0 : MIT License
 deep-extend 0.6.0 : MIT License
 deep-is 0.1.3 : MIT License
@@ -472,10 +500,9 @@ define-property 1.0.0 : MIT License
 define-property 2.0.2 : MIT License
 Del using Globs v4.1.1 : MIT License
 delayed-stream 1.0.0 : MIT License
-delegates 1.0.0 : MIT License
 des.js 1.0.1 : MIT License
 destroy 1.0.4 : MIT License
-detect-libc 1.0.3 : Apache License 2.0
+detect-libc 2.0.1 : Apache License 2.0
 detect-newline v3.1.0 : MIT License
 detect-node 2.1.0 : MIT License
 diffie-hellman 5.0.3 : MIT License
@@ -506,6 +533,7 @@ ee-first 1.1.1 : MIT License
 einaros/ws 6.2.2 : MIT License
 einaros/ws 7.5.4 : MIT License
 electron-to-chromium 1.3.822 : ISC License
+electron-to-chromium 1.4.284 : ISC License
 elliptic v6.5.4 : MIT License
 emitter-component 1.3.0 : MIT License
 emittery v0.8.1 : MIT License
@@ -540,7 +568,7 @@ escape-string-regexp v2.0.0 : MIT License
 escape-string-regexp v4.0.0 : MIT License
 escodegen 2.0.0 : BSD 2-clause "Simplified" License
 escodegen v1.14.3 : BSD 2-clause "Simplified" License
-ESLint 8.26.0 : MIT License
+ESLint v8.27.0 : MIT License
 eslint-config-prettier 8.5.0 : MIT License
 eslint-plugin-prettier 4.2.1 : MIT License
 eslint-scope 7.1.1 : BSD 2-clause "Simplified" License
@@ -566,7 +594,7 @@ execa 4.1.0 : MIT License
 execa 5.1.1 : MIT License
 expand-brackets 2.1.4 : MIT License
 expand-template 2.0.3 : MIT License
-expect 27.1.0 : MIT License
+expect 27.5.1 : MIT License
 expressjs/accepts 1.3.7 : MIT License
 expressjs/compressible 2.0.18 : MIT License
 expressjs/express 4.17.1 : MIT License
@@ -650,7 +678,6 @@ has-flag 3.0.0 : MIT License
 has-flag 4.0.0 : MIT License
 has-symbols 1.0.2 : MIT License
 has-tostringtag 1.0.0 : MIT License
-has-unicode 2.0.1 : ISC License
 has-value 0.3.1 : MIT License
 has-value 1.0.0 : MIT License
 has-values 0.1.4 : MIT License
@@ -685,7 +712,6 @@ https-browserify 1.0.0 : MIT License
 https-proxy-agent 5.0.1 : MIT License
 human-signals 1.1.1 : Apache License 2.0
 human-signals 2.1.0 : Apache License 2.0
-iarna/gauge v2.7.4 : ISC License
 iarna/write-file-atomic 3.0.3 : ISC License
 iconv-lite v0.4.24 : MIT License
 icss-replace-symbols 1.1.0 : ISC License
@@ -741,7 +767,6 @@ is-directory 0.3.1 : MIT License
 is-extendable 0.1.1 : MIT License
 is-extendable 1.0.1 : MIT License
 is-extglob 2.1.1 : MIT License
-is-fullwidth-code-point 1.0.0 : MIT License
 is-fullwidth-code-point 2.0.0 : MIT License
 is-fullwidth-code-point 3.0.0 : MIT License
 is-generator-fn 2.1.0 : MIT License
@@ -770,7 +795,6 @@ is-resolvable 1.1.0 : ISC License
 is-string 1.0.7 : MIT License
 is-symbol 1.0.4 : MIT License
 is-typedarray 1.0.0 : MIT License
-is-unicode-supported 0.1.0 : MIT License
 is-windows 1.0.2 : MIT License
 is-wsl 1.1.0 : MIT License
 is-yarn-global 0.3.0 : MIT License
@@ -782,40 +806,38 @@ isobject 2.1.0 : MIT License
 isobject 3.0.1 : MIT License
 isstream 0.1.2 : MIT License
 istanbul-lib-coverage 3.0.0 : BSD 3-clause "New" or "Revised" License
-istanbul-lib-instrument 4.0.3 : BSD 3-clause "New" or "Revised" License
+istanbul-lib-coverage 3.2.0 : BSD 3-clause "New" or "Revised" License
+istanbul-lib-instrument 5.2.1 : BSD 3-clause "New" or "Revised" License
 istanbul-lib-report 3.0.0 : BSD 3-clause "New" or "Revised" License
 istanbul-lib-source-maps 4.0.0 : BSD 3-clause "New" or "Revised" License
-istanbul-reports 3.0.2 : BSD 3-clause "New" or "Revised" License
+istanbul-reports 3.1.5 : BSD 3-clause "New" or "Revised" License
 jantimon-html-webpack-plugin 3.2.0 : MIT License
 javascript-stringify 2.1.0 : MIT License
 javascript-stringify v1.6.0 : MIT License
-Jest from Facebook 27.1.0 : MIT License
-Jest from Facebook v26.6.2 : MIT License
-Jest from Facebook v27.0.6 : MIT License
-jest-changed-files 27.1.0 : MIT License
-jest-circus 27.1.0 : MIT License
-jest-config 27.1.0 : MIT License
-jest-diff 26.6.2 : MIT License
-jest-diff 27.1.0 : MIT License
-jest-each 27.1.0 : MIT License
-jest-environment-jsdom 27.1.0 : MIT License
-jest-environment-node 27.1.0 : MIT License
-jest-get-type 26.3.0 : MIT License
-jest-get-type 27.0.6 : MIT License
-jest-haste-map 27.1.0 : MIT License
-jest-leak-detector 27.1.0 : MIT License
-jest-matcher-utils 27.1.0 : MIT License
-jest-message-util 27.1.0 : MIT License
+Jest from Facebook 27.5.1 : MIT License
+jest-changed-files 27.5.1 : MIT License
+jest-circus 27.5.1 : MIT License
+jest-config 27.5.1 : MIT License
+jest-diff 27.5.1 : MIT License
+jest-each 27.5.1 : MIT License
+jest-environment-jsdom 27.5.1 : MIT License
+jest-environment-node 27.5.1 : MIT License
+jest-get-type 27.5.1 : MIT License
+jest-haste-map 27.5.1 : MIT License
+jest-leak-detector 27.5.1 : MIT License
+jest-matcher-utils 27.5.1 : MIT License
+jest-message-util 27.5.1 : MIT License
 jest-pnp-resolver 1.2.2 : MIT License
-jest-regex-util 27.0.6 : MIT License
-jest-resolve 27.1.0 : MIT License
-jest-resolve-dependencies 27.1.0 : MIT License
-jest-runner 27.1.0 : MIT License
-jest-runtime 27.1.0 : MIT License
-jest-snapshot 27.1.0 : MIT License
+jest-regex-util 27.5.1 : MIT License
+jest-resolve 27.5.1 : MIT License
+jest-resolve-dependencies 27.5.1 : MIT License
+jest-runner 27.5.1 : MIT License
+jest-runtime 27.5.1 : MIT License
+jest-snapshot 27.5.1 : MIT License
 jest-util 27.1.0 : MIT License
-jest-validate 27.1.0 : MIT License
-jest-worker 27.1.0 : MIT License
+jest-util 27.5.1 : MIT License
+jest-validate 27.5.1 : MIT License
+jest-worker 27.5.1 : MIT License
 jonschlinkert/object-copy 0.1.0 : MIT License
 jonschlinkert/unset-value 1.0.0 : MIT License
 js-sdsl 4.1.5 : MIT License
@@ -838,6 +860,7 @@ json-schema-traverse 0.4.1 : MIT License
 json-stringify-safe 5.0.1 : ISC License
 json5 0.5.1 : MIT License
 json5 1.0.1 : MIT License
+json5 2.2.1 : MIT License
 json5 v2.2.0 : MIT License
 jsprim 1.4.1 : MIT License
 keyv 3.1.0 : MIT License
@@ -855,8 +878,8 @@ levn 0.3.0 : MIT License
 levn 0.4.1 : MIT License
 lines-and-columns 1.1.6 : MIT License
 linkify-it 2.2.0 : MIT License
-lint-staged 11.1.2 : MIT License
-listr2 3.11.0 : MIT License
+lint-staged 11.2.6 : MIT License
+listr2 3.14.0 : MIT License
 ljharb/object.assign 4.1.2 : MIT License
 load-script 1.0.0 : MIT License
 loader-runner 2.4.0 : MIT License
@@ -875,7 +898,6 @@ lodash.merge 4.6.2 : MIT License
 lodash.template 4.5.0 : MIT License
 lodash.templatesettings 4.2.0 : MIT License
 lodash.uniq 4.5.0 : MIT License
-log-symbols 4.1.0 : MIT License
 log-update 4.0.0 : MIT License
 loglevel 1.7.1 : MIT License
 lower-case 1.1.4 : MIT License
@@ -915,6 +937,7 @@ methods 1.1.2 : MIT License
 micromatch 3.1.10 : MIT License
 micromatch 4.0.4 : MIT License
 Microsoft/tslib 1.14.1 : BSD Zero Clause License
+Microsoft/tslib 2.4.1 : Apache License 2.0
 mikeal/aws-sign 0.7.0 : Apache License 2.0
 mikeal/oauth-sign 0.9.0 : Apache License 2.0
 miller-rabin 4.0.1 : MIT License
@@ -923,7 +946,7 @@ mime 2.5.2 : MIT License
 mime-db 1.49.0 : MIT License
 mimic-fn 2.1.0 : MIT License
 mimic-response 1.0.1 : MIT License
-mimic-response 2.1.0 : MIT License
+mimic-response 3.1.0 : MIT License
 min-document 2.19.0 : MIT License
 mini-css-extract-plugin 0.6.0 : MIT License
 minimalistic-assert 1.0.1 : ISC License
@@ -946,6 +969,7 @@ multicast-dns 6.2.3 : MIT License
 multicast-dns-service-types 1.1.0 : MIT License
 multimatch v4.0.0 : MIT License
 nan 2.15.0 : MIT License
+nan 2.17.0 : MIT License
 nanomatch 1.2.13 : MIT License
 napi-build-utils 1.0.2 : MIT License
 natural-compare 1.4.0 : MIT License
@@ -955,7 +979,7 @@ neo-async 2.6.2 : MIT License
 nice-try 1.0.5 : MIT License
 no-case 2.3.2 : MIT License
 Node Cookie Parser v0.4.0 : MIT License
-node-abi 2.30.1 : MIT License
+node-abi v3.28.0 : MIT License
 node-assert-plus 1.0.0 : MIT License
 node-bindings 1.5.0 : MIT License
 node-browserify-des 1.0.2 : MIT License
@@ -989,10 +1013,10 @@ node-lru-cache 6.0.0 : ISC License
 node-mkdirp 0.3.0 : MIT License
 node-mkdirp 0.5.5 : MIT License
 node-mkdirp 1.0.4 : MIT License
-node-modules-regexp 1.0.0 : MIT License
 node-process 0.11.10 : MIT License
 node-progress 2.0.3 : MIT License
 node-releases 1.1.75 : MIT License
+node-releases 2.0.6 : MIT License
 node-semver 5.7.1 : ISC License
 node-semver 6.3.0 : ISC License
 node-semver 7.0.0 : ISC License
@@ -1016,12 +1040,10 @@ normalize-path 3.0.0 : MIT License
 normalize-range 0.1.2 : MIT License
 npm-run-path 2.0.2 : MIT License
 npm-run-path 4.0.1 : MIT License
-npmlog 4.1.2 : ISC License
 nprogress 0.2.0 : MIT License
 nth-check 1.0.2 : BSD 2-clause "Simplified" License
 nth-check 2.0.0 : BSD 2-clause "Simplified" License
 num2fraction 1.2.2 : MIT License
-number-is-nan 1.0.1 : MIT License
 nwsapi 2.2.0 : MIT License
 object-assign 4.1.1 : MIT License
 object-inspect 1.11.0 : MIT License
@@ -1041,7 +1063,6 @@ optionator 0.8.3 : MIT License
 optionator 0.9.1 : MIT License
 os-browserify 0.3.0 : MIT License
 p-cancelable 1.1.0 : MIT License
-p-each-series 2.2.0 : MIT License
 p-finally 1.0.0 : MIT License
 p-limit 2.3.0 : MIT License
 p-limit 3.1.0 : MIT License
@@ -1076,12 +1097,13 @@ path-to-regexp 0.1.7 : MIT License
 path-type 3.0.0 : MIT License
 path-type 4.0.0 : MIT License
 performance-now 2.1.0 : MIT License
+picocolors 1.0.0 : ISC License
 picomatch 2.3.0 : MIT License
 pify 2.3.0 : MIT License
 pify 3.0.0 : MIT License
 pify 4.0.1 : MIT License
 pinkie-promise 2.0.1 : MIT License
-pirates 4.0.1 : MIT License
+pirates 4.0.5 : MIT License
 pkg-dir 3.0.0 : MIT License
 pkg-dir 4.2.0 : MIT License
 please-upgrade-node 3.2.0 : MIT License
@@ -1124,7 +1146,7 @@ postcss-svgo 4.0.3 : MIT License
 postcss-unique-selectors 4.0.1 : MIT License
 postcss-value-parser 3.3.1 : MIT License
 postcss-value-parser 4.1.0 : MIT License
-prebuild-install 6.1.4 : MIT License
+prebuild-install 7.1.1 : MIT License
 prelude-ls 1.1.2 : MIT License
 prelude-ls 1.2.1 : MIT License
 prepend-http 2.0.0 : MIT License
@@ -1132,9 +1154,8 @@ prettier 1.19.1 : MIT License
 prettier 2.7.1 : MIT License
 prettier-linter-helpers 1.0.0 : MIT License
 pretty-error 2.1.2 : MIT License
-pretty-format 26.6.2 : MIT License
-pretty-format 27.1.0 : MIT License
-pretty-quick 3.1.1 : MIT License
+pretty-format 27.5.1 : MIT License
+pretty-quick 3.1.3 : MIT License
 pretty-time 1.1.0 : MIT License
 PrismJS 1.27.0 : MIT License
 process-nextick-args v2.0.1 : MIT License
@@ -1165,7 +1186,7 @@ range-parser v1.2.1 : MIT License
 raw-body 2.4.0 : MIT License
 Raynos/reduce v1.0.2 : MIT License
 React from Facebook 17.0.2 : MIT License
-ReactiveX RxJS 6.6.7 : Apache License 2.0
+ReactiveX RxJS 7.5.7 : Apache License 2.0
 readable-stream 3.6.0 : MIT License
 readable-stream v2.3.7 : MIT License
 readdirp 2.2.1 : MIT License
@@ -1197,10 +1218,12 @@ resolve-from 3.0.0 : MIT License
 resolve-from 4.0.0 : MIT License
 resolve-from 5.0.0 : MIT License
 resolve-url 0.2.1 : MIT License
+resolve.exports 1.1.0 : MIT License
 responselike 1.0.2 : MIT License
 restore-cursor v3.1.0 : MIT License
 ret 0.1.15 : MIT License
 reusify 1.0.4 : MIT License
+rfdc 1.3.0 : MIT License
 rgb-regex 1.0.1 : MIT License
 rgba-regex 1.0.0 : MIT License
 rimraf 2.7.1 : ISC License
@@ -1240,7 +1263,7 @@ shebang-regex 3.0.0 : MIT License
 shelljs 0.8.5 : BSD 3-clause "New" or "Revised" License
 side-channel 1.0.4 : MIT License
 simple-concat 1.0.1 : MIT License
-simple-get 3.1.1 : MIT License
+simple-get 4.0.1 : MIT License
 simple-swizzle 0.2.2 : MIT License
 sindresorhus/boxen v4.2.0 : MIT License
 sindresorhus/globals 11.12.0 : MIT License
@@ -1296,9 +1319,7 @@ stream-shift 1.0.1 : MIT License
 strict-uri-encode 1.1.0 : MIT License
 string-argv 0.3.1 : MIT License
 string-length 4.0.2 : MIT License
-string-width 1.0.2 : MIT License
 string-width 4.2.2 : MIT License
-string-width 4.2.3 : MIT License
 string-width v3.1.0 : MIT License
 string.prototype.trimend 1.0.4 : MIT License
 string.prototype.trimstart 1.0.4 : MIT License
@@ -1357,7 +1378,7 @@ toposort 1.0.7 : MIT License
 tough-cookie 4.0.0 : BSD 3-clause "New" or "Revised" License
 tough-cookie v2.5.0 : BSD 3-clause "New" or "Revised" License
 tr46 2.1.0 : MIT License
-ts-jest 27.0.4 : MIT License
+ts-jest 27.1.5 : MIT License
 tsutils 3.21.0 : MIT License
 tty-browserify 0.0.0 : MIT License
 tunnel-agent 0.6.0 : Apache License 2.0
@@ -1397,6 +1418,7 @@ universalify 2.0.0 : MIT License
 unpipe 1.0.0 : MIT License
 unquote 1.1.1 : MIT License
 upath 1.2.0 : MIT License
+update-browserslist-db 1.0.10 : MIT License
 upper-case 1.1.3 : MIT License
 uri-js 4.4.1 : BSD 2-clause "Simplified" License
 urix 0.1.0 : MIT License
@@ -1411,7 +1433,7 @@ util.promisify 1.0.0 : MIT License
 util.promisify 1.0.1 : MIT License
 utila 0.4.0 : MIT License
 utils-merge 1.0.1 : MIT License
-v8-to-istanbul 8.0.0 : ISC License
+v8-to-istanbul 8.1.1 : ISC License
 vary 1.1.2 : MIT License
 vendors 1.0.4 : MIT License
 verror 1.10.0 : MIT License
@@ -1454,7 +1476,6 @@ which 2.0.2 : ISC License
 which-boxed-primitive 1.0.2 : MIT License
 which-module 2.0.0 : ISC License
 whitequark/ipaddr.js v1.9.1 : MIT License
-wide-align 1.1.5 : ISC License
 widest-line 3.1.0 : MIT License
 word-wrap 1.2.3 : MIT License
 wordwrap 1.0.0 : MIT License
@@ -1635,7 +1656,7 @@ interfere with or be responsible for such uses by You.
 ---
 
 Apache License 2.0
-(@humanwhocodes/config-array 0.11.7, @humanwhocodes/module-importer 1.0.1, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 2.1.0, eslint-visitor-keys 3.3.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/aws-sign 0.7.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, through 2.3.8, tunnel-agent 0.6.0, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.8.4, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
+(@ampproject/remapping 2.2.0, @humanwhocodes/config-array 0.11.7, @humanwhocodes/module-importer 1.0.1, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, caseless 0.12.0, detect-libc 2.0.1, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 2.1.0, eslint-visitor-keys 3.3.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, Microsoft/tslib 2.4.1, mikeal/aws-sign 0.7.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 7.5.7, Request -  Simple HTTP Client 2.88.2, through 2.3.8, tunnel-agent 0.6.0, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.8.4, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -1871,7 +1892,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 2-clause "Simplified" License
-(@typescript-eslint/parser 5.42.0, @typescript-eslint/typescript-estree 5.42.0, css-what v3.4.2, css-what v5.0.1, domelementtype 1.3.1, domelementtype 2.2.0, domutils 1.7.0, espree 9.4.0, node-entities 1.1.2, node-entities 2.2.0, nth-check 1.0.2, nth-check 2.0.0, terser 4.8.1, webidl-conversions v5.0.0)
+(@typescript-eslint/parser 5.42.1, @typescript-eslint/typescript-estree 5.42.1, css-what v3.4.2, css-what v5.0.1, domelementtype 1.3.1, domelementtype 2.2.0, domutils 1.7.0, espree 9.4.0, node-entities 1.1.2, node-entities 2.2.0, nth-check 1.0.2, nth-check 2.0.0, terser 4.8.1, webidl-conversions v5.0.0)
 
 BSD Two Clause License
 ======================
@@ -2640,7 +2661,7 @@ POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(@sinonjs/fake-timers 7.1.2)
+(@sinonjs/fake-timers 8.1.0)
 
 Copyright (c) 2010-2014, Christian Johansen, christian@cjohansen.no. All rights reserved.
 
@@ -2768,7 +2789,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ---
 
 BSD 3-clause "New" or "Revised" License
-(babel-plugin-istanbul 6.0.0)
+(babel-plugin-istanbul 6.1.1)
 
 Copyright (c) 2016, Istanbul Code Coverage
 All rights reserved.
@@ -2801,7 +2822,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(glob-to-regexp 0.3.0, istanbul-lib-coverage 3.0.0, istanbul-lib-report 3.0.0, json-schema 0.2.3, shelljs 0.8.5, source-map 0.7.3)
+(glob-to-regexp 0.3.0, istanbul-lib-coverage 3.0.0, istanbul-lib-instrument 5.2.1, istanbul-lib-report 3.0.0, istanbul-reports 3.1.5, json-schema 0.2.3, shelljs 0.8.5, source-map 0.7.3)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -2835,7 +2856,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(istanbul-lib-instrument 4.0.3, istanbul-reports 3.0.2)
+(istanbul-lib-coverage 3.2.0)
 
 Copyright 2012-2015 Yahoo! Inc.
 All rights reserved.
@@ -3161,7 +3182,7 @@ THIS SOFTWARE.
 ---
 
 Creative Commons Attribution 4.0
-(caniuse-lite 1.0.30001252)
+(caniuse-lite 1.0.30001252, caniuse-lite 1.0.30001431)
 
 Creative Commons Attribution 4.0
 ================================
@@ -4001,25 +4022,6 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(console-control-strings 1.1.0, has-unicode 2.0.1)
-
-Copyright (c) 2014, Rebecca Turner <me@re-becca.org>
-
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted, provided that the above
-copyright notice and this permission notice appear in all copies.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
-
----
-
-ISC License
 (browserify-sign 4.2.1)
 
 Copyright (c) 2014-2015 Calvin Metcalf and browserify-sign contributors
@@ -4097,18 +4099,7 @@ THIS SOFTWARE
 ---
 
 ISC License
-(are-we-there-yet 1.1.7)
-
-Copyright (c) 2015, Rebecca Turner
-
-Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
-
----
-
-ISC License
-(aproba 1.2.0, wide-align 1.1.5)
+(aproba 1.2.0)
 
 Copyright (c) 2015, Rebecca Turner <me@re-becca.org>
 
@@ -4204,7 +4195,7 @@ THIS SOFTWARE
 ---
 
 ISC License
-(v8-to-istanbul 8.0.0)
+(v8-to-istanbul 8.1.1)
 
 Copyright (c) 2017, Contributors
 
@@ -4468,6 +4459,27 @@ ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
+(picocolors 1.0.0)
+
+ISC License
+
+Copyright (c) 2021 Alexey Raspopov, Kostiantyn Denysov, Anton Verinov
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
+
+---
+
+ISC License
 (postcss-modules-scope 2.2.0, postcss-modules-values v2.0.0)
 
 ISC License (ISC)
@@ -4505,7 +4517,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(@webassemblyjs/helper-fsm 1.9.0, boolbase 1.0.0, cacache 12.0.4, figgy-pudding 3.5.2, icss-replace-symbols 1.1.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver 7.3.7, node-semver 7.3.8, run-queue 1.0.3, ssri 6.0.2)
+(@webassemblyjs/helper-fsm 1.9.0, boolbase 1.0.0, cacache 12.0.4, electron-to-chromium 1.4.284, figgy-pudding 3.5.2, icss-replace-symbols 1.1.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver 7.3.7, node-semver 7.3.8, run-queue 1.0.3, ssri 6.0.2)
 
 ISC License (ISCL)
 ==================
@@ -4703,7 +4715,7 @@ PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(chownr 1.1.4, ini 1.3.7, ini 1.3.8, isaacs/once 1.4.0, isexe 2.0.0, json-stringify-safe 5.0.1, minimatch 3.0.4, minimatch 3.1.2, node-lru-cache 4.1.5, node-lru-cache 5.1.1, node-lru-cache 6.0.0, node-semver 5.7.1, node-semver 6.3.0, node-semver 7.0.0, npmlog 4.1.2, pseudomap 1.0.2, rimraf 2.7.1, which 1.3.1, wrappy 1.0.2, yallist 2.1.2, yallist 3.1.1)
+(chownr 1.1.4, ini 1.3.7, ini 1.3.8, isaacs/once 1.4.0, isexe 2.0.0, json-stringify-safe 5.0.1, minimatch 3.0.4, minimatch 3.1.2, node-lru-cache 4.1.5, node-lru-cache 5.1.1, node-lru-cache 6.0.0, node-semver 5.7.1, node-semver 6.3.0, node-semver 7.0.0, pseudomap 1.0.2, rimraf 2.7.1, which 1.3.1, wrappy 1.0.2, yallist 2.1.2, yallist 3.1.1)
 
 The ISC License
 
@@ -4819,36 +4831,6 @@ License: ISC
 
 Files: debian/*
 Copyright: 2017, Aarti Kashyap <kaarti.sr@gmail.com>
-License: ISC
-
-License: ISC
-
-Permission to use, copy, modify, and/or distribute this software for any
- purpose with or without fee is hereby granted, provided that the above
- copyright notice and this permission notice appear in all copies.
- .
- THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
- WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
- MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
- ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
- WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
- ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
- OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
-
----
-
-ISC License
-(iarna/gauge v2.7.4)
-
-Upstream-Contact: https://github.com/iarna/gauge/issues
-Source: https://github.com/iarna/gauge
-
-Files: *
-Copyright: 2017 Rebecca Turner <me@re-becca.org>
-License: ISC
-
-Files: debian/*
-Copyright: 2017 Pirate Praveen <praveen@debian.org>
 License: ISC
 
 License: ISC
@@ -5369,7 +5351,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Commander.js 2.17.1, Commander.js 2.19.0, Commander.js v2.20.3, Commander.js v7.2.0)
+(Commander.js 2.17.1, Commander.js 2.19.0, Commander.js 8.3.0, Commander.js v2.20.3)
 
 (The MIT License)
 
@@ -7951,32 +7933,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(delegates 1.0.0)
-
-Copyright (c) 2015 TJ Holowaychuk <tj@vision-media.ca>
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (http-parser-js 0.5.3)
 
 Copyright (c) 2015 Tim Caswell (https://github.com/creationix) and other
@@ -8640,6 +8596,27 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
+(rfdc 1.3.0)
+
+Copyright 2019 "David Mark Clements <david.mark.clements@gmail.com>"
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
+to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
+IN THE SOFTWARE
+
+---
+
+MIT License
 (obuf 1.1.2)
 
 Copyright Fedor Indutny, 2015.
@@ -8959,7 +8936,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(colorette 1.3.0)
+(colorette 1.3.0, colorette 1.4.0)
 
 Copyright © Jorge Bucaran <<https://jorgebucaran.com>>
 
@@ -9726,7 +9703,7 @@ SOFTWARE
 ---
 
 MIT License
-(@types/babel__core 7.1.15, @types/babel__generator 7.6.3, @types/babel__template 7.4.1, @types/babel__traverse 7.14.2, @types/body-parser 1.19.2, @types/connect 3.4.35, @types/connect-history-api-fallback 1.3.5, @types/glob 7.1.4, @types/graceful-fs 4.1.5, @types/highlight.js 9.12.4, @types/istanbul-lib-coverage 2.0.3, @types/istanbul-reports 3.0.1, @types/jest 27.0.0, @types/json-schema 7.0.11, @types/json-schema 7.0.9, @types/linkify-it 3.0.2, @types/markdown-it 10.0.3, @types/minimatch 3.0.5, @types/node 16.4.14, @types/node 16.7.6, @types/prettier 2.3.2, @types/q 1.5.5, @types/qs 6.9.7, @types/range-parser 1.2.4, @types/stack-utils 2.0.1, @types/tapable 1.0.8, @types/webpack-dev-server 3.11.6, @types/webpack-sources 3.2.0, @types/yargs 15.0.14, @types/yargs 16.0.4, @types/yargs-parser 20.2.1, crypto-browserify/pbkdf2 v3.1.2)
+(@types/babel__core 7.1.15, @types/babel__generator 7.6.3, @types/babel__template 7.4.1, @types/babel__traverse 7.14.2, @types/body-parser 1.19.2, @types/connect 3.4.35, @types/connect-history-api-fallback 1.3.5, @types/glob 7.1.4, @types/graceful-fs 4.1.5, @types/highlight.js 9.12.4, @types/istanbul-lib-coverage 2.0.3, @types/istanbul-reports 3.0.1, @types/json-schema 7.0.11, @types/json-schema 7.0.9, @types/linkify-it 3.0.2, @types/markdown-it 10.0.3, @types/minimatch 3.0.5, @types/node 16.7.6, @types/prettier 2.3.2, @types/q 1.5.5, @types/qs 6.9.7, @types/range-parser 1.2.4, @types/stack-utils 2.0.1, @types/tapable 1.0.8, @types/webpack-dev-server 3.11.6, @types/webpack-sources 3.2.0, @types/yargs 16.0.4, @types/yargs-parser 20.2.1, crypto-browserify/pbkdf2 v3.1.2)
 
 MIT License
 
@@ -9892,7 +9869,7 @@ SOFTWARE
 ---
 
 MIT License
-(json5 1.0.1, json5 v2.2.0)
+(json5 1.0.1, json5 2.2.1, json5 v2.2.0)
 
 MIT License
 
@@ -10219,33 +10196,6 @@ SOFTWARE
 ---
 
 MIT License
-(node-abi 2.30.1)
-
-MIT License
-
-Copyright (c) 2016 Lukas Geiger
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (typedoc-plugin-markdown 2.4.2)
 
 MIT License
@@ -10300,34 +10250,7 @@ SOFTWARE
 ---
 
 MIT License
-(ts-jest 27.0.4)
-
-MIT License
-
-Copyright (c) 2016-2018
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(pirates 4.0.1)
+(pirates 4.0.5)
 
 MIT License
 
@@ -10602,33 +10525,6 @@ MIT License
 MIT License
 
 Copyright (c) 2017 webpack-contrib
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(pretty-quick 3.1.1)
-
-MIT License
-
-Copyright (c) 2017- Lucas Azzola
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11392,7 +11288,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@jest/console 27.1.0, @jest/core 27.1.0, @jest/environment 27.1.0, @jest/fake-timers 27.1.0, @jest/globals 27.1.0, @jest/reporters 27.1.0, @jest/source-map 27.0.6, @jest/test-result 27.1.0, @jest/test-sequencer 27.1.0, @jest/transform 27.1.0, @jest/types 26.6.2, @jest/types 27.1.0, expect 27.1.0, Jest from Facebook 27.1.0, Jest from Facebook v26.6.2, Jest from Facebook v27.0.6, jest-changed-files 27.1.0, jest-circus 27.1.0, jest-config 27.1.0, jest-diff 26.6.2, jest-diff 27.1.0, jest-each 27.1.0, jest-environment-jsdom 27.1.0, jest-environment-node 27.1.0, jest-get-type 26.3.0, jest-get-type 27.0.6, jest-haste-map 27.1.0, jest-leak-detector 27.1.0, jest-matcher-utils 27.1.0, jest-message-util 27.1.0, jest-regex-util 27.0.6, jest-resolve 27.1.0, jest-resolve-dependencies 27.1.0, jest-runner 27.1.0, jest-runtime 27.1.0, jest-snapshot 27.1.0, jest-util 27.1.0, jest-validate 27.1.0, jest-worker 27.1.0, pretty-format 26.6.2, pretty-format 27.1.0, React from Facebook 17.0.2)
+(@jest/console 27.5.1, @jest/core 27.5.1, @jest/environment 27.5.1, @jest/globals 27.5.1, @jest/reporters 27.5.1, @jest/test-result 27.5.1, @jest/test-sequencer 27.5.1, @jest/types 27.1.0, @jest/types 27.5.1, expect 27.5.1, Jest from Facebook 27.5.1, jest-config 27.5.1, jest-diff 27.5.1, jest-each 27.5.1, jest-environment-jsdom 27.5.1, jest-environment-node 27.5.1, jest-haste-map 27.5.1, jest-leak-detector 27.5.1, jest-matcher-utils 27.5.1, jest-message-util 27.5.1, jest-regex-util 27.5.1, jest-runtime 27.5.1, jest-snapshot 27.5.1, jest-util 27.1.0, jest-util 27.5.1, jest-validate 27.5.1, jest-worker 27.5.1, pretty-format 27.5.1, React from Facebook 17.0.2)
 
 MIT License
 
@@ -11464,7 +11360,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(ansi-escapes 4.3.2, camelcase 6.2.0, cli-boxes 2.2.1, emittery v0.8.1, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, figures 3.2.0, find-cache-dir 3.3.2, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, global-dirs 2.1.0, import-fresh 3.3.0, is-plain-obj 3.0.0, is-unicode-supported 0.1.0, log-symbols 4.1.0, mimic-response 2.1.0, p-each-series 2.2.0, p-limit 3.1.0, p-locate v5.0.0, p-map 4.0.0, parse-json v5.2.0, sindresorhus/is-stream 2.0.1, sindresorhus/onetime v5.1.2, string-length 4.0.2, supports-color 8.1.1, term-size 2.2.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
+(ansi-escapes 4.3.2, camelcase 6.2.0, cli-boxes 2.2.1, decompress-response 6.0.0, emittery v0.8.1, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, figures 3.2.0, find-cache-dir 3.3.2, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, global-dirs 2.1.0, import-fresh 3.3.0, is-plain-obj 3.0.0, mimic-response 3.1.0, p-limit 3.1.0, p-locate v5.0.0, p-map 4.0.0, parse-json v5.2.0, sindresorhus/is-stream 2.0.1, sindresorhus/onetime v5.1.2, string-length 4.0.2, supports-color 8.1.1, term-size 2.2.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
 
 MIT License
 
@@ -11494,7 +11390,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@sindresorhus/is 0.14.0, aggregate-error 3.1.0, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-regex 5.0.1, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, arrify 2.0.1, callsites 3.1.0, camelcase 5.3.1, Chalk 4.1.2, Chalk v3.0.0, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, crypto-random-string 2.0.0, decompress-response v4.2.1, Del using Globs v4.1.1, dot-prop v5.3.0, escape-goat 2.1.1, escape-string-regexp v2.0.0, execa 1.0.0, find-up 3.0.0, has-flag 3.0.0, has-flag 4.0.0, has-yarn 2.1.0, html-tags 2.0.0, html-tags 3.1.0, import-local 2.0.0, import-local 3.0.2, indent-string v4.0.0, internal-ip 4.3.0, is-absolute-url v3.0.3, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-installed-globally 0.3.2, is-npm 4.0.0, is-obj 2.0.0, is-path-cwd v2.2.0, is-path-in-cwd v2.1.0, is-path-inside 3.0.3, is-path-inside v2.1.0, leven 3.1.0, locate-path 3.0.0, locate-path v5.0.0, log-update 4.0.0, lowercase-keys 2.0.0, make-dir 2.1.0, make-dir 3.1.0, mimic-fn 2.1.0, mimic-response 1.0.1, multimatch v4.0.0, npm-run-path 4.0.1, opn v5.5.0, p-cancelable 1.1.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 2.1.0, p-retry 3.0.1, p-try 2.2.0, package-json v6.5.0, parent-module 1.0.1, parse-json 4.0.0, path-exists 4.0.0, path-key 3.1.1, path-type 4.0.0, pify 3.0.0, pify 4.0.1, pkg-dir 3.0.0, prepend-http 2.0.0, pupa 2.1.1, query-string 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, semver-diff 3.1.1, shebang-regex 3.0.0, sindresorhus/boxen v4.2.0, sindresorhus/globby 7.1.1, sindresorhus/globby 9.2.0, sindresorhus/got 9.6.0, sindresorhus/normalize-url 2.0.1, sindresorhus/normalize-url 3.3.0, sindresorhus/normalize-url 4.5.1, sindresorhus/slash v2.0.0, sort-keys 2.0.0, string-width 4.2.2, string-width 4.2.3, string-width v3.1.0, Strip ANSI 5.2.0, Strip ANSI 6.0.1, strip-bom 4.0.0, strip-final-newline 2.0.0, supports-color 5.5.0, supports-color 6.1.0, supports-color v7.2.0, terminal-link 2.1.1, to-readable-stream 1.0.0, type-fest 0.8.1, unique-string 2.0.0, url-parse-lax 3.0.0, widest-line 3.1.0, wrap-ansi v5.1.0, wrap-ansi v6.2.0, xdg-basedir 4.0.0)
+(@sindresorhus/is 0.14.0, aggregate-error 3.1.0, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-regex 5.0.1, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, arrify 2.0.1, callsites 3.1.0, camelcase 5.3.1, Chalk 4.1.2, Chalk v3.0.0, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, crypto-random-string 2.0.0, Del using Globs v4.1.1, dot-prop v5.3.0, escape-goat 2.1.1, escape-string-regexp v2.0.0, execa 1.0.0, find-up 3.0.0, has-flag 3.0.0, has-flag 4.0.0, has-yarn 2.1.0, html-tags 2.0.0, html-tags 3.1.0, import-local 2.0.0, import-local 3.0.2, indent-string v4.0.0, internal-ip 4.3.0, is-absolute-url v3.0.3, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-installed-globally 0.3.2, is-npm 4.0.0, is-obj 2.0.0, is-path-cwd v2.2.0, is-path-in-cwd v2.1.0, is-path-inside 3.0.3, is-path-inside v2.1.0, leven 3.1.0, locate-path 3.0.0, locate-path v5.0.0, log-update 4.0.0, lowercase-keys 2.0.0, make-dir 2.1.0, make-dir 3.1.0, mimic-fn 2.1.0, mimic-response 1.0.1, multimatch v4.0.0, npm-run-path 4.0.1, opn v5.5.0, p-cancelable 1.1.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 2.1.0, p-retry 3.0.1, p-try 2.2.0, package-json v6.5.0, parent-module 1.0.1, parse-json 4.0.0, path-exists 4.0.0, path-key 3.1.1, path-type 4.0.0, pify 3.0.0, pify 4.0.1, pkg-dir 3.0.0, prepend-http 2.0.0, pupa 2.1.1, query-string 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, semver-diff 3.1.1, shebang-regex 3.0.0, sindresorhus/boxen v4.2.0, sindresorhus/globby 7.1.1, sindresorhus/globby 9.2.0, sindresorhus/got 9.6.0, sindresorhus/normalize-url 2.0.1, sindresorhus/normalize-url 3.3.0, sindresorhus/normalize-url 4.5.1, sindresorhus/slash v2.0.0, sort-keys 2.0.0, string-width 4.2.2, string-width v3.1.0, Strip ANSI 5.2.0, Strip ANSI 6.0.1, strip-bom 4.0.0, strip-final-newline 2.0.0, supports-color 5.5.0, supports-color 6.1.0, supports-color v7.2.0, terminal-link 2.1.1, to-readable-stream 1.0.0, type-fest 0.8.1, unique-string 2.0.0, url-parse-lax 3.0.0, widest-line 3.1.0, wrap-ansi v5.1.0, wrap-ansi v6.2.0, xdg-basedir 4.0.0)
 
 MIT License
 
@@ -12381,7 +12277,7 @@ OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(@eslint/eslintrc 1.3.3, @nodelib/fs.stat 1.1.3, @tootallnate/once 1.1.2, @types/express 4.17.14, @types/express-serve-static-core 4.17.31, @types/http-proxy 1.17.9, @types/mime 3.0.1, @types/semver 7.3.13, @types/serve-static 1.15.0, @types/uglify-js 3.17.1, @types/webpack 4.41.33, @typescript-eslint/eslint-plugin 5.42.0, @typescript-eslint/scope-manager 5.42.0, @typescript-eslint/type-utils 5.42.0, @typescript-eslint/types 5.42.0, @typescript-eslint/utils 5.42.0, @typescript-eslint/visitor-keys 5.42.0, @vue/babel-helper-vue-jsx-merge-props 1.2.1, @vue/babel-helper-vue-transform-on 1.0.2, @vue/babel-plugin-jsx 1.0.6, @vue/babel-plugin-transform-vue-jsx 1.2.1, @vue/babel-preset-jsx 1.2.4, @vue/babel-sugar-composition-api-inject-h 1.2.1, @vue/babel-sugar-composition-api-render-instance 1.2.4, @vue/babel-sugar-functional-vue 1.2.2, @vue/babel-sugar-inject-h 1.2.2, @vue/babel-sugar-v-model 1.2.3, @vue/babel-sugar-v-on 1.2.3, @vue/component-compiler-utils 3.2.2, @vuepress/core 1.9.7, @vuepress/plugin-active-header-links 1.9.7, @vuepress/plugin-nprogress 1.9.7, @vuepress/types 1.9.7, @webassemblyjs/leb128 1.9.0, Acorn 8.8.1, Async 2.6.4, buffer-json 2.0.0, consola 2.15.3, de-indent 1.0.2, envify 4.1.0, esbuild 0.14.7, esbuild-darwin-64 0.14.7, esbuild-darwin-arm64 0.14.7, esbuild-linux-64 0.14.7, esbuild-linux-mips64le 0.14.7, esbuild-linux-ppc64le 0.14.7, esbuild-windows-32 0.14.7, esbuild-windows-64 0.14.7, esbuild-windows-arm64 0.14.7, ESLint 8.26.0, eslint-plugin-prettier 4.2.1, eventsource-node 1.1.2, fast-glob 3.2.12, https-proxy-agent 5.0.1, js-sdsl 4.1.5, jsbn 0.1.1, load-script 1.0.0, markdown-it-table-of-contents 0.4.4, minimist 1.2.7, natural-compare 1.4.0, natural-compare-lite 1.4.0, node-deep-equal 1.1.1, prettier 2.7.1, sindresorhus/globals 13.17.0, sindresorhus/globby 11.1.0, std-env v2.3.0, uniqs 2.0.0, unquote 1.1.1, vue-template-es2015-compiler 1.9.1)
+(@babel/code-frame 7.18.6, @babel/compat-data 7.20.1, @babel/core 7.20.2, @babel/generator 7.20.4, @babel/helper-compilation-targets 7.20.0, @babel/helper-environment-visitor 7.18.9, @babel/helper-function-name 7.19.0, @babel/helper-hoist-variables 7.18.6, @babel/helper-module-imports 7.18.6, @babel/helper-module-transforms 7.20.2, @babel/helper-simple-access 7.20.2, @babel/helper-split-export-declaration 7.18.6, @babel/helper-string-parser 7.19.4, @babel/helper-validator-identifier 7.19.1, @babel/helper-validator-option 7.18.6, @babel/helpers 7.20.1, @babel/highlight 7.18.6, @babel/parser 7.20.3, @babel/template 7.18.10, @babel/traverse 7.20.1, @babel/types 7.20.2, @eslint/eslintrc 1.3.3, @jest/fake-timers 27.5.1, @jest/source-map 27.5.1, @jest/transform 27.5.1, @jridgewell/gen-mapping 0.1.1, @jridgewell/gen-mapping 0.3.2, @jridgewell/resolve-uri 3.1.0, @jridgewell/set-array 1.1.2, @jridgewell/sourcemap-codec 1.4.14, @jridgewell/trace-mapping 0.3.17, @nodelib/fs.stat 1.1.3, @tootallnate/once 1.1.2, @types/express 4.17.14, @types/express-serve-static-core 4.17.31, @types/http-proxy 1.17.9, @types/jest 27.5.2, @types/mime 3.0.1, @types/node 16.18.3, @types/semver 7.3.13, @types/serve-static 1.15.0, @types/uglify-js 3.17.1, @types/webpack 4.41.33, @typescript-eslint/eslint-plugin 5.42.1, @typescript-eslint/scope-manager 5.42.1, @typescript-eslint/type-utils 5.42.1, @typescript-eslint/types 5.42.1, @typescript-eslint/utils 5.42.1, @typescript-eslint/visitor-keys 5.42.1, @vue/babel-helper-vue-jsx-merge-props 1.2.1, @vue/babel-helper-vue-transform-on 1.0.2, @vue/babel-plugin-jsx 1.0.6, @vue/babel-plugin-transform-vue-jsx 1.2.1, @vue/babel-preset-jsx 1.2.4, @vue/babel-sugar-composition-api-inject-h 1.2.1, @vue/babel-sugar-composition-api-render-instance 1.2.4, @vue/babel-sugar-functional-vue 1.2.2, @vue/babel-sugar-inject-h 1.2.2, @vue/babel-sugar-v-model 1.2.3, @vue/babel-sugar-v-on 1.2.3, @vue/component-compiler-utils 3.2.2, @vuepress/core 1.9.7, @vuepress/plugin-active-header-links 1.9.7, @vuepress/plugin-nprogress 1.9.7, @vuepress/types 1.9.7, @webassemblyjs/leb128 1.9.0, Acorn 8.8.1, Async 2.6.4, browserslist 4.21.4, buffer-json 2.0.0, ci-info 3.5.0, colorette 2.0.19, consola 2.15.3, de-indent 1.0.2, envify 4.1.0, esbuild 0.14.7, esbuild-darwin-64 0.14.7, esbuild-darwin-arm64 0.14.7, esbuild-linux-64 0.14.7, esbuild-linux-mips64le 0.14.7, esbuild-linux-ppc64le 0.14.7, esbuild-windows-32 0.14.7, esbuild-windows-64 0.14.7, esbuild-windows-arm64 0.14.7, ESLint v8.27.0, eslint-plugin-prettier 4.2.1, eventsource-node 1.1.2, fast-glob 3.2.12, https-proxy-agent 5.0.1, jest-changed-files 27.5.1, jest-circus 27.5.1, jest-get-type 27.5.1, jest-resolve 27.5.1, jest-resolve-dependencies 27.5.1, jest-runner 27.5.1, js-sdsl 4.1.5, jsbn 0.1.1, listr2 3.14.0, load-script 1.0.0, markdown-it-table-of-contents 0.4.4, minimist 1.2.7, nan 2.17.0, natural-compare 1.4.0, natural-compare-lite 1.4.0, node-abi v3.28.0, node-deep-equal 1.1.1, node-releases 2.0.6, prebuild-install 7.1.1, prettier 2.7.1, pretty-quick 3.1.3, sindresorhus/globals 13.17.0, sindresorhus/globby 11.1.0, std-env v2.3.0, ts-jest 27.1.5, uniqs 2.0.0, unquote 1.1.1, update-browserslist-db 1.0.10, vue-template-es2015-compiler 1.9.1)
 
 The MIT License
 ===============
@@ -14546,7 +14442,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(cyclist 1.0.1, flush-write-stream 1.1.1, multicast-dns 6.2.3, multicast-dns-service-types 1.1.0, prebuild-install 6.1.4, stream-each 1.2.3)
+(cyclist 1.0.1, flush-write-stream 1.1.1, multicast-dns 6.2.3, multicast-dns-service-types 1.1.0, stream-each 1.2.3)
 
 The MIT License (MIT)
 
@@ -15140,7 +15036,7 @@ SOFTWARE
 ---
 
 MIT License
-(lint-staged 11.1.2)
+(lint-staged 11.2.6)
 
 The MIT License (MIT)
 
@@ -16073,33 +15969,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(listr2 3.11.0)
-
-The MIT License (MIT)
-
-Copyright (c) Cenk Kilic <cenk@kilic.dev> (https://srcs.kilic.dev), Sam Verschueren <sam.verschueren@gmail.com> (github.com/SamVerschueren)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
 (@nodelib/fs.scandir 2.1.5, @nodelib/fs.stat 2.0.5, @nodelib/fs.walk 1.2.8, fast-glob 2.2.7)
 
 The MIT License (MIT)
@@ -16208,7 +16077,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(queue-microtask 1.2.3, run-parallel v1.2.0, simple-concat 1.0.1, simple-get 3.1.1)
+(queue-microtask 1.2.3, run-parallel v1.2.0, simple-concat 1.0.1, simple-get 4.0.1)
 
 The MIT License (MIT)
 
@@ -16288,7 +16157,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(node-modules-regexp 1.0.0, normalize-range 0.1.2)
+(normalize-range 0.1.2)
 
 The MIT License (MIT)
 
@@ -16369,7 +16238,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(kleur 3.0.3, mri 1.1.6)
+(kleur 3.0.3, mri 1.1.6, resolve.exports 1.1.0)
 
 The MIT License (MIT)
 
@@ -16423,7 +16292,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(ansi-regex 2.1.1, ansi-styles 2.2.1, caller-callsite 2.0.0, caller-path 2.0.0, callsites 2.0.0, code-point-at 1.1.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, has-ansi 2.0.0, import-cwd 2.1.0, import-fresh 2.0.0, import-from 2.1.0, import-lazy 2.1.0, ip-regex v2.1.0, is-absolute-url 2.1.0, is-binary-path 1.0.1, is-fullwidth-code-point 1.0.0, is-fullwidth-code-point 2.0.0, is-obj 1.0.1, is-plain-obj 1.1.0, is-regexp 1.0.0, is-wsl 1.1.0, lowercase-keys 1.0.1, npm-run-path 2.0.2, number-is-nan 1.0.1, p-finally 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, resolve-cwd 2.0.0, resolve-from 3.0.0, shebang-regex 1.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/slash 1.0.0, string-width 1.0.2, Strip ANSI 3.0.1, strip-eof 1.0.0, strip-json-comments 2.0.1, supports-color 2.0.0)
+(ansi-regex 2.1.1, ansi-styles 2.2.1, caller-callsite 2.0.0, caller-path 2.0.0, callsites 2.0.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, has-ansi 2.0.0, import-cwd 2.1.0, import-fresh 2.0.0, import-from 2.1.0, import-lazy 2.1.0, ip-regex v2.1.0, is-absolute-url 2.1.0, is-binary-path 1.0.1, is-fullwidth-code-point 2.0.0, is-obj 1.0.1, is-plain-obj 1.1.0, is-regexp 1.0.0, is-wsl 1.1.0, lowercase-keys 1.0.1, npm-run-path 2.0.2, p-finally 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, resolve-cwd 2.0.0, resolve-from 3.0.0, shebang-regex 1.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/slash 1.0.0, Strip ANSI 3.0.1, strip-eof 1.0.0, strip-json-comments 2.0.1, supports-color 2.0.0)
 
 The MIT License (MIT)
 
