@@ -89,7 +89,7 @@ filenames:
 {%    endif                                        %}
 {%    for edition in [ "community", "enterprise" ] %}
 
-  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
+  - couchbase-sync-gateway-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
 
 {%    endfor %}
 {% endfor %}
