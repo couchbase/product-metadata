@@ -298,7 +298,6 @@ aproba 1.2.0 : ISC License
 aproba 2.0.0 : ISC License
 are-we-there-yet 1.1.5 : ISC License
 are-we-there-yet 3.0.0 : ISC License
-argparse 1.0.10 : MIT License
 argv-formatter 1.0.0 : MIT License
 arr-diff 4.0.0 : MIT License
 arr-flatten 1.1.0 : MIT License
@@ -1168,6 +1167,7 @@ node-url 0.11.0 : MIT License
 node-uuid 3.4.0 : MIT License
 node-uuid 8.3.2 : MIT License
 node-worker-farm v1.7.0 : MIT License
+nodeca-argparse 1.0.10 : MIT License
 nodeca/pako 1.0.11 : MIT License
 nodejs Deprecate 1.1.2 : MIT License
 nodejs-asn1 0.2.4 : MIT License
@@ -1340,7 +1340,7 @@ proxy-addr 2.0.7 : MIT License
 prr 1.0.1 : MIT License
 pseudomap 1.0.2 : ISC License
 psl 1.8.0 : MIT License
-public-encrypt v4.0.3 : MIT License
+publicEncrypt v4.0.3 : MIT License
 pumpify 1.5.1 : MIT License
 Punycode.js 1.3.2 : MIT License
 Punycode.js 1.4.1 : MIT License
@@ -1410,7 +1410,7 @@ resolve-url 0.2.1 : MIT License
 responselike 1.0.2 : MIT License
 restore-cursor 2.0.0 : MIT License
 restore-cursor v3.1.0 : MIT License
-ret 0.1.15 : MIT License
+ret.js 0.1.15 : MIT License
 reusify 1.0.4 : MIT License
 rgb-regex 1.0.1 : MIT License
 rgba-regex 1.0.0 : MIT License
@@ -7946,7 +7946,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ret 0.1.15)
+(ret.js 0.1.15)
 
 Copyright (C) 2011 by Roly Fentanes
 
@@ -9663,7 +9663,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(diffie-hellman 5.0.3, public-encrypt v4.0.3)
+(diffie-hellman 5.0.3, publicEncrypt v4.0.3)
 
 Copyright (c) 2017 Calvin Metcalf
 
@@ -11183,7 +11183,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(argparse 1.0.10, elliptic v6.5.4, function-bind 1.1.1, isarray 1.0.0, isarray 2.0.5, nodejs/string_decoder v1.3.0)
+(elliptic v6.5.4, function-bind 1.1.1, isarray 1.0.0, isarray 2.0.5, nodeca-argparse 1.0.10, nodejs/string_decoder v1.3.0)
 
 License: Expat
 
