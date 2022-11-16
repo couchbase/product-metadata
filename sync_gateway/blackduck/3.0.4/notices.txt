@@ -54,7 +54,6 @@ golang protobuf 1.27.1 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.2.0 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.4.3 : BSD 3-clause "New" or "Revised" License
 golang protobuf v1.5.0 : BSD 3-clause "New" or "Revised" License
-golang protobuf v1.5.2 : BSD 3-clause "New" or "Revised" License
 golang protobuf : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 20170620-snapshot : BSD 2-clause "Simplified" License
 golang-github-json-iterator-go-dev 1.1.12 : Expat License
@@ -89,7 +88,6 @@ golang/appengine v1.4.0 : Apache License 2.0
 golang/appengine v1.6.6 : Apache License 2.0
 golang/net 1.11+git20190403.48a9fcb : BSD 3-clause "New" or "Revised" License
 golang/net 1.12+git20190812.cdfb69a : BSD 3-clause "New" or "Revised" License
-golang/text 20171230-snapshot : BSD 3-clause "New" or "Revised" License
 golang/text v0.3.2 : BSD 3-clause "New" or "Revised" License
 golang/text v0.3.4 : BSD 3-clause "New" or "Revised" License
 golang/text v0.3.6 : BSD 3-clause "New" or "Revised" License
@@ -140,7 +138,7 @@ prometheus-common : Apache License 2.0
 prometheus-procfs v0.1.3 : Apache License 2.0
 prometheus-procfs v0.6.0 : Apache License 2.0
 prometheus-procfs v0.7.3 : Apache License 2.0
-Protocol Buffers 1.5.2 : BSD 3-clause "New" or "Revised" License
+Protobuf 1.5.2 : BSD 3-clause "New" or "Revised" License
 protocolbuffers/protobuf-go v1.26.0 : BSD 3-clause "New" or "Revised" License
 robertkrimen/otto 20180907-snapshot-a813c59b : MIT License
 sergi/go-diff 20180219-snapshot : 
@@ -602,7 +600,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang-golang-x-text 0.3.4, golang.org/x/crypto 20180605-snapshot, golang.org/x/crypto 20180626-snapshot-a49355c7, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180824-snapshot-4bcd98cc, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/oauth2 20210329-snapshot, golang.org/x/sys 20180811-snapshot, golang/net 1.11+git20190403.48a9fcb, golang/net 1.12+git20190812.cdfb69a, golang/text 20171230-snapshot, golang/text v0.3.2, golang/text v0.3.4, golang/text v0.3.6)
+(golang-golang-x-text 0.3.4, golang.org/x/crypto 20180605-snapshot, golang.org/x/crypto 20180626-snapshot-a49355c7, golang.org/x/crypto 20180724-snapshot-c126467f, golang.org/x/crypto 20190514-snapshot-22d7a77e, golang.org/x/net 20180824-snapshot-4bcd98cc, golang.org/x/net 20180925-snapshot, golang.org/x/net 20181213-snapshot, golang.org/x/oauth2 20210329-snapshot, golang.org/x/sys 20180811-snapshot, golang/net 1.11+git20190403.48a9fcb, golang/net 1.12+git20190812.cdfb69a, golang/text v0.3.2, golang/text v0.3.4, golang/text v0.3.6)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -985,7 +983,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang protobuf v1.2.0, golang protobuf v1.4.3, golang protobuf v1.5.0, golang protobuf v1.5.2, Protocol Buffers 1.5.2)
+(golang protobuf v1.2.0, golang protobuf v1.4.3, golang protobuf v1.5.0)
 
 Copyright 2010 The Go Authors.  All rights reserved.
 
@@ -1049,6 +1047,45 @@ Redistribution and use in source and binary forms, with or without
     * Neither the name of Google Inc. nor the names of its
  contributors may be used to endorse or promote products derived from
  this software without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+ OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(Protobuf 1.5.2)
+
+License: BSD-3-Clause
+
+Files: debian/*
+Copyright: 2013 Tonnerre Lombard <tonnerre@ancient-solutions.com>
+License: BSD-3-Clause
+
+License: BSD-3-Clause
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are
+ met:
+ .
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+      copyright notice, this list of conditions and the following disclaimer
+      in the documentation and/or other materials provided with the
+      distribution.
+    * Neither the name of Google Inc. nor the names of its
+      contributors may be used to endorse or promote products derived from
+      this software without specific prior written permission.
  .
  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
