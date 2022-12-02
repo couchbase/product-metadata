@@ -247,7 +247,7 @@ Components:
 @webassemblyjs/helper-wasm-bytecode 1.9.0 : MIT License
 @webassemblyjs/helper-wasm-section 1.9.0 : MIT License
 @webassemblyjs/ieee754 1.9.0 : MIT License
-@webassemblyjs/leb128 1.9.0 : MIT License
+@webassemblyjs/leb128 1.9.0 : Apache License 2.0
 @webassemblyjs/utf8 1.9.0 : MIT License
 @webassemblyjs/wasm-edit 1.9.0 : MIT License
 @webassemblyjs/wasm-gen 1.9.0 : MIT License
@@ -1896,7 +1896,7 @@ interfere with or be responsible for such uses by You.
 ---
 
 Apache License 2.0
-(@humanwhocodes/config-array 0.5.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, before-after-hook v2.2.2, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, JSONStream 1.3.5, nodejs-walker 1.0.7, oauth-sign 0.9.0, qrcode-terminal 0.12.0, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, request/tunnel-agent 0.6.0, spdx-correct.js v3.1.1, through 2.3.8, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.3.5, validate-npm-package-license 3.0.4, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
+(@humanwhocodes/config-array 0.5.0, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, before-after-hook v2.2.2, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, JSONStream 1.3.5, nodejs-walker 1.0.7, oauth-sign 0.9.0, qrcode-terminal 0.12.0, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, request/tunnel-agent 0.6.0, spdx-correct.js v3.1.1, through 2.3.8, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.3.5, validate-npm-package-license 3.0.4, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -10927,38 +10927,6 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(asn1.js v5.4.1)
-
-Files: debian/*
-Copyright: 2017 Bastien Roucariès <rouca@debian.org>
- 2020 Xavier Guimard <yadd@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
 (crypto-browserify 3.12.0, node-dashdash 1.14.1, source-list-map 2.0.1)
 
 Files: debian/*
@@ -12233,6 +12201,33 @@ MIT License
 MIT License
 
 Copyright (c) 2017 Evgeny Poberezkin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
+(asn1.js v5.4.1)
+
+MIT License
+
+Copyright (c) 2017 Fedor Indutny
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -14670,7 +14665,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(@gar/promisify 1.1.2, @nodelib/fs.stat 1.1.3, @octokit/auth-token 2.5.0, @octokit/core 3.5.1, @octokit/plugin-paginate-rest 2.17.0, @octokit/plugin-request-log 1.0.4, @octokit/plugin-rest-endpoint-methods 5.13.0, @octokit/request-error 2.1.0, @octokit/types 6.34.0, @semantic-release/changelog 6.0.1, @tootallnate/once 1.1.2, @vue/babel-helper-vue-jsx-merge-props 1.2.1, @vue/babel-helper-vue-transform-on 1.0.2, @vue/babel-plugin-jsx 1.0.6, @vue/babel-plugin-transform-vue-jsx 1.2.1, @vue/babel-preset-jsx 1.2.4, @vue/babel-sugar-composition-api-inject-h 1.2.1, @vue/babel-sugar-composition-api-render-instance 1.2.4, @vue/babel-sugar-functional-vue 1.2.2, @vue/babel-sugar-inject-h 1.2.2, @vue/babel-sugar-v-model 1.2.3, @vue/babel-sugar-v-on 1.2.3, @vue/component-compiler-utils 3.2.2, @webassemblyjs/leb128 1.9.0, buffer-json 2.0.0, Clone 1.0.4, consola 2.15.3, de-indent 1.0.2, envify 4.1.0, err-code 2.0.3, find-node-modules v2.1.2, java-properties 1.0.2, jsbn 0.1.1, load-script 1.0.0, markdown-it-table-of-contents 0.4.4, natural-compare 1.4.0, nerf-dart 1.0.0, node-deep-equal 1.1.1, sindresorhus/globby 11.1.0, std-env v2.3.0, tr46 0.0.3, uniqs 2.0.0, unquote 1.1.1, vue-template-es2015-compiler 1.9.1, wcwidth 1.0.1)
+(@gar/promisify 1.1.2, @nodelib/fs.stat 1.1.3, @octokit/auth-token 2.5.0, @octokit/core 3.5.1, @octokit/plugin-paginate-rest 2.17.0, @octokit/plugin-request-log 1.0.4, @octokit/plugin-rest-endpoint-methods 5.13.0, @octokit/request-error 2.1.0, @octokit/types 6.34.0, @semantic-release/changelog 6.0.1, @tootallnate/once 1.1.2, @vue/babel-helper-vue-jsx-merge-props 1.2.1, @vue/babel-helper-vue-transform-on 1.0.2, @vue/babel-plugin-jsx 1.0.6, @vue/babel-plugin-transform-vue-jsx 1.2.1, @vue/babel-preset-jsx 1.2.4, @vue/babel-sugar-composition-api-inject-h 1.2.1, @vue/babel-sugar-composition-api-render-instance 1.2.4, @vue/babel-sugar-functional-vue 1.2.2, @vue/babel-sugar-inject-h 1.2.2, @vue/babel-sugar-v-model 1.2.3, @vue/babel-sugar-v-on 1.2.3, @vue/component-compiler-utils 3.2.2, buffer-json 2.0.0, Clone 1.0.4, consola 2.15.3, de-indent 1.0.2, envify 4.1.0, err-code 2.0.3, find-node-modules v2.1.2, java-properties 1.0.2, jsbn 0.1.1, load-script 1.0.0, markdown-it-table-of-contents 0.4.4, natural-compare 1.4.0, nerf-dart 1.0.0, node-deep-equal 1.1.1, sindresorhus/globby 11.1.0, std-env v2.3.0, tr46 0.0.3, uniqs 2.0.0, unquote 1.1.1, vue-template-es2015-compiler 1.9.1, wcwidth 1.0.1)
 
 The MIT License
 ===============
