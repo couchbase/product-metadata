@@ -247,7 +247,7 @@ array-uniq 1.0.3 : MIT License
 array-unique 0.3.2 : MIT License
 arrify 1.0.1 : MIT License
 assign-symbols 1.0.0 : MIT License
-ast-types-flow 0.0.7 : ISC License
+ast-types-flow 0.0.7 : MIT License
 Async 2.6.4 : MIT License
 async-each 1.0.3 : MIT License
 async-limiter v1.0.1 : MIT License
@@ -255,6 +255,7 @@ asynckit 0.4.0 : MIT License
 atob 2.1.2 : (MIT License OR Apache License 2.0)
 Autolinker.js 3.15.0 : MIT License
 Autoprefixer 9.8.8 : MIT License
+aws-sign 0.7.0 : Apache License 2.0
 aws4 v1.11.0 : MIT License
 axobject-query 2.0.2 : Apache License 2.0
 babel-loader 8.2.2 : MIT License
@@ -279,8 +280,6 @@ bonjour 3.5.0 : MIT License
 boolbase 1.0.0 : ISC License
 Bootstrap (Twitter) 4.6.1 : MIT License
 brace-expansion 1.1.11 : MIT License
-braces 2.3.2 : MIT License
-braces 3.0.2 : MIT License
 browserify/resolve v1.20.0 : MIT License
 browserslist 4.20.0 : MIT License
 brpaz/echozap v1.1.2 : MIT License
@@ -761,12 +760,12 @@ merge2 1.4.1 : MIT License
 methods 1.1.2 : MIT License
 micromatch 3.1.10 : MIT License
 micromatch 4.0.4 : MIT License
+micromatch/braces 2.3.2 : MIT License
+micromatch/braces 3.0.2 : MIT License
 Microsoft/tslib 1.14.1 : BSD Zero Clause License
 Microsoft/tslib 2.3.0 : BSD Zero Clause License
 Microsoft/tslib 2.3.1 : BSD Zero Clause License
 miekg/dns v1.1.25 : BSD 3-clause "New" or "Revised" License
-mikeal/aws-sign 0.7.0 : Apache License 2.0
-mikeal/oauth-sign 0.9.0 : Apache License 2.0
 mime 1.6.0 : MIT License
 mime 2.6.0 : MIT License
 mime-db 1.51.0 : MIT License
@@ -876,6 +875,7 @@ npm-run-path 2.0.2 : MIT License
 npmlog 6.0.1 : ISC License
 nth-check 2.0.1 : BSD 2-clause "Simplified" License
 num2fraction 1.2.2 : MIT License
+oauth-sign 0.9.0 : Apache License 2.0
 object-assign 4.1.1 : MIT License
 object-inspect 1.12.2 : MIT License
 object-is 1.1.5 : MIT License
@@ -906,7 +906,6 @@ parent-module 1.0.1 : MIT License
 parse-json v5.2.0 : MIT License
 parse-node-version 1.0.1 : MIT License
 parse5 6.0.1 : MIT License
-parseurl 1.3.3 : MIT License
 pascalcase 0.1.1 : MIT License
 path-dirname 1.0.2 : MIT License
 path-exists 3.0.0 : MIT License
@@ -924,6 +923,7 @@ picocolors 1.0.0 : ISC License
 picomatch 2.3.1 : MIT License
 pify 2.3.0 : MIT License
 pify 4.0.1 : MIT License
+pillarjs/parseurl 1.3.3 : MIT License
 pinkie-promise 2.0.1 : MIT License
 piscina 3.1.0 : MIT License
 pkg-dir 3.0.0 : MIT License
@@ -1045,6 +1045,7 @@ remove-trailing-separator 1.1.0 : ISC License
 repeat-element 1.1.4 : MIT License
 repeat-string 1.6.1 : MIT License
 Request -  Simple HTTP Client 2.88.2 : Apache License 2.0
+request/tunnel-agent 0.6.0 : Apache License 2.0
 require-directory 2.1.1 : MIT License
 require-from-string 2.0.2 : MIT License
 require-main-filename 2.0.0 : ISC License
@@ -1079,7 +1080,7 @@ Selenium 3.6.0 : Apache License 2.0
 selfsigned 1.10.14 : MIT License
 semver-dsl 1.0.1 : MIT License
 senchalabs / connect 3.7.0 : MIT License
-send 0.18.0 : MIT License
+Send for Node.js 0.18.0 : MIT License
 serialize-javascript 6.0.0 : BSD 3-clause "New" or "Revised" License
 serve-index 1.9.1 : MIT License
 serve-static 1.15.0 : MIT License
@@ -1092,7 +1093,6 @@ shallow-clone 3.0.1 : MIT License
 shebang-command 1.2.0 : MIT License
 shebang-regex 1.0.0 : MIT License
 side-channel 1.0.4 : MIT License
-signal-exit 3.0.7 : ISC License
 sindresorhus/globals 11.12.0 : MIT License
 sindresorhus/globby 11.1.0 : MIT License
 sindresorhus/globby 5.0.0 : MIT License
@@ -1157,6 +1157,7 @@ svgo 2.8.0 : MIT License
 swag v0.19.5 : Apache License 2.0
 symbol-observable 4.0.0 : MIT License
 tapable 2.2.1 : MIT License
+tapjs/signal-exit 3.0.7 : ISC License
 tar 6.1.11 : ISC License
 tar-fs v2.1.1 : MIT License
 tar-stream 2.2.0 : MIT License
@@ -1182,7 +1183,6 @@ tree-kill v1.2.2 : MIT License
 ts-node 10.7.0 : MIT License
 tslint 6.1.3 : Apache License 2.0
 tsutils 2.29.0 : MIT License
-tunnel-agent 0.6.0 : Apache License 2.0
 tweetnacl-js 0.14.5 : The Unlicense
 Two-Screen/stable 0.1.8 : MIT License
 type-fest 0.21.3 : (MIT License OR Creative Commons Zero v1.0 Universal)
@@ -1425,7 +1425,7 @@ interfere with or be responsible for such uses by You.
 ---
 
 Apache License 2.0
-(@ampproject/remapping 1.0.1, @assemblyscript/loader 0.10.1, @webassemblyjs/leb128 1.11.1, @xtuc/long 4.2.2, ansi-html-community 0.0.8, aria-query 3.0.0, atob 2.1.2, axobject-query 2.0.2, before-after-hook v2.2.2, caseless 0.12.0, client_golang v1.11.1, client_golang v1.12.1, couchbase-goutils v0.1.2, critters 0.0.12, faye-websocket-node 0.11.4, forever-agent 0.6.1, go-ini-ini v1.66.2, go-jose v2.6.0, go-openapi/jsonpointer v0.19.5, golang/appengine v1.6.7, gosigar v1.3.3, heroku/terrier 20200623-snapshot-c3da2d1e, jasmine-spec-reporter 7.0.0, LessCss 4.1.1, log4js-node 6.4.2, mailru/easyjson 20190709-snapshot-b2ccc519, matttproud-golang_protobuf_extensions v1.0.1, mikeal/aws-sign 0.7.0, mikeal/oauth-sign 0.9.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, oklog/run v1.1.0, prometheus-client_model v0.2.0, prometheus-common v0.32.1, prometheus-procfs v0.7.3, puppeteer 14.1.1, ReactiveX RxJS 6.6.7, ReactiveX RxJS 7.5.4, reflect-metadata 0.1.13, Request -  Simple HTTP Client 2.88.2, Selenium 3.6.0, spf13-afero v1.6.0, swag v0.19.5, through 2.3.8, tslint 6.1.3, tunnel-agent 0.6.0, TypeScript 4.3.5, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, yaml for Go 20210109-snapshot-496545a6, yaml for Go v2.4.0, yaml for Go v3.0.1)
+(@ampproject/remapping 1.0.1, @assemblyscript/loader 0.10.1, @webassemblyjs/leb128 1.11.1, @xtuc/long 4.2.2, ansi-html-community 0.0.8, aria-query 3.0.0, atob 2.1.2, aws-sign 0.7.0, axobject-query 2.0.2, before-after-hook v2.2.2, caseless 0.12.0, client_golang v1.11.1, client_golang v1.12.1, couchbase-goutils v0.1.2, critters 0.0.12, faye-websocket-node 0.11.4, forever-agent 0.6.1, go-ini-ini v1.66.2, go-jose v2.6.0, go-openapi/jsonpointer v0.19.5, golang/appengine v1.6.7, gosigar v1.3.3, heroku/terrier 20200623-snapshot-c3da2d1e, jasmine-spec-reporter 7.0.0, LessCss 4.1.1, log4js-node 6.4.2, mailru/easyjson 20190709-snapshot-b2ccc519, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, oauth-sign 0.9.0, oklog/run v1.1.0, prometheus-client_model v0.2.0, prometheus-common v0.32.1, prometheus-procfs v0.7.3, puppeteer 14.1.1, ReactiveX RxJS 6.6.7, ReactiveX RxJS 7.5.4, reflect-metadata 0.1.13, Request -  Simple HTTP Client 2.88.2, request/tunnel-agent 0.6.0, Selenium 3.6.0, spf13-afero v1.6.0, swag v0.19.5, through 2.3.8, tslint 6.1.3, TypeScript 4.3.5, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, yaml for Go 20210109-snapshot-496545a6, yaml for Go v2.4.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -5059,7 +5059,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(@npmcli/git 2.1.0, @npmcli/node-gyp 1.0.3, @npmcli/promise-spawn 1.3.2, are-we-there-yet 3.0.0, ast-types-flow 0.0.7, boolbase 1.0.0, cacache 15.2.0, make-fetch-happen 9.1.0, npm-pick-manifest 6.1.1, npm-registry-fetch 11.0.0, npmlog 6.0.1)
+(@npmcli/git 2.1.0, @npmcli/node-gyp 1.0.3, @npmcli/promise-spawn 1.3.2, are-we-there-yet 3.0.0, boolbase 1.0.0, cacache 15.2.0, make-fetch-happen 9.1.0, npm-pick-manifest 6.1.1, npm-registry-fetch 11.0.0, npmlog 6.0.1)
 
 ISC License (ISCL)
 ==================
@@ -5172,7 +5172,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(signal-exit 3.0.7)
+(tapjs/signal-exit 3.0.7)
 
 The ISC License
 
@@ -6076,7 +6076,7 @@ OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(send 0.18.0)
+(Send for Node.js 0.18.0)
 
 (The MIT License)
 
@@ -10963,7 +10963,7 @@ SOFTWARE
 ---
 
 MIT License
-(binary-extensions v2.2.0)
+(binary-extensions v2.2.0, is-binary-path v2.1.0)
 
 MIT License
 
@@ -12415,7 +12415,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@angular-devkit/architect 0.1202.17, @angular-devkit/build-angular 12.2.17, @angular-devkit/build-webpack 0.1202.17, @angular/animations 12.2.16, @angular/cli 12.2.17, @angular/common 12.2.16, @angular/compiler 12.2.16, @angular/compiler 9.0.0, @angular/compiler-cli 12.2.16, @angular/core 12.2.16, @angular/core 9.0.0, @angular/forms 12.2.16, @angular/localize 12.2.16, @angular/platform-browser 12.2.16, @angular/platform-browser-dynamic 12.2.16, @angular/router 12.2.16, @babel/helper-compilation-targets 7.16.7, @babel/helper-get-function-arity 7.16.7, @babel/helper-wrap-function 7.16.8, @babel/helpers 7.17.2, @babel/plugin-proposal-json-strings 7.16.7, @babel/plugin-proposal-nullish-coalescing-operator 7.16.7, @babel/plugin-transform-arrow-functions 7.16.7, @babel/plugin-transform-function-name 7.16.7, @babel/plugin-transform-literals 7.16.7, @babel/plugin-transform-named-capturing-groups-regex 7.16.8, @babel/plugin-transform-property-literals 7.16.7, @babel/plugin-transform-shorthand-properties 7.16.7, @babel/plugin-transform-sticky-regex 7.16.7, @babel/plugin-transform-template-literals 7.16.7, @babel/plugin-transform-unicode-regex 7.16.7, @ngtools/webpack 12.2.17, @octokit/auth-token 2.5.0, @octokit/core 3.5.1, @octokit/plugin-paginate-rest 2.17.0, @octokit/plugin-rest-endpoint-methods 5.13.0, @octokit/request-error 2.1.0, @octokit/types 6.34.0, @tootallnate/once 1.1.2, @types/eslint 8.4.1, @types/jasmine 3.10.3, @types/q 0.0.32, acorn-import-assertions 1.8.0, angular-cli 0.1202.17, angular-cli 12.2.17, Async 2.6.4, body-parser 1.20.0, brpaz/echozap v1.1.2, Clone 1.0.4, codelyzer 6.0.2, colord 2.9.2, cssauron 1.4.0, cssnano 5.1.0, dom-serialize 2.2.1, einaros/ws 8.6.0, enhanced-resolve 5.9.2, err-code 2.0.3, es6-promisify 5.0.0, esbuild 0.13.8, esbuild-darwin-64 0.13.8, esbuild-darwin-arm64 0.13.8, esbuild-linux-64 0.13.8, esbuild-linux-mips64le 0.13.8, esbuild-linux-ppc64le 0.13.8, esbuild-wasm 0.13.8, esbuild-windows-32 0.13.8, esbuild-windows-64 0.13.8, esbuild-windows-arm64 0.13.8, eventsource-node 2.0.2, expressjs/express 4.18.1, functions-have-names 1.2.3, Go Testify 1.8.0, go.uber.org/goleak 20210813-snapshot-69116035, https-proxy-agent 5.0.1, jasmine/jasmine 3.99.1, jsbn 0.1.1, lilconfig 2.0.4, nan 2.16.0, niemeyer/pretty 20200227-snapshot-a10e7cae, Node Cookie Parser 0.5.0, node-deep-equal 1.1.1, node-mkdirp 0.5.6, node-xml2js 0.4.23, object-inspect 1.12.2, onsi/ginkgo 20160409-snapshot-2c2e9bb4, postcss-discard-comments 5.1.0, postcss-normalize-display-values 5.1.0, postcss-normalize-string 5.1.0, postcss-normalize-url 5.1.0, postcss-reduce-initial 5.1.0, postcss-svgo 5.1.0, regexp.prototype.flags 1.4.3, semver-dsl 1.0.1, sindresorhus/globby 11.1.0, sockjs-client-node 1.6.1, tr46 0.0.3, wcwidth 1.0.1, xeodou/go-sqlcipher 20200727-snapshot-d681773e, yaml for Go v3.0.1)
+(@angular-devkit/architect 0.1202.17, @angular-devkit/build-angular 12.2.17, @angular-devkit/build-webpack 0.1202.17, @angular/animations 12.2.16, @angular/cli 12.2.17, @angular/common 12.2.16, @angular/compiler 12.2.16, @angular/compiler 9.0.0, @angular/compiler-cli 12.2.16, @angular/core 12.2.16, @angular/core 9.0.0, @angular/forms 12.2.16, @angular/localize 12.2.16, @angular/platform-browser 12.2.16, @angular/platform-browser-dynamic 12.2.16, @angular/router 12.2.16, @babel/helper-compilation-targets 7.16.7, @babel/helper-get-function-arity 7.16.7, @babel/helper-wrap-function 7.16.8, @babel/helpers 7.17.2, @babel/plugin-proposal-json-strings 7.16.7, @babel/plugin-proposal-nullish-coalescing-operator 7.16.7, @babel/plugin-transform-arrow-functions 7.16.7, @babel/plugin-transform-function-name 7.16.7, @babel/plugin-transform-literals 7.16.7, @babel/plugin-transform-named-capturing-groups-regex 7.16.8, @babel/plugin-transform-property-literals 7.16.7, @babel/plugin-transform-shorthand-properties 7.16.7, @babel/plugin-transform-sticky-regex 7.16.7, @babel/plugin-transform-template-literals 7.16.7, @babel/plugin-transform-unicode-regex 7.16.7, @ngtools/webpack 12.2.17, @octokit/auth-token 2.5.0, @octokit/core 3.5.1, @octokit/plugin-paginate-rest 2.17.0, @octokit/plugin-rest-endpoint-methods 5.13.0, @octokit/request-error 2.1.0, @octokit/types 6.34.0, @tootallnate/once 1.1.2, @types/eslint 8.4.1, @types/jasmine 3.10.3, @types/q 0.0.32, acorn-import-assertions 1.8.0, angular-cli 0.1202.17, angular-cli 12.2.17, ast-types-flow 0.0.7, Async 2.6.4, body-parser 1.20.0, brpaz/echozap v1.1.2, Clone 1.0.4, codelyzer 6.0.2, colord 2.9.2, cssauron 1.4.0, cssnano 5.1.0, dom-serialize 2.2.1, einaros/ws 8.6.0, enhanced-resolve 5.9.2, err-code 2.0.3, es6-promisify 5.0.0, esbuild 0.13.8, esbuild-darwin-64 0.13.8, esbuild-darwin-arm64 0.13.8, esbuild-linux-64 0.13.8, esbuild-linux-mips64le 0.13.8, esbuild-linux-ppc64le 0.13.8, esbuild-wasm 0.13.8, esbuild-windows-32 0.13.8, esbuild-windows-64 0.13.8, esbuild-windows-arm64 0.13.8, eventsource-node 2.0.2, expressjs/express 4.18.1, functions-have-names 1.2.3, Go Testify 1.8.0, go.uber.org/goleak 20210813-snapshot-69116035, https-proxy-agent 5.0.1, jasmine/jasmine 3.99.1, jsbn 0.1.1, lilconfig 2.0.4, nan 2.16.0, niemeyer/pretty 20200227-snapshot-a10e7cae, Node Cookie Parser 0.5.0, node-deep-equal 1.1.1, node-mkdirp 0.5.6, node-xml2js 0.4.23, object-inspect 1.12.2, onsi/ginkgo 20160409-snapshot-2c2e9bb4, postcss-discard-comments 5.1.0, postcss-normalize-display-values 5.1.0, postcss-normalize-string 5.1.0, postcss-normalize-url 5.1.0, postcss-reduce-initial 5.1.0, postcss-svgo 5.1.0, regexp.prototype.flags 1.4.3, semver-dsl 1.0.1, sindresorhus/globby 11.1.0, sockjs-client-node 1.6.1, tr46 0.0.3, wcwidth 1.0.1, xeodou/go-sqlcipher 20200727-snapshot-d681773e, yaml for Go v3.0.1)
 
 The MIT License
 ===============
@@ -14135,7 +14135,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(braces 2.3.2, clone-deep 4.0.1, micromatch 3.1.10, normalize-path 3.0.0)
+(clone-deep 4.0.1, micromatch 3.1.10, micromatch/braces 2.3.2, normalize-path 3.0.0)
 
 The MIT License (MIT)
 
@@ -14189,7 +14189,7 @@ SOFTWARE
 ---
 
 MIT License
-(fill-range 7.0.1, micromatch 4.0.4)
+(fill-range 7.0.1, is-number 7.0.0, micromatch 4.0.4)
 
 The MIT License (MIT)
 
@@ -15166,6 +15166,33 @@ The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(async-each 1.0.3)
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Paul Miller [(paulmillr.com)](http://paulmillr.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
@@ -17209,7 +17236,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(parseurl 1.3.3)
+(pillarjs/parseurl 1.3.3)
 
 Upstream-Contact: https://github.com/expressjs/parseurl/issues
 Source: https://github.com/expressjs/parseurl
@@ -17436,7 +17463,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -17530,44 +17557,6 @@ License: Expat
 
 Files: debian/*
 Copyright: 2016 Sruthi Chandran <srud@disroot.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(is-number 7.0.0)
-
-Upstream-Contact: https://github.com/jonschlinkert/is-number/issues
-Source: https://github.com/jonschlinkert/is-number
-
-Files: *
-Copyright: 2016 Jon Schlinkert (https://github.com/jonschlinkert)
-License: Expat
-
-Files: debian/*
-Copyright: 2016 Pirate Praveen <praveen@debian.org>
 License: Expat
 
 License: Expat
@@ -17726,44 +17715,6 @@ License: Expat
 Files: debian/*
 Copyright: 2018, Pirate Praveen <praveen@debian.org>
  2019, Yadd <yadd@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(async-each 1.0.3)
-
-Upstream-Contact: https://github.com/paulmillr/async-each/issues
-Source: https://github.com/paulmillr/async-each/
-
-Files: *
-Copyright: 2017 Paul Miller (http://paulmillr.com/)
-License: Expat
-
-Files: debian/*
-Copyright: 2017 Nikhil Gawande <nikhilgawande21@gmail.com>
 License: Expat
 
 License: Expat
@@ -18028,44 +17979,6 @@ License: Expat
 
 Files: debian/*
 Copyright: 2017 Sanoob Pattanath <hello@pattanath.com>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(is-binary-path v2.1.0)
-
-Upstream-Contact: https://github.com/sindresorhus/is-binary-path/issues
-Source: https://github.com/sindresorhus/is-binary-path#readme
-
-Files: *
-Copyright: 2017 Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-License: Expat
-
-Files: debian/*
-Copyright: 2017 Pirate Praveen <praveen@debian.org>
 License: Expat
 
 License: Expat
