@@ -17,10 +17,10 @@ cespare/xxhash v2.1.2 : MIT License
 client-go v0.25.4 : Apache License 2.0
 client_golang 1.14.0 : Apache License 2.0
 couchbase-gocb v2.6.0 : Apache License 2.0
-couchbaselabs/gocouchbaseio v10.2.0 : 
+couchbase/gocbcore v10.2.0 : Apache License 2.0
 diskv v2.0.1 : MIT License
 dnaeon/go-vcr v1.1.0 : BSD 2-clause "Simplified" License
-dsnet/compress v0.0.1 : Mozilla Public License 2.0
+dsnet/compress v0.0.1 : BSD 3-clause "New" or "Revised" License
 evanphx/json-patch v5.6.0 : BSD 3-clause "New" or "Revised" License
 fsnotify-fsnotify v1.6.0 : BSD 3-clause "New" or "Revised" License
 github.com/go-logr/zapr v1.2.3 : Apache License 2.0
@@ -85,6 +85,7 @@ jmespath-go-jmespath v0.4.0 : Apache License 2.0
 josharian/intern v1.0.0 : MIT License
 jsoniter-go v1.1.12 : MIT License
 jsonreference v0.20.0 : Apache License 2.0
+k3s-io/klog v2.80.1-k3s1 : Apache License 2.0
 k8s.io/cli-runtime v0.25.4 : Apache License 2.0
 k8s.io/kube-aggregator v0.25.4 : Apache License 2.0
 klauspost-compress v1.15.12 : BSD 3-clause "New" or "Revised" License
@@ -115,7 +116,7 @@ pmezard-go-difflib 1.0.0 : BSD 3-clause "New" or "Revised" License
 prometheus-client_model v0.3.0 : Apache License 2.0
 prometheus-common v0.37.0 : Apache License 2.0
 prometheus-procfs 0.8.0 : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
-python-certifi 2022.9.24 : Mozilla Public License 2.0
+python-certifi 2022.12.7 : Mozilla Public License 2.0
 PyYAML 5.4.1 : MIT License
 sergi/go-diff v1.1.0 : (MIT License AND Apache License 2.0)
 sigs.k8s.io/controller-runtime v0.13.1 : Apache License 2.0
@@ -132,7 +133,7 @@ yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
 Licenses: 
 
 Apache License 2.0
-(AWS SDK for Go v1.44.135, btree v1.1.2, census-instrumentation/opencensus-go v0.24.0, client-go v0.25.4, client_golang 1.14.0, couchbase-gocb v2.6.0, github.com/go-logr/zapr v1.2.3, github.com/moby/spdystream v0.2.0, go-autorest v14.2.0, go-logr/logr v1.2.3, go-openapi/errors v0.20.3, go-openapi/jsonpointer v0.19.5, godebug v1.1.0, golang/appengine v1.6.7, golang/glog v1.0.0, gomodules/jsonpatch v2.2.0, Google Cloud Client Libraries for Go 20200915-snapshot, Google Cloud Client Libraries for Go 20210117-snapshot, Google Cloud Client Libraries for Go v0.106.0, google-gofuzz v1.2.0, google-shlex 20191202-snapshot-e7afc7fb, google/gnostic v0.6.9, googleapis/enterprise-certificate-proxy v0.2.0, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.50.1, inconshreveable/mousetrap v1.0.1, jmespath-go-jmespath v0.4.0, jsonreference v0.20.0, k8s.io/cli-runtime v0.25.4, k8s.io/kube-aggregator v0.25.4, kubernetes/api v0.25.4, kubernetes/apiextensions-apiserver v0.25.4, kubernetes/apimachinery v0.25.4, kubernetes/component-base v0.25.4, martian v3.2.1, matttproud-golang_protobuf_extensions v1.0.4, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, prometheus-client_model v0.3.0, prometheus-common v0.37.0, prometheus-procfs 0.8.0, sergi/go-diff v1.1.0, sigs.k8s.io/controller-runtime v0.13.1, sigs.k8s.io/json 20220713-snapshot-f223a00b, sigs.k8s.io/yaml v1.3.0, swag v0.22.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
+(AWS SDK for Go v1.44.135, btree v1.1.2, census-instrumentation/opencensus-go v0.24.0, client-go v0.25.4, client_golang 1.14.0, couchbase-gocb v2.6.0, couchbase/gocbcore v10.2.0, github.com/go-logr/zapr v1.2.3, github.com/moby/spdystream v0.2.0, go-autorest v14.2.0, go-logr/logr v1.2.3, go-openapi/errors v0.20.3, go-openapi/jsonpointer v0.19.5, godebug v1.1.0, golang/appengine v1.6.7, golang/glog v1.0.0, gomodules/jsonpatch v2.2.0, Google Cloud Client Libraries for Go 20200915-snapshot, Google Cloud Client Libraries for Go 20210117-snapshot, Google Cloud Client Libraries for Go v0.106.0, google-gofuzz v1.2.0, google-shlex 20191202-snapshot-e7afc7fb, google/gnostic v0.6.9, googleapis/enterprise-certificate-proxy v0.2.0, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.50.1, inconshreveable/mousetrap v1.0.1, jmespath-go-jmespath v0.4.0, jsonreference v0.20.0, k3s-io/klog v2.80.1-k3s1, k8s.io/cli-runtime v0.25.4, k8s.io/kube-aggregator v0.25.4, kubernetes/api v0.25.4, kubernetes/apiextensions-apiserver v0.25.4, kubernetes/apimachinery v0.25.4, kubernetes/component-base v0.25.4, martian v3.2.1, matttproud-golang_protobuf_extensions v1.0.4, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, prometheus-client_model v0.3.0, prometheus-common v0.37.0, prometheus-procfs 0.8.0, sergi/go-diff v1.1.0, sigs.k8s.io/controller-runtime v0.13.1, sigs.k8s.io/json 20220713-snapshot-f223a00b, sigs.k8s.io/yaml v1.3.0, swag v0.22.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -667,7 +668,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(fsnotify-fsnotify v1.6.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.18.7, golang.org/x/crypto v0.2.0, golang.org/x/net v0.2.0, golang.org/x/oauth2 v0.2.0, golang.org/x/sys v0.2.0, golang.org/x/term v0.2.0, golang.org/x/time v0.2.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.4.0, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.9, google/starlark-go 20221028-snapshot-acb66ad5, googleapis/gax-go v2.7.0, goproxy 20180725-snapshot-947c36da, klauspost-compress v1.15.12, mergo v0.3.13, pierrec-lz4 v4.1.17, prometheus-procfs 0.8.0, sigs.k8s.io/json 20220713-snapshot-f223a00b)
+(dsnet/compress v0.0.1, fsnotify-fsnotify v1.6.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.18.7, golang.org/x/crypto v0.2.0, golang.org/x/net v0.2.0, golang.org/x/oauth2 v0.2.0, golang.org/x/sys v0.2.0, golang.org/x/term v0.2.0, golang.org/x/time v0.2.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.4.0, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.9, google/starlark-go 20221028-snapshot-acb66ad5, googleapis/gax-go v2.7.0, goproxy 20180725-snapshot-947c36da, klauspost-compress v1.15.12, mergo v0.3.13, pierrec-lz4 v4.1.17, prometheus-procfs 0.8.0, sigs.k8s.io/json 20220713-snapshot-f223a00b)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1481,7 +1482,7 @@ THE SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(dsnet/compress v0.0.1, python-certifi 2022.9.24)
+(python-certifi 2022.12.7)
 
 Mozilla Public License
 Version 2.0
