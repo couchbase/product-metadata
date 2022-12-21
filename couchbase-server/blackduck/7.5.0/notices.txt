@@ -170,7 +170,6 @@ blevesearch-segment v0.9.0 : Apache License 2.0
 blevesearch/bleve-mapping-ui v0.5.1 : Apache License 2.0
 blevesearch/geo v0.1.15 : Apache License 2.0
 blevesearch/geo v0.1.16 : Apache License 2.0
-blevesearch/mmap-go v1.0.2 : BSD 3-clause "New" or "Revised" License
 blevesearch/mmap-go v1.0.4 : BSD 3-clause "New" or "Revised" License
 blevesearch/scorch_segment_api v2.1.4 : Apache License 2.0
 blevesearch/sear v0.1.0 : Apache License 2.0
@@ -417,7 +416,6 @@ golang.org/x/net 20180223-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180312-snapshot-a337091b : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20220728-snapshot-c7608f3a : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 20220907-snapshot-f2134210 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys 20181221-snapshot-b4a75ba8 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20211112-snapshot-0c823b97 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20220114-snapshot-da31bd32 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20220926-snapshot-8cfa568d : BSD 3-clause "New" or "Revised" License
@@ -1854,36 +1852,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(blevesearch/mmap-go v1.0.2)
-
-Copyright (c) 2011, Evan Shaw <edsrzf@gmail.com>
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright
-      notice, this list of conditions and the following disclaimer in the
-      documentation and/or other materials provided with the distribution.
-    * Neither the name of the copyright holder nor the
-      names of its contributors may be used to endorse or promote products
-      derived from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER> BE LIABLE FOR ANY
-DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
 (python-snappy 0.6.0)
 
 Copyright (c) 2011-2017, Andres Moreira <andres@andresmoreira.com>
@@ -2649,7 +2617,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(_libgcc_mutex 0.1, bits-and-blooms/bitset v1.2.2, blackfriday v1.5.2, blevesearch/mmap-go v1.0.4, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, edsrzf/mmap-go 1.1.0, fsnotify-fsnotify 1.5.4, GAX (Google Api eXtensions) 0.103.2, GAX (Google Api eXtensions) 2.18.2, GAX (Google Api eXtensions) 2.7.1, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.18.7, Go programming language 1.19.2, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20201211-snapshot-7117e9ea, go-zookeeper/zk v1.0.3, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/crypto 20220924-snapshot-eccd6366, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/net 20220728-snapshot-c7608f3a, golang.org/x/oauth2 20220907-snapshot-f2134210, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20211112-snapshot-0c823b97, golang.org/x/sys 20220114-snapshot-da31bd32, golang.org/x/sys 20220926-snapshot-8cfa568d, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/term 20220916-snapshot-7a66f970, golang.org/x/tools v0.1.12, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.4.0, Google API Common 2.2.1, Google Auth Library for Java 1.7.0, Google V8 JavaScript Engine 10.7.21, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.8, google/go-cmp v0.5.9, googleapis/gax-go v2.5.1, gopsutil v3.22.8, HdrHistogram_c 0.9.2, jemalloc 5.3.0, jsdiff 4.0.2, jsdiff v5.0.0, mattn-go-colorable 0.1.13, mattn-go-isatty 0.0.16, miekg/dns v1.1.50, PCRE 8.44, prometheus-procfs 0.8.0, protobuf-java 3.21.1, Protocol Buffer Java Util Package 3.21.1, pycryptodome 3.10.4, PySocks 1.7.1, re2j 1.1, sigs.k8s.io/json 20220713-snapshot-f223a00b, Stax2 API 4.2.1, tklauser/go-sysconf 0.3.10)
+(_libgcc_mutex 0.1, bits-and-blooms/bitset v1.2.2, blackfriday v1.5.2, blevesearch/mmap-go v1.0.4, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, edsrzf/mmap-go 1.1.0, fsnotify-fsnotify 1.5.4, GAX (Google Api eXtensions) 0.103.2, GAX (Google Api eXtensions) 2.18.2, GAX (Google Api eXtensions) 2.7.1, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.18.7, Go programming language 1.19.2, go-zookeeper 20150410-snapshot-fa6674ab, go-zookeeper 20201211-snapshot-7117e9ea, go-zookeeper/zk v1.0.3, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/crypto 20220924-snapshot-eccd6366, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/net 20220728-snapshot-c7608f3a, golang.org/x/oauth2 20220907-snapshot-f2134210, golang.org/x/sys 20211112-snapshot-0c823b97, golang.org/x/sys 20220114-snapshot-da31bd32, golang.org/x/sys 20220926-snapshot-8cfa568d, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/term 20220916-snapshot-7a66f970, golang.org/x/tools v0.1.12, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.4.0, Google API Common 2.2.1, Google Auth Library for Java 1.7.0, Google V8 JavaScript Engine 10.7.21, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.8, google/go-cmp v0.5.9, googleapis/gax-go v2.5.1, gopsutil v3.22.8, HdrHistogram_c 0.9.2, jemalloc 5.3.0, jsdiff 4.0.2, jsdiff v5.0.0, mattn-go-colorable 0.1.13, mattn-go-isatty 0.0.16, miekg/dns v1.1.50, PCRE 8.44, prometheus-procfs 0.8.0, protobuf-java 3.21.1, Protocol Buffer Java Util Package 3.21.1, pycryptodome 3.10.4, PySocks 1.7.1, re2j 1.1, sigs.k8s.io/json 20220713-snapshot-f223a00b, Stax2 API 4.2.1, tklauser/go-sysconf 0.3.10)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
