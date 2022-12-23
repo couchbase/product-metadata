@@ -29,7 +29,7 @@ github.com/golang-jwt/jwt v4.4.2 : MIT License
 github.com/moby/spdystream v0.2.0 : Apache License 2.0
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61 : BSD 3-clause "New" or "Revised" License
 Go Logrus v1.9.0 : MIT License
-Go programming language 1.18.7 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
+Go programming language 1.19.4 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.8.1 : MIT License
 go-autorest v14.2.0 : Apache License 2.0
 go-check-check 20201130-snapshot-10cb9826 : BSD 2-clause "Simplified" License
@@ -52,16 +52,16 @@ golang protobuf v1.5.2 : BSD 3-clause "New" or "Revised" License
 golang-github-ghodss-yaml-dev 1.0.0 : MIT License
 golang-github-spf13-pflag-dev v1.0.5 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto v0.2.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/net v0.2.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto v0.4.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/net v0.3.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 v0.2.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.2.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/term v0.2.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.3.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/term v0.3.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.2.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20220907-snapshot-04be3eba : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.7 : Apache License 2.0
 golang/glog v1.0.0 : Apache License 2.0
-golang/text v0.4.0 : BSD 3-clause "New" or "Revised" License
+golang/text v0.5.0 : BSD 3-clause "New" or "Revised" License
 gomega v1.20.1 : MIT License
 gomodules/jsonpatch v2.2.0 : Apache License 2.0
 Google Cloud Client Libraries for Go 20200915-snapshot : Apache License 2.0
@@ -668,7 +668,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(dsnet/compress v0.0.1, fsnotify-fsnotify v1.6.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.18.7, golang.org/x/crypto v0.2.0, golang.org/x/net v0.2.0, golang.org/x/oauth2 v0.2.0, golang.org/x/sys v0.2.0, golang.org/x/term v0.2.0, golang.org/x/time v0.2.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.4.0, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.9, google/starlark-go 20221028-snapshot-acb66ad5, googleapis/gax-go v2.7.0, goproxy 20180725-snapshot-947c36da, klauspost-compress v1.15.12, mergo v0.3.13, pierrec-lz4 v4.1.17, prometheus-procfs 0.8.0, sigs.k8s.io/json 20220713-snapshot-f223a00b)
+(dsnet/compress v0.0.1, fsnotify-fsnotify v1.6.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.19.4, golang.org/x/crypto v0.4.0, golang.org/x/net v0.3.0, golang.org/x/oauth2 v0.2.0, golang.org/x/sys v0.3.0, golang.org/x/term v0.3.0, golang.org/x/time v0.2.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.5.0, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.9, google/starlark-go 20221028-snapshot-acb66ad5, googleapis/gax-go v2.7.0, goproxy 20180725-snapshot-947c36da, klauspost-compress v1.15.12, mergo v0.3.13, pierrec-lz4 v4.1.17, prometheus-procfs 0.8.0, sigs.k8s.io/json 20220713-snapshot-f223a00b)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1892,11 +1892,4 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
   This Source Code Form is "Incompatible With Secondary Licenses", as defined
   by the Mozilla Public License, v. 2.0.
-
----
-
-Public Domain
-(Go programming language 1.18.7)
-
-Public domain code is not subject to any license.
 
