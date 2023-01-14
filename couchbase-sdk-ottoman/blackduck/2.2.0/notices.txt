@@ -977,8 +977,6 @@ ljharb/object.assign 4.1.2 : MIT License
 load-json-file 4.0.0 : MIT License
 load-script 1.0.0 : MIT License
 loader-runner 2.4.0 : MIT License
-loader-utils 0.2.17 : MIT License
-loader-utils 1.4.0 : MIT License
 locate-path 2.0.0 : MIT License
 locate-path 3.0.0 : MIT License
 locate-path v5.0.0 : MIT License
@@ -1700,6 +1698,8 @@ webpack-dev-server 3.11.2 : MIT License
 webpack-log v2.0.0 : MIT License
 webpack-merge 4.2.2 : MIT License
 webpack-sources 1.4.3 : MIT License
+webpack/loader-utils 0.2.17 : MIT License
+webpack/loader-utils 1.4.0 : MIT License
 webpack/webpack-dev-middleware 3.7.3 : MIT License
 webpackbar 3.2.0 : MIT License
 websocket-driver-node 0.7.4 : Apache License 2.0
@@ -6787,7 +6787,7 @@ OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHE
 ---
 
 MIT License
-(loader-utils 0.2.17)
+(webpack/loader-utils 0.2.17)
 
 (The MIT License)
 
@@ -10365,7 +10365,7 @@ SOFTWARE
 ---
 
 MIT License
-(cache-loader 3.0.1, copy-webpack-plugin 5.1.2, css-loader 2.1.1, enhanced-resolve 4.5.0, file-loader 3.0.1, jantimon-html-webpack-plugin 3.2.0, loader-utils 1.4.0, memory-fs 0.5.0, mini-css-extract-plugin 0.6.0, schema-utils v2.7.1, terser-webpack-plugin 1.4.5, url-loader 1.1.2, vue-style-loader v4.1.3, watchpack 2.0.1, watchpack v1.7.5, Webpack v4.46.0, webpack-dev-server 3.11.2, webpack/webpack-dev-middleware 3.7.3, webpackbar 3.2.0)
+(cache-loader 3.0.1, copy-webpack-plugin 5.1.2, css-loader 2.1.1, enhanced-resolve 4.5.0, file-loader 3.0.1, jantimon-html-webpack-plugin 3.2.0, memory-fs 0.5.0, mini-css-extract-plugin 0.6.0, schema-utils v2.7.1, terser-webpack-plugin 1.4.5, url-loader 1.1.2, vue-style-loader v4.1.3, watchpack 2.0.1, watchpack v1.7.5, Webpack v4.46.0, webpack-dev-server 3.11.2, webpack/loader-utils 1.4.0, webpack/webpack-dev-middleware 3.7.3, webpackbar 3.2.0)
 
 Copyright JS Foundation and other contributors
 
