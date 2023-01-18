@@ -6,6 +6,8 @@ Copyright 2023
 Components: 
 
 AWS SDK for Go v1.44.77 : Apache License 2.0
+Azure/azure-sdk-for-go sdk/internal/v1.0.0 : MIT License
+Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1 : MIT License
 beorn7-perks v1.0.1 : MIT License
 bhoriuchi/graphql-go-tools v1.0.0 : MIT License
 bluesuncorp/go-validate-yourself v10.2.0 : MIT License
@@ -20,7 +22,6 @@ couchbase-go-couchbase v0.1.1 : MIT License
 couchbase-gocb v1.6.7 : Apache License 2.0
 couchbase-gomemcached v0.1.4 : MIT License
 couchbase-goutils v0.1.2 : Apache License 2.0
-couchbase-sg-bucket 20230105-snapshot-06b0d8a5 : Business Source License 1.1
 couchbase/gocbcore v10.1.6 : Apache License 2.0
 couchbase/gocbcore v7.1.18 : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.4 : Apache License 2.0
@@ -83,7 +84,7 @@ samuel/go-metrics 20150819-snapshot-7ccf3e0e : BSD 3-clause "New" or "Revised" L
 sergi/go-diff v1.2.0 : (MIT License AND Apache License 2.0)
 stretchr/objx v0.4.0 : MIT License
 sync_gateway 3.0.3 : Apache License 2.0
-ugorji's go v1.1.7 : MIT License
+ugorji's go codec/v1.1.7 : MIT License
 wheelcomplex/gosigar v0.14.2 : Apache License 2.0
 yaml for Go v2.4.0 : Apache License 2.0
 yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
@@ -709,7 +710,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 Business Source License 1.1
-(couchbase-clog v0.1.0, couchbase-sg-bucket 20230105-snapshot-06b0d8a5)
+(couchbase-clog v0.1.0)
 
 Business Source License 1.1
 ===========================
@@ -1135,7 +1136,7 @@ SOFTWARE
 ---
 
 MIT License
-(bhoriuchi/graphql-go-tools v1.0.0, github.com/yusufpapurcu/wmi v1.2.2, Go Testify 1.8.0, gobwas/pool v0.2.0, robertkrimen/otto 20211024-snapshot-b87d35c0, yaml for Go v3.0.1)
+(Azure/azure-sdk-for-go sdk/internal/v1.0.0, Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1, bhoriuchi/graphql-go-tools v1.0.0, github.com/yusufpapurcu/wmi v1.2.2, Go Testify 1.8.0, gobwas/pool v0.2.0, robertkrimen/otto 20211024-snapshot-b87d35c0, yaml for Go v3.0.1)
 
 The MIT License
 ===============
@@ -1162,7 +1163,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 MIT License
-(ugorji's go v1.1.7)
+(ugorji's go codec/v1.1.7)
 
 The MIT License (MIT)
 
