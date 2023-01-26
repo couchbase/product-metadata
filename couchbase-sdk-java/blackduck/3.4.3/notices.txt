@@ -9,7 +9,7 @@ com.google.api.grpc:proto-google-common-protos 2.9.0 : Apache License 2.0
 google-gson 2.9.0 : Apache License 2.0
 google-guava 31.1-android : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1 : Apache License 2.0
-HdrHistogram 2.1.8 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
+HdrHistogram 2.1.12 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
 io.grpc:grpc-api 1.51.0 : Apache License 2.0
 io.grpc:grpc-context 1.51.0 : Apache License 2.0
 io.grpc:grpc-core 1.51.0 : Apache License 2.0
@@ -260,12 +260,12 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 2-clause "Simplified" License
-(HdrHistogram 2.1.8)
+(HdrHistogram 2.1.12)
 
 -----------------------------------------------------------------------------
 ** Beginning of "BSD 2-Clause License" text. **
 
- Copyright (c) 2012, 2013, 2014 Gil Tene
+ Copyright (c) 2012, 2013, 2014, 2015, 2016 Gil Tene
  Copyright (c) 2014 Michael Barker
  Copyright (c) 2014 Matt Warren
  All rights reserved.
@@ -329,7 +329,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 Creative Commons Zero v1.0 Universal
-(HdrHistogram 2.1.8, LatencyUtils 2.0.3, reactive-streams 1.0.4)
+(HdrHistogram 2.1.12, LatencyUtils 2.0.3, reactive-streams 1.0.4)
 
 Creative Commons CC0 1.0 Universal
 ==================================
@@ -481,7 +481,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 Public Domain
-(HdrHistogram 2.1.8)
+(HdrHistogram 2.1.12)
 
 Public domain code is not subject to any license.
 
