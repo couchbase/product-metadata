@@ -1,18 +1,20 @@
-{# Map release names to the set of expected platforms. Each entry has the form #}
-{#     platform [ : architecture ] #}
-{# If :architecture is empty, the filename will use the default arch for the #}
-{# platform's packaging style (see below). #}
+{# Map version numbers to the set of expected platforms. #}
+{# If the requested version number isn't exactly one of these, it will use #}
+{# the set of platforms for the closest lower version number. eg., "3.1.1" #}
+{# will use the set of platforms for (3, 1, 0). #}
 {##}
 {# !!! If you add an all-new platform here, be sure to add it to the filebits_for map as well !!! #}
 {##}
 {%
   set archive_platforms_for = {
-    (3, 0, 0):   [ "android", "debian10-x86_64", "debian9-x86_64", "ios", "macos", "raspbian9", "raspios10-arm64", "raspios10-armhf", "ubuntu20.04-arm64", "ubuntu20.04-armhf", "ubuntu20.04-x86_64", "windows-x86_64" ]
+    (3, 0, 0):   [ "android", "debian10-x86_64", "debian9-x86_64", "ios", "macos", "raspbian9", "raspios10-arm64", "raspios10-armhf", "ubuntu20.04-arm64", "ubuntu20.04-armhf", "ubuntu20.04-x86_64", "windows-x86_64" ],
+    (3, 1, 0):   [ "android", "ios", "linux-amd64", "linux-arm64", "linux-armhf", "macos", "windows-x86_64" ]
   }
 %}
 {%
   set pkg_platforms_for = {
-     (3, 0, 0):  [ "debian10_amd64", "debian10_arm64", "debian10_armhf", "debian9_amd64", "debian9_armhf", "raspbian9_armhf", "raspios10_arm64", "raspios10_armhf", "ubuntu20.04_arm64", "ubuntu20.04_armhf", "ubuntu20.04_amd64" ]
+     (3, 0, 0):  [ "debian10_amd64", "debian10_arm64", "debian10_armhf", "debian9_amd64", "debian9_armhf", "raspbian9_armhf", "raspios10_arm64", "raspios10_armhf", "ubuntu20.04_arm64", "ubuntu20.04_armhf", "ubuntu20.04_amd64" ],
+     (3, 1, 0):  [ "debian11_amd64", "debian11_arm64", "debian10_amd64", "debian10_arm64", "debian10_armhf", "debian11_armhf", "debian9_amd64", "debian9_armhf", "ubuntu20.04_arm64", "ubuntu20.04_armhf", "ubuntu20.04_amd64", "ubuntu22.04_arm64", "ubuntu22.04_armhf", "ubuntu22.04_amd64" ]
   }
 %}
 {##}
@@ -46,9 +48,12 @@
     "android": android_bits,
     "debian9": deb_bits,
     "debian10": deb_bits,
+    "debian11": deb_bits,
+    "linux": deb_bits,
     "raspbian9": deb_bits,
     "raspios10": deb_bits,
     "ubuntu20.04": deb_bits,
+    "ubuntu22.04": deb_bits,
     "macos": apple_bits,
     "ios": apple_bits,
     "windows": win_bits
@@ -67,10 +72,12 @@ filenames:
 {%      set ns.closest_release = entry            %}
 {%    endif                                       %}
 {% endfor                                        %}
+  - {{ ns.closest_release }}
 {% for platform_entry in archive_platforms_for[ns.closest_release]   %}
 {%   set bits = filebits_for[platform_entry.split('-')[0]]           %}
 {%    for edition in [ "community", "enterprise" ] %}
   - {{ product }}-{{ edition }}-{{ version }}-{{ build_num }}-{{ platform_entry }}.{{ bits["ext"] }}
+  - {{ product }}-{{ edition }}-{{ version }}-{{ build_num }}-{{ platform_entry }}-symbols.{{ bits["ext"] }}
 {%   endfor %}
 {% endfor %}
 

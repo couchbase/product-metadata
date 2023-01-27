@@ -1,5 +1,11 @@
 {
   "os_versions": {
+    "jammy": {
+      "distro": "ubuntu",
+      "version": "22.04",
+      "full": "ubuntu22.04",
+      "platforms": "amd64 arm64 armhf"
+    },
     "focal": {
       "distro": "ubuntu",
       "version": "20.04",
@@ -30,6 +36,12 @@
       "full": "debian10",
       "platforms": "armhf arm64 amd64"
     },
+    "bullseye": {
+      "distro": "debian",
+      "version": "11.1",
+      "full": "debian11",
+      "platforms": "armhf arm64 amd64"
+    },
     "trusty": {
       "distro": "ubuntu",
       "version": "14.04",
@@ -47,12 +59,6 @@
       "version": "18.04",
       "full": "ubuntu18.04",
       "platforms": ""
-    },
-    "focal": {
-      "distro": "ubuntu",
-      "version": "20.04",
-      "full": "ubuntu20.04",
-      "platforms": "amd64 arm64 armhf"
     }
   },
   "distro_info": {
