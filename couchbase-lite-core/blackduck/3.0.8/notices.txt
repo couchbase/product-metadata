@@ -8,11 +8,13 @@ Components:
 com.tagtraum:libz 4.0.0 : zlib License
 geary 0.6.3 : GNU Library General Public License v2 or later
 leetal/ios-cmake 3.1.0 : BSD 3-clause "New" or "Revised" License
+libz-mingw-w64 1.2.13 : zlib License
 mbed TLS 2.25.0 : Apache License 2.0
 mbed TLS 2.28.0 : Apache License 2.0
 SQLiteCpp 2.0.0 : MIT License
 sqlitecpp 2.4.0 : MIT License
 zlib 1.2.12 : zlib License
+zlib 1.2.13 : zlib License
 
 Licenses: 
 
@@ -767,7 +769,7 @@ IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 zlib License
-(com.tagtraum:libz 4.0.0, zlib 1.2.12)
+(com.tagtraum:libz 4.0.0, libz-mingw-w64 1.2.13, zlib 1.2.12, zlib 1.2.13)
 
 The zlib/libpng License
 =======================
