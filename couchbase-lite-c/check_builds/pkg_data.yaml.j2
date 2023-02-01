@@ -8,7 +8,7 @@
 {%
   set archive_platforms_for = {
     (3, 0, 0):   [ "android", "debian10-x86_64", "debian9-x86_64", "ios", "macos", "raspbian9", "raspios10-arm64", "raspios10-armhf", "ubuntu20.04-arm64", "ubuntu20.04-armhf", "ubuntu20.04-x86_64", "windows-x86_64" ],
-    (3, 1, 0):   [ "android", "ios", "linux-amd64", "linux-arm64", "linux-armhf", "macos", "windows-x86_64" ]
+    (3, 1, 0):   [ "android", "ios", "linux-x86_64", "linux-arm64", "linux-armhf", "macos", "windows-x86_64" ]
   }
 %}
 {%
@@ -72,17 +72,18 @@ filenames:
 {%      set ns.closest_release = entry            %}
 {%    endif                                       %}
 {% endfor                                        %}
-  - {{ ns.closest_release }}
 {% for platform_entry in archive_platforms_for[ns.closest_release]   %}
 {%   set bits = filebits_for[platform_entry.split('-')[0]]           %}
-{%    for edition in [ "community", "enterprise" ] %}
+{%    for edition in [ "community", "enterprise" ]                   %}
   - {{ product }}-{{ edition }}-{{ version }}-{{ build_num }}-{{ platform_entry }}.{{ bits["ext"] }}
+{%      if platform_entry.startswith("linux")                        %}
   - {{ product }}-{{ edition }}-{{ version }}-{{ build_num }}-{{ platform_entry }}-symbols.{{ bits["ext"] }}
+{%      endif %}
 {%   endfor %}
 {% endfor %}
 
-{% for platform_entry in pkg_platforms_for[ns.closest_release]    %}
-{%    set bits = filebits_for[platform_entry.split('_')[0]]           %}
+{% for platform_entry in pkg_platforms_for[ns.closest_release]       %}
+{%    set bits = filebits_for[platform_entry.split('_')[0]]          %}
 {%    for edition in [ "community", "dev-community", "enterprise", "dev-enterprise" ] %}
   - libcblite-{{ edition }}_{{ version }}-{{ build_num }}-{{ platform_entry }}.{{ bits["pkg_ext"] }}
 {%    endfor %}
