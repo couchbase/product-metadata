@@ -383,7 +383,6 @@ bonjour-service 1.0.14 : MIT License
 boolbase 1.0.0 : ISC License
 brace-expansion 1.1.11 : MIT License
 brace-expansion 2.0.1 : MIT License
-braces 3.0.2 : MIT License
 browserify/resolve 1.22.1 : MIT License
 browserslist 4.21.4 : MIT License
 bs-logger 0.2.6 : MIT License
@@ -674,8 +673,6 @@ human-signals 1.1.1 : Apache License 2.0
 human-signals 2.1.0 : Apache License 2.0
 human-signals 3.0.1 : Apache License 2.0
 iarna/gauge 1.2.7 : ISC License
-iarna/write-file-atomic 3.0.3 : ISC License
-iarna/write-file-atomic 4.0.2 : ISC License
 iconv-lite v0.4.24 : MIT License
 icss-utils 5.1.0 : ISC License
 ieee754 v1.2.1 : BSD 3-clause "New" or "Revised" License
@@ -773,6 +770,7 @@ JS-YAML. Native JS port of PyYAML. 3.14.1 : MIT License
 JS-YAML. Native JS port of PyYAML. 4.1.0 : MIT License
 jsesc 0.5.0 : MIT License
 jsesc v2.5.2 : MIT License
+JSHTTP's negotiator 0.6.3 : MIT License
 jshttp/content-type 1.0.4 : MIT License
 jshttp/fresh 0.5.2 : MIT License
 jshttp/mime-types 2.1.18 : MIT License
@@ -841,6 +839,7 @@ Merge-Stream 2.0.0 : MIT License
 merge2 1.4.1 : MIT License
 methods 1.1.2 : MIT License
 micromatch 4.0.5 : MIT License
+micromatch/braces 3.0.2 : MIT License
 Microsoft/tslib 1.14.1 : BSD Zero Clause License
 Microsoft/tslib 2.4.1 : BSD Zero Clause License
 mime 1.6.0 : MIT License
@@ -869,7 +868,6 @@ nanoid 3.3.4 : MIT License
 napi-build-utils 1.0.2 : MIT License
 natural-compare 1.4.0 : MIT License
 natural-compare-lite 1.4.0 : MIT License
-Negotiator 0.6.3 : MIT License
 neo-async 2.6.2 : MIT License
 netroy/image-size 1.0.2 : MIT License
 no-case 3.0.4 : MIT License
@@ -956,7 +954,6 @@ parse-numeric-range 1.3.0 : ISC License
 parse5 6.0.1 : MIT License
 parse5 7.0.0 : MIT License
 parse5 7.1.2 : MIT License
-parseurl 1.3.3 : MIT License
 pascal-case 3.1.2 : MIT License
 path-exists 3.0.0 : MIT License
 path-exists 4.0.0 : MIT License
@@ -972,6 +969,7 @@ path-type 4.0.0 : MIT License
 picocolors 1.0.0 : ISC License
 picomatch 2.3.1 : MIT License
 pidtree 0.6.0 : MIT License
+pillarjs/parseurl 1.3.3 : MIT License
 pirates 4.0.5 : MIT License
 pkg-dir 4.2.0 : MIT License
 pkg-up 3.1.0 : MIT License
@@ -1085,6 +1083,7 @@ remark-js 8.0.3 : MIT License
 remark-squeeze-paragraphs 4.0.0 : MIT License
 renderkid 3.0.0 : MIT License
 repeat-string 1.6.1 : MIT License
+request/tunnel-agent 0.6.0 : Apache License 2.0
 require-directory 2.1.1 : MIT License
 require-from-string 2.0.2 : MIT License
 requires-port 1.0.0 : MIT License
@@ -1118,7 +1117,7 @@ section-matter 1.0.0 : MIT License
 select-hose 2.0.0 : MIT License
 selfsigned 2.1.1 : MIT License
 semver-diff 3.1.1 : MIT License
-send 0.18.0 : MIT License
+Send for Node.js 0.18.0 : MIT License
 serialize-javascript 6.0.0 : BSD 3-clause "New" or "Revised" License
 serve-handler 6.1.5 : MIT License
 serve-index 1.9.1 : MIT License
@@ -1133,7 +1132,6 @@ shebang-regex 3.0.0 : MIT License
 shelljs 0.8.5 : BSD 3-clause "New" or "Revised" License
 shiki 0.11.1 : MIT License
 side-channel 1.0.4 : MIT License
-signal-exit 3.0.7 : ISC License
 simple-concat 1.0.1 : MIT License
 simple-get 4.0.1 : MIT License
 sindresorhus/boxen 5.1.2 : MIT License
@@ -1202,6 +1200,7 @@ svg-parser 2.0.4 : MIT License
 svgo 2.8.0 : MIT License
 tapable 1.1.3 : MIT License
 tapable 2.2.1 : MIT License
+tapjs/signal-exit 3.0.7 : ISC License
 tar 4.4.19 : ISC License
 tar-fs v2.1.1 : MIT License
 tar-stream 2.2.0 : MIT License
@@ -1227,7 +1226,6 @@ trim-trailing-lines 1.1.4 : MIT License
 trough 1.0.5 : MIT License
 ts-jest 29.0.3 : MIT License
 tsutils 3.21.0 : MIT License
-tunnel-agent 0.6.0 : Apache License 2.0
 Two-Screen/stable 0.1.8 : MIT License
 type-check 0.3.2 : MIT License
 type-check 0.4.0 : MIT License
@@ -1318,6 +1316,8 @@ wrap-ansi 8.0.1 : MIT License
 wrap-ansi v6.2.0 : MIT License
 wrap-ansi v7.0.0 : MIT License
 wrappy 1.0.2 : ISC License
+write-file-atomic 3.0.3 : ISC License
+write-file-atomic 4.0.2 : ISC License
 xdg-basedir 4.0.0 : MIT License
 xml-js 1.6.11 : MIT License
 xtend 4.0.2 : MIT License
@@ -1337,7 +1337,7 @@ zwitch 1.0.5 : MIT License
 Licenses: 
 
 Apache License 2.0
-(@ampproject/remapping 2.2.0, @humanwhocodes/config-array 0.11.7, @humanwhocodes/module-importer 1.0.1, @webassemblyjs/leb128 1.11.1, @xtuc/long 4.2.2, ansi-html-community 0.0.8, detect-libc 2.0.1, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 2.1.0, eslint-visitor-keys 3.3.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, human-signals 1.1.1, human-signals 2.1.0, human-signals 3.0.1, nodejs-walker 1.0.8, react-helmet-async 1.3.0, ReactiveX RxJS 7.5.7, ReactiveX RxJS 7.6.0, through 2.3.8, tunnel-agent 0.6.0, typedoc 0.23.21, TypeScript 4.9.3, watchman 2.0.2, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4)
+(@ampproject/remapping 2.2.0, @humanwhocodes/config-array 0.11.7, @humanwhocodes/module-importer 1.0.1, @webassemblyjs/leb128 1.11.1, @xtuc/long 4.2.2, ansi-html-community 0.0.8, detect-libc 2.0.1, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 2.1.0, eslint-visitor-keys 3.3.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, human-signals 1.1.1, human-signals 2.1.0, human-signals 3.0.1, nodejs-walker 1.0.8, react-helmet-async 1.3.0, ReactiveX RxJS 7.5.7, ReactiveX RxJS 7.6.0, request/tunnel-agent 0.6.0, through 2.3.8, typedoc 0.23.21, TypeScript 4.9.3, watchman 2.0.2, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4)
 
 Apache License
 Version 2.0, January 2004
@@ -3776,7 +3776,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(anymatch 3.1.3, boolbase 1.0.0, cliui 8.0.1, css-declaration-sorter 6.3.1, electron-to-chromium 1.4.284, flatted 3.2.7, github-slugger 1.5.0, iarna/write-file-atomic 4.0.2, minimatch 5.1.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver 7.3.8, splitargs 0.0.7, v8-to-istanbul 9.0.1, yaml 2.1.3, yargs-parser 21.1.1)
+(anymatch 3.1.3, boolbase 1.0.0, cliui 8.0.1, css-declaration-sorter 6.3.1, electron-to-chromium 1.4.284, flatted 3.2.7, github-slugger 1.5.0, minimatch 5.1.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver 7.3.8, splitargs 0.0.7, v8-to-istanbul 9.0.1, write-file-atomic 4.0.2, yaml 2.1.3, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
@@ -3859,7 +3859,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(signal-exit 3.0.7)
+(tapjs/signal-exit 3.0.7)
 
 The ISC License
 
@@ -3986,7 +3986,7 @@ Permission to use, copy, modify, and/or distribute this software for any
 ---
 
 ISC License
-(iarna/write-file-atomic 3.0.3)
+(write-file-atomic 3.0.3)
 
 Upstream-Contact: https://github.com/iarna/write-file-atomic/issues
 Source: https://github.com/iarna/write-file-atomic
@@ -4602,7 +4602,7 @@ OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(send 0.18.0)
+(Send for Node.js 0.18.0)
 
 (The MIT License)
 
@@ -4718,7 +4718,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Negotiator 0.6.3)
+(JSHTTP's negotiator 0.6.3)
 
 (The MIT License)
 
@@ -12422,7 +12422,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(parseurl 1.3.3)
+(pillarjs/parseurl 1.3.3)
 
 Upstream-Contact: https://github.com/expressjs/parseurl/issues
 Source: https://github.com/expressjs/parseurl
@@ -12498,7 +12498,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
