@@ -1,4 +1,4 @@
-Copyright 2022
+Copyright 2023
 
 [couchbase-fluent-bit : 1.2.2]
 
@@ -7,7 +7,7 @@ Components:
 
 benbjohnson-clock v1.1.0 : MIT License
 fsnotify-fsnotify v1.5.1 : BSD 3-clause "New" or "Revised" License
-Go programming language 1.18.7 : BSD 3-clause "New" or "Revised" License
+Go programming language 1.19.4 : BSD 3-clause "New" or "Revised" License
 Go Testify 1.7.0 : MIT License
 go-check-check 20200227-snapshot-8fa46927 : BSD 2-clause "Simplified" License
 go-openapi/jsonpointer v0.19.5 : Apache License 2.0
@@ -313,7 +313,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(Go programming language 1.18.7, golang.org/x/sys 20210820-snapshot-2c5d950f)
+(Go programming language 1.19.4, golang.org/x/sys 20210820-snapshot-2c5d950f)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -441,6 +441,34 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 MIT License
+(godotenv v1.4.0)
+
+Copyright (c) 2013 John Barton
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (uber-go/atomic v1.9.0)
 
 Copyright (c) 2016 Uber Technologies, Inc.
@@ -512,42 +540,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-
----
-
-MIT License
-(godotenv v1.4.0)
-
-Files: *
-Copyright: 2013-2018 John Barton
-License: Expat
-
-Files: debian/*
-Copyright: 2017 Michael Lustfield <michael@lustfield.net>
-           2018 Dr. Tobias Quathamer <toddy@debian.org>
-License: Expat
-Comment: Debian packaging is licensed under the same terms as upstream
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining
- a copy of this software and associated documentation files (the
- "Software"), to deal in the Software without restriction, including
- without limitation the rights to use, copy, modify, merge, publish,
- distribute, sublicense, and/or sell copies of the Software, and to
- permit persons to whom the Software is furnished to do so, subject to
- the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
- LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
- OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
- WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
