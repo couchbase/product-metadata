@@ -100,7 +100,8 @@ k8s.io/cli-runtime v0.25.4 : Apache License 2.0
 k8s.io/kube-aggregator v0.25.4 : Apache License 2.0
 klauspost-compress v1.15.12 : BSD 3-clause "New" or "Revised" License
 klauspost-pgzip v1.2.5 : Expat License
-kr/pretty 0.2.1 : MIT License
+kr/pretty v0.2.0 : MIT License
+kubernetes-sigs/structured-merge-diff v4.2.3 : Apache License 2.0
 kubernetes/api v0.25.4 : Apache License 2.0
 kubernetes/apiextensions-apiserver v0.25.4 : Apache License 2.0
 kubernetes/apimachinery v0.25.4 : Apache License 2.0
@@ -147,7 +148,7 @@ yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
 Licenses: 
 
 Apache License 2.0
-(AWS SDK for Go v1.44.135, btree v1.1.2, census-instrumentation/opencensus-go v0.24.0, client-go v0.25.4, client_golang 1.14.0, couchbase-gocb v2.6.0, couchbase/gocbcore v10.2.0, github.com/go-logr/zapr v1.2.3, github.com/moby/spdystream v0.2.0, go-autorest autorest/adal/v0.9.21, go-autorest autorest/date/v0.3.0, go-autorest autorest/v0.11.28, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-logr/logr v1.2.3, go-openapi/errors v0.20.3, go-openapi/jsonpointer v0.19.5, godebug v1.1.0, golang/appengine v1.6.7, golang/glog v1.0.0, gomodules/jsonpatch v2.2.0, Google Cloud Client Libraries for Go 20210117-snapshot, Google Cloud Client Libraries for Go compute/metadata/v0.2.1, Google Cloud Client Libraries for Go compute/v1.12.1, Google Cloud Client Libraries for Go iam/v0.7.0, Google Cloud Client Libraries for Go storage/v1.28.0, Google Cloud Client Libraries for Go v0.106.0, google-gofuzz v1.2.0, google-shlex 20191202-snapshot-e7afc7fb, google/gnostic v0.6.9, googleapis/enterprise-certificate-proxy v0.2.0, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.50.1, inconshreveable/mousetrap v1.0.1, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, jsonreference v0.20.0, k3s-io/klog v2.80.1-k3s1, k8s.io/cli-runtime v0.25.4, k8s.io/kube-aggregator v0.25.4, kubernetes/api v0.25.4, kubernetes/apiextensions-apiserver v0.25.4, kubernetes/apimachinery v0.25.4, kubernetes/component-base v0.25.4, kubernetes/metrics v0.25.4, kustomize api/v0.12.1, kustomize kyaml/v0.13.9, martian v3.2.1, matttproud-golang_protobuf_extensions v1.0.4, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, prometheus-client_model v0.3.0, prometheus-common v0.37.0, prometheus-procfs 0.8.0, sergi/go-diff v1.1.0, sigs.k8s.io/controller-runtime v0.13.1, sigs.k8s.io/json 20220713-snapshot-f223a00b, sigs.k8s.io/yaml v1.3.0, spf13-cobra 1.6.1, swag v0.22.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
+(AWS SDK for Go v1.44.135, btree v1.1.2, census-instrumentation/opencensus-go v0.24.0, client-go v0.25.4, client_golang 1.14.0, couchbase-gocb v2.6.0, couchbase/gocbcore v10.2.0, github.com/go-logr/zapr v1.2.3, github.com/moby/spdystream v0.2.0, go-autorest autorest/adal/v0.9.21, go-autorest autorest/date/v0.3.0, go-autorest autorest/v0.11.28, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-logr/logr v1.2.3, go-openapi/errors v0.20.3, go-openapi/jsonpointer v0.19.5, godebug v1.1.0, golang/appengine v1.6.7, golang/glog v1.0.0, gomodules/jsonpatch v2.2.0, Google Cloud Client Libraries for Go 20210117-snapshot, Google Cloud Client Libraries for Go compute/metadata/v0.2.1, Google Cloud Client Libraries for Go compute/v1.12.1, Google Cloud Client Libraries for Go iam/v0.7.0, Google Cloud Client Libraries for Go storage/v1.28.0, Google Cloud Client Libraries for Go v0.106.0, google-gofuzz v1.2.0, google-shlex 20191202-snapshot-e7afc7fb, google/gnostic v0.6.9, googleapis/enterprise-certificate-proxy v0.2.0, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.50.1, inconshreveable/mousetrap v1.0.1, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, jsonreference v0.20.0, k3s-io/klog v2.80.1-k3s1, k8s.io/cli-runtime v0.25.4, k8s.io/kube-aggregator v0.25.4, kubernetes-sigs/structured-merge-diff v4.2.3, kubernetes/api v0.25.4, kubernetes/apiextensions-apiserver v0.25.4, kubernetes/apimachinery v0.25.4, kubernetes/component-base v0.25.4, kubernetes/metrics v0.25.4, kustomize api/v0.12.1, kustomize kyaml/v0.13.9, martian v3.2.1, matttproud-golang_protobuf_extensions v1.0.4, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, prometheus-client_model v0.3.0, prometheus-common v0.37.0, prometheus-procfs 0.8.0, sergi/go-diff v1.1.0, sigs.k8s.io/controller-runtime v0.13.1, sigs.k8s.io/json 20220713-snapshot-f223a00b, sigs.k8s.io/yaml v1.3.0, spf13-cobra 1.6.1, swag v0.22.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -1251,31 +1252,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(kr/pretty 0.2.1)
-
-Copyright 2012 Keith Rarick
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
 (gregjones/httpcache 20190611-snapshot-901d9072)
 
 Copyright © 2012 Greg Jones (greg.jones@gmail.com)
@@ -1285,6 +1261,43 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(kr/pretty v0.2.0)
+
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: github.com/kr/pretty
+Source: https://github.com/kr/pretty/
+
+Files: *
+Copyright: 2011–2016 Keith Rarick <kr@xph.us>
+License: Expat
+
+Files: debian/*
+Copyright: 2013 Tonnerre Lombard <tonnerre@ancient-solutions.com>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE
 
 ---
 
