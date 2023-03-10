@@ -31,6 +31,7 @@ couchbaselabs-walrus 20230118-snapshot-97ce18d0 : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.4 : Apache License 2.0
 couchbaselabs/gojcbmock v1.0.4 : Apache License 2.0
 couchbaselabs/jsonx v1.0.1 : 
+exp 20220722-snapshot-a9213eeb : BSD 3-clause "New" or "Revised" License
 felixge/fgprof v0.9.2 : MIT License
 gin-contrib/sse v0.1.0 : MIT License
 gin-gonic/gin v1.6.3 : MIT License
@@ -53,6 +54,7 @@ golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20220722-snapshot-630584e8 : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 20220711-snapshot-c8730f7f : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync 20210219-snapshot-036812b2 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys 20220727-snapshot-3c1f3524 : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.7 : Apache License 2.0
 golang/text v0.4.0 : BSD 3-clause "New" or "Revised" License
 google.golang.org/protobuf v1.28.0 : BSD 3-clause "New" or "Revised" License
@@ -62,7 +64,6 @@ google/uuid v1.3.0 : BSD 3-clause "New" or "Revised" License
 gopsutil v3.21.11 : BSD 3-clause "New" or "Revised" License
 gorilla/mux v1.8.0 : BSD 3-clause "New" or "Revised" License
 gorilla/websocket v1.4.2 : BSD 2-clause "Simplified" License
-graphql-go v0.8.0 : MIT License
 jmespath-go-jmespath v0.4.0 : Apache License 2.0
 jsoniter-go v1.1.12 : MIT License
 kardianos-service v1.2.1 : zlib License
@@ -570,7 +571,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/oauth2 20220711-snapshot-c8730f7f, golang.org/x/sync 20210219-snapshot-036812b2, golang/text v0.4.0, google.golang.org/protobuf v1.28.0, google/go-cmp v0.5.8, klauspost-compress v1.15.12)
+(exp 20220722-snapshot-a9213eeb, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/oauth2 20220711-snapshot-c8730f7f, golang.org/x/sync 20210219-snapshot-036812b2, golang.org/x/sys 20220727-snapshot-3c1f3524, golang/text v0.4.0, google.golang.org/protobuf v1.28.0, google/go-cmp v0.5.8, klauspost-compress v1.15.12)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1227,33 +1228,6 @@ MIT License
 The MIT License (MIT)
 
 Copyright (c) 2014 Nate Finch 
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(graphql-go v0.8.0)
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Chris Ramón
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
