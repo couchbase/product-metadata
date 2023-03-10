@@ -373,8 +373,8 @@ buffer-json 2.0.0 : MIT License
 buffer-xor 1.0.3 : MIT License
 builtin-status-codes 3.0.0 : MIT License
 builtins 1.0.3 : MIT License
-bytes 3.0.0 : MIT License
-bytes 3.1.0 : MIT License
+bytes.js 3.0.0 : Expat License
+bytes.js 3.1.0 : MIT License
 cac 6.7.3 : MIT License
 cacache 12.0.4 : ISC License
 cacache 15.3.0 : ISC License
@@ -414,7 +414,6 @@ cjs-module-lexer 1.2.2 : MIT License
 class-utils 0.3.6 : MIT License
 clean-css 4.2.3 : MIT License
 clean-stack 2.2.0 : MIT License
-cli-boxes 2.2.1 : MIT License
 cli-columns 4.0.0 : MIT License
 cli-cursor 2.1.0 : MIT License
 cli-cursor v3.1.0 : MIT License
@@ -1454,6 +1453,7 @@ simple-concat 1.0.1 : MIT License
 simple-get 3.1.1 : MIT License
 simple-swizzle 0.2.2 : MIT License
 sindresorhus/boxen v4.2.0 : MIT License
+sindresorhus/cli-boxes 2.2.1 : MIT License
 sindresorhus/globals 11.12.0 : MIT License
 sindresorhus/globals 13.11.0 : MIT License
 sindresorhus/globby 11.0.4 : MIT License
@@ -4589,6 +4589,35 @@ case Affirmer hereby affirms that he or she will not
 
 ---
 
+Expat License
+(bytes.js 3.0.0)
+
+Expat License
+=============
+
+Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd
+                               and Clark Cooper
+Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
 GNU General Public License v2.0 or later
 (node-forge 0.10.0)
 
@@ -6954,35 +6983,6 @@ MIT License
 Copyright (c) 2012-2014 Federico Romero
 Copyright (c) 2012-2014 Isaac Z. Schlueter
 Copyright (c) 2014-2015 Douglas Christopher Wilson
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(bytes 3.0.0, bytes 3.1.0)
-
-(The MIT License)
-
-Copyright (c) 2012-2014 TJ Holowaychuk <tj@vision-media.ca>
-Copyright (c) 2015 Jed Watson <jed.watson@me.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -10745,6 +10745,38 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
+(bytes.js 3.1.0)
+
+Files: *
+Copyright: 2012-2014 TJ Holowaychuk <tj@vision-media.ca>
+ 2015 Jed Watson <jed.watson@me.com>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (Node Cookie Parser v0.4.0)
 
 Files: *
@@ -13522,7 +13554,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(ansi-escapes 4.3.2, ansi-escapes 5.0.0, camelcase 6.2.0, Chalk 5.0.0, cli-boxes 2.2.1, Del using Globs v6.0.0, emittery v0.8.1, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, figures 3.2.0, find-cache-dir 3.3.2, find-versions v4.0.0, get-stream 6.0.1, get-stream v5.2.0, global-dirs 2.1.0, import-fresh 3.3.0, import-from 4.0.0, into-stream v6.0.0, is-unicode-supported 0.1.0, log-symbols 4.1.0, map-obj 4.3.0, meow 8.1.2, mimic-response 2.1.0, p-each-series 2.2.0, p-map 4.0.0, parse-json v5.2.0, semver-regex 3.1.3, sindresorhus/globals 13.11.0, sindresorhus/is-stream 2.0.1, sindresorhus/onetime v5.1.2, string-length 4.0.2, supports-color 8.1.1, tempy 1.0.1, term-size 2.2.1, type-fest 1.4.0, wrap-ansi v7.0.0)
+(ansi-escapes 4.3.2, ansi-escapes 5.0.0, camelcase 6.2.0, Chalk 5.0.0, Del using Globs v6.0.0, emittery v0.8.1, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, figures 3.2.0, find-cache-dir 3.3.2, find-versions v4.0.0, get-stream 6.0.1, get-stream v5.2.0, global-dirs 2.1.0, import-fresh 3.3.0, import-from 4.0.0, into-stream v6.0.0, is-unicode-supported 0.1.0, log-symbols 4.1.0, map-obj 4.3.0, meow 8.1.2, mimic-response 2.1.0, p-each-series 2.2.0, p-map 4.0.0, parse-json v5.2.0, semver-regex 3.1.3, sindresorhus/cli-boxes 2.2.1, sindresorhus/globals 13.11.0, sindresorhus/is-stream 2.0.1, sindresorhus/onetime v5.1.2, string-length 4.0.2, supports-color 8.1.1, tempy 1.0.1, term-size 2.2.1, type-fest 1.4.0, wrap-ansi v7.0.0)
 
 MIT License
 
@@ -19286,7 +19318,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ansi-regex 2.1.1, ansi-styles 2.2.1, arrify 1.0.1, caller-callsite 2.0.0, caller-path 2.0.0, callsites 2.0.0, cli-cursor 2.1.0, code-point-at 1.1.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, figures 2.0.0, find-up 2.1.0, has-ansi 2.0.0, import-cwd 2.1.0, import-fresh 2.0.0, import-from 2.1.0, import-lazy 2.1.0, ip-regex v2.1.0, is-absolute-url 2.1.0, is-binary-path 1.0.1, is-fullwidth-code-point 1.0.0, is-fullwidth-code-point 2.0.0, is-obj 1.0.1, is-plain-obj 1.1.0, is-regexp 1.0.0, is-text-path 1.0.1, is-wsl 1.1.0, load-json-file 4.0.0, lowercase-keys 1.0.1, map-obj 1.0.1, modify-values 1.0.1, npm-run-path 2.0.2, number-is-nan 1.0.1, os-tmpdir 1.0.2, p-finally 1.0.0, p-try 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, resolve-cwd 2.0.0, resolve-from 3.0.0, restore-cursor 2.0.0, shebang-regex 1.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/onetime 2.0.1, sindresorhus/slash 1.0.0, string-width 1.0.2, Strip ANSI 3.0.1, strip-eof 1.0.0, strip-json-comments 2.0.1, supports-color 2.0.0)
+(ansi-regex 2.1.1, ansi-styles 2.2.1, arrify 1.0.1, caller-callsite 2.0.0, caller-path 2.0.0, callsites 2.0.0, cli-cursor 2.1.0, code-point-at 1.1.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, figures 2.0.0, find-up 2.1.0, has-ansi 2.0.0, import-cwd 2.1.0, import-fresh 2.0.0, import-from 2.1.0, import-lazy 2.1.0, ip-regex v2.1.0, is-absolute-url 2.1.0, is-binary-path 1.0.1, is-fullwidth-code-point 1.0.0, is-fullwidth-code-point 2.0.0, is-obj 1.0.1, is-plain-obj 1.1.0, is-regexp 1.0.0, is-text-path 1.0.1, is-wsl 1.1.0, load-json-file 4.0.0, lowercase-keys 1.0.1, map-obj 1.0.1, modify-values 1.0.1, number-is-nan 1.0.1, os-tmpdir 1.0.2, p-finally 1.0.0, p-try 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, resolve-cwd 2.0.0, resolve-from 3.0.0, restore-cursor 2.0.0, shebang-regex 1.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/onetime 2.0.1, sindresorhus/slash 1.0.0, string-width 1.0.2, Strip ANSI 3.0.1, strip-eof 1.0.0, strip-json-comments 2.0.1, supports-color 2.0.0)
 
 The MIT License (MIT)
 
@@ -21909,6 +21941,44 @@ License: Expat
 
 Files: debian/*
 Copyright: 2017 Pirate Praveen <praveen@debian.org>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
+(npm-run-path 2.0.2)
+
+Upstream-Contact: https://github.com/sindresorhus/npm-run-path/issues
+Source: https://github.com/sindresorhus/npm-run-path#readme
+
+Files: *
+Copyright: 2016 Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+License: Expat
+
+Files: debian/*
+Copyright: 2016 Pirate Praveen <praveen@debian.org>
 License: Expat
 
 License: Expat
