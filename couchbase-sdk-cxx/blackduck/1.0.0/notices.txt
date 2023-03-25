@@ -5,10 +5,13 @@ Copyright 2023
 
 Components: 
 
+Android - platform - frameworks - base platform-tools-31.0.0 : Apache License 2.0
 asio 1.24.0 : Boost Software License 1.0
 ASIO C++ Library 1.24.0 : Boost Software License 1.0
 benchmark 1.5.1 : Apache License 2.0
 benchmark v1.5.0 : Apache License 2.0
+benchmark v1.5.2 : Apache License 2.0
+benchmark v1.5.3 : Apache License 2.0
 Bootstrap (Twitter) 3.2.0 : MIT License
 Bootstrap (Twitter) 3.3.4 : MIT License
 C++ Guideline Support Library 4.0.0 : MIT License
@@ -16,7 +19,9 @@ Catch2 2.13.7 : Boost Software License 1.0
 couchbase-ruby-client 3.4.0 : Apache License 2.0
 docopt.cpp v0.6.3 : MIT License
 fmtlib/fmt 8.0.1 : MIT License
-google-snappy 1.1.8 : BSD 3-clause "New" or "Revised" License
+Go programming language 20230221-snapshot : BSD 3-clause "New" or "Revised" License
+Google C++ Testing Framework 1.10.0.20201025 : BSD 3-clause "New" or "Revised" License
+google-snappy 1.1.6 : BSD 3-clause "New" or "Revised" License
 HdrHistogram_c 0.11.0 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
 spdlog 1.9.2 : MIT License
 tao-pegtl 3.2.2 : Boost Software License 1.0
@@ -27,7 +32,7 @@ taocpp/json 1.0.0-beta.13 : MIT License
 Licenses: 
 
 Apache License 2.0
-(benchmark 1.5.1, benchmark v1.5.0, couchbase-ruby-client 3.4.0)
+(Android - platform - frameworks - base platform-tools-31.0.0, benchmark 1.5.1, benchmark v1.5.0, benchmark v1.5.2, benchmark v1.5.3, couchbase-ruby-client 3.4.0)
 
 Apache License
 Version 2.0, January 2004
@@ -214,7 +219,7 @@ third-party archives.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(HdrHistogram_c 0.11.0)
+(Go programming language 20230221-snapshot, HdrHistogram_c 0.11.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -248,36 +253,78 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(google-snappy 1.1.8)
+(google-snappy 1.1.6)
 
 Copyright 2011, Google Inc.
-All rights reserved.
+    All rights reserved.
+    
+   
 
 Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
+    modification, are permitted provided that the following conditions are
+    met:
+    
+        * Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+        * Redistributions in binary form must reproduce the above
+    copyright notice, this list of conditions and the following disclaimer
+    in the documentation and/or other materials provided with the
+    distribution.
+        * Neither the name of Google Inc. nor the names of its
+    contributors may be used to endorse or promote products derived from
+    this software without specific prior written permission.
+    
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+    A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+    OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+    SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+    LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+    THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
+---
+
+BSD 3-clause "New" or "Revised" License
+(Google C++ Testing Framework 1.10.0.20201025)
+
+Upstream-Source: https://github.com/google/googletest
+
+Files: *
+Copyright: Copyright 2008, Google Inc.
+License: BSD-C3
+ Copyright 2008, Google Inc.
+ All rights reserved.
+ .
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are
+ met:
+ .
     * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
+ notice, this list of conditions and the following disclaimer.
     * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
+ copyright notice, this list of conditions and the following disclaimer
+ in the documentation and/or other materials provided with the
+ distribution.
     * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+ contributors may be used to endorse or promote products derived from
+ this software without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+ OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
