@@ -761,8 +761,6 @@ http-errors 1.7.2 : MIT License
 http-errors 1.7.3 : MIT License
 http-parser-js 0.5.3 : MIT License
 http-proxy 1.18.1 : MIT License
-http-proxy-agent 4.0.1 : MIT License
-http-proxy-agent 5.0.0 : MIT License
 http-proxy-middleware v0.19.1 : MIT License
 https-browserify 1.0.0 : MIT License
 https-proxy-agent 5.0.0 : MIT License
@@ -795,9 +793,6 @@ inflight 1.0.6 : ISC License
 inherits 2.0.1 : ISC License
 inherits 2.0.3 : ISC License
 inherits v2.0.4 : ISC License
-ini 1.3.7 : ISC License
-ini 1.3.8 : ISC License
-ini 2.0.0 : ISC License
 init-package-json 2.0.5 : ISC License
 Inquirer.js 6.5.2 : MIT License
 internal-ip 4.3.0 : MIT License
@@ -1130,6 +1125,8 @@ node-graceful-fs 4.2.8 : ISC License
 node-graceful-fs 4.2.9 : ISC License
 node-gyp 8.4.1 : MIT License
 node-html-entities 1.4.0 : MIT License
+node-http-proxy-agent 4.0.1 : MIT License
+node-http-proxy-agent 5.0.0 : MIT License
 node-http-signature 1.2.0 : MIT License
 node-ignore 3.3.10 : MIT License
 node-ignore 4.0.6 : MIT License
@@ -1176,6 +1173,9 @@ normalize-package-data 3.0.3 : BSD 2-clause "Simplified" License
 normalize-path 2.1.1 : MIT License
 normalize-path 3.0.0 : MIT License
 normalize-range 0.1.2 : MIT License
+npm ini 1.3.7 : ISC License
+npm ini 1.3.8 : ISC License
+npm ini 2.0.0 : ISC License
 npm-audit-report 2.1.5 : ISC License
 npm-bundled 1.1.2 : ISC License
 npm-cli 8.5.0 : Artistic License 2.0
@@ -1357,7 +1357,7 @@ randomfill 1.0.4 : MIT License
 range-parser v1.2.1 : MIT License
 raw-body 2.4.0 : MIT License
 Raynos/reduce v1.0.2 : MIT License
-React from Facebook 17.0.2 : MIT License
+react-devtools-extension 17.0.2 : MIT License
 ReactiveX RxJS 6.6.7 : Apache License 2.0
 read 1.0.7 : BSD 2-clause "Simplified" License
 read-cmd-shim 2.0.0 : ISC License
@@ -5901,7 +5901,7 @@ PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(chownr 1.1.4, chownr 2.0.0, color-support 1.1.3, dezalgo 1.0.3, fs-minipass v2.1.0, ignore-walk 4.0.1, ini 1.3.7, ini 1.3.8, ini 2.0.0, isaacs/once 1.4.0, isexe 2.0.0, json-stringify-nice 1.1.4, json-stringify-safe 5.0.1, minimatch 3.0.4, minipass-collect 1.0.2, minipass-flush 1.0.5, minipass-pipeline 1.2.4, minipass-sized 1.0.3, mute-stream 0.0.7, mute-stream 0.0.8, node-glob 7.2.0, node-glob v7.1.4, node-lru-cache 4.1.5, node-lru-cache 5.1.1, node-lru-cache 6.0.0, node-semver 5.7.1, node-semver 6.3.0, node-semver 7.0.0, node-semver 7.3.5, nopt v5.0.0, npm-packlist 3.0.0, npmlog 4.1.2, pseudomap 1.0.2, readdir-scoped-modules 1.1.0, rimraf 2.7.1, tar 6.1.11, which 1.3.1, wrappy 1.0.2, yallist 2.1.2, yallist 3.1.1)
+(chownr 1.1.4, chownr 2.0.0, color-support 1.1.3, dezalgo 1.0.3, fs-minipass v2.1.0, ignore-walk 4.0.1, isaacs/once 1.4.0, isexe 2.0.0, json-stringify-nice 1.1.4, json-stringify-safe 5.0.1, minimatch 3.0.4, minipass-collect 1.0.2, minipass-flush 1.0.5, minipass-pipeline 1.2.4, minipass-sized 1.0.3, mute-stream 0.0.7, mute-stream 0.0.8, node-glob 7.2.0, node-glob v7.1.4, node-lru-cache 4.1.5, node-lru-cache 5.1.1, node-lru-cache 6.0.0, node-semver 5.7.1, node-semver 6.3.0, node-semver 7.0.0, node-semver 7.3.5, nopt v5.0.0, npm ini 1.3.7, npm ini 1.3.8, npm ini 2.0.0, npm-packlist 3.0.0, npmlog 4.1.2, pseudomap 1.0.2, readdir-scoped-modules 1.1.0, rimraf 2.7.1, tar 6.1.11, which 1.3.1, wrappy 1.0.2, yallist 2.1.2, yallist 3.1.1)
 
 The ISC License
 
@@ -7802,7 +7802,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(http-proxy-agent 4.0.1, http-proxy-agent 5.0.0, socks-proxy-agent 6.1.1)
+(node-http-proxy-agent 4.0.1, node-http-proxy-agent 5.0.0, socks-proxy-agent 6.1.1)
 
 -------
 
@@ -13485,7 +13485,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@jest/console 27.1.0, @jest/core 27.1.0, @jest/environment 27.1.0, @jest/fake-timers 27.1.0, @jest/globals 27.1.0, @jest/reporters 27.1.0, @jest/source-map 27.0.6, @jest/test-result 27.1.0, @jest/test-sequencer 27.1.0, @jest/transform 27.1.0, @jest/types 26.6.2, @jest/types 27.1.0, expect 27.1.0, Jest from Facebook 27.1.0, Jest from Facebook v26.6.2, Jest from Facebook v27.0.6, jest-changed-files 27.1.0, jest-circus 27.1.0, jest-config 27.1.0, jest-diff 26.6.2, jest-diff 27.1.0, jest-each 27.1.0, jest-environment-jsdom 27.1.0, jest-environment-node 27.1.0, jest-get-type 26.3.0, jest-get-type 27.0.6, jest-haste-map 27.1.0, jest-leak-detector 27.1.0, jest-matcher-utils 27.1.0, jest-message-util 27.1.0, jest-regex-util 27.0.6, jest-resolve 27.1.0, jest-resolve-dependencies 27.1.0, jest-runner 27.1.0, jest-runtime 27.1.0, jest-snapshot 27.1.0, jest-util 27.1.0, jest-validate 27.1.0, jest-worker 27.1.0, pretty-format 26.6.2, pretty-format 27.1.0, React from Facebook 17.0.2)
+(@jest/console 27.1.0, @jest/core 27.1.0, @jest/environment 27.1.0, @jest/fake-timers 27.1.0, @jest/globals 27.1.0, @jest/reporters 27.1.0, @jest/source-map 27.0.6, @jest/test-result 27.1.0, @jest/test-sequencer 27.1.0, @jest/transform 27.1.0, @jest/types 26.6.2, @jest/types 27.1.0, expect 27.1.0, Jest from Facebook 27.1.0, Jest from Facebook v26.6.2, Jest from Facebook v27.0.6, jest-changed-files 27.1.0, jest-circus 27.1.0, jest-config 27.1.0, jest-diff 26.6.2, jest-diff 27.1.0, jest-each 27.1.0, jest-environment-jsdom 27.1.0, jest-environment-node 27.1.0, jest-get-type 26.3.0, jest-get-type 27.0.6, jest-haste-map 27.1.0, jest-leak-detector 27.1.0, jest-matcher-utils 27.1.0, jest-message-util 27.1.0, jest-regex-util 27.0.6, jest-resolve 27.1.0, jest-resolve-dependencies 27.1.0, jest-runner 27.1.0, jest-runtime 27.1.0, jest-snapshot 27.1.0, jest-util 27.1.0, jest-validate 27.1.0, jest-worker 27.1.0, pretty-format 26.6.2, pretty-format 27.1.0, react-devtools-extension 17.0.2)
 
 MIT License
 
