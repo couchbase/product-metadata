@@ -3,7 +3,8 @@
     "wheezy": {
       "distro": "debian",
       "version": "7.0",
-      "full": "debian7"
+      "full": "debian7",
+      "deprecated": true
     },
     "jessie": {
       "distro": "debian",
@@ -28,12 +29,14 @@
     "trusty": {
       "distro": "ubuntu",
       "version": "14.04",
-      "full": "ubuntu14.04"
+      "full": "ubuntu14.04",
+      "deprecated": true
     },
     "xenial": {
       "distro": "ubuntu",
       "version": "16.04",
-      "full": "ubuntu16.04"
+      "full": "ubuntu16.04",
+      "deprecated": true
     },
     "bionic": {
       "distro": "ubuntu",
