@@ -192,15 +192,15 @@ Bouncy Castle 1.70 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70 : MIT License
 brace-expansion 1.1.11 : MIT License
 Breakpad r835 : BSD 3-clause "New" or "Revised" License
-brotlipy v0.7.0 : MIT License
+brotli v1.0.9 : MIT License
 buger/jsonparser 1.1.1 : MIT License
 BurntSushi/toml 1.2.1 : (MIT License AND BSD 2-clause "Simplified" License AND Creative Commons Attribution 3.0 AND BSD 3-clause "New" or "Revised" License)
 Bzip2 1.0.8 : Bzip2 License
-ca-certificates 2022.12.7 : ISC License
+ca-certificates 2023.5.7 : ISC License
 cenkalti/backoff v3.2.2 : MIT License
 census-instrumentation/opencensus-go v0.24.0 : Apache License 2.0
 cespare/xxhash v2.2.0 : MIT License
-charset-normalizer 2.1.1 : MIT License
+charset-normalizer 3.1.0 : MIT License
 Checker Qual 3.29.0 : MIT License
 client_golang 1.14.0 : Apache License 2.0
 clipboard.js 1.5.16 : MIT License
@@ -234,7 +234,7 @@ couchbase-goxdcr v8.1.0-1168 : Apache License 2.0
 couchbase-indexing 20230421-snapshot-762d07bc : Apache License 2.0
 couchbase/cbft v0.5.0 : Business Source License 1.1
 couchbase/cbft : Business Source License 1.1
-couchbase/couchstore v7.1.3-MP2 : Apache License 2.0
+couchbase/couchstore v7.2.0 : Apache License 2.0
 couchbase/gocbcore v10.2.0 : Apache License 2.0
 couchbase/gocbcore v9.1.10 : Apache License 2.0
 couchbase/gocbcore v9.1.7 : Apache License 2.0
@@ -450,8 +450,8 @@ google-guava 30.1.1-jre : Apache License 2.0
 google-guava 31.1-jre : Apache License 2.0
 google-oauth-java-client 1.34.1 : Apache License 2.0
 google-snappy 1.1.1 : BSD 3-clause "New" or "Revised" License
+google-snappy 1.1.10 : BSD 3-clause "New" or "Revised" License
 google-snappy 1.1.8 : BSD 3-clause "New" or "Revised" License
-google-snappy 1.1.9 : BSD 3-clause "New" or "Revised" License
 google.golang.org/protobuf v1.28.0 : BSD 3-clause "New" or "Revised" License
 google.golang.org/protobuf v1.28.1 : BSD 3-clause "New" or "Revised" License
 google/go-cloud v0.24.0 : Apache License 2.0
@@ -659,7 +659,7 @@ krestenkrab's triq 20151018-snapshot-c7306b8e : Apache License 2.0
 LatencyUtils 2.0.3 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal)
 leemcloughlin/gofarmhash 20180505-snapshot : MIT License
 libcouchbase 3.3.5 : Apache License 2.0
-libcxx 14.0.5 : (University of Illinois/NCSA Open Source License OR MIT License)
+libcxx 16.0.4 : (University of Illinois/NCSA Open Source License OR MIT License OR Apache License 2.0 with Exceptions)
 libevent 2.1.11 : BSD 3-clause "New" or "Revised" License
 libffi 3.4.2 : MIT License
 libgcc 10.2.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
@@ -669,7 +669,7 @@ libicu 71.1 : (MIT License AND Public Domain AND Unicode Character Database Term
 libnuma1 2.0.11 : GNU Lesser General Public License v2.1 or later
 libstdc++ 10.2.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
 liburing 0.6 : MIT License
-libuuid 2.32.1 : BSD 3-clause "New" or "Revised" License
+libuuid 2.38.1 : BSD 3-clause "New" or "Revised" License
 libuv 1.20.3 : (MIT License AND ISC License AND BSD 3-clause "New" or "Revised" License)
 Lodash 3.3.0 : MIT License
 Log4J Commons Logging Bridge 2.19.0 : Apache License 2.0
@@ -706,10 +706,10 @@ msal4j 1.13.8 : MIT License
 msal4j-persistence-extension 1.2.0 : MIT License
 mschoch/smat v0.2.0 : Apache License 2.0
 msgpack-core 0.8.20 : Apache License 2.0
-msgpack-python 1.0.4 : Apache License 2.0
+msgpack-python 1.0.5 : Apache License 2.0
 natefinch/npipe 20140709-snapshot-272c8150 : MIT License
 natefinch/npipe 20180227-snapshot-c1b8fa8b : MIT License
-natsort 8.2.0 : MIT License
+natsort 8.3.1 : MIT License
 ncurses 6.3 : X11 License
 Netty Project 4.1.87.Final : Apache License 2.0
 Netty/Codec/Redis 4.1.87.Final : Apache License 2.0
@@ -744,7 +744,8 @@ OpenCensus 0.2.0 : Apache License 2.0
 OpenCensus 0.31.1 : Apache License 2.0
 opencensus-api 0.31.1 : Apache License 2.0
 OpenJDK jdk-17.0.7-ga : GNU General Public License v2.0 only
-OpenSSL 1.1.1t : (SSLeay License AND OpenSSL License)
+OpenSSL 1.1.1u : The Open SSL License
+OpenSSL 3.1.1 : Apache License 2.0
 OpenTracing API 0.31.0 : Apache License 2.0
 OpenTracing-noop 0.31.0 : Apache License 2.0
 opentracing-opentracing-go 20180301-snapshot : Apache License 2.0
@@ -779,14 +780,14 @@ Protobuf 1.3.5 : BSD 3-clause "New" or "Revised" License
 protobuf-java 3.21.12 : BSD 3-clause "New" or "Revised" License
 Protocol Buffer Java Util Package 3.21.12 : BSD 3-clause "New" or "Revised" License
 pseudomap 1.0.2 : ISC License
-pyca/cryptography 39.0.1 : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
+pyca/cryptography 38.0.4 : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
 pycparser 2.21 : BSD 3-clause "New" or "Revised" License
-pycryptodome 3.16.0 : (BSD 2-clause "Simplified" License AND Public Domain)
-pyOpenSSL 23.0.0 : Apache License 2.0
+pycryptodome 3.18.0 : (BSD 2-clause "Simplified" License AND Public Domain)
+pyOpenSSL 23.2.0 : Apache License 2.0
 PySocks 1.7.1 : BSD 3-clause "New" or "Revised" License
 python cffi 1.15.1 : MIT License
 Python programming language 3.9.16 : Python Software Foundation License 2.0
-python-certifi 2022.12.7 : Mozilla Public License 2.0
+python-certifi 2023.5.7 : Mozilla Public License 2.0
 python-pem 21.2.0 : MIT License
 python-snappy 0.6.1 : BSD 3-clause "New" or "Revised" License
 python_abi 3.9 : BSD 3-clause "New" or "Revised" License
@@ -797,8 +798,8 @@ ReactiveX RxJS 6.5.3 : Apache License 2.0
 reactor-core 3.4.27 : Apache License 2.0
 rebar 2.5.1 : Apache License 2.0
 rebar 2.6.0 : (MIT License OR Apache License 2.0)
-requests 2.28.2 : Apache License 2.0
-requests-toolbelt 0.10.1 : Apache License 2.0
+requests 2.31.0 : Apache License 2.0
+requests-toolbelt 1.0.0 : Apache License 2.0
 RoaringBitmap-roaring v0.9.4 : Apache License 2.0
 rw 1.3.3 : BSD 3-clause "New" or "Revised" License
 RxJava 1.3.8 : Apache License 2.0
@@ -819,7 +820,7 @@ Sparkle merged-with-1.10-but-useless-as-no-sandboxing : MIT License
 spdlog v1.8.5 : MIT License
 spf13-cobra 0.0.5 : Apache License 2.0
 spf13-cobra 20170131-snapshot : Apache License 2.0
-SQLite 3.40.0 : Public Domain
+SQLite 3.42.0 : Public Domain
 Stax2 API 4.2.1 : BSD 2-clause "Simplified" License
 steveyen-gtreap 0.0~git20150807.0.0abe01e : MIT License
 stretchr/objx v0.1.0 : MIT License
@@ -835,11 +836,11 @@ tinylib-msgp 20181103-snapshot : MIT License
 tklauser/go-sysconf v0.3.11 : BSD 3-clause "New" or "Revised" License
 tklauser/numcpus v0.6.0 : Apache License 2.0
 tpcds 1.2 : Apache License 2.0
-tzdata 2022g : Apache License 2.0
+tzdata 2023c : Public Domain
 uber-go/atomic v1.10.0 : MIT License
 ui-router-rx 0.6.4 : MIT License
 ui-router/core 6.0.4 : MIT License
-urllib3 1.26.14 : MIT License
+urllib3 2.0.2 : MIT License
 Vault by HashiCorp api/v1.8.3 : Mozilla Public License 2.0
 Vault by HashiCorp sdk/v0.7.0 : Mozilla Public License 2.0
 whitequark/ipaddr.js 2.0.1 : MIT License
@@ -866,7 +867,202 @@ zstd-jni 1.5.0-1 : BSD 2-clause "Simplified" License
 Licenses: 
 
 Apache License 2.0
-([ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-common 0.3.6, algebricks-common 0.3.7, algebricks-common 0.3.8, algebricks-compiler 0.3.5, algebricks-compiler 0.3.6, algebricks-compiler 0.3.7, algebricks-compiler 0.3.8, algebricks-core 0.3.5, algebricks-core 0.3.6, algebricks-core 0.3.7, algebricks-core 0.3.8, algebricks-data 0.3.5, algebricks-data 0.3.6, algebricks-data 0.3.7, algebricks-data 0.3.8, algebricks-rewriter 0.3.5, algebricks-rewriter 0.3.6, algebricks-rewriter 0.3.7, algebricks-rewriter 0.3.8, algebricks-runtime 0.3.5, algebricks-runtime 0.3.6, algebricks-runtime 0.3.7, algebricks-runtime 0.3.8, Apache Commons Codec 1.15, Apache Commons Collections 3.2.2, Apache Commons Collections 4.4, Apache Commons Compress 1.22, Apache Commons Configuration 2.1.1, Apache Commons IO 2.11.0, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.10.0, Apache CouchDB customized, Apache Hadoop 3.3.4, Apache Hadoop Amazon Web Services support 3.3.4, Apache Hadoop Auth 3.3.4, Apache Hadoop Azure support 3.3.4, Apache Hadoop shaded Guava 1.1.1, Apache HTTP transport v2 for the Google HTTP Client Library for Java. 1.42.3, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.15, Apache Log4j 2.19.0, Apache Log4J API 2.19.0, Apache Log4j JUL Adapter 2.19.0, Apache Log4j SLF4J Binding 2.19.0, Apache Log4j Web Adapters 2.19.0, Apache Parquet Column 1.12.3, Apache Parquet Common 1.12.3, Apache Parquet Encodings 1.12.3, Apache Parquet Format Structures 1.12.3, Apache Parquet Hadoop 1.12.3, asterix-active 0.9.5, asterix-active 0.9.6, asterix-active 0.9.7, asterix-active 0.9.8, asterix-algebra 0.9.5, asterix-algebra 0.9.6, asterix-algebra 0.9.7, asterix-algebra 0.9.8, asterix-app 0.9.5, asterix-app 0.9.6, asterix-app 0.9.7, asterix-app 0.9.8, asterix-common 0.9.5, asterix-common 0.9.6, asterix-common 0.9.7, asterix-common 0.9.8, asterix-external-data 0.9.5, asterix-external-data 0.9.6, asterix-external-data 0.9.7, asterix-external-data 0.9.8, asterix-lang-aql 0.9.5, asterix-lang-aql 0.9.6, asterix-lang-common 0.9.5, asterix-lang-common 0.9.6, asterix-lang-common 0.9.7, asterix-lang-common 0.9.8, asterix-lang-sqlpp 0.9.5, asterix-lang-sqlpp 0.9.6, asterix-lang-sqlpp 0.9.7, asterix-lang-sqlpp 0.9.8, asterix-metadata 0.9.5, asterix-metadata 0.9.6, asterix-metadata 0.9.7, asterix-metadata 0.9.8, asterix-om 0.9.5, asterix-om 0.9.6, asterix-om 0.9.7, asterix-om 0.9.8, asterix-replication 0.9.5, asterix-replication 0.9.6, asterix-replication 0.9.7, asterix-replication 0.9.8, asterix-runtime 0.9.5, asterix-runtime 0.9.6, asterix-runtime 0.9.7, asterix-runtime 0.9.8, asterix-transactions 0.9.5, asterix-transactions 0.9.6, asterix-transactions 0.9.7, asterix-transactions 0.9.8, Auto Common Libraries 1.2.1, AutoValue 1.10.1, AutoValue Annotations 1.10.1, AWS Event Stream 1.0.1, AWS Java SDK :: Arns 2.17.218, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.17.218, AWS Java SDK :: Core :: Protocols :: Json Utils 2.17.218, AWS Java SDK :: Metrics Interface 2.17.218, AWS Java SDK :: Services :: Amazon S3 2.17.218, AWS Java SDK :: Third Party :: Jackson-core 2.17.218, AWS SDK for Go v1.44.185, AWS SDK for Go v1.44.189, AWS SDK for Java 1.12.402, AWS SDK for Java 2.17.218, aws/aws-sdk-go-v2 config/v1.18.10, aws/aws-sdk-go-v2 credentials/v1.13.10, aws/aws-sdk-go-v2 feature/ec2/imds/v1.12.21, aws/aws-sdk-go-v2 internal/configsources/v1.1.27, aws/aws-sdk-go-v2 internal/ini/v1.3.28, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.9.21, aws/aws-sdk-go-v2 service/kms/v1.20.1, aws/aws-sdk-go-v2 service/sts/v1.18.2, aws/aws-sdk-go-v2 v1.12.0, aws/aws-sdk-go-v2 v1.14.0, aws/aws-sdk-go-v2 v1.17.3, blevesearch-segment v0.9.0, blevesearch/bleve-mapping-ui v0.4.0, blevesearch/geo 20220606-snapshot-aab42add, blevesearch/scorch_segment_api v2.1.0, blevesearch/sear v0.0.5, blevesearch/upsidedown_store_api v1.0.1, census-instrumentation/opencensus-go v0.24.0, client_golang 1.14.0, Cloud Storage API v1beta1 (revision 28) v1-rev20220705-2.0.0, com.conversantmedia:disruptor 1.2.15, com.google.api.grpc:proto-google-common-protos 2.13.0, com.google.api.grpc:proto-google-iam-v1 1.8.0, com.google.auto.service:auto-service-annotations 1.0.1, commons-csv 1.9.0, commons-csv commons-csv-1.8, Core functionality for the Reactor Netty library 1.0.28, couchbase-blance v0.1.1, couchbase-cbauth v0.1.1, couchbase-cbauth v0.1.6, couchbase-cbauth v0.1.8, couchbase-cbgt v1.3.1, couchbase-gocb v2.2.2, couchbase-gocb v2.3.2, couchbase-gocb v2.6.0, couchbase-goutils v0.1.2, couchbase-goxdcr v8.1.0-1168, couchbase-indexing 20230421-snapshot-762d07bc, couchbase/couchstore v7.1.3-MP2, couchbase/gocbcore v10.2.0, couchbase/gocbcore v9.1.10, couchbase/gocbcore v9.1.7, couchbase/moss v0.3.0, couchbase/nitro 20221007-snapshot-92d53613, Data Mapper for Jackson 1.9.14-atlassian-6, dimchansky/utfbom v1.1.1, Disruptor Framework 3.4.4, erlang-otp 24.3.4.4, error-prone annotations 2.11.0, error-prone annotations 2.16, error-prone annotations 2.5.1, EscapeVelocity 0.9.1, fastutil 8.5.6, FindBugs jsr305 3.0.2, FlatBuffers 1.5.0, FlatBuffers 23.1.21, FlatBuffers v1.10.0, flatbuffers-java 1.6.0.3, folly v2020.09.07.00, forestdb v1.2, gapic-google-cloud-storage-v2 2.17.2-alpha, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, github.com/aws/smithy-go v1.13.5, github.com/blevesearch/vellum v1.0.8, github.com/blevesearch/zapx v11.3.4, github.com/blevesearch/zapx v12.3.4, github.com/blevesearch/zapx v13.3.4, github.com/blevesearch/zapx v14.3.4, Go programming language 20181002-snapshot, go-autorest autorest/adal/v0.9.18, go-autorest autorest/azure/auth/v0.5.11, go-autorest autorest/azure/cli/v0.4.5, go-autorest autorest/date/v0.3.0, go-autorest autorest/mocks/v0.4.1, go-autorest autorest/to/v0.4.0, go-autorest autorest/v0.11.24, go-autorest autorest/validation/v0.3.1, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v2.6.0, godebug v1.1.0, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang/appengine v1.6.7, golang/geo 20210211-snapshot-740aa86c, golang/glog 20160125-snapshot-23def4e6, Google Android Annotations Library 4.1.1.4, Google APIs Client Library for Java 2.1.2, Google App Engine extensions to the Google HTTP Client Library for Java. 1.42.3, Google Cloud Client Libraries for Go 20210117-snapshot, Google Cloud Client Libraries for Go compute/metadata/v0.2.3, Google Cloud Client Libraries for Go compute/v1.15.1, Google Cloud Client Libraries for Go compute/v1.18.0, Google Cloud Client Libraries for Go kms/v1.8.0, Google Cloud Client Libraries for Go storage/v1.29.0, Google Cloud Client Libraries for Go v0.10.0, Google Cloud Client Libraries for Go v0.109.0, Google Cloud Core 2.9.4, Google Cloud Storage 2.17.2, Google HTTP Client Library for Java 1.42.3, google-gofuzz v1.2.0, google-gson 2.10, google-gson 2.10.1, google-guava 30.1.1-jre, google-guava 31.1-jre, google-oauth-java-client 1.34.1, google/go-cloud v0.24.0, google/go-genproto 20180817-snapshot-c66870c0, google/go-genproto 20230123-snapshot-2c411cf9, google/go-genproto 20230127-snapshot-596548ed, google/go-replayers grpcreplay/v1.1.0, google/go-replayers httpreplay/v1.0.0, google/wire v0.5.0, googleapis/enterprise-certificate-proxy v0.2.1, googleapis/google-cloud-java 2.9.4, gosigar v1.3.4, goskiplist 20170622-snapshot, groupcache 20210331-snapshot-41bb18bf, grpc 1.28.1, grpc-go 20190102-snapshot, grpc-go v1.24.0, grpc-go v1.52.0, grpc-go v1.52.3, grpc-google-cloud-storage-v2 2.17.2-alpha, GSON extensions to the Google HTTP Client Library for Java. 1.42.3, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, hadoop-mapreduce-client-core 3.3.4, hogan.js 3.0.2, HTTP functionality for the Reactor Netty library 1.0.28, hyracks-api 0.3.5, hyracks-api 0.3.6, hyracks-api 0.3.7, hyracks-api 0.3.8, hyracks-client 0.3.5, hyracks-client 0.3.6, hyracks-client 0.3.7, hyracks-client 0.3.8, hyracks-comm 0.3.5, hyracks-comm 0.3.6, hyracks-comm 0.3.7, hyracks-comm 0.3.8, hyracks-control-cc 0.3.5, hyracks-control-cc 0.3.6, hyracks-control-cc 0.3.7, hyracks-control-cc 0.3.8, hyracks-control-common 0.3.5, hyracks-control-common 0.3.6, hyracks-control-common 0.3.7, hyracks-control-common 0.3.8, hyracks-control-nc 0.3.5, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-control-nc 0.3.8, hyracks-data-std 0.3.5, hyracks-data-std 0.3.6, hyracks-data-std 0.3.7, hyracks-data-std 0.3.8, hyracks-dataflow-common 0.3.5, hyracks-dataflow-common 0.3.6, hyracks-dataflow-common 0.3.7, hyracks-dataflow-common 0.3.8, hyracks-dataflow-std 0.3.5, hyracks-dataflow-std 0.3.6, hyracks-dataflow-std 0.3.7, hyracks-dataflow-std 0.3.8, hyracks-http 0.3.5, hyracks-http 0.3.6, hyracks-http 0.3.7, hyracks-http 0.3.8, hyracks-ipc 0.3.5, hyracks-ipc 0.3.6, hyracks-ipc 0.3.7, hyracks-ipc 0.3.8, hyracks-net 0.3.5, hyracks-net 0.3.6, hyracks-net 0.3.7, hyracks-net 0.3.8, hyracks-storage-am-bloomfilter 0.3.5, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-bloomfilter 0.3.7, hyracks-storage-am-bloomfilter 0.3.8, hyracks-storage-am-btree 0.3.5, hyracks-storage-am-btree 0.3.6, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-btree 0.3.8, hyracks-storage-am-common 0.3.5, hyracks-storage-am-common 0.3.6, hyracks-storage-am-common 0.3.7, hyracks-storage-am-common 0.3.8, hyracks-storage-am-lsm-btree 0.3.5, hyracks-storage-am-lsm-btree 0.3.6, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-btree 0.3.8, hyracks-storage-am-lsm-common 0.3.5, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-common 0.3.7, hyracks-storage-am-lsm-common 0.3.8, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-invertedindex 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.7, hyracks-storage-am-lsm-invertedindex 0.3.8, hyracks-storage-am-lsm-rtree 0.3.5, hyracks-storage-am-lsm-rtree 0.3.6, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-lsm-rtree 0.3.8, hyracks-storage-am-rtree 0.3.5, hyracks-storage-am-rtree 0.3.6, hyracks-storage-am-rtree 0.3.7, hyracks-storage-am-rtree 0.3.8, hyracks-storage-common 0.3.5, hyracks-storage-common 0.3.6, hyracks-storage-common 0.3.7, hyracks-storage-common 0.3.8, hyracks-util 0.3.5, hyracks-util 0.3.6, hyracks-util 0.3.7, hyracks-util 0.3.8, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, io.grpc:grpc-alts 1.52.1, io.grpc:grpc-api 1.52.1, io.grpc:grpc-auth 1.52.1, io.grpc:grpc-context 1.52.1, io.grpc:grpc-core 1.52.1, io.grpc:grpc-googleapis 1.52.1, io.grpc:grpc-grpclb 1.52.1, io.grpc:grpc-netty-shaded 1.52.1, io.grpc:grpc-protobuf 1.52.1, io.grpc:grpc-protobuf-lite 1.52.1, io.grpc:grpc-services 1.52.1, io.grpc:grpc-stub 1.52.1, io.grpc:grpc-xds 1.52.1, J2ObjC Annotations 1.3, Jackson 2 extensions to the Google HTTP Client Library for Java. 1.42.3, Jackson dataformats: Binary 2.12.6, jackson-annotations 2.14.0, jackson-annotations 2.14.1, jackson-core 1.9.14-atlassian-6, jackson-core 2.13.2, jackson-core 2.14.0, jackson-core 2.14.1, jackson-databind 2.14.0, jackson-databind 2.14.1, jackson-dataformat-xml 2.13.5, Jackson-Datatype-JSR310 2.13.5, Java Concurrency Tools Core Library 3.1.0, Java Native Access (JNA) 5.13.0, Java Native Access (JNA) 5.6.0, JavaPoet 1.13.0, JCIP Annotations under Apache License 1.0-1, Jetbrains annotations 13.0, Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server 9.4.48.v20220622, jhump/protoreflect v1.6.0, JMES Path Query library 1.12.402, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, Joda Time 2.8.1, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 3.3.5, Log4J Commons Logging Bridge 2.19.0, Log4J Compatibility API 2.19.0, martian 20190517-snapshot-25dcb96d, martian v3.2.1, matttproud-golang_protobuf_extensions v1.0.4, meck 0.8.4, Microsoft Windows Azure Storage Client SDK 8.6.6, Microsoft/tslib 1.11.1, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mschoch/smat v0.2.0, msgpack-core 0.8.20, msgpack-python 1.0.4, Netty Project 4.1.87.Final, Netty/Codec/Redis 4.1.87.Final, Netty/Codec/SMTP 4.1.87.Final, Netty/Handler/Ssl/Ocsp 4.1.87.Final, Netty/Resolver/DNS/Classes/MacOS 4.1.87.Final, Netty/Resolver/DNS/MacOS 4.1.87.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.56.Final, Netty/TomcatNative [OpenSSL - Classes] 2.0.56.Final, Netty/Transport/Classes/Epoll 4.1.87.Final, Netty/Transport/Classes/KQueue 4.1.87.Final, Netty/Transport/Native/KQueue 4.1.87.Final, Netty/Transport/Native/Unix/Common 4.1.87.Final, Nimbus Content Type 2.2, Nimbus LangTag 1.7, Nimbus-JOSE-JWT 9.30.2, OAuth 2.0 SDK with OpenID Connect extensions 10.7.1, oklog/run v1.1.0, OpenCensus 0.2.0, OpenCensus 0.31.1, opencensus-api 0.31.1, OpenTracing API 0.31.0, OpenTracing-noop 0.31.0, opentracing-opentracing-go 20180301-snapshot, org.conscrypt:conscrypt-openjdk-uber 2.5.2, perfmark:perfmark-api 0.26.0, Prometheus Java Simpleclient 0.14.1, Prometheus Java Simpleclient Common 0.14.1, Prometheus Java Span Context Supplier - Common 0.14.1, Prometheus Java Span Context Supplier - OpenTelemetry 0.14.1, Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.14.1, prometheus-client_model v0.3.0, prometheus-common v0.39.0, prometheus-procfs v0.9.0, prometheus/prometheus v2.23.0, proto-google-cloud-storage-v2 2.17.2-alpha, pyca/cryptography 39.0.1, pyOpenSSL 23.0.0, ReactiveX RxJS 6.5.3, reactor-core 3.4.27, rebar 2.5.1, rebar 2.6.0, requests 2.28.2, requests-toolbelt 0.10.1, RoaringBitmap-roaring v0.9.4, RxJava 1.3.8, snappy 0.4, snappy-java 1.1.8.4, software.amazon.ion:ion-java 1.0.2, spf13-cobra 0.0.5, spf13-cobra 20170131-snapshot, tektoncd/cli v0.1.2, tklauser/numcpus v0.6.0, tpcds 1.2, tzdata 2022g, Woodstox 6.4.0, yaml for Go 20200512-snapshot-9f266ea9, yaml for Go v2.2.2, yaml for Go v2.4.0, yaml for Go v3.0.1, Zero-allocation Hashing 0.9)
+([ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-common 0.3.6, algebricks-common 0.3.7, algebricks-common 0.3.8, algebricks-compiler 0.3.5, algebricks-compiler 0.3.6, algebricks-compiler 0.3.7, algebricks-compiler 0.3.8, algebricks-core 0.3.5, algebricks-core 0.3.6, algebricks-core 0.3.7, algebricks-core 0.3.8, algebricks-data 0.3.5, algebricks-data 0.3.6, algebricks-data 0.3.7, algebricks-data 0.3.8, algebricks-rewriter 0.3.5, algebricks-rewriter 0.3.6, algebricks-rewriter 0.3.7, algebricks-rewriter 0.3.8, algebricks-runtime 0.3.5, algebricks-runtime 0.3.6, algebricks-runtime 0.3.7, algebricks-runtime 0.3.8, Apache Commons Codec 1.15, Apache Commons Collections 3.2.2, Apache Commons Collections 4.4, Apache Commons Compress 1.22, Apache Commons Configuration 2.1.1, Apache Commons IO 2.11.0, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.10.0, Apache CouchDB customized, Apache Hadoop 3.3.4, Apache Hadoop Amazon Web Services support 3.3.4, Apache Hadoop Auth 3.3.4, Apache Hadoop Azure support 3.3.4, Apache Hadoop shaded Guava 1.1.1, Apache HTTP transport v2 for the Google HTTP Client Library for Java. 1.42.3, Apache HttpClient 4.5.13, Apache HttpComponents Core 4.4.15, Apache Log4j 2.19.0, Apache Log4J API 2.19.0, Apache Log4j JUL Adapter 2.19.0, Apache Log4j SLF4J Binding 2.19.0, Apache Log4j Web Adapters 2.19.0, Apache Parquet Column 1.12.3, Apache Parquet Common 1.12.3, Apache Parquet Encodings 1.12.3, Apache Parquet Format Structures 1.12.3, Apache Parquet Hadoop 1.12.3, asterix-active 0.9.5, asterix-active 0.9.6, asterix-active 0.9.7, asterix-active 0.9.8, asterix-algebra 0.9.5, asterix-algebra 0.9.6, asterix-algebra 0.9.7, asterix-algebra 0.9.8, asterix-app 0.9.5, asterix-app 0.9.6, asterix-app 0.9.7, asterix-app 0.9.8, asterix-common 0.9.5, asterix-common 0.9.6, asterix-common 0.9.7, asterix-common 0.9.8, asterix-external-data 0.9.5, asterix-external-data 0.9.6, asterix-external-data 0.9.7, asterix-external-data 0.9.8, asterix-lang-aql 0.9.5, asterix-lang-aql 0.9.6, asterix-lang-common 0.9.5, asterix-lang-common 0.9.6, asterix-lang-common 0.9.7, asterix-lang-common 0.9.8, asterix-lang-sqlpp 0.9.5, asterix-lang-sqlpp 0.9.6, asterix-lang-sqlpp 0.9.7, asterix-lang-sqlpp 0.9.8, asterix-metadata 0.9.5, asterix-metadata 0.9.6, asterix-metadata 0.9.7, asterix-metadata 0.9.8, asterix-om 0.9.5, asterix-om 0.9.6, asterix-om 0.9.7, asterix-om 0.9.8, asterix-replication 0.9.5, asterix-replication 0.9.6, asterix-replication 0.9.7, asterix-replication 0.9.8, asterix-runtime 0.9.5, asterix-runtime 0.9.6, asterix-runtime 0.9.7, asterix-runtime 0.9.8, asterix-transactions 0.9.5, asterix-transactions 0.9.6, asterix-transactions 0.9.7, asterix-transactions 0.9.8, Auto Common Libraries 1.2.1, AutoValue 1.10.1, AutoValue Annotations 1.10.1, AWS Event Stream 1.0.1, AWS Java SDK :: Arns 2.17.218, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.17.218, AWS Java SDK :: Core :: Protocols :: Json Utils 2.17.218, AWS Java SDK :: Metrics Interface 2.17.218, AWS Java SDK :: Services :: Amazon S3 2.17.218, AWS Java SDK :: Third Party :: Jackson-core 2.17.218, AWS SDK for Go v1.44.185, AWS SDK for Go v1.44.189, AWS SDK for Java 1.12.402, AWS SDK for Java 2.17.218, aws/aws-sdk-go-v2 config/v1.18.10, aws/aws-sdk-go-v2 credentials/v1.13.10, aws/aws-sdk-go-v2 feature/ec2/imds/v1.12.21, aws/aws-sdk-go-v2 internal/configsources/v1.1.27, aws/aws-sdk-go-v2 internal/ini/v1.3.28, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.9.21, aws/aws-sdk-go-v2 service/kms/v1.20.1, aws/aws-sdk-go-v2 service/sts/v1.18.2, aws/aws-sdk-go-v2 v1.12.0, aws/aws-sdk-go-v2 v1.14.0, aws/aws-sdk-go-v2 v1.17.3, blevesearch-segment v0.9.0, blevesearch/bleve-mapping-ui v0.4.0, blevesearch/geo 20220606-snapshot-aab42add, blevesearch/scorch_segment_api v2.1.0, blevesearch/sear v0.0.5, blevesearch/upsidedown_store_api v1.0.1, census-instrumentation/opencensus-go v0.24.0, client_golang 1.14.0, Cloud Storage API v1beta1 (revision 28) v1-rev20220705-2.0.0, com.conversantmedia:disruptor 1.2.15, com.google.api.grpc:proto-google-common-protos 2.13.0, com.google.api.grpc:proto-google-iam-v1 1.8.0, com.google.auto.service:auto-service-annotations 1.0.1, commons-csv 1.9.0, commons-csv commons-csv-1.8, Core functionality for the Reactor Netty library 1.0.28, couchbase-blance v0.1.1, couchbase-cbauth v0.1.1, couchbase-cbauth v0.1.6, couchbase-cbauth v0.1.8, couchbase-cbgt v1.3.1, couchbase-gocb v2.2.2, couchbase-gocb v2.3.2, couchbase-gocb v2.6.0, couchbase-goutils v0.1.2, couchbase-goxdcr v8.1.0-1168, couchbase-indexing 20230421-snapshot-762d07bc, couchbase/couchstore v7.2.0, couchbase/gocbcore v10.2.0, couchbase/gocbcore v9.1.10, couchbase/gocbcore v9.1.7, couchbase/moss v0.3.0, couchbase/nitro 20221007-snapshot-92d53613, Data Mapper for Jackson 1.9.14-atlassian-6, dimchansky/utfbom v1.1.1, Disruptor Framework 3.4.4, erlang-otp 24.3.4.4, error-prone annotations 2.11.0, error-prone annotations 2.16, error-prone annotations 2.5.1, EscapeVelocity 0.9.1, fastutil 8.5.6, FindBugs jsr305 3.0.2, FlatBuffers 1.5.0, FlatBuffers 23.1.21, FlatBuffers v1.10.0, flatbuffers-java 1.6.0.3, folly v2020.09.07.00, forestdb v1.2, gapic-google-cloud-storage-v2 2.17.2-alpha, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, github.com/aws/smithy-go v1.13.5, github.com/blevesearch/vellum v1.0.8, github.com/blevesearch/zapx v11.3.4, github.com/blevesearch/zapx v12.3.4, github.com/blevesearch/zapx v13.3.4, github.com/blevesearch/zapx v14.3.4, Go programming language 20181002-snapshot, go-autorest autorest/adal/v0.9.18, go-autorest autorest/azure/auth/v0.5.11, go-autorest autorest/azure/cli/v0.4.5, go-autorest autorest/date/v0.3.0, go-autorest autorest/mocks/v0.4.1, go-autorest autorest/to/v0.4.0, go-autorest autorest/v0.11.24, go-autorest autorest/validation/v0.3.1, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v2.6.0, godebug v1.1.0, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang/appengine v1.6.7, golang/geo 20210211-snapshot-740aa86c, golang/glog 20160125-snapshot-23def4e6, Google Android Annotations Library 4.1.1.4, Google APIs Client Library for Java 2.1.2, Google App Engine extensions to the Google HTTP Client Library for Java. 1.42.3, Google Cloud Client Libraries for Go 20210117-snapshot, Google Cloud Client Libraries for Go compute/metadata/v0.2.3, Google Cloud Client Libraries for Go compute/v1.15.1, Google Cloud Client Libraries for Go compute/v1.18.0, Google Cloud Client Libraries for Go kms/v1.8.0, Google Cloud Client Libraries for Go storage/v1.29.0, Google Cloud Client Libraries for Go v0.10.0, Google Cloud Client Libraries for Go v0.109.0, Google Cloud Core 2.9.4, Google Cloud Storage 2.17.2, Google HTTP Client Library for Java 1.42.3, google-gofuzz v1.2.0, google-gson 2.10, google-gson 2.10.1, google-guava 30.1.1-jre, google-guava 31.1-jre, google-oauth-java-client 1.34.1, google/go-cloud v0.24.0, google/go-genproto 20180817-snapshot-c66870c0, google/go-genproto 20230123-snapshot-2c411cf9, google/go-genproto 20230127-snapshot-596548ed, google/go-replayers grpcreplay/v1.1.0, google/go-replayers httpreplay/v1.0.0, google/wire v0.5.0, googleapis/enterprise-certificate-proxy v0.2.1, googleapis/google-cloud-java 2.9.4, gosigar v1.3.4, goskiplist 20170622-snapshot, groupcache 20210331-snapshot-41bb18bf, grpc 1.28.1, grpc-go 20190102-snapshot, grpc-go v1.24.0, grpc-go v1.52.0, grpc-go v1.52.3, grpc-google-cloud-storage-v2 2.17.2-alpha, GSON extensions to the Google HTTP Client Library for Java. 1.42.3, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, hadoop-mapreduce-client-core 3.3.4, hogan.js 3.0.2, HTTP functionality for the Reactor Netty library 1.0.28, hyracks-api 0.3.5, hyracks-api 0.3.6, hyracks-api 0.3.7, hyracks-api 0.3.8, hyracks-client 0.3.5, hyracks-client 0.3.6, hyracks-client 0.3.7, hyracks-client 0.3.8, hyracks-comm 0.3.5, hyracks-comm 0.3.6, hyracks-comm 0.3.7, hyracks-comm 0.3.8, hyracks-control-cc 0.3.5, hyracks-control-cc 0.3.6, hyracks-control-cc 0.3.7, hyracks-control-cc 0.3.8, hyracks-control-common 0.3.5, hyracks-control-common 0.3.6, hyracks-control-common 0.3.7, hyracks-control-common 0.3.8, hyracks-control-nc 0.3.5, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-control-nc 0.3.8, hyracks-data-std 0.3.5, hyracks-data-std 0.3.6, hyracks-data-std 0.3.7, hyracks-data-std 0.3.8, hyracks-dataflow-common 0.3.5, hyracks-dataflow-common 0.3.6, hyracks-dataflow-common 0.3.7, hyracks-dataflow-common 0.3.8, hyracks-dataflow-std 0.3.5, hyracks-dataflow-std 0.3.6, hyracks-dataflow-std 0.3.7, hyracks-dataflow-std 0.3.8, hyracks-http 0.3.5, hyracks-http 0.3.6, hyracks-http 0.3.7, hyracks-http 0.3.8, hyracks-ipc 0.3.5, hyracks-ipc 0.3.6, hyracks-ipc 0.3.7, hyracks-ipc 0.3.8, hyracks-net 0.3.5, hyracks-net 0.3.6, hyracks-net 0.3.7, hyracks-net 0.3.8, hyracks-storage-am-bloomfilter 0.3.5, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-bloomfilter 0.3.7, hyracks-storage-am-bloomfilter 0.3.8, hyracks-storage-am-btree 0.3.5, hyracks-storage-am-btree 0.3.6, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-btree 0.3.8, hyracks-storage-am-common 0.3.5, hyracks-storage-am-common 0.3.6, hyracks-storage-am-common 0.3.7, hyracks-storage-am-common 0.3.8, hyracks-storage-am-lsm-btree 0.3.5, hyracks-storage-am-lsm-btree 0.3.6, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-btree 0.3.8, hyracks-storage-am-lsm-common 0.3.5, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-common 0.3.7, hyracks-storage-am-lsm-common 0.3.8, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-invertedindex 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.7, hyracks-storage-am-lsm-invertedindex 0.3.8, hyracks-storage-am-lsm-rtree 0.3.5, hyracks-storage-am-lsm-rtree 0.3.6, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-lsm-rtree 0.3.8, hyracks-storage-am-rtree 0.3.5, hyracks-storage-am-rtree 0.3.6, hyracks-storage-am-rtree 0.3.7, hyracks-storage-am-rtree 0.3.8, hyracks-storage-common 0.3.5, hyracks-storage-common 0.3.6, hyracks-storage-common 0.3.7, hyracks-storage-common 0.3.8, hyracks-util 0.3.5, hyracks-util 0.3.6, hyracks-util 0.3.7, hyracks-util 0.3.8, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, io.grpc:grpc-alts 1.52.1, io.grpc:grpc-api 1.52.1, io.grpc:grpc-auth 1.52.1, io.grpc:grpc-context 1.52.1, io.grpc:grpc-core 1.52.1, io.grpc:grpc-googleapis 1.52.1, io.grpc:grpc-grpclb 1.52.1, io.grpc:grpc-netty-shaded 1.52.1, io.grpc:grpc-protobuf 1.52.1, io.grpc:grpc-protobuf-lite 1.52.1, io.grpc:grpc-services 1.52.1, io.grpc:grpc-stub 1.52.1, io.grpc:grpc-xds 1.52.1, J2ObjC Annotations 1.3, Jackson 2 extensions to the Google HTTP Client Library for Java. 1.42.3, Jackson dataformats: Binary 2.12.6, jackson-annotations 2.14.0, jackson-annotations 2.14.1, jackson-core 1.9.14-atlassian-6, jackson-core 2.13.2, jackson-core 2.14.0, jackson-core 2.14.1, jackson-databind 2.14.0, jackson-databind 2.14.1, jackson-dataformat-xml 2.13.5, Jackson-Datatype-JSR310 2.13.5, Java Concurrency Tools Core Library 3.1.0, Java Native Access (JNA) 5.13.0, Java Native Access (JNA) 5.6.0, JavaPoet 1.13.0, JCIP Annotations under Apache License 1.0-1, Jetbrains annotations 13.0, Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server 9.4.48.v20220622, jhump/protoreflect v1.6.0, JMES Path Query library 1.12.402, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, Joda Time 2.8.1, krestenkrab's triq 20151018-snapshot-c7306b8e, libcouchbase 3.3.5, Log4J Commons Logging Bridge 2.19.0, Log4J Compatibility API 2.19.0, martian 20190517-snapshot-25dcb96d, martian v3.2.1, matttproud-golang_protobuf_extensions v1.0.4, meck 0.8.4, Microsoft Windows Azure Storage Client SDK 8.6.6, Microsoft/tslib 1.11.1, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mschoch/smat v0.2.0, msgpack-core 0.8.20, msgpack-python 1.0.5, Netty Project 4.1.87.Final, Netty/Codec/Redis 4.1.87.Final, Netty/Codec/SMTP 4.1.87.Final, Netty/Handler/Ssl/Ocsp 4.1.87.Final, Netty/Resolver/DNS/Classes/MacOS 4.1.87.Final, Netty/Resolver/DNS/MacOS 4.1.87.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.56.Final, Netty/TomcatNative [OpenSSL - Classes] 2.0.56.Final, Netty/Transport/Classes/Epoll 4.1.87.Final, Netty/Transport/Classes/KQueue 4.1.87.Final, Netty/Transport/Native/KQueue 4.1.87.Final, Netty/Transport/Native/Unix/Common 4.1.87.Final, Nimbus Content Type 2.2, Nimbus LangTag 1.7, Nimbus-JOSE-JWT 9.30.2, OAuth 2.0 SDK with OpenID Connect extensions 10.7.1, oklog/run v1.1.0, OpenCensus 0.2.0, OpenCensus 0.31.1, opencensus-api 0.31.1, OpenSSL 3.1.1, OpenTracing API 0.31.0, OpenTracing-noop 0.31.0, opentracing-opentracing-go 20180301-snapshot, org.conscrypt:conscrypt-openjdk-uber 2.5.2, perfmark:perfmark-api 0.26.0, Prometheus Java Simpleclient 0.14.1, Prometheus Java Simpleclient Common 0.14.1, Prometheus Java Span Context Supplier - Common 0.14.1, Prometheus Java Span Context Supplier - OpenTelemetry 0.14.1, Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.14.1, prometheus-client_model v0.3.0, prometheus-common v0.39.0, prometheus-procfs v0.9.0, prometheus/prometheus v2.23.0, proto-google-cloud-storage-v2 2.17.2-alpha, pyca/cryptography 38.0.4, pyOpenSSL 23.2.0, ReactiveX RxJS 6.5.3, reactor-core 3.4.27, rebar 2.5.1, rebar 2.6.0, requests 2.31.0, requests-toolbelt 1.0.0, RoaringBitmap-roaring v0.9.4, RxJava 1.3.8, snappy 0.4, snappy-java 1.1.8.4, software.amazon.ion:ion-java 1.0.2, spf13-cobra 0.0.5, spf13-cobra 20170131-snapshot, tektoncd/cli v0.1.2, tklauser/numcpus v0.6.0, tpcds 1.2, Woodstox 6.4.0, yaml for Go 20200512-snapshot-9f266ea9, yaml for Go v2.2.2, yaml for Go v2.4.0, yaml for Go v3.0.1, Zero-allocation Hashing 0.9)
+
+Apache License
+Version 2.0, January 2004
+=========================
+
+
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction, and
+distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright
+owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities
+that control, are controlled by, or are under common control with that entity.
+For the purposes of this definition, "control" means (i) the power, direct or
+indirect, to cause the direction or management of such entity, whether by
+contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the
+outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions
+granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, including
+but not limited to software source code, documentation source, and configuration
+files.
+
+"Object" form shall mean any form resulting from mechanical transformation or
+translation of a Source form, including but not limited to compiled object code,
+generated documentation, and conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or Object form, made
+available under the License, as indicated by a copyright notice that is included
+in or attached to the work (an example is provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that is
+based on (or derived from) the Work and for which the editorial revisions,
+annotations, elaborations, or other modifications represent, as a whole, an
+original work of authorship. For the purposes of this License, Derivative Works
+shall not include works that remain separable from, or merely link (or bind by
+name) to the interfaces of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including the original version
+of the Work and any modifications or additions to that Work or Derivative Works
+thereof, that is intentionally submitted to Licensor for inclusion in the Work by
+the copyright owner or by an individual or Legal Entity authorized to submit on
+behalf of the copyright owner. For the purposes of this definition, "submitted"
+means any form of electronic, verbal, or written communication sent to the
+Licensor or its representatives, including but not limited to communication on
+electronic mailing lists, source code control systems, and issue tracking systems
+that are managed by, or on behalf of, the Licensor for the purpose of discussing
+and improving the Work, but excluding communication that is conspicuously marked
+or otherwise designated in writing by the copyright owner as "Not a
+Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of
+whom a Contribution has been received by Licensor and subsequently incorporated
+within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this
+License, each Contributor hereby grants to You a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable copyright license to
+reproduce, prepare Derivative Works of, publicly display, publicly perform,
+sublicense, and distribute the Work and such Derivative Works in Source or Object
+form.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License,
+each Contributor hereby grants to You a perpetual, worldwide, non-exclusive,
+no-charge, royalty-free, irrevocable (except as stated in this section) patent
+license to make, have made, use, offer to sell, sell, import, and otherwise
+transfer the Work, where such license applies only to those patent claims
+licensable by such Contributor that are necessarily infringed by their
+Contribution(s) alone or by combination of their Contribution(s) with the Work to
+which such Contribution(s) was submitted. If You institute patent litigation
+against any entity (including a cross-claim or counterclaim in a lawsuit)
+alleging that the Work or a Contribution incorporated within the Work constitutes
+direct or contributory patent infringement, then any patent licenses granted to
+You under this License for that Work shall terminate as of the date such
+litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work or
+Derivative Works thereof in any medium, with or without modifications, and in
+Source or Object form, provided that You meet the following conditions:
+
+  a. You must give any other recipients of the Work or Derivative Works a copy of
+    this License; and
+
+  b. You must cause any modified files to carry prominent notices stating that
+    You changed the files; and
+
+  c. You must retain, in the Source form of any Derivative Works that You
+    distribute, all copyright, patent, trademark, and attribution notices from
+    the Source form of the Work, excluding those notices that do not pertain to
+    any part of the Derivative Works; and
+
+  d. If the Work includes a "NOTICE" text file as part of its distribution, then
+    any Derivative Works that You distribute must include a readable copy of the
+    attribution notices contained within such NOTICE file, excluding those
+    notices that do not pertain to any part of the Derivative Works, in at least
+    one of the following places: within a NOTICE text file distributed as part of
+    the Derivative Works; within the Source form or documentation, if provided
+    along with the Derivative Works; or, within a display generated by the
+    Derivative Works, if and wherever such third-party notices normally appear.
+    The contents of the NOTICE file are for informational purposes only and do
+    not modify the License. You may add Your own attribution notices within
+    Derivative Works that You distribute, alongside or as an addendum to the
+    NOTICE text from the Work, provided that such additional attribution notices
+    cannot be construed as modifying the License.
+
+You may add Your own copyright statement to Your modifications and may provide
+additional or different license terms and conditions for use, reproduction, or
+distribution of Your modifications, or for any such Derivative Works as a whole,
+provided Your use, reproduction, and distribution of the Work otherwise complies
+with the conditions stated in this License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise, any
+Contribution intentionally submitted for inclusion in the Work by You to the
+Licensor shall be under the terms and conditions of this License, without any
+additional terms or conditions. Notwithstanding the above, nothing herein shall
+supersede or modify the terms of any separate license agreement you may have
+executed with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade names,
+trademarks, service marks, or product names of the Licensor, except as required
+for reasonable and customary use in describing the origin of the Work and
+reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in
+writing, Licensor provides the Work (and each Contributor provides its
+Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+either express or implied, including, without limitation, any warranties or
+conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+PARTICULAR PURPOSE. You are solely responsible for determining the
+appropriateness of using or redistributing the Work and assume any risks
+associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, whether in
+tort (including negligence), contract, or otherwise, unless required by
+applicable law (such as deliberate and grossly negligent acts) or agreed to in
+writing, shall any Contributor be liable to You for damages, including any
+direct, indirect, special, incidental, or consequential damages of any character
+arising as a result of this License or out of the use or inability to use the
+Work (including but not limited to damages for loss of goodwill, work stoppage,
+computer failure or malfunction, or any and all other commercial damages or
+losses), even if such Contributor has been advised of the possibility of such
+damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or
+Derivative Works thereof, You may choose to offer, and charge a fee for,
+acceptance of support, warranty, indemnity, or other liability obligations and/or
+rights consistent with this License. However, in accepting such obligations, You
+may act only on Your own behalf and on Your sole responsibility, not on behalf of
+any other Contributor, and only if You agree to indemnify, defend, and hold each
+Contributor harmless for any liability incurred by, or claims asserted against,
+such Contributor by reason of your accepting any such warranty or additional
+liability.
+
+END OF TERMS AND CONDITIONS
+
+APPENDIX: How to apply the Apache License to your work
+
+To apply the Apache License to your work, attach the following boilerplate
+notice, with the fields enclosed by brackets "[]" replaced with your own
+identifying information. (Don't include the brackets!) The text should be
+enclosed in the appropriate comment syntax for the file format. We also recommend
+that a file or class name and description of purpose be included on the same
+"printed page" as the copyright notice for easier identification within
+third-party archives.
+
+  Copyright [yyyy] [name of copyright owner] Licensed under the Apache License,
+  Version 2.0 (the "License"); you may not use this file except in compliance
+  with the License. You may obtain a copy of the License at
+  http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law
+  or agreed to in writing, software distributed under the License is
+  distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  KIND, either express or implied. See the License for the specific language
+  governing permissions and limitations under the License.
+
+---
+
+Apache License 2.0 with Exceptions
+(libcxx 16.0.4)
+
+This license may contain an exception relative to the applicability of certain
+provisions of the license and this exception may alter your specific obligations
+when using it. The exact nature of the exception was not specified at the time of
+discovery. You are advised to examine the project's license directly in order to
+determine if it applies to your usage.
+
+
 
 Apache License
 Version 2.0, January 2004
@@ -1154,7 +1350,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 2-clause "Simplified" License
-(BurntSushi/toml 1.2.1, go-check-check 20201130-snapshot-10cb9826, go-metrics 20200313-snapshot-10cdbea8, pkg/browser 20210911-snapshot-681adbf5, pycryptodome 3.16.0, Stax2 API 4.2.1, zstd-jni 1.5.0-1)
+(BurntSushi/toml 1.2.1, go-check-check 20201130-snapshot-10cb9826, go-metrics 20200313-snapshot-10cdbea8, pkg/browser 20210911-snapshot-681adbf5, pycryptodome 3.18.0, Stax2 API 4.2.1, zstd-jni 1.5.0-1)
 
 BSD Two Clause License
 ======================
@@ -2409,7 +2605,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 3-clause "New" or "Revised" License
-(_libgcc_mutex 0.1, ASM 9.3, bits-and-blooms/bitset v1.2.2, blackfriday v1.5.2, blevesearch/mmap-go v1.0.4, BurntSushi/toml 1.2.1, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, exp 20230127-snapshot-a960b378, GAX (Google Api eXtensions) 0.107.0, GAX (Google Api eXtensions) 2.22.0, Go programming language 1.19.9, Go programming language 1.20.4, go-zookeeper 20201211-snapshot-7117e9ea, golang-github-grpc-grpc-go 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/crypto v0.5.0, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/mod v0.7.0, golang.org/x/net v0.5.0, golang.org/x/net v0.8.0, golang.org/x/oauth2 v0.4.0, golang.org/x/sync v0.1.0, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20211112-snapshot-0c823b97, golang.org/x/sys v0.4.0, golang.org/x/sys v0.6.0, golang.org/x/term v0.4.0, golang.org/x/term v0.6.0, golang.org/x/time v0.3.0, golang.org/x/tools v0.5.0, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.6.0, golang/text v0.8.0, Google API Common 2.5.0, Google Auth Library for Java 1.14.0, google.golang.org/protobuf v1.28.0, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.9, googleapis/gax-go v2.7.0, HdrHistogram_c 0.9.2, idna 3.4, jsdiff 4.0.2, jsdiff v5.0.0, libuuid 2.32.1, mattn-go-colorable 0.1.13, PCRE 8.44, Protobuf 1.3.5, protobuf-java 3.21.12, Protocol Buffer Java Util Package 3.21.12, pyca/cryptography 39.0.1, PySocks 1.7.1, re2j 1.6, ThreeTen backport 1.6.5, tklauser/go-sysconf v0.3.11, xsdlib 2013.6.1)
+(_libgcc_mutex 0.1, ASM 9.3, bits-and-blooms/bitset v1.2.2, blackfriday v1.5.2, blevesearch/mmap-go v1.0.4, BurntSushi/toml 1.2.1, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, exp 20230127-snapshot-a960b378, GAX (Google Api eXtensions) 0.107.0, GAX (Google Api eXtensions) 2.22.0, Go programming language 1.19.9, Go programming language 1.20.4, go-zookeeper 20201211-snapshot-7117e9ea, golang-github-grpc-grpc-go 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/crypto v0.5.0, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/mod v0.7.0, golang.org/x/net v0.5.0, golang.org/x/net v0.8.0, golang.org/x/oauth2 v0.4.0, golang.org/x/sync v0.1.0, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20211112-snapshot-0c823b97, golang.org/x/sys v0.4.0, golang.org/x/sys v0.6.0, golang.org/x/term v0.4.0, golang.org/x/term v0.6.0, golang.org/x/time v0.3.0, golang.org/x/tools v0.5.0, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.6.0, golang/text v0.8.0, Google API Common 2.5.0, Google Auth Library for Java 1.14.0, google-snappy 1.1.10, google.golang.org/protobuf v1.28.0, google.golang.org/protobuf v1.28.1, google/go-cmp v0.5.9, googleapis/gax-go v2.7.0, HdrHistogram_c 0.9.2, idna 3.4, jsdiff 4.0.2, jsdiff v5.0.0, libuuid 2.38.1, mattn-go-colorable 0.1.13, PCRE 8.44, Protobuf 1.3.5, protobuf-java 3.21.12, Protocol Buffer Java Util Package 3.21.12, pyca/cryptography 38.0.4, PySocks 1.7.1, re2j 1.6, ThreeTen backport 1.6.5, tklauser/go-sysconf v0.3.11, xsdlib 2013.6.1)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -2509,7 +2705,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(google-snappy 1.1.1, google-snappy 1.1.8, google-snappy 1.1.9)
+(google-snappy 1.1.1, google-snappy 1.1.8)
 
 Copyright 2011, Google Inc.
 All rights reserved.
@@ -7514,7 +7710,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(ca-certificates 2022.12.7, jbcrypt 0.4, libuv 1.20.3)
+(ca-certificates 2023.5.7, jbcrypt 0.4, libuv 1.20.3)
 
 ISC License (ISCL)
 ==================
@@ -7862,6 +8058,31 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(brotli v1.0.9)
+
+Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
 
 ---
 
@@ -9150,7 +9371,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, Animal Sniffer Annotations 1.22, armon-go-metrics v0.4.1, azure-identity 1.9.0, azure-storage-blob 12.22.0, Azure/azure-sdk-for-go sdk/azcore/v1.0.0, Azure/azure-sdk-for-go sdk/azidentity/v1.0.0, Azure/azure-sdk-for-go sdk/internal/v1.0.0, Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1, AzureAD/microsoft-authentication-library-for-go v0.5.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, brotlipy v0.7.0, BurntSushi/toml 1.2.1, cespare/xxhash v2.2.0, charset-normalizer 2.1.1, Checker Qual 3.29.0, clipboard.js 1.5.16, couchbase-gomemcached v0.2, couchbase-gomemcached v0.2.1, cpuguy83-go-md2man 2.0.2, curl 7.88.1, delegate 3.2.0, dominikh/go-tools v0.3.3, erlang-erlydtl 0.7.0, github.com/golang-jwt/jwt v4.4.3, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, Go Testify v1.8.1, go-cli v2.24.1, go-jsonpointer 20140810-snapshot-75939f54, go-zap v1.24.0, go.uber.org/multierr v1.9.0, good-listener 1.2.2, hashicorp/go-hclog v1.4.0, JAXB isorelax library 20090621, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, libcxx 14.0.5, libicu 71.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mattn-go-sqlite3 v1.14.16, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.21.0, Microsoft Azure internal Avro module for Storage 12.7.0, Microsoft Azure Java Core Library 1.38.0, Microsoft Azure Java JSON Library 1.0.0, Microsoft Azure Netty HTTP Client Library 1.13.2, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.13.8, msal4j-persistence-extension 1.2.0, natsort 8.2.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, python cffi 1.15.1, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, stretchr/objx v0.5.0, uber-go/atomic v1.10.0, urllib3 1.26.14, xrash/smetrics 20201216-snapshot-039620a6, yaml for Go v3.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, Animal Sniffer Annotations 1.22, armon-go-metrics v0.4.1, azure-identity 1.9.0, azure-storage-blob 12.22.0, Azure/azure-sdk-for-go sdk/azcore/v1.0.0, Azure/azure-sdk-for-go sdk/azidentity/v1.0.0, Azure/azure-sdk-for-go sdk/internal/v1.0.0, Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1, AzureAD/microsoft-authentication-library-for-go v0.5.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, BurntSushi/toml 1.2.1, cespare/xxhash v2.2.0, charset-normalizer 3.1.0, Checker Qual 3.29.0, clipboard.js 1.5.16, couchbase-gomemcached v0.2, couchbase-gomemcached v0.2.1, cpuguy83-go-md2man 2.0.2, curl 7.88.1, delegate 3.2.0, dominikh/go-tools v0.3.3, erlang-erlydtl 0.7.0, github.com/golang-jwt/jwt v4.4.3, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, Go Testify v1.8.1, go-cli v2.24.1, go-jsonpointer 20140810-snapshot-75939f54, go-zap v1.24.0, go.uber.org/multierr v1.9.0, good-listener 1.2.2, hashicorp/go-hclog v1.4.0, JAXB isorelax library 20090621, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, libcxx 16.0.4, libicu 71.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mattn-go-sqlite3 v1.14.16, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.21.0, Microsoft Azure internal Avro module for Storage 12.7.0, Microsoft Azure Java Core Library 1.38.0, Microsoft Azure Java JSON Library 1.0.0, Microsoft Azure Netty HTTP Client Library 1.13.2, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.13.8, msal4j-persistence-extension 1.2.0, natsort 8.3.1, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, python cffi 1.15.1, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, sn-2-ui-router-ng2 6.0.1, stretchr/objx v0.5.0, uber-go/atomic v1.10.0, urllib3 2.0.2, xrash/smetrics 20201216-snapshot-039620a6, yaml for Go v3.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
 
 The MIT License
 ===============
@@ -9917,7 +10138,7 @@ SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(errwrap v1.1.0, go-immutable-radix v1.3.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.4.8, hashicorp-go-retryablehttp v0.7.2, hashicorp-go-rootcerts v1.0.2, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.6.0, hashicorp-golang-lru v0.5.4, hashicorp-yamux v0.1.1, hashicorp/go-sockaddr v1.0.2, hashicorp/hcl v1.0.0, python-certifi 2022.12.7, Vault by HashiCorp api/v1.8.3, Vault by HashiCorp sdk/v0.7.0)
+(errwrap v1.1.0, go-immutable-radix v1.3.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.4.8, hashicorp-go-retryablehttp v0.7.2, hashicorp-go-rootcerts v1.0.2, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.6.0, hashicorp-golang-lru v0.5.4, hashicorp-yamux v0.1.1, hashicorp/go-sockaddr v1.0.2, hashicorp/hcl v1.0.0, python-certifi 2023.5.7, Vault by HashiCorp api/v1.8.3, Vault by HashiCorp sdk/v0.7.0)
 
 Mozilla Public License
 Version 2.0
@@ -10330,67 +10551,8 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 ---
 
-OpenSSL License
-(OpenSSL 1.1.1t)
-
-OpenSSL Project License
-=======================
-
-OpenSSL License
----------------
-
-====================================================================
-Copyright (c) 1998-2001 The OpenSSL Project. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-  1. Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
-
-  2.  Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-
-  3. All advertising materials mentioning features or use of this software must
-    display the following acknowledgment: "This product includes software
-    developed by the OpenSSL Project for use in the OpenSSL Toolkit.
-    (http://www.openssl.org/)"
-
-  4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
-    endorse or promote products derived from this software without prior written
-    permission. For written permission, please contact openssl-core@openssl.org.
-
-  5.  Products derived from this software may not be called "OpenSSL" nor may
-    "OpenSSL" appear in their names without prior written permission of the
-    OpenSSL Project.
-
-  6. Redistributions of any form whatsoever must retain the following
-    acknowledgment:
-
-      "This product includes software developed by the OpenSSL Project for use in
-      the OpenSSL Toolkit (http://www.openssl.org/)"
-
-THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR
-IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
-SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
-WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
-OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
-THE POSSIBILITY OF SUCH DAMAGE.
-====================================================================
-
-This product includes cryptographic software written by Eric Young
-(eay@cryptsoft.com). This product includes software written by Tim Hudson
-(tjh@cryptsoft.com).
-
----
-
 Public Domain
-(erlang-poolboy 1.5.1, HdrHistogram 2.1.8, HdrHistogram_c 0.9.2, libicu 71.1, pascaldekloe/goe v0.1.0, pycryptodome 3.16.0, SQLite 3.40.0, win_inet_pton 1.1.0, XZ Utils 5.2.6)
+(erlang-poolboy 1.5.1, HdrHistogram 2.1.8, HdrHistogram_c 0.9.2, libicu 71.1, pascaldekloe/goe v0.1.0, pycryptodome 3.18.0, SQLite 3.42.0, tzdata 2023c, win_inet_pton 1.1.0, XZ Utils 5.2.6)
 
 Public domain code is not subject to any license.
 
@@ -10454,66 +10616,6 @@ PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 
 ---
 
-SSLeay License
-(OpenSSL 1.1.1t)
-
-SSLeay License
-==============
-
-
-Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com) All rights reserved.
----------------------------------------------------------------------------
-
-This package is an SSL implementation written by Eric Young (eay@cryptsoft.com).
-The implementation was written so as to conform with Netscapes SSL. This library
-is free for commercial and non-commercial use as long as the following conditions
-are aheared to. The following conditions apply to all code found in this
-distribution, be it the RC4, RSA, lhash, DES, etc., code; not just the SSL code.
-The SSL documentation included with this distribution is covered by the same
-copyright terms except that the holder is Tim Hudson (tjh@cryptsoft.com).
-
-Copyright remains Eric Young's, and as such any Copyright notices in the code are
-not to be removed. If this package is used in a product, Eric Young should be
-given attribution as the author of the parts of the library used. This can be in
-the form of a textual message at program startup or in documentation (online or
-textual) provided with the package. Redistribution and use in source and binary
-forms, with or without modification, are permitted provided that the following
-conditions are met:
-
-  1. Redistributions of source code must retain the copyright notice, this list
-    of conditions and the following disclaimer.
-
-  2. Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-
-  3. All advertising materials mentioning features or use of this software must
-    display the following acknowledgement: "This product includes cryptographic
-    software written by Eric Young (eay@cryptsoft.com)". The word 'cryptographic'
-    can be left out if the rouines from the library being used are not
-    cryptographic related :-).
-
-  4. If you include any Windows specific code (or a derivative thereof) from the
-    apps directory (application code) you must include an acknowledgement: "This
-    product includes software written by Tim Hudson (tjh@cryptsoft.com)"
-
-
-THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND ANY EXPRESS OR IMPLIED
-WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
-SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
-BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
-IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGE.The licence and distribution terms for any publically available
-version or derivative of this code cannot be changed. i.e. this code cannot
-simply be copied and put under another distribution licence [including the GNU
-Public Licence.
-
----
-
 TCL/TK License
 (Tcl/Tk 8.6.12)
 
@@ -10562,6 +10664,60 @@ license.
 
 ---
 
+The Open SSL License
+(OpenSSL 1.1.1u)
+
+OpenSSL
+=======
+
+
+Copyright (c) 1998-2000 The OpenSSL Project. All rights reserved.
+-----------------------------------------------------------------
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  1. Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  2. Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  3. All advertising materials mentioning features or use of this software must
+    display the following acknowledgment: This product includes software
+    developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org)
+
+  4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+    endorse or promote products derived from this software without prior written
+    permission. For written permission, please contact openssl-core@openssl.org
+
+  5. Products derived from this software may not be called "OpenSSL" nor may
+    "OpenSSL" appear in their names without prior written permission of the
+    OpenSSL Project.
+
+  6. Redistributions of any form whatsoever must retain the following
+    acknowledgment: "This product includes software developed by the OpenSSL
+    Project for use in the OpenSSL Toolkit (http://www.openssl.org)"
+
+
+
+
+THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
+written by Eric Young (eay@cryptsoft.com). This product includes software written
+by Tim Hudson (tjh@cryptsoft.com).
+
+---
+
 Unicode Character Database Terms Of Use
 (libicu 71.1)
 
@@ -10594,7 +10750,7 @@ programs, as long as there is an accompanying notice indicating the source.
 ---
 
 University of Illinois/NCSA Open Source License
-(libcxx 14.0.5)
+(libcxx 16.0.4)
 
 University of Illinois/NCSA Open Source License
 ===============================================
