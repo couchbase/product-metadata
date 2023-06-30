@@ -48,6 +48,7 @@ gobwas/httphead 20180817-snapshot-2c6c146e : MIT License
 gobwas/pool v0.2.0 : MIT License
 gobwas/ws v1.0.2 : MIT License
 GoDoc Text v0.1.0 : MIT License
+Golang Protobuf v1.28.0 : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.5.2 : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto v0.7.0 : BSD 3-clause "New" or "Revised" License
@@ -57,7 +58,6 @@ golang.org/x/sync 20210219-snapshot-036812b2 : BSD 3-clause "New" or "Revised" L
 golang.org/x/sys v0.6.0 : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.7 : Apache License 2.0
 golang/text v0.8.0 : BSD 3-clause "New" or "Revised" License
-google.golang.org/protobuf v1.28.0 : BSD 3-clause "New" or "Revised" License
 google/go-cmp v0.5.8 : BSD 3-clause "New" or "Revised" License
 google/pprof 20211214-snapshot-6f573593 : Apache License 2.0
 google/uuid v1.3.0 : BSD 3-clause "New" or "Revised" License
@@ -89,7 +89,7 @@ samuel/go-metrics 20150819-snapshot-7ccf3e0e : BSD 3-clause "New" or "Revised" L
 sergi/go-diff v1.2.0 : (MIT License AND Apache License 2.0)
 stretchr/objx v0.5.0 : MIT License
 sync_gateway 3.1.0 : Apache License 2.0
-ugorji's go v1.1.7 : MIT License
+ugorji's go codec/v1.1.7 : MIT License
 wheelcomplex/gosigar v0.14.2 : Apache License 2.0
 yaml for Go v2.4.0 : Apache License 2.0
 yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
@@ -313,34 +313,6 @@ DAMAGE.
 ---
 
 BSD 2-clause "Simplified" License
-(gorilla/websocket v1.4.2)
-
-Copyright (c) 2013 The Gorilla WebSocket Authors. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-  Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
-
-  Redistributions in binary form must reproduce the above copyright notice,
-  this list of conditions and the following disclaimer in the documentation
-  and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 2-clause "Simplified" License
 (pkg/errors v0.9.1)
 
 Copyright (c) 2015, Dave Cheney <dave@cheney.net>
@@ -397,6 +369,40 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 2-clause "Simplified" License
+(gorilla/websocket v1.4.2)
+
+Files: debian/*
+Copyright: 2013 Vincent Bernat <bernat@debian.org>
+License: BSD-2-clause
+
+License: BSD-2-clause
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are
+ met:
+ .
+  * Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+  * Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the
+    distribution.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+ HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -565,7 +571,40 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20220722-snapshot-a9213eeb, golang.org/x/crypto v0.7.0, golang.org/x/net v0.8.0, golang.org/x/oauth2 20220711-snapshot-c8730f7f, golang.org/x/sync 20210219-snapshot-036812b2, golang.org/x/sys v0.6.0, golang/text v0.8.0, google.golang.org/protobuf v1.28.0, google/go-cmp v0.5.8, klauspost-compress v1.15.12)
+(Golang Protobuf v1.28.0)
+
+Copyright (c) 2018 The Go Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+   * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+   * Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(exp 20220722-snapshot-a9213eeb, golang.org/x/crypto v0.7.0, golang.org/x/net v0.8.0, golang.org/x/oauth2 20220711-snapshot-c8730f7f, golang.org/x/sync 20210219-snapshot-036812b2, golang.org/x/sys v0.6.0, golang/text v0.8.0, google/go-cmp v0.5.8, klauspost-compress v1.15.12)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1109,7 +1148,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 MIT License
-(ugorji's go v1.1.7)
+(ugorji's go codec/v1.1.7)
 
 The MIT License (MIT)
 
