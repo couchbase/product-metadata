@@ -87,6 +87,7 @@ gradle-plugin-development 5.6 : Apache License 2.0
 gradle-plugin-use 5.6 : Apache License 2.0
 gradle-plugins 5.6.1 : Apache License 2.0
 gradle-process-services 5.2 : Apache License 2.0
+gradle-reporting 5.6.2 : Apache License 2.0
 gradle-resources 5.2 : Apache License 2.0
 gradle-resources-gcs 6.1-milestone-1 : Apache License 2.0
 gradle-resources-s3 6.1-milestone-3 : Apache License 2.0
@@ -123,7 +124,6 @@ JSch 0.1.54 : BSD 3-clause "New" or "Revised" License
 JUL to SLF4J bridge 1.7.25 : MIT License
 JUnit 4.12 : Eclipse Public License 1.0
 JZlib 1.1.3 : BSD 3-clause "New" or "Revised" License
-kafka-kit 2.1.0 : BSD 3-clause "New" or "Revised" License
 Kotlin 1.3.11 : Apache License 2.0
 kotlin-compiler 1.3.11 : Apache License 2.0
 kotlin-reflect 1.3.11 : Apache License 2.0
@@ -153,6 +153,7 @@ objenesis 2.6 : Apache License 2.0
 org.apiguardian:apiguardian-api 1.0.0 : Apache License 2.0
 org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.3.11 : Apache License 2.0
 org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.3.11 : Apache License 2.0
+org.jetbrains.kotlinx:kotlinx-metadata-jvm 0.0.5 : Apache License 2.0
 org.junit.platform:junit-platform-commons 1.3.1 : Eclipse Public License 1.0
 org.junit.platform:junit-platform-engine 1.3.1 : Eclipse Public License 1.0
 org.junit.platform:junit-platform-launcher 1.3.1 : Eclipse Public License 1.0
@@ -183,7 +184,7 @@ XBean :: Reflect 3.7 : Apache License 2.0
 Licenses: 
 
 Apache License 2.0
-(Apache Ant 1.9.13, Apache Commons CLI 1.4, Apache Commons Codec 1.11, Apache Commons Collections 3.2.2, Apache Commons Compress 1.18, Apache Commons IO 2.6, Apache Commons Lang 2.6, Apache Groovy 2.5.4, Apache HttpClient 4.5.6, Apache Ivy 2.3.0, Apache Maven 3.0.4, Apache Xerces2 J 2.12.0, Apache XML Commons 1.4.01, aQute.libg 4.0.0, AWS SDK for Java 1.11.407, BeanShell 2.0b6, biz.aQute.bnd.gradle 4.0.0, biz.aQute.launcher 4.0.0, bnd Annotations Library 4.0.0, bndlib 4.0.0, classworlds 2.5.1, Cloud Storage API v1beta1 (revision 28) v1-rev136-1.25.0, Default Plexus Container 1.7.1, FindBugs jsr305 3.0.2, folly v2021.08.02.00, Google APIs Client Library for Java 1.25.0, Google HTTP Client Library for Java 1.25.0, google-gson 2.8.5, google-guava v26.0, google-oauth-java-client 1.25.0, gradle 5.2.1, gradle-announce 5.6-rc-1, gradle-base-services 5.2, gradle-base-services-groovy 5.2, gradle-build-comparison 5.6-rc-2, gradle-build-option 6.1-rc-1, gradle-cli 6.1-milestone-1, gradle-core 5.1.1, gradle-core 5.2, gradle-core-api 5.6.1, gradle-dependency-management 5.2, gradle-diagnostics 5.6, gradle-docs 6.0.1, gradle-ear 5.6.3, gradle-ide 5.6.2, gradle-ide-play 6.1, gradle-jacoco 5.6.4, gradle-javascript 5.6.1, gradle-jvm-services 6.0.1, gradle-kotlin-dsl 1.1.1, gradle-kotlin-dsl-provider-plugins 1.1.1, gradle-kotlin-dsl-tooling-builders 1.1.1, gradle-kotlin-dsl-tooling-models 1.1.1, gradle-language-jvm 5.6.4, gradle-language-native 5.6, gradle-logging 5.2, gradle-maven 5.6.2, gradle-messaging 5.2, gradle-model-core 5.2, gradle-native 6.1.1, gradle-osgi 5.6-rc-1, gradle-platform-base 5.6-rc-1, gradle-platform-native 5.6.1, gradle-plugin-development 5.6, gradle-plugin-use 5.6, gradle-plugins 5.6.1, gradle-process-services 5.2, gradle-resources 5.2, gradle-resources-gcs 6.1-milestone-1, gradle-resources-s3 6.1-milestone-3, gradle-runtime-api-info 5.6.2, gradle-signing 5.6.2, gradle-testing-base 5.6.3, gradle-testing-jvm 6.0.1, gradle-testing-native 5.6.3, gradle-tooling-native 6.1-rc-3, gradle-workers 5.2, gradle-wrapper 5.2, Grails Base Profile 4.0.4, httpcomponents-core 4.4.10, Jackson 2 extensions to the Google HTTP Client Library for Java. 1.25.0, jackson-annotations 2.9.6, jackson-core 2.9.6, jackson-databind 2.9.6, jansi 1.17.1, jatl 0.2.3, javax.inject:javax.inject 1, JCommander Library 1.72, Jetbrains annotations 13.0, JMES Path Query library 1.11.407, Joda Time 2.10, Kotlin 1.3.11, kotlin-compiler 1.3.11, kotlin-reflect 1.3.11, kotlin-script-runtime 1.3.11, kotlin-stdlib-common 1.3.11, libcouchbase 3.3.5, libplexus-utils 3.1.0, Log4j Implemented Over SLF4J 1.7.25, Maven Aether Provider 3.0.4, Maven Artifact 3.0.4, Maven Compatibility Layer 3.0.4, Maven Local Settings Model 3.0.4, Maven Model 3.0.4, Maven Model Builder 3.0.4, Maven Plugin API 3.0.4, Maven Repository Metadata Model 3.0.4, Maven Settings Builder 3.0.4, Maven Wagon API 3.0.0, Maven Wagon File Provider 3.0.0, Maven Wagon HTTP Provider 3.0.0, Maven Wagon HTTP Shared Library 3.0.0, NekoHTML 1.9.22, objenesis 2.6, org.apiguardian:apiguardian-api 1.0.0, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.3.11, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.3.11, org.osgi:org.osgi.annotation.bundle 1.0.0, org.osgi:org.osgi.service.component.annotations 1.4.0, org.osgi:org.osgi.service.component.annotations 1.5.0-RC1, org.osgi:org.osgi.service.metatype.annotations 1.4.0, org.osgi:org.osgi.service.repository 1.1.0, org.osgi:org.osgi.util.function 1.1.0, org.osgi:org.osgi.util.promise 1.1.0, org.osgi:osgi.promise 7.0.0, Plexus 1.5.5, Plexus Cypher Component 1.7, Plexus Interpolation API 1.14, Plexus Security Dispatcher Component 1.3, plexus-cipher 1.7, Polyglot Maven :: Common 0.8-20100325, Polyglot Maven :: Groovy 0.8-20100325, SnakeYAML 1.17, software.amazon.ion:ion-java 1.0.2, TestNG 6.3.1, XBean :: Reflect 3.7)
+(Apache Ant 1.9.13, Apache Commons CLI 1.4, Apache Commons Codec 1.11, Apache Commons Collections 3.2.2, Apache Commons Compress 1.18, Apache Commons IO 2.6, Apache Commons Lang 2.6, Apache Groovy 2.5.4, Apache HttpClient 4.5.6, Apache Ivy 2.3.0, Apache Maven 3.0.4, Apache Xerces2 J 2.12.0, Apache XML Commons 1.4.01, aQute.libg 4.0.0, AWS SDK for Java 1.11.407, BeanShell 2.0b6, biz.aQute.bnd.gradle 4.0.0, biz.aQute.launcher 4.0.0, bnd Annotations Library 4.0.0, bndlib 4.0.0, classworlds 2.5.1, Cloud Storage API v1beta1 (revision 28) v1-rev136-1.25.0, Default Plexus Container 1.7.1, FindBugs jsr305 3.0.2, folly v2021.08.02.00, Google APIs Client Library for Java 1.25.0, Google HTTP Client Library for Java 1.25.0, google-gson 2.8.5, google-guava v26.0, google-oauth-java-client 1.25.0, gradle 5.2.1, gradle-announce 5.6-rc-1, gradle-base-services 5.2, gradle-base-services-groovy 5.2, gradle-build-comparison 5.6-rc-2, gradle-build-option 6.1-rc-1, gradle-cli 6.1-milestone-1, gradle-core 5.1.1, gradle-core 5.2, gradle-core-api 5.6.1, gradle-dependency-management 5.2, gradle-diagnostics 5.6, gradle-docs 6.0.1, gradle-ear 5.6.3, gradle-ide 5.6.2, gradle-ide-play 6.1, gradle-jacoco 5.6.4, gradle-javascript 5.6.1, gradle-jvm-services 6.0.1, gradle-kotlin-dsl 1.1.1, gradle-kotlin-dsl-provider-plugins 1.1.1, gradle-kotlin-dsl-tooling-builders 1.1.1, gradle-kotlin-dsl-tooling-models 1.1.1, gradle-language-jvm 5.6.4, gradle-language-native 5.6, gradle-logging 5.2, gradle-maven 5.6.2, gradle-messaging 5.2, gradle-model-core 5.2, gradle-native 6.1.1, gradle-osgi 5.6-rc-1, gradle-platform-base 5.6-rc-1, gradle-platform-native 5.6.1, gradle-plugin-development 5.6, gradle-plugin-use 5.6, gradle-plugins 5.6.1, gradle-process-services 5.2, gradle-reporting 5.6.2, gradle-resources 5.2, gradle-resources-gcs 6.1-milestone-1, gradle-resources-s3 6.1-milestone-3, gradle-runtime-api-info 5.6.2, gradle-signing 5.6.2, gradle-testing-base 5.6.3, gradle-testing-jvm 6.0.1, gradle-testing-native 5.6.3, gradle-tooling-native 6.1-rc-3, gradle-workers 5.2, gradle-wrapper 5.2, Grails Base Profile 4.0.4, httpcomponents-core 4.4.10, Jackson 2 extensions to the Google HTTP Client Library for Java. 1.25.0, jackson-annotations 2.9.6, jackson-core 2.9.6, jackson-databind 2.9.6, jansi 1.17.1, jatl 0.2.3, javax.inject:javax.inject 1, JCommander Library 1.72, Jetbrains annotations 13.0, JMES Path Query library 1.11.407, Joda Time 2.10, Kotlin 1.3.11, kotlin-compiler 1.3.11, kotlin-reflect 1.3.11, kotlin-script-runtime 1.3.11, kotlin-stdlib-common 1.3.11, libcouchbase 3.3.5, libplexus-utils 3.1.0, Log4j Implemented Over SLF4J 1.7.25, Maven Aether Provider 3.0.4, Maven Artifact 3.0.4, Maven Compatibility Layer 3.0.4, Maven Local Settings Model 3.0.4, Maven Model 3.0.4, Maven Model Builder 3.0.4, Maven Plugin API 3.0.4, Maven Repository Metadata Model 3.0.4, Maven Settings Builder 3.0.4, Maven Wagon API 3.0.0, Maven Wagon File Provider 3.0.0, Maven Wagon HTTP Provider 3.0.0, Maven Wagon HTTP Shared Library 3.0.0, NekoHTML 1.9.22, objenesis 2.6, org.apiguardian:apiguardian-api 1.0.0, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.3.11, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.3.11, org.jetbrains.kotlinx:kotlinx-metadata-jvm 0.0.5, org.osgi:org.osgi.annotation.bundle 1.0.0, org.osgi:org.osgi.service.component.annotations 1.4.0, org.osgi:org.osgi.service.component.annotations 1.5.0-RC1, org.osgi:org.osgi.service.metatype.annotations 1.4.0, org.osgi:org.osgi.service.repository 1.1.0, org.osgi:org.osgi.util.function 1.1.0, org.osgi:org.osgi.util.promise 1.1.0, org.osgi:osgi.promise 7.0.0, Plexus 1.5.5, Plexus Cypher Component 1.7, Plexus Interpolation API 1.14, Plexus Security Dispatcher Component 1.3, plexus-cipher 1.7, Polyglot Maven :: Common 0.8-20100325, Polyglot Maven :: Groovy 0.8-20100325, SnakeYAML 1.17, software.amazon.ion:ion-java 1.0.2, TestNG 6.3.1, XBean :: Reflect 3.7)
 
 Apache License
 Version 2.0, January 2004
@@ -366,39 +367,6 @@ third-party archives.
   distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
   KIND, either express or implied. See the License for the specific language
   governing permissions and limitations under the License.
-
----
-
-BSD 3-clause "New" or "Revised" License
-(kafka-kit 2.1.0)
-
-------------------------------------------------------------------------------
-Copyright (c) 2007, Eclipse Foundation, Inc. and its licensors.
-
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-   * Redistributions of source code must retain the above copyright notice,
-     this list of conditions and the following disclaimer.
-   * Redistributions in binary form must reproduce the above copyright notice,
-     this list of conditions and the following disclaimer in the documentation
-     and/or other materials provided with the distribution.
-   * Neither the name of the Eclipse Foundation, Inc. nor the names of its
-     contributors may be used to endorse or promote products derived from this
-     software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
