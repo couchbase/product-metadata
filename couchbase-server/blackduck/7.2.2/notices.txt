@@ -658,6 +658,7 @@ libgcc 10.2.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libgcc-ng 12.2.0 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libgomp 12.2.0 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libicu 71.1 : (MIT License AND Public Domain AND Unicode Character Database Terms Of Use)
+libnsl 2.0.0 : GNU Lesser General Public License v2.1 only
 libnuma1 2.0.11 : GNU Lesser General Public License v2.1 or later
 libstdc++ 10.2.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
 liburing 0.6 : MIT License
@@ -812,7 +813,6 @@ stretchr/objx v0.1.1 : MIT License
 stretchr/objx v0.5.0 : MIT License
 Tcl/Tk 8.6.12 : TCL/TK License
 tektoncd/cli v0.1.2 : Apache License 2.0
-thkukuk/libnsl 2.0.0 : GNU Lesser General Public License v2.1 only
 ThreeTen backport 1.6.5 : BSD 3-clause "New" or "Revised" License
 tiny-emitter 1.2.0 : MIT License
 tinylib-msgp 20181103-snapshot : MIT License
@@ -6298,7 +6298,7 @@ this License. But first, please read
 ---
 
 GNU Lesser General Public License v2.1 only
-(thkukuk/libnsl 2.0.0)
+(libnsl 2.0.0)
 
 GNU Lesser General Public License Version 2.1 Only
 --------------------------------------------------
