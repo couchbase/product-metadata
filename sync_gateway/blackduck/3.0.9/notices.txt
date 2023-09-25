@@ -37,6 +37,7 @@ golang-github-json-iterator-go-dev 1.1.12 : Expat License
 golang-github-pkg-errors 0.8.0+git20180311.816c908 : BSD 2-clause "Simplified" License
 golang-golang-x-oauth2 0.0~git20190604.0f29369 : BSD 3-clause "New" or "Revised" License
 golang-golang-x-text 0.5.0 : BSD 3-clause "New" or "Revised" License
+golang-x-text-dev 0.10.0 : BSD 3-clause "New" or "Revised" License
 golang-x-text-dev 0.5.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto 20180917-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/net 20180425-snapshot-5ccada7d : BSD 3-clause "New" or "Revised" License
@@ -49,7 +50,6 @@ golang.org/x/net 20190619-snapshot : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20180811-snapshot : BSD 3-clause "New" or "Revised" License
 golang/net 1.11+git20190403.48a9fcb : BSD 3-clause "New" or "Revised" License
 golang/net 1.12+git20190812.cdfb69a : BSD 3-clause "New" or "Revised" License
-golang/text v0.12.0 : BSD 3-clause "New" or "Revised" License
 golang/text v0.7.0 : BSD 3-clause "New" or "Revised" License
 google/pprof 0 : Apache License 2.0
 google/uuid 20181210-snapshot : BSD 3-clause "New" or "Revised" License
@@ -701,7 +701,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang-golang-x-text 0.5.0, golang-x-text-dev 0.5.0, golang/text v0.12.0, golang/text v0.7.0, klauspost-compress v1.15.9, SSLMate/go-pkcs12 v0.2.1)
+(golang-golang-x-text 0.5.0, golang-x-text-dev 0.10.0, golang-x-text-dev 0.5.0, golang/text v0.7.0, klauspost-compress v1.15.9, SSLMate/go-pkcs12 v0.2.1)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
