@@ -40,6 +40,8 @@ libheckle-ruby1.8 1.4.3 : MIT License
 librack-ruby1.8 1.1.0 : (MIT License OR GNU General Public License v2.0 or later)
 lsegal/yard 0.9.34 : MIT License
 minitest 5.20.0 : MIT License
+parser 3.0.0.0 : MIT License
+parser 3.2.2.0 : MIT License
 parser 3.2.2.3 : MIT License
 racc 1.7.1 : (BSD 2-clause "Simplified" License OR Ruby License)
 Rack 3.0.8 : MIT License
@@ -50,10 +52,8 @@ regexp_parser 2.8.1 : MIT License
 restinio 0.6.13 : 
 rexml 3.2.5 : BSD 2-clause "Simplified" License
 RingyDingy 1.4.3 : MIT License
-rubocop 1.56.3 : MIT License
 rubocop 1.56.4 : MIT License
 rubocop-ast 1.29.0 : MIT License
-rubocop-minitest 0.31.1 : MIT License
 rubocop-minitest 0.32.2 : MIT License
 rubocop-packaging 0.5.1 : MIT License
 rubocop-performance 1.19.0 : MIT License
@@ -1047,6 +1047,37 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
+(parser 3.0.0.0)
+
+Copyright (c) 2013-2016 whitequark  <whitequark@whitequark.org>
+
+Parts of the source are derived from ruby_parser:
+Copyright (c) Ryan Davis, seattle.rb
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (Rake 13.0.6)
 
 Copyright (c) Jim Weirich
@@ -1183,7 +1214,7 @@ permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Active Resource 2.3.2, Active Resource REL 2.3.2 q, ActiveRecord- Object-relation mapping put on rails 2.3.2, CapnKernul/minitest-reporters 1.6.1, erubi 1.12.0, jfelchner/ruby-progressbar 1.13.0, jruote 1.0.0, language_server-protocol 3.17.0.3, libheckle-ruby1.8 1.4.3, librack-ruby1.8 1.1.0, lsegal/yard 0.9.34, minitest 5.20.0, parser 3.2.2.3, Rack 3.0.8, reek 6.1.4, regexp_parser 2.8.1, RingyDingy 1.4.3, rubocop 1.56.3, rubocop 1.56.4, rubocop-ast 1.29.0, rubocop-minitest 0.31.1, rubocop-minitest 0.32.2, rubocop-packaging 0.5.1, rubocop-performance 1.19.0, rubocop-thread_safety 0.5.1, ruby2.2-rubygem-flog 4.4.1, ruby_parser 3.20.2, rubygem-minitest 5.20.0, rubygem-ruby2ruby 2.5.0, seattlerb's flog 4.8.0, seattlerb's heckle 1.4.3, seattlerb's parsetree 3.0.8, seattlerb's rubyinline 3.14.0, seattlerb's zentest 4.12.1, seattlerb/path_expander v1.1.1, sensu-plugins-haproxy 2.0.3, sexp_processor 4.16.1, sexp_processor 4.17.0, simplecov v0.22.0, simplecov_json_formatter 0.1.4, timocratic-rack 1.0.0, unicode-display_width 2.4.2)
+(Active Resource 2.3.2, Active Resource REL 2.3.2 q, ActiveRecord- Object-relation mapping put on rails 2.3.2, CapnKernul/minitest-reporters 1.6.1, erubi 1.12.0, jfelchner/ruby-progressbar 1.13.0, jruote 1.0.0, language_server-protocol 3.17.0.3, libheckle-ruby1.8 1.4.3, librack-ruby1.8 1.1.0, lsegal/yard 0.9.34, minitest 5.20.0, parser 3.2.2.0, parser 3.2.2.3, Rack 3.0.8, reek 6.1.4, regexp_parser 2.8.1, RingyDingy 1.4.3, rubocop 1.56.4, rubocop-ast 1.29.0, rubocop-minitest 0.32.2, rubocop-packaging 0.5.1, rubocop-performance 1.19.0, rubocop-thread_safety 0.5.1, ruby2.2-rubygem-flog 4.4.1, ruby_parser 3.20.2, rubygem-minitest 5.20.0, rubygem-ruby2ruby 2.5.0, seattlerb's flog 4.8.0, seattlerb's heckle 1.4.3, seattlerb's parsetree 3.0.8, seattlerb's rubyinline 3.14.0, seattlerb's zentest 4.12.1, seattlerb/path_expander v1.1.1, sensu-plugins-haproxy 2.0.3, sexp_processor 4.16.1, sexp_processor 4.17.0, simplecov v0.22.0, simplecov_json_formatter 0.1.4, timocratic-rack 1.0.0, unicode-display_width 2.4.2)
 
 The MIT License
 ===============
