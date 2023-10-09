@@ -63,13 +63,11 @@ ruby-builder 3.2.4 : MIT License
 ruby-i18n 1.14.1 : MIT License
 ruby-rack 3.0.8 : Expat License
 ruby/rexml v3.2.6 : BSD 2-clause "Simplified" License
-ruby2.2-rubygem-flog 4.4.1 : MIT License
 ruby_parser 3.20.2 : MIT License
 rubygem-minitest 5.20.0 : MIT License
 rubygem-racc 1.7.1 : BSD 2-clause "Simplified" License
 rubygem-ruby2ruby 2.5.0 : MIT License
 SciPy: Scientific Library for Python 1.5.4 : BSD 3-clause "New" or "Revised" License
-seattlerb's flog 4.6.2 : MIT License
 seattlerb's flog 4.8.0 : MIT License
 seattlerb's heckle 1.4.3 : MIT License
 seattlerb's parsetree 3.0.8 : MIT License
@@ -91,7 +89,8 @@ tao-pegtl 3.2.6 : MIT License
 taocpp/json 0.0+git20200604.f357d72 : Expat License
 taocpp/json 1.0.0-beta.13 : MIT License
 TZInfo 2.0.6 : MIT License
-unicode-display_width 2.4.2 : MIT License
+unicode-display_width 2.4.1 : MIT License
+unicode-display_width v2.5.0 : MIT License
 
 Licenses: 
 
@@ -636,34 +635,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(seattlerb's flog 4.6.2)
-
-(The MIT License)
-
-Copyright (c) Ryan Davis, seattle.rb
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (jimweirich's builder 3.2.4)
 
 Copyright (c) 2003-2012 Jim Weirich (jim.weirich@gmail.com)
@@ -1017,7 +988,7 @@ permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(CapnKernul/minitest-reporters 1.6.1, concurrent-ruby 1.2.2, erubi 1.12.0, gem-compiler 0.9.0, jfelchner/ruby-progressbar 1.13.0, language_server-protocol 3.17.0.3, libheckle-ruby1.8 1.4.3, lsegal/yard 0.9.34, minitest 5.20.0, parser 3.2.2.0, parser 3.2.2.3, parser 3.2.2.4, Rack 3.0.8, reek 6.1.4, regexp_parser 2.8.1, RingyDingy 1.4.3, rubocop 1.56.4, rubocop-ast 1.29.0, rubocop-minitest 0.32.2, rubocop-packaging 0.5.1, rubocop-performance 1.19.0, rubocop-thread_safety 0.5.1, Ruby on Rails 7.0.8, ruby-i18n 1.14.1, ruby2.2-rubygem-flog 4.4.1, ruby_parser 3.20.2, rubygem-minitest 5.20.0, rubygem-ruby2ruby 2.5.0, seattlerb's flog 4.8.0, seattlerb's heckle 1.4.3, seattlerb's parsetree 3.0.8, seattlerb's rubyinline 3.14.0, seattlerb's zentest 4.12.1, seattlerb/path_expander v1.1.1, sensu-plugins-haproxy 2.0.3, sexp_processor 4.16.1, sexp_processor 4.17.0, simplecov v0.22.0, simplecov_json_formatter 0.1.4, stympy's faker 3.2.1, tao-pegtl 3.2.6, TZInfo 2.0.6, unicode-display_width 2.4.2)
+(CapnKernul/minitest-reporters 1.6.1, concurrent-ruby 1.2.2, erubi 1.12.0, gem-compiler 0.9.0, jfelchner/ruby-progressbar 1.13.0, language_server-protocol 3.17.0.3, libheckle-ruby1.8 1.4.3, lsegal/yard 0.9.34, minitest 5.20.0, parser 3.2.2.0, parser 3.2.2.3, parser 3.2.2.4, Rack 3.0.8, reek 6.1.4, regexp_parser 2.8.1, RingyDingy 1.4.3, rubocop 1.56.4, rubocop-ast 1.29.0, rubocop-minitest 0.32.2, rubocop-packaging 0.5.1, rubocop-performance 1.19.0, rubocop-thread_safety 0.5.1, Ruby on Rails 7.0.8, ruby-i18n 1.14.1, ruby_parser 3.20.2, rubygem-minitest 5.20.0, rubygem-ruby2ruby 2.5.0, seattlerb's flog 4.8.0, seattlerb's heckle 1.4.3, seattlerb's parsetree 3.0.8, seattlerb's rubyinline 3.14.0, seattlerb's zentest 4.12.1, seattlerb/path_expander v1.1.1, sensu-plugins-haproxy 2.0.3, sexp_processor 4.16.1, sexp_processor 4.17.0, simplecov v0.22.0, simplecov_json_formatter 0.1.4, stympy's faker 3.2.1, tao-pegtl 3.2.6, TZInfo 2.0.6, unicode-display_width 2.4.1, unicode-display_width v2.5.0)
 
 The MIT License
 ===============
