@@ -8,17 +8,21 @@ Components:
 alecthomas-kingpin v2.2.6 : MIT License
 alecthomas-template 20190718-snapshot-fb15b899 : BSD 3-clause "New" or "Revised" License
 alecthomas-units 20190923-snapshot-f65c72e2 : MIT License
+AWS SDK for Go v1.44.299 : Apache License 2.0
 AWS SDK for Go v1.44.77 : Apache License 2.0
 Azure/azure-sdk-for-go sdk/azcore/v1.1.1 : MIT License
-Azure/azure-sdk-for-go sdk/azidentity/v1.1.0 : MIT License
+Azure/azure-sdk-for-go sdk/azcore/v1.6.1 : MIT License
+Azure/azure-sdk-for-go sdk/azidentity/v1.3.0 : MIT License
 Azure/azure-sdk-for-go sdk/internal/v1.0.0 : MIT License
+Azure/azure-sdk-for-go sdk/internal/v1.3.0 : MIT License
 Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1 : MIT License
-AzureAD/microsoft-authentication-library-for-go v0.5.3 : MIT License
+Azure/azure-sdk-for-go sdk/storage/azblob/v1.0.0 : MIT License
+AzureAD/microsoft-authentication-library-for-go v1.0.0 : MIT License
 beorn7-perks v1.0.1 : MIT License
 bhoriuchi/graphql-go-tools v1.0.0 : MIT License
 btree v1.0.0 : Apache License 2.0
 BurntSushi/toml v0.3.1 : MIT License
-census-instrumentation/opencensus-go v0.23.0 : Apache License 2.0
+census-instrumentation/opencensus-go v0.24.0 : Apache License 2.0
 cespare/xxhash v2.1.2 : MIT License
 chzyer-readline 20160726-snapshot-62c6fe61 : MIT License
 chzyer-readline 20180828-snapshot-2972be24 : MIT License
@@ -31,6 +35,7 @@ coreos-go-oidc v2.2.1 : Apache License 2.0
 couchbase-blance v0.1.3 : Apache License 2.0
 couchbase-cbauth v0.1.10 : Apache License 2.0
 couchbase-cbgt v1.3.4 : Apache License 2.0
+couchbase-cbgt v1.3.7 : Apache License 2.0
 couchbase-clog v0.1.0 : Business Source License 1.1
 couchbase-go-couchbase v0.1.1 : MIT License
 couchbase-gocb v1.6.7 : Apache License 2.0
@@ -40,6 +45,18 @@ couchbase-goutils v0.1.2 : Apache License 2.0
 couchbase/go-blip 20221021-snapshot-215cbac2 : Apache License 2.0
 couchbase/gocbcore v10.2.8 : Apache License 2.0
 couchbase/gocbcore v7.1.18 : Apache License 2.0
+couchbase/tools-common cloud/v1.0.0 : 
+couchbase/tools-common core/v1.0.0 : 
+couchbase/tools-common environment/v1.0.0 : 
+couchbase/tools-common errors/v1.0.0 : 
+couchbase/tools-common fs/v1.0.0 : 
+couchbase/tools-common functional/v1.0.0 : 
+couchbase/tools-common http/v1.0.0 : 
+couchbase/tools-common strings/v1.0.0 : 
+couchbase/tools-common sync/v1.0.0 : 
+couchbase/tools-common testing/v1.0.0 : 
+couchbase/tools-common types/v1.0.0 : 
+couchbase/tools-common utils/v1.0.0 : 
 couchbaselabs-walrus 20230921-snapshot-247491ab : Apache License 2.0
 couchbaselabs/gocaves 20230329-snapshot-05e3ba4f : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.4 : Apache License 2.0
@@ -48,13 +65,12 @@ dominikh/go-tools v0.0.1-2020.1.4 : MIT License
 envoyproxy/go-control-plane v0.9.4 : Apache License 2.0
 envoyproxy/protoc-gen-validate v0.1.0 : Apache License 2.0
 exp 20220722-snapshot-a9213eeb : BSD 3-clause "New" or "Revised" License
+exp 20230706-snapshot-06a737ee : BSD 3-clause "New" or "Revised" License
 felixge/fgprof v0.9.2 : MIT License
-foxcpp/go-mockdns v1.0.0 : MIT License
 gin-contrib/sse v0.1.0 : MIT License
 gin-gonic/gin v1.6.3 : MIT License
 github.com/go-kit/log 0.1.0 : MIT License
-github.com/golang-jwt/jwt 3.2.2 : MIT License
-github.com/golang-jwt/jwt v4.2.0 : MIT License
+github.com/golang-jwt/jwt v4.5.0 : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.3 : MIT License
 github.com/yusufpapurcu/wmi v1.2.2 : MIT License
 glfw 20190408-snapshot-e6da0acd : BSD 3-clause "New" or "Revised" License
@@ -62,7 +78,8 @@ glfw 20200222-snapshot-6f7a984d : BSD 3-clause "New" or "Revised" License
 Go Logrus v1.6.0 : MIT License
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.8.2 : MIT License
-go-autorest autorest/adal/v0.9.20 : Apache License 2.0
+Go Testify v1.8.4 : MIT License
+go-autorest autorest/adal/v0.9.23 : Apache License 2.0
 go-autorest autorest/date/v0.3.0 : Apache License 2.0
 go-autorest logger/v0.2.1 : Apache License 2.0
 go-autorest tracing/v0.6.0 : Apache License 2.0
@@ -87,46 +104,58 @@ godebug v1.1.0 : Apache License 2.0
 GoDoc Text v0.1.0 : MIT License
 gogo/protobuf v1.1.1 : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.28.0 : BSD 3-clause "New" or "Revised" License
+Golang Protobuf v1.31.0 : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.5.2 : BSD 3-clause "New" or "Revised" License
+Golang Protobuf v1.5.3 : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 1.0.0 : BSD 2-clause "Simplified" License
-golang-mock v1.4.4 : Apache License 2.0
+golang-mock v1.6.0 : Apache License 2.0
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto v0.11.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto v0.7.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/image 20190704-snapshot-cff245a6 : BSD 3-clause "New" or "Revised" License
 golang.org/x/lint 20200301-snapshot-738671d3 : BSD 3-clause "New" or "Revised" License
-golang.org/x/mod v0.8.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.11.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/net v0.12.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net v0.8.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 20220711-snapshot-c8730f7f : BSD 3-clause "New" or "Revised" License
+golang.org/x/oauth2 v0.9.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync 20210219-snapshot-036812b2 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sync 20220722-snapshot-886fb937 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.10.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys v0.6.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/term v0.6.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/time 20220722-snapshot-e5dcc9cf : BSD 3-clause "New" or "Revised" License
+golang.org/x/term v0.10.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/time v0.3.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools v0.6.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/xerrors 20220608-snapshot-65e65417 : BSD 3-clause "New" or "Revised" License
+golang.org/x/xerrors 20220907-snapshot-04be3eba : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.7 : Apache License 2.0
 golang/glog 20160125-snapshot-23def4e6 : Apache License 2.0
+golang/text v0.11.0 : BSD 3-clause "New" or "Revised" License
 golang/text v0.8.0 : BSD 3-clause "New" or "Revised" License
 google-cloud-go bigquery/v1.8.0 : Apache License 2.0
-google-cloud-go compute/v1.7.0 : Apache License 2.0
+google-cloud-go compute/metadata/v0.2.3 : Apache License 2.0
+google-cloud-go compute/v1.19.3 : Apache License 2.0
 google-cloud-go datastore/v1.1.0 : Apache License 2.0
-google-cloud-go iam/v0.3.0 : Apache License 2.0
+google-cloud-go iam/v1.1.0 : Apache License 2.0
 google-cloud-go pubsub/v1.3.1 : Apache License 2.0
-google-cloud-go storage/v1.24.0 : Apache License 2.0
-google-cloud-go v0.103.0 : Apache License 2.0
+google-cloud-go storage/v1.31.0 : Apache License 2.0
+google-cloud-go v0.110.2 : Apache License 2.0
 google-gofuzz v1.0.0 : Apache License 2.0
 google/go-cmp v0.5.8 : BSD 3-clause "New" or "Revised" License
+google/go-cmp v0.5.9 : BSD 3-clause "New" or "Revised" License
 google/pprof 20211214-snapshot-6f573593 : Apache License 2.0
 google/renameio v0.1.0 : Apache License 2.0
+google/s2a-go v0.1.4 : Apache License 2.0
 google/uuid v1.3.1 : BSD 3-clause "New" or "Revised" License
-googleapis/enterprise-certificate-proxy v0.1.0 : Apache License 2.0
-googleapis/gax-go v2.4.0 : BSD 3-clause "New" or "Revised" License
-googleapis/go-genproto 20220720-snapshot-176da504 : Apache License 2.0
-googleapis/google-api-go-client v0.88.0 : BSD 3-clause "New" or "Revised" License
+googleapis/enterprise-certificate-proxy v0.2.5 : Apache License 2.0
+googleapis/gax-go v2.11.0 : BSD 3-clause "New" or "Revised" License
+googleapis/go-genproto 20230530-snapshot-e85fd2cb : Apache License 2.0
+googleapis/go-genproto 20230629-snapshot-9506855d : Apache License 2.0
+googleapis/google-api-go-client 0.130.0 : BSD 3-clause "New" or "Revised" License
 gopsutil v3.21.11 : BSD 3-clause "New" or "Revised" License
 gorilla/mux v1.8.0 : BSD 3-clause "New" or "Revised" License
 gorilla/websocket v1.4.2 : BSD 2-clause "Simplified" License
 groupcache 20210331-snapshot-41bb18bf : Apache License 2.0
-grpc-go v1.48.0 : Apache License 2.0
+grpc-go v1.56.1 : Apache License 2.0
 hashicorp-golang-lru v0.5.1 : Mozilla Public License 2.0
 ianlancetaylor/demangle 20210905-snapshot-09a460cd : BSD 3-clause "New" or "Revised" License
 jmespath-go-jmespath internal/testify/v1.5.1 : Apache License 2.0
@@ -144,10 +173,8 @@ logfmt 20140226-snapshot-b84e30ac : MIT License
 martian v2.1.0 : Apache License 2.0
 martian v3.0.0 : Apache License 2.0
 mattn-go-isatty v0.0.12 : MIT License
-mattn-go-sqlite3 v1.14.14 : MIT License
 matttproud-golang_protobuf_extensions v1.0.1 : Apache License 2.0
 mergo 0.3.12 : BSD 3-clause "New" or "Revised" License
-miekg/dns v1.1.25 : BSD 3-clause "New" or "Revised" License
 modern-go/concurrent 20180305-snapshot-bacd9c7e : Apache License 2.0
 modern-go/reflect2 v1.0.2 : Apache License 2.0
 mwitkow/go-conntrack 20190716-snapshot-2f068394 : Apache License 2.0
@@ -178,12 +205,12 @@ wheelcomplex/gosigar v0.14.2 : Apache License 2.0
 xgb 20160522-snapshot-27f12275 : BSD 3-clause "New" or "Revised" License
 yaml for Go v2.4.0 : Apache License 2.0
 yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
-yuin/goldmark v1.1.32 : MIT License
+yuin/goldmark v1.4.13 : MIT License
 
 Licenses: 
 
 Apache License 2.0
-(AWS SDK for Go v1.44.77, btree v1.0.0, census-instrumentation/opencensus-go v0.23.0, client_golang v1.11.1, cncf/udpa 20191208-snapshot-269d4d46, coreos-go-oidc v2.2.1, couchbase-blance v0.1.3, couchbase-cbauth v0.1.10, couchbase-cbgt v1.3.4, couchbase-gocb v1.6.7, couchbase-gocb v2.6.4, couchbase-goutils v0.1.2, couchbase/go-blip 20221021-snapshot-215cbac2, couchbase/gocbcore v10.2.8, couchbase/gocbcore v7.1.18, couchbaselabs-walrus 20230921-snapshot-247491ab, couchbaselabs/gocaves 20230329-snapshot-05e3ba4f, couchbaselabs/gocbconnstr v1.0.4, couchbaselabs/gojcbmock v1.0.4, envoyproxy/go-control-plane v0.9.4, envoyproxy/protoc-gen-validate v0.1.0, go-autorest autorest/adal/v0.9.20, go-autorest autorest/date/v0.3.0, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v2.6.0, godebug v1.1.0, golang-mock v1.4.4, golang/appengine v1.6.7, golang/glog 20160125-snapshot-23def4e6, google-cloud-go bigquery/v1.8.0, google-cloud-go compute/v1.7.0, google-cloud-go datastore/v1.1.0, google-cloud-go iam/v0.3.0, google-cloud-go pubsub/v1.3.1, google-cloud-go storage/v1.24.0, google-cloud-go v0.103.0, google-gofuzz v1.0.0, google/pprof 20211214-snapshot-6f573593, google/renameio v0.1.0, googleapis/enterprise-certificate-proxy v0.1.0, googleapis/go-genproto 20220720-snapshot-176da504, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.48.0, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, martian v2.1.0, martian v3.0.0, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, OpenCensus 0.2.1, opentracing-opentracing-go v1.2.0, pquerna/cachecontrol v0.1.0, prometheus-client_model v0.2.0, prometheus-common v0.32.1, prometheus-procfs v0.7.3, sergi/go-diff v1.2.0, sync_gateway 3.1.1.1, wheelcomplex/gosigar v0.14.2, yaml for Go v2.4.0, yaml for Go v3.0.1)
+(AWS SDK for Go v1.44.299, AWS SDK for Go v1.44.77, btree v1.0.0, census-instrumentation/opencensus-go v0.24.0, client_golang v1.11.1, cncf/udpa 20191208-snapshot-269d4d46, coreos-go-oidc v2.2.1, couchbase-blance v0.1.3, couchbase-cbauth v0.1.10, couchbase-cbgt v1.3.4, couchbase-cbgt v1.3.7, couchbase-gocb v1.6.7, couchbase-gocb v2.6.4, couchbase-goutils v0.1.2, couchbase/go-blip 20221021-snapshot-215cbac2, couchbase/gocbcore v10.2.8, couchbase/gocbcore v7.1.18, couchbaselabs-walrus 20230921-snapshot-247491ab, couchbaselabs/gocaves 20230329-snapshot-05e3ba4f, couchbaselabs/gocbconnstr v1.0.4, couchbaselabs/gojcbmock v1.0.4, envoyproxy/go-control-plane v0.9.4, envoyproxy/protoc-gen-validate v0.1.0, go-autorest autorest/adal/v0.9.23, go-autorest autorest/date/v0.3.0, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v2.6.0, godebug v1.1.0, golang-mock v1.6.0, golang/appengine v1.6.7, golang/glog 20160125-snapshot-23def4e6, google-cloud-go bigquery/v1.8.0, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.19.3, google-cloud-go datastore/v1.1.0, google-cloud-go iam/v1.1.0, google-cloud-go pubsub/v1.3.1, google-cloud-go storage/v1.31.0, google-cloud-go v0.110.2, google-gofuzz v1.0.0, google/pprof 20211214-snapshot-6f573593, google/renameio v0.1.0, google/s2a-go v0.1.4, googleapis/enterprise-certificate-proxy v0.2.5, googleapis/go-genproto 20230530-snapshot-e85fd2cb, googleapis/go-genproto 20230629-snapshot-9506855d, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.56.1, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, martian v2.1.0, martian v3.0.0, matttproud-golang_protobuf_extensions v1.0.1, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, OpenCensus 0.2.1, opentracing-opentracing-go v1.2.0, pquerna/cachecontrol v0.1.0, prometheus-client_model v0.2.0, prometheus-common v0.32.1, prometheus-procfs v0.7.3, sergi/go-diff v1.2.0, sync_gateway 3.1.1.1, wheelcomplex/gosigar v0.14.2, yaml for Go v2.4.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -570,9 +597,42 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(miekg/dns v1.1.25, rsc/binaryregexp v0.2.0, rsc/quote v3.1.0, rsc/sampler v1.3.0)
+(rsc/binaryregexp v0.2.0, rsc/quote v3.1.0, rsc/sampler v1.3.0)
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+   * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+   * Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(googleapis/google-api-go-client 0.130.0)
+
+Copyright (c) 2011 Google Inc. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
@@ -800,7 +860,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20220722-snapshot-a9213eeb, glfw 20190408-snapshot-e6da0acd, glfw 20200222-snapshot-6f7a984d, Go support for Mobile devices 20190704-snapshot-d2bd2a29, golang.org/x/crypto v0.7.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200301-snapshot-738671d3, golang.org/x/mod v0.8.0, golang.org/x/net v0.8.0, golang.org/x/oauth2 20220711-snapshot-c8730f7f, golang.org/x/sync 20210219-snapshot-036812b2, golang.org/x/sys v0.6.0, golang.org/x/term v0.6.0, golang.org/x/time 20220722-snapshot-e5dcc9cf, golang.org/x/tools v0.6.0, golang.org/x/xerrors 20220608-snapshot-65e65417, golang/text v0.8.0, google/go-cmp v0.5.8, google/uuid v1.3.1, googleapis/gax-go v2.4.0, googleapis/google-api-go-client v0.88.0, ianlancetaylor/demangle 20210905-snapshot-09a460cd, klauspost-compress v1.15.12, xgb 20160522-snapshot-27f12275)
+(exp 20220722-snapshot-a9213eeb, exp 20230706-snapshot-06a737ee, glfw 20190408-snapshot-e6da0acd, glfw 20200222-snapshot-6f7a984d, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf v1.31.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.11.0, golang.org/x/crypto v0.7.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200301-snapshot-738671d3, golang.org/x/mod v0.11.0, golang.org/x/net v0.12.0, golang.org/x/net v0.8.0, golang.org/x/oauth2 20220711-snapshot-c8730f7f, golang.org/x/oauth2 v0.9.0, golang.org/x/sync 20210219-snapshot-036812b2, golang.org/x/sync 20220722-snapshot-886fb937, golang.org/x/sys v0.10.0, golang.org/x/sys v0.6.0, golang.org/x/term v0.10.0, golang.org/x/time v0.3.0, golang.org/x/tools v0.6.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.11.0, golang/text v0.8.0, google/go-cmp v0.5.8, google/go-cmp v0.5.9, google/uuid v1.3.1, googleapis/gax-go v2.11.0, ianlancetaylor/demangle 20210905-snapshot-09a460cd, klauspost-compress v1.15.12, xgb 20160522-snapshot-27f12275)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1276,20 +1336,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(github.com/golang-jwt/jwt 3.2.2, github.com/golang-jwt/jwt v4.2.0)
-
-Copyright (c) 2012 Dave Grijalva
-Copyright (c) 2021 golang-jwt maintainers
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (jstemmer/go-junit-report v0.9.1)
 
 Copyright (c) 2012 Joel Stemmer
@@ -1646,65 +1692,11 @@ SOFTWARE
 ---
 
 MIT License
-(yuin/goldmark v1.1.32)
-
-MIT License
-
-Copyright (c) 2019 Yusuke Inuzuka
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (github.com/go-kit/log 0.1.0)
 
 MIT License
 
 Copyright (c) 2021 Go kit
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(foxcpp/go-mockdns v1.0.0)
-
-MIT License
-
-Copyright © 2019 Max Mazurov <fox.cpp@disroot.org>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1778,7 +1770,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Azure/azure-sdk-for-go sdk/azcore/v1.1.1, Azure/azure-sdk-for-go sdk/azidentity/v1.1.0, Azure/azure-sdk-for-go sdk/internal/v1.0.0, Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1, AzureAD/microsoft-authentication-library-for-go v0.5.3, bhoriuchi/graphql-go-tools v1.0.0, chzyer-readline 20160726-snapshot-62c6fe61, couchbase-gomemcached v0.2.1, github.com/yusufpapurcu/wmi v1.2.2, Go Testify v1.8.2, gobwas/pool v0.2.0, mattn-go-sqlite3 v1.14.14, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.0, yaml for Go v3.0.1)
+(Azure/azure-sdk-for-go sdk/azcore/v1.1.1, Azure/azure-sdk-for-go sdk/azcore/v1.6.1, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.0.0, Azure/azure-sdk-for-go sdk/internal/v1.3.0, Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, bhoriuchi/graphql-go-tools v1.0.0, chzyer-readline 20160726-snapshot-62c6fe61, couchbase-gomemcached v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/yusufpapurcu/wmi v1.2.2, Go Testify v1.8.2, Go Testify v1.8.4, gobwas/pool v0.2.0, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.0, yaml for Go v3.0.1, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
