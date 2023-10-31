@@ -21,7 +21,7 @@ brotli4j 1.12.0 : Apache License 2.0
 ch.randelshofer:fastdoubleparser 0.9.0 : MIT License
 Checker Qual 3.33.0 : MIT License
 com.google.api.grpc:proto-google-common-protos 2.17.0 : Apache License 2.0
-com.google.api.grpc:proto-google-common-protos 2.9.0 : Apache License 2.0
+com.google.api.grpc:proto-google-common-protos 2.22.0 : Apache License 2.0
 Couchbase Java SDK 3.4.10 : Apache License 2.0
 Couchbase JDBC Driver 1.0.4 : Apache License 2.0
 Couchbase JVM Core IO 2.4.10 : Apache License 2.0
@@ -29,28 +29,28 @@ error-prone annotations 2.18.0 : Apache License 2.0
 FindBugs jsr305 3.0.2 : Apache License 2.0
 Google Android Annotations Library 4.1.1.4 : Apache License 2.0
 google-gson 2.10.1 : Apache License 2.0
-google-gson 2.9.0 : Apache License 2.0
-google-guava v32.0.0 : Apache License 2.0
 google-guava v32.0.1 : Apache License 2.0
+google-guava v32.1.2 : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1 : Apache License 2.0
 Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava : Apache License 2.0
 HdrHistogram 2.1.12 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
 HdrHistogram 2.1.8 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
 httpcomponents-core 4.4.14 : Apache License 2.0
-io.grpc:grpc-api 1.55.1 : Apache License 2.0
 io.grpc:grpc-api 1.56.0 : Apache License 2.0
-io.grpc:grpc-context 1.55.1 : Apache License 2.0
+io.grpc:grpc-api 1.58.0 : Apache License 2.0
 io.grpc:grpc-context 1.56.0 : Apache License 2.0
-io.grpc:grpc-core 1.55.1 : Apache License 2.0
+io.grpc:grpc-context 1.58.0 : Apache License 2.0
 io.grpc:grpc-core 1.56.0 : Apache License 2.0
-io.grpc:grpc-netty 1.55.1 : Apache License 2.0
+io.grpc:grpc-core 1.58.0 : Apache License 2.0
 io.grpc:grpc-netty 1.56.0 : Apache License 2.0
-io.grpc:grpc-protobuf 1.55.1 : Apache License 2.0
+io.grpc:grpc-netty 1.58.0 : Apache License 2.0
 io.grpc:grpc-protobuf 1.56.0 : Apache License 2.0
-io.grpc:grpc-protobuf-lite 1.55.1 : Apache License 2.0
+io.grpc:grpc-protobuf 1.58.0 : Apache License 2.0
 io.grpc:grpc-protobuf-lite 1.56.0 : Apache License 2.0
-io.grpc:grpc-stub 1.55.1 : Apache License 2.0
+io.grpc:grpc-protobuf-lite 1.58.0 : Apache License 2.0
 io.grpc:grpc-stub 1.56.0 : Apache License 2.0
+io.grpc:grpc-stub 1.58.0 : Apache License 2.0
+io.grpc:grpc-util 1.58.0 : Apache License 2.0
 J2ObjC Annotations 2.8 : Apache License 2.0
 jackson-annotations 2.13.2 : Apache License 2.0
 jackson-annotations 2.15.2 : Apache License 2.0
@@ -85,7 +85,6 @@ Netty/Transport/Native/Unix/Common 4.1.96.Final : Apache License 2.0
 Ning-compress-LZF 1.0.3 : Apache License 2.0
 OpenTelemetry Instrumentation for Java 1.19.0-alpha : Apache License 2.0
 org.conscrypt:conscrypt-openjdk-uber 2.5.2 : Apache License 2.0
-perfmark:perfmark-api 0.25.0 : Apache License 2.0
 perfmark:perfmark-api 0.26.0 : Apache License 2.0
 protobuf-java 2.6.1 : BSD 3-clause "New" or "Revised" License
 protobuf-java 3.21.12 : BSD 3-clause "New" or "Revised" License
@@ -102,7 +101,7 @@ zstd-jni 1.5.0-2 : BSD 2-clause "Simplified" License
 Licenses: 
 
 Apache License 2.0
-(Apache Commons Codec 1.11, Apache Commons Logging 1.2, Apache HttpClient 4.5.13, Apache Log4J API 2.17.2, asterix-jdbc-core 0.9.8.1, blockhound 1.0.6.RELEASE, blockhound 1.0.8.RELEASE, brotli4j 1.12.0, com.google.api.grpc:proto-google-common-protos 2.17.0, com.google.api.grpc:proto-google-common-protos 2.9.0, Couchbase Java SDK 3.4.10, Couchbase JDBC Driver 1.0.4, Couchbase JVM Core IO 2.4.10, error-prone annotations 2.18.0, FindBugs jsr305 3.0.2, Google Android Annotations Library 4.1.1.4, google-gson 2.10.1, google-gson 2.9.0, google-guava v32.0.0, google-guava v32.0.1, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, httpcomponents-core 4.4.14, io.grpc:grpc-api 1.55.1, io.grpc:grpc-api 1.56.0, io.grpc:grpc-context 1.55.1, io.grpc:grpc-context 1.56.0, io.grpc:grpc-core 1.55.1, io.grpc:grpc-core 1.56.0, io.grpc:grpc-netty 1.55.1, io.grpc:grpc-netty 1.56.0, io.grpc:grpc-protobuf 1.55.1, io.grpc:grpc-protobuf 1.56.0, io.grpc:grpc-protobuf-lite 1.55.1, io.grpc:grpc-protobuf-lite 1.56.0, io.grpc:grpc-stub 1.55.1, io.grpc:grpc-stub 1.56.0, J2ObjC Annotations 2.8, jackson-annotations 2.13.2, jackson-annotations 2.15.2, jackson-core 2.13.2, jackson-core 2.15.2, jackson-databind 2.13.2.2, jackson-databind 2.15.2, Jackson-module-Afterburner 2.15.2, Java Concurrency Tools Core Library 3.1.0, Java Concurrency Tools Core Library 4.0.1, JBoss Marshalling API 2.0.5.Final, Log4J Compatibility API 2.17.2, LZ4 Java 1.3.0, lzma-java 1.3, native-linux-aarch64 1.12.0, native-linux-x86_64 1.12.0, native-osx-aarch64 1.12.0, native-osx-x86_64 1.12.0, native-windows-x86_64 1.12.0, Netty Project 4.1.87.Final, Netty Project 4.1.96.Final, Netty/JNI/Util 0.0.7.Final, Netty/TomcatNative [OpenSSL - Classes] 2.0.61.Final, Netty/TomcatNative [OpenSSL - Dynamic] 2.0.61.Final, Netty/Transport/Classes/Epoll 4.1.96.Final, Netty/Transport/Classes/KQueue 4.1.96.Final, Netty/Transport/Native/Unix/Common 4.1.87.Final, Netty/Transport/Native/Unix/Common 4.1.96.Final, Ning-compress-LZF 1.0.3, OpenTelemetry Instrumentation for Java 1.19.0-alpha, org.conscrypt:conscrypt-openjdk-uber 2.5.2, perfmark:perfmark-api 0.25.0, perfmark:perfmark-api 0.26.0, reactor-core 3.5.8, service 1.12.0, snappy 0.4)
+(Apache Commons Codec 1.11, Apache Commons Logging 1.2, Apache HttpClient 4.5.13, Apache Log4J API 2.17.2, asterix-jdbc-core 0.9.8.1, blockhound 1.0.6.RELEASE, blockhound 1.0.8.RELEASE, brotli4j 1.12.0, com.google.api.grpc:proto-google-common-protos 2.17.0, com.google.api.grpc:proto-google-common-protos 2.22.0, Couchbase Java SDK 3.4.10, Couchbase JDBC Driver 1.0.4, Couchbase JVM Core IO 2.4.10, error-prone annotations 2.18.0, FindBugs jsr305 3.0.2, Google Android Annotations Library 4.1.1.4, google-gson 2.10.1, google-guava v32.0.1, google-guava v32.1.2, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, httpcomponents-core 4.4.14, io.grpc:grpc-api 1.56.0, io.grpc:grpc-api 1.58.0, io.grpc:grpc-context 1.56.0, io.grpc:grpc-context 1.58.0, io.grpc:grpc-core 1.56.0, io.grpc:grpc-core 1.58.0, io.grpc:grpc-netty 1.56.0, io.grpc:grpc-netty 1.58.0, io.grpc:grpc-protobuf 1.56.0, io.grpc:grpc-protobuf 1.58.0, io.grpc:grpc-protobuf-lite 1.56.0, io.grpc:grpc-protobuf-lite 1.58.0, io.grpc:grpc-stub 1.56.0, io.grpc:grpc-stub 1.58.0, io.grpc:grpc-util 1.58.0, J2ObjC Annotations 2.8, jackson-annotations 2.13.2, jackson-annotations 2.15.2, jackson-core 2.13.2, jackson-core 2.15.2, jackson-databind 2.13.2.2, jackson-databind 2.15.2, Jackson-module-Afterburner 2.15.2, Java Concurrency Tools Core Library 3.1.0, Java Concurrency Tools Core Library 4.0.1, JBoss Marshalling API 2.0.5.Final, Log4J Compatibility API 2.17.2, LZ4 Java 1.3.0, lzma-java 1.3, native-linux-aarch64 1.12.0, native-linux-x86_64 1.12.0, native-osx-aarch64 1.12.0, native-osx-x86_64 1.12.0, native-windows-x86_64 1.12.0, Netty Project 4.1.87.Final, Netty Project 4.1.96.Final, Netty/JNI/Util 0.0.7.Final, Netty/TomcatNative [OpenSSL - Classes] 2.0.61.Final, Netty/TomcatNative [OpenSSL - Dynamic] 2.0.61.Final, Netty/Transport/Classes/Epoll 4.1.96.Final, Netty/Transport/Classes/KQueue 4.1.96.Final, Netty/Transport/Native/Unix/Common 4.1.87.Final, Netty/Transport/Native/Unix/Common 4.1.96.Final, Ning-compress-LZF 1.0.3, OpenTelemetry Instrumentation for Java 1.19.0-alpha, org.conscrypt:conscrypt-openjdk-uber 2.5.2, perfmark:perfmark-api 0.26.0, reactor-core 3.5.8, service 1.12.0, snappy 0.4)
 
 Apache License
 Version 2.0, January 2004
