@@ -331,7 +331,7 @@
 329,RxJava,1.3.8,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f2517b4c-e3e1-4983-8dd7-f192a71ce282,8ea78e06-5c94-481d-861a-acec7c9936e8,7cae335f-1193-421e-92f1-8802b4243e93
 330,SLF4J API Module,1.7.25,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ca782761-ef54-4eb6-b7f0-b9fbb15a0698,65e87c64-5052-479a-92b7-ba1096d238cd,ad705c59-6893-4980-bdbf-0837f1823cc4
 331,SQLite,3.43.2,Manually Added,Public Domain,PERMISSIVE,NOT_REVIEWED,302ca56c-2cf6-4cfd-9173-94c1ee2a44f7,cd439a31-5d4c-48e7-8ecd-521e90b87051,d26bcb7d-5bc8-4f05-8942-a3a42728a2e4
-332,SSLMate/go-pkcs12,v0.2.1,Exact,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bd38a7f3-05cf-4585-be36-b3b221bf4fe0,f8bcadd3-b34e-4d89-94f7-8e215ae56a98,3d238144-44e6-450e-b523-3defbdaed9dc
+332,SSLMate/go-pkcs12,v0.3.0,Exact,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bd38a7f3-05cf-4585-be36-b3b221bf4fe0,b1c71627-c437-4ef1-a833-4643a37c0f4a,3d238144-44e6-450e-b523-3defbdaed9dc
 333,Sparkle,1.27.1,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,ffc560e5-b992-43d1-9a2c-91f767a84d53,3a20921f-399d-4042-b11c-ddcef556a6b5,ad705c59-6893-4980-bdbf-0837f1823cc4
 334,Stax2 API,4.2.1,Direct Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,aff94cc6-8686-4a15-88ec-fa74a623c384,7488dc3f-e736-4da4-953a-2fd01b2637d0,cc875133-df38-4806-9921-473e0ef01a87
 335,Strip ANSI,5.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0809e45c-41a9-4f4b-ba9d-1aa51a0c47dc,2d3e699a-232e-43cc-9011-264771c65960,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -1473,10 +1473,10 @@
 1471,libexpat,2.5.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,22e24be7-3d1d-469d-b1c0-a0d545ba5073,bb6336f7-97fc-4658-a597-fad1c975eb30,ad705c59-6893-4980-bdbf-0837f1823cc4
 1472,libffi,3.4.2,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,8a5d4e5f-eee6-441d-91cc-85c7bb5e9fb5,a43f5d8e-d3d1-4109-8684-8f15d222b7e7,ad705c59-6893-4980-bdbf-0837f1823cc4
 1473,libgcc,10.2.1,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,REVIEWED,e12b8d28-cc06-4ffe-9393-21982b677571,9026b471-b2dc-48e1-a41c-ddd1913b7c05,3a5d4424-557d-49fa-9416-71c06026fe07
-1474,libgcc-ng,13.2.0,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,NOT_REVIEWED,7fc4e9e4-a755-42d4-b0e3-ae2f2cc90728,65924b91-a9cc-4573-89be-84ce2dbb6740,3a5d4424-557d-49fa-9416-71c06026fe07
-1475,libgomp,13.2.0,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,NOT_REVIEWED,6e2c44eb-e153-4b09-9500-f61fda6353ac,9e1a9a2c-0aac-45a1-8d4b-6f580b706f50,3a5d4424-557d-49fa-9416-71c06026fe07
+1474,libgcc-ng,13.2.0,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,REVIEWED,7fc4e9e4-a755-42d4-b0e3-ae2f2cc90728,65924b91-a9cc-4573-89be-84ce2dbb6740,3a5d4424-557d-49fa-9416-71c06026fe07
+1475,libgomp,13.2.0,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,REVIEWED,6e2c44eb-e153-4b09-9500-f61fda6353ac,9e1a9a2c-0aac-45a1-8d4b-6f580b706f50,3a5d4424-557d-49fa-9416-71c06026fe07
 1476,libicu,71.1,Manually Added,(MIT License AND Public Domain AND Unicode Character Database Terms Of Use),PERMISSIVE,NOT_REVIEWED,a7441c50-9be3-493b-82ed-19666236acef,8c226365-ab65-43f9-943a-2c52ec080b58,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,ad705c59-6893-4980-bdbf-0837f1823cc4,92b7564a-4a43-4679-83cf-89261e16de72"
-1477,libnsl,v2.0.1,Manually Added,GNU Lesser General Public License v2.1 only,WEAK_RECIPROCAL,NOT_REVIEWED,903a5281-80d6-454c-b18c-ac526e69ae2c,44f07c47-0a62-4367-858b-d7d24c2d9fef,fecf595c-3184-47f4-92f9-1a32ab46a8f1
+1477,libnsl,v2.0.1,Manually Added,GNU Lesser General Public License v2.1 only,WEAK_RECIPROCAL,REVIEWED,903a5281-80d6-454c-b18c-ac526e69ae2c,44f07c47-0a62-4367-858b-d7d24c2d9fef,fecf595c-3184-47f4-92f9-1a32ab46a8f1
 1478,libnuma1,2.0.11,Manually Added,GNU Lesser General Public License v2.1 or later,WEAK_RECIPROCAL,REVIEWED,fe3e8b96-6c8e-411f-991f-697ecfed5605,3ad40a1f-6637-474f-a6b0-3f57f1549dc0,cff110eb-f85c-445c-9d3b-00a04b7f4cf0
 1479,libstdc++,10.2.1,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,REVIEWED,899d93c9-1182-4d34-9349-5bf3e34aaa69,8ba9afea-92ad-47a8-855e-22d1959a2102,3a5d4424-557d-49fa-9416-71c06026fe07
 1480,liburing,0.6,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,b37c3c42-04f2-4ac7-b52c-dc98252e0875,6d17962e-df36-42bd-8bee-2c246371788c,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -1666,7 +1666,7 @@
 1664,pycparser,2.21,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,d4148456-5d7e-49b5-8ffe-c65d67ee52a6,926b5e96-1c45-4afd-8265-940f87d416f4,3d238144-44e6-450e-b523-3defbdaed9dc
 1665,pycryptodome,3.19.0,Manually Added,"(BSD 2-clause ""Simplified"" License AND Public Domain)",PERMISSIVE,NOT_REVIEWED,0262517f-43d2-4243-b451-bb029df9ea11,3a92c527-cc09-4033-886b-8c89724d775f,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,cc875133-df38-4806-9921-473e0ef01a87"
 1666,python cffi,1.16.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,a136afda-2456-41df-a8f4-2d74ef679b21,3c1b5f07-1b7c-4607-9ffc-48273a6f8663,ad705c59-6893-4980-bdbf-0837f1823cc4
-1667,python-certifi,2023.07.22,Manually Added,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,0cb8284c-9a5b-4717-8bf6-a9781af4aebc,ce3dd63e-c569-4cea-986a-46bc5efe9896
+1667,python-certifi,2023.07.22,Manually Added,Mozilla Public License 2.0,WEAK_RECIPROCAL,REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,0cb8284c-9a5b-4717-8bf6-a9781af4aebc,ce3dd63e-c569-4cea-986a-46bc5efe9896
 1668,python-pem,21.2.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,e116f5a5-2fda-4341-9ce9-88ae369d0620,9816d091-74b3-4012-8edf-429fded5c5fb,ad705c59-6893-4980-bdbf-0837f1823cc4
 1669,python-snappy,0.6.1,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,47724afe-8603-46c1-9bb9-de8bbba8c11f,efd04ce3-bd98-400c-ba09-4c1a39e18a23,3d238144-44e6-450e-b523-3defbdaed9dc
 1670,python3-charset-normalizer,3.3.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,961db792-aeb0-450b-ba00-4f9b0afa6dda,54db22aa-2ca1-41e6-9c47-af25fb02910e,ad705c59-6893-4980-bdbf-0837f1823cc4
