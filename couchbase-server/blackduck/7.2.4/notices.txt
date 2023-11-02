@@ -1407,13 +1407,11 @@ libcxx 16.0.6 : (University of Illinois/NCSA Open Source License OR MIT License 
 libevent 2.1.11 : BSD 3-clause "New" or "Revised" License
 libexpat 2.5.0 : MIT License
 libffi 3.4.2 : MIT License
-libgcc 10.2.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libgcc-ng 13.2.0 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libgomp 13.2.0 : GNU General Public License v3.0 w/GCC Runtime Library exception
 libicu 71.1 : (MIT License AND Public Domain AND Unicode Character Database Terms Of Use)
 libnsl v2.0.1 : GNU Lesser General Public License v2.1 only
 libnuma1 2.0.11 : GNU Lesser General Public License v2.1 or later
-libstdc++ 10.2.1 : GNU General Public License v3.0 w/GCC Runtime Library exception
 liburing 0.6 : MIT License
 libuuid 2.38.1 : BSD 3-clause "New" or "Revised" License
 libuv 1.20.3 : (MIT License AND ISC License AND BSD 3-clause "New" or "Revised" License)
@@ -8668,7 +8666,7 @@ this License. But first, please read
 ---
 
 GNU General Public License v3.0 w/GCC Runtime Library exception
-(libgcc 10.2.1, libgcc-ng 13.2.0, libgomp 13.2.0, libstdc++ 10.2.1)
+(libgcc-ng 13.2.0, libgomp 13.2.0)
 
 GCC RUNTIME LIBRARY EXCEPTION
 =============================
