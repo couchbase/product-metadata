@@ -339,7 +339,7 @@ prometheus-procfs 0.8.0 : (Apache License 2.0 AND BSD 3-clause "New" or "Revised
 pty v1.1.1 : MIT License
 purell v1.1.1 : BSD 3-clause "New" or "Revised" License
 python-certifi 2023.07.22 : Mozilla Public License 2.0
-PyYAML 5.4.1 : MIT License
+PyYAML 6.0.1 : MIT License
 robfig/cron v3.0.1 : MIT License
 rogpeppe/go-internal v1.3.0 : BSD 3-clause "New" or "Revised" License
 rsc/binaryregexp v0.2.0 : BSD 3-clause "New" or "Revised" License
@@ -587,6 +587,34 @@ DAMAGE.
 ---
 
 BSD 2-clause "Simplified" License
+(gorilla/websocket v1.4.2)
+
+Copyright (c) 2013 The Gorilla WebSocket Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+  Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+  Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 2-clause "Simplified" License
 (pkg/errors v0.9.1)
 
 Copyright (c) 2015, Dave Cheney <dave@cheney.net>
@@ -671,40 +699,6 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 2-clause "Simplified" License
-(gorilla/websocket v1.4.2)
-
-Files: debian/*
-Copyright: 2013 Vincent Bernat <bernat@debian.org>
-License: BSD-2-clause
-
-License: BSD-2-clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-  * Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
-  * Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the
-    distribution.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
@@ -2140,32 +2134,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(PyYAML 5.4.1)
-
-Copyright (c) 2017-2021 Ingy döt Net
-Copyright (c) 2006-2016 Kirill Simonov
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (go.uber.org/multierr v1.8.0)
 
 Copyright (c) 2017-2021 Uber Technologies, Inc.
@@ -2438,7 +2406,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(Azure/azure-sdk-for-go sdk/azcore/v1.2.0, Azure/azure-sdk-for-go sdk/azidentity/v1.1.0, Azure/azure-sdk-for-go sdk/internal/v1.1.1, Azure/azure-sdk-for-go sdk/storage/azblob/v0.5.1, AzureAD/microsoft-authentication-library-for-go v0.5.1, cespare/xxhash v2.2.0, cpuguy83-go-md2man 2.0.2, github.com/antihax/optional 1.0.0, github.com/golang-jwt/jwt v4.4.2, Go Logrus v1.9.0, Go Testify v1.8.1, go-errors-errors v1.4.2, go-restful v3.10.0, go-zap v1.24.0, go.uber.org/goleak v1.2.0, gomega v1.20.1, govalidator 20190424-snapshot-f61b66f8, mholt/archiver v4.0.0-alpha.7, monochromegane/go-gitignore 20200625-snapshot-205db1a8, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo 2.1.6, stretchr/objx v0.5.0, tmc/grpc-websocket-proxy 20201229-snapshot-e5319fda, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, yaml for Go v3.0.1, yuin/goldmark v1.4.13)
+(Azure/azure-sdk-for-go sdk/azcore/v1.2.0, Azure/azure-sdk-for-go sdk/azidentity/v1.1.0, Azure/azure-sdk-for-go sdk/internal/v1.1.1, Azure/azure-sdk-for-go sdk/storage/azblob/v0.5.1, AzureAD/microsoft-authentication-library-for-go v0.5.1, cespare/xxhash v2.2.0, cpuguy83-go-md2man 2.0.2, github.com/antihax/optional 1.0.0, github.com/golang-jwt/jwt v4.4.2, Go Logrus v1.9.0, Go Testify v1.8.1, go-errors-errors v1.4.2, go-restful v3.10.0, go-zap v1.24.0, go.uber.org/goleak v1.2.0, gomega v1.20.1, govalidator 20190424-snapshot-f61b66f8, mholt/archiver v4.0.0-alpha.7, monochromegane/go-gitignore 20200625-snapshot-205db1a8, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo 2.1.6, PyYAML 6.0.1, stretchr/objx v0.5.0, tmc/grpc-websocket-proxy 20201229-snapshot-e5319fda, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, yaml for Go v3.0.1, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
