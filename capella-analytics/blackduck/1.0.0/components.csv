@@ -162,7 +162,7 @@
 160,Apache Hadoop Auth,3.3.6,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9d886368-b410-46ae-a572-89c10e3f3266,f9f7e05b-ba62-4aca-81c8-ced46eca4529,7cae335f-1193-421e-92f1-8802b4243e93
 161,Apache Hadoop Azure support,3.3.6,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4f8dd462-cc90-4a4d-849f-538d3978195b,07ae18fc-426c-4d43-ace0-754c9008d05b,7cae335f-1193-421e-92f1-8802b4243e93
 162,Apache HttpClient,4.5.14,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f624d758-10d3-449d-96d2-d4fc12499fda,ca8bc151-5d96-468f-9414-b0bed12b207f,7cae335f-1193-421e-92f1-8802b4243e93
-163,Apache HttpClient,5.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a994c8fe-ba04-4eff-8f5f-789575fadbd6,ecd46275-9b2c-41e8-bad7-5c7495ab251b,7cae335f-1193-421e-92f1-8802b4243e93
+163,Apache HttpClient,5.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f624d758-10d3-449d-96d2-d4fc12499fda,2bb654cd-0690-4794-9a1a-e8193386b2e2,7cae335f-1193-421e-92f1-8802b4243e93
 164,Apache HttpComponents Core HTTP/2,5.1.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cf9a5e22-0bc6-4452-9f34-0a5f449d7a35,d0849602-c8c6-4dbc-a582-1f1b4c1e76fd,7cae335f-1193-421e-92f1-8802b4243e93
 165,Apache Iceberg,1.1.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,55fadd28-e03f-49e8-bd8b-186d6ae28bef,cd74cc3a-f297-4d3b-80e9-ba1f6874fa66,7cae335f-1193-421e-92f1-8802b4243e93
 166,Apache Iceberg (incubating),1.1.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d20d13ae-c942-4f3a-9bc3-fa0fa8ac8af5,54ede7fc-66a7-4e82-9806-09813cb17209,7cae335f-1193-421e-92f1-8802b4243e93
@@ -198,7 +198,7 @@
 196,Boost C++ Libraries - boost,1.82.0,Manually Added,Boost Software License 1.0,PERMISSIVE,NOT_REVIEWED,4eac8f37-d9e5-4344-83d0-be0e9fd42a6a,b7af8b1f-256a-4d8a-a7eb-915bc3ffdfd0,26b23233-77bd-4cc2-8977-f312abd57327
 197,Bootstrap (Twitter),3.2.0,Exact,MIT License,PERMISSIVE,NOT_REVIEWED,677efaf5-5bad-4f93-904b-dc4b69af9199,57380db8-397c-4888-9618-3d6836cc0f5c,ad705c59-6893-4980-bdbf-0837f1823cc4
 198,Bouncy Castle ASN.1 Extension and Utility APIs,1.76,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,596ef865-7f23-4ba8-b202-e1f5261d035c,578e9acf-b568-44ef-a4fb-c5c8789315f2,ad705c59-6893-4980-bdbf-0837f1823cc4
-199,"Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs",1.76,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,92edf100-dd51-402a-8099-9e3653630208,a2ba03ae-426c-4f10-9795-7cd66c258688,ad705c59-6893-4980-bdbf-0837f1823cc4
+199,"Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs",1.76,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cfa19008-29dd-4e1d-b4e3-a7a1ad9855a2,9672ffc4-e45d-4878-b81c-90249d42c0cc,ad705c59-6893-4980-bdbf-0837f1823cc4
 200,Bouncy Castle Provider,1.76,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,9ad9e280-1794-4dae-b479-c6e4d924e495,252129f5-763d-45c2-8b89-afdba67a30f3,ad705c59-6893-4980-bdbf-0837f1823cc4
 201,Breakpad,r835,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,db80c33d-d4c4-47e7-a3a4-a749eb3b5d74,dbdbc0b0-cf09-4a11-92dd-c2207abaabcf,3d238144-44e6-450e-b523-3defbdaed9dc
 202,BurntSushi/toml,1.2.1,Transitive Dependency,"(MIT License AND BSD 2-clause ""Simplified"" License AND Creative Commons Attribution 3.0 AND BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,999f5c44-828a-4f2c-8a17-9b5fd22f3beb,4b968fa4-3106-4c76-b318-b4af52bd4fe0,"3d238144-44e6-450e-b523-3defbdaed9dc,cc875133-df38-4806-9921-473e0ef01a87,ad705c59-6893-4980-bdbf-0837f1823cc4,6958c970-4ceb-419e-8316-206151b9714a"
@@ -290,7 +290,7 @@
 288,Jettison - Json Stax implementation,1.5.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6941b1eb-12eb-4ff5-a537-e24bb8dbb4e7,089ecd27-70e2-4a89-880e-c3f75d66b672,7cae335f-1193-421e-92f1-8802b4243e93
 289,"Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server",9.4.53.20231009,Direct Dependency,(Apache License 2.0 AND Eclipse Public License 1.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,d8221aaa-7d55-4b5a-b3e0-2b5cba26ce60,3c868f3c-bc9e-4383-8562-4694719dab6d,"7cae335f-1193-421e-92f1-8802b4243e93,d676a5c4-0bd9-4453-8c22-2ece2c2a00d7"
 290,Joda Time,2.8.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a67e87fa-f848-40b4-bcf5-2aedb5bc2b31,2a0f6875-2a3a-4f9d-a89a-8068d414e43e,7cae335f-1193-421e-92f1-8802b4243e93
-291,LZ4 and xxHash,1.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d9715367-ec51-42cb-b0f2-016b863e08a6,030776ed-b07e-4bfa-84c9-c7a85b8a2f8c,7cae335f-1193-421e-92f1-8802b4243e93
+291,LZ4 Java,1.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8ab02074-56a9-4a09-b1f4-418908a3b928,08a3882c-a50d-48a9-9306-cff6d13cee2d,7cae335f-1193-421e-92f1-8802b4243e93
 292,Lodash,3.3.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d82fb079-844d-4f6f-8ff1-9081abadee9b,d9165b46-541f-45eb-bf7e-d5f2ee8feedc,ad705c59-6893-4980-bdbf-0837f1823cc4
 293,Lodash,4.17.20,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d82fb079-844d-4f6f-8ff1-9081abadee9b,3601cbaa-af6e-4f77-a5da-cb074cb57cf9,ad705c59-6893-4980-bdbf-0837f1823cc4
 294,Lodash,4.17.21,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d82fb079-844d-4f6f-8ff1-9081abadee9b,eb940205-4044-46bc-bc5a-791e37f31733,ad705c59-6893-4980-bdbf-0837f1823cc4
