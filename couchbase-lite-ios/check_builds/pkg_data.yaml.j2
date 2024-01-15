@@ -1,0 +1,7 @@
+filenames:
+{%    for edition in [ "community", "enterprise" ] %}
+  - couchbase-lite-carthage-{{ edition }}-{{ version }}-{{ build_num }}.zip
+  - couchbase-lite-objc_xc_{{ edition }}_{{ version }}-{{ build_num }}.zip
+  - couchbase-lite-swift_xc_{{ edition }}_{{ version }}-{{ build_num }}.zip
+  - couchbase-lite-swift_xc_{{ edition }}_{{ version }}-{{ build_num }}.zip-Package.swift
+{%   endfor %}
