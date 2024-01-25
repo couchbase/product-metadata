@@ -305,9 +305,9 @@
 303,Joda Time,2.8.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a67e87fa-f848-40b4-bcf5-2aedb5bc2b31,2a0f6875-2a3a-4f9d-a89a-8068d414e43e,7cae335f-1193-421e-92f1-8802b4243e93
 304,LZ4 Java,1.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,dbcb5534-4689-4242-b513-284030f9e4aa,37a888ee-c411-4cd0-be68-97471f7e9ce2,7cae335f-1193-421e-92f1-8802b4243e93
 305,LatencyUtils,2.0.3,Direct Dependency,"(BSD 2-clause ""Simplified"" License OR Creative Commons Zero v1.0 Universal)",PERMISSIVE,NOT_REVIEWED,874c05c9-ed80-4f4b-a936-f00eb05b72e6,e93456bb-8d51-4be1-a5c0-57af8aaa218c,"cc875133-df38-4806-9921-473e0ef01a87,a7c69599-62b6-4d06-9ec6-ea688c041c00"
-306,Lodash,3.3.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,747e73a8-d92b-490c-a0c1-84f4ef607f65,17479e18-5083-497d-a939-d7b9f094e717,ad705c59-6893-4980-bdbf-0837f1823cc4
-307,Lodash,4.17.20,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,747e73a8-d92b-490c-a0c1-84f4ef607f65,e5155aad-e284-412e-801a-e22969c36f2a,ad705c59-6893-4980-bdbf-0837f1823cc4
-308,Lodash,4.17.21,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,747e73a8-d92b-490c-a0c1-84f4ef607f65,e7b38ec5-1dcb-4f90-ae9c-5dfd39edf228,ad705c59-6893-4980-bdbf-0837f1823cc4
+306,Lodash  ,3.3.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,82ee0c67-1f8e-444d-948f-7f2202423595,a76b6a1f-6664-486c-8c37-dc1851eda1ad,ad705c59-6893-4980-bdbf-0837f1823cc4
+307,Lodash  ,4.17.20,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,82ee0c67-1f8e-444d-948f-7f2202423595,4669592b-f7ea-4c03-8450-55ac575c8e83,ad705c59-6893-4980-bdbf-0837f1823cc4
+308,Lodash  ,4.17.21,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,82ee0c67-1f8e-444d-948f-7f2202423595,e384e971-3852-40e5-965c-46c1a4e72170,ad705c59-6893-4980-bdbf-0837f1823cc4
 309,Log4J Commons Logging Bridge,2.22.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,49903db1-49a3-4670-b893-4a3502a0ab5f,eb2ab690-bba5-40c7-863c-50572acfe394,7cae335f-1193-421e-92f1-8802b4243e93
 310,Log4J Compatibility API,2.22.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,27abed2e-e4d1-4088-90e7-299dff16a4a1,9c6d89db-ff03-4d60-9a76-f07e452775d9,7cae335f-1193-421e-92f1-8802b4243e93
 311,Masterminds-semver,v3.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,22cb36e9-4d4c-46ed-a4b0-979b770b16df,d2889e37-b0b2-473b-8451-2e0dc2ab6cd4,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -560,7 +560,7 @@
 558,couchbase-goxdcr,v7.6.0-1916,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,078bb6e8-3076-4bd2-8dd6-656480a96a28,42f79019-85de-4c6e-8985-026af919579a,7cae335f-1193-421e-92f1-8802b4243e93
 559,couchbase-indexing,,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8af96a40-f2ee-457a-9c53-09f25b5096b2,,7cae335f-1193-421e-92f1-8802b4243e93
 560,couchbase-indexing,20220923-snapshot-071e9308,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8af96a40-f2ee-457a-9c53-09f25b5096b2,9df7ac0f-d32d-438d-959b-c01142ef0893,7cae335f-1193-421e-92f1-8802b4243e93
-561,couchbase-indexing,20231201-snapshot-2a162b8b,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8af96a40-f2ee-457a-9c53-09f25b5096b2,11af97ef-eba0-4235-a72d-8da1ac15216e,7cae335f-1193-421e-92f1-8802b4243e93
+561,couchbase-indexing,20240118-snapshot-6610de91,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8af96a40-f2ee-457a-9c53-09f25b5096b2,aaad6e66-ec19-4003-81af-f9d7d8c037e2,7cae335f-1193-421e-92f1-8802b4243e93
 562,couchbase/cbflag,20220325-snapshot-f0f642f8,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,33a2457a-9d8e-40ec-b7a6-93287b9b7d56,61d967bd-db55-4b2d-b254-7e4612681f04,00000000-0010-0000-0000-000000000000
 563,couchbase/cbft,,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,16f821c4-68bb-4a15-ad82-86af1353a486,,dde70004-f23f-437a-8982-c1aca19e3165
 564,couchbase/cbft,v0.5.0,"Files Added/Deleted,Exact,Files Modified",Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,16f821c4-68bb-4a15-ad82-86af1353a486,6b23c3f6-8023-4746-837f-98c754dd8ec5,dde70004-f23f-437a-8982-c1aca19e3165
