@@ -281,9 +281,9 @@
 279,"Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server",9.4.53.20231009,Direct Dependency,(Apache License 2.0 AND Eclipse Public License 1.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,d8221aaa-7d55-4b5a-b3e0-2b5cba26ce60,3c868f3c-bc9e-4383-8562-4694719dab6d,"7cae335f-1193-421e-92f1-8802b4243e93,d676a5c4-0bd9-4453-8c22-2ece2c2a00d7"
 280,Joda Time,2.8.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a67e87fa-f848-40b4-bcf5-2aedb5bc2b31,2a0f6875-2a3a-4f9d-a89a-8068d414e43e,7cae335f-1193-421e-92f1-8802b4243e93
 281,LatencyUtils,2.0.3,Direct Dependency,"(BSD 2-clause ""Simplified"" License OR Creative Commons Zero v1.0 Universal)",PERMISSIVE,NOT_REVIEWED,874c05c9-ed80-4f4b-a936-f00eb05b72e6,e93456bb-8d51-4be1-a5c0-57af8aaa218c,"cc875133-df38-4806-9921-473e0ef01a87,a7c69599-62b6-4d06-9ec6-ea688c041c00"
-282,Lodash,3.3.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,747e73a8-d92b-490c-a0c1-84f4ef607f65,17479e18-5083-497d-a939-d7b9f094e717,ad705c59-6893-4980-bdbf-0837f1823cc4
-283,Lodash,4.17.20,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,747e73a8-d92b-490c-a0c1-84f4ef607f65,e5155aad-e284-412e-801a-e22969c36f2a,ad705c59-6893-4980-bdbf-0837f1823cc4
-284,Lodash,4.17.21,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,747e73a8-d92b-490c-a0c1-84f4ef607f65,e7b38ec5-1dcb-4f90-ae9c-5dfd39edf228,ad705c59-6893-4980-bdbf-0837f1823cc4
+282,Lodash  ,3.3.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,82ee0c67-1f8e-444d-948f-7f2202423595,a76b6a1f-6664-486c-8c37-dc1851eda1ad,ad705c59-6893-4980-bdbf-0837f1823cc4
+283,Lodash  ,4.17.20,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,82ee0c67-1f8e-444d-948f-7f2202423595,4669592b-f7ea-4c03-8450-55ac575c8e83,ad705c59-6893-4980-bdbf-0837f1823cc4
+284,Lodash  ,4.17.21,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,82ee0c67-1f8e-444d-948f-7f2202423595,e384e971-3852-40e5-965c-46c1a4e72170,ad705c59-6893-4980-bdbf-0837f1823cc4
 285,Log4J Commons Logging Bridge,2.22.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,49903db1-49a3-4670-b893-4a3502a0ab5f,eb2ab690-bba5-40c7-863c-50572acfe394,7cae335f-1193-421e-92f1-8802b4243e93
 286,Log4J Compatibility API,2.22.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,27abed2e-e4d1-4088-90e7-299dff16a4a1,9c6d89db-ff03-4d60-9a76-f07e452775d9,7cae335f-1193-421e-92f1-8802b4243e93
 287,Masterminds-semver,v3.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,22cb36e9-4d4c-46ed-a4b0-979b770b16df,d2889e37-b0b2-473b-8451-2e0dc2ab6cd4,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -545,7 +545,7 @@
 543,couchbase-goutils,v0.1.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4ac8a2b3-4807-4dff-907c-05fc8ffe6d4e,63164bfb-46dc-4edb-aff3-9e687e1983ce,7cae335f-1193-421e-92f1-8802b4243e93
 544,couchbase-goxdcr,v7.6.0-1916,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,078bb6e8-3076-4bd2-8dd6-656480a96a28,42f79019-85de-4c6e-8985-026af919579a,7cae335f-1193-421e-92f1-8802b4243e93
 545,couchbase-indexing,,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8af96a40-f2ee-457a-9c53-09f25b5096b2,,7cae335f-1193-421e-92f1-8802b4243e93
-546,couchbase-indexing,20231201-snapshot-2a162b8b,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8af96a40-f2ee-457a-9c53-09f25b5096b2,11af97ef-eba0-4235-a72d-8da1ac15216e,7cae335f-1193-421e-92f1-8802b4243e93
+546,couchbase-indexing,20240118-snapshot-6610de91,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8af96a40-f2ee-457a-9c53-09f25b5096b2,aaad6e66-ec19-4003-81af-f9d7d8c037e2,7cae335f-1193-421e-92f1-8802b4243e93
 547,couchbase/cbft,,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,16f821c4-68bb-4a15-ad82-86af1353a486,,dde70004-f23f-437a-8982-c1aca19e3165
 548,couchbase/cbft,v0.5.0,"Files Added/Deleted,Exact,Files Modified",Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,16f821c4-68bb-4a15-ad82-86af1353a486,6b23c3f6-8023-4746-837f-98c754dd8ec5,dde70004-f23f-437a-8982-c1aca19e3165
 549,couchbase/couchstore,v7.1.4-MP5,Files Modified,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,07948525-444c-4890-a093-7c3fd095a696,147321ec-9614-4c10-bfa2-36fa15acf519,7cae335f-1193-421e-92f1-8802b4243e93
