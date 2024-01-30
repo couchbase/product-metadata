@@ -63,7 +63,7 @@ golang/text v0.14.0 : BSD 3-clause "New" or "Revised" License
 google-cloud-go compute/metadata/v0.2.3 : Apache License 2.0
 google-cloud-go compute/v1.23.0 : Apache License 2.0
 google/go-cmp v0.6.0 : BSD 3-clause "New" or "Revised" License
-google/uuid v1.5.0 : BSD 3-clause "New" or "Revised" License
+google/uuid v1.6.0 : BSD 3-clause "New" or "Revised" License
 googleapis/go-genproto 20231002-snapshot-d307bd88 : Apache License 2.0
 gotest.tools v2.2.0 : Apache License 2.0
 groupcache 20210331-snapshot-41bb18bf : Apache License 2.0
@@ -80,7 +80,7 @@ hashicorp/go-hclog v1.5.0 : MIT License
 hashicorp/hcl v2.19.1 : Mozilla Public License 2.0
 hashicorp/terraform-exec v0.19.0 : Mozilla Public License 2.0
 hashicorp/terraform-json v0.18.0 : Mozilla Public License 2.0
-hashicorp/terraform-plugin-framework v1.4.2 : Mozilla Public License 2.0
+hashicorp/terraform-plugin-framework v1.5.0 : Mozilla Public License 2.0
 hashicorp/terraform-plugin-sdk v2.30.0 : Mozilla Public License 2.0
 hashicorp/terraform-svchost v0.1.1 : Mozilla Public License 2.0
 huandu/xstrings v1.3.2 : MIT License
@@ -528,7 +528,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(cloudflare/circl v1.3.7, cyphar/filepath-securejoin v0.2.4, exp 20230820-snapshot-02704c96, Golang Protobuf v1.31.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.17.0, golang.org/x/mod v0.14.0, golang.org/x/net v0.17.0, golang.org/x/oauth2 v0.13.0, golang.org/x/sync v0.4.0, golang.org/x/sys v0.15.0, golang.org/x/term v0.15.0, golang.org/x/tools v0.16.0, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.14.0, google/go-cmp v0.6.0, google/uuid v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty 0.0.16, mergo v0.3.15, mergo v1.0.0, ProtonMail/go-crypto 20230828-snapshot-3c4c8a2d)
+(cloudflare/circl v1.3.7, cyphar/filepath-securejoin v0.2.4, exp 20230820-snapshot-02704c96, Golang Protobuf v1.31.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.17.0, golang.org/x/mod v0.14.0, golang.org/x/net v0.17.0, golang.org/x/oauth2 v0.13.0, golang.org/x/sync v0.4.0, golang.org/x/sys v0.15.0, golang.org/x/term v0.15.0, golang.org/x/tools v0.16.0, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.14.0, google/go-cmp v0.6.0, google/uuid v1.6.0, mattn-go-colorable 0.1.13, mattn-go-isatty 0.0.16, mergo v0.3.15, mergo v1.0.0, ProtonMail/go-crypto 20230828-snapshot-3c4c8a2d)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1276,7 +1276,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 Mozilla Public License 2.0
-(errwrap v1.1.0, github.com/hashicorp/hc-install v0.6.1, github.com/hashicorp/terraform-plugin-framework-validators v0.12.0, github.com/hashicorp/terraform-plugin-go v0.20.0, github.com/hashicorp/terraform-plugin-log v0.9.0, github.com/hashicorp/terraform-plugin-testing v1.6.0, github.com/hashicorp/terraform-registry-address v0.2.3, Go CLI v1.1.5, go-checkpoint v0.5.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.6.0, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.6.0, hashicorp-logutils v1.0.0, hashicorp-yamux v0.1.1, hashicorp/hcl v2.19.1, hashicorp/terraform-exec v0.19.0, hashicorp/terraform-json v0.18.0, hashicorp/terraform-plugin-framework v1.4.2, hashicorp/terraform-plugin-sdk v2.30.0, hashicorp/terraform-svchost v0.1.1)
+(errwrap v1.1.0, github.com/hashicorp/hc-install v0.6.1, github.com/hashicorp/terraform-plugin-framework-validators v0.12.0, github.com/hashicorp/terraform-plugin-go v0.20.0, github.com/hashicorp/terraform-plugin-log v0.9.0, github.com/hashicorp/terraform-plugin-testing v1.6.0, github.com/hashicorp/terraform-registry-address v0.2.3, Go CLI v1.1.5, go-checkpoint v0.5.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.6.0, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.6.0, hashicorp-logutils v1.0.0, hashicorp-yamux v0.1.1, hashicorp/hcl v2.19.1, hashicorp/terraform-exec v0.19.0, hashicorp/terraform-json v0.18.0, hashicorp/terraform-plugin-framework v1.5.0, hashicorp/terraform-plugin-sdk v2.30.0, hashicorp/terraform-svchost v0.1.1)
 
 Mozilla Public License
 Version 2.0
