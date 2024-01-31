@@ -14,83 +14,54 @@ Components:
 @aws-crypto/sha256-js 3.0.0 : Apache License 2.0
 @aws-crypto/supports-web-crypto 3.0.0 : Apache License 2.0
 @aws-crypto/util 3.0.0 : Apache License 2.0
-@aws-sdk/client-cognito-identity 3.449.0 : Apache License 2.0
-@aws-sdk/client-s3 3.449.0 : Apache License 2.0
-@aws-sdk/client-sso 3.449.0 : Apache License 2.0
-@aws-sdk/client-sts 3.449.0 : Apache License 2.0
-@aws-sdk/core 3.445.0 : Apache License 2.0
-@aws-sdk/credential-provider-cognito-identity 3.449.0 : Apache License 2.0
-@aws-sdk/credential-provider-env 3.449.0 : Apache License 2.0
-@aws-sdk/credential-provider-ini 3.449.0 : Apache License 2.0
-@aws-sdk/credential-provider-node 3.449.0 : Apache License 2.0
-@aws-sdk/credential-provider-process 3.449.0 : Apache License 2.0
-@aws-sdk/credential-provider-sso 3.449.0 : Apache License 2.0
-@aws-sdk/credential-provider-web-identity 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-bucket-endpoint 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-expect-continue 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-flexible-checksums 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-host-header 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-location-constraint 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-logger 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-recursion-detection 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-sdk-s3 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-sdk-sts 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-signing 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-ssec 3.449.0 : Apache License 2.0
-@aws-sdk/middleware-user-agent 3.449.0 : Apache License 2.0
-@aws-sdk/region-config-resolver 3.433.0 : Apache License 2.0
-@aws-sdk/s3-request-presigner 3.449.0 : Apache License 2.0
-@aws-sdk/signature-v4-multi-region 3.449.0 : Apache License 2.0
-@aws-sdk/token-providers 3.449.0 : Apache License 2.0
-@aws-sdk/types 3.449.0 : Apache License 2.0
-@aws-sdk/util-arn-parser 3.310.0 : Apache License 2.0
-@aws-sdk/util-endpoints 3.449.0 : Apache License 2.0
-@aws-sdk/util-format-url 3.449.0 : Apache License 2.0
-@aws-sdk/util-locate-window 3.310.0 : Apache License 2.0
-@aws-sdk/util-user-agent-browser 3.449.0 : Apache License 2.0
-@aws-sdk/util-user-agent-node 3.449.0 : Apache License 2.0
+@aws-sdk/core 3.496.0 : Apache License 2.0
+@aws-sdk/util-arn-parser 3.495.0 : Apache License 2.0
+@aws-sdk/util-locate-window 3.495.0 : Apache License 2.0
 @aws-sdk/util-utf8-browser 3.259.0 : Apache License 2.0
-@aws-sdk/xml-builder 3.310.0 : Apache License 2.0
-@babel/code-frame 7.22.13 : MIT License
+@aws-sdk/xml-builder 3.496.0 : Apache License 2.0
+@babel/code-frame 7.23.5 : MIT License
 @babel/helper-module-imports 7.22.15 : MIT License
-@babel/helper-string-parser 7.22.5 : MIT License
+@babel/helper-string-parser 7.23.4 : MIT License
 @babel/helper-validator-identifier 7.22.20 : MIT License
-@babel/highlight 7.22.20 : MIT License
+@babel/highlight 7.23.4 : MIT License
 @babel/runtime 7.23.9 : MIT License
-@babel/types 7.23.3 : MIT License
+@babel/types 7.23.9 : MIT License
 @cspotcode/source-map-support 0.8.1 : MIT License
-@electron-forge/cli 6.4.2 : MIT License
-@electron-forge/core 6.4.2 : MIT License
-@electron-forge/core-utils 6.4.2 : MIT License
-@electron-forge/maker-base 6.4.2 : MIT License
-@electron-forge/maker-deb 6.4.2 : MIT License
-@electron-forge/maker-rpm 6.4.2 : MIT License
-@electron-forge/maker-squirrel 6.4.2 : MIT License
-@electron-forge/maker-zip 6.4.2 : MIT License
-@electron-forge/plugin-base 6.4.2 : MIT License
-@electron-forge/plugin-webpack 6.4.2 : MIT License
-@electron-forge/publisher-base 6.4.2 : MIT License
-@electron-forge/shared-types 6.4.2 : MIT License
-@electron-forge/template-base 6.4.2 : MIT License
-@electron-forge/template-vite 6.4.2 : MIT License
-@electron-forge/template-vite-typescript 6.4.2 : MIT License
-@electron-forge/template-webpack 6.4.2 : MIT License
-@electron-forge/template-webpack-typescript 6.4.2 : MIT License
-@electron-forge/web-multi-logger 6.4.2 : MIT License
+@electron-forge/cli 7.2.0 : MIT License
+@electron-forge/core 7.2.0 : MIT License
+@electron-forge/core-utils 7.2.0 : MIT License
+@electron-forge/maker-base 7.2.0 : MIT License
+@electron-forge/maker-deb 7.2.0 : MIT License
+@electron-forge/maker-rpm 7.2.0 : MIT License
+@electron-forge/maker-squirrel 7.2.0 : MIT License
+@electron-forge/maker-zip 7.2.0 : MIT License
+@electron-forge/plugin-base 7.2.0 : MIT License
+@electron-forge/plugin-webpack 7.2.0 : MIT License
+@electron-forge/publisher-base 7.2.0 : MIT License
+@electron-forge/shared-types 7.2.0 : MIT License
+@electron-forge/template-base 7.2.0 : MIT License
+@electron-forge/template-vite 7.2.0 : MIT License
+@electron-forge/template-vite-typescript 7.2.0 : MIT License
+@electron-forge/template-webpack 7.2.0 : MIT License
+@electron-forge/template-webpack-typescript 7.2.0 : MIT License
+@electron-forge/tracer 7.2.0 : MIT License
+@electron-forge/web-multi-logger 7.2.0 : MIT License
 @electron/asar 3.2.8 : MIT License
 @electron/get 2.0.3 : MIT License
-@electron/notarize 1.2.4 : MIT License
-@electron/notarize 2.1.0 : MIT License
+@electron/get 3.0.0 : MIT License
+@electron/notarize 2.2.1 : MIT License
 @electron/osx-sign 1.0.5 : BSD 2-clause "Simplified" License
-@electron/rebuild 3.3.0 : MIT License
-@electron/universal 1.5.1 : MIT License
+@electron/packager 18.1.3 : BSD 2-clause "Simplified" License
+@electron/rebuild 3.6.0 : MIT License
+@electron/universal 2.0.1 : MIT License
+@electron/windows-sign 1.0.0 : BSD 2-clause "Simplified" License
 @emotion/babel-plugin 11.11.0 : MIT License
 @emotion/cache 11.11.0 : MIT License
 @emotion/hash 0.9.1 : MIT License
 @emotion/is-prop-valid 1.2.1 : MIT License
 @emotion/memoize 0.8.1 : MIT License
-@emotion/react 11.11.1 : MIT License
-@emotion/serialize 1.1.2 : MIT License
+@emotion/react 11.11.3 : MIT License
+@emotion/serialize 1.1.3 : MIT License
 @emotion/sheet 1.2.2 : MIT License
 @emotion/styled 11.11.0 : MIT License
 @emotion/unitless 0.8.1 : MIT License
@@ -99,34 +70,34 @@ Components:
 @emotion/weak-memoize 0.3.1 : MIT License
 @eslint-community/eslint-utils 4.4.0 : MIT License
 @eslint-community/regexpp 4.10.0 : MIT License
-@eslint/eslintrc 2.1.3 : MIT License
-@eslint/js 8.53.0 : MIT License
-@floating-ui/core 1.5.0 : MIT License
-@floating-ui/dom 1.5.3 : MIT License
-@floating-ui/react-dom 2.0.4 : MIT License
-@floating-ui/utils 0.1.6 : MIT License
+@eslint/eslintrc 2.1.4 : MIT License
+@eslint/js 8.56.0 : MIT License
+@floating-ui/core 1.6.0 : MIT License
+@floating-ui/dom 1.6.1 : MIT License
+@floating-ui/react-dom 2.0.8 : MIT License
+@floating-ui/utils 0.2.1 : MIT License
 @fontsource/roboto 5.0.8 : Apache License 2.0
 @gar/promisify 1.1.3 : MIT License
-@humanwhocodes/config-array 0.11.13 : Apache License 2.0
+@humanwhocodes/config-array 0.11.14 : Apache License 2.0
 @humanwhocodes/module-importer 1.0.1 : Apache License 2.0
-@humanwhocodes/object-schema 2.0.1 : BSD 3-clause "New" or "Revised" License
+@humanwhocodes/object-schema 2.0.2 : BSD 3-clause "New" or "Revised" License
 @jridgewell/gen-mapping 0.3.3 : MIT License
 @jridgewell/resolve-uri 3.1.1 : MIT License
 @jridgewell/set-array 1.1.2 : MIT License
 @jridgewell/source-map 0.3.5 : MIT License
 @jridgewell/sourcemap-codec 1.4.15 : MIT License
-@jridgewell/trace-mapping 0.3.20 : MIT License
+@jridgewell/trace-mapping 0.3.22 : MIT License
 @jridgewell/trace-mapping 0.3.9 : MIT License
 @leichtgewicht/ip-codec 2.0.4 : MIT License
 @malept/cross-spawn-promise 1.1.1 : Apache License 2.0
 @malept/cross-spawn-promise 2.0.0 : Apache License 2.0
 @monaco-editor/loader 1.4.0 : MIT License
 @monaco-editor/react 4.6.0 : MIT License
-@mui/base 5.0.0-beta.23 : MIT License
-@mui/core-downloads-tracker 5.14.17 : MIT License
-@mui/icons-material 5.14.16 : MIT License
-@mui/lab 5.0.0-alpha.152 : MIT License
-@mui/material 5.14.17 : MIT License
+@mui/base 5.0.0-beta.33 : MIT License
+@mui/core-downloads-tracker 5.15.6 : MIT License
+@mui/icons-material 5.15.6 : MIT License
+@mui/lab 5.0.0-alpha.162 : MIT License
+@mui/material 5.15.6 : MIT License
 @mui/private-theming 5.15.6 : MIT License
 @mui/styled-engine 5.15.6 : MIT License
 @mui/system 5.15.6 : MIT License
@@ -141,62 +112,63 @@ Components:
 @npmcli/move-file 1.1.2 : MIT License
 @npmcli/move-file 2.0.1 : MIT License
 @popperjs/core 2.11.8 : MIT License
-@reactflow/background 11.3.6 : MIT License
-@reactflow/controls 11.2.6 : MIT License
-@reactflow/core 11.10.1 : MIT License
-@reactflow/minimap 11.7.6 : MIT License
-@reactflow/node-resizer 2.2.6 : MIT License
-@reactflow/node-toolbar 1.3.6 : MIT License
+@reactflow/background 11.3.8 : MIT License
+@reactflow/controls 11.2.8 : MIT License
+@reactflow/core 11.10.3 : MIT License
+@reactflow/minimap 11.7.8 : MIT License
+@reactflow/node-resizer 2.2.8 : MIT License
+@reactflow/node-toolbar 1.3.8 : MIT License
 @sindresorhus/is 4.6.0 : MIT License
-@smithy/abort-controller 2.0.12 : Apache License 2.0
-@smithy/chunked-blob-reader 2.0.0 : Apache License 2.0
-@smithy/chunked-blob-reader-native 2.0.1 : Apache License 2.0
-@smithy/config-resolver 2.0.17 : Apache License 2.0
-@smithy/credential-provider-imds 2.1.0 : Apache License 2.0
-@smithy/eventstream-codec 2.0.12 : Apache License 2.0
-@smithy/eventstream-serde-browser 2.0.12 : Apache License 2.0
-@smithy/eventstream-serde-config-resolver 2.0.12 : Apache License 2.0
-@smithy/eventstream-serde-node 2.0.12 : Apache License 2.0
-@smithy/eventstream-serde-universal 2.0.12 : Apache License 2.0
-@smithy/fetch-http-handler 2.2.5 : Apache License 2.0
-@smithy/hash-blob-browser 2.0.13 : Apache License 2.0
-@smithy/hash-node 2.0.14 : Apache License 2.0
-@smithy/hash-stream-node 2.0.14 : Apache License 2.0
-@smithy/invalid-dependency 2.0.12 : Apache License 2.0
-@smithy/is-array-buffer 2.0.0 : Apache License 2.0
-@smithy/md5-js 2.0.14 : Apache License 2.0
-@smithy/middleware-content-length 2.0.14 : Apache License 2.0
-@smithy/middleware-endpoint 2.1.5 : Apache License 2.0
-@smithy/middleware-retry 2.0.19 : Apache License 2.0
-@smithy/middleware-serde 2.0.12 : Apache License 2.0
-@smithy/middleware-stack 2.0.6 : Apache License 2.0
-@smithy/node-config-provider 2.1.4 : Apache License 2.0
-@smithy/node-http-handler 2.1.8 : Apache License 2.0
-@smithy/property-provider 2.0.13 : Apache License 2.0
-@smithy/protocol-http 3.0.8 : Apache License 2.0
-@smithy/querystring-builder 2.0.12 : Apache License 2.0
-@smithy/querystring-parser 2.0.12 : Apache License 2.0
-@smithy/service-error-classification 2.0.5 : Apache License 2.0
-@smithy/shared-ini-file-loader 2.2.3 : Apache License 2.0
-@smithy/signature-v4 2.0.14 : Apache License 2.0
-@smithy/smithy-client 2.1.14 : Apache License 2.0
-@smithy/types 2.4.0 : Apache License 2.0
-@smithy/url-parser 2.0.12 : Apache License 2.0
-@smithy/util-base64 2.0.1 : Apache License 2.0
-@smithy/util-body-length-browser 2.0.0 : Apache License 2.0
-@smithy/util-body-length-node 2.1.0 : Apache License 2.0
-@smithy/util-buffer-from 2.0.0 : Apache License 2.0
-@smithy/util-config-provider 2.0.0 : Apache License 2.0
-@smithy/util-defaults-mode-browser 2.0.18 : Apache License 2.0
-@smithy/util-defaults-mode-node 2.0.24 : Apache License 2.0
-@smithy/util-endpoints 1.0.3 : Apache License 2.0
-@smithy/util-hex-encoding 2.0.0 : Apache License 2.0
-@smithy/util-middleware 2.0.5 : Apache License 2.0
-@smithy/util-retry 2.0.5 : Apache License 2.0
-@smithy/util-stream 2.0.19 : Apache License 2.0
-@smithy/util-uri-escape 2.0.0 : Apache License 2.0
-@smithy/util-utf8 2.0.2 : Apache License 2.0
-@smithy/util-waiter 2.0.12 : Apache License 2.0
+@smithy/abort-controller 2.1.1 : Apache License 2.0
+@smithy/chunked-blob-reader 2.1.1 : Apache License 2.0
+@smithy/chunked-blob-reader-native 2.1.1 : Apache License 2.0
+@smithy/config-resolver 2.1.1 : Apache License 2.0
+@smithy/core 1.3.1 : Apache License 2.0
+@smithy/credential-provider-imds 2.2.1 : Apache License 2.0
+@smithy/eventstream-codec 2.1.1 : Apache License 2.0
+@smithy/eventstream-serde-browser 2.1.1 : Apache License 2.0
+@smithy/eventstream-serde-config-resolver 2.1.1 : Apache License 2.0
+@smithy/eventstream-serde-node 2.1.1 : Apache License 2.0
+@smithy/eventstream-serde-universal 2.1.1 : Apache License 2.0
+@smithy/fetch-http-handler 2.4.1 : Apache License 2.0
+@smithy/hash-blob-browser 2.1.1 : Apache License 2.0
+@smithy/hash-node 2.1.1 : Apache License 2.0
+@smithy/hash-stream-node 2.1.1 : Apache License 2.0
+@smithy/invalid-dependency 2.1.1 : Apache License 2.0
+@smithy/is-array-buffer 2.1.1 : Apache License 2.0
+@smithy/md5-js 2.1.1 : Apache License 2.0
+@smithy/middleware-content-length 2.1.1 : Apache License 2.0
+@smithy/middleware-endpoint 2.4.1 : Apache License 2.0
+@smithy/middleware-retry 2.1.1 : Apache License 2.0
+@smithy/middleware-serde 2.1.1 : Apache License 2.0
+@smithy/middleware-stack 2.1.1 : Apache License 2.0
+@smithy/node-config-provider 2.2.1 : Apache License 2.0
+@smithy/node-http-handler 2.3.1 : Apache License 2.0
+@smithy/property-provider 2.1.1 : Apache License 2.0
+@smithy/protocol-http 3.1.1 : Apache License 2.0
+@smithy/querystring-builder 2.1.1 : Apache License 2.0
+@smithy/querystring-parser 2.1.1 : Apache License 2.0
+@smithy/service-error-classification 2.1.1 : Apache License 2.0
+@smithy/shared-ini-file-loader 2.3.1 : Apache License 2.0
+@smithy/signature-v4 2.1.1 : Apache License 2.0
+@smithy/smithy-client 2.3.1 : Apache License 2.0
+@smithy/types 2.9.1 : Apache License 2.0
+@smithy/url-parser 2.1.1 : Apache License 2.0
+@smithy/util-base64 2.1.1 : Apache License 2.0
+@smithy/util-body-length-browser 2.1.1 : Apache License 2.0
+@smithy/util-body-length-node 2.2.1 : Apache License 2.0
+@smithy/util-buffer-from 2.1.1 : Apache License 2.0
+@smithy/util-config-provider 2.2.1 : Apache License 2.0
+@smithy/util-defaults-mode-browser 2.1.1 : Apache License 2.0
+@smithy/util-defaults-mode-node 2.1.1 : Apache License 2.0
+@smithy/util-endpoints 1.1.1 : Apache License 2.0
+@smithy/util-hex-encoding 2.1.1 : Apache License 2.0
+@smithy/util-middleware 2.1.1 : Apache License 2.0
+@smithy/util-retry 2.1.1 : Apache License 2.0
+@smithy/util-stream 2.1.1 : Apache License 2.0
+@smithy/util-uri-escape 2.1.1 : Apache License 2.0
+@smithy/util-utf8 2.1.1 : Apache License 2.0
+@smithy/util-waiter 2.1.1 : Apache License 2.0
 @szmarczak/http-timer 4.0.6 : MIT License
 @tootallnate/once 1.1.2 : MIT License
 @tootallnate/once 2.0.0 : MIT License
@@ -208,7 +180,7 @@ Components:
 @types/bonjour 3.5.13 : MIT License
 @types/cacheable-request 6.0.3 : MIT License
 @types/connect 3.4.38 : MIT License
-@types/connect-history-api-fallback 1.5.3 : MIT License
+@types/connect-history-api-fallback 1.5.4 : MIT License
 @types/d3 7.4.3 : MIT License
 @types/d3-array 3.2.1 : MIT License
 @types/d3-axis 3.0.6 : MIT License
@@ -224,35 +196,35 @@ Components:
 @types/d3-fetch 3.0.7 : MIT License
 @types/d3-force 3.0.9 : MIT License
 @types/d3-format 3.0.4 : MIT License
-@types/d3-geo 3.0.8 : MIT License
+@types/d3-geo 3.1.0 : MIT License
 @types/d3-hierarchy 1.1.11 : MIT License
 @types/d3-interpolate 1.4.5 : MIT License
 @types/d3-interpolate 3.0.4 : MIT License
 @types/d3-path 1.0.11 : MIT License
 @types/d3-polygon 3.0.2 : MIT License
-@types/d3-quadtree 3.0.5 : MIT License
+@types/d3-quadtree 3.0.6 : MIT License
 @types/d3-random 3.0.3 : MIT License
 @types/d3-scale 4.0.8 : MIT License
-@types/d3-scale-chromatic 3.0.2 : MIT License
+@types/d3-scale-chromatic 3.0.3 : MIT License
 @types/d3-selection 1.4.6 : MIT License
 @types/d3-selection 3.0.10 : MIT License
-@types/d3-shape 1.3.11 : MIT License
-@types/d3-shape 3.1.5 : MIT License
+@types/d3-shape 1.3.12 : MIT License
+@types/d3-shape 3.1.6 : MIT License
 @types/d3-time 3.0.3 : MIT License
 @types/d3-time-format 4.0.3 : MIT License
 @types/d3-timer 3.0.2 : MIT License
 @types/d3-transition 3.0.8 : MIT License
 @types/d3-zoom 1.8.7 : MIT License
 @types/d3-zoom 3.0.8 : MIT License
-@types/eslint 8.44.7 : MIT License
+@types/eslint 8.56.2 : MIT License
 @types/eslint-scope 3.7.7 : MIT License
 @types/estree 1.0.5 : MIT License
 @types/express 4.17.21 : MIT License
-@types/express-serve-static-core 4.17.41 : MIT License
+@types/express-serve-static-core 4.17.42 : MIT License
 @types/fs-extra 9.0.13 : MIT License
 @types/geojson 7946.0.13 : MIT License
 @types/glob 7.2.0 : MIT License
-@types/hast 2.3.8 : MIT License
+@types/hast 2.3.9 : MIT License
 @types/html-minifier-terser 6.1.0 : MIT License
 @types/http-cache-semantics 4.0.4 : MIT License
 @types/http-errors 2.0.4 : MIT License
@@ -263,32 +235,32 @@ Components:
 @types/mime 1.3.5 : MIT License
 @types/minimatch 5.1.2 : MIT License
 @types/minimist 1.2.5 : MIT License
-@types/node 18.18.9 : MIT License
-@types/node 20.9.0 : MIT License
-@types/node-forge 1.3.9 : MIT License
+@types/node 18.19.10 : MIT License
+@types/node 20.11.10 : MIT License
+@types/node-forge 1.3.11 : MIT License
 @types/normalize-package-data 2.4.4 : MIT License
-@types/papaparse 5.3.11 : MIT License
+@types/papaparse 5.3.14 : MIT License
 @types/parse-json 4.0.2 : MIT License
 @types/prop-types 15.7.11 : MIT License
-@types/qs 6.9.10 : MIT License
+@types/qs 6.9.11 : MIT License
 @types/range-parser 1.2.7 : MIT License
-@types/react 18.2.37 : MIT License
-@types/react-dom 18.2.15 : MIT License
-@types/react-syntax-highlighter 15.5.10 : MIT License
-@types/react-transition-group 4.4.9 : MIT License
+@types/react 18.2.48 : MIT License
+@types/react-dom 18.2.18 : MIT License
+@types/react-syntax-highlighter 15.5.11 : MIT License
+@types/react-transition-group 4.4.10 : MIT License
 @types/responselike 1.0.3 : MIT License
 @types/retry 0.12.0 : MIT License
-@types/scheduler 0.16.6 : MIT License
-@types/semver 7.5.5 : MIT License
+@types/scheduler 0.16.8 : MIT License
+@types/semver 7.5.6 : MIT License
 @types/send 0.17.4 : MIT License
 @types/serve-index 1.9.4 : MIT License
 @types/serve-static 1.15.5 : MIT License
 @types/sockjs 0.3.36 : MIT License
 @types/stream-chain 2.0.4 : MIT License
-@types/stream-json 1.7.6 : MIT License
+@types/stream-json 1.7.7 : MIT License
 @types/unist 2.0.10 : MIT License
-@types/uuid 9.0.7 : MIT License
-@types/ws 8.5.9 : MIT License
+@types/uuid 9.0.8 : MIT License
+@types/ws 8.5.10 : MIT License
 @types/yauzl 2.10.3 : MIT License
 @typescript-eslint/eslint-plugin 5.62.0 : MIT License
 @typescript-eslint/parser 5.62.0 : BSD 2-clause "Simplified" License
@@ -318,10 +290,10 @@ Components:
 @xtuc/ieee754 1.2.0 : BSD 3-clause "New" or "Revised" License
 @xtuc/long 4.2.2 : Apache License 2.0
 abbrev 1.1.1 : ISC License
-Acorn 8.11.2 : MIT License
+Acorn 8.11.3 : MIT License
 acorn-import-assertions 1.9.0 : MIT License
 Acorn-JSX 5.3.2 : MIT License
-acorn-walk 8.3.0 : MIT License
+acorn-walk 8.3.2 : MIT License
 agent-base 6.0.2 : MIT License
 agentkeepalive 4.5.0 : MIT License
 aggregate-error 3.1.0 : MIT License
@@ -341,7 +313,6 @@ are-we-there-yet 3.0.1 : ISC License
 ARG 4.1.3 : MIT License
 array-buffer-byte-length 1.0.0 : MIT License
 array-flatten 1.1.1 : MIT License
-array-flatten 2.1.2 : MIT License
 array-includes 3.1.7 : MIT License
 array-union v2.1.0 : MIT License
 array.prototype.findlastindex 1.2.3 : MIT License
@@ -356,7 +327,7 @@ asynckit 0.4.0 : MIT License
 at-least-node 1.0.0 : ISC License
 author-regex 1.0.0 : MIT License
 available-typed-arrays 1.0.5 : MIT License
-axios 1.6.1 : MIT License
+axios 1.6.7 : MIT License
 babel-plugin-macros 3.1.0 : MIT License
 balanced-match 1.0.2 : MIT License
 base64-js 1.5.1 : MIT License
@@ -365,7 +336,7 @@ binary-extensions v2.2.0 : MIT License
 bl 4.1.0 : MIT License
 Bluebird JS 3.7.2 : MIT License
 body-parser 1.20.1 : MIT License
-bonjour-service 1.1.1 : MIT License
+bonjour-service 1.2.1 : MIT License
 boolbase 1.0.0 : ISC License
 boolean 3.2.0 : MIT License
 brace-expansion 1.1.11 : MIT License
@@ -387,6 +358,7 @@ calvinmetcalf/lie 3.3.0 : MIT License
 camelcase 4.1.2 : MIT License
 camelcase 5.3.1 : MIT License
 camelcase-keys 6.2.2 : MIT License
+caniuse-lite 1.0.30001581 : Creative Commons Attribution 4.0
 Chalk 2.4.2 : MIT License
 Chalk 4.1.2 : MIT License
 character-entities 1.2.4 : MIT License
@@ -396,11 +368,10 @@ child_process 1.0.2 : ISC License
 chokidar 3.5.3 : MIT License
 chownr 2.0.0 : ISC License
 chromium-pickle-js 0.2.0 : MIT License
-classnames 2.3.2 : MIT License
-clean-css 5.3.2 : MIT License
+clean-css 5.3.3 : MIT License
 clean-stack 2.2.0 : MIT License
 cli-cursor v3.1.0 : MIT License
-cli-spinners 2.9.1 : MIT License
+cli-spinners 2.9.2 : MIT License
 cli-truncate 2.1.0 : MIT License
 cliui 8.0.1 : ISC License
 cliui v7.0.4 : ISC License
@@ -431,52 +402,40 @@ coveo/exponential-backoff 3.1.1 : Apache License 2.0
 create-require 1.1.1 : MIT License
 cross-spawn-windows-exe 1.2.0 : Apache License 2.0
 cross-zip 4.0.0 : MIT License
-css-loader 6.8.1 : MIT License
+css-loader 6.9.1 : MIT License
 css-what 6.1.0 : BSD 2-clause "Simplified" License
 cssesc 3.0.0 : MIT License
 CSSselect 4.3.0 : BSD 2-clause "Simplified" License
-csstype 3.1.2 : MIT License
+csstype 3.1.3 : MIT License
 d3-array 3.2.4 : ISC License
 d3-axis 3.0.0 : ISC License
 d3-brush 3.0.0 : ISC License
 d3-chord 3.0.1 : ISC License
-d3-color 1.4.1 : BSD 3-clause "New" or "Revised" License
 d3-color 3.1.0 : ISC License
 d3-contour 4.0.2 : ISC License
 d3-delaunay 6.0.4 : ISC License
-d3-dispatch 1.0.6 : BSD 3-clause "New" or "Revised" License
 d3-dispatch 3.0.1 : ISC License
-d3-drag 1.2.5 : BSD 3-clause "New" or "Revised" License
 d3-drag 3.0.0 : ISC License
 d3-dsv 3.0.1 : ISC License
-d3-ease 1.0.7 : BSD 3-clause "New" or "Revised" License
 d3-ease 3.0.1 : BSD 3-clause "New" or "Revised" License
 d3-fetch 3.0.1 : ISC License
 d3-force 3.0.0 : ISC License
 d3-format 3.1.0 : ISC License
 d3-geo 3.1.0 : ISC License
-d3-hierarchy 1.1.9 : BSD 3-clause "New" or "Revised" License
 d3-hierarchy 3.1.2 : ISC License
-d3-interpolate 1.4.0 : BSD 3-clause "New" or "Revised" License
 d3-interpolate 3.0.1 : ISC License
-d3-path 1.0.9 : BSD 3-clause "New" or "Revised" License
 d3-path 3.1.0 : ISC License
 d3-polygon 3.0.1 : ISC License
 d3-quadtree 3.0.1 : ISC License
 d3-random 3.0.1 : ISC License
 d3-scale 4.0.2 : ISC License
 d3-scale-chromatic 3.0.0 : ISC License
-d3-selection 1.4.2 : BSD 3-clause "New" or "Revised" License
 d3-selection 3.0.0 : ISC License
 d3-shape 3.2.0 : ISC License
-d3-shape v1.3.7 : BSD 3-clause "New" or "Revised" License
 d3-time 3.1.0 : ISC License
 d3-time-format 4.1.0 : ISC License
 d3-timer 3.0.1 : ISC License
-d3-timer v1.0.10 : BSD 3-clause "New" or "Revised" License
 d3-transition 3.0.1 : ISC License
-d3-transition v1.3.2 : BSD 3-clause "New" or "Revised" License
-d3-zoom 1.8.3 : BSD 3-clause "New" or "Revised" License
 d3-zoom 3.0.0 : ISC License
 D3.js 7.8.5 : BSD 3-clause "New" or "Revised" License
 daemon 1.1.0 : MIT License
@@ -495,15 +454,14 @@ defaults 1.0.4 : MIT License
 defer-to-connect 2.0.1 : MIT License
 define-data-property 1.1.1 : MIT License
 define-lazy-prop 2.0.0 : MIT License
-delaunator 5.0.0 : ISC License
+delaunator 5.0.1 : ISC License
 delayed-stream 1.0.0 : MIT License
 delegates 1.0.0 : MIT License
 destroy 1.2.0 : MIT License
 detect-libc 2.0.2 : Apache License 2.0
 detect-node 2.1.0 : MIT License
-dir-compare 3.3.0 : MIT License
+dir-compare 4.2.0 : MIT License
 dir-glob 3.0.1 : MIT License
-dns-equal 1.0.0 : MIT License
 dns-packet 5.6.1 : MIT License
 doctrine v2.1.0 : (BSD 2-clause "Simplified" License AND Apache License 2.0)
 doctrine v3.0.0 : Apache License 2.0
@@ -517,16 +475,15 @@ domutils 2.8.0 : BSD 2-clause "Simplified" License
 dot-case 3.0.4 : MIT License
 ee-first 1.1.1 : MIT License
 einaros/ws 7.5.9 : MIT License
-einaros/ws 8.14.2 : MIT License
+einaros/ws 8.16.0 : MIT License
 Electron Installer Red Hat 3.4.0 : MIT License
-Electron Packager 17.1.2 : BSD 2-clause "Simplified" License
 electron-installer-common 0.10.3 : Apache License 2.0
 electron-installer-debian 3.2.0 : MIT License
 electron-rebuild 3.2.9 : MIT License
 electron-squirrel-startup 1.0.0 : Apache License 2.0
 electron-winstaller-temp-fork 5.2.1 : MIT License
 electron/update-electron-app 3.0.0 : MIT License
-electronjs 24.4.0 : MIT License
+electronjs 28.2.0 : MIT License
 emoji-regex v8.0.0 : MIT License
 emojis-list 3.0.0 : MIT License
 encodeurl 1.0.2 : MIT License
@@ -546,9 +503,9 @@ escape-goat 2.1.1 : MIT License
 escape-html 1.0.3 : MIT License
 escape-string-regexp 1.0.5 : MIT License
 escape-string-regexp v4.0.0 : MIT License
-ESLint 8.53.0 : MIT License
+ESLint 8.56.0 : MIT License
 eslint-import-resolver-node 0.3.9 : MIT License
-eslint-plugin-import 2.29.0 : MIT License
+eslint-plugin-import 2.29.1 : MIT License
 eslint-plugin-import 2.8.0 : MIT License
 eslint-scope 7.2.2 : BSD 2-clause "Simplified" License
 eslint-scope v5.1.1 : BSD 2-clause "Simplified" License
@@ -577,7 +534,7 @@ fast-glob 3.3.2 : MIT License
 fast-json-stable-stringify 2.1.0 : MIT License
 fast-levenshtein 2.0.6 : MIT License
 fast-xml-parser 4.2.5 : MIT License
-fastq 1.15.0 : ISC License
+fastq 1.17.0 : ISC License
 fault 1.0.4 : MIT License
 faye-websocket-node 0.11.4 : Apache License 2.0
 fd-slicer 1.1.0 : MIT License
@@ -593,15 +550,15 @@ find-root 1.1.0 : MIT License
 find-up 2.1.0 : MIT License
 find-up v4.1.0 : MIT License
 find-up v5.0.0 : MIT License
-flat-cache 3.1.1 : MIT License
+flat-cache 3.2.0 : MIT License
 flatted 3.2.9 : ISC License
 flora-colossus 2.0.0 : MIT License
-follow-redirects 1.15.3 : MIT License
+follow-redirects 1.15.5 : MIT License
 fork-ts-checker-webpack-plugin 7.3.0 : MIT License
 form-data 4.0.0 : MIT License
 forwarded 0.2.0 : MIT License
 fs-extra 10.1.0 : MIT License
-fs-extra 11.1.1 : MIT License
+fs-extra 11.2.0 : MIT License
 fs-extra 7.0.1 : MIT License
 fs-extra 8.1.0 : MIT License
 fs-extra 9.1.0 : MIT License
@@ -653,7 +610,7 @@ hosted-git-info 4.1.0 : ISC License
 hosted-git-info v2.8.9 : ISC License
 hpack.js 2.1.6 : MIT License
 html-minifier-terser 6.1.0 : MIT License
-html-webpack-plugin 5.5.3 : MIT License
+html-webpack-plugin 5.6.0 : MIT License
 htmlparser2 6.1.0 : MIT License
 http-cache-semantics 4.1.1 : BSD 2-clause "Simplified" License
 http-deceiver 1.2.7 : MIT License
@@ -751,7 +708,7 @@ launch-editor 2.6.1 : MIT License
 levn 0.4.1 : MIT License
 lines-and-columns 1.2.4 : MIT License
 listr2 5.0.8 : MIT License
-ljharb/object.assign 4.1.4 : MIT License
+ljharb/object.assign 4.1.5 : MIT License
 load-json-file 2.0.0 : MIT License
 loader-runner 4.3.0 : MIT License
 locate-path 2.0.0 : MIT License
@@ -801,6 +758,7 @@ minimalistic-assert 1.0.1 : ISC License
 minimatch 3.0.8 : ISC License
 minimatch 3.1.2 : ISC License
 minimatch 5.1.6 : ISC License
+minimatch 9.0.3 : ISC License
 minimist 1.2.8 : MIT License
 minimist-options 4.1.0 : MIT License
 minipass 3.3.6 : ISC License
@@ -827,11 +785,11 @@ neo-async 2.6.2 : MIT License
 nice-try 1.0.5 : MIT License
 no-case 3.0.4 : MIT License
 Node Cookie Parser 0.5.0 : MIT License
-node-abi 3.51.0 : MIT License
+node-abi 3.54.0 : MIT License
 node-abort-controller 3.1.1 : MIT License
 node-addon-api 3.2.1 : MIT License
 node-api-version 0.1.4 : MIT License
-node-buffer-equal 1.0.1 : MIT License
+node-api-version 0.2.0 : MIT License
 node-concat-map 0.0.1 : MIT License
 node-cookie-signature 1.0.6 : MIT License
 node-cross-spawn 6.0.5 : MIT License
@@ -847,11 +805,11 @@ node-globule 1.3.4 : MIT License
 node-graceful-fs 4.2.11 : ISC License
 node-gyp 8.4.1 : MIT License
 node-gyp 9.4.1 : MIT License
-node-gyp-build 4.6.1 : MIT License
+node-gyp-build 4.8.0 : MIT License
 node-html-entities 2.4.0 : MIT License
 node-http-proxy-agent 4.0.1 : MIT License
 node-http-proxy-agent 5.0.0 : MIT License
-node-ignore 5.2.4 : MIT License
+node-ignore 5.3.0 : MIT License
 node-ip 2.0.0 : MIT License
 node-jsonfile 4.0.0 : MIT License
 node-jsonfile 6.1.0 : MIT License
@@ -937,12 +895,12 @@ picocolors 1.0.0 : ISC License
 picomatch 2.3.1 : MIT License
 pify 2.3.0 : MIT License
 pkg-dir 4.2.0 : MIT License
-PostCSS 8.4.31 : MIT License
+PostCSS 8.4.33 : MIT License
 postcss-modules-extract-imports 3.0.0 : ISC License
-postcss-modules-local-by-default 4.0.3 : MIT License
-postcss-modules-scope 3.0.0 : ISC License
+postcss-modules-local-by-default 4.0.4 : MIT License
+postcss-modules-scope 3.1.1 : ISC License
 postcss-modules-values 4.0.0 : ISC License
-postcss-selector-parser 6.0.13 : MIT License
+postcss-selector-parser 6.0.15 : MIT License
 postcss-value-parser 4.2.0 : MIT License
 prelude-ls 1.2.1 : MIT License
 pretty-error 4.0.0 : MIT License
@@ -966,22 +924,22 @@ randombytes 2.1.0 : MIT License
 range-parser v1.2.1 : MIT License
 raw-body 2.5.1 : MIT License
 Raynos/for-each 0.3.3 : MIT License
-rcedit 3.1.0 : MIT License
+rcedit 4.0.1 : MIT License
 React from Facebook 1.2.0 : MIT License
 React from Facebook 16.13.1 : MIT License
 React from Facebook 18.2.0 : MIT License
 react-fast-compare 3.2.2 : MIT License
-react-icons 4.11.0 : MIT License
+react-icons 4.12.0 : MIT License
 react-lifecycles-compat 3.0.4 : MIT License
 react-popper 2.3.0 : MIT License
 react-popper-tooltip 4.4.2 : MIT License
-react-resize-detector 8.1.0 : MIT License
 react-smooth 2.0.5 : MIT License
 react-syntax-highlighter 15.5.0 : MIT License
 react-transition-group 2.9.0 : BSD 3-clause "New" or "Revised" License
 react-transition-group 4.4.5 : BSD 3-clause "New" or "Revised" License
-reactflow 11.10.1 : MIT License
+reactflow 11.10.3 : MIT License
 ReactiveX RxJS 7.8.1 : Apache License 2.0
+read-binary-file-arch 1.0.6 : MIT License
 read-pkg 2.0.0 : MIT License
 read-pkg 5.2.0 : MIT License
 read-pkg-up 2.0.0 : MIT License
@@ -989,12 +947,12 @@ read-pkg-up 7.0.1 : MIT License
 readable-stream 2.3.8 : MIT License
 readable-stream 3.6.2 : MIT License
 readdirp 3.6.0 : MIT License
-recharts 2.9.3 : MIT License
+recharts 2.11.0 : MIT License
 recharts-scale 0.4.5 : MIT License
 rechoir 0.8.0 : MIT License
 redent 3.0.0 : MIT License
 refractor 3.6.0 : MIT License
-regenerator-runtime 0.14.0 : MIT License
+regenerator-runtime 0.14.1 : MIT License
 regexp.prototype.flags 1.5.1 : MIT License
 relateurl 0.2.7 : MIT License
 renderkid 3.0.0 : MIT License
@@ -1008,17 +966,17 @@ resolve-package 1.0.1 : MIT License
 responselike 2.0.1 : MIT License
 restore-cursor v3.1.0 : MIT License
 reusify 1.0.4 : MIT License
-rfdc 1.3.0 : MIT License
+rfdc 1.3.1 : MIT License
 rimraf 2.6.3 : ISC License
 rimraf 3.0.2 : ISC License
 roarr 2.15.4 : BSD 3-clause "New" or "Revised" License
 robust-predicates 3.0.2 : The Unlicense
 run-parallel 1.2.0 : MIT License
 rw 1.3.3 : BSD 3-clause "New" or "Revised" License
-safe-array-concat 1.0.1 : MIT License
+safe-array-concat 1.1.0 : MIT License
 safe-buffer 5.1.2 : MIT License
 safe-buffer v5.2.1 : MIT License
-safe-regex-test 1.0.0 : MIT License
+safe-regex-test 1.0.2 : MIT License
 safer-buffer 2.1.2 : MIT License
 samccone/chrome-trace-event 1.0.3 : MIT License
 samsonjs/format 0.2.2 : MIT License
@@ -1026,18 +984,18 @@ sass-graph 4.0.1 : MIT License
 scheduler 0.23.0 : MIT License
 schema-utils 3.3.0 : MIT License
 schema-utils 4.2.0 : MIT License
-scottmotte/dotenv 16.3.1 : BSD 2-clause "Simplified" License
+scottmotte/dotenv 16.4.1 : BSD 2-clause "Simplified" License
 scss-tokenizer 0.4.3 : MIT License
 select-hose 2.0.0 : MIT License
 selfsigned 2.4.1 : MIT License
 semver-compare 1.0.0 : MIT License
 Send for Node.js 0.18.0 : MIT License
 serialize-error 7.0.1 : MIT License
-serialize-javascript 6.0.1 : BSD 3-clause "New" or "Revised" License
+serialize-javascript 6.0.2 : BSD 3-clause "New" or "Revised" License
 serve-index 1.9.1 : MIT License
 serve-static 1.15.0 : MIT License
 set-blocking 2.0.0 : ISC License
-set-function-length 1.1.1 : MIT License
+set-function-length 1.2.0 : MIT License
 set-function-name 2.0.1 : MIT License
 setImmediate 1.0.5 : MIT License
 setprototypeof 1.1.0 : ISC License
@@ -1052,7 +1010,7 @@ side-channel 1.0.4 : MIT License
 signal-exit 3.0.7 : ISC License
 sindresorhus-open 8.4.2 : MIT License
 sindresorhus/electron-dl 3.5.1 : MIT License
-sindresorhus/globals 13.23.0 : MIT License
+sindresorhus/globals 13.24.0 : MIT License
 sindresorhus/globby 11.1.0 : MIT License
 sindresorhus/got 11.8.6 : MIT License
 sindresorhus/is-stream 1.1.0 : MIT License
@@ -1076,7 +1034,7 @@ source-map 0.7.4 : BSD 3-clause "New" or "Revised" License
 source-map-js 1.0.2 : BSD 3-clause "New" or "Revised" License
 space-separated-tokens 1.1.5 : MIT License
 spdx-correct.js 3.2.0 : Apache License 2.0
-spdx-exceptions 2.3.0 : Creative Commons Attribution 3.0
+spdx-exceptions 2.4.0 : Creative Commons Attribution 3.0
 spdx-expression-parse.js 3.0.1 : MIT License
 spdx-license-ids 3.0.16 : The Unlicense
 spdy 4.0.2 : MIT License
@@ -1104,7 +1062,7 @@ strip-indent v3.0.0 : MIT License
 strip-json-comments 3.1.1 : MIT License
 strip-outer 1.0.1 : MIT License
 strnum 1.0.5 : MIT License
-style-loader 3.3.3 : MIT License
+style-loader 3.3.4 : MIT License
 stylis 4.2.0 : MIT License
 sumchecker 3.0.1 : Apache License 2.0
 supports-color 5.5.0 : MIT License
@@ -1130,9 +1088,9 @@ tr46 0.0.3 : MIT License
 trim-newlines 3.0.1 : MIT License
 trim-repeated 1.0.0 : MIT License
 true-case-path 2.2.1 : Apache License 2.0
-ts-loader 9.5.0 : MIT License
-ts-node 10.9.1 : MIT License
-tsconfig-paths 3.14.2 : MIT License
+ts-loader 9.5.1 : MIT License
+ts-node 10.9.2 : MIT License
+tsconfig-paths 3.15.0 : MIT License
 tsutils 3.21.0 : MIT License
 type-check 0.4.0 : MIT License
 type-fest 0.13.1 : (MIT License OR Creative Commons Zero v1.0 Universal)
@@ -1168,7 +1126,6 @@ uuid 9.0.1 : MIT License
 v8-compile-cache-lib 3.0.1 : MIT License
 validate-npm-package-license 3.0.4 : Apache License 2.0
 vary 1.1.2 : MIT License
-victory 36.6.12 : MIT License
 visionmedia/batch 0.6.1 : MIT License
 warning 4.0.3 : MIT License
 watchpack 2.4.0 : MIT License
@@ -1176,7 +1133,7 @@ wbuf 1.7.3 : MIT License
 wcwidth 1.0.1 : MIT License
 webidl-conversions 3.0.1 : BSD 2-clause "Simplified" License
 Webpack 5.90.0 : MIT License
-webpack-contrib/sass-loader 13.3.2 : MIT License
+webpack-contrib/sass-loader 13.3.3 : MIT License
 webpack-dev-server 4.15.1 : MIT License
 webpack-merge 5.10.0 : MIT License
 webpack-sources 3.2.3 : MIT License
@@ -1199,12 +1156,9 @@ wrappy 1.0.2 : ISC License
 xmlbuilder-js 15.1.1 : MIT License
 xmldom 0.8.10 : MIT License
 xtend 4.0.2 : MIT License
-xterm-addon-attach 0.8.0 : MIT License
 xterm-addon-fit 0.5.0 : MIT License
-xterm-addon-fit 0.7.0 : MIT License
 xterm.js 0.8.2 : MIT License
 xterm.js 4.19.0 : MIT License
-xterm.js 5.3.0 : MIT License
 y18n 5.0.8 : ISC License
 yaku 0.16.7 : MIT License
 yallist 4.0.0 : ISC License
@@ -1218,12 +1172,12 @@ yauzl 2.10.0 : MIT License
 yn v3.1.1 : MIT License
 yocto-queue 0.1.0 : MIT License
 zeekay/highlight.js 10.7.3 : BSD 3-clause "New" or "Revised" License
-zustand 4.4.6 : MIT License
+zustand 4.5.0 : MIT License
 
 Licenses: 
 
 Apache License 2.0
-(@aws-crypto/crc32 3.0.0, @aws-crypto/crc32c 3.0.0, @aws-crypto/ie11-detection 3.0.0, @aws-crypto/sha1-browser 3.0.0, @aws-crypto/sha256-browser 3.0.0, @aws-crypto/sha256-js 3.0.0, @aws-crypto/supports-web-crypto 3.0.0, @aws-crypto/util 3.0.0, @aws-sdk/client-cognito-identity 3.449.0, @aws-sdk/client-s3 3.449.0, @aws-sdk/client-sso 3.449.0, @aws-sdk/client-sts 3.449.0, @aws-sdk/core 3.445.0, @aws-sdk/credential-provider-cognito-identity 3.449.0, @aws-sdk/credential-provider-env 3.449.0, @aws-sdk/credential-provider-ini 3.449.0, @aws-sdk/credential-provider-node 3.449.0, @aws-sdk/credential-provider-process 3.449.0, @aws-sdk/credential-provider-sso 3.449.0, @aws-sdk/credential-provider-web-identity 3.449.0, @aws-sdk/middleware-bucket-endpoint 3.449.0, @aws-sdk/middleware-expect-continue 3.449.0, @aws-sdk/middleware-flexible-checksums 3.449.0, @aws-sdk/middleware-host-header 3.449.0, @aws-sdk/middleware-location-constraint 3.449.0, @aws-sdk/middleware-logger 3.449.0, @aws-sdk/middleware-recursion-detection 3.449.0, @aws-sdk/middleware-sdk-s3 3.449.0, @aws-sdk/middleware-sdk-sts 3.449.0, @aws-sdk/middleware-signing 3.449.0, @aws-sdk/middleware-ssec 3.449.0, @aws-sdk/middleware-user-agent 3.449.0, @aws-sdk/region-config-resolver 3.433.0, @aws-sdk/s3-request-presigner 3.449.0, @aws-sdk/signature-v4-multi-region 3.449.0, @aws-sdk/token-providers 3.449.0, @aws-sdk/types 3.449.0, @aws-sdk/util-arn-parser 3.310.0, @aws-sdk/util-endpoints 3.449.0, @aws-sdk/util-format-url 3.449.0, @aws-sdk/util-locate-window 3.310.0, @aws-sdk/util-user-agent-browser 3.449.0, @aws-sdk/util-user-agent-node 3.449.0, @aws-sdk/util-utf8-browser 3.259.0, @aws-sdk/xml-builder 3.310.0, @fontsource/roboto 5.0.8, @humanwhocodes/config-array 0.11.13, @humanwhocodes/module-importer 1.0.1, @malept/cross-spawn-promise 1.1.1, @malept/cross-spawn-promise 2.0.0, @smithy/abort-controller 2.0.12, @smithy/chunked-blob-reader 2.0.0, @smithy/chunked-blob-reader-native 2.0.1, @smithy/config-resolver 2.0.17, @smithy/credential-provider-imds 2.1.0, @smithy/eventstream-codec 2.0.12, @smithy/eventstream-serde-browser 2.0.12, @smithy/eventstream-serde-config-resolver 2.0.12, @smithy/eventstream-serde-node 2.0.12, @smithy/eventstream-serde-universal 2.0.12, @smithy/fetch-http-handler 2.2.5, @smithy/hash-blob-browser 2.0.13, @smithy/hash-node 2.0.14, @smithy/hash-stream-node 2.0.14, @smithy/invalid-dependency 2.0.12, @smithy/is-array-buffer 2.0.0, @smithy/md5-js 2.0.14, @smithy/middleware-content-length 2.0.14, @smithy/middleware-endpoint 2.1.5, @smithy/middleware-retry 2.0.19, @smithy/middleware-serde 2.0.12, @smithy/middleware-stack 2.0.6, @smithy/node-config-provider 2.1.4, @smithy/node-http-handler 2.1.8, @smithy/property-provider 2.0.13, @smithy/protocol-http 3.0.8, @smithy/querystring-builder 2.0.12, @smithy/querystring-parser 2.0.12, @smithy/service-error-classification 2.0.5, @smithy/shared-ini-file-loader 2.2.3, @smithy/signature-v4 2.0.14, @smithy/smithy-client 2.1.14, @smithy/types 2.4.0, @smithy/url-parser 2.0.12, @smithy/util-base64 2.0.1, @smithy/util-body-length-browser 2.0.0, @smithy/util-body-length-node 2.1.0, @smithy/util-buffer-from 2.0.0, @smithy/util-config-provider 2.0.0, @smithy/util-defaults-mode-browser 2.0.18, @smithy/util-defaults-mode-node 2.0.24, @smithy/util-endpoints 1.0.3, @smithy/util-hex-encoding 2.0.0, @smithy/util-middleware 2.0.5, @smithy/util-retry 2.0.5, @smithy/util-stream 2.0.19, @smithy/util-uri-escape 2.0.0, @smithy/util-utf8 2.0.2, @smithy/util-waiter 2.0.12, @webassemblyjs/leb128 1.11.6, @xtuc/long 4.2.2, ansi-html-community 0.0.8, coveo/exponential-backoff 3.1.1, cross-spawn-windows-exe 1.2.0, detect-libc 2.0.2, doctrine v2.1.0, doctrine v3.0.0, electron-installer-common 0.10.3, electron-squirrel-startup 1.0.0, eslint-visitor-keys 3.4.3, faye-websocket-node 0.11.4, human-signals 2.1.0, ReactiveX RxJS 7.8.1, spdx-correct.js 3.2.0, sumchecker 3.0.1, through 2.3.8, true-case-path 2.2.1, TypeScript 4.5.5, validate-npm-package-license 3.0.4, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4)
+(@aws-crypto/crc32 3.0.0, @aws-crypto/crc32c 3.0.0, @aws-crypto/ie11-detection 3.0.0, @aws-crypto/sha1-browser 3.0.0, @aws-crypto/sha256-browser 3.0.0, @aws-crypto/sha256-js 3.0.0, @aws-crypto/supports-web-crypto 3.0.0, @aws-crypto/util 3.0.0, @aws-sdk/core 3.496.0, @aws-sdk/util-arn-parser 3.495.0, @aws-sdk/util-locate-window 3.495.0, @aws-sdk/util-utf8-browser 3.259.0, @aws-sdk/xml-builder 3.496.0, @fontsource/roboto 5.0.8, @humanwhocodes/config-array 0.11.14, @humanwhocodes/module-importer 1.0.1, @malept/cross-spawn-promise 1.1.1, @malept/cross-spawn-promise 2.0.0, @smithy/abort-controller 2.1.1, @smithy/chunked-blob-reader 2.1.1, @smithy/chunked-blob-reader-native 2.1.1, @smithy/config-resolver 2.1.1, @smithy/core 1.3.1, @smithy/credential-provider-imds 2.2.1, @smithy/eventstream-codec 2.1.1, @smithy/eventstream-serde-browser 2.1.1, @smithy/eventstream-serde-config-resolver 2.1.1, @smithy/eventstream-serde-node 2.1.1, @smithy/eventstream-serde-universal 2.1.1, @smithy/fetch-http-handler 2.4.1, @smithy/hash-blob-browser 2.1.1, @smithy/hash-node 2.1.1, @smithy/hash-stream-node 2.1.1, @smithy/invalid-dependency 2.1.1, @smithy/is-array-buffer 2.1.1, @smithy/md5-js 2.1.1, @smithy/middleware-content-length 2.1.1, @smithy/middleware-endpoint 2.4.1, @smithy/middleware-retry 2.1.1, @smithy/middleware-serde 2.1.1, @smithy/middleware-stack 2.1.1, @smithy/node-config-provider 2.2.1, @smithy/node-http-handler 2.3.1, @smithy/property-provider 2.1.1, @smithy/protocol-http 3.1.1, @smithy/querystring-builder 2.1.1, @smithy/querystring-parser 2.1.1, @smithy/service-error-classification 2.1.1, @smithy/shared-ini-file-loader 2.3.1, @smithy/signature-v4 2.1.1, @smithy/smithy-client 2.3.1, @smithy/types 2.9.1, @smithy/url-parser 2.1.1, @smithy/util-base64 2.1.1, @smithy/util-body-length-browser 2.1.1, @smithy/util-body-length-node 2.2.1, @smithy/util-buffer-from 2.1.1, @smithy/util-config-provider 2.2.1, @smithy/util-defaults-mode-browser 2.1.1, @smithy/util-defaults-mode-node 2.1.1, @smithy/util-endpoints 1.1.1, @smithy/util-hex-encoding 2.1.1, @smithy/util-middleware 2.1.1, @smithy/util-retry 2.1.1, @smithy/util-stream 2.1.1, @smithy/util-uri-escape 2.1.1, @smithy/util-utf8 2.1.1, @smithy/util-waiter 2.1.1, @webassemblyjs/leb128 1.11.6, @xtuc/long 4.2.2, ansi-html-community 0.0.8, coveo/exponential-backoff 3.1.1, cross-spawn-windows-exe 1.2.0, detect-libc 2.0.2, doctrine v2.1.0, doctrine v3.0.0, electron-installer-common 0.10.3, electron-squirrel-startup 1.0.0, eslint-visitor-keys 3.4.3, faye-websocket-node 0.11.4, human-signals 2.1.0, ReactiveX RxJS 7.8.1, spdx-correct.js 3.2.0, sumchecker 3.0.1, through 2.3.8, true-case-path 2.2.1, TypeScript 4.5.5, validate-npm-package-license 3.0.4, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4)
 
 Apache License
 Version 2.0, January 2004
@@ -1428,7 +1382,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ---
 
 BSD 2-clause "Simplified" License
-(@electron/osx-sign 1.0.5, @typescript-eslint/parser 5.62.0, @typescript-eslint/typescript-estree 5.62.0, css-what 6.1.0, CSSselect 4.3.0, domelementtype 2.3.0, Electron Packager 17.1.2, eslint-scope 7.2.2, espree 9.6.1, http-cache-semantics 4.1.1, node-entities 2.2.0, nth-check 2.1.1, scottmotte/dotenv 16.3.1, terser 5.27.0)
+(@electron/osx-sign 1.0.5, @electron/packager 18.1.3, @electron/windows-sign 1.0.0, @typescript-eslint/parser 5.62.0, @typescript-eslint/typescript-estree 5.62.0, css-what 6.1.0, CSSselect 4.3.0, domelementtype 2.3.0, eslint-scope 7.2.2, espree 9.6.1, http-cache-semantics 4.1.1, node-entities 2.2.0, nth-check 2.1.1, scottmotte/dotenv 16.4.1, terser 5.27.0)
 
 BSD Two Clause License
 ======================
@@ -1981,7 +1935,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ---
 
 BSD 3-clause "New" or "Revised" License
-(@humanwhocodes/object-schema 2.0.1, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-ease 1.0.7, d3-ease 3.0.1, d3-hierarchy 1.1.9, d3-interpolate 1.4.0, d3-path 1.0.9, d3-selection 1.4.2, d3-timer v1.0.10, d3-zoom 1.8.3, D3.js 7.8.5, esquery 1.5.0, global-agent 3.0.0, hoist-non-react-statics v3.3.2, jsdiff 4.0.2, node-forge 1.3.1, qs -  QS Querystring 6.11.0, react-transition-group 4.4.5, roarr 2.15.4, serialize-javascript 6.0.1, source-map 0.7.4, source-map-js 1.0.2, sprintf.js 1.1.3, stream-json 1.8.0)
+(@humanwhocodes/object-schema 2.0.2, d3-ease 3.0.1, D3.js 7.8.5, esquery 1.5.0, global-agent 3.0.0, hoist-non-react-statics v3.3.2, jsdiff 4.0.2, node-forge 1.3.1, qs -  QS Querystring 6.11.0, react-transition-group 4.4.5, roarr 2.15.4, serialize-javascript 6.0.2, source-map 0.7.4, source-map-js 1.0.2, sprintf.js 1.1.3, stream-json 1.8.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -2032,43 +1986,6 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ---
 
 BSD 3-clause "New" or "Revised" License
-(d3-transition v1.3.2)
-
-License: BSD-3-Clause
-
-Files: debian/*
-Copyright: 2017, Pirate Praveen <praveen@debian.org>
-License: BSD-3-Clause
-
-License: BSD-3-Clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions
- are met:
- 1. Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
- 2. Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the distribution.
- 3. Neither the name of the University nor the names of its contributors
-    may be used to endorse or promote products derived from this software
-    without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE HOLDERS OR
- CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
- EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
- PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
- PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
- LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
- NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
- SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
 (source-map 0.5.7, source-map 0.6.1)
 
 License: BSD-3-clause
@@ -2090,48 +2007,6 @@ Redistribution and use in source and binary forms, with or without
  3. Neither the name of the University nor the names of its
     contributors may be used to endorse or promote products derived from
     this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE HOLDERS OR
- CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
- EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
- PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
- PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
- LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
- NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
- SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(d3-shape v1.3.7)
-
-Upstream-Contact: https://github.com/d3/d3-shape/issues
-Source: https://d3js.org/d3-shape/
-
-Files: *
-Copyright: 2010-2015 Mike Bostock <https://bost.ocks.org/mike>
-License: BSD-3-Clause
-
-Files: debian/*
-Copyright: 2017 Pirate Praveen <praveen@debian.org>
-License: BSD-3-Clause
-
-License: BSD-3-Clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions
- are met:
- 1. Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
- 2. Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the distribution.
- 3. Neither the name of the University nor the names of its contributors
-    may be used to endorse or promote products derived from this software
-    without specific prior written permission.
  .
  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -2255,7 +2130,7 @@ THIS SOFTWARE.
 ---
 
 Creative Commons Attribution 3.0
-(spdx-exceptions 2.3.0)
+(spdx-exceptions 2.4.0)
 
 Creative Commons
 Attribution 3.0 Unported
@@ -2577,6 +2452,338 @@ POSSIBILITY OF SUCH DAMAGES.
   of doubt, this trademark restriction does not form part of this License.
 
   Creative Commons may be contacted at http://creativecommons.org/.
+
+---
+
+Creative Commons Attribution 4.0
+(caniuse-lite 1.0.30001581)
+
+Creative Commons Attribution 4.0
+================================
+
+Creative Commons Attribution 4.0 International
+
+Creative Commons Corporation (“Creative Commons”) is not a law firm and does not
+provide legal services or legal advice. Distribution of Creative Commons public
+licenses does not create a lawyer-client or other relationship. Creative Commons
+makes its licenses and related information available on an “as-is” basis.
+Creative Commons gives no warranties regarding its licenses, any material
+licensed under their terms and conditions, or any related information. Creative
+Commons disclaims all liability for damages resulting from their use to the
+fullest extent possible.
+
+Using Creative Commons Public Licenses
+
+Creative Commons public licenses provide a standard set of terms and conditions
+that creators and other rights holders may use to share original works of
+authorship and other material subject to copyright and certain other rights
+specified in the public license below. The following considerations are for
+informational purposes only, are not exhaustive, and do not form part of our
+licenses.
+
+Considerations for licensors: Our public licenses are intended for use by those
+authorized to give the public permission to use material in ways otherwise
+restricted by copyright and certain other rights. Our licenses are irrevocable.
+Licensors should read and understand the terms and conditions of the license they
+choose before applying it. Licensors should also secure all rights necessary
+before applying our licenses so that the public can reuse the material as
+expected. Licensors should clearly mark any material not subject to the license.
+This includes other CC-licensed material, or material used under an exception or
+limitation to copyright. More considerations for licensors.
+
+Considerations for the public: By using one of our public licenses, a licensor
+grants the public permission to use the licensed material under specified terms
+and conditions. If the licensor’s permission is not necessary for any reason–for
+example, because of any applicable exception or limitation to copyright–then that
+use is not regulated by the license. Our licenses grant only permissions under
+copyright and certain other rights that a licensor has authority to grant. Use of
+the licensed material may still be restricted for other reasons, including
+because others have copyright or other rights in the material. A licensor may
+make special requests, such as asking that all changes be marked or described.
+Although not required by our licenses, you are encouraged to respect those
+requests where reasonable. More considerations for the public.
+
+Creative Commons Attribution 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be
+bound by the terms and conditions of this Creative Commons Attribution 4.0
+International Public License ("Public License"). To the extent this Public
+License may be interpreted as a contract, You are granted the Licensed Rights in
+consideration of Your acceptance of these terms and conditions, and the Licensor
+grants You such rights in consideration of benefits the Licensor receives from
+making the Licensed Material available under these terms and conditions.
+
+Section 1 – Definitions.
+
+a. Adapted Material means material subject to Copyright and Similar Rights that
+is derived from or based upon the Licensed Material and in which the Licensed
+Material is translated, altered, arranged, transformed, or otherwise modified in
+a manner requiring permission under the Copyright and Similar Rights held by the
+Licensor. For purposes of this Public License, where the Licensed Material is a
+musical work, performance, or sound recording, Adapted Material is always
+produced where the Licensed Material is synched in timed relation with a moving
+image.
+
+b. Adapter's License means the license You apply to Your Copyright and Similar
+Rights in Your contributions to Adapted Material in accordance with the terms and
+conditions of this Public License.
+
+c. Copyright and Similar Rights means copyright and/or similar rights closely
+related to copyright including, without limitation, performance, broadcast, sound
+recording, and Sui Generis Database Rights, without regard to how the rights are
+labeled or categorized. For purposes of this Public License, the rights specified
+in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+
+d. Effective Technological Measures means those measures that, in the absence of
+proper authority, may not be circumvented under laws fulfilling obligations under
+Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or
+similar international agreements.
+
+e. Exceptions and Limitations means fair use, fair dealing, and/or any other
+exception or limitation to Copyright and Similar Rights that applies to Your use
+of the Licensed Material.
+
+f. Licensed Material means the artistic or literary work, database, or other
+material to which the Licensor applied this Public License.
+
+g. Licensed Rights means the rights granted to You subject to the terms and
+conditions of this Public License, which are limited to all Copyright and Similar
+Rights that apply to Your use of the Licensed Material and that the Licensor has
+authority to license.
+
+h. Licensor means the individual(s) or entity(ies) granting rights under this
+Public License.
+
+i. Share means to provide material to the public by any means or process that
+requires permission under the Licensed Rights, such as reproduction, public
+display, public performance, distribution, dissemination, communication, or
+importation, and to make material available to the public including in ways that
+members of the public may access the material from a place and at a time
+individually chosen by them.
+
+j. Sui Generis Database Rights means rights other than copyright resulting from
+Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996
+on the legal protection of databases, as amended and/or succeeded, as well as
+other essentially equivalent rights anywhere in the world.
+
+k. You means the individual or entity exercising the Licensed Rights under this
+Public License. Your has a corresponding meaning.
+
+Section 2 – Scope.
+
+a. License grant.
+
+1. Subject to the terms and conditions of this Public License, the Licensor
+hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive,
+irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+
+A. reproduce and Share the Licensed Material, in whole or in part; and
+
+B. produce, reproduce, and Share Adapted Material.
+
+2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and
+Limitations apply to Your use, this Public License does not apply, and You do not
+need to comply with its terms and conditions.
+
+3. Term. The term of this Public License is specified in Section 6(a).
+
+4. Media and formats; technical modifications allowed. The Licensor authorizes
+You to exercise the Licensed Rights in all media and formats whether now known or
+hereafter created, and to make technical modifications necessary to do so. The
+Licensor waives and/or agrees not to assert any right or authority to forbid You
+from making technical modifications necessary to exercise the Licensed Rights,
+including technical modifications necessary to circumvent Effective Technological
+Measures. For purposes of this Public License, simply making modifications
+authorized by this Section 2(a)(4) never produces Adapted Material.
+
+5. Downstream recipients.
+
+A. Offer from the Licensor – Licensed Material. Every recipient of the Licensed
+Material automatically receives an offer from the Licensor to exercise the
+Licensed Rights under the terms and conditions of this Public License.
+
+B. No downstream restrictions. You may not offer or impose any additional or
+different terms or conditions on, or apply any Effective Technological Measures
+to, the Licensed Material if doing so restricts exercise of the Licensed Rights
+by any recipient of the Licensed Material.
+
+6. No endorsement. Nothing in this Public License constitutes or may be construed
+as permission to assert or imply that You are, or that Your use of the Licensed
+Material is, connected with, or sponsored, endorsed, or granted official status
+by, the Licensor or others designated to receive attribution as provided in
+Section 3(a)(1)(A)(i).
+
+b. Other rights.
+
+1. Moral rights, such as the right of integrity, are not licensed under this
+Public License, nor are publicity, privacy, and/or other similar personality
+rights; however, to the extent possible, the Licensor waives and/or agrees not to
+assert any such rights held by the Licensor to the limited extent necessary to
+allow You to exercise the Licensed Rights, but not otherwise.
+
+2. Patent and trademark rights are not licensed under this Public License.
+
+3. To the extent possible, the Licensor waives any right to collect royalties
+from You for the exercise of the Licensed Rights, whether directly or through a
+collecting society under any voluntary or waivable statutory or compulsory
+licensing scheme. In all other cases the Licensor expressly reserves any right to
+collect such royalties.
+
+Section 3 – License Conditions.
+
+Your exercise of the Licensed Rights is expressly made subject to the following
+conditions.
+
+a. Attribution.
+
+1. If You Share the Licensed Material (including in modified form), You must:
+
+A. retain the following if it is supplied by the Licensor with the Licensed
+Material:
+
+i. identification of the creator(s) of the Licensed Material and any others
+designated to receive attribution, in any reasonable manner requested by the
+Licensor (including by pseudonym if designated);
+
+ii. a copyright notice;
+
+iii. a notice that refers to this Public License;
+
+iv. a notice that refers to the disclaimer of warranties;
+
+v. a URI or hyperlink to the Licensed Material to the extent reasonably
+practicable;
+
+B. indicate if You modified the Licensed Material and retain an indication of any
+previous modifications; and
+
+C. indicate the Licensed Material is licensed under this Public License, and
+include the text of, or the URI or hyperlink to, this Public License.
+
+2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner
+based on the medium, means, and context in which You Share the Licensed Material.
+For example, it may be reasonable to satisfy the conditions by providing a URI or
+hyperlink to a resource that includes the required information.
+
+3. If requested by the Licensor, You must remove any of the information required
+by Section 3(a)(1)(A) to the extent reasonably practicable.
+
+4. If You Share Adapted Material You produce, the Adapter's License You apply
+must not prevent recipients of the Adapted Material from complying with this
+Public License.
+
+Section 4 – Sui Generis Database Rights.
+
+Where the Licensed Rights include Sui Generis Database Rights that apply to Your
+use of the Licensed Material:
+
+a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract,
+reuse, reproduce, and Share all or a substantial portion of the contents of the
+database;
+
+b. if You include all or a substantial portion of the database contents in a
+database in which You have Sui Generis Database Rights, then the database in
+which You have Sui Generis Database Rights (but not its individual contents) is
+Adapted Material; and
+
+c. You must comply with the conditions in Section 3(a) if You Share all or a
+substantial portion of the contents of the database.
+For the avoidance of doubt, this Section 4 supplements and does not replace Your
+obligations under this Public License where the Licensed Rights include other
+Copyright and Similar Rights.
+
+Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+a. Unless otherwise separately undertaken by the Licensor, to the extent
+possible, the Licensor offers the Licensed Material as-is and as-available, and
+makes no representations or warranties of any kind concerning the Licensed
+Material, whether express, implied, statutory, or other. This includes, without
+limitation, warranties of title, merchantability, fitness for a particular
+purpose, non-infringement, absence of latent or other defects, accuracy, or the
+presence or absence of errors, whether or not known or discoverable. Where
+disclaimers of warranties are not allowed in full or in part, this disclaimer may
+not apply to You.
+
+b. To the extent possible, in no event will the Licensor be liable to You on any
+legal theory (including, without limitation, negligence) or otherwise for any
+direct, special, indirect, incidental, consequential, punitive, exemplary, or
+other losses, costs, expenses, or damages arising out of this Public License or
+use of the Licensed Material, even if the Licensor has been advised of the
+possibility of such losses, costs, expenses, or damages. Where a limitation of
+liability is not allowed in full or in part, this limitation may not apply to
+You.
+
+c. The disclaimer of warranties and limitation of liability provided above shall
+be interpreted in a manner that, to the extent possible, most closely
+approximates an absolute disclaimer and waiver of all liability.
+
+Section 6 – Term and Termination.
+
+a. This Public License applies for the term of the Copyright and Similar Rights
+licensed here. However, if You fail to comply with this Public License, then Your
+rights under this Public License terminate automatically.
+
+b. Where Your right to use the Licensed Material has terminated under Section
+6(a), it reinstates:
+
+1. automatically as of the date the violation is cured, provided it is cured
+within 30 days of Your discovery of the violation; or
+
+2. upon express reinstatement by the Licensor.
+
+c. For the avoidance of doubt, this Section 6(b) does not affect any right the
+Licensor may have to seek remedies for Your violations of this Public License.
+
+d. For the avoidance of doubt, the Licensor may also offer the Licensed Material
+under separate terms or conditions or stop distributing the Licensed Material at
+any time; however, doing so will not terminate this Public License.
+
+e. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+
+Section 7 – Other Terms and Conditions.
+
+a. The Licensor shall not be bound by any additional or different terms or
+conditions communicated by You unless expressly agreed.
+
+b. Any arrangements, understandings, or agreements regarding the Licensed
+Material not stated herein are separate from and independent of the terms and
+conditions of this Public License.
+
+Section 8 – Interpretation.
+
+a. For the avoidance of doubt, this Public License does not, and shall not be
+interpreted to, reduce, limit, restrict, or impose conditions on any use of the
+Licensed Material that could lawfully be made without permission under this
+Public License.
+
+b. To the extent possible, if any provision of this Public License is deemed
+unenforceable, it shall be automatically reformed to the minimum extent necessary
+to make it enforceable. If the provision cannot be reformed, it shall be severed
+from this Public License without affecting the enforceability of the remaining
+terms and conditions.
+
+c. No term or condition of this Public License will be waived and no failure to
+comply consented to unless expressly agreed to by the Licensor.
+
+d. Nothing in this Public License constitutes or may be interpreted as a
+limitation upon, or waiver of, any privileges and immunities that apply to the
+Licensor or You, including from the legal processes of any jurisdiction or
+authority.
+
+Creative Commons is not a party to its public licenses. Notwithstanding, Creative
+Commons may elect to apply one of its public licenses to material it publishes
+and in those instances will be considered the “Licensor.” Except for the limited
+purpose of indicating that material is shared under a Creative Commons public
+license or as otherwise permitted by the Creative Commons policies published at
+creativecommons.org/policies, Creative Commons does not authorize the use of the
+trademark “Creative Commons” or any other trademark or logo of Creative Commons
+without its prior written consent including, without limitation, in connection
+with any unauthorized modifications to any of its public licenses or any other
+arrangements, understandings, or agreements concerning use of licensed material.
+For the avoidance of doubt, this paragraph does not form part of the public
+licenses.
+
+Creative Commons may be contacted at creativecommons.org.
 
 ---
 
@@ -4089,27 +4296,6 @@ Permission to use, copy, modify, and/or distribute this software for any
 ---
 
 ISC License
-(delaunator 5.0.0)
-
-ISC License
-
-Copyright (c) 2017, Mapbox
-
-Permission to use, copy, modify, and/or distribute this software for any purpose
-with or without fee is hereby granted, provided that the above copyright notice
-and this permission notice appear in all copies.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
-OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
-TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
-THIS SOFTWARE
-
----
-
-ISC License
 (picocolors 1.0.0)
 
 ISC License
@@ -4131,7 +4317,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(postcss-modules-scope 3.0.0, postcss-modules-values 4.0.0)
+(postcss-modules-values 4.0.0)
 
 ISC License (ISC)
 
@@ -4156,7 +4342,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(@npmcli/fs 1.1.1, @npmcli/fs 2.1.2, @ungap/structured-clone 1.2.0, anymatch 3.1.3, are-we-there-yet 3.0.1, boolbase 1.0.0, cacache 15.3.0, cacache 16.1.3, child_process 1.0.2, cliui 8.0.1, d3-array 3.2.4, d3-color 3.1.0, d3-contour 4.0.2, d3-delaunay 6.0.4, d3-geo 3.1.0, d3-hierarchy 3.1.2, d3-path 3.1.0, d3-shape 3.2.0, d3-time 3.1.0, fastq 1.15.0, flatted 3.2.9, iarna/gauge 4.0.4, make-fetch-happen 10.2.1, make-fetch-happen 9.1.0, minimatch 5.1.6, minipass 3.3.6, minipass 5.0.0, node-glob 7.2.3, node-glob 8.1.0, node-graceful-fs 4.2.11, node-lru-cache 7.18.3, node-semver 5.7.2, node-semver 6.3.1, node-semver 7.5.4, nopt 6.0.0, npmlog 6.0.2, ssri 9.0.1, tar 6.2.0, unique-filename 2.0.1, unique-slug 3.0.0, yargs-parser 21.1.1)
+(@npmcli/fs 1.1.1, @npmcli/fs 2.1.2, @ungap/structured-clone 1.2.0, anymatch 3.1.3, are-we-there-yet 3.0.1, boolbase 1.0.0, cacache 15.3.0, cacache 16.1.3, child_process 1.0.2, cliui 8.0.1, d3-array 3.2.4, d3-color 3.1.0, d3-contour 4.0.2, d3-delaunay 6.0.4, d3-geo 3.1.0, d3-hierarchy 3.1.2, d3-path 3.1.0, d3-shape 3.2.0, d3-time 3.1.0, delaunator 5.0.1, fastq 1.17.0, flatted 3.2.9, iarna/gauge 4.0.4, make-fetch-happen 10.2.1, make-fetch-happen 9.1.0, minimatch 5.1.6, minimatch 9.0.3, minipass 3.3.6, minipass 5.0.0, node-glob 7.2.3, node-glob 8.1.0, node-graceful-fs 4.2.11, node-lru-cache 7.18.3, node-semver 5.7.2, node-semver 6.3.1, node-semver 7.5.4, nopt 6.0.0, npmlog 6.0.2, postcss-modules-scope 3.1.1, ssri 9.0.1, tar 6.2.0, unique-filename 2.0.1, unique-slug 3.0.0, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
@@ -6567,34 +6753,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(dir-compare 3.3.0)
-
-Copyright 2014 Liviu Grigorescu (grigoresculiviu@gmail.com)
-
-This project is free software released under the MIT license:
-http://www.opensource.org/licenses/mit-license.php 
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
 (json-parse-even-better-errors 2.3.1)
 
 Copyright 2017 Kat Marchán
@@ -6617,27 +6775,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(rfdc 1.3.0)
-
-Copyright 2019 "David Mark Clements <david.mark.clements@gmail.com>"
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
-documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
-the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
-to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions 
-of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
-CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
-IN THE SOFTWARE
 
 ---
 
@@ -8350,7 +8487,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@aashutoshrathi/word-wrap 1.2.6, @babel/code-frame 7.22.13, @babel/helper-module-imports 7.22.15, @babel/helper-string-parser 7.22.5, @babel/helper-validator-identifier 7.22.20, @babel/highlight 7.22.20, @babel/runtime 7.23.9, @babel/types 7.23.3, @cspotcode/source-map-support 0.8.1, @electron-forge/cli 6.4.2, @electron-forge/core 6.4.2, @electron-forge/core-utils 6.4.2, @electron-forge/maker-base 6.4.2, @electron-forge/maker-deb 6.4.2, @electron-forge/maker-rpm 6.4.2, @electron-forge/maker-squirrel 6.4.2, @electron-forge/maker-zip 6.4.2, @electron-forge/plugin-base 6.4.2, @electron-forge/plugin-webpack 6.4.2, @electron-forge/publisher-base 6.4.2, @electron-forge/shared-types 6.4.2, @electron-forge/template-base 6.4.2, @electron-forge/template-vite 6.4.2, @electron-forge/template-vite-typescript 6.4.2, @electron-forge/template-webpack 6.4.2, @electron-forge/template-webpack-typescript 6.4.2, @electron-forge/web-multi-logger 6.4.2, @electron/asar 3.2.8, @electron/get 2.0.3, @electron/notarize 1.2.4, @electron/notarize 2.1.0, @electron/rebuild 3.3.0, @electron/universal 1.5.1, @emotion/babel-plugin 11.11.0, @emotion/cache 11.11.0, @emotion/hash 0.9.1, @emotion/is-prop-valid 1.2.1, @emotion/memoize 0.8.1, @emotion/react 11.11.1, @emotion/serialize 1.1.2, @emotion/sheet 1.2.2, @emotion/styled 11.11.0, @emotion/unitless 0.8.1, @emotion/use-insertion-effect-with-fallbacks 1.0.1, @emotion/utils 1.2.1, @emotion/weak-memoize 0.3.1, @eslint-community/eslint-utils 4.4.0, @eslint-community/regexpp 4.10.0, @eslint/eslintrc 2.1.3, @eslint/js 8.53.0, @floating-ui/core 1.5.0, @floating-ui/dom 1.5.3, @floating-ui/react-dom 2.0.4, @floating-ui/utils 0.1.6, @jridgewell/gen-mapping 0.3.3, @jridgewell/resolve-uri 3.1.1, @jridgewell/set-array 1.1.2, @jridgewell/source-map 0.3.5, @jridgewell/sourcemap-codec 1.4.15, @jridgewell/trace-mapping 0.3.20, @jridgewell/trace-mapping 0.3.9, @leichtgewicht/ip-codec 2.0.4, @monaco-editor/loader 1.4.0, @monaco-editor/react 4.6.0, @mui/base 5.0.0-beta.23, @mui/core-downloads-tracker 5.14.17, @mui/icons-material 5.14.16, @mui/lab 5.0.0-alpha.152, @mui/material 5.14.17, @mui/private-theming 5.15.6, @mui/styled-engine 5.15.6, @mui/system 5.15.6, @mui/types 7.2.13, @mui/utils 5.15.6, @mui/x-tree-view 6.17.0, @npmcli/move-file 2.0.1, @popperjs/core 2.11.8, @reactflow/background 11.3.6, @reactflow/controls 11.2.6, @reactflow/core 11.10.1, @reactflow/minimap 11.7.6, @reactflow/node-resizer 2.2.6, @reactflow/node-toolbar 1.3.6, @sindresorhus/is 4.6.0, @tootallnate/once 1.1.2, @tsconfig/node10 1.0.9, @tsconfig/node12 1.0.11, @tsconfig/node14 1.0.3, @tsconfig/node16 1.0.4, @types/body-parser 1.19.5, @types/bonjour 3.5.13, @types/cacheable-request 6.0.3, @types/connect 3.4.38, @types/connect-history-api-fallback 1.5.3, @types/d3 7.4.3, @types/d3-array 3.2.1, @types/d3-axis 3.0.6, @types/d3-brush 3.0.6, @types/d3-chord 3.0.6, @types/d3-color 1.4.5, @types/d3-contour 3.0.6, @types/d3-delaunay 6.0.4, @types/d3-dispatch 3.0.6, @types/d3-drag 3.0.7, @types/d3-dsv 3.0.7, @types/d3-ease 3.0.2, @types/d3-fetch 3.0.7, @types/d3-force 3.0.9, @types/d3-format 3.0.4, @types/d3-geo 3.0.8, @types/d3-hierarchy 1.1.11, @types/d3-interpolate 1.4.5, @types/d3-interpolate 3.0.4, @types/d3-path 1.0.11, @types/d3-polygon 3.0.2, @types/d3-quadtree 3.0.5, @types/d3-random 3.0.3, @types/d3-scale 4.0.8, @types/d3-scale-chromatic 3.0.2, @types/d3-selection 1.4.6, @types/d3-selection 3.0.10, @types/d3-shape 1.3.11, @types/d3-shape 3.1.5, @types/d3-time 3.0.3, @types/d3-time-format 4.0.3, @types/d3-timer 3.0.2, @types/d3-transition 3.0.8, @types/d3-zoom 1.8.7, @types/d3-zoom 3.0.8, @types/eslint 8.44.7, @types/eslint-scope 3.7.7, @types/estree 1.0.5, @types/express 4.17.21, @types/express-serve-static-core 4.17.41, @types/geojson 7946.0.13, @types/hast 2.3.8, @types/http-cache-semantics 4.0.4, @types/http-errors 2.0.4, @types/http-proxy 1.17.14, @types/json-schema 7.0.15, @types/json5 0.0.29, @types/mime 1.3.5, @types/minimatch 5.1.2, @types/minimist 1.2.5, @types/node 18.18.9, @types/node 20.9.0, @types/node-forge 1.3.9, @types/normalize-package-data 2.4.4, @types/papaparse 5.3.11, @types/parse-json 4.0.2, @types/prop-types 15.7.11, @types/qs 6.9.10, @types/range-parser 1.2.7, @types/react 18.2.37, @types/react-dom 18.2.15, @types/react-syntax-highlighter 15.5.10, @types/react-transition-group 4.4.9, @types/responselike 1.0.3, @types/scheduler 0.16.6, @types/semver 7.5.5, @types/send 0.17.4, @types/serve-index 1.9.4, @types/serve-static 1.15.5, @types/sockjs 0.3.36, @types/stream-chain 2.0.4, @types/stream-json 1.7.6, @types/unist 2.0.10, @types/uuid 9.0.7, @types/ws 8.5.9, @types/yauzl 2.10.3, @typescript-eslint/eslint-plugin 5.62.0, @typescript-eslint/scope-manager 5.62.0, @typescript-eslint/type-utils 5.62.0, @typescript-eslint/types 5.62.0, @typescript-eslint/utils 5.62.0, @typescript-eslint/visitor-keys 5.62.0, @vercel/webpack-asset-relocator-loader 1.7.3, @webassemblyjs/ast 1.11.6, @webassemblyjs/floating-point-hex-parser 1.11.6, @webassemblyjs/helper-api-error 1.11.6, @webassemblyjs/helper-buffer 1.11.6, @webassemblyjs/helper-numbers 1.11.6, @webassemblyjs/helper-wasm-bytecode 1.11.6, @webassemblyjs/helper-wasm-section 1.11.6, @webassemblyjs/ieee754 1.11.6, @webassemblyjs/utf8 1.11.6, @webassemblyjs/wasm-edit 1.11.6, @webassemblyjs/wasm-gen 1.11.6, @webassemblyjs/wasm-opt 1.11.6, @webassemblyjs/wasm-parser 1.11.6, @webassemblyjs/wast-printer 1.11.6, Acorn 8.11.2, acorn-import-assertions 1.9.0, acorn-walk 8.3.0, agentkeepalive 4.5.0, ajv 8.12.0, array-buffer-byte-length 1.0.0, array-includes 3.1.7, array.prototype.findlastindex 1.2.3, array.prototype.flat 1.3.2, array.prototype.flatmap 1.3.2, arraybuffer.prototype.slice 1.0.2, asar 3.2.0, axios 1.6.1, body-parser 1.20.1, bonjour-service 1.1.1, browserify/resolve 1.22.8, browserslist 4.22.3, cacheable-request 7.0.4, call-bind 1.0.5, chromium-pickle-js 0.2.0, classnames 2.3.2, clean-css 5.3.2, cli-spinners 2.9.1, Clone 1.0.4, clone-response 1.0.3, clsx 2.1.0, colorette 2.0.20, compare-version 0.1.2, connect-history-api-fallback 2.0.0, convert-source-map 1.9.0, cosmiconfig 7.1.0, css-loader 6.8.1, csstype 3.1.2, DamonOehlman/wildcard 2.0.1, decamelize-keys 1.1.1, deepmerge 4.3.1, defaults 1.0.4, define-data-property 1.1.1, dns-packet 5.6.1, dom-serializer 1.4.1, einaros/ws 7.5.9, einaros/ws 8.14.2, Electron Installer Red Hat 3.4.0, electron-installer-debian 3.2.0, electron-rebuild 3.2.9, electron-winstaller-temp-fork 5.2.1, electron/update-electron-app 3.0.0, electronjs 24.4.0, enhanced-resolve 5.15.0, err-code 2.0.3, es-abstract 1.22.3, es-module-lexer 1.4.1, es-set-tostringtag 2.0.2, es-shim-unscopables 1.0.2, ESLint 8.53.0, eslint-import-resolver-node 0.3.9, eslint-plugin-import 2.29.0, expressjs/express 4.18.2, fast-equals 5.0.1, fast-glob 3.3.2, fast-xml-parser 4.2.5, flat-cache 3.1.1, flora-colossus 2.0.0, follow-redirects 1.15.3, fork-ts-checker-webpack-plugin 7.3.0, fs-extra 10.1.0, fs-extra 11.1.1, function-bind 1.1.2, function.prototype.name 1.1.6, functions-have-names 1.2.3, galactus 1.0.0, get-folder-size v2.0.1, get-intrinsic 1.2.2, github-url-to-object v4.0.6, globalthis 1.0.3, gopd 1.0.1, graphemer 1.4.0, has-bigints 1.0.2, has-property-descriptors 1.0.1, has-proto 1.0.1, hasown 2.0.0, html-webpack-plugin 5.5.3, http-parser-js 0.5.8, http-proxy-middleware 2.0.6, https-proxy-agent 5.0.1, init 0.1.2, internal-slot 1.0.6, interpret 3.1.1, is-array-buffer 3.0.2, is-callable 1.2.7, is-core-module 2.13.1, is-number-object 1.0.7, is-shared-array-buffer 1.0.2, is-typed-array 1.1.12, jorgebucaran/classcat 5.0.4, jshttp/content-type 1.0.5, json5 1.0.2, jszip 3.10.1, keyv 4.5.4, lancedikson/bowser 2.11.0, launch-editor 2.6.1, listr2 5.0.8, ljharb/object.assign 4.1.4, loader-runner 4.3.0, minimist 1.2.8, minipass-fetch 2.1.2, monaco-editor 0.45.0, monaco-editor-webpack-plugin 7.1.0, multicast-dns 7.2.5, nan 2.18.0, nanoid 3.3.7, natural-compare 1.4.0, natural-compare-lite 1.4.0, Node Cookie Parser 0.5.0, node-abi 3.51.0, node-abort-controller 3.1.1, node-api-version 0.1.4, node-buffer-equal 1.0.1, node-globule 1.3.4, node-gyp 9.4.1, node-gyp-build 4.6.1, node-html-entities 2.4.0, node-ignore 5.2.4, node-ip 2.0.0, node-mkdirp 0.5.6, node-releases 2.0.14, node-sass 9.0.0, node-shell-quote 1.8.1, nodejs/undici 5.26.5, object-inspect 1.13.1, object.fromentries 2.0.7, object.groupby 1.0.1, object.values 1.1.7, optionator 0.9.3, p-retry 4.6.2, PapaParse 5.4.1, PostCSS 8.4.31, postcss-modules-local-by-default 4.0.3, postcss-selector-parser 6.0.13, PrismJS 1.29.0, Punycode.js 2.3.1, rcedit 3.1.0, React from Facebook 1.2.0, React from Facebook 18.2.0, react-fast-compare 3.2.2, react-icons 4.11.0, react-popper 2.3.0, react-popper-tooltip 4.4.2, react-resize-detector 8.1.0, react-smooth 2.0.5, reactflow 11.10.1, readable-stream 2.3.8, readable-stream 3.6.2, recharts 2.9.3, regenerator-runtime 0.14.0, regexp.prototype.flags 1.5.1, responselike 2.0.1, safe-array-concat 1.0.1, safe-regex-test 1.0.0, samsonjs/format 0.2.2, sass-graph 4.0.1, scheduler 0.23.0, schema-utils 3.3.0, schema-utils 4.2.0, scss-tokenizer 0.4.3, selfsigned 2.4.1, set-function-length 1.1.1, set-function-name 2.0.1, sindresorhus-open 8.4.2, sindresorhus/electron-dl 3.5.1, sindresorhus/globals 13.23.0, sindresorhus/globby 11.1.0, sindresorhus/got 11.8.6, socks 2.7.1, socks-proxy-agent 6.2.1, socks-proxy-agent 7.0.0, string.prototype.trim 1.2.8, string.prototype.trimend 1.0.7, string.prototype.trimstart 1.0.7, style-loader 3.3.3, stylis 4.2.0, terser-webpack-plugin 5.3.10, tiny-each-async 2.0.3, tiny-invariant 1.3.1, tmp-promise 3.0.3, TooTallNate/plist.js 3.1.0, tr46 0.0.3, ts-loader 9.5.0, ts-node 10.9.1, tsconfig-paths 3.14.2, typed-array-buffer 1.0.0, typed-array-byte-length 1.0.0, typed-array-byte-offset 1.0.0, typed-array-length 1.0.4, unbox-primitive 1.0.2, universalify 2.0.1, update-browserslist-db 1.0.13, uuid 9.0.1, v8-compile-cache-lib 3.0.1, victory 36.6.12, watchpack 2.4.0, wcwidth 1.0.1, Webpack 5.90.0, webpack-contrib/sass-loader 13.3.2, webpack-dev-server 4.15.1, webpack-merge 5.10.0, webpack/loader-utils 2.0.4, webpack/webpack-dev-middleware 5.3.3, which-typed-array 1.1.13, whitequark/ipaddr.js 2.1.0, word-wrap 1.2.5, xmldom 0.8.10, xterm-addon-attach 0.8.0, xterm-addon-fit 0.7.0, xterm.js 4.19.0, xterm.js 5.3.0, yargs 17.7.2, zustand 4.4.6)
+(@aashutoshrathi/word-wrap 1.2.6, @babel/code-frame 7.23.5, @babel/helper-module-imports 7.22.15, @babel/helper-string-parser 7.23.4, @babel/helper-validator-identifier 7.22.20, @babel/highlight 7.23.4, @babel/runtime 7.23.9, @babel/types 7.23.9, @cspotcode/source-map-support 0.8.1, @electron-forge/cli 7.2.0, @electron-forge/core 7.2.0, @electron-forge/core-utils 7.2.0, @electron-forge/maker-base 7.2.0, @electron-forge/maker-deb 7.2.0, @electron-forge/maker-rpm 7.2.0, @electron-forge/maker-squirrel 7.2.0, @electron-forge/maker-zip 7.2.0, @electron-forge/plugin-base 7.2.0, @electron-forge/plugin-webpack 7.2.0, @electron-forge/publisher-base 7.2.0, @electron-forge/shared-types 7.2.0, @electron-forge/template-base 7.2.0, @electron-forge/template-vite 7.2.0, @electron-forge/template-vite-typescript 7.2.0, @electron-forge/template-webpack 7.2.0, @electron-forge/template-webpack-typescript 7.2.0, @electron-forge/tracer 7.2.0, @electron-forge/web-multi-logger 7.2.0, @electron/asar 3.2.8, @electron/get 2.0.3, @electron/get 3.0.0, @electron/notarize 2.2.1, @electron/rebuild 3.6.0, @electron/universal 2.0.1, @emotion/babel-plugin 11.11.0, @emotion/cache 11.11.0, @emotion/hash 0.9.1, @emotion/is-prop-valid 1.2.1, @emotion/memoize 0.8.1, @emotion/react 11.11.3, @emotion/serialize 1.1.3, @emotion/sheet 1.2.2, @emotion/styled 11.11.0, @emotion/unitless 0.8.1, @emotion/use-insertion-effect-with-fallbacks 1.0.1, @emotion/utils 1.2.1, @emotion/weak-memoize 0.3.1, @eslint-community/eslint-utils 4.4.0, @eslint-community/regexpp 4.10.0, @eslint/eslintrc 2.1.4, @eslint/js 8.56.0, @floating-ui/core 1.6.0, @floating-ui/dom 1.6.1, @floating-ui/react-dom 2.0.8, @floating-ui/utils 0.2.1, @jridgewell/gen-mapping 0.3.3, @jridgewell/resolve-uri 3.1.1, @jridgewell/set-array 1.1.2, @jridgewell/source-map 0.3.5, @jridgewell/sourcemap-codec 1.4.15, @jridgewell/trace-mapping 0.3.22, @jridgewell/trace-mapping 0.3.9, @leichtgewicht/ip-codec 2.0.4, @monaco-editor/loader 1.4.0, @monaco-editor/react 4.6.0, @mui/base 5.0.0-beta.33, @mui/core-downloads-tracker 5.15.6, @mui/icons-material 5.15.6, @mui/lab 5.0.0-alpha.162, @mui/material 5.15.6, @mui/private-theming 5.15.6, @mui/styled-engine 5.15.6, @mui/system 5.15.6, @mui/types 7.2.13, @mui/utils 5.15.6, @mui/x-tree-view 6.17.0, @npmcli/move-file 2.0.1, @popperjs/core 2.11.8, @reactflow/background 11.3.8, @reactflow/controls 11.2.8, @reactflow/core 11.10.3, @reactflow/minimap 11.7.8, @reactflow/node-resizer 2.2.8, @reactflow/node-toolbar 1.3.8, @sindresorhus/is 4.6.0, @tootallnate/once 1.1.2, @tsconfig/node10 1.0.9, @tsconfig/node12 1.0.11, @tsconfig/node14 1.0.3, @tsconfig/node16 1.0.4, @types/body-parser 1.19.5, @types/bonjour 3.5.13, @types/cacheable-request 6.0.3, @types/connect 3.4.38, @types/connect-history-api-fallback 1.5.4, @types/d3 7.4.3, @types/d3-array 3.2.1, @types/d3-axis 3.0.6, @types/d3-brush 3.0.6, @types/d3-chord 3.0.6, @types/d3-color 1.4.5, @types/d3-contour 3.0.6, @types/d3-delaunay 6.0.4, @types/d3-dispatch 3.0.6, @types/d3-drag 3.0.7, @types/d3-dsv 3.0.7, @types/d3-ease 3.0.2, @types/d3-fetch 3.0.7, @types/d3-force 3.0.9, @types/d3-format 3.0.4, @types/d3-geo 3.1.0, @types/d3-hierarchy 1.1.11, @types/d3-interpolate 1.4.5, @types/d3-interpolate 3.0.4, @types/d3-path 1.0.11, @types/d3-polygon 3.0.2, @types/d3-quadtree 3.0.6, @types/d3-random 3.0.3, @types/d3-scale 4.0.8, @types/d3-scale-chromatic 3.0.3, @types/d3-selection 1.4.6, @types/d3-selection 3.0.10, @types/d3-shape 1.3.12, @types/d3-shape 3.1.6, @types/d3-time 3.0.3, @types/d3-time-format 4.0.3, @types/d3-timer 3.0.2, @types/d3-transition 3.0.8, @types/d3-zoom 1.8.7, @types/d3-zoom 3.0.8, @types/eslint 8.56.2, @types/eslint-scope 3.7.7, @types/estree 1.0.5, @types/express 4.17.21, @types/express-serve-static-core 4.17.42, @types/geojson 7946.0.13, @types/hast 2.3.9, @types/http-cache-semantics 4.0.4, @types/http-errors 2.0.4, @types/http-proxy 1.17.14, @types/json-schema 7.0.15, @types/json5 0.0.29, @types/mime 1.3.5, @types/minimatch 5.1.2, @types/minimist 1.2.5, @types/node 18.19.10, @types/node 20.11.10, @types/node-forge 1.3.11, @types/normalize-package-data 2.4.4, @types/papaparse 5.3.14, @types/parse-json 4.0.2, @types/prop-types 15.7.11, @types/qs 6.9.11, @types/range-parser 1.2.7, @types/react 18.2.48, @types/react-dom 18.2.18, @types/react-syntax-highlighter 15.5.11, @types/react-transition-group 4.4.10, @types/responselike 1.0.3, @types/scheduler 0.16.8, @types/semver 7.5.6, @types/send 0.17.4, @types/serve-index 1.9.4, @types/serve-static 1.15.5, @types/sockjs 0.3.36, @types/stream-chain 2.0.4, @types/stream-json 1.7.7, @types/unist 2.0.10, @types/uuid 9.0.8, @types/ws 8.5.10, @types/yauzl 2.10.3, @typescript-eslint/eslint-plugin 5.62.0, @typescript-eslint/scope-manager 5.62.0, @typescript-eslint/type-utils 5.62.0, @typescript-eslint/types 5.62.0, @typescript-eslint/utils 5.62.0, @typescript-eslint/visitor-keys 5.62.0, @vercel/webpack-asset-relocator-loader 1.7.3, @webassemblyjs/ast 1.11.6, @webassemblyjs/floating-point-hex-parser 1.11.6, @webassemblyjs/helper-api-error 1.11.6, @webassemblyjs/helper-buffer 1.11.6, @webassemblyjs/helper-numbers 1.11.6, @webassemblyjs/helper-wasm-bytecode 1.11.6, @webassemblyjs/helper-wasm-section 1.11.6, @webassemblyjs/ieee754 1.11.6, @webassemblyjs/utf8 1.11.6, @webassemblyjs/wasm-edit 1.11.6, @webassemblyjs/wasm-gen 1.11.6, @webassemblyjs/wasm-opt 1.11.6, @webassemblyjs/wasm-parser 1.11.6, @webassemblyjs/wast-printer 1.11.6, Acorn 8.11.3, acorn-import-assertions 1.9.0, acorn-walk 8.3.2, agentkeepalive 4.5.0, ajv 8.12.0, array-buffer-byte-length 1.0.0, array-includes 3.1.7, array.prototype.findlastindex 1.2.3, array.prototype.flat 1.3.2, array.prototype.flatmap 1.3.2, arraybuffer.prototype.slice 1.0.2, asar 3.2.0, axios 1.6.7, body-parser 1.20.1, bonjour-service 1.2.1, browserify/resolve 1.22.8, browserslist 4.22.3, cacheable-request 7.0.4, call-bind 1.0.5, chromium-pickle-js 0.2.0, clean-css 5.3.3, cli-spinners 2.9.2, Clone 1.0.4, clone-response 1.0.3, clsx 2.1.0, colorette 2.0.20, compare-version 0.1.2, connect-history-api-fallback 2.0.0, convert-source-map 1.9.0, cosmiconfig 7.1.0, css-loader 6.9.1, csstype 3.1.3, DamonOehlman/wildcard 2.0.1, decamelize-keys 1.1.1, deepmerge 4.3.1, defaults 1.0.4, define-data-property 1.1.1, dir-compare 4.2.0, dns-packet 5.6.1, dom-serializer 1.4.1, einaros/ws 7.5.9, einaros/ws 8.16.0, Electron Installer Red Hat 3.4.0, electron-installer-debian 3.2.0, electron-rebuild 3.2.9, electron-winstaller-temp-fork 5.2.1, electron/update-electron-app 3.0.0, electronjs 28.2.0, enhanced-resolve 5.15.0, err-code 2.0.3, es-abstract 1.22.3, es-module-lexer 1.4.1, es-set-tostringtag 2.0.2, es-shim-unscopables 1.0.2, ESLint 8.56.0, eslint-import-resolver-node 0.3.9, eslint-plugin-import 2.29.1, expressjs/express 4.18.2, fast-equals 5.0.1, fast-glob 3.3.2, fast-xml-parser 4.2.5, flat-cache 3.2.0, flora-colossus 2.0.0, follow-redirects 1.15.5, fork-ts-checker-webpack-plugin 7.3.0, fs-extra 10.1.0, fs-extra 11.2.0, function-bind 1.1.2, function.prototype.name 1.1.6, functions-have-names 1.2.3, galactus 1.0.0, get-folder-size v2.0.1, get-intrinsic 1.2.2, github-url-to-object v4.0.6, globalthis 1.0.3, gopd 1.0.1, graphemer 1.4.0, has-bigints 1.0.2, has-property-descriptors 1.0.1, has-proto 1.0.1, hasown 2.0.0, html-webpack-plugin 5.6.0, http-parser-js 0.5.8, http-proxy-middleware 2.0.6, https-proxy-agent 5.0.1, init 0.1.2, internal-slot 1.0.6, interpret 3.1.1, is-array-buffer 3.0.2, is-callable 1.2.7, is-core-module 2.13.1, is-number-object 1.0.7, is-shared-array-buffer 1.0.2, is-typed-array 1.1.12, jorgebucaran/classcat 5.0.4, jshttp/content-type 1.0.5, json5 1.0.2, jszip 3.10.1, keyv 4.5.4, lancedikson/bowser 2.11.0, launch-editor 2.6.1, listr2 5.0.8, ljharb/object.assign 4.1.5, loader-runner 4.3.0, minimist 1.2.8, minipass-fetch 2.1.2, monaco-editor 0.45.0, monaco-editor-webpack-plugin 7.1.0, multicast-dns 7.2.5, nan 2.18.0, nanoid 3.3.7, natural-compare 1.4.0, natural-compare-lite 1.4.0, Node Cookie Parser 0.5.0, node-abi 3.54.0, node-abort-controller 3.1.1, node-api-version 0.1.4, node-api-version 0.2.0, node-globule 1.3.4, node-gyp 9.4.1, node-gyp-build 4.8.0, node-html-entities 2.4.0, node-ignore 5.3.0, node-ip 2.0.0, node-mkdirp 0.5.6, node-releases 2.0.14, node-sass 9.0.0, node-shell-quote 1.8.1, nodejs/undici 5.26.5, object-inspect 1.13.1, object.fromentries 2.0.7, object.groupby 1.0.1, object.values 1.1.7, optionator 0.9.3, p-retry 4.6.2, PapaParse 5.4.1, PostCSS 8.4.33, postcss-modules-local-by-default 4.0.4, postcss-selector-parser 6.0.15, PrismJS 1.29.0, Punycode.js 2.3.1, rcedit 4.0.1, React from Facebook 1.2.0, React from Facebook 18.2.0, react-fast-compare 3.2.2, react-icons 4.12.0, react-popper 2.3.0, react-popper-tooltip 4.4.2, react-smooth 2.0.5, reactflow 11.10.3, read-binary-file-arch 1.0.6, readable-stream 2.3.8, readable-stream 3.6.2, recharts 2.11.0, regenerator-runtime 0.14.1, regexp.prototype.flags 1.5.1, responselike 2.0.1, rfdc 1.3.1, safe-array-concat 1.1.0, safe-regex-test 1.0.2, samsonjs/format 0.2.2, sass-graph 4.0.1, scheduler 0.23.0, schema-utils 3.3.0, schema-utils 4.2.0, scss-tokenizer 0.4.3, selfsigned 2.4.1, set-function-length 1.2.0, set-function-name 2.0.1, sindresorhus-open 8.4.2, sindresorhus/electron-dl 3.5.1, sindresorhus/globals 13.24.0, sindresorhus/globby 11.1.0, sindresorhus/got 11.8.6, socks 2.7.1, socks-proxy-agent 6.2.1, socks-proxy-agent 7.0.0, string.prototype.trim 1.2.8, string.prototype.trimend 1.0.7, string.prototype.trimstart 1.0.7, style-loader 3.3.4, stylis 4.2.0, terser-webpack-plugin 5.3.10, tiny-each-async 2.0.3, tiny-invariant 1.3.1, tmp-promise 3.0.3, TooTallNate/plist.js 3.1.0, tr46 0.0.3, ts-loader 9.5.1, ts-node 10.9.2, tsconfig-paths 3.15.0, typed-array-buffer 1.0.0, typed-array-byte-length 1.0.0, typed-array-byte-offset 1.0.0, typed-array-length 1.0.4, unbox-primitive 1.0.2, universalify 2.0.1, update-browserslist-db 1.0.13, uuid 9.0.1, v8-compile-cache-lib 3.0.1, watchpack 2.4.0, wcwidth 1.0.1, Webpack 5.90.0, webpack-contrib/sass-loader 13.3.3, webpack-dev-server 4.15.1, webpack-merge 5.10.0, webpack/loader-utils 2.0.4, webpack/webpack-dev-middleware 5.3.3, which-typed-array 1.1.13, whitequark/ipaddr.js 2.1.0, word-wrap 1.2.5, xmldom 0.8.10, xterm.js 4.19.0, yargs 17.7.2, zustand 4.5.0)
 
 The MIT License
 ===============
@@ -8880,7 +9017,7 @@ SOFTWARE
 ---
 
 MIT License
-(array-flatten 1.1.1, array-flatten 2.1.2, camelcase 4.1.2, dot-case 3.0.4, lower-case 2.0.2, no-case 3.0.4, param-case 3.0.4, pascal-case 3.1.2, path-to-regexp 0.1.7)
+(array-flatten 1.1.1, camelcase 4.1.2, dot-case 3.0.4, lower-case 2.0.2, no-case 3.0.4, param-case 3.0.4, pascal-case 3.1.2, path-to-regexp 0.1.7)
 
 The MIT License (MIT)
 
@@ -10095,33 +10232,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(dns-equal 1.0.0)
-
-The MIT License (MIT)
-
-Copyright (c) 2016 Thomas Watson Steen
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
 
 ---
 
