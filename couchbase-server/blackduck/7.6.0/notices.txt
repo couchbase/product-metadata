@@ -659,6 +659,8 @@ github.com/linode/linodego v1.23.0 : MIT License
 github.com/lufia/plan9stats 20231016-snapshot-07b5767b : BSD 3-clause "New" or "Revised" License
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61 : BSD 3-clause "New" or "Revised" License
 github.com/prometheus/exporter-toolkit v0.10.0 : Apache License 2.0
+github.com/shoenig/go-m1cpu v0.1.6 : Mozilla Public License 2.0
+github.com/shoenig/test v0.6.4 : Mozilla Public License 2.0
 github.com/yusufpapurcu/wmi v1.2.3 : MIT License
 glenn-brown/golang-pkg-pcre 20161122-snapshot : BSD 2-clause "Simplified" License
 glfw 20190408-snapshot-e6da0acd : BSD 3-clause "New" or "Revised" License
@@ -17138,7 +17140,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 Mozilla Public License 2.0
-(Consul api/v1.25.1, errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib parseutil/v0.1.8, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, Go CLI v1.1.5, go-immutable-radix v1.3.1, go-sql-driver v1.7.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-retryablehttp v0.7.5, hashicorp-go-rootcerts v1.0.2, hashicorp-golang-lru v0.5.1, hashicorp-golang-lru v1.0.2, hashicorp/go-sockaddr v1.0.6, hashicorp/hcl v1.0.1-vault-5, python-certifi 2023.11.17)
+(Consul api/v1.25.1, errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib parseutil/v0.1.8, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, github.com/shoenig/go-m1cpu v0.1.6, github.com/shoenig/test v0.6.4, Go CLI v1.1.5, go-immutable-radix v1.3.1, go-sql-driver v1.7.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-retryablehttp v0.7.5, hashicorp-go-rootcerts v1.0.2, hashicorp-golang-lru v0.5.1, hashicorp-golang-lru v1.0.2, hashicorp/go-sockaddr v1.0.6, hashicorp/hcl v1.0.1-vault-5, python-certifi 2023.11.17)
 
 Mozilla Public License
 Version 2.0
