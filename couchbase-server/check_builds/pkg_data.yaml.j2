@@ -97,7 +97,6 @@ filenames:
 {%- for platform_entry in platforms_for[release]            %}
 {%-   set plat_bits = platform_entry.split(':')             %}
 {%-   set platform = plat_bits[0]                           %}
-{%-   set unnotarized = "-unnotarized" if platform == "macos" else "" %}
 {%-   for bits in filebits_for[platform]                    %}
 {%-     if plat_bits | length > 1                           %}
 {%-       set arch = plat_bits[1]                           %}
@@ -108,7 +107,7 @@ filenames:
 {%-       set arch = "arm64"                                %}
 {%-     endif                                               %}
 {%-     for edition in [ "community", "enterprise" ]        %}
-  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}{{ unnotarized }}.{{ bits["ext"] }}
+  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
 {%-     endfor                                              %}
 {%-     if (version_tuple >= (7, 1, 0)) and
             (platform in tools_plats) and
