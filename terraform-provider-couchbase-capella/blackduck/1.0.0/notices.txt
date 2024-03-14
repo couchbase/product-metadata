@@ -8,7 +8,7 @@ Components:
 acomagu/bufpipe v1.0.4 : MIT License
 apparentlymart/go-textseg 12.0.0 : (MIT License AND Apache License 2.0)
 apparentlymart/go-textseg 13.0.0 : (MIT License AND Apache License 2.0)
-apparentlymart/go-textseg v15.0.0 : 
+apparentlymart/go-textseg v15.0.0 : (MIT License AND Apache License 2.0)
 armon-go-radix 20180808-snapshot-7fddfc38 : MIT License
 bgentry-speakeasy 0.1.0 : Apache License 2.0
 bufbuild/protocompile v0.4.0 : Apache License 2.0
@@ -33,8 +33,11 @@ github.com/hashicorp/terraform-plugin-go v0.21.0 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-plugin-log v0.9.0 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-plugin-testing v1.6.0 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-registry-address v0.2.3 : Mozilla Public License 2.0
+github.com/pjbgf/sha1cd v0.3.0 : Apache License 2.0
+github.com/skeema/knownhosts v1.2.0 : Apache License 2.0
 Go CLI v1.1.5 : Mozilla Public License 2.0
-Go Testify v1.8.4 : MIT License
+Go programming language 1.21.6 : BSD 3-clause "New" or "Revised" License
+Go Testify v1.9.0 : MIT License
 go-check-check 20180628-snapshot-788fd784 : BSD 2-clause "Simplified" License
 go-checkpoint v0.5.0 : Mozilla Public License 2.0
 go-errgo-errgo v2.1.0 : BSD 3-clause "New" or "Revised" License
@@ -113,7 +116,7 @@ sebdah/goldie v1.0.0 : MIT License
 sergi/go-diff v1.2.0 : (MIT License AND Apache License 2.0)
 shopspring-decimal v1.2.0 : MIT License
 spf13-cast v1.3.1 : MIT License
-stretchr/objx v0.5.0 : MIT License
+stretchr/objx v0.5.2 : MIT License
 vmihailenco/msgpack v4.0.4 : BSD 2-clause "Simplified" License
 vmihailenco/msgpack v5.4.1 : BSD 2-clause "Simplified" License
 vmihailenco/tagparser v2.0.0 : BSD 2-clause "Simplified" License
@@ -126,7 +129,7 @@ zclconf/go-cty-debug 20191215-snapshot-b22d67c1 : MIT License
 Licenses: 
 
 Apache License 2.0
-(apparentlymart/go-textseg 12.0.0, apparentlymart/go-textseg 13.0.0, bgentry-speakeasy 0.1.0, bufbuild/protocompile v0.4.0, cncf/udpa 20220112-snapshot-c52dc94e, envoyproxy/go-control-plane v0.11.1, envoyproxy/protoc-gen-validate 1.0.2, github.com/agext/levenshtein v1.2.2, github.com/cncf/xds 20231109-snapshot-523115eb, go-git/go-billy v5.5.0, go-git/go-git v5.9.0, godebug v1.1.0, golang/appengine v1.6.8, golang/glog v1.1.2, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.23.3, googleapis/go-genproto 20231106-snapshot-bbf56f31, gotest.tools v2.2.0, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.61.0, jhump/protoreflect v1.15.1, Masterminds/goutils v1.1.1, oklog/run v1.0.0, OpenCensus v0.4.1, sergi/go-diff v1.2.0, xanzy-ssh-agent v0.3.3, yaml for Go v3.0.1)
+(apparentlymart/go-textseg 12.0.0, apparentlymart/go-textseg 13.0.0, apparentlymart/go-textseg v15.0.0, bgentry-speakeasy 0.1.0, bufbuild/protocompile v0.4.0, cncf/udpa 20220112-snapshot-c52dc94e, envoyproxy/go-control-plane v0.11.1, envoyproxy/protoc-gen-validate 1.0.2, github.com/agext/levenshtein v1.2.2, github.com/cncf/xds 20231109-snapshot-523115eb, github.com/pjbgf/sha1cd v0.3.0, github.com/skeema/knownhosts v1.2.0, go-git/go-billy v5.5.0, go-git/go-git v5.9.0, godebug v1.1.0, golang/appengine v1.6.8, golang/glog v1.1.2, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.23.3, googleapis/go-genproto 20231106-snapshot-bbf56f31, gotest.tools v2.2.0, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.61.0, jhump/protoreflect v1.15.1, Masterminds/goutils v1.1.1, oklog/run v1.0.0, OpenCensus v0.4.1, sergi/go-diff v1.2.0, xanzy-ssh-agent v0.3.3, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -528,7 +531,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(cloudflare/circl v1.3.7, cyphar/filepath-securejoin v0.2.4, exp 20230820-snapshot-02704c96, Golang Protobuf v1.32.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.17.0, golang.org/x/mod v0.14.0, golang.org/x/net v0.18.0, golang.org/x/oauth2 v0.14.0, golang.org/x/sync v0.5.0, golang.org/x/sys v0.15.0, golang.org/x/term v0.15.0, golang.org/x/tools v0.16.0, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.14.0, google/go-cmp v0.6.0, google/uuid v1.6.0, mattn-go-colorable 0.1.13, mattn-go-isatty 0.0.16, mergo v0.3.15, mergo v1.0.0, ProtonMail/go-crypto 20230828-snapshot-3c4c8a2d)
+(cloudflare/circl v1.3.7, cyphar/filepath-securejoin v0.2.4, exp 20230820-snapshot-02704c96, Go programming language 1.21.6, Golang Protobuf v1.32.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.17.0, golang.org/x/mod v0.14.0, golang.org/x/net v0.18.0, golang.org/x/oauth2 v0.14.0, golang.org/x/sync v0.5.0, golang.org/x/sys v0.15.0, golang.org/x/term v0.15.0, golang.org/x/tools v0.16.0, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.14.0, google/go-cmp v0.6.0, google/uuid v1.6.0, mattn-go-colorable 0.1.13, mattn-go-isatty 0.0.16, mergo v0.3.15, mergo v1.0.0, ProtonMail/go-crypto 20230828-snapshot-3c4c8a2d)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -997,7 +1000,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(acomagu/bufpipe v1.0.4, bwesterb/go-ristretto v1.2.3, cespare/xxhash v2.2.0, Go Testify v1.8.4, hashicorp/go-cty 20200414-snapshot-d3edf31b, hashicorp/go-hclog v1.5.0, kevinburke/ssh_config v1.2.0, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty 0.0.16, Microsoft-go-winio v0.6.1, stretchr/objx v0.5.0, yaml for Go v3.0.1, yuin/goldmark v1.4.13, zclconf/go-cty v1.14.1, zclconf/go-cty-debug 20191215-snapshot-b22d67c1)
+(acomagu/bufpipe v1.0.4, apparentlymart/go-textseg v15.0.0, bwesterb/go-ristretto v1.2.3, cespare/xxhash v2.2.0, Go Testify v1.9.0, hashicorp/go-cty 20200414-snapshot-d3edf31b, hashicorp/go-hclog v1.5.0, kevinburke/ssh_config v1.2.0, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty 0.0.16, Microsoft-go-winio v0.6.1, stretchr/objx v0.5.2, yaml for Go v3.0.1, yuin/goldmark v1.4.13, zclconf/go-cty v1.14.1, zclconf/go-cty-debug 20191215-snapshot-b22d67c1)
 
 The MIT License
 ===============
