@@ -293,9 +293,9 @@
 291,"Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server",9.4.53.20231009,Direct Dependency,(Apache License 2.0 AND Eclipse Public License 1.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,d8221aaa-7d55-4b5a-b3e0-2b5cba26ce60,3c868f3c-bc9e-4383-8562-4694719dab6d,"7cae335f-1193-421e-92f1-8802b4243e93,d676a5c4-0bd9-4453-8c22-2ece2c2a00d7"
 292,Joda Time,2.8.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a67e87fa-f848-40b4-bcf5-2aedb5bc2b31,2a0f6875-2a3a-4f9d-a89a-8068d414e43e,7cae335f-1193-421e-92f1-8802b4243e93
 293,LatencyUtils,2.0.3,Direct Dependency,"(BSD 2-clause ""Simplified"" License OR Creative Commons Zero v1.0 Universal)",PERMISSIVE,NOT_REVIEWED,874c05c9-ed80-4f4b-a936-f00eb05b72e6,e93456bb-8d51-4be1-a5c0-57af8aaa218c,"cc875133-df38-4806-9921-473e0ef01a87,a7c69599-62b6-4d06-9ec6-ea688c041c00"
-294,Lodash,3.3.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cbd45af4-ae71-42ae-9848-8b76bc9485a3,745ce11f-1076-4b02-ba19-fce91914bc21,ad705c59-6893-4980-bdbf-0837f1823cc4
-295,Lodash,4.17.20,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cbd45af4-ae71-42ae-9848-8b76bc9485a3,4ff14a0a-0ca2-488b-b583-76a0cd9a39ed,ad705c59-6893-4980-bdbf-0837f1823cc4
-296,Lodash,4.17.21,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cbd45af4-ae71-42ae-9848-8b76bc9485a3,cd0e8058-6083-4d86-9269-cfaa3b68b8aa,ad705c59-6893-4980-bdbf-0837f1823cc4
+294,Lodash,3.3.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6ebe2b6b-c821-423c-b1e0-7a35960fd2df,8c1624a6-6d45-4364-b55e-bed2ff538f7d,ad705c59-6893-4980-bdbf-0837f1823cc4
+295,Lodash,4.17.20,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6ebe2b6b-c821-423c-b1e0-7a35960fd2df,0bf161dd-9d6c-4ec1-a546-ffddd4088396,ad705c59-6893-4980-bdbf-0837f1823cc4
+296,Lodash,4.17.21,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6ebe2b6b-c821-423c-b1e0-7a35960fd2df,280c665c-083b-42a2-ac11-88adbe46a0e7,ad705c59-6893-4980-bdbf-0837f1823cc4
 297,Log4J Commons Logging Bridge,2.22.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,49903db1-49a3-4670-b893-4a3502a0ab5f,eb2ab690-bba5-40c7-863c-50572acfe394,7cae335f-1193-421e-92f1-8802b4243e93
 298,Log4J Compatibility API,2.22.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,27abed2e-e4d1-4088-90e7-299dff16a4a1,9c6d89db-ff03-4d60-9a76-f07e452775d9,7cae335f-1193-421e-92f1-8802b4243e93
 299,Masterminds-semver,v3.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,22cb36e9-4d4c-46ed-a4b0-979b770b16df,d2889e37-b0b2-473b-8451-2e0dc2ab6cd4,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -581,7 +581,7 @@
 579,couchbase/moss,v0.2.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,98973c51-546a-430f-b753-492b7dbeb664,05779e1d-59a7-4587-9260-a02ed88c0208,7cae335f-1193-421e-92f1-8802b4243e93
 580,couchbase/moss,v0.3.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,98973c51-546a-430f-b753-492b7dbeb664,1cf2014c-a9b9-4e0b-a4a0-12732c4458f2,7cae335f-1193-421e-92f1-8802b4243e93
 581,couchbase/n1fty,,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,8dae37b6-0a75-4151-91f9-e4b370c8c224,,dde70004-f23f-437a-8982-c1aca19e3165
-582,couchbase/n1fty,20240105-snapshot-af87b075,"Exact,Files Modified",Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,8dae37b6-0a75-4151-91f9-e4b370c8c224,513a062f-1d64-4730-8c21-63f6cbe2a1a4,dde70004-f23f-437a-8982-c1aca19e3165
+582,couchbase/n1fty,20231208-snapshot-c2e558b1,Files Modified,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,8dae37b6-0a75-4151-91f9-e4b370c8c224,a6bad619-7765-48e0-afbb-b71adef5ba81,dde70004-f23f-437a-8982-c1aca19e3165
 583,couchbase/nitro,20220707-snapshot-f65f7a59,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,979b8a97-d2c4-4f7b-8c22-e3d6a58e1d3c,2d7f8290-ae9c-44ac-9552-41fabbb187b8,7cae335f-1193-421e-92f1-8802b4243e93
 584,couchbase/nitro,20230831-snapshot-b70d849f,Exact,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,979b8a97-d2c4-4f7b-8c22-e3d6a58e1d3c,5267158a-8e33-49ed-83e6-0b027d71e588,7cae335f-1193-421e-92f1-8802b4243e93
 585,couchbase/tools-common,auth/v1.0.0,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,4dc93c05-f6d1-4cc2-a0ae-903ee180c502,00000000-0010-0000-0000-000000000000
