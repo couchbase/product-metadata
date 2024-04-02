@@ -10,6 +10,7 @@ apparentlymart/go-textseg 13.0.0 : (MIT License AND Apache License 2.0)
 apparentlymart/go-textseg v15.0.0 : (MIT License AND Apache License 2.0)
 armon-go-radix v1.0.0 : MIT License
 bgentry-speakeasy 0.1.0 : Apache License 2.0
+blackfriday v1.6.0 : BSD 2-clause "Simplified" License
 bufbuild/protocompile v0.4.0 : Apache License 2.0
 bwesterb/go-ristretto v1.2.3 : MIT License
 cespare/xxhash v2.2.0 : MIT License
@@ -24,9 +25,11 @@ envoyproxy/protoc-gen-validate 1.0.4 : Apache License 2.0
 errwrap v1.1.0 : Mozilla Public License 2.0
 exp 20230820-snapshot-02704c96 : BSD 3-clause "New" or "Revised" License
 fatih-color v1.16.0 : MIT License
+frankban/quicktest v1.14.3 : MIT License
 github.com/agext/levenshtein v1.2.2 : Apache License 2.0
 github.com/cncf/xds 20231128-snapshot-0fa0005c : Apache License 2.0
 github.com/hashicorp/hc-install v0.6.3 : Mozilla Public License 2.0
+github.com/hashicorp/terraform-plugin-docs v0.18.0 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-plugin-framework-validators v0.12.0 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-plugin-go v0.22.1 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-plugin-log v0.9.0 : Mozilla Public License 2.0
@@ -89,12 +92,14 @@ jbenet/go-context 20150711-snapshot-d14ea06f : MIT License
 jhump/protoreflect v1.15.1 : Apache License 2.0
 kevinburke/ssh_config v1.2.0 : (X.Net License AND MIT License)
 kr/pretty v0.3.0 : MIT License
+Kunde21/markdownfmt v3.1.0 : MIT License
 mapstructure v1.5.0 : MIT License
 Masterminds-semver v3.2.0 : MIT License
 Masterminds/goutils v1.1.1 : Apache License 2.0
 Masterminds/sprig v3.2.3 : MIT License
 mattn-go-colorable 0.1.13 : (MIT License AND BSD 3-clause "New" or "Revised" License)
 mattn-go-isatty v0.0.20 : MIT License
+mattn-go-runewidth v0.0.9 : MIT License
 mergo v0.3.15 : BSD 3-clause "New" or "Revised" License
 mergo v1.0.0 : BSD 3-clause "New" or "Revised" License
 Microsoft-go-winio v0.6.1 : MIT License
@@ -104,30 +109,33 @@ mitchellh-reflectwalk v1.0.2 : MIT License
 mitchellh/go-testing-interface v1.14.1 : MIT License
 oklog/run v1.0.0 : Apache License 2.0
 OpenCensus v0.4.1 : Apache License 2.0
+pkg/diff 20210226-snapshot-20ebb0f2 : BSD 3-clause "New" or "Revised" License
 pkg/errors v0.9.1 : BSD 2-clause "Simplified" License
 pmezard-go-difflib 1.0.0 : BSD 3-clause "New" or "Revised" License
 posener/complete v1.2.3 : MIT License
 ProtonMail/go-crypto v1.1.0-alpha.0 : BSD 3-clause "New" or "Revised" License
 pty v1.1.1 : MIT License
-rogpeppe/go-internal v1.6.1 : BSD 3-clause "New" or "Revised" License
+rogpeppe/go-internal v1.12.0 : BSD 3-clause "New" or "Revised" License
 sebdah/goldie v1.0.0 : MIT License
 sergi/go-diff v1.2.0 : (MIT License AND Apache License 2.0)
-shopspring-decimal v1.2.0 : MIT License
-spf13-cast v1.3.1 : MIT License
+shopspring-decimal v1.3.1 : MIT License
+spf13-cast v1.5.0 : MIT License
 stretchr/objx v0.5.2 : MIT License
 vmihailenco/msgpack v4.0.4 : BSD 2-clause "Simplified" License
 vmihailenco/msgpack v5.4.1 : BSD 2-clause "Simplified" License
 vmihailenco/tagparser v2.0.0 : BSD 2-clause "Simplified" License
 xanzy-ssh-agent v0.3.3 : Apache License 2.0
+yaml for Go v2.3.0 : Apache License 2.0
 yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
-yuin/goldmark v1.4.13 : MIT License
+yuin/goldmark v1.6.0 : MIT License
+yuin/goldmark-meta v1.1.0 : MIT License
 zclconf/go-cty v1.14.3 : MIT License
 zclconf/go-cty-debug 20191215-snapshot-b22d67c1 : MIT License
 
 Licenses: 
 
 Apache License 2.0
-(apparentlymart/go-textseg 12.0.0, apparentlymart/go-textseg 13.0.0, apparentlymart/go-textseg v15.0.0, bgentry-speakeasy 0.1.0, bufbuild/protocompile v0.4.0, cncf/udpa 20220112-snapshot-c52dc94e, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, github.com/agext/levenshtein v1.2.2, github.com/cncf/xds 20231128-snapshot-0fa0005c, github.com/pjbgf/sha1cd v0.3.0, github.com/skeema/knownhosts v1.2.1, go-git/go-billy v5.5.0, go-git/go-git v5.11.0, godebug v1.1.0, golang/appengine v1.6.8, golang/glog v1.2.0, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.23.3, googleapis/go-genproto 20240123-snapshot-ef431310, gotest.tools v2.2.0, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.62.1, jhump/protoreflect v1.15.1, Masterminds/goutils v1.1.1, oklog/run v1.0.0, OpenCensus v0.4.1, sergi/go-diff v1.2.0, xanzy-ssh-agent v0.3.3, yaml for Go v3.0.1)
+(apparentlymart/go-textseg 12.0.0, apparentlymart/go-textseg 13.0.0, apparentlymart/go-textseg v15.0.0, bgentry-speakeasy 0.1.0, bufbuild/protocompile v0.4.0, cncf/udpa 20220112-snapshot-c52dc94e, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, github.com/agext/levenshtein v1.2.2, github.com/cncf/xds 20231128-snapshot-0fa0005c, github.com/pjbgf/sha1cd v0.3.0, github.com/skeema/knownhosts v1.2.1, go-git/go-billy v5.5.0, go-git/go-git v5.11.0, godebug v1.1.0, golang/appengine v1.6.8, golang/glog v1.2.0, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.23.3, googleapis/go-genproto 20240123-snapshot-ef431310, gotest.tools v2.2.0, groupcache 20210331-snapshot-41bb18bf, grpc-go v1.62.1, jhump/protoreflect v1.15.1, Masterminds/goutils v1.1.1, oklog/run v1.0.0, OpenCensus v0.4.1, sergi/go-diff v1.2.0, xanzy-ssh-agent v0.3.3, yaml for Go v2.3.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -343,6 +351,40 @@ DAMAGE.
 ---
 
 BSD 2-clause "Simplified" License
+(blackfriday v1.6.0)
+
+Blackfriday is distributed under the Simplified BSD License:
+
+Copyright © 2011 Russ Ross
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1.  Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+2.  Redistributions in binary form must reproduce the above
+    copyright notice, this list of conditions and the following
+    disclaimer in the documentation and/or other materials provided with
+    the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 2-clause "Simplified" License
 (go-check-check 20180628-snapshot-788fd784)
 
 Copyright (c) 2010-2013 Gustavo Niemeyer <gustavo@niemeyer.net>
@@ -496,40 +538,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(rogpeppe/go-internal v1.6.1)
-
-Copyright (c) 2018 The Go Authors. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-   * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-   * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-   * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(cloudflare/circl v1.3.7, cyphar/filepath-securejoin v0.2.4, exp 20230820-snapshot-02704c96, Go programming language 1.21.8, Golang Protobuf v1.33.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.21.0, golang.org/x/mod v0.15.0, golang.org/x/net v0.21.0, golang.org/x/oauth2 v0.16.0, golang.org/x/sync v0.6.0, golang.org/x/sys v0.18.0, golang.org/x/term v0.18.0, golang.org/x/tools v0.16.0, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.14.0, google/go-cmp v0.6.0, google/uuid v1.6.0, mattn-go-colorable 0.1.13, mergo v0.3.15, mergo v1.0.0, ProtonMail/go-crypto v1.1.0-alpha.0)
+(cloudflare/circl v1.3.7, cyphar/filepath-securejoin v0.2.4, exp 20230820-snapshot-02704c96, Go programming language 1.21.8, Golang Protobuf v1.33.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.21.0, golang.org/x/mod v0.15.0, golang.org/x/net v0.21.0, golang.org/x/oauth2 v0.16.0, golang.org/x/sync v0.6.0, golang.org/x/sys v0.18.0, golang.org/x/term v0.18.0, golang.org/x/tools v0.16.0, golang.org/x/xerrors 20190719-snapshot-9bdfabe6, golang/text v0.14.0, google/go-cmp v0.6.0, google/uuid v1.6.0, mattn-go-colorable 0.1.13, mergo v0.3.15, mergo v1.0.0, pkg/diff 20210226-snapshot-20ebb0f2, ProtonMail/go-crypto v1.1.0-alpha.0, rogpeppe/go-internal v1.12.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -945,6 +954,33 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
+(yuin/goldmark-meta v1.1.0)
+
+MIT License
+
+Copyright (c) 2019 Yusuke Inuzuka
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
 (mitchellh-copystructure v1.2.0)
 
 Source: https://github.com/mitchellh/copystructure
@@ -980,7 +1016,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(apparentlymart/go-textseg v15.0.0, bwesterb/go-ristretto v1.2.3, cespare/xxhash v2.2.0, fatih-color v1.16.0, Go Testify v1.9.0, hashicorp/go-cty 20200414-snapshot-d3edf31b, hashicorp/go-hclog v1.6.2, huandu/xstrings v1.3.3, kevinburke/ssh_config v1.2.0, mapstructure v1.5.0, Masterminds-semver v3.2.0, Masterminds/sprig v3.2.3, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.20, Microsoft-go-winio v0.6.1, stretchr/objx v0.5.2, yaml for Go v3.0.1, yuin/goldmark v1.4.13, zclconf/go-cty v1.14.3, zclconf/go-cty-debug 20191215-snapshot-b22d67c1)
+(apparentlymart/go-textseg v15.0.0, bwesterb/go-ristretto v1.2.3, cespare/xxhash v2.2.0, fatih-color v1.16.0, frankban/quicktest v1.14.3, Go Testify v1.9.0, hashicorp/go-cty 20200414-snapshot-d3edf31b, hashicorp/go-hclog v1.6.2, huandu/xstrings v1.3.3, kevinburke/ssh_config v1.2.0, Kunde21/markdownfmt v3.1.0, mapstructure v1.5.0, Masterminds-semver v3.2.0, Masterminds/sprig v3.2.3, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.20, Microsoft-go-winio v0.6.1, spf13-cast v1.5.0, stretchr/objx v0.5.2, yaml for Go v3.0.1, yuin/goldmark v1.6.0, zclconf/go-cty v1.14.3, zclconf/go-cty-debug 20191215-snapshot-b22d67c1)
 
 The MIT License
 ===============
@@ -1114,34 +1150,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(spf13-cast v1.3.1)
-
-The MIT License (MIT)
-
-Copyright (c) 2014 Steve Francia
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
-(shopspring-decimal v1.2.0)
+(shopspring-decimal v1.3.1)
 
 The MIT License (MIT)
 
@@ -1167,8 +1176,35 @@ THE SOFTWARE
 
 ---
 
+MIT License
+(mattn-go-runewidth v0.0.9)
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Yasuhiro Matsumoto
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
 Mozilla Public License 2.0
-(errwrap v1.1.0, github.com/hashicorp/hc-install v0.6.3, github.com/hashicorp/terraform-plugin-framework-validators v0.12.0, github.com/hashicorp/terraform-plugin-go v0.22.1, github.com/hashicorp/terraform-plugin-log v0.9.0, github.com/hashicorp/terraform-plugin-testing v1.7.0, github.com/hashicorp/terraform-registry-address v0.2.3, go-checkpoint v0.5.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.6.0, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.6.0, hashicorp-logutils v1.0.0, hashicorp-yamux v0.1.1, hashicorp/hcl v2.20.0, hashicorp/terraform-exec v0.20.0, hashicorp/terraform-json v0.21.0, hashicorp/terraform-plugin-framework v1.6.1, hashicorp/terraform-plugin-sdk v2.33.0, hashicorp/terraform-svchost v0.1.1)
+(errwrap v1.1.0, github.com/hashicorp/hc-install v0.6.3, github.com/hashicorp/terraform-plugin-docs v0.18.0, github.com/hashicorp/terraform-plugin-framework-validators v0.12.0, github.com/hashicorp/terraform-plugin-go v0.22.1, github.com/hashicorp/terraform-plugin-log v0.9.0, github.com/hashicorp/terraform-plugin-testing v1.7.0, github.com/hashicorp/terraform-registry-address v0.2.3, go-checkpoint v0.5.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.6.0, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.6.0, hashicorp-logutils v1.0.0, hashicorp-yamux v0.1.1, hashicorp/hcl v2.20.0, hashicorp/terraform-exec v0.20.0, hashicorp/terraform-json v0.21.0, hashicorp/terraform-plugin-framework v1.6.1, hashicorp/terraform-plugin-sdk v2.33.0, hashicorp/terraform-svchost v0.1.1)
 
 Mozilla Public License
 Version 2.0
