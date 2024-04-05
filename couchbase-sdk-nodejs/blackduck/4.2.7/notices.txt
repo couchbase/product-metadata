@@ -25,6 +25,7 @@ delegates 1.0.0 : MIT License
 dominictarr/rc 1.2.8 : (MIT License OR BSD 2-clause "Simplified" License OR Apache License 2.0)
 emoji-regex v8.0.0 : MIT License
 escalade 3.1.2 : MIT License
+expressjs/mime-types 2.1.35 : MIT License
 follow-redirects 1.15.6 : MIT License
 form-data 4.0.0 : MIT License
 fs-extra 11.2.0 : MIT License
@@ -35,7 +36,6 @@ iarna/gauge 4.0.4 : ISC License
 inherits v2.0.4 : ISC License
 is-fullwidth-code-point 3.0.0 : MIT License
 isexe 2.0.0 : ISC License
-jshttp/mime-types 2.1.35 : MIT License
 lodash.isplainobject 4.0.6 : MIT License
 memory-stream 1.0.0 : MIT License
 mime-db 1.52.0 : MIT License
@@ -64,6 +64,7 @@ signal-exit 3.0.7 : ISC License
 string-width 4.2.3 : MIT License
 Strip ANSI 6.0.1 : MIT License
 strip-json-comments 2.0.1 : MIT License
+tar 6.2.1 : ISC License
 universalify 2.0.1 : MIT License
 urljoin 4.0.1 : MIT License
 util-deprecate 1.0.2 : MIT License
@@ -410,7 +411,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(are-we-there-yet 3.0.1, cliui 8.0.1, iarna/gauge 4.0.4, minipass 3.3.6, minipass 5.0.0, node-graceful-fs 4.2.11, node-semver 7.6.0, npmlog 6.0.2, yargs-parser 21.1.1)
+(are-we-there-yet 3.0.1, cliui 8.0.1, iarna/gauge 4.0.4, minipass 3.3.6, minipass 5.0.0, node-graceful-fs 4.2.11, node-semver 7.6.0, npmlog 6.0.2, tar 6.2.1, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
@@ -890,7 +891,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(jshttp/mime-types 2.1.35)
+(expressjs/mime-types 2.1.35)
 
 MIT License
 
