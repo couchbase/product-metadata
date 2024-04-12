@@ -9,8 +9,7 @@ benbjohnson-clock v1.1.0 : MIT License
 BurntSushi/toml v0.3.1 : MIT License
 cespare/xxhash v2.2.0 : MIT License
 client9/misspell v0.3.4 : (MIT License AND BSD 3-clause "New" or "Revised" License)
-cncf/udpa 20220112-snapshot-c52dc94e : Apache License 2.0
-couchbase/gocbcore 20240326-snapshot-a824113d : Apache License 2.0
+cncf/udpa 20191208-snapshot-269d4d46 : Apache License 2.0
 couchbaselabs/gocaves 20230329-snapshot-05e3ba4f : Apache License 2.0
 dominikh/go-tools 20190523-snapshot-ea95bdfd : MIT License
 envoyproxy/go-control-plane v0.12.0 : Apache License 2.0
@@ -21,7 +20,7 @@ github.com/cncf/xds 20231128-snapshot-0fa0005c : Apache License 2.0
 github.com/go-kit/log 0.1.0 : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
 Go Logrus v1.4.2 : MIT License
-Go Testify v1.8.4 : MIT License
+Go Testify v1.9.0 : MIT License
 go-check-check 20180628-snapshot-788fd784 : BSD 2-clause "Simplified" License
 go-logfmt-logfmt v0.5.0 : MIT License
 go-spew v1.1.1 : ISC License
@@ -35,28 +34,26 @@ Golang Protobuf v1.33.0 : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.5.4 : BSD 3-clause "New" or "Revised" License
 golang-mock v1.1.1 : Apache License 2.0
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto v0.21.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto v0.22.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/lint 20190930-snapshot-16217165 : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod v0.8.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/net v0.22.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/oauth2 v0.16.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/net v0.24.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/oauth2 v0.17.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync v0.6.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.18.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/term v0.18.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/term v0.19.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools v0.6.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20200804-snapshot-5ec99f83 : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.8 : Apache License 2.0
 golang/glog v1.2.0 : Apache License 2.0
 golang/text v0.14.0 : BSD 3-clause "New" or "Revised" License
 google-cloud-go compute/metadata/v0.2.3 : Apache License 2.0
-google-cloud-go compute/v1.23.3 : Apache License 2.0
+google-cloud-go compute/v1.24.0 : Apache License 2.0
 google-cloud-go v0.26.0 : Apache License 2.0
 google/go-cmp v0.6.0 : BSD 3-clause "New" or "Revised" License
 google/uuid v1.6.0 : BSD 3-clause "New" or "Revised" License
-googleapis/go-genproto 20240123-snapshot-ef431310 : Apache License 2.0
-googleapis/go-genproto 20240304-snapshot-790db918 : Apache License 2.0
+googleapis/go-genproto 20240401-snapshot-c3f98211 : Apache License 2.0
 grpc-ecosystem/go-grpc-middleware v1.4.0 : Apache License 2.0
-grpc-go v1.62.1 : Apache License 2.0
+grpc-go v1.63.2 : Apache License 2.0
 kisielk-gotool v1.0.0 : (MIT License AND BSD 3-clause "New" or "Revised" License)
 kr/pretty 0.1.0 : MIT License
 OpenCensus v0.4.1 : Apache License 2.0
@@ -65,7 +62,7 @@ pkg/errors v0.8.1 : BSD 2-clause "Simplified" License
 pmezard-go-difflib 1.0.0 : BSD 3-clause "New" or "Revised" License
 prometheus-client_model 20190830-snapshot-14fe0d1b : Apache License 2.0
 pty v1.1.1 : MIT License
-stretchr/objx v0.5.0 : MIT License
+stretchr/objx v0.5.2 : MIT License
 uber-go/atomic 1.7.0 : MIT License
 yaml for Go v2.2.8 : Apache License 2.0
 yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
@@ -74,7 +71,7 @@ yuin/goldmark v1.2.1 : MIT License
 Licenses: 
 
 Apache License 2.0
-(cncf/udpa 20220112-snapshot-c52dc94e, couchbase/gocbcore 20240326-snapshot-a824113d, couchbaselabs/gocaves 20230329-snapshot-05e3ba4f, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, github.com/cncf/xds 20231128-snapshot-0fa0005c, golang-mock v1.1.1, golang/appengine v1.6.8, golang/glog v1.2.0, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.23.3, google-cloud-go v0.26.0, googleapis/go-genproto 20240123-snapshot-ef431310, googleapis/go-genproto 20240304-snapshot-790db918, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-go v1.62.1, OpenCensus v0.4.1, opentracing-opentracing-go 1.1.0, prometheus-client_model 20190830-snapshot-14fe0d1b, yaml for Go v2.2.8, yaml for Go v3.0.1)
+(cncf/udpa 20191208-snapshot-269d4d46, couchbaselabs/gocaves 20230329-snapshot-05e3ba4f, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, github.com/cncf/xds 20231128-snapshot-0fa0005c, golang-mock v1.1.1, golang/appengine v1.6.8, golang/glog v1.2.0, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.24.0, google-cloud-go v0.26.0, googleapis/go-genproto 20240401-snapshot-c3f98211, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-go v1.63.2, OpenCensus v0.4.1, opentracing-opentracing-go 1.1.0, prometheus-client_model 20190830-snapshot-14fe0d1b, yaml for Go v2.2.8, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -352,7 +349,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20190121-snapshot-509febef, Golang Protobuf v1.33.0, Golang Protobuf v1.5.4, golang.org/x/crypto v0.21.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.8.0, golang.org/x/net v0.22.0, golang.org/x/oauth2 v0.16.0, golang.org/x/sync v0.6.0, golang.org/x/sys v0.18.0, golang.org/x/term v0.18.0, golang.org/x/tools v0.6.0, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang/text v0.14.0, google/go-cmp v0.6.0, google/uuid v1.6.0)
+(exp 20190121-snapshot-509febef, Golang Protobuf v1.33.0, Golang Protobuf v1.5.4, golang.org/x/crypto v0.22.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.8.0, golang.org/x/net v0.24.0, golang.org/x/oauth2 v0.17.0, golang.org/x/sync v0.6.0, golang.org/x/term v0.19.0, golang.org/x/tools v0.6.0, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang/text v0.14.0, google/go-cmp v0.6.0, google/uuid v1.6.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -808,7 +805,7 @@ SOFTWARE
 ---
 
 MIT License
-(cespare/xxhash v2.2.0, dominikh/go-tools 20190523-snapshot-ea95bdfd, Go Testify v1.8.4, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, stretchr/objx v0.5.0, yaml for Go v3.0.1)
+(cespare/xxhash v2.2.0, dominikh/go-tools 20190523-snapshot-ea95bdfd, Go Testify v1.9.0, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, stretchr/objx v0.5.2, yaml for Go v3.0.1)
 
 The MIT License
 ===============
