@@ -1,4 +1,4 @@
-Copyright 2023
+Copyright 2024
 
 [couchbase-server : 7.1.5]
 
@@ -140,8 +140,9 @@ Acorn 7.4.1 : MIT License
 Acorn-JSX 5.2.0 : MIT License
 Acorn-JSX 5.3.2 : MIT License
 aggregate-error 3.0.1 : MIT License
+airbnb javascript 14.2.0 : MIT License
+ajv 6.12.3 : MIT License
 ajv 6.12.6 : MIT License
-ajv v6.12.3 : MIT License
 ajv v8.6.2 : MIT License
 alecthomas-kingpin v2.2.6 : MIT License
 alecthomas-template 20190718-snapshot-fb15b899 : BSD 3-clause "New" or "Revised" License
@@ -318,6 +319,7 @@ bits-and-blooms/bitset v1.2.0 : BSD 3-clause "New" or "Revised" License
 bits-and-blooms/bitset v1.2.2 : BSD 3-clause "New" or "Revised" License
 blackfriday v1.5.2 : BSD 3-clause "New" or "Revised" License
 blackfriday v2.1.0 : BSD 2-clause "Simplified" License
+bleve v2.3.3 : Apache License 2.0
 blevesearch-go-porterstemmer v1.0.3 : MIT License
 blevesearch-segment v0.9.0 : Apache License 2.0
 blevesearch/bleve-mapping-ui v0.4.0 : Apache License 2.0
@@ -334,7 +336,6 @@ Boost C++ Libraries - boost 1.74.0.2 : Boost Software License 1.0
 Bouncy Castle 1.70 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70 : MIT License
 brace-expansion 1.1.11 : MIT License
-braces 3.0.2 : MIT License
 Breakpad r835 : BSD 3-clause "New" or "Revised" License
 brotli v1.0.9 : MIT License
 browserify/resolve v1.17.0 : MIT License
@@ -351,7 +352,6 @@ ca-certificates 2023.5.7 : ISC License
 cacache 15.0.0 : ISC License
 cacheable-lookup 2.0.1 : MIT License
 cacheable-request 7.0.1 : MIT License
-cachedir 2.3.0 : MIT License
 callsites 3.1.0 : MIT License
 camelcase 5.3.1 : MIT License
 caniuse-lite v1.0.30001048 : Creative Commons Attribution 4.0
@@ -393,7 +393,6 @@ Commander.js v2.20.3 : MIT License
 commons-csv 1.9.0 : Apache License 2.0
 commons-csv commons-csv-1.8 : Apache License 2.0
 config-chain 1.1.13 : MIT License
-confusing-browser-globals 1.0.9 : MIT License
 containerd/cgroups 20190919-snapshot-bf292b21 : Apache License 2.0
 containerd/console 20180822-snapshot-c12b1e79 : Apache License 2.0
 containerd/containerd v1.3.4 : Apache License 2.0
@@ -410,28 +409,23 @@ core-js 3.6.5 : MIT License
 core-util-is 1.0.2 : MIT License
 CoreOS v0.2.0 : Apache License 2.0
 cosmiconfig 6.0.0 : MIT License
-Couchbase v7.1.1 : 
+Couchbase v7.1.0 : Apache License 2.0
+Couchbase v7.1.6 : Apache License 2.0
 couchbase platform v7.1.4-MP5 : Business Source License 1.1
 couchbase-blance v0.1.1 : Apache License 2.0
 couchbase-cbauth v0.1.1 : Apache License 2.0
-couchbase-cbauth v0.1.2 : Apache License 2.0
+couchbase-cbauth v0.1.8 : Apache License 2.0
 couchbase-cbgt v1.2.4 : Apache License 2.0
 couchbase-clog v0.1.0 : Business Source License 1.1
 couchbase-go-couchbase v0.1.1 : MIT License
-couchbase-gocb v1.6.7 : Apache License 2.0
-couchbase-gocb v2.2.2 : Apache License 2.0
-couchbase-gocb v2.3.2 : Apache License 2.0
-couchbase-gocb v2.3.5 : Apache License 2.0
 couchbase-gomemcached v0.1.4 : MIT License
 couchbase-gomemcached v0.2 : MIT License
-couchbase-goutils 0 : Apache License 2.0
 couchbase-goutils v0.1.2 : Apache License 2.0
 couchbase-goxdcr v8.1.0-1168 : Apache License 2.0
 couchbase-indexing 20230223-snapshot-9c83c09c : Apache License 2.0
 couchbase/cbft v0.5.0 : Business Source License 1.1
 couchbase/cbft : Business Source License 1.1
 couchbase/couchstore v7.1.2-MP1 : Apache License 2.0
-couchbase/go_n1ql 20220302-snapshot-0ed4bf93 : Apache License 2.0
 couchbase/gocbcore v7.1.18 : Apache License 2.0
 couchbase/gocbcore v9.1.10 : Apache License 2.0
 couchbase/gocbcore v9.1.4 : Apache License 2.0
@@ -440,15 +434,14 @@ couchbase/moss v0.3.0 : Apache License 2.0
 couchbase/n1fty 20230413-snapshot-f925ceeb : Business Source License 1.1
 couchbase/n1fty : Business Source License 1.1
 couchbase/nitro 20221007-snapshot-92d53613 : Apache License 2.0
+couchbase/retriever 20220302-snapshot-295b1113 : Business Source License 1.1
 couchbase/vellum v1.0.2 : Apache License 2.0
 couchbaselabs-query : Business Source License 1.1
-couchbaselabs/bleve v2.3.3 : Apache License 2.0
-couchbaselabs/clog v0.1.0 : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.4 : Apache License 2.0
-couchbaselabs/retriever 20220302-snapshot-295b1113 : Business Source License 1.1
 cpuguy83-go-md2man 2.0.1 : MIT License
 cpuguy83-go-md2man v1.0.10 : MIT License
 creack/pty v1.1.9 : MIT License
+create-react-app 1.0.9 : BSD 3-clause "New" or "Revised" License
 cuckoofilter 20180825-snapshot : MIT License
 curl 7.88.1 : curl License
 d3-array 2.4.0 : BSD 3-clause "New" or "Revised" License
@@ -462,7 +455,7 @@ d3-dsv 2.0.0 : BSD 3-clause "New" or "Revised" License
 d3-ease 1.0.6 : BSD 3-clause "New" or "Revised" License
 d3-format 1.4.3 : BSD 3-clause "New" or "Revised" License
 d3-hierarchy 1.1.9 : BSD 3-clause "New" or "Revised" License
-d3-interpolate v1.4.0 : BSD 3-clause "New" or "Revised" License
+d3-interpolate 1.4.0 : BSD 3-clause "New" or "Revised" License
 d3-path 1.0.9 : BSD 3-clause "New" or "Revised" License
 d3-scale 3.2.1 : BSD 3-clause "New" or "Revised" License
 d3-scale-chromatic 1.5.0 : BSD 3-clause "New" or "Revised" License
@@ -527,7 +520,6 @@ escape-string-regexp 1.0.5 : MIT License
 escape-string-regexp v4.0.0 : MIT License
 ESLint 7.32.0 : MIT License
 ESLint v7.4.0 : MIT License
-eslint-config-airbnb-base 14.2.0 : MIT License
 eslint-config-google 0.14.0 : Apache License 2.0
 eslint-config-standard 14.1.1 : MIT License
 eslint-import-resolver-node 0.3.4 : MIT License
@@ -625,10 +617,15 @@ github.com/go-kit/log 0.1.0 : MIT License
 github.com/golang-jwt/jwt 3.2.2 : MIT License
 github.com/golang-jwt/jwt v4.2.0 : MIT License
 github.com/golang-jwt/jwt v4.3.0 : MIT License
+github.com/hashicorp/go-secure-stdlib base62/v0.1.1 : Mozilla Public License 2.0
+github.com/hashicorp/go-secure-stdlib mlock/v0.1.2 : Mozilla Public License 2.0
+github.com/hashicorp/go-secure-stdlib parseutil/v0.1.2 : Mozilla Public License 2.0
+github.com/hashicorp/go-secure-stdlib password/v0.1.1 : Mozilla Public License 2.0
+github.com/hashicorp/go-secure-stdlib strutil/v0.1.2 : Mozilla Public License 2.0
+github.com/hashicorp/go-secure-stdlib tlsutil/v0.1.1 : Mozilla Public License 2.0
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.3 : MIT License
 github.com/rogpeppe/fastuuid v1.2.0 : BSD 3-clause "New" or "Revised" License
-github.com/spf13/jwalterweatherman v1.0.0 : MIT License
 github.com/yusufpapurcu/wmi v1.2.2 : MIT License
 glenn-brown/golang-pkg-pcre 20161121-snapshot : BSD 2-clause "Simplified" License
 glfw 20190408-snapshot-e6da0acd : BSD 3-clause "New" or "Revised" License
@@ -669,7 +666,6 @@ go-autorest tracing/v0.6.0 : Apache License 2.0
 go-autorest v14.2.0 : Apache License 2.0
 go-check-check 20171108-snapshot-20d25e28 : BSD 2-clause "Simplified" License
 go-check-check 20201130-snapshot-10cb9826 : BSD 2-clause "Simplified" License
-go-cli v2.3.0 : MIT License
 go-errgo-errgo v2.1.0 : BSD 3-clause "New" or "Revised" License
 go-etcd 2.0.0 : Apache License 2.0
 go-etcd v3.3.10 : Apache License 2.0
@@ -691,6 +687,7 @@ go-ole-go-ole v1.2.6 : MIT License
 go-playground-universal-translator v0.17.0 : MIT License
 go-playground/assert v2.0.1 : MIT License
 go-playground/locales v0.13.0 : MIT License
+go-playground/validator v10.2.0 : MIT License
 go-spew v1.1.0 : ISC License
 go-spew v1.1.1 : ISC License
 go-sql-driver v1.6.0 : Mozilla Public License 2.0
@@ -714,6 +711,10 @@ gobrake v2.0.9 : BSD 3-clause "New" or "Revised" License
 gobwas/httphead 20180817-snapshot-2c6c146e : MIT License
 gobwas/pool v0.2.0 : MIT License
 gobwas/ws v1.0.2 : MIT License
+gocb v1.6.7 : Apache License 2.0
+gocb v2.2.2 : Apache License 2.0
+gocb v2.3.2 : Apache License 2.0
+gocb v2.3.5 : Apache License 2.0
 godbus-dbus 20190418-snapshot-ade71ed3 : BSD 2-clause "Simplified" License
 godbus-dbus v5.0.4 : BSD 2-clause "Simplified" License
 godebug v1.1.0 : Apache License 2.0
@@ -743,8 +744,7 @@ golang-github-seiflotfy-cuckoofilter 0.0~git20160609.0.d048387 : MIT License
 golang-github-spf13-pflag-dev 1.0.3 : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev 20190402-snapshot : BSD 3-clause "New" or "Revised" License
 golang-github-youmark-pkcs8 1.1 : MIT License
-golang-google-genproto-dev 0.0~git20171123.7f0da29 : Apache License 2.0
-golang-google-grpc 1.15.0 : BSD 3-clause "New" or "Revised" License
+golang-google-grpc 1.6.0 : BSD 3-clause "New" or "Revised" License
 golang-mock v1.1.1 : Apache License 2.0
 golang-mock v1.6.0 : Apache License 2.0
 golang-snappy-go-dev 20150731-snapshot-a911026e : BSD 3-clause "New" or "Revised" License
@@ -779,11 +779,11 @@ golang.org/x/oauth2 20220907-snapshot-f2134210 : BSD 3-clause "New" or "Revised"
 golang.org/x/sync 20180314-snapshot-1d60e460 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync 20190422-snapshot-11223019 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sync 20220601-snapshot-0de741cf : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys 0.6.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20181221-snapshot-b4a75ba8 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20200323-snapshot-85ca7c5b : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20211112-snapshot-0c823b97 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 20220917-snapshot-fb04ddd9 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.6.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/term 20210927-snapshot-03fcf44c : BSD 3-clause "New" or "Revised" License
 golang.org/x/term v0.6.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/time 20191023-snapshot-555d28b2 : BSD 3-clause "New" or "Revised" License
@@ -802,7 +802,7 @@ golang/appengine v1.6.7 : Apache License 2.0
 golang/geo 20210211-snapshot-740aa86c : Apache License 2.0
 golang/glog 20160125-snapshot-23def4e6 : Apache License 2.0
 golang/net 1.12+git20190812.cdfb69a : BSD 3-clause "New" or "Revised" License
-golang/text v0.12.0 : BSD 3-clause "New" or "Revised" License
+golang/text v0.14.0 : BSD 3-clause "New" or "Revised" License
 golang/text v0.3.7 : BSD 3-clause "New" or "Revised" License
 golang/text v0.8.0 : BSD 3-clause "New" or "Revised" License
 golang/tools 0 : BSD 3-clause "New" or "Revised" License
@@ -875,8 +875,11 @@ google-cloud-go speech/v1.6.0 : Apache License 2.0
 google-cloud-go storage/v1.27.0 : Apache License 2.0
 google-cloud-go talent/v1.1.0 : Apache License 2.0
 google-cloud-go trace/v0.1.0 : Apache License 2.0
+google-cloud-go v0.1.0 : Apache License 2.0
 google-cloud-go v0.104.0 : Apache License 2.0
 google-cloud-go v0.26.0 : Apache License 2.0
+google-cloud-go v0.3.0 : Apache License 2.0
+google-cloud-go v0.5.0 : Apache License 2.0
 google-cloud-go videointelligence/v1.6.0 : Apache License 2.0
 google-cloud-go webrisk/v1.4.0 : Apache License 2.0
 google-cloud-go workflows/v1.6.0 : Apache License 2.0
@@ -906,22 +909,21 @@ google/wire v0.5.0 : Apache License 2.0
 googleapis/enterprise-certificate-proxy v0.1.0 : Apache License 2.0
 googleapis/gax-go v1.0.3 : BSD 3-clause "New" or "Revised" License
 googleapis/gax-go v2.5.1 : BSD 3-clause "New" or "Revised" License
+googleapis/go-genproto 20180120-snapshot : Apache License 2.0
+googleapis/go-genproto 20180130-snapshot : Apache License 2.0
 googleapis/go-genproto 20200715-snapshot-c66870c0 : Apache License 2.0
 googleapis/go-genproto 20220921-snapshot-23cae91e : Apache License 2.0
 googleapis/go-type-adapters v1.0.0 : Apache License 2.0
 googleapis/google-api-go-client v0.97.0 : BSD 3-clause "New" or "Revised" License
 googleapis/google-cloud-java 2.22.0 : Apache License 2.0
 GoogleCloudPlatform/cloudsql-proxy v1.24.0 : Apache License 2.0
-googlecloudplatform/gcloud-golang v0.1.0 : Apache License 2.0
-googlecloudplatform/gcloud-golang v0.3.0 : Apache License 2.0
-googlecloudplatform/gcloud-golang v0.5.0 : Apache License 2.0
 gopherjs 20190910-snapshot-9d188e94 : BSD 2-clause "Simplified" License
 gopkg.in/v1/fsnotify v1.4.7 : BSD 3-clause "New" or "Revised" License
 gopsutil v3.21.11 : BSD 3-clause "New" or "Revised" License
 gopsutil v3.22.8 : BSD 3-clause "New" or "Revised" License
 gorilla/context 20170307-snapshot : BSD 3-clause "New" or "Revised" License
-gorilla/mux 1.7.4 : BSD 3-clause "New" or "Revised" License
 gorilla/mux 20170523-snapshot : BSD 3-clause "New" or "Revised" License
+gorilla/mux v1.7.4 : BSD 3-clause "New" or "Revised" License
 gorilla/mux v1.8.0 : BSD 3-clause "New" or "Revised" License
 gorilla/muxy 20170123-snapshot-65b4fd5d : BSD 3-clause "New" or "Revised" License
 gorilla/websocket v1.4.1 : BSD 2-clause "Simplified" License
@@ -931,6 +933,7 @@ gotest.tools v2.2.0 : Apache License 2.0
 gotest.tools v3.0.2 : Apache License 2.0
 groupcache 20210331-snapshot-41bb18bf : Apache License 2.0
 grpc 1.28.1 : Apache License 2.0
+grpc 1.56.1 : Apache License 2.0
 grpc-gateway v1.16.0 : BSD 3-clause "New" or "Revised" License
 grpc-go cmd/protoc-gen-go-grpc/v1.1.0 : Apache License 2.0
 grpc-go v1.17.0 : Apache License 2.0
@@ -962,7 +965,7 @@ hashicorp/go-kms-wrapping entropy/v0.1.0 : Mozilla Public License 2.0
 hashicorp/go-sockaddr v1.0.2 : Mozilla Public License 2.0
 hashicorp/hcl v1.0.0 : Mozilla Public License 2.0
 HdrHistogram 2.1.8 : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
-HdrHistogram_c 0.9.13 : (BSD 3-clause "New" or "Revised" License AND Public Domain)
+HdrHistogram_c 0.9.13 : (BSD 2-clause "Simplified" License AND Creative Commons Zero v1.0 Universal AND Public Domain)
 hogan.js 3.0.2 : Apache License 2.0
 hosted-git-info v2.8.8 : ISC License
 hpcloud-tail v1.0.0 : MIT License
@@ -1073,10 +1076,8 @@ inflight 1.0.6 : ISC License
 inherits v2.0.4 : ISC License
 invariant 2.2.4 : MIT License
 io.grpc:grpc-alts 1.56.1 : Apache License 2.0
-io.grpc:grpc-api 1.56.1 : Apache License 2.0
 io.grpc:grpc-auth 1.56.1 : Apache License 2.0
 io.grpc:grpc-context 1.56.1 : Apache License 2.0
-io.grpc:grpc-core 1.56.1 : Apache License 2.0
 io.grpc:grpc-googleapis 1.56.1 : Apache License 2.0
 io.grpc:grpc-grpclb 1.56.1 : Apache License 2.0
 io.grpc:grpc-netty-shaded 1.56.1 : Apache License 2.0
@@ -1086,6 +1087,7 @@ io.grpc:grpc-rls 1.56.1 : Apache License 2.0
 io.grpc:grpc-services 1.56.1 : Apache License 2.0
 io.grpc:grpc-stub 1.56.1 : Apache License 2.0
 io.grpc:grpc-xds 1.56.1 : Apache License 2.0
+ion-java 1.0.2 : Apache License 2.0
 is-arrayish 0.2.1 : MIT License
 is-builtin-module 3.0.0 : MIT License
 is-callable 1.2.0 : MIT License
@@ -1158,6 +1160,7 @@ jstemmer/go-junit-report v0.9.1 : MIT License
 jtolds-gls v4.20.0 : MIT License
 julienschmidt/httprouter v1.2.0 : BSD 3-clause "New" or "Revised" License
 julienschmidt/httprouter v1.3.0 : BSD 3-clause "New" or "Revised" License
+jWalterWeatherman v1.0.0 : MIT License
 jwt-go v3.2.0 : MIT License
 keyv 4.0.0 : MIT License
 kisielk-gotool v1.0.0 : (MIT License AND BSD 3-clause "New" or "Revised" License)
@@ -1220,6 +1223,7 @@ memory-fs 0.5.0 : MIT License
 Merge-Stream 2.0.0 : MIT License
 Metrics Core 3.2.4 : Apache License 2.0
 micromatch 4.0.2 : MIT License
+micromatch/braces 3.0.2 : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.7.2 : MIT License
 Microsoft Azure common module for Storage 12.21.0 : MIT License
 Microsoft Azure internal Avro module for Storage 12.7.0 : MIT License
@@ -1284,13 +1288,14 @@ nhooyr/websocket v1.8.7 : MIT License
 Nimbus Content Type 2.2 : Apache License 2.0
 Nimbus LangTag 1.7 : Apache License 2.0
 Nimbus-JOSE-JWT 9.30.2 : Apache License 2.0
+node-cachedir 2.3.0 : MIT License
 node-concat-map 0.0.1 : MIT License
 node-cross-spawn 7.0.3 : MIT License
 node-entities 2.0.3 : BSD 2-clause "Simplified" License
 node-error-ex 1.3.2 : MIT License
 node-glob v7.1.6 : ISC License
-node-graceful-fs v4.2.3 : ISC License
-node-graceful-fs v4.2.4 : ISC License
+node-graceful-fs 4.2.3 : ISC License
+node-graceful-fs 4.2.4 : ISC License
 node-ignore 4.0.6 : MIT License
 node-ignore 5.1.8 : MIT License
 node-lru-cache 4.1.5 : ISC License
@@ -1306,7 +1311,7 @@ node-semver 6.3.0 : ISC License
 node-semver 7.0.0 : ISC License
 node-semver 7.3.2 : ISC License
 node-semver 7.3.5 : ISC License
-node-source-map-support v0.5.19 : MIT License
+node-source-map-support 0.5.19 : MIT License
 nodeca-argparse 1.0.10 : MIT License
 nodejs/string_decoder 1.1.1 : MIT License
 nopt 1.0.10 : MIT License
@@ -1332,8 +1337,8 @@ opencensus-integrations/ocsql v0.1.7 : Apache License 2.0
 opencontainers-runtime-spec 20190507-snapshot-5b71a03e : Apache License 2.0
 opencontainers/go-digest 1.0.0 : Apache License 2.0
 opencontainers/image-spec v1.0.1 : Apache License 2.0
-OpenJDK 11.0.19+7 : BSD 3-clause "New" or "Revised" License
-OpenSSL 1.1.1u : (SSLeay License AND OpenSSL License)
+OpenJDK 11.0.19+7 : GNU General Public License v2.0 w/Classpath exception
+OpenSSL 1.1.1u : (SSLeay License - standalone AND OpenSSL License)
 OpenSSL 3.1.1 : Apache License 2.0
 OpenTracing API 0.31.0 : Apache License 2.0
 OpenTracing-noop 0.31.0 : Apache License 2.0
@@ -1405,7 +1410,7 @@ prr 1.0.1 : MIT License
 pseudomap 1.0.2 : ISC License
 psf-requests 2.31.0 : Apache License 2.0
 pty v1.1.1 : MIT License
-Punycode.js v2.1.1 : MIT License
+Punycode.js 2.1.1 : MIT License
 pyca/cryptography 38.0.4 : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
 pycparser 2.21 : BSD 3-clause "New" or "Revised" License
 pycryptodome 3.18.0 : (BSD 2-clause "Simplified" License AND Public Domain)
@@ -1486,8 +1491,7 @@ slice-ansi 4.0.0 : MIT License
 sn-2-ui-router-ng2 6.0.1 : MIT License
 snappy 0.4 : Apache License 2.0
 snappy-java 1.1.10.5 : Apache License 2.0
-snowpack 1.7.1 : MIT License
-software.amazon.ion:ion-java 1.0.2 : Apache License 2.0
+snowpackjs/snowpack 1.7.1 : MIT License
 sortablejs 1.10.2 : MIT License
 source-map 0.5.7 : BSD 3-clause "New" or "Revised" License
 source-map 0.6.1 : BSD 3-clause "New" or "Revised" License
@@ -1506,7 +1510,7 @@ spf13-cobra 20170131-snapshot : Apache License 2.0
 spf13-cobra 20180521-snapshot-2da4a54c : Apache License 2.0
 sprintf.js 1.0.3 : BSD 3-clause "New" or "Revised" License
 SQLite 3.42.0 : Public Domain
-SSLMate/go-pkcs12 v0.2.1 : BSD 3-clause "New" or "Revised" License
+SSLMate/go-pkcs12 v0.4.0 : BSD 3-clause "New" or "Revised" License
 ssri 8.0.0 : ISC License
 stable-stringify 1.0.1 : MIT License
 Stax2 API 4.2.1 : BSD 2-clause "Simplified" License
@@ -1532,7 +1536,6 @@ tapable 1.1.3 : MIT License
 tar v6.0.1 : ISC License
 Tcl/Tk 8.6.12 : TCL/TK License
 tdegrunt/jsonschema 1.2.6 : MIT License
-tektoncd/cli v0.1.2 : Apache License 2.0
 terser 4.8.0 : BSD 2-clause "Simplified" License
 text-table 0.2.0 : MIT License
 ThreeTen backport 1.6.8 : BSD 3-clause "New" or "Revised" License
@@ -1564,7 +1567,8 @@ unicode-match-property-value-ecmascript 1.2.0 : MIT License
 unicode-property-aliases-ecmascript 1.1.0 : MIT License
 unique-filename 1.1.1 : ISC License
 unique-slug 2.0.2 : ISC License
-urfave-cli 20180614-snapshot-7bc6a0ac : MIT License
+urfave-cli 20171014-snapshot-7bc6a0ac : MIT License
+urfave-cli v2.3.0 : MIT License
 uri-js 4.2.2 : BSD 2-clause "Simplified" License
 uri-js 4.4.1 : BSD 2-clause "Simplified" License
 urllib3 2.0.2 : MIT License
@@ -1598,6 +1602,7 @@ yaml for Go v2.4.0 : Apache License 2.0
 yaml for Go v3.0.1 : (MIT License AND Apache License 2.0)
 yargs-parser 16.1.0 : ISC License
 youmark/pkcs8 20181117-snapshot-1be2e3e5 : MIT License
+youmark/pkcs8 20201027-snapshot-1326539a : MIT License
 yuin/goldmark v1.3.5 : MIT License
 yuin/goldmark v1.4.1 : MIT License
 zeekay/highlight.js 10.4.1 : BSD 3-clause "New" or "Revised" License
@@ -1611,7 +1616,7 @@ zstd-jni 1.5.0-1 : BSD 2-clause "Simplified" License
 Licenses: 
 
 Apache License 2.0
-(@humanwhocodes/config-array 0.5.0, [ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-common 0.3.6, algebricks-common 0.3.7, algebricks-common 0.3.8, algebricks-compiler 0.3.5, algebricks-compiler 0.3.6, algebricks-compiler 0.3.7, algebricks-compiler 0.3.8, algebricks-core 0.3.5, algebricks-core 0.3.6, algebricks-core 0.3.7, algebricks-core 0.3.8, algebricks-data 0.3.5, algebricks-data 0.3.6, algebricks-data 0.3.7, algebricks-data 0.3.8, algebricks-rewriter 0.3.5, algebricks-rewriter 0.3.6, algebricks-rewriter 0.3.7, algebricks-rewriter 0.3.8, algebricks-runtime 0.3.5, algebricks-runtime 0.3.6, algebricks-runtime 0.3.7, algebricks-runtime 0.3.8, Apache Commons Codec 1.15, Apache Commons Collections 3.2.2, Apache Commons Collections 4.4, Apache Commons Compress 1.22, Apache Commons Compress 1.24.0, Apache Commons Configuration 2.8.0, Apache Commons IO 2.11.0, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.10.0, Apache CouchDB customized, Apache Hadoop 3.3.6, Apache Hadoop Amazon Web Services support 3.3.6, Apache Hadoop Auth 3.3.6, Apache Hadoop Azure support 3.3.6, Apache HTTP transport v2 for the Google HTTP Client Library for Java. 1.43.3, Apache HttpClient 4.5.13, Apache Log4j 2.19.0, Apache Log4J API 2.19.0, Apache Log4j JUL Adapter 2.19.0, Apache Log4j SLF4J Binding 2.19.0, Apache Log4j Web Adapters 2.19.0, Apache Parquet Column 1.12.3, Apache Parquet Common 1.12.3, Apache Parquet Encodings 1.12.3, Apache Parquet Format Structures 1.12.3, Apache Parquet Hadoop 1.12.3, ASM based accessors helper used by json-smart 2.4.11, asterix-active 0.9.5, asterix-active 0.9.6, asterix-active 0.9.7, asterix-active 0.9.8, asterix-algebra 0.9.5, asterix-algebra 0.9.6, asterix-algebra 0.9.7, asterix-algebra 0.9.8, asterix-app 0.9.5, asterix-app 0.9.6, asterix-app 0.9.7, asterix-app 0.9.8, asterix-common 0.9.5, asterix-common 0.9.6, asterix-common 0.9.7, asterix-common 0.9.8, asterix-external-data 0.9.5, asterix-external-data 0.9.6, asterix-external-data 0.9.7, asterix-external-data 0.9.8, asterix-lang-aql 0.9.5, asterix-lang-aql 0.9.6, asterix-lang-common 0.9.5, asterix-lang-common 0.9.6, asterix-lang-common 0.9.7, asterix-lang-common 0.9.8, asterix-lang-sqlpp 0.9.5, asterix-lang-sqlpp 0.9.6, asterix-lang-sqlpp 0.9.7, asterix-lang-sqlpp 0.9.8, asterix-metadata 0.9.5, asterix-metadata 0.9.6, asterix-metadata 0.9.7, asterix-metadata 0.9.8, asterix-om 0.9.5, asterix-om 0.9.6, asterix-om 0.9.7, asterix-om 0.9.8, asterix-replication 0.9.5, asterix-replication 0.9.6, asterix-replication 0.9.7, asterix-replication 0.9.8, asterix-runtime 0.9.5, asterix-runtime 0.9.6, asterix-runtime 0.9.7, asterix-runtime 0.9.8, asterix-transactions 0.9.5, asterix-transactions 0.9.6, asterix-transactions 0.9.7, asterix-transactions 0.9.8, AutoValue Annotations 1.10.2, AWS Event Stream 1.0.1, AWS Java SDK :: Arns 2.17.218, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.17.218, AWS Java SDK :: Core :: Protocols :: Json Utils 2.17.218, AWS Java SDK :: Metrics Interface 2.17.218, AWS Java SDK :: Services :: Amazon S3 2.17.218, AWS Java SDK :: Third Party :: Jackson-core 2.17.218, AWS SDK for Go v1.42.53, AWS SDK for Java 1.12.402, AWS SDK for Java 2.17.218, aws/aws-sdk-go-v2 config/v1.13.1, aws/aws-sdk-go-v2 credentials/v1.8.0, aws/aws-sdk-go-v2 feature/ec2/imds/v1.10.0, aws/aws-sdk-go-v2 internal/configsources/v1.1.4, aws/aws-sdk-go-v2 internal/ini/v1.3.5, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.7.0, aws/aws-sdk-go-v2 service/kms/v1.14.0, aws/aws-sdk-go-v2 service/secretsmanager/v1.6.0, aws/aws-sdk-go-v2 service/ssm/v1.10.0, aws/aws-sdk-go-v2 service/sso/v1.9.0, aws/aws-sdk-go-v2 service/sts/v1.14.0, aws/aws-sdk-go-v2 v1.13.0, bgentry-speakeasy 0.1.0, blevesearch-segment v0.9.0, blevesearch/bleve-mapping-ui v0.4.0, blevesearch/geo 20220606-snapshot-aab42add, blevesearch/scorch_segment_api v1.0.0, blevesearch/scorch_segment_api v2.1.0, blevesearch/sear v0.0.5, blevesearch/upsidedown_store_api v1.0.1, btree v1.0.0, census-ecosystem/opencensus-go-exporter-aws 20200617-snapshot-c478e41e, census-instrumentation/opencensus-go v0.23.0, client_golang v1.12.1, client_golang v1.4.0, Cloud Storage API v1beta1 (revision 28) v1-rev20230617-2.0.0, cncf/udpa 20210930-snapshot-04548b0d, com.conversantmedia:disruptor 1.2.15, com.google.api.grpc:proto-google-common-protos 2.23.0, com.google.api.grpc:proto-google-iam-v1 1.18.0, commons-csv 1.9.0, commons-csv commons-csv-1.8, containerd/cgroups 20190919-snapshot-bf292b21, containerd/console 20180822-snapshot-c12b1e79, containerd/containerd v1.3.4, containerd/continuity 20200709-snapshot-daa8e1cc, containerd/fifo 20190321-snapshot-a9fb20d8, containerd/go-runc 20180910-snapshot-5a6d9f37, containerd/typeurl 20180627-snapshot-a93fcdb7, contrib.go.opencensus.io/exporter/stackdriver v0.13.8, Core functionality for the Reactor Netty library 1.0.28, CoreOS v0.2.0, couchbase-blance v0.1.1, couchbase-cbauth v0.1.1, couchbase-cbauth v0.1.2, couchbase-cbgt v1.2.4, couchbase-gocb v1.6.7, couchbase-gocb v2.2.2, couchbase-gocb v2.3.2, couchbase-gocb v2.3.5, couchbase-goutils 0, couchbase-goutils v0.1.2, couchbase-goxdcr v8.1.0-1168, couchbase-indexing 20230223-snapshot-9c83c09c, couchbase/couchstore v7.1.2-MP1, couchbase/go_n1ql 20220302-snapshot-0ed4bf93, couchbase/gocbcore v7.1.18, couchbase/gocbcore v9.1.10, couchbase/gocbcore v9.1.4, couchbase/moss v0.1.0, couchbase/moss v0.3.0, couchbase/nitro 20221007-snapshot-92d53613, couchbase/vellum v1.0.2, couchbaselabs/bleve v2.3.3, couchbaselabs/clog v0.1.0, couchbaselabs/gocbconnstr v1.0.4, Data Mapper for Jackson 1.9.14-atlassian-6, dimchansky/utfbom v1.1.1, Disruptor Framework 3.4.4, docker 20200319-snapshot-c7ad2b86, docker-go-units v0.4.0, docker-registry 2.7.1, doctrine v1.5.0, doctrine v3.0.0, envoyproxy/go-control-plane 20220324-snapshot-49ff2738, envoyproxy/protoc-gen-validate v0.1.0, erlang-otp 24.3.4.4, error-prone annotations 2.18.0, eslint-config-google 0.14.0, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fastutil 8.5.6, FindBugs jsr305 3.0.2, FlatBuffers 1.5.0, FlatBuffers 2.0.5, FlatBuffers v1.10.0, flatbuffers-java 1.6.0.3, folly v2020.09.07.00, forestdb v1.2, gapic-google-cloud-storage-v2 2.26.0-alpha, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, github.com/aws/smithy-go v1.10.0, github.com/blevesearch/vellum v1.0.7, github.com/blevesearch/vellum v1.0.8, github.com/blevesearch/zapx v11.3.1, github.com/blevesearch/zapx v11.3.4, github.com/blevesearch/zapx v12.3.1, github.com/blevesearch/zapx v12.3.4, github.com/blevesearch/zapx v13.3.1, github.com/blevesearch/zapx v13.3.4, github.com/blevesearch/zapx v14.3.1, github.com/blevesearch/zapx v14.3.4, github.com/blevesearch/zapx v15.3.1, github.com/blevesearch/zapx v15.3.4, github.com/containerd/ttrpc 20190828-snapshot-0e0f2287, Go programming language 20181002-snapshot, Go Testify v1.4.0, go-autorest autorest/adal/v0.9.18, go-autorest autorest/azure/auth/v0.5.11, go-autorest autorest/azure/cli/v0.4.5, go-autorest autorest/date/v0.3.0, go-autorest autorest/mocks/v0.4.1, go-autorest autorest/to/v0.4.0, go-autorest autorest/v0.11.24, go-autorest autorest/validation/v0.3.1, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-etcd 2.0.0, go-etcd v3.3.10, go-ini-ini v1.25.4, go-jose v2.6.0, go-systemd 20190321-snapshot-95778dfb, go-systemd v22.3.2, go.opentelemetry.io/proto otlp/v0.7.0, godebug v1.1.0, golang-github-docker-go-connections-dev 0.4.0, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-google-genproto-dev 0.0~git20171123.7f0da29, golang-mock v1.1.1, golang-mock v1.6.0, golang-sql/civil 20190719-snapshot-cb61b32a, golang/appengine v1.1.0, golang/appengine v1.6.7, golang/geo 20210211-snapshot-740aa86c, golang/glog 20160125-snapshot-23def4e6, Google Android Annotations Library 4.1.1.4, Google APIs Client Library for Java 2.2.0, Google App Engine extensions to the Google HTTP Client Library for Java. 1.43.3, Google Cloud Core 2.22.0, Google Cloud Storage 2.26.0, Google HTTP Client Library for Java 1.43.3, google-cloud-go analytics/v0.11.0, google-cloud-go area120/v0.5.0, google-cloud-go artifactregistry/v1.6.0, google-cloud-go asset/v1.5.0, google-cloud-go assuredworkloads/v1.5.0, google-cloud-go automl/v1.5.0, google-cloud-go bigquery/v1.42.0, google-cloud-go billing/v1.4.0, google-cloud-go binaryauthorization/v1.1.0, google-cloud-go cloudtasks/v1.5.0, google-cloud-go compute/v1.10.0, google-cloud-go datacatalog/v1.5.0, google-cloud-go dataflow/v0.6.0, google-cloud-go datalabeling/v0.5.0, google-cloud-go dataqna/v0.5.0, google-cloud-go datastore/v1.1.0, google-cloud-go datastream/v1.2.0, google-cloud-go dialogflow/v1.15.0, google-cloud-go documentai/v1.7.0, google-cloud-go domains/v0.6.0, google-cloud-go firestore/v1.5.0, google-cloud-go functions/v1.6.0, google-cloud-go gaming/v1.5.0, google-cloud-go gkeconnect/v0.5.0, google-cloud-go gkehub/v0.9.0, google-cloud-go iam/v0.4.0, google-cloud-go kms/v1.3.0, google-cloud-go language/v1.4.0, google-cloud-go lifesciences/v0.5.0, google-cloud-go mediatranslation/v0.5.0, google-cloud-go memcache/v1.4.0, google-cloud-go metastore/v1.5.0, google-cloud-go monitoring/v0.1.0, google-cloud-go networkconnectivity/v1.4.0, google-cloud-go notebooks/v1.2.0, google-cloud-go osconfig/v1.7.0, google-cloud-go oslogin/v1.4.0, google-cloud-go phishingprotection/v0.5.0, google-cloud-go privatecatalog/v0.5.0, google-cloud-go pubsub/v1.16.0, google-cloud-go pubsub/v1.3.1, google-cloud-go recommendationengine/v0.5.0, google-cloud-go recommender/v1.5.0, google-cloud-go redis/v1.7.0, google-cloud-go retail/v1.8.0, google-cloud-go scheduler/v1.4.0, google-cloud-go secretmanager/v1.6.0, google-cloud-go security/v1.7.0, google-cloud-go securitycenter/v1.13.0, google-cloud-go servicedirectory/v1.4.0, google-cloud-go speech/v1.6.0, google-cloud-go storage/v1.27.0, google-cloud-go talent/v1.1.0, google-cloud-go trace/v0.1.0, google-cloud-go v0.104.0, google-cloud-go v0.26.0, google-cloud-go videointelligence/v1.6.0, google-cloud-go webrisk/v1.4.0, google-cloud-go workflows/v1.6.0, google-gofuzz v1.0.0, google-gofuzz v1.2.0, google-gson 2.10, google-gson 2.10.1, google-guava v32.1.2, google-oauth-java-client 1.34.1, google/go-cloud secrets/hashivault/v0.24.0, google/go-cloud v0.24.0, google/go-replayers grpcreplay/v1.1.0, google/go-replayers httpreplay/v1.0.0, google/pprof 20210720-snapshot-4bb14d4b, google/renameio v0.1.0, google/subcommands v1.0.1, google/wire v0.5.0, googleapis/enterprise-certificate-proxy v0.1.0, googleapis/go-genproto 20200715-snapshot-c66870c0, googleapis/go-genproto 20220921-snapshot-23cae91e, googleapis/go-type-adapters v1.0.0, googleapis/google-cloud-java 2.22.0, GoogleCloudPlatform/cloudsql-proxy v1.24.0, googlecloudplatform/gcloud-golang v0.1.0, googlecloudplatform/gcloud-golang v0.3.0, googlecloudplatform/gcloud-golang v0.5.0, gosigar v1.3.4, goskiplist 20170622-snapshot, gotest.tools v2.2.0, gotest.tools v3.0.2, groupcache 20210331-snapshot-41bb18bf, grpc 1.28.1, grpc-go cmd/protoc-gen-go-grpc/v1.1.0, grpc-go v1.17.0, grpc-go v1.24.0, grpc-go v1.49.0, grpc-google-cloud-storage-v2 2.26.0-alpha, GSON extensions to the Google HTTP Client Library for Java. 1.43.3, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, hadoop-mapreduce-client-core 3.3.6, hogan.js 3.0.2, HTTP functionality for the Reactor Netty library 1.0.28, httpcomponents-core 4.4.15, hyracks-api 0.3.5, hyracks-api 0.3.6, hyracks-api 0.3.7, hyracks-api 0.3.8, hyracks-client 0.3.5, hyracks-client 0.3.6, hyracks-client 0.3.7, hyracks-client 0.3.8, hyracks-comm 0.3.5, hyracks-comm 0.3.6, hyracks-comm 0.3.7, hyracks-comm 0.3.8, hyracks-control-cc 0.3.5, hyracks-control-cc 0.3.6, hyracks-control-cc 0.3.7, hyracks-control-cc 0.3.8, hyracks-control-common 0.3.5, hyracks-control-common 0.3.6, hyracks-control-common 0.3.7, hyracks-control-common 0.3.8, hyracks-control-nc 0.3.5, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-control-nc 0.3.8, hyracks-data-std 0.3.5, hyracks-data-std 0.3.6, hyracks-data-std 0.3.7, hyracks-data-std 0.3.8, hyracks-dataflow-common 0.3.5, hyracks-dataflow-common 0.3.6, hyracks-dataflow-common 0.3.7, hyracks-dataflow-common 0.3.8, hyracks-dataflow-std 0.3.5, hyracks-dataflow-std 0.3.6, hyracks-dataflow-std 0.3.7, hyracks-dataflow-std 0.3.8, hyracks-hdfs 0.3.8, hyracks-http 0.3.5, hyracks-http 0.3.6, hyracks-http 0.3.7, hyracks-http 0.3.8, hyracks-ipc 0.3.5, hyracks-ipc 0.3.6, hyracks-ipc 0.3.7, hyracks-ipc 0.3.8, hyracks-net 0.3.5, hyracks-net 0.3.6, hyracks-net 0.3.7, hyracks-net 0.3.8, hyracks-storage-am-bloomfilter 0.3.5, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-bloomfilter 0.3.7, hyracks-storage-am-bloomfilter 0.3.8, hyracks-storage-am-btree 0.3.5, hyracks-storage-am-btree 0.3.6, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-btree 0.3.8, hyracks-storage-am-common 0.3.5, hyracks-storage-am-common 0.3.6, hyracks-storage-am-common 0.3.7, hyracks-storage-am-common 0.3.8, hyracks-storage-am-lsm-btree 0.3.5, hyracks-storage-am-lsm-btree 0.3.6, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-btree 0.3.8, hyracks-storage-am-lsm-common 0.3.5, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-common 0.3.7, hyracks-storage-am-lsm-common 0.3.8, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-invertedindex 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.7, hyracks-storage-am-lsm-invertedindex 0.3.8, hyracks-storage-am-lsm-rtree 0.3.5, hyracks-storage-am-lsm-rtree 0.3.6, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-lsm-rtree 0.3.8, hyracks-storage-am-rtree 0.3.5, hyracks-storage-am-rtree 0.3.6, hyracks-storage-am-rtree 0.3.7, hyracks-storage-am-rtree 0.3.8, hyracks-storage-common 0.3.5, hyracks-storage-common 0.3.6, hyracks-storage-common 0.3.7, hyracks-storage-common 0.3.8, hyracks-util 0.3.5, hyracks-util 0.3.6, hyracks-util 0.3.7, hyracks-util 0.3.8, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, io.grpc:grpc-alts 1.56.1, io.grpc:grpc-api 1.56.1, io.grpc:grpc-auth 1.56.1, io.grpc:grpc-context 1.56.1, io.grpc:grpc-core 1.56.1, io.grpc:grpc-googleapis 1.56.1, io.grpc:grpc-grpclb 1.56.1, io.grpc:grpc-netty-shaded 1.56.1, io.grpc:grpc-protobuf 1.56.1, io.grpc:grpc-protobuf-lite 1.56.1, io.grpc:grpc-rls 1.56.1, io.grpc:grpc-services 1.56.1, io.grpc:grpc-stub 1.56.1, io.grpc:grpc-xds 1.56.1, J2ObjC Annotations 2.8, Jackson 2 extensions to the Google HTTP Client Library for Java. 1.43.3, Jackson dataformats: Binary 2.12.6, jackson-annotations 2.14.0, jackson-annotations 2.14.1, jackson-core 1.9.14-atlassian-6, jackson-core 2.13.2, jackson-core 2.14.0, jackson-core 2.14.1, jackson-databind 2.14.0, jackson-databind 2.14.1, jackson-dataformat-xml 2.13.5, Jackson-Datatype-JSR310 2.13.5, Java Concurrency Tools Core Library 3.1.0, Java Native Access (JNA) 5.13.0, Java Native Access (JNA) 5.6.0, JCIP Annotations under Apache License 1.0-1, Jettison - Json Stax implementation 1.5.4, Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server 9.4.51.20230217, jhump/protoreflect v1.6.0, JMES Path Query library 1.12.402, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, Joda Time 2.8.1, json-smart 2.4.11, libcouchbase 3.2.3, libcouchbase 3.2.5, Log4J Commons Logging Bridge 2.19.0, Log4J Compatibility API 2.19.0, martian 20190517-snapshot-25dcb96d, martian v2.1.0, martian v3.2.1, matttproud-golang_protobuf_extensions v1.0.1, Metrics Core 3.2.4, Microsoft Windows Azure Storage Client SDK 8.6.6, Microsoft/tslib 1.11.1, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mschoch/smat v0.2.0, msgpack-core 0.8.20, msgpack-python 1.0.5, mwitkow/go-conntrack 20161129-snapshot-cc309e4a, mwitkow/go-conntrack 20190716-snapshot-2f068394, Netty Project 4.1.87.Final, Netty/Codec/Redis 4.1.87.Final, Netty/Codec/SMTP 4.1.87.Final, Netty/Handler/Ssl/Ocsp 4.1.87.Final, Netty/Resolver/DNS/Classes/MacOS 4.1.87.Final, Netty/Resolver/DNS/MacOS 4.1.87.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.56.Final, Netty/TomcatNative [OpenSSL - Classes] 2.0.56.Final, Netty/Transport/Classes/Epoll 4.1.87.Final, Netty/Transport/Classes/KQueue 4.1.87.Final, Netty/Transport/Native/KQueue 4.1.87.Final, Netty/Transport/Native/Unix/Common 4.1.87.Final, Nimbus Content Type 2.2, Nimbus LangTag 1.7, Nimbus-JOSE-JWT 9.30.2, OAuth 2.0 SDK with OpenID Connect extensions 10.7.1, oklog/run v1.1.0, OneOfOne/xxhash v1.2.2, OpenCensus 0.2.0, OpenCensus 0.2.1, OpenCensus 0.31.1, OpenCensus v0.3.0, opencensus-api 0.31.1, opencensus-integrations/ocsql v0.1.7, opencontainers-runtime-spec 20190507-snapshot-5b71a03e, opencontainers/go-digest 1.0.0, opencontainers/image-spec v1.0.1, OpenSSL 3.1.1, OpenTracing API 0.31.0, OpenTracing-noop 0.31.0, opentracing-opentracing-go 20180301-snapshot, opentracing-opentracing-go v1.2.0, org.conscrypt:conscrypt-openjdk-uber 2.5.2, perfmark:perfmark-api 0.26.0, Prometheus Java Simpleclient 0.14.1, Prometheus Java Simpleclient Common 0.14.1, Prometheus Java Span Context Supplier - Common 0.14.1, Prometheus Java Span Context Supplier - OpenTelemetry 0.14.1, Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.14.1, prometheus-client_model v0.2.0, prometheus-common v0.32.1, prometheus-common v0.9.1, prometheus-procfs v0.0.8, prometheus-procfs v0.7.3, prometheus/prometheus v2.23.0, proto-google-cloud-storage-v2 2.26.0-alpha, psf-requests 2.31.0, pyca/cryptography 38.0.4, pyOpenSSL 23.2.0, ReactiveX RxJS 6.5.3, reactor-core 3.4.27, reload4j 1.2.22, requests-toolbelt 1.0.0, RoaringBitmap-roaring v0.9.4, runc v0.1.1, RxJava 1.3.8, snappy 0.4, snappy-java 1.1.10.5, software.amazon.ion:ion-java 1.0.2, spdx-correct.js v3.1.1, spf13-afero v1.1.2, spf13-cobra 0.0.5, spf13-cobra 20170131-snapshot, spf13-cobra 20180521-snapshot-2da4a54c, tektoncd/cli v0.1.2, tklauser/go-sysconf 0.3.10, tklauser/numcpus 0.4.0, tpcds 1.2, validate-npm-package-license 3.0.4, Woodstox 6.4.0, yaml for Go 20200512-snapshot-9f266ea9, yaml for Go v2.2.2, yaml for Go v2.4.0, yaml for Go v3.0.1, Zero-allocation Hashing 0.9)
+(@humanwhocodes/config-array 0.5.0, [ini4j] 0.5.4, algebricks-common 0.3.5, algebricks-common 0.3.6, algebricks-common 0.3.7, algebricks-common 0.3.8, algebricks-compiler 0.3.5, algebricks-compiler 0.3.6, algebricks-compiler 0.3.7, algebricks-compiler 0.3.8, algebricks-core 0.3.5, algebricks-core 0.3.6, algebricks-core 0.3.7, algebricks-core 0.3.8, algebricks-data 0.3.5, algebricks-data 0.3.6, algebricks-data 0.3.7, algebricks-data 0.3.8, algebricks-rewriter 0.3.5, algebricks-rewriter 0.3.6, algebricks-rewriter 0.3.7, algebricks-rewriter 0.3.8, algebricks-runtime 0.3.5, algebricks-runtime 0.3.6, algebricks-runtime 0.3.7, algebricks-runtime 0.3.8, Apache Commons Codec 1.15, Apache Commons Collections 3.2.2, Apache Commons Collections 4.4, Apache Commons Compress 1.22, Apache Commons Compress 1.24.0, Apache Commons Configuration 2.8.0, Apache Commons IO 2.11.0, Apache Commons Lang 3.12.0, Apache Commons Logging 1.2, Apache Commons Text 1.10.0, Apache CouchDB customized, Apache Hadoop 3.3.6, Apache Hadoop Amazon Web Services support 3.3.6, Apache Hadoop Auth 3.3.6, Apache Hadoop Azure support 3.3.6, Apache HTTP transport v2 for the Google HTTP Client Library for Java. 1.43.3, Apache HttpClient 4.5.13, Apache Log4j 2.19.0, Apache Log4J API 2.19.0, Apache Log4j JUL Adapter 2.19.0, Apache Log4j SLF4J Binding 2.19.0, Apache Log4j Web Adapters 2.19.0, Apache Parquet Column 1.12.3, Apache Parquet Common 1.12.3, Apache Parquet Encodings 1.12.3, Apache Parquet Format Structures 1.12.3, Apache Parquet Hadoop 1.12.3, ASM based accessors helper used by json-smart 2.4.11, asterix-active 0.9.5, asterix-active 0.9.6, asterix-active 0.9.7, asterix-active 0.9.8, asterix-algebra 0.9.5, asterix-algebra 0.9.6, asterix-algebra 0.9.7, asterix-algebra 0.9.8, asterix-app 0.9.5, asterix-app 0.9.6, asterix-app 0.9.7, asterix-app 0.9.8, asterix-common 0.9.5, asterix-common 0.9.6, asterix-common 0.9.7, asterix-common 0.9.8, asterix-external-data 0.9.5, asterix-external-data 0.9.6, asterix-external-data 0.9.7, asterix-external-data 0.9.8, asterix-lang-aql 0.9.5, asterix-lang-aql 0.9.6, asterix-lang-common 0.9.5, asterix-lang-common 0.9.6, asterix-lang-common 0.9.7, asterix-lang-common 0.9.8, asterix-lang-sqlpp 0.9.5, asterix-lang-sqlpp 0.9.6, asterix-lang-sqlpp 0.9.7, asterix-lang-sqlpp 0.9.8, asterix-metadata 0.9.5, asterix-metadata 0.9.6, asterix-metadata 0.9.7, asterix-metadata 0.9.8, asterix-om 0.9.5, asterix-om 0.9.6, asterix-om 0.9.7, asterix-om 0.9.8, asterix-replication 0.9.5, asterix-replication 0.9.6, asterix-replication 0.9.7, asterix-replication 0.9.8, asterix-runtime 0.9.5, asterix-runtime 0.9.6, asterix-runtime 0.9.7, asterix-runtime 0.9.8, asterix-transactions 0.9.5, asterix-transactions 0.9.6, asterix-transactions 0.9.7, asterix-transactions 0.9.8, AutoValue Annotations 1.10.2, AWS Event Stream 1.0.1, AWS Java SDK :: Arns 2.17.218, AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.17.218, AWS Java SDK :: Core :: Protocols :: Json Utils 2.17.218, AWS Java SDK :: Metrics Interface 2.17.218, AWS Java SDK :: Services :: Amazon S3 2.17.218, AWS Java SDK :: Third Party :: Jackson-core 2.17.218, AWS SDK for Go v1.42.53, AWS SDK for Java 1.12.402, AWS SDK for Java 2.17.218, aws/aws-sdk-go-v2 config/v1.13.1, aws/aws-sdk-go-v2 credentials/v1.8.0, aws/aws-sdk-go-v2 feature/ec2/imds/v1.10.0, aws/aws-sdk-go-v2 internal/configsources/v1.1.4, aws/aws-sdk-go-v2 internal/ini/v1.3.5, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.7.0, aws/aws-sdk-go-v2 service/kms/v1.14.0, aws/aws-sdk-go-v2 service/secretsmanager/v1.6.0, aws/aws-sdk-go-v2 service/ssm/v1.10.0, aws/aws-sdk-go-v2 service/sso/v1.9.0, aws/aws-sdk-go-v2 service/sts/v1.14.0, aws/aws-sdk-go-v2 v1.13.0, bgentry-speakeasy 0.1.0, bleve v2.3.3, blevesearch-segment v0.9.0, blevesearch/bleve-mapping-ui v0.4.0, blevesearch/geo 20220606-snapshot-aab42add, blevesearch/scorch_segment_api v1.0.0, blevesearch/scorch_segment_api v2.1.0, blevesearch/sear v0.0.5, blevesearch/upsidedown_store_api v1.0.1, btree v1.0.0, census-ecosystem/opencensus-go-exporter-aws 20200617-snapshot-c478e41e, census-instrumentation/opencensus-go v0.23.0, client_golang v1.12.1, client_golang v1.4.0, Cloud Storage API v1beta1 (revision 28) v1-rev20230617-2.0.0, cncf/udpa 20210930-snapshot-04548b0d, com.conversantmedia:disruptor 1.2.15, com.google.api.grpc:proto-google-common-protos 2.23.0, com.google.api.grpc:proto-google-iam-v1 1.18.0, commons-csv 1.9.0, commons-csv commons-csv-1.8, containerd/cgroups 20190919-snapshot-bf292b21, containerd/console 20180822-snapshot-c12b1e79, containerd/containerd v1.3.4, containerd/continuity 20200709-snapshot-daa8e1cc, containerd/fifo 20190321-snapshot-a9fb20d8, containerd/go-runc 20180910-snapshot-5a6d9f37, containerd/typeurl 20180627-snapshot-a93fcdb7, contrib.go.opencensus.io/exporter/stackdriver v0.13.8, Core functionality for the Reactor Netty library 1.0.28, CoreOS v0.2.0, Couchbase v7.1.0, Couchbase v7.1.6, couchbase-blance v0.1.1, couchbase-cbauth v0.1.1, couchbase-cbauth v0.1.8, couchbase-cbgt v1.2.4, couchbase-goutils v0.1.2, couchbase-goxdcr v8.1.0-1168, couchbase-indexing 20230223-snapshot-9c83c09c, couchbase/couchstore v7.1.2-MP1, couchbase/gocbcore v7.1.18, couchbase/gocbcore v9.1.10, couchbase/gocbcore v9.1.4, couchbase/moss v0.1.0, couchbase/moss v0.3.0, couchbase/nitro 20221007-snapshot-92d53613, couchbase/vellum v1.0.2, couchbaselabs/gocbconnstr v1.0.4, Data Mapper for Jackson 1.9.14-atlassian-6, dimchansky/utfbom v1.1.1, Disruptor Framework 3.4.4, docker 20200319-snapshot-c7ad2b86, docker-go-units v0.4.0, docker-registry 2.7.1, doctrine v1.5.0, doctrine v3.0.0, envoyproxy/go-control-plane 20220324-snapshot-49ff2738, envoyproxy/protoc-gen-validate v0.1.0, erlang-otp 24.3.4.4, error-prone annotations 2.18.0, eslint-config-google 0.14.0, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fastutil 8.5.6, FindBugs jsr305 3.0.2, FlatBuffers 1.5.0, FlatBuffers 2.0.5, FlatBuffers v1.10.0, flatbuffers-java 1.6.0.3, folly v2020.09.07.00, forestdb v1.2, gapic-google-cloud-storage-v2 2.26.0-alpha, geocouch 20180430-snapshot-92def13f, geometry-api-java 2.0.0, github.com/aws/smithy-go v1.10.0, github.com/blevesearch/vellum v1.0.7, github.com/blevesearch/vellum v1.0.8, github.com/blevesearch/zapx v11.3.1, github.com/blevesearch/zapx v11.3.4, github.com/blevesearch/zapx v12.3.1, github.com/blevesearch/zapx v12.3.4, github.com/blevesearch/zapx v13.3.1, github.com/blevesearch/zapx v13.3.4, github.com/blevesearch/zapx v14.3.1, github.com/blevesearch/zapx v14.3.4, github.com/blevesearch/zapx v15.3.1, github.com/blevesearch/zapx v15.3.4, github.com/containerd/ttrpc 20190828-snapshot-0e0f2287, Go programming language 20181002-snapshot, Go Testify v1.4.0, go-autorest autorest/adal/v0.9.18, go-autorest autorest/azure/auth/v0.5.11, go-autorest autorest/azure/cli/v0.4.5, go-autorest autorest/date/v0.3.0, go-autorest autorest/mocks/v0.4.1, go-autorest autorest/to/v0.4.0, go-autorest autorest/v0.11.24, go-autorest autorest/validation/v0.3.1, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-etcd 2.0.0, go-etcd v3.3.10, go-ini-ini v1.25.4, go-jose v2.6.0, go-systemd 20190321-snapshot-95778dfb, go-systemd v22.3.2, go.opentelemetry.io/proto otlp/v0.7.0, gocb v1.6.7, gocb v2.2.2, gocb v2.3.2, gocb v2.3.5, godebug v1.1.0, golang-github-docker-go-connections-dev 0.4.0, golang-github-ryszard-goskiplist 0.0~git20150312.2dfbae5, golang-mock v1.1.1, golang-mock v1.6.0, golang-sql/civil 20190719-snapshot-cb61b32a, golang/appengine v1.1.0, golang/appengine v1.6.7, golang/geo 20210211-snapshot-740aa86c, golang/glog 20160125-snapshot-23def4e6, Google Android Annotations Library 4.1.1.4, Google APIs Client Library for Java 2.2.0, Google App Engine extensions to the Google HTTP Client Library for Java. 1.43.3, Google Cloud Core 2.22.0, Google Cloud Storage 2.26.0, Google HTTP Client Library for Java 1.43.3, google-cloud-go analytics/v0.11.0, google-cloud-go area120/v0.5.0, google-cloud-go artifactregistry/v1.6.0, google-cloud-go asset/v1.5.0, google-cloud-go assuredworkloads/v1.5.0, google-cloud-go automl/v1.5.0, google-cloud-go bigquery/v1.42.0, google-cloud-go billing/v1.4.0, google-cloud-go binaryauthorization/v1.1.0, google-cloud-go cloudtasks/v1.5.0, google-cloud-go compute/v1.10.0, google-cloud-go datacatalog/v1.5.0, google-cloud-go dataflow/v0.6.0, google-cloud-go datalabeling/v0.5.0, google-cloud-go dataqna/v0.5.0, google-cloud-go datastore/v1.1.0, google-cloud-go datastream/v1.2.0, google-cloud-go dialogflow/v1.15.0, google-cloud-go documentai/v1.7.0, google-cloud-go domains/v0.6.0, google-cloud-go firestore/v1.5.0, google-cloud-go functions/v1.6.0, google-cloud-go gaming/v1.5.0, google-cloud-go gkeconnect/v0.5.0, google-cloud-go gkehub/v0.9.0, google-cloud-go iam/v0.4.0, google-cloud-go kms/v1.3.0, google-cloud-go language/v1.4.0, google-cloud-go lifesciences/v0.5.0, google-cloud-go mediatranslation/v0.5.0, google-cloud-go memcache/v1.4.0, google-cloud-go metastore/v1.5.0, google-cloud-go monitoring/v0.1.0, google-cloud-go networkconnectivity/v1.4.0, google-cloud-go notebooks/v1.2.0, google-cloud-go osconfig/v1.7.0, google-cloud-go oslogin/v1.4.0, google-cloud-go phishingprotection/v0.5.0, google-cloud-go privatecatalog/v0.5.0, google-cloud-go pubsub/v1.16.0, google-cloud-go pubsub/v1.3.1, google-cloud-go recommendationengine/v0.5.0, google-cloud-go recommender/v1.5.0, google-cloud-go redis/v1.7.0, google-cloud-go retail/v1.8.0, google-cloud-go scheduler/v1.4.0, google-cloud-go secretmanager/v1.6.0, google-cloud-go security/v1.7.0, google-cloud-go securitycenter/v1.13.0, google-cloud-go servicedirectory/v1.4.0, google-cloud-go speech/v1.6.0, google-cloud-go storage/v1.27.0, google-cloud-go talent/v1.1.0, google-cloud-go trace/v0.1.0, google-cloud-go v0.1.0, google-cloud-go v0.104.0, google-cloud-go v0.26.0, google-cloud-go v0.3.0, google-cloud-go v0.5.0, google-cloud-go videointelligence/v1.6.0, google-cloud-go webrisk/v1.4.0, google-cloud-go workflows/v1.6.0, google-gofuzz v1.0.0, google-gofuzz v1.2.0, google-gson 2.10, google-gson 2.10.1, google-guava v32.1.2, google-oauth-java-client 1.34.1, google/go-cloud secrets/hashivault/v0.24.0, google/go-cloud v0.24.0, google/go-replayers grpcreplay/v1.1.0, google/go-replayers httpreplay/v1.0.0, google/pprof 20210720-snapshot-4bb14d4b, google/renameio v0.1.0, google/subcommands v1.0.1, google/wire v0.5.0, googleapis/enterprise-certificate-proxy v0.1.0, googleapis/go-genproto 20180120-snapshot, googleapis/go-genproto 20180130-snapshot, googleapis/go-genproto 20200715-snapshot-c66870c0, googleapis/go-genproto 20220921-snapshot-23cae91e, googleapis/go-type-adapters v1.0.0, googleapis/google-cloud-java 2.22.0, GoogleCloudPlatform/cloudsql-proxy v1.24.0, gosigar v1.3.4, goskiplist 20170622-snapshot, gotest.tools v2.2.0, gotest.tools v3.0.2, groupcache 20210331-snapshot-41bb18bf, grpc 1.28.1, grpc 1.56.1, grpc-go cmd/protoc-gen-go-grpc/v1.1.0, grpc-go v1.17.0, grpc-go v1.24.0, grpc-go v1.49.0, grpc-google-cloud-storage-v2 2.26.0-alpha, GSON extensions to the Google HTTP Client Library for Java. 1.43.3, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, hadoop-mapreduce-client-core 3.3.6, hogan.js 3.0.2, HTTP functionality for the Reactor Netty library 1.0.28, httpcomponents-core 4.4.15, hyracks-api 0.3.5, hyracks-api 0.3.6, hyracks-api 0.3.7, hyracks-api 0.3.8, hyracks-client 0.3.5, hyracks-client 0.3.6, hyracks-client 0.3.7, hyracks-client 0.3.8, hyracks-comm 0.3.5, hyracks-comm 0.3.6, hyracks-comm 0.3.7, hyracks-comm 0.3.8, hyracks-control-cc 0.3.5, hyracks-control-cc 0.3.6, hyracks-control-cc 0.3.7, hyracks-control-cc 0.3.8, hyracks-control-common 0.3.5, hyracks-control-common 0.3.6, hyracks-control-common 0.3.7, hyracks-control-common 0.3.8, hyracks-control-nc 0.3.5, hyracks-control-nc 0.3.6, hyracks-control-nc 0.3.7, hyracks-control-nc 0.3.8, hyracks-data-std 0.3.5, hyracks-data-std 0.3.6, hyracks-data-std 0.3.7, hyracks-data-std 0.3.8, hyracks-dataflow-common 0.3.5, hyracks-dataflow-common 0.3.6, hyracks-dataflow-common 0.3.7, hyracks-dataflow-common 0.3.8, hyracks-dataflow-std 0.3.5, hyracks-dataflow-std 0.3.6, hyracks-dataflow-std 0.3.7, hyracks-dataflow-std 0.3.8, hyracks-hdfs 0.3.8, hyracks-http 0.3.5, hyracks-http 0.3.6, hyracks-http 0.3.7, hyracks-http 0.3.8, hyracks-ipc 0.3.5, hyracks-ipc 0.3.6, hyracks-ipc 0.3.7, hyracks-ipc 0.3.8, hyracks-net 0.3.5, hyracks-net 0.3.6, hyracks-net 0.3.7, hyracks-net 0.3.8, hyracks-storage-am-bloomfilter 0.3.5, hyracks-storage-am-bloomfilter 0.3.6, hyracks-storage-am-bloomfilter 0.3.7, hyracks-storage-am-bloomfilter 0.3.8, hyracks-storage-am-btree 0.3.5, hyracks-storage-am-btree 0.3.6, hyracks-storage-am-btree 0.3.7, hyracks-storage-am-btree 0.3.8, hyracks-storage-am-common 0.3.5, hyracks-storage-am-common 0.3.6, hyracks-storage-am-common 0.3.7, hyracks-storage-am-common 0.3.8, hyracks-storage-am-lsm-btree 0.3.5, hyracks-storage-am-lsm-btree 0.3.6, hyracks-storage-am-lsm-btree 0.3.7, hyracks-storage-am-lsm-btree 0.3.8, hyracks-storage-am-lsm-common 0.3.5, hyracks-storage-am-lsm-common 0.3.6, hyracks-storage-am-lsm-common 0.3.7, hyracks-storage-am-lsm-common 0.3.8, hyracks-storage-am-lsm-invertedindex 0.3.5, hyracks-storage-am-lsm-invertedindex 0.3.6, hyracks-storage-am-lsm-invertedindex 0.3.7, hyracks-storage-am-lsm-invertedindex 0.3.8, hyracks-storage-am-lsm-rtree 0.3.5, hyracks-storage-am-lsm-rtree 0.3.6, hyracks-storage-am-lsm-rtree 0.3.7, hyracks-storage-am-lsm-rtree 0.3.8, hyracks-storage-am-rtree 0.3.5, hyracks-storage-am-rtree 0.3.6, hyracks-storage-am-rtree 0.3.7, hyracks-storage-am-rtree 0.3.8, hyracks-storage-common 0.3.5, hyracks-storage-common 0.3.6, hyracks-storage-common 0.3.7, hyracks-storage-common 0.3.8, hyracks-util 0.3.5, hyracks-util 0.3.6, hyracks-util 0.3.7, hyracks-util 0.3.8, inconshreveable/mousetrap 0.0~git20141017.0.76626ae, inconshreveable/mousetrap 1.0.0, io.grpc:grpc-alts 1.56.1, io.grpc:grpc-auth 1.56.1, io.grpc:grpc-context 1.56.1, io.grpc:grpc-googleapis 1.56.1, io.grpc:grpc-grpclb 1.56.1, io.grpc:grpc-netty-shaded 1.56.1, io.grpc:grpc-protobuf 1.56.1, io.grpc:grpc-protobuf-lite 1.56.1, io.grpc:grpc-rls 1.56.1, io.grpc:grpc-services 1.56.1, io.grpc:grpc-stub 1.56.1, io.grpc:grpc-xds 1.56.1, ion-java 1.0.2, J2ObjC Annotations 2.8, Jackson 2 extensions to the Google HTTP Client Library for Java. 1.43.3, Jackson dataformats: Binary 2.12.6, jackson-annotations 2.14.0, jackson-annotations 2.14.1, jackson-core 1.9.14-atlassian-6, jackson-core 2.13.2, jackson-core 2.14.0, jackson-core 2.14.1, jackson-databind 2.14.0, jackson-databind 2.14.1, jackson-dataformat-xml 2.13.5, Jackson-Datatype-JSR310 2.13.5, Java Concurrency Tools Core Library 3.1.0, Java Native Access (JNA) 5.13.0, Java Native Access (JNA) 5.6.0, JCIP Annotations under Apache License 1.0-1, Jettison - Json Stax implementation 1.5.4, Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server 9.4.51.20230217, jhump/protoreflect v1.6.0, JMES Path Query library 1.12.402, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, Joda Time 2.8.1, json-smart 2.4.11, libcouchbase 3.2.3, libcouchbase 3.2.5, Log4J Commons Logging Bridge 2.19.0, Log4J Compatibility API 2.19.0, martian 20190517-snapshot-25dcb96d, martian v2.1.0, martian v3.2.1, matttproud-golang_protobuf_extensions v1.0.1, Metrics Core 3.2.4, Microsoft Windows Azure Storage Client SDK 8.6.6, Microsoft/tslib 1.11.1, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mschoch/smat v0.2.0, msgpack-core 0.8.20, msgpack-python 1.0.5, mwitkow/go-conntrack 20161129-snapshot-cc309e4a, mwitkow/go-conntrack 20190716-snapshot-2f068394, Netty Project 4.1.87.Final, Netty/Codec/Redis 4.1.87.Final, Netty/Codec/SMTP 4.1.87.Final, Netty/Handler/Ssl/Ocsp 4.1.87.Final, Netty/Resolver/DNS/Classes/MacOS 4.1.87.Final, Netty/Resolver/DNS/MacOS 4.1.87.Final, Netty/TomcatNative [BoringSSL - Static] 2.0.56.Final, Netty/TomcatNative [OpenSSL - Classes] 2.0.56.Final, Netty/Transport/Classes/Epoll 4.1.87.Final, Netty/Transport/Classes/KQueue 4.1.87.Final, Netty/Transport/Native/KQueue 4.1.87.Final, Netty/Transport/Native/Unix/Common 4.1.87.Final, Nimbus Content Type 2.2, Nimbus LangTag 1.7, Nimbus-JOSE-JWT 9.30.2, OAuth 2.0 SDK with OpenID Connect extensions 10.7.1, oklog/run v1.1.0, OneOfOne/xxhash v1.2.2, OpenCensus 0.2.0, OpenCensus 0.2.1, OpenCensus 0.31.1, OpenCensus v0.3.0, opencensus-api 0.31.1, opencensus-integrations/ocsql v0.1.7, opencontainers-runtime-spec 20190507-snapshot-5b71a03e, opencontainers/go-digest 1.0.0, opencontainers/image-spec v1.0.1, OpenSSL 3.1.1, OpenTracing API 0.31.0, OpenTracing-noop 0.31.0, opentracing-opentracing-go 20180301-snapshot, opentracing-opentracing-go v1.2.0, org.conscrypt:conscrypt-openjdk-uber 2.5.2, perfmark:perfmark-api 0.26.0, Prometheus Java Simpleclient 0.14.1, Prometheus Java Simpleclient Common 0.14.1, Prometheus Java Span Context Supplier - Common 0.14.1, Prometheus Java Span Context Supplier - OpenTelemetry 0.14.1, Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.14.1, prometheus-client_model v0.2.0, prometheus-common v0.32.1, prometheus-common v0.9.1, prometheus-procfs v0.0.8, prometheus-procfs v0.7.3, prometheus/prometheus v2.23.0, proto-google-cloud-storage-v2 2.26.0-alpha, psf-requests 2.31.0, pyca/cryptography 38.0.4, pyOpenSSL 23.2.0, ReactiveX RxJS 6.5.3, reactor-core 3.4.27, reload4j 1.2.22, requests-toolbelt 1.0.0, RoaringBitmap-roaring v0.9.4, runc v0.1.1, RxJava 1.3.8, snappy 0.4, snappy-java 1.1.10.5, spdx-correct.js v3.1.1, spf13-afero v1.1.2, spf13-cobra 0.0.5, spf13-cobra 20170131-snapshot, spf13-cobra 20180521-snapshot-2da4a54c, tklauser/go-sysconf 0.3.10, tklauser/numcpus 0.4.0, tpcds 1.2, validate-npm-package-license 3.0.4, Woodstox 6.4.0, yaml for Go 20200512-snapshot-9f266ea9, yaml for Go v2.2.2, yaml for Go v2.4.0, yaml for Go v3.0.1, Zero-allocation Hashing 0.9)
 
 Apache License
 Version 2.0, January 2004
@@ -2028,7 +2033,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 2-clause "Simplified" License
-(HdrHistogram 2.1.8)
+(HdrHistogram 2.1.8, HdrHistogram_c 0.9.13)
 
 -----------------------------------------------------------------------------
 ** Beginning of "BSD 2-Clause License" text. **
@@ -3185,6 +3190,41 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ---
 
 BSD 3-clause "New" or "Revised" License
+(golang-google-grpc 1.6.0)
+
+Comment: Copy from golang-google-genproto package.
+
+License: BSD-3-clause
+
+Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are
+ met:
+ .
+     * Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer.
+     * Redistributions in binary form must reproduce the above
+       copyright notice, this list of conditions and the following disclaimer
+       in the documentation and/or other materials provided with the
+       distribution.
+     * Neither the name of Google Inc. nor the names of its
+       contributors may be used to endorse or promote products derived from
+       this software without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+ OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
 (blevesearch/snowballstem v0.9.0)
 
 Copyright (c) 2001, Dr Martin Porter
@@ -3743,7 +3783,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(gorilla/mux 1.7.4, gorilla/mux v1.8.0)
+(gorilla/mux v1.7.4, gorilla/mux v1.8.0)
 
 Copyright (c) 2012-2018 The Gorilla Authors. All rights reserved.
 
@@ -4320,7 +4360,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(zstd 1.5.0)
+(create-react-app 1.0.9, zstd 1.5.0)
 
 Copyright (c) 2016-present, Facebook, Inc. All rights reserved.
 
@@ -4487,7 +4527,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(_libgcc_mutex 0.1, ASM 9.3, bits-and-blooms/bitset v1.2.2, blackfriday v1.5.2, blevesearch/mmap-go v1.0.4, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate v1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, exp 20200223-snapshot-6cc2880d, exp 20220314-snapshot-43aec2f8, gajus/table 5.4.6, gajus/table v6.7.1, GAX (Google Api eXtensions) 2.32.0, glfw 20190408-snapshot-e6da0acd, glfw 20200222-snapshot-6f7a984d, Go programming language 1.19.13, Go programming language 1.20.8, Go support for Mobile devices 20190704-snapshot-d2bd2a29, go-zookeeper 20201211-snapshot-7117e9ea, Golang Protobuf v1.28.1, golang-github-grpc-grpc-go 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20180926-snapshot-505ab145, golang.org/x/crypto 20220511-snapshot-c6db032c, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20190308-snapshot-d0100b6b, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/mod 20211013-snapshot-c96bc141, golang.org/x/mod v0.8.0, golang.org/x/net 20180906-snapshot-161cd47e, golang.org/x/net 20220921-snapshot-d300de13, golang.org/x/net v0.8.0, golang.org/x/oauth2 20180821-snapshot-d2e62024, golang.org/x/oauth2 20220907-snapshot-f2134210, golang.org/x/sync 20190422-snapshot-11223019, golang.org/x/sync 20220601-snapshot-0de741cf, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20200323-snapshot-85ca7c5b, golang.org/x/sys 20211112-snapshot-0c823b97, golang.org/x/sys 20220917-snapshot-fb04ddd9, golang.org/x/sys v0.6.0, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/term v0.6.0, golang.org/x/time 20191023-snapshot-555d28b2, golang.org/x/time 20220204-snapshot-90d013bb, golang.org/x/tools 20180907-snapshot-90fa682c, golang.org/x/tools 20190517-snapshot-2c0ae700, golang.org/x/tools v0.1.9, golang.org/x/tools v0.6.0, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.12.0, golang/text v0.8.0, Google API Common 2.15.0, Google Auth Library for Java 1.19.0, Google V8 JavaScript Engine 11.4.185.1, google-snappy 1.1.10, google/go-cmp v0.5.9, googleapis/gax-go v2.5.1, googleapis/google-api-go-client v0.97.0, gopsutil v3.22.8, HdrHistogram_c 0.9.13, ianlancetaylor/demangle 20200824-snapshot-28f6c0f3, idna 3.4, jsdiff 4.0.2, jsdiff v5.0.0, libuuid 2.38.1, OpenJDK 11.0.19+7, PCRE 8.44, Protobuf 1.3.5, protobuf-java 3.23.2, Protocol Buffer Java Util Package 3.23.2, pyca/cryptography 38.0.4, PySocks 1.7.1, re2j 1.7, SSLMate/go-pkcs12 v0.2.1, ThreeTen backport 1.6.8, tklauser/go-sysconf 0.3.10, tklauser/numcpus 0.4.0, xgb 20160522-snapshot-27f12275, xsdlib 2013.6.1)
+(_libgcc_mutex 0.1, ASM 9.3, bits-and-blooms/bitset v1.2.2, blackfriday v1.5.2, blevesearch/mmap-go v1.0.4, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate 1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dustin's gojson 20180805-snapshot-af16e0e7, exp 20200223-snapshot-6cc2880d, exp 20220314-snapshot-43aec2f8, gajus/table 5.4.6, gajus/table v6.7.1, GAX (Google Api eXtensions) 2.32.0, glfw 20190408-snapshot-e6da0acd, glfw 20200222-snapshot-6f7a984d, Go programming language 1.19.13, Go programming language 1.20.8, Go support for Mobile devices 20190704-snapshot-d2bd2a29, go-zookeeper 20201211-snapshot-7117e9ea, Golang Protobuf v1.28.1, golang-github-grpc-grpc-go 1.18.0, golang-snappy-go-dev 20150731-snapshot-a911026e, golang.org/x/crypto 20180503-snapshot-c2843e01, golang.org/x/crypto 20180926-snapshot-505ab145, golang.org/x/crypto 20220511-snapshot-c6db032c, golang.org/x/crypto 20220722-snapshot-630584e8, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20190308-snapshot-d0100b6b, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/mod 20211013-snapshot-c96bc141, golang.org/x/mod v0.8.0, golang.org/x/net 20180906-snapshot-161cd47e, golang.org/x/net 20220921-snapshot-d300de13, golang.org/x/net v0.8.0, golang.org/x/oauth2 20180821-snapshot-d2e62024, golang.org/x/oauth2 20220907-snapshot-f2134210, golang.org/x/sync 20190422-snapshot-11223019, golang.org/x/sync 20220601-snapshot-0de741cf, golang.org/x/sys 0.6.0, golang.org/x/sys 20181221-snapshot-b4a75ba8, golang.org/x/sys 20200323-snapshot-85ca7c5b, golang.org/x/sys 20211112-snapshot-0c823b97, golang.org/x/sys 20220917-snapshot-fb04ddd9, golang.org/x/term 20210927-snapshot-03fcf44c, golang.org/x/term v0.6.0, golang.org/x/time 20191023-snapshot-555d28b2, golang.org/x/time 20220204-snapshot-90d013bb, golang.org/x/tools 20180907-snapshot-90fa682c, golang.org/x/tools 20190517-snapshot-2c0ae700, golang.org/x/tools v0.1.9, golang.org/x/tools v0.6.0, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.14.0, golang/text v0.8.0, Google API Common 2.15.0, Google Auth Library for Java 1.19.0, Google V8 JavaScript Engine 11.4.185.1, google-snappy 1.1.10, google/go-cmp v0.5.9, googleapis/gax-go v2.5.1, googleapis/google-api-go-client v0.97.0, gopsutil v3.22.8, ianlancetaylor/demangle 20200824-snapshot-28f6c0f3, idna 3.4, jsdiff 4.0.2, jsdiff v5.0.0, libuuid 2.38.1, PCRE 8.44, Protobuf 1.3.5, protobuf-java 3.23.2, Protocol Buffer Java Util Package 3.23.2, pyca/cryptography 38.0.4, PySocks 1.7.1, re2j 1.7, SSLMate/go-pkcs12 v0.4.0, ThreeTen backport 1.6.8, tklauser/go-sysconf 0.3.10, tklauser/numcpus 0.4.0, xgb 20160522-snapshot-27f12275, xsdlib 2013.6.1)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -5007,39 +5047,6 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 3-clause "New" or "Revised" License
-(golang-google-grpc 1.15.0)
-
-License: BSD-3-clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-     * Redistributions of source code must retain the above copyright
-       notice, this list of conditions and the following disclaimer.
-     * Redistributions in binary form must reproduce the above
-       copyright notice, this list of conditions and the following disclaimer
-       in the documentation and/or other materials provided with the
-       distribution.
-     * Neither the name of Google Inc. nor the names of its
-       contributors may be used to endorse or promote products derived from
-       this software without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
- "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
- LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
- A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
 (kisielk-gotool v1.0.0)
 
 License: BSD-3-clause
@@ -5385,7 +5392,7 @@ OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 Business Source License 1.1
-(couchbase platform v7.1.4-MP5, couchbase-clog v0.1.0, couchbase/cbft v0.5.0, couchbase/cbft, couchbase/n1fty 20230413-snapshot-f925ceeb, couchbase/n1fty, couchbaselabs-query, couchbaselabs/retriever 20220302-snapshot-295b1113)
+(couchbase platform v7.1.4-MP5, couchbase-clog v0.1.0, couchbase/cbft v0.5.0, couchbase/cbft, couchbase/n1fty 20230413-snapshot-f925ceeb, couchbase/n1fty, couchbase/retriever 20220302-snapshot-295b1113, couchbaselabs-query)
 
 Business Source License 1.1
 ===========================
@@ -6518,7 +6525,7 @@ Creative Commons may be contacted at creativecommons.org.
 ---
 
 Creative Commons Zero v1.0 Universal
-(HdrHistogram 2.1.8, LatencyUtils 2.0.3, reactive-streams 1.0.3, spdx-license-ids v3.0.5, type-fest 0.10.0, type-fest 0.20.2, type-fest 0.8.1)
+(HdrHistogram 2.1.8, HdrHistogram_c 0.9.13, LatencyUtils 2.0.3, reactive-streams 1.0.3, spdx-license-ids v3.0.5, type-fest 0.10.0, type-fest 0.20.2, type-fest 0.8.1)
 
 Creative Commons CC0 1.0 Universal
 ==================================
@@ -7247,7 +7254,7 @@ of this License.
 ---
 
 GNU General Public License v2.0 w/Classpath exception
-(javax.annotation API 1.3.2, jersey-json 1.20)
+(javax.annotation API 1.3.2, jersey-json 1.20, OpenJDK 11.0.19+7)
 
 GNU Classpath License
 =====================
@@ -10264,7 +10271,7 @@ PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(ca-certificates 2023.5.7, cacache 15.0.0, eslint-plugin-promise 4.2.1, jbcrypt 0.4, libuv 1.20.3, run-queue 1.0.3)
+(ca-certificates 2023.5.7, eslint-plugin-promise 4.2.1, jbcrypt 0.4, libuv 1.20.3, run-queue 1.0.3)
 
 ISC License (ISCL)
 ==================
@@ -10369,7 +10376,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(node-graceful-fs v4.2.3, node-graceful-fs v4.2.4)
+(node-graceful-fs 4.2.3, node-graceful-fs 4.2.4)
 
 The ISC License
 
@@ -10496,6 +10503,41 @@ License: ISC
 
 Files: debian/*
 Copyright: 2016, Pirate Praveen <praveen@debian.org>
+License: ISC
+
+License: ISC
+
+Permission to use, copy, modify, and/or distribute this software for any
+ purpose with or without fee is hereby granted, provided that the above
+ copyright notice and this permission notice appear in all copies.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+ WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+ MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+ WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
+
+---
+
+ISC License
+(cacache 15.0.0)
+
+Upstream-Contact: https://github.com/npm/cacache/issues
+Source: https://github.com/npm/cacache#readme
+
+Files: *
+Copyright: 2017 Kat Marchán <kzm@sykosomatic.org>
+License: ISC
+
+Files: figgy-pudding/*
+Copyright: npm, Inc.
+License: ISC
+
+Files: debian/*
+Copyright: 2017 Pirate Praveen <praveen@debian.org>
+ 2019 Xavier Guimard <yadd@debian.org>
 License: ISC
 
 License: ISC
@@ -12290,7 +12332,7 @@ MIT License
 (Lodash 3.3.0)
 
 Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>
-Based on Underscore.js 1.7.0, copyright 2009-2015 Jeremy Ashkenas,
+Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -12493,7 +12535,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(emoji-regex 7.0.3, emoji-regex v8.0.0, Go programming language 20181002-snapshot, jsesc v2.5.2, mathiasbynens/regenerate 1.4.0, Punycode.js v2.1.1, regenerate-unicode-properties 8.2.0, regexpu-core v4.7.0, unicode-canonical-property-names-ecmascript 1.0.4, unicode-match-property-ecmascript 1.0.4, unicode-match-property-value-ecmascript 1.2.0, unicode-property-aliases-ecmascript 1.1.0)
+(emoji-regex 7.0.3, emoji-regex v8.0.0, Go programming language 20181002-snapshot, jsesc v2.5.2, mathiasbynens/regenerate 1.4.0, Punycode.js 2.1.1, regenerate-unicode-properties 8.2.0, regexpu-core v4.7.0, unicode-canonical-property-names-ecmascript 1.0.4, unicode-match-property-ecmascript 1.0.4, unicode-match-property-value-ecmascript 1.2.0, unicode-property-aliases-ecmascript 1.1.0)
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
@@ -12744,36 +12786,6 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(go-logfmt-logfmt v0.5.0)
-
-Files: debian/*
-Copyright: 2017 Martín Ferrari <tincho@debian.org>
-License: Expat
-Comment: Debian packaging is licensed under the same terms as upstream
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
- of this software and associated documentation files (the "Software"), to deal
- in the Software without restriction, including without limitation the rights
- to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- copies of the Software, and to permit persons to whom the Software is
- furnished to do so, subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be included in all
- copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
 (GoDoc Text v0.1.0, GoDoc Text v0.2.0)
 
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
@@ -12963,7 +12975,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(@types/cacheable-request 6.0.1, @types/color-name 1.1.1, @types/estree 0.0.39, @types/http-cache-semantics 4.0.0, @types/parse-json 4.0.0, @types/responselike 1.0.0, parse-json 5.0.0)
+(@types/cacheable-request 6.0.1, @types/color-name 1.1.1, @types/estree 0.0.39, @types/http-cache-semantics 4.0.0, @types/keyv 3.1.1, @types/parse-json 4.0.0, @types/responselike 1.0.0, parse-json 5.0.0)
 
 MIT License
 
@@ -13137,7 +13149,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(eslint-config-airbnb-base 14.2.0)
+(airbnb javascript 14.2.0)
 
 MIT License
 
@@ -13326,7 +13338,7 @@ SOFTWARE
 ---
 
 MIT License
-(confusing-browser-globals 1.0.9, invariant 2.2.4)
+(invariant 2.2.4)
 
 MIT License
 
@@ -13491,7 +13503,7 @@ SOFTWARE
 ---
 
 MIT License
-(go-cli v2.3.0, urfave-cli 20180614-snapshot-7bc6a0ac)
+(urfave-cli v2.3.0)
 
 MIT License
 
@@ -13923,7 +13935,7 @@ SOFTWARE
 ---
 
 MIT License
-(snowpack 1.7.1)
+(snowpackjs/snowpack 1.7.1)
 
 MIT License
 
@@ -15107,7 +15119,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, @babel/preset-modules 0.1.3, @types/json5 0.0.29, @types/keyv 3.1.1, Animal Sniffer Annotations 1.23, array.prototype.flat 1.2.3, azure-identity 1.9.0, azure-storage-blob 12.22.0, Azure/azure-sdk-for-go sdk/azcore/v1.0.0, Azure/azure-sdk-for-go sdk/azidentity/v1.0.0, Azure/azure-sdk-for-go sdk/internal/v1.0.0, Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1, AzureAD/microsoft-authentication-library-for-go v0.5.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, cachedir 2.3.0, Checker Qual 3.33.0, clipboard.js 1.5.16, Clone 1.0.4, couchbase-gomemcached v0.2, delegate 3.2.0, dominikh/go-tools 20190523-snapshot-ea95bdfd, estree-walker 0.6.1, estree-walker 1.0.1, find-package-json 1.2.0, github.com/antihax/optional 1.0.0, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, glycerine/goconvey 20190410-snapshot-58a59202, Go Testify 1.8.0, go-jsonpointer 20140810-snapshot-75939f54, gobwas/pool v0.2.0, good-listener 1.2.2, JAXB isorelax library 20090621, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, libcxx 16.0.4, libicu 71.1, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.21.0, Microsoft Azure internal Avro module for Storage 12.7.0, Microsoft Azure Java Core Library 1.38.0, Microsoft Azure Java JSON Library 1.0.0, Microsoft Azure Netty HTTP Client Library 1.13.2, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.13.8, msal4j-persistence-extension 1.2.0, natsort 8.3.1, natural-compare 1.4.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, python cffi 1.15.1, python3-charset-normalizer 3.1.0, rollup-pluginutils 2.8.2, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, SLF4J Reload4j Binding 1.7.36, sn-2-ui-router-ng2 6.0.1, ugorji's go 20181211-snapshot-d75b2dcb, urllib3 2.0.2, wcwidth 1.0.1, yaml for Go v3.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/core 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, @babel/preset-modules 0.1.3, @types/json5 0.0.29, Animal Sniffer Annotations 1.23, array.prototype.flat 1.2.3, azure-identity 1.9.0, azure-storage-blob 12.22.0, Azure/azure-sdk-for-go sdk/azcore/v1.0.0, Azure/azure-sdk-for-go sdk/azidentity/v1.0.0, Azure/azure-sdk-for-go sdk/internal/v1.0.0, Azure/azure-sdk-for-go sdk/storage/azblob/v0.4.1, AzureAD/microsoft-authentication-library-for-go v0.5.0, Bouncy Castle 1.70, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.70, Checker Qual 3.33.0, clipboard.js 1.5.16, Clone 1.0.4, couchbase-gomemcached v0.2, delegate 3.2.0, dominikh/go-tools 20190523-snapshot-ea95bdfd, estree-walker 0.6.1, estree-walker 1.0.1, find-package-json 1.2.0, github.com/antihax/optional 1.0.0, github.com/yusufpapurcu/wmi v1.2.2, glycerine/go-unsnap-stream 0.0~git20180323.9f0cb55, glycerine/goconvey 20190410-snapshot-58a59202, Go Testify 1.8.0, go-jsonpointer 20140810-snapshot-75939f54, gobwas/pool v0.2.0, good-listener 1.2.2, JAXB isorelax library 20090621, js-beautify 1.14.3, jsoniter-go 20171115-snapshot-f7279a60, libcxx 16.0.4, libicu 71.1, Microsoft Azure client library for File Storage Data Lake 12.7.2, Microsoft Azure common module for Storage 12.21.0, Microsoft Azure internal Avro module for Storage 12.7.0, Microsoft Azure Java Core Library 1.38.0, Microsoft Azure Java JSON Library 1.0.0, Microsoft Azure Netty HTTP Client Library 1.13.2, Microsoft Azure SDK for Key Vault 1.2.4, msal4j 1.13.8, msal4j-persistence-extension 1.2.0, natsort 8.3.1, natural-compare 1.4.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, peterh/liner v1.2.0, python cffi 1.15.1, python3-charset-normalizer 3.1.0, rollup-pluginutils 2.8.2, sbinet liner master-20150202, select 1.1.2, SLF4J API Module 1.7.25, SLF4J Reload4j Binding 1.7.36, sn-2-ui-router-ng2 6.0.1, ugorji's go 20181211-snapshot-d75b2dcb, urfave-cli 20171014-snapshot-7bc6a0ac, urllib3 2.0.2, wcwidth 1.0.1, yaml for Go v3.0.1, youmark/pkcs8 20181117-snapshot-1be2e3e5, youmark/pkcs8 20201027-snapshot-1326539a)
 
 The MIT License
 ===============
@@ -15569,6 +15581,32 @@ THE SOFTWARE
 ---
 
 MIT License
+(node-cachedir 2.3.0)
+
+The MIT License (MIT)
+
+Copyright (c) 2013-2014, 2016, 2018 Linus Unnebäck
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (RamdaJs 0.28.0)
 
 The MIT License (MIT)
@@ -15782,7 +15820,7 @@ SOFTWARE
 ---
 
 MIT License
-(node-source-map-support v0.5.19)
+(node-source-map-support 0.5.19)
 
 The MIT License (MIT)
 
@@ -16078,7 +16116,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(github.com/spf13/jwalterweatherman v1.0.0, spf13-cast v1.3.0)
+(jWalterWeatherman v1.0.0, spf13-cast v1.3.0)
 
 The MIT License (MIT)
 
@@ -16444,6 +16482,33 @@ SOFTWARE
 ---
 
 MIT License
+(go-playground/validator v10.2.0)
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Dean Karn
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
 (color-name 1.1.3, color-name 1.1.4)
 
 The MIT License (MIT)
@@ -16783,7 +16848,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(go-logfmt-logfmt v0.4.0)
+(go-logfmt-logfmt v0.4.0, go-logfmt-logfmt v0.5.0)
 
 The MIT License (MIT)
 
@@ -16837,7 +16902,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(ajv v6.12.3)
+(ajv 6.12.3)
 
 The MIT License (MIT)
 
@@ -18082,7 +18147,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -18528,7 +18593,7 @@ SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(armon-consul-api 20180202-snapshot-eb2c6b5b, errwrap v1.1.0, Go CLI v1.0.0, go-immutable-radix v1.3.1, go-sql-driver v1.6.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.4.3, hashicorp-go-retryablehttp v0.7.0, hashicorp-go-rootcerts v1.0.2, hashicorp-go-uuid v1.0.2, hashicorp-go-version 1.4.0, hashicorp-golang-lru v0.5.1, hashicorp-golang-lru v0.5.4, hashicorp-yamux 20211028-snapshot-0bc27b27, hashicorp/go-kms-wrapping entropy/v0.1.0, hashicorp/go-sockaddr v1.0.2, hashicorp/hcl v1.0.0, python-certifi 2023.05.07, Vault by HashiCorp api/v1.3.1, Vault by HashiCorp sdk/v0.3.0)
+(armon-consul-api 20180202-snapshot-eb2c6b5b, errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib base62/v0.1.1, github.com/hashicorp/go-secure-stdlib mlock/v0.1.2, github.com/hashicorp/go-secure-stdlib parseutil/v0.1.2, github.com/hashicorp/go-secure-stdlib password/v0.1.1, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, github.com/hashicorp/go-secure-stdlib tlsutil/v0.1.1, Go CLI v1.0.0, go-immutable-radix v1.3.1, go-sql-driver v1.6.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.4.3, hashicorp-go-retryablehttp v0.7.0, hashicorp-go-rootcerts v1.0.2, hashicorp-go-uuid v1.0.2, hashicorp-go-version 1.4.0, hashicorp-golang-lru v0.5.1, hashicorp-golang-lru v0.5.4, hashicorp-yamux 20211028-snapshot-0bc27b27, hashicorp/go-kms-wrapping entropy/v0.1.0, hashicorp/go-sockaddr v1.0.2, hashicorp/hcl v1.0.0, python-certifi 2023.05.07, Vault by HashiCorp api/v1.3.1, Vault by HashiCorp sdk/v0.3.0)
 
 Mozilla Public License
 Version 2.0
@@ -19065,7 +19130,7 @@ PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 
 ---
 
-SSLeay License
+SSLeay License - standalone
 (OpenSSL 1.1.1u)
 
 SSLeay License
