@@ -12189,6 +12189,36 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
+(node-commondir 1.0.1)
+
+The MIT License
+
+Copyright (c) 2013 James Halliday (mail@substack.net)
+
+Permission is hereby granted, free of charge, 
+to any person obtaining a copy of this software and 
+associated documentation files (the "Software"), to 
+deal in the Software without restriction, including 
+without limitation the rights to use, copy, modify, 
+merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, and to permit persons to whom 
+the Software is furnished to do so, 
+subject to the following conditions:
+
+The above copyright notice and this permission notice 
+shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR 
+ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (foreach 2.0.5)
 
 The MIT License
@@ -14112,7 +14142,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(assemble/gray-matter 4.0.3, braces 2.3.2, micromatch 3.1.10, normalize-path 3.0.0)
+(assemble/gray-matter 4.0.3, braces 2.3.2, micromatch 3.1.10)
 
 The MIT License (MIT)
 
@@ -16462,7 +16492,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(ansi-regex 2.1.1, ansi-styles 2.2.1, caller-callsite 2.0.0, caller-path 2.0.0, callsites 2.0.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, has-ansi 2.0.0, import-cwd 2.1.0, import-fresh 2.0.0, import-from 2.1.0, import-lazy 2.1.0, ip-regex v2.1.0, is-absolute-url 2.1.0, is-binary-path 1.0.1, is-fullwidth-code-point 2.0.0, is-obj 1.0.1, is-plain-obj 1.1.0, is-regexp 1.0.0, is-wsl 1.1.0, lowercase-keys 1.0.1, p-finally 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, resolve-cwd 2.0.0, resolve-from 3.0.0, shebang-regex 1.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/slash 1.0.0, sindresorhus/supports-color 2.0.0, Strip ANSI 3.0.1, strip-eof 1.0.0, strip-json-comments 2.0.1)
+(ansi-regex 2.1.1, ansi-styles 2.2.1, caller-callsite 2.0.0, caller-path 2.0.0, callsites 2.0.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, has-ansi 2.0.0, import-cwd 2.1.0, import-fresh 2.0.0, import-from 2.1.0, import-lazy 2.1.0, ip-regex v2.1.0, is-absolute-url 2.1.0, is-binary-path 1.0.1, is-fullwidth-code-point 2.0.0, is-obj 1.0.1, is-plain-obj 1.1.0, is-regexp 1.0.0, is-wsl 1.1.0, lowercase-keys 1.0.1, object-assign 4.1.1, p-finally 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, path-key 2.0.1, pify 2.3.0, resolve-cwd 2.0.0, resolve-from 3.0.0, shebang-regex 1.0.0, sindresorhus/is-stream 1.1.0, sindresorhus/slash 1.0.0, sindresorhus/supports-color 2.0.0, Strip ANSI 3.0.1, strip-eof 1.0.0, strip-json-comments 2.0.1)
 
 The MIT License (MIT)
 
@@ -18159,6 +18189,45 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
+(normalize-path 3.0.0)
+
+Upstream-Contact: https://github.com/jonschlinkert/normalize-path/issues
+Source: https://github.com/jonschlinkert/normalize-path
+
+Files: *
+Copyright: 2014-2018, Jon Schlinkert (https://github.com/jonschlinkert)
+License: Expat
+
+Files: debian/*
+Copyright: 2016, Sruthi Chandran <srud@disroot.org>
+ 2019, Xavier Guimard <yadd@debian.org>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (http-errors 1.6.3)
 
 Upstream-Contact: https://github.com/jshttp/http-errors/issues
@@ -18784,44 +18853,6 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(object-assign 4.1.1)
-
-Upstream-Contact: https://github.com/sindresorhus/object-assign/issues
-Source: https://github.com/sindresorhus/object-assign#readme
-
-Files: *
-Copyright: Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-License: Expat
-
-Files: debian/*
-Copyright: 2016, Sruthi Chandran <srud@disroot.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
 (path-type 3.0.0)
 
 Upstream-Contact: https://github.com/sindresorhus/path-type/issues
@@ -19069,44 +19100,6 @@ License: Expat
 
 Files: debian/*
 Copyright: 2016 Thorsten Alteholz <debian@alteholz.de>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(node-commondir 1.0.1)
-
-Upstream-Contact: https://github.com/substack/node-commondir/issues
-Source: https://github.com/substack/node-commondir
-
-Files: *
-Copyright: 2016 James Halliday <mail@substack.net> (http://substack.net)
-License: Expat
-
-Files: debian/*
-Copyright: 2016 Pirate Praveen <praveen@debian.org>
 License: Expat
 
 License: Expat
