@@ -12874,7 +12874,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(locate-path 2.0.0, loose-envify 1.4.0, node-progress 2.0.3)
+(loose-envify 1.4.0, node-progress 2.0.3)
 
 License: Expat
 
@@ -17630,7 +17630,7 @@ SOFTWARE
 ---
 
 MIT License
-(cli-cursor 2.1.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, find-up 2.1.0, is-fullwidth-code-point 2.0.0, load-json-file 2.0.0, p-finally 1.0.0, p-try 1.0.0, parse-json 2.2.0, path-exists 3.0.0, path-is-absolute 1.0.1, pify 2.3.0, pkg-dir 2.0.0, pkg-up 2.0.0, read-pkg 2.0.0, read-pkg-up 2.0.0, restore-cursor 2.0.0, sindresorhus/onetime 2.0.1)
+(cli-cursor 2.1.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, find-up 2.1.0, is-fullwidth-code-point 2.0.0, load-json-file 2.0.0, locate-path 2.0.0, p-finally 1.0.0, p-try 1.0.0, parse-json 2.2.0, path-exists 3.0.0, path-is-absolute 1.0.1, pify 2.3.0, pkg-dir 2.0.0, pkg-up 2.0.0, read-pkg 2.0.0, read-pkg-up 2.0.0, restore-cursor 2.0.0, sindresorhus/onetime 2.0.1, strip-bom 3.0.0)
 
 The MIT License (MIT)
 
@@ -17662,6 +17662,33 @@ MIT License
 The MIT License (MIT)
 
 Copyright (c) Stephen Sugden <me@stephensugden.com> (stephensugden.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(require-from-string 2.0.2)
+
+The MIT License (MIT)
+
+Copyright (c) Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18026,44 +18053,6 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(require-from-string 2.0.2)
-
-Upstream-Contact: https://github.com/floatdrop/require-from-string/issues
-Source: https://github.com/floatdrop/require-from-string#readme
-
-Files: *
-Copyright: 2017 Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)
-License: Expat
-
-Files: debian/*
-Copyright: 2017 Pirate Praveen <praveen@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
 (braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
@@ -18277,44 +18266,6 @@ License: Expat
 
 Files: debian/*
 Copyright: 2016 Pirate Praveen <praveen@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(strip-bom 3.0.0)
-
-Upstream-Contact: https://github.com/sindresorhus/strip-bom/issues
-Source: https://github.com/sindresorhus/strip-bom#readme
-
-Files: *
-Copyright: 2016 Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-License: Expat
-
-Files: debian/*
-Copyright: 2016 Shanavas M <shanavas.m2@gmail.com>
 License: Expat
 
 License: Expat
