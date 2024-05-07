@@ -37,7 +37,7 @@
 35,github.com/agext/levenshtein,v1.2.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c7da6ad7-6f92-41ea-bb3f-020994719cd4,31035a4d-3410-4926-ae79-9703034b4613,7cae335f-1193-421e-92f1-8802b4243e93
 36,github.com/cncf/xds,20231128-snapshot-0fa0005c,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6f614a26-e346-4ba0-9ff4-ca0adcc5396e,e36ab816-7da2-4b23-a550-bdc83642193f,7cae335f-1193-421e-92f1-8802b4243e93
 37,github.com/hashicorp/hc-install,v0.6.4,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,602d7b8b-b27a-4581-8846-a22f9871cba0,e2fe7156-e335-4113-b921-5bbed741e186,ce3dd63e-c569-4cea-986a-46bc5efe9896
-38,github.com/hashicorp/terraform-plugin-docs,v0.19.0,Direct Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,d78ace15-8457-486a-849f-c5b1c5d38b97,47335428-2dd6-4bb1-83d8-48acc7c8b929,ce3dd63e-c569-4cea-986a-46bc5efe9896
+38,github.com/hashicorp/terraform-plugin-docs,v0.19.2,Direct Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,d78ace15-8457-486a-849f-c5b1c5d38b97,b1ceef97-59f1-4f42-b9a8-1677920c695d,ce3dd63e-c569-4cea-986a-46bc5efe9896
 39,github.com/hashicorp/terraform-plugin-framework-validators,v0.12.0,Direct Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,adc852c3-d241-409f-9700-fd59884dd6a3,3b2f8fb2-46e6-405c-ba25-dc0904ac3dd0,ce3dd63e-c569-4cea-986a-46bc5efe9896
 40,github.com/hashicorp/terraform-plugin-go,v0.22.1,Direct Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,e93f44ca-c60f-4cc1-950d-5c3c98cd7c89,88bc7e96-1c17-44fa-b2cf-7e73f07cde26,ce3dd63e-c569-4cea-986a-46bc5efe9896
 41,github.com/hashicorp/terraform-plugin-log,v0.9.0,Direct Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,b5a2fb59-f0c9-48f2-a381-f86abdcd574c,d7712792-8512-4995-8975-04161f863299,ce3dd63e-c569-4cea-986a-46bc5efe9896
@@ -123,7 +123,7 @@
 121,xanzy-ssh-agent,v0.3.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,061b5df1-98c4-432f-b6b8-3d4f5ce5c68b,3948bad5-6085-4898-ab76-5735b1d96d14,7cae335f-1193-421e-92f1-8802b4243e93
 122,yaml for Go,v2.3.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,45badf4c-c022-42ba-b294-b7193a79b6b8,5cf9c565-c611-4c1a-8579-125afcb5dcd0,7cae335f-1193-421e-92f1-8802b4243e93
 123,yaml for Go,v3.0.1,Transitive Dependency,(MIT License AND Apache License 2.0),PERMISSIVE,NOT_REVIEWED,45badf4c-c022-42ba-b294-b7193a79b6b8,5de17134-19f2-44cf-8bea-25d22c0ca4f9,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
-124,yuin/goldmark,v1.7.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,72389b5f-7d50-4c2d-95d5-b44736ffdc23,a89381c0-aec0-4223-b754-d0569968e204,ad705c59-6893-4980-bdbf-0837f1823cc4
+124,yuin/goldmark,v1.7.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,72389b5f-7d50-4c2d-95d5-b44736ffdc23,4a630578-04f7-4c9d-b3ac-fb2308681e1d,ad705c59-6893-4980-bdbf-0837f1823cc4
 125,yuin/goldmark-meta,v1.1.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f926ec42-44d6-4377-82e0-30dee73e7b40,50bbc070-9395-4789-a054-8e3320f048a8,ad705c59-6893-4980-bdbf-0837f1823cc4
 126,zclconf/go-cty,v1.14.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a752cd85-12ab-4ad8-a75e-dd34664012a6,2b06c56f-57e3-4ba9-a230-c954242ba48b,ad705c59-6893-4980-bdbf-0837f1823cc4
 127,zclconf/go-cty-debug,20191215-snapshot-b22d67c1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e41f5d40-fda5-4f26-bfc3-c9fd3111322a,896c9fa1-8404-4f95-ab6b-acdb73ba6a76,ad705c59-6893-4980-bdbf-0837f1823cc4
