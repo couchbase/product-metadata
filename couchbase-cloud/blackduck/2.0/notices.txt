@@ -972,8 +972,6 @@ bonjour-service 1.1.1 : MIT License
 boolbase 1.0.0 : ISC License
 brace-expansion 1.1.11 : MIT License
 brace-expansion 2.0.1 : MIT License
-braces 2.3.2 : MIT License
-braces 3.0.2 : MIT License
 bradleyjkemp/cupaloy v2.3.0 : MIT License
 brorand 1.1.0 : MIT License
 browser-assert 1.2.1 : MIT License
@@ -2544,6 +2542,8 @@ micromark-util-symbol 1.1.0 : MIT License
 micromark-util-types 1.1.0 : MIT License
 micromatch 3.1.0 : MIT License
 micromatch 4.0.5 : MIT License
+micromatch/braces 2.3.2 : MIT License
+micromatch/braces 3.0.2 : MIT License
 Microsoft-go-winio v0.6.1 : MIT License
 Microsoft-hcsshim v0.8.25 : MIT License
 microsoft/go-mssqldb v0.21.0 : BSD 3-clause "New" or "Revised" License
@@ -22033,7 +22033,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(braces 2.3.2, clone-deep 4.0.1)
+(clone-deep 4.0.1, micromatch/braces 2.3.2)
 
 The MIT License (MIT)
 
@@ -26413,7 +26413,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
