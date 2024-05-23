@@ -1,18 +1,17 @@
 ,Component name,Component version name,Match type,License names,License families,Review Status,Component id,Version id,License ids
-0,Jetbrains annotations,13.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,22950adc-2441-4363-8255-c660e82eff79,1a801cdc-2824-4610-a435-892093bc79a9,7cae335f-1193-421e-92f1-8802b4243e93
-1,Kotlin,1.8.22,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ecbf67e0-977b-40dd-830d-42c44c595a57,d5d2ac4e-8abb-4829-ad83-869a6aefab72,7cae335f-1193-421e-92f1-8802b4243e93
-2,OkHttp,4.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2b921d88-c1ab-4304-bf45-7110c1ca49f7,0c9a4005-ed69-46ff-8ff7-305e29e5ca32,7cae335f-1193-421e-92f1-8802b4243e93
-3,OkIO,3.6.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,92a62dae-28ba-467b-a999-60e889d11a58,83f55bed-9659-48b4-b28a-fea78a4858bd,7cae335f-1193-421e-92f1-8802b4243e93
-4,SQLite,3.43.0,Manually Added,Public Domain,PERMISSIVE,NOT_REVIEWED,302ca56c-2cf6-4cfd-9173-94c1ee2a44f7,9dd27bb5-f6b2-4526-bfd1-54f5422e9cff,d26bcb7d-5bc8-4f05-8942-a3a42728a2e4
-5,SQLiteCpp,2.0.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,603b3d54-1d5d-4236-835c-f0d178f50354,0e6cd4c4-5b0f-41c1-a212-4b60007a86c5,ad705c59-6893-4980-bdbf-0837f1823cc4
-6,couchbase-lite-core,3.3.0,Manually Added,Unknown License,UNKNOWN,NOT_REVIEWED,1e3f680b-0dd4-42fc-a3f9-b6a61cbea183,e4cfbef0-907c-49d5-8b6f-b83509881cb4,00000000-0010-0000-0000-000000000000
-7,jsonsl,20171103-snapshot-684b60f9,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,945f9005-9509-40f6-b912-c0b69a8f2ef1,efdac925-056b-4ebd-9a4d-b18103a053b4,ad705c59-6893-4980-bdbf-0837f1823cc4
-8,kotlin-stdlib-common,1.9.10,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,16459ffd-c8db-4bc7-8c93-df0da1a9808f,f57c6072-54e8-477f-845f-1f5d4466853d,7cae335f-1193-421e-92f1-8802b4243e93
-9,libb64,1.2.1,Manually Added,Creative Commons Public Domain Dedication and Certification,PERMISSIVE,NOT_REVIEWED,574849b1-902f-4367-a686-ca11c8815ba4,938fa296-f8ee-46b2-a3f0-a2eb23a77b31,bfbd4bfa-5f71-4a23-9a23-4ac267626b34
-10,libicu,71.1,Manually Added,(MIT License AND Public Domain AND Unicode Character Database Terms Of Use),PERMISSIVE,NOT_REVIEWED,a7441c50-9be3-493b-82ed-19666236acef,8c226365-ab65-43f9-943a-2c52ec080b58,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,ad705c59-6893-4980-bdbf-0837f1823cc4,92b7564a-4a43-4679-83cf-89261e16de72"
-11,libstemmer,0,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,2bb510eb-0940-4656-82fe-11631fbf2416,471f68ed-3576-4d75-a3f5-e5187f9f8433,3d238144-44e6-450e-b523-3defbdaed9dc
-12,mbed TLS,2.28.8,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,98e2dba0-77c4-402f-96f3-ceb702a6e6e7,e5a03635-081f-4f7a-96aa-24c7e8fbd12a,7cae335f-1193-421e-92f1-8802b4243e93
-13,org.jetbrains.kotlin:kotlin-stdlib-jdk7,1.8.22,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3e4fc317-4982-4a0a-a98a-1d5e937b05ac,a9943de1-dccd-4f6a-9766-a62458a6d5d3,7cae335f-1193-421e-92f1-8802b4243e93
-14,org.jetbrains.kotlin:kotlin-stdlib-jdk8,1.8.22,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,01443f31-8c0a-40a2-8fbf-213c8e786ca6,1f942dcc-89be-4457-8e02-dbd19fc9cd1a,7cae335f-1193-421e-92f1-8802b4243e93
-15,sqlite3-unicodesn,20160920-snapshot-af75748c,Manually Added,Public Domain,PERMISSIVE,NOT_REVIEWED,a44ae168-f007-4a28-9fc3-3052067f9f5a,0fd09ec5-d41c-4cfa-9fe9-fcc7644121e4,d26bcb7d-5bc8-4f05-8942-a3a42728a2e4
-16,zlib,v1.3.1,Manually Added,zlib License,PERMISSIVE,NOT_REVIEWED,b9185555-6e31-401e-b373-bfec7955a8ab,8a06482c-8810-4d2b-8883-13fb809d6045,7bf4506f-7531-4655-a4bf-e9deb4d2cc8e
+0,Kotlin,1.9.24,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ecbf67e0-977b-40dd-830d-42c44c595a57,740a691d-2ba6-4c34-9d12-105ed3c8c0a1,7cae335f-1193-421e-92f1-8802b4243e93
+1,OkHttp,4.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2b921d88-c1ab-4304-bf45-7110c1ca49f7,0c9a4005-ed69-46ff-8ff7-305e29e5ca32,7cae335f-1193-421e-92f1-8802b4243e93
+2,OkIO,3.6.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,92a62dae-28ba-467b-a999-60e889d11a58,83f55bed-9659-48b4-b28a-fea78a4858bd,7cae335f-1193-421e-92f1-8802b4243e93
+3,SQLite,3.43.0,Manually Added,Public Domain,PERMISSIVE,NOT_REVIEWED,302ca56c-2cf6-4cfd-9173-94c1ee2a44f7,9dd27bb5-f6b2-4526-bfd1-54f5422e9cff,d26bcb7d-5bc8-4f05-8942-a3a42728a2e4
+4,SQLiteCpp,2.0.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,603b3d54-1d5d-4236-835c-f0d178f50354,0e6cd4c4-5b0f-41c1-a212-4b60007a86c5,ad705c59-6893-4980-bdbf-0837f1823cc4
+5,couchbase-lite-core,3.3.0,Manually Added,Unknown License,UNKNOWN,NOT_REVIEWED,1e3f680b-0dd4-42fc-a3f9-b6a61cbea183,e4cfbef0-907c-49d5-8b6f-b83509881cb4,00000000-0010-0000-0000-000000000000
+6,jsonsl,20171103-snapshot-684b60f9,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,945f9005-9509-40f6-b912-c0b69a8f2ef1,efdac925-056b-4ebd-9a4d-b18103a053b4,ad705c59-6893-4980-bdbf-0837f1823cc4
+7,kotlin-stdlib-common,1.9.24,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,16459ffd-c8db-4bc7-8c93-df0da1a9808f,64352c0f-3284-4257-b438-6e49c79145a7,7cae335f-1193-421e-92f1-8802b4243e93
+8,libb64,1.2.1,Manually Added,Creative Commons Public Domain Dedication and Certification,PERMISSIVE,NOT_REVIEWED,574849b1-902f-4367-a686-ca11c8815ba4,938fa296-f8ee-46b2-a3f0-a2eb23a77b31,bfbd4bfa-5f71-4a23-9a23-4ac267626b34
+9,libicu,71.1,Manually Added,(MIT License AND Public Domain AND Unicode Character Database Terms Of Use),PERMISSIVE,NOT_REVIEWED,a7441c50-9be3-493b-82ed-19666236acef,8c226365-ab65-43f9-943a-2c52ec080b58,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,ad705c59-6893-4980-bdbf-0837f1823cc4,92b7564a-4a43-4679-83cf-89261e16de72"
+10,libstemmer,0,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,2bb510eb-0940-4656-82fe-11631fbf2416,471f68ed-3576-4d75-a3f5-e5187f9f8433,3d238144-44e6-450e-b523-3defbdaed9dc
+11,mbed TLS,2.28.8,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,98e2dba0-77c4-402f-96f3-ceb702a6e6e7,e5a03635-081f-4f7a-96aa-24c7e8fbd12a,7cae335f-1193-421e-92f1-8802b4243e93
+12,org.jetbrains.kotlin:kotlin-stdlib-jdk7,1.8.21,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3e4fc317-4982-4a0a-a98a-1d5e937b05ac,b5e9d5bc-da13-4cf3-8d85-e5a5b2adb366,7cae335f-1193-421e-92f1-8802b4243e93
+13,org.jetbrains.kotlin:kotlin-stdlib-jdk8,1.8.21,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,01443f31-8c0a-40a2-8fbf-213c8e786ca6,839ef2fb-4af1-4397-b595-6018a6f41f29,7cae335f-1193-421e-92f1-8802b4243e93
+14,sqlite3-unicodesn,20160920-snapshot-af75748c,Manually Added,Public Domain,PERMISSIVE,NOT_REVIEWED,a44ae168-f007-4a28-9fc3-3052067f9f5a,0fd09ec5-d41c-4cfa-9fe9-fcc7644121e4,d26bcb7d-5bc8-4f05-8942-a3a42728a2e4
+15,zlib,v1.3.1,Manually Added,zlib License,PERMISSIVE,NOT_REVIEWED,b9185555-6e31-401e-b373-bfec7955a8ab,8a06482c-8810-4d2b-8883-13fb809d6045,7bf4506f-7531-4655-a4bf-e9deb4d2cc8e
