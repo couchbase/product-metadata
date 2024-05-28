@@ -322,7 +322,7 @@
 320,OpenSSL,3.2.1,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cc8d0e2b-f88f-49c8-b42f-42626640f589,4fe26385-4bc9-429e-a1e7-c84608056222,7cae335f-1193-421e-92f1-8802b4243e93
 321,OpenTracing API,0.31.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5773c3b0-8c0c-478d-8b95-7718bde3dcf7,2b17cb84-9116-4856-afe7-8fb2f122384d,7cae335f-1193-421e-92f1-8802b4243e93
 322,OpenTracing-noop,0.31.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f797ed13-0aba-49e3-9ca2-be1c8aca7204,b5a7a90a-518a-41b6-9cba-02a34fc6eecc,7cae335f-1193-421e-92f1-8802b4243e93
-323,PCRE,8.44,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8c9723be-a23f-4974-9645-54c471aed433,5ecfafee-154d-4573-9335-0b29a6bb290f,3d238144-44e6-450e-b523-3defbdaed9dc
+323,PCRE,8.44,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,55d69c03-c8e9-4f39-af25-43f7b949b083,b888d79b-8adf-4b91-875e-cbbb688644e4,3d238144-44e6-450e-b523-3defbdaed9dc
 324,Prometheus Java Simpleclient,0.14.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d1e3f92a-1b37-4aa2-99e9-ee579ecab98f,b3e3da47-b02a-4073-833c-156cfb3d46d5,7cae335f-1193-421e-92f1-8802b4243e93
 325,Prometheus Java Simpleclient Common,0.14.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9a2e9df8-0dc1-4fde-9d96-0f7b8387d58c,86df4196-e7a1-4161-b977-46a4bcb85316,7cae335f-1193-421e-92f1-8802b4243e93
 326,Prometheus Java Span Context Supplier - Common,0.14.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3209a9b3-3f2a-48fe-b0b5-8bec69e1414e,eb38762d-4b32-486a-973d-eedbce788ecb,7cae335f-1193-421e-92f1-8802b4243e93
@@ -1096,8 +1096,8 @@
 1094,gotest.tools,v2.2.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f9374fc5-bb7b-4f06-b58c-a71a37867f9d,7b1db159-8b21-4c81-84c9-5d0c1178b60e,7cae335f-1193-421e-92f1-8802b4243e93
 1095,gotest.tools,v3.0.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f9374fc5-bb7b-4f06-b58c-a71a37867f9d,c5e460e6-9081-40cf-bcff-ebca59073b47,7cae335f-1193-421e-92f1-8802b4243e93
 1096,groupcache,20210331-snapshot-41bb18bf,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8aac6968-bb3d-4a2f-bbc0-ace502f6983f,9c9a8acd-076f-47c1-a54a-19ec7e34b0b5,7cae335f-1193-421e-92f1-8802b4243e93
-1097,grpc,1.56.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c1ff009-d3b6-4f0c-8c3c-fd810d1b8d5c,f39835f8-6b55-4d4b-8782-fc9bc5b21ebe,7cae335f-1193-421e-92f1-8802b4243e93
-1098,grpc,1.59.3,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c1ff009-d3b6-4f0c-8c3c-fd810d1b8d5c,e6e73358-d872-4072-9a04-d88117670e36,7cae335f-1193-421e-92f1-8802b4243e93
+1097,grpc,1.56.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d720ec74-66da-4af3-a909-a1e799f0727f,eac9c972-1a53-4e63-a224-751425b6aa43,7cae335f-1193-421e-92f1-8802b4243e93
+1098,grpc,1.59.3,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d720ec74-66da-4af3-a909-a1e799f0727f,5e498ad1-052c-4add-b5f1-368e6f11ebdf,7cae335f-1193-421e-92f1-8802b4243e93
 1099,grpc-ecosystem/go-grpc-middleware,v1.4.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,da5beda9-dbb4-465b-bfac-bd314fed1fb2,041d418e-d3fa-4c89-a0b7-6f9b2a7260f5,7cae335f-1193-421e-92f1-8802b4243e93
 1100,grpc-gateway,v1.16.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,470ec045-d07d-4722-961d-ebfe2ddb12aa,24be3106-bc99-4ca1-9734-a141c9db78a9,3d238144-44e6-450e-b523-3defbdaed9dc
 1101,grpc-gateway,v2.11.3,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,470ec045-d07d-4722-961d-ebfe2ddb12aa,3141e6b8-8c8a-4cc3-b249-a89770d571f2,3d238144-44e6-450e-b523-3defbdaed9dc
