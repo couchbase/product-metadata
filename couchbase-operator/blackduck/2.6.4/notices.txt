@@ -43,6 +43,7 @@ couchbaselabs/gocaves 20230329-snapshot-05e3ba4f : Apache License 2.0
 cpuguy83-go-md2man v2.0.3 : MIT License
 creack/pty v1.1.9 : MIT License
 diskv v2.0.1 : MIT License
+dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877 : BSD 3-clause "New" or "Revised" License
 dnaeon/go-vcr v1.2.0 : BSD 2-clause "Simplified" License
 dominikh/go-tools v0.0.1-2019.2.3 : MIT License
 dsnet/compress v0.0.1 : BSD 3-clause "New" or "Revised" License
@@ -1002,7 +1003,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(antlr 20230305-snapshot-8188dc53, bodgit/plumbing v1.3.0, bodgit/sevenzip v1.4.3, bodgit/windows v1.0.1, dsnet/compress v0.0.1, dsnet/golib 20180515-snapshot-1ea16677, evanphx/json-patch v5.7.0, exp 20231006-snapshot-7918f672, fsnotify-fsnotify v1.7.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, glfw 20190408-snapshot-e6da0acd, glfw 20191125-snapshot-12ad95a8, Go programming language 1.21.9, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf v1.32.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.18.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200130-snapshot-910be7a9, golang.org/x/mod v0.13.0, golang.org/x/net v0.20.0, golang.org/x/oauth2 v0.13.0, golang.org/x/sync v0.5.0, golang.org/x/sys v0.16.0, golang.org/x/term v0.16.0, golang.org/x/time v0.4.0, golang.org/x/tools v0.14.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/text v0.14.0, google/go-cmp v0.6.0, google/starlark-go 20231101-snapshot-556fd59b, google/uuid v1.5.0, googleapis/gax-go v2.12.0, googleapis/google-api-go-client v0.149.0, grpc-gateway v2.7.0, klauspost-compress v1.17.2, mergo v0.3.13, mergo v1.0.0, pierrec-lz4 v4.1.18, rogpeppe/go-internal v1.10.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, ulikunitz/xz v0.5.11, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
+(antlr 20230305-snapshot-8188dc53, bodgit/plumbing v1.3.0, bodgit/sevenzip v1.4.3, bodgit/windows v1.0.1, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dsnet/compress v0.0.1, dsnet/golib 20180515-snapshot-1ea16677, evanphx/json-patch v5.7.0, exp 20231006-snapshot-7918f672, fsnotify-fsnotify v1.7.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, glfw 20190408-snapshot-e6da0acd, glfw 20191125-snapshot-12ad95a8, Go programming language 1.21.9, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf v1.32.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.18.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200130-snapshot-910be7a9, golang.org/x/mod v0.13.0, golang.org/x/net v0.20.0, golang.org/x/oauth2 v0.13.0, golang.org/x/sync v0.5.0, golang.org/x/sys v0.16.0, golang.org/x/term v0.16.0, golang.org/x/time v0.4.0, golang.org/x/tools v0.14.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/text v0.14.0, google/go-cmp v0.6.0, google/starlark-go 20231101-snapshot-556fd59b, google/uuid v1.5.0, googleapis/gax-go v2.12.0, googleapis/google-api-go-client v0.149.0, grpc-gateway v2.7.0, klauspost-compress v1.17.2, mergo v0.3.13, mergo v1.0.0, pierrec-lz4 v4.1.18, rogpeppe/go-internal v1.10.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, ulikunitz/xz v0.5.11, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
