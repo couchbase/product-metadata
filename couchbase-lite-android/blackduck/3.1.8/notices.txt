@@ -5,17 +5,26 @@ Copyright 2024
 
 Components: 
 
+jsonsl 20171103-snapshot-684b60f9 : MIT License
 Kotlin 1.7.20 : Apache License 2.0
 kotlin-stdlib-common 1.7.20 : Apache License 2.0
+libb64 1.2.1 : Creative Commons Public Domain Dedication and Certification
+libicu 71.1 : (MIT License AND Public Domain AND Unicode Character Database Terms Of Use)
+libstemmer 0 : BSD 3-clause "New" or "Revised" License
+mbed TLS 2.28.5 : Apache License 2.0
 OkHttp 3.14.7 : Apache License 2.0
 OkIO 1.17.2 : Apache License 2.0
 org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.7.20 : Apache License 2.0
 org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.7.20 : Apache License 2.0
+SQLite 3.43.0 : Public Domain
+sqlite3-unicodesn 20160920-snapshot-af75748c : Public Domain
+SQLiteCpp 2.0.0 : MIT License
+zlib 1.2.13 : zlib License
 
 Licenses: 
 
 Apache License 2.0
-(Kotlin 1.7.20, kotlin-stdlib-common 1.7.20, OkHttp 3.14.7, OkIO 1.17.2, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.7.20, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.7.20)
+(Kotlin 1.7.20, kotlin-stdlib-common 1.7.20, mbed TLS 2.28.5, OkHttp 3.14.7, OkIO 1.17.2, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.7.20, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.7.20)
 
 Apache License
 Version 2.0, January 2004
@@ -198,4 +207,200 @@ third-party archives.
   distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
   KIND, either express or implied. See the License for the specific language
   governing permissions and limitations under the License.
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(libstemmer 0)
+
+Copyright (c) <YEAR>, <OWNER>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  * Neither the name of the <ORGANIZATION> nor the names of its contributors may
+    be used to endorse or promote products derived from this software without
+    specific prior written permission.
+
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+Creative Commons Public Domain Dedication and Certification
+(libb64 1.2.1)
+
+Creative Commons Public Domain Dedication
+=========================================
+
+Copyright-Only Dedication (based on United States law) or Public Domain
+Certification
+
+The person or persons who have associated work with this document (the
+"Dedicator" or "Certifier") hereby either
+
+  a.  certifies that, to the best of his knowledge, the work of authorship
+    identified is in the public domain of the country from which the work is
+    published, or
+
+  b.  hereby dedicates whatever copyright the dedicators holds in the work of
+    authorship identified below (the "Work") to the public domain.
+
+A certifier, moreover, dedicates any copyright interest he may have in the
+associated work, and for these purposes, is described as a "dedicator" below.
+
+A certifier has taken reasonable steps to verify the copyright status of this
+work. Certifier recognizes that his good faith efforts may not shield him from
+liability if in fact the work certified is not in the public domain.
+
+Dedicator makes this dedication for the benefit of the public at large and to the
+detriment of the Dedicator's heirs and successors. Dedicator intends this
+dedication to be an overt act of relinquishment in perpetuity of all present and
+future rights under copyright law, whether vested or contingent, in the Work.
+Dedicator understands that such relinquishment of all rights includes the
+relinquishment of all rights to enforce (by lawsuit or otherwise) those
+copyrights in the Work.
+
+Dedicator recognizes that, once placed in the public domain, the Work may be
+freely reproduced, distributed, transmitted, used, modified, built upon, or
+otherwise exploited by anyone for any purpose, commercial or non-commercial, and
+in any way, including by methods that have not yet been invented or conceived.
+
+---
+
+MIT License
+(jsonsl 20171103-snapshot-684b60f9, libicu 71.1)
+
+The MIT License
+===============
+
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+MIT License
+(SQLiteCpp 2.0.0)
+
+The MIT License (MIT)
+
+
+
+Copyright (c) 2012-2016 Sebastien Rombauts (sebastien.rombauts@gmail.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+Public Domain
+(libicu 71.1, SQLite 3.43.0, sqlite3-unicodesn 20160920-snapshot-af75748c)
+
+Public domain code is not subject to any license.
+
+---
+
+Unicode Character Database Terms Of Use
+(libicu 71.1)
+
+UCD Terms of Use
+================
+
+Disclaimer
+
+The Unicode Character Database is provided as is by Unicode, Inc. No claims are
+made as to fitness for any particular purpose. No warranties of any kind are
+expressed or implied. The recipient agrees to determine applicability of
+information provided. If this file has been purchased on magnetic or optical
+media from Unicode, Inc., the sole remedy for any claim will be exchange of
+defective media within 90 days of receipt.
+
+This disclaimer is applicable for all other data files accompanying the Unicode
+Character Database, some of which have been compiled by the Unicode Consortium,
+and some of which have been supplied by other sources.
+
+Limitations on Rights to Redistribute This Data
+
+Recipient is granted the right to make copies in any form for internal
+distribution and to freely use the information supplied in the creation of
+products supporting the UnicodeTM Standard. The files in the Unicode Character
+Database can be redistributed to third parties or other organizations (whether
+for profit or not) as long as this notice and the disclaimer notice are retained.
+Information can be extracted from these files and used in documentation or
+programs, as long as there is an accompanying notice indicating the source.
+
+---
+
+zlib License
+(zlib 1.2.13)
+
+The zlib/libpng License
+=======================
+
+Copyright (c) <year> <copyright holders>
+
+This software is provided 'as-is', without any express or implied warranty. In no
+event will the authors be held liable for any damages arising from the use of
+this software.
+
+Permission is granted to anyone to use this software for any purpose, including
+commercial applications, and to alter it and redistribute it freely, subject to
+the following restrictions:
+
+      1. The origin of this software must not be misrepresented; you must not
+      claim that you wrote the original software. If you use this software in a
+      product, an acknowledgment in the product documentation would be
+      appreciated but is not required.
+
+      2. Altered source versions must be plainly marked as such, and must not be
+      misrepresented as being the original software.
+
+      3. This notice may not be removed or altered from any source distribution.
 
