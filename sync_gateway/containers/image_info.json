@@ -1,0 +1,12 @@
+{
+    "github_repo": "couchbase/docker",
+    "query_tag": "3.0.4",
+    "eol_patterns": [
+        "^1\\.",
+        "^2\\."
+    ],
+    "absences": [{
+        "registry": "redhat",
+        "edition": "community"
+    }]
+}
