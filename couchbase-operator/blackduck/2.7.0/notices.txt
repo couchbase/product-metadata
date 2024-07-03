@@ -7,7 +7,7 @@ Components:
 
 alecthomas-kingpin v2.3.2 : MIT License
 alecthomas-units 20211218-snapshot-b94a6e3c : MIT License
-andybalholm/brotli v1.0.6 : MIT License
+andybalholm/brotli v1.0.4 : MIT License
 antlr 20230305-snapshot-8188dc53 : BSD 3-clause "New" or "Revised" License
 armon-go-metrics v0.4.1 : MIT License
 armon/go-socks5 20160902-snapshot-e7533296 : MIT License
@@ -22,9 +22,9 @@ benbjohnson-clock v1.1.0 : MIT License
 beorn7-perks v1.0.1 : MIT License
 blackfriday v2.1.0 : BSD 2-clause "Simplified" License
 blang-semver v4.0.0 : MIT License
-bodgit/plumbing v1.3.0 : BSD 3-clause "New" or "Revised" License
-bodgit/sevenzip v1.4.3 : BSD 3-clause "New" or "Revised" License
-bodgit/windows v1.0.1 : BSD 3-clause "New" or "Revised" License
+bodgit/plumbing v1.2.0 : BSD 3-clause "New" or "Revised" License
+bodgit/sevenzip v1.3.0 : BSD 3-clause "New" or "Revised" License
+bodgit/windows v1.0.0 : BSD 3-clause "New" or "Revised" License
 btree v1.1.2 : Apache License 2.0
 BurntSushi/toml v0.3.1 : MIT License
 cenkalti/backoff v4.2.1 : MIT License
@@ -75,7 +75,7 @@ github.com/sagikazarmark/slog-shim 0.1.0 : BSD 3-clause "New" or "Revised" Licen
 glfw 20190408-snapshot-e6da0acd : BSD 3-clause "New" or "Revised" License
 glfw 20191125-snapshot-12ad95a8 : BSD 3-clause "New" or "Revised" License
 go humanize 1.0.1 : MIT License
-Go programming language 1.22.2 : BSD 3-clause "New" or "Revised" License
+Go programming language 1.22.4 : BSD 3-clause "New" or "Revised" License
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.9.0 : MIT License
 go-ansiterm 20210617-snapshot-d185dfc1 : MIT License
@@ -109,7 +109,7 @@ go.etcd.io/bbolt v1.3.7 : MIT License
 go.opentelemetry.io/proto otlp/v0.19.0 : Apache License 2.0
 go.uber.org/goleak v1.2.1 : MIT License
 go.uber.org/multierr v1.11.0 : MIT License
-go4.org 20230225-snapshot-21486253 : Apache License 2.0
+go4.org 20200411-snapshot-f5505b97 : Apache License 2.0
 gocb v2.7.1 : Apache License 2.0
 goccy/go-yaml v1.11.3 : MIT License
 godebug v1.1.0 : Apache License 2.0
@@ -121,7 +121,7 @@ Golang Protobuf v1.5.3 : BSD 3-clause "New" or "Revised" License
 golang-github-ghodss-yaml-dev 1.0.0 : MIT License
 golang-github-magiconair-properties v1.8.7 : BSD 2-clause "Simplified" License
 golang-github-spf13-pflag-dev v1.0.5 : BSD 3-clause "New" or "Revised" License
-golang-mock v1.4.0 : Apache License 2.0
+golang-mock v1.4.3 : Apache License 2.0
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto v0.21.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/image 20190704-snapshot-cff245a6 : BSD 3-clause "New" or "Revised" License
@@ -294,7 +294,7 @@ k8s.io/utils 20230726-snapshot-3b25d923 : Apache License 2.0
 kisielk-gotool v1.0.0 : (MIT License AND BSD 3-clause "New" or "Revised" License)
 klauspost-compress v1.17.2 : BSD 3-clause "New" or "Revised" License
 klauspost-cpuid 1.2.0 : MIT License
-klauspost-pgzip v1.2.6 : MIT License
+klauspost-pgzip v1.2.5 : Expat License
 kr-fs v0.1.0 : BSD 3-clause "New" or "Revised" License
 kr/pretty v0.3.1 : MIT License
 kubernetes-sigs/apiserver-network-proxy konnectivity-client/v0.1.2 : Apache License 2.0
@@ -344,7 +344,7 @@ open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/o
 open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.49.0 : Apache License 2.0
 OpenCensus v0.4.1 : Apache License 2.0
 opentracing-opentracing-go 1.1.0 : Apache License 2.0
-pierrec-lz4 v4.1.18 : BSD 3-clause "New" or "Revised" License
+pierrec-lz4 v4.1.15 : BSD 3-clause "New" or "Revised" License
 pkg/browser 20210911-snapshot-681adbf5 : BSD 2-clause "Simplified" License
 pkg/errors v0.9.1 : BSD 2-clause "Simplified" License
 pmezard-go-difflib 20190219-snapshot-5d4384ee : Apache License 2.0
@@ -378,7 +378,7 @@ subosito/gotenv v1.6.0 : MIT License
 swag v0.22.4 : Apache License 2.0
 tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3 : MIT License
 uber-go/atomic v1.10.0 : MIT License
-ulikunitz/xz v0.5.11 : BSD 3-clause "New" or "Revised" License
+ulikunitz/xz v0.5.10 : BSD 3-clause "New" or "Revised" License
 xgb 20160522-snapshot-27f12275 : BSD 3-clause "New" or "Revised" License
 xhit/go-str2duration v2.1.0 : BSD 3-clause "New" or "Revised" License
 xiang90-probing 20190116-snapshot-43a291ad : MIT License
@@ -391,7 +391,7 @@ yuin/goldmark v1.4.13 : MIT License
 Licenses: 
 
 Apache License 2.0
-(AWS SDK for Go v1.47.3, btree v1.1.2, census-instrumentation/opencensus-go v0.24.0, client-go v0.28.3, client_golang v1.17.0, cncf/udpa 20220112-snapshot-c52dc94e, CoreOS v0.3.1, couchbase/gocbcore v10.3.1, couchbaselabs/gocaves 20230329-snapshot-05e3ba4f, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, gengo 20230829-snapshot-9cce18d5, github.com/cncf/xds 20231128-snapshot-0fa0005c, github.com/go-logr/zapr v1.3.0, github.com/moby/spdystream v0.2.0, github.com/nats-io/nkeys v0.4.7, go-etcd 3.5.12, go-etcd 3.5.9, go-ini-ini v1.67.0, go-logr/logr v1.4.1, go-logr/stdr v1.2.2, go-openapi/errors v0.20.4, go-openapi/jsonpointer v0.20.0, go-systemd v22.5.0, go.opentelemetry.io/proto otlp/v0.19.0, go4.org 20230225-snapshot-21486253, gocb v2.7.1, godebug v1.1.0, golang-mock v1.4.0, golang/appengine v1.6.8, golang/glog v1.2.0, gomodules/jsonpatch v2.4.0, google-cloud-go accessapproval/v1.7.5, google-cloud-go aiplatform/v1.60.0, google-cloud-go analytics/v0.23.0, google-cloud-go apigateway/v1.6.5, google-cloud-go apigeeconnect/v1.6.5, google-cloud-go appengine/v1.8.5, google-cloud-go area120/v0.8.5, google-cloud-go artifactregistry/v1.14.7, google-cloud-go asset/v1.17.2, google-cloud-go assuredworkloads/v1.11.5, google-cloud-go automl/v1.13.5, google-cloud-go bigquery/v1.59.1, google-cloud-go billing/v1.18.2, google-cloud-go binaryauthorization/v1.8.1, google-cloud-go certificatemanager/v1.7.5, google-cloud-go channel/v1.17.5, google-cloud-go cloudbuild/v1.15.1, google-cloud-go clouddms/v1.7.4, google-cloud-go cloudtasks/v1.12.6, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.24.0, google-cloud-go container/v1.31.0, google-cloud-go containeranalysis/v0.11.4, google-cloud-go datacatalog/v1.19.3, google-cloud-go dataflow/v0.9.5, google-cloud-go datafusion/v1.7.5, google-cloud-go datalabeling/v0.8.5, google-cloud-go dataplex/v1.14.2, google-cloud-go dataqna/v0.8.5, google-cloud-go datastore/v1.15.0, google-cloud-go datastream/v1.10.4, google-cloud-go deploy/v1.17.1, google-cloud-go dialogflow/v1.49.0, google-cloud-go dlp/v1.11.2, google-cloud-go documentai/v1.25.0, google-cloud-go domains/v0.9.5, google-cloud-go errorreporting/v0.3.0, google-cloud-go essentialcontacts/v1.6.6, google-cloud-go eventarc/v1.13.4, google-cloud-go filestore/v1.8.1, google-cloud-go firestore/v1.15.0, google-cloud-go functions/v1.16.0, google-cloud-go gkeconnect/v0.8.5, google-cloud-go gkehub/v0.14.5, google-cloud-go gsuiteaddons/v1.6.5, google-cloud-go iam/v1.1.6, google-cloud-go iap/v1.9.4, google-cloud-go ids/v1.4.5, google-cloud-go iot/v1.7.5, google-cloud-go kms/v1.15.7, google-cloud-go language/v1.12.3, google-cloud-go lifesciences/v0.9.5, google-cloud-go logging/v1.9.0, google-cloud-go longrunning/v0.5.5, google-cloud-go managedidentities/v1.6.5, google-cloud-go mediatranslation/v0.8.5, google-cloud-go memcache/v1.10.5, google-cloud-go metastore/v1.13.4, google-cloud-go monitoring/v1.18.0, google-cloud-go networkconnectivity/v1.14.4, google-cloud-go networkmanagement/v1.9.4, google-cloud-go notebooks/v1.11.3, google-cloud-go optimization/v1.6.3, google-cloud-go orchestration/v1.8.5, google-cloud-go orgpolicy/v1.12.1, google-cloud-go osconfig/v1.12.5, google-cloud-go oslogin/v1.13.1, google-cloud-go phishingprotection/v0.8.5, google-cloud-go policytroubleshooter/v1.10.3, google-cloud-go privatecatalog/v0.9.5, google-cloud-go pubsub/v1.36.1, google-cloud-go pubsublite/v1.8.1, google-cloud-go recommendationengine/v0.8.5, google-cloud-go recommender/v1.12.1, google-cloud-go redis/v1.14.2, google-cloud-go resourcemanager/v1.9.5, google-cloud-go resourcesettings/v1.6.5, google-cloud-go retail/v1.16.0, google-cloud-go run/v1.3.4, google-cloud-go scheduler/v1.10.6, google-cloud-go secretmanager/v1.11.5, google-cloud-go security/v1.15.5, google-cloud-go securitycenter/v1.24.4, google-cloud-go servicedirectory/v1.11.4, google-cloud-go shell/v1.7.5, google-cloud-go spanner/v1.56.0, google-cloud-go speech/v1.21.1, google-cloud-go storage/v1.38.0, google-cloud-go storagetransfer/v1.10.4, google-cloud-go talent/v1.6.6, google-cloud-go texttospeech/v1.7.5, google-cloud-go tpu/v1.6.5, google-cloud-go trace/v1.10.5, google-cloud-go translate/v1.10.1, google-cloud-go v0.112.1, google-cloud-go video/v1.20.4, google-cloud-go videointelligence/v1.11.5, google-cloud-go vmmigration/v1.7.5, google-cloud-go vpcaccess/v1.7.5, google-cloud-go webrisk/v1.9.5, google-cloud-go websecurityscanner/v1.6.5, google-cloud-go workflows/v1.12.4, google-gofuzz v1.2.0, google-shlex 20191202-snapshot-e7afc7fb, google/cel-go v0.16.1, google/gnostic-models 20230804-snapshot-c7be7c78, google/pprof 20210720-snapshot-4bb14d4b, google/renameio v0.1.0, google/s2a-go v0.1.7, googleapis/enterprise-certificate-proxy v0.3.2, googleapis/go-genproto 20240213-snapshot-012b6fc9, googleapis/go-genproto 20240311-snapshot-a219d849, googleapis/go-genproto 20240314-snapshot-6e1732d8, googleapis/google-cloud-go-testing 20210719-snapshot-1c9a4c67, groupcache 20210331-snapshot-41bb18bf, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-ecosystem/go-grpc-prometheus v1.2.0, grpc-go v1.62.1, inconshreveable/mousetrap v1.1.0, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, jonboulle-clockwork v0.2.2, jsonreference v0.20.2, k8s.io/cli-runtime v0.28.3, k8s.io/code-generator v0.28.3, k8s.io/kube-aggregator v0.28.3, k8s.io/kube-openapi 20231010-snapshot-2dd684a9, k8s.io/utils 20230726-snapshot-3b25d923, kubernetes-sigs/apiserver-network-proxy konnectivity-client/v0.1.2, kubernetes-sigs/structured-merge-diff v4.4.1, kubernetes/api v0.28.3, kubernetes/apiextensions-apiserver v0.28.3, kubernetes/apimachinery v0.28.3, kubernetes/apiserver v0.28.3, kubernetes/component-base v0.28.3, kubernetes/metrics v0.28.3, kustomize api/v0.15.0, kustomize kyaml/v0.15.0, martian v2.1.0, martian v3.3.2, matttproud-golang_protobuf_extensions v1.0.4, moby/term 20221205-snapshot-1aeaba87, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, nats-io-nuid v1.0.1, nats-io/nats.go v1.34.0, NYTimes-gziphandler v1.1.1, open-telemetry/opentelemetry-go exporters/otlp/internal/retry/v1.10.0, open-telemetry/opentelemetry-go exporters/otlp/otlptrace/otlptracegrpc/v1.10.0, open-telemetry/opentelemetry-go exporters/otlp/otlptrace/v1.10.0, open-telemetry/opentelemetry-go metric/v1.24.0, open-telemetry/opentelemetry-go sdk/v1.22.0, open-telemetry/opentelemetry-go trace/v1.24.0, open-telemetry/opentelemetry-go v1.24.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.49.0, open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.49.0, OpenCensus v0.4.1, opentracing-opentracing-go 1.1.0, pmezard-go-difflib 20190219-snapshot-5d4384ee, prometheus-client_model v0.5.0, prometheus-common v0.45.0, prometheus-procfs v0.12.0, sergi/go-diff v1.1.0, sigs.k8s.io/controller-runtime v0.16.3, sigs.k8s.io/json 20221116-snapshot-bc3834ca, sigs.k8s.io/yaml v1.4.0, soheilhy/cmux v0.1.5, spf13-afero v1.11.0, spf13-cobra 1.8.0, swag v0.22.4, yaml for Go v2.4.0, yaml for Go v3.0.1)
+(AWS SDK for Go v1.47.3, btree v1.1.2, census-instrumentation/opencensus-go v0.24.0, client-go v0.28.3, client_golang v1.17.0, cncf/udpa 20220112-snapshot-c52dc94e, CoreOS v0.3.1, couchbase/gocbcore v10.3.1, couchbaselabs/gocaves 20230329-snapshot-05e3ba4f, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, gengo 20230829-snapshot-9cce18d5, github.com/cncf/xds 20231128-snapshot-0fa0005c, github.com/go-logr/zapr v1.3.0, github.com/moby/spdystream v0.2.0, github.com/nats-io/nkeys v0.4.7, go-etcd 3.5.12, go-etcd 3.5.9, go-ini-ini v1.67.0, go-logr/logr v1.4.1, go-logr/stdr v1.2.2, go-openapi/errors v0.20.4, go-openapi/jsonpointer v0.20.0, go-systemd v22.5.0, go.opentelemetry.io/proto otlp/v0.19.0, go4.org 20200411-snapshot-f5505b97, gocb v2.7.1, godebug v1.1.0, golang-mock v1.4.3, golang/appengine v1.6.8, golang/glog v1.2.0, gomodules/jsonpatch v2.4.0, google-cloud-go accessapproval/v1.7.5, google-cloud-go aiplatform/v1.60.0, google-cloud-go analytics/v0.23.0, google-cloud-go apigateway/v1.6.5, google-cloud-go apigeeconnect/v1.6.5, google-cloud-go appengine/v1.8.5, google-cloud-go area120/v0.8.5, google-cloud-go artifactregistry/v1.14.7, google-cloud-go asset/v1.17.2, google-cloud-go assuredworkloads/v1.11.5, google-cloud-go automl/v1.13.5, google-cloud-go bigquery/v1.59.1, google-cloud-go billing/v1.18.2, google-cloud-go binaryauthorization/v1.8.1, google-cloud-go certificatemanager/v1.7.5, google-cloud-go channel/v1.17.5, google-cloud-go cloudbuild/v1.15.1, google-cloud-go clouddms/v1.7.4, google-cloud-go cloudtasks/v1.12.6, google-cloud-go compute/metadata/v0.2.3, google-cloud-go compute/v1.24.0, google-cloud-go container/v1.31.0, google-cloud-go containeranalysis/v0.11.4, google-cloud-go datacatalog/v1.19.3, google-cloud-go dataflow/v0.9.5, google-cloud-go datafusion/v1.7.5, google-cloud-go datalabeling/v0.8.5, google-cloud-go dataplex/v1.14.2, google-cloud-go dataqna/v0.8.5, google-cloud-go datastore/v1.15.0, google-cloud-go datastream/v1.10.4, google-cloud-go deploy/v1.17.1, google-cloud-go dialogflow/v1.49.0, google-cloud-go dlp/v1.11.2, google-cloud-go documentai/v1.25.0, google-cloud-go domains/v0.9.5, google-cloud-go errorreporting/v0.3.0, google-cloud-go essentialcontacts/v1.6.6, google-cloud-go eventarc/v1.13.4, google-cloud-go filestore/v1.8.1, google-cloud-go firestore/v1.15.0, google-cloud-go functions/v1.16.0, google-cloud-go gkeconnect/v0.8.5, google-cloud-go gkehub/v0.14.5, google-cloud-go gsuiteaddons/v1.6.5, google-cloud-go iam/v1.1.6, google-cloud-go iap/v1.9.4, google-cloud-go ids/v1.4.5, google-cloud-go iot/v1.7.5, google-cloud-go kms/v1.15.7, google-cloud-go language/v1.12.3, google-cloud-go lifesciences/v0.9.5, google-cloud-go logging/v1.9.0, google-cloud-go longrunning/v0.5.5, google-cloud-go managedidentities/v1.6.5, google-cloud-go mediatranslation/v0.8.5, google-cloud-go memcache/v1.10.5, google-cloud-go metastore/v1.13.4, google-cloud-go monitoring/v1.18.0, google-cloud-go networkconnectivity/v1.14.4, google-cloud-go networkmanagement/v1.9.4, google-cloud-go notebooks/v1.11.3, google-cloud-go optimization/v1.6.3, google-cloud-go orchestration/v1.8.5, google-cloud-go orgpolicy/v1.12.1, google-cloud-go osconfig/v1.12.5, google-cloud-go oslogin/v1.13.1, google-cloud-go phishingprotection/v0.8.5, google-cloud-go policytroubleshooter/v1.10.3, google-cloud-go privatecatalog/v0.9.5, google-cloud-go pubsub/v1.36.1, google-cloud-go pubsublite/v1.8.1, google-cloud-go recommendationengine/v0.8.5, google-cloud-go recommender/v1.12.1, google-cloud-go redis/v1.14.2, google-cloud-go resourcemanager/v1.9.5, google-cloud-go resourcesettings/v1.6.5, google-cloud-go retail/v1.16.0, google-cloud-go run/v1.3.4, google-cloud-go scheduler/v1.10.6, google-cloud-go secretmanager/v1.11.5, google-cloud-go security/v1.15.5, google-cloud-go securitycenter/v1.24.4, google-cloud-go servicedirectory/v1.11.4, google-cloud-go shell/v1.7.5, google-cloud-go spanner/v1.56.0, google-cloud-go speech/v1.21.1, google-cloud-go storage/v1.38.0, google-cloud-go storagetransfer/v1.10.4, google-cloud-go talent/v1.6.6, google-cloud-go texttospeech/v1.7.5, google-cloud-go tpu/v1.6.5, google-cloud-go trace/v1.10.5, google-cloud-go translate/v1.10.1, google-cloud-go v0.112.1, google-cloud-go video/v1.20.4, google-cloud-go videointelligence/v1.11.5, google-cloud-go vmmigration/v1.7.5, google-cloud-go vpcaccess/v1.7.5, google-cloud-go webrisk/v1.9.5, google-cloud-go websecurityscanner/v1.6.5, google-cloud-go workflows/v1.12.4, google-gofuzz v1.2.0, google-shlex 20191202-snapshot-e7afc7fb, google/cel-go v0.16.1, google/gnostic-models 20230804-snapshot-c7be7c78, google/pprof 20210720-snapshot-4bb14d4b, google/renameio v0.1.0, google/s2a-go v0.1.7, googleapis/enterprise-certificate-proxy v0.3.2, googleapis/go-genproto 20240213-snapshot-012b6fc9, googleapis/go-genproto 20240311-snapshot-a219d849, googleapis/go-genproto 20240314-snapshot-6e1732d8, googleapis/google-cloud-go-testing 20210719-snapshot-1c9a4c67, groupcache 20210331-snapshot-41bb18bf, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-ecosystem/go-grpc-prometheus v1.2.0, grpc-go v1.62.1, inconshreveable/mousetrap v1.1.0, jmespath-go-jmespath internal/testify/v1.5.1, jmespath-go-jmespath v0.4.0, jonboulle-clockwork v0.2.2, jsonreference v0.20.2, k8s.io/cli-runtime v0.28.3, k8s.io/code-generator v0.28.3, k8s.io/kube-aggregator v0.28.3, k8s.io/kube-openapi 20231010-snapshot-2dd684a9, k8s.io/utils 20230726-snapshot-3b25d923, kubernetes-sigs/apiserver-network-proxy konnectivity-client/v0.1.2, kubernetes-sigs/structured-merge-diff v4.4.1, kubernetes/api v0.28.3, kubernetes/apiextensions-apiserver v0.28.3, kubernetes/apimachinery v0.28.3, kubernetes/apiserver v0.28.3, kubernetes/component-base v0.28.3, kubernetes/metrics v0.28.3, kustomize api/v0.15.0, kustomize kyaml/v0.15.0, martian v2.1.0, martian v3.3.2, matttproud-golang_protobuf_extensions v1.0.4, moby/term 20221205-snapshot-1aeaba87, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, nats-io-nuid v1.0.1, nats-io/nats.go v1.34.0, NYTimes-gziphandler v1.1.1, open-telemetry/opentelemetry-go exporters/otlp/internal/retry/v1.10.0, open-telemetry/opentelemetry-go exporters/otlp/otlptrace/otlptracegrpc/v1.10.0, open-telemetry/opentelemetry-go exporters/otlp/otlptrace/v1.10.0, open-telemetry/opentelemetry-go metric/v1.24.0, open-telemetry/opentelemetry-go sdk/v1.22.0, open-telemetry/opentelemetry-go trace/v1.24.0, open-telemetry/opentelemetry-go v1.24.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.49.0, open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.49.0, OpenCensus v0.4.1, opentracing-opentracing-go 1.1.0, pmezard-go-difflib 20190219-snapshot-5d4384ee, prometheus-client_model v0.5.0, prometheus-common v0.45.0, prometheus-procfs v0.12.0, sergi/go-diff v1.1.0, sigs.k8s.io/controller-runtime v0.16.3, sigs.k8s.io/json 20221116-snapshot-bc3834ca, sigs.k8s.io/yaml v1.4.0, soheilhy/cmux v0.1.5, spf13-afero v1.11.0, spf13-cobra 1.8.0, swag v0.22.4, yaml for Go v2.4.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -1074,7 +1074,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(antlr 20230305-snapshot-8188dc53, bodgit/plumbing v1.3.0, bodgit/sevenzip v1.4.3, bodgit/windows v1.0.1, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dsnet/compress v0.0.1, dsnet/golib 20180515-snapshot-1ea16677, evanphx/json-patch v5.7.0, exp 20231006-snapshot-7918f672, fatih-color 1.14.1, fsnotify-fsnotify v1.7.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/sagikazarmark/slog-shim 0.1.0, glfw 20190408-snapshot-e6da0acd, glfw 20191125-snapshot-12ad95a8, Go programming language 1.22.2, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf v1.33.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.21.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200130-snapshot-910be7a9, golang.org/x/mod v0.13.0, golang.org/x/net v0.23.0, golang.org/x/oauth2 v0.18.0, golang.org/x/sync v0.6.0, golang.org/x/sys v0.18.0, golang.org/x/term v0.18.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.14.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/text v0.14.0, google/go-cmp v0.6.0, google/starlark-go 20231101-snapshot-556fd59b, google/uuid v1.6.0, googleapis/gax-go v2.12.3, googleapis/google-api-go-client v0.171.0, grpc-gateway v2.7.0, klauspost-compress v1.17.2, mattn-go-colorable 0.1.13, mergo v0.3.13, mergo v1.0.0, pierrec-lz4 v4.1.18, rogpeppe/go-internal v1.10.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, SSLMate/go-pkcs12 v0.4.0, ulikunitz/xz v0.5.11, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
+(antlr 20230305-snapshot-8188dc53, bodgit/plumbing v1.2.0, bodgit/sevenzip v1.3.0, bodgit/windows v1.0.0, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dsnet/compress v0.0.1, dsnet/golib 20180515-snapshot-1ea16677, evanphx/json-patch v5.7.0, exp 20231006-snapshot-7918f672, fatih-color 1.14.1, fsnotify-fsnotify v1.7.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/sagikazarmark/slog-shim 0.1.0, glfw 20190408-snapshot-e6da0acd, glfw 20191125-snapshot-12ad95a8, Go programming language 1.22.4, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf v1.33.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.21.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200130-snapshot-910be7a9, golang.org/x/mod v0.13.0, golang.org/x/net v0.23.0, golang.org/x/oauth2 v0.18.0, golang.org/x/sync v0.6.0, golang.org/x/sys v0.18.0, golang.org/x/term v0.18.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.14.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/text v0.14.0, google/go-cmp v0.6.0, google/starlark-go 20231101-snapshot-556fd59b, google/uuid v1.6.0, googleapis/gax-go v2.12.3, googleapis/google-api-go-client v0.171.0, grpc-gateway v2.7.0, klauspost-compress v1.17.2, mattn-go-colorable 0.1.13, mergo v0.3.13, mergo v1.0.0, pierrec-lz4 v4.1.15, rogpeppe/go-internal v1.10.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, SSLMate/go-pkcs12 v0.4.0, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1251,6 +1251,39 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 3-clause "New" or "Revised" License
+(ulikunitz/xz v0.5.10)
+
+const goLicense = `Copyright (c) 2009 The Go Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+   * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+   * Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
+---
+
+BSD 3-clause "New" or "Revised" License
 (client9/misspell v0.3.4)
 
 which are covered under a BSD License.
@@ -1364,6 +1397,35 @@ recipients of the licensed work to be provided by Licensor:
   3. To specify a Change Date.
 
   4. Not to modify this License in any other way.
+
+---
+
+Expat License
+(klauspost-pgzip v1.2.5)
+
+Expat License
+=============
+
+Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd
+                               and Clark Cooper
+Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -1503,6 +1565,31 @@ all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(andybalholm/brotli v1.0.4)
+
+Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
@@ -1840,7 +1927,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, andybalholm/brotli v1.0.6, armon-go-metrics v0.4.1, Azure/azure-sdk-for-go sdk/azcore/v1.8.0, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.5.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.2.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, fatih-color 1.14.1, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, github.com/go-kit/log v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/sagikazarmark/locafero v0.4.0, go humanize 1.0.1, Go Testify v1.9.0, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-toml v2.2.2, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/multierr v1.11.0, goccy/go-yaml v1.11.3, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.5.0, klauspost-pgzip v1.2.6, kr/pretty v0.3.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, PyYAML 6.0.1, sagikazarmark/crypt v0.19.0, Sirupsen/logrus v1.9.3, sourcegraph/conc v0.3.0, spf13-cast v1.6.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
+(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, armon-go-metrics v0.4.1, Azure/azure-sdk-for-go sdk/azcore/v1.8.0, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.5.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.2.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, fatih-color 1.14.1, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, github.com/go-kit/log v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/sagikazarmark/locafero v0.4.0, go humanize 1.0.1, Go Testify v1.9.0, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-toml v2.2.2, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/multierr v1.11.0, goccy/go-yaml v1.11.3, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.5.0, kr/pretty v0.3.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, PyYAML 6.0.1, sagikazarmark/crypt v0.19.0, Sirupsen/logrus v1.9.3, sourcegraph/conc v0.3.0, spf13-cast v1.6.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
