@@ -75,7 +75,7 @@ github.com/sagikazarmark/slog-shim 0.1.0 : BSD 3-clause "New" or "Revised" Licen
 glfw 20190408-snapshot-e6da0acd : BSD 3-clause "New" or "Revised" License
 glfw 20191125-snapshot-12ad95a8 : BSD 3-clause "New" or "Revised" License
 go humanize 1.0.1 : MIT License
-Go programming language 1.22.4 : BSD 3-clause "New" or "Revised" License
+Go programming language 1.22.5 : BSD 3-clause "New" or "Revised" License
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.9.0 : MIT License
 go-ansiterm 20210617-snapshot-d185dfc1 : MIT License
@@ -103,7 +103,7 @@ go-stack-stack v1.8.0 : MIT License
 go-systemd v22.5.0 : Apache License 2.0
 go-task/slim-sprig 20230315-snapshot-52ccab3e : MIT License
 go-toml v2.2.2 : MIT License
-go-viper v1.19.0 : 
+go-viper v1.19.0 : MIT License
 go-zap v1.26.0 : MIT License
 go.etcd.io/bbolt v1.3.7 : MIT License
 go.opentelemetry.io/proto otlp/v0.19.0 : Apache License 2.0
@@ -352,6 +352,7 @@ prometheus-client_model v0.5.0 : Apache License 2.0
 prometheus-common v0.45.0 : Apache License 2.0
 prometheus-procfs v0.12.0 : Apache License 2.0
 pty v1.1.1 : MIT License
+python-certifi 2024.7.4 : Mozilla Public License 2.0
 PyYAML 6.0.1 : MIT License
 robfig/cron v3.0.1 : MIT License
 rogpeppe/go-internal v1.10.0 : BSD 3-clause "New" or "Revised" License
@@ -1073,7 +1074,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(antlr 20230305-snapshot-8188dc53, bodgit/plumbing v1.2.0, bodgit/sevenzip v1.3.0, bodgit/windows v1.0.0, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dsnet/compress v0.0.1, dsnet/golib 20180515-snapshot-1ea16677, evanphx/json-patch v5.7.0, exp 20231006-snapshot-7918f672, fatih-color 1.14.1, fsnotify-fsnotify v1.7.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/sagikazarmark/slog-shim 0.1.0, glfw 20190408-snapshot-e6da0acd, glfw 20191125-snapshot-12ad95a8, Go programming language 1.22.4, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf v1.33.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.21.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200130-snapshot-910be7a9, golang.org/x/mod v0.13.0, golang.org/x/net v0.23.0, golang.org/x/oauth2 v0.18.0, golang.org/x/sync v0.6.0, golang.org/x/sys v0.18.0, golang.org/x/term v0.18.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.14.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/text v0.14.0, google/go-cmp v0.6.0, google/starlark-go 20231101-snapshot-556fd59b, google/uuid v1.6.0, googleapis/gax-go v2.12.3, googleapis/google-api-go-client v0.171.0, grpc-gateway v2.7.0, klauspost-compress v1.17.2, mattn-go-colorable 0.1.13, mergo v0.3.13, mergo v1.0.0, pierrec-lz4 v4.1.15, rogpeppe/go-internal v1.10.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, SSLMate/go-pkcs12 v0.4.0, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
+(antlr 20230305-snapshot-8188dc53, bodgit/plumbing v1.2.0, bodgit/sevenzip v1.3.0, bodgit/windows v1.0.0, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dsnet/compress v0.0.1, dsnet/golib 20180515-snapshot-1ea16677, evanphx/json-patch v5.7.0, exp 20231006-snapshot-7918f672, fatih-color 1.14.1, fsnotify-fsnotify v1.7.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/sagikazarmark/slog-shim 0.1.0, glfw 20190408-snapshot-e6da0acd, glfw 20191125-snapshot-12ad95a8, Go programming language 1.22.5, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf v1.33.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.21.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200130-snapshot-910be7a9, golang.org/x/mod v0.13.0, golang.org/x/net v0.23.0, golang.org/x/oauth2 v0.18.0, golang.org/x/sync v0.6.0, golang.org/x/sys v0.18.0, golang.org/x/term v0.18.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.14.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/text v0.14.0, google/go-cmp v0.6.0, google/starlark-go 20231101-snapshot-556fd59b, google/uuid v1.6.0, googleapis/gax-go v2.12.3, googleapis/google-api-go-client v0.171.0, grpc-gateway v2.7.0, klauspost-compress v1.17.2, mattn-go-colorable 0.1.13, mergo v0.3.13, mergo v1.0.0, pierrec-lz4 v4.1.15, rogpeppe/go-internal v1.10.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, SSLMate/go-pkcs12 v0.4.0, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1926,7 +1927,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, armon-go-metrics v0.4.1, Azure/azure-sdk-for-go sdk/azcore/v1.8.0, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.5.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.2.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, fatih-color 1.14.1, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, github.com/go-kit/log v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/sagikazarmark/locafero v0.4.0, go humanize 1.0.1, Go Testify v1.9.0, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-toml v2.2.2, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/multierr v1.11.0, goccy/go-yaml v1.11.3, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.5.0, kr/pretty v0.3.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, PyYAML 6.0.1, sagikazarmark/crypt v0.19.0, Sirupsen/logrus v1.9.3, sourcegraph/conc v0.3.0, spf13-cast v1.6.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
+(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, armon-go-metrics v0.4.1, Azure/azure-sdk-for-go sdk/azcore/v1.8.0, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.5.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.2.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, fatih-color 1.14.1, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, github.com/go-kit/log v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/sagikazarmark/locafero v0.4.0, go humanize 1.0.1, Go Testify v1.9.0, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-toml v2.2.2, go-viper v1.19.0, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/multierr v1.11.0, goccy/go-yaml v1.11.3, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.5.0, kr/pretty v0.3.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, PyYAML 6.0.1, sagikazarmark/crypt v0.19.0, Sirupsen/logrus v1.9.3, sourcegraph/conc v0.3.0, spf13-cast v1.6.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
@@ -2357,7 +2358,7 @@ SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(errwrap v1.1.0, go-immutable-radix v1.3.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-rootcerts v1.0.2, hashicorp-golang-lru v0.5.4, hashicorp/hcl v1.0.0)
+(errwrap v1.1.0, go-immutable-radix v1.3.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-rootcerts v1.0.2, hashicorp-golang-lru v0.5.4, hashicorp/hcl v1.0.0, python-certifi 2024.7.4)
 
 Mozilla Public License
 Version 2.0
