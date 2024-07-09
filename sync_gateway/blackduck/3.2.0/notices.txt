@@ -72,7 +72,7 @@ github.com/power-devops/perfstat 20210106-snapshot-5aafc221 : MIT License
 github.com/shoenig/go-m1cpu v0.1.6 : Mozilla Public License 2.0
 github.com/shoenig/test v0.6.4 : Mozilla Public License 2.0
 github.com/yusufpapurcu/wmi v1.2.3 : MIT License
-Go programming language 1.22.4 : BSD 3-clause "New" or "Revised" License
+Go programming language 1.22.5 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.9.0 : MIT License
 go-autorest autorest/adal/v0.9.23 : Apache License 2.0
 go-autorest autorest/date/v0.3.0 : Apache License 2.0
@@ -141,7 +141,7 @@ ianlancetaylor/demangle 20230524-snapshot-eabc099b : BSD 3-clause "New" or "Revi
 jmespath-go-jmespath internal/testify/v1.5.1 : Apache License 2.0
 jmespath-go-jmespath v0.4.0 : Apache License 2.0
 josharian/intern v1.0.0 : MIT License
-jpillora-backoff 1.0.0 : 
+jpillora-backoff 1.0.0 : MIT License
 jsoniter-go v1.1.12 : MIT License
 julienschmidt/httprouter v1.3.0 : BSD 3-clause "New" or "Revised" License
 kardianos-service v1.2.2 : zlib License
@@ -672,7 +672,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20230905-snapshot-92128663, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, Go programming language 1.22.4, Golang Protobuf v1.33.0, Golang Protobuf v1.5.4, golang.org/x/crypto v0.25.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.17.0, golang.org/x/net v0.27.0, golang.org/x/oauth2 v0.21.0, golang.org/x/sync v0.7.0, golang.org/x/term v0.22.0, golang.org/x/time v0.3.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text 0.16.0, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.11.0, gopsutil v3.23.10, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.3, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.22, rogpeppe/go-internal v1.11.0, tklauser/go-sysconf v0.3.12)
+(exp 20230905-snapshot-92128663, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, Go programming language 1.22.5, Golang Protobuf v1.33.0, Golang Protobuf v1.5.4, golang.org/x/crypto v0.25.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.17.0, golang.org/x/net v0.27.0, golang.org/x/oauth2 v0.21.0, golang.org/x/sync v0.7.0, golang.org/x/term v0.22.0, golang.org/x/time v0.3.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text 0.16.0, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.11.0, gopsutil v3.23.10, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.3, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.22, rogpeppe/go-internal v1.11.0, tklauser/go-sysconf v0.3.12)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1516,6 +1516,33 @@ MIT License
 The MIT License (MIT)
 
 Copyright (c) 2016-2017 Kenneth Shaw
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
+(jpillora-backoff 1.0.0)
+
+The MIT License (MIT)
+
+Copyright (c) 2017 Jaime Pillora
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
