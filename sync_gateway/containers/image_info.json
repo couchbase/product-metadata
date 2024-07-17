@@ -1,0 +1,11 @@
+{
+    "github_repo": "couchbase/docker",
+    "eol_patterns": [
+        "^1\\.",
+        "^2\\."
+    ],
+    "absences": [{
+        "registry": "redhat",
+        "edition": "community"
+    }]
+}
