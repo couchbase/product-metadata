@@ -1,8 +1,8 @@
 ,Component name,Component version name,Match type,License names,License families,Review Status,Component id,Version id,License ids
 0,Guava InternalFutureFailureAccess and InternalFutures,1.0.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,71ba0e56-32eb-4c4e-9cdc-c68e4b809911,87b54cc4-f37f-42fd-abf2-985872b8fdee,7cae335f-1193-421e-92f1-8802b4243e93
 1,HdrHistogram,2.1.12,Direct Dependency,"(BSD 2-clause ""Simplified"" License OR Creative Commons Zero v1.0 Universal OR Public Domain)",PERMISSIVE,NOT_REVIEWED,cb1dd6e6-4d90-4aff-9a45-2b8f6979e7cc,3bc817e9-60e6-449a-b0e4-fc2155157579,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,cc875133-df38-4806-9921-473e0ef01a87,a7c69599-62b6-4d06-9ec6-ea688c041c00"
-2,Jackson-datatype-jdk8,2.17.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93477a6b-05b7-4f6f-a576-818aba23378f,9c240fd8-c8d2-4b77-be63-6a4277363e5c,7cae335f-1193-421e-92f1-8802b4243e93
-3,Jackson-module-Afterburner,2.17.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eea33624-c4cb-4c71-8ef7-767642d1d611,187ca761-0bd8-4097-adbd-61b60080b497,7cae335f-1193-421e-92f1-8802b4243e93
+2,Jackson-datatype-jdk8,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93477a6b-05b7-4f6f-a576-818aba23378f,09da5860-7d8f-47e2-97cb-f3a8f815baa4,7cae335f-1193-421e-92f1-8802b4243e93
+3,Jackson-module-Afterburner,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eea33624-c4cb-4c71-8ef7-767642d1d611,667e456b-aa06-42ea-8d3f-3b05ac453a04,7cae335f-1193-421e-92f1-8802b4243e93
 4,Java Concurrency Tools Core Library,4.0.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ed9663f6-217e-4f90-9aa5-c74a02cc964c,bf53ed92-265c-42b2-958a-f22bc2cf5772,7cae335f-1193-421e-92f1-8802b4243e93
 5,Jetbrains annotations,13.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,22950adc-2441-4363-8255-c660e82eff79,1a801cdc-2824-4610-a435-892093bc79a9,7cae335f-1193-421e-92f1-8802b4243e93
 6,Kotlin,1.6.20,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ecbf67e0-977b-40dd-830d-42c44c595a57,46abd299-e674-4ca8-92b2-b2847aef2106,7cae335f-1193-421e-92f1-8802b4243e93
@@ -25,10 +25,10 @@
 23,io.grpc:grpc-protobuf-lite,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,30b551b8-5ad8-4b20-b3b2-cddf3ae2ec17,199498c3-0511-4300-a3c4-ba5d6f84b8c2,7cae335f-1193-421e-92f1-8802b4243e93
 24,io.grpc:grpc-stub,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5c46d8c5-43d4-4e35-8087-7a5bfbea89a6,40aa4546-52e7-448d-9dc3-c51bd6b46a8b,7cae335f-1193-421e-92f1-8802b4243e93
 25,io.grpc:grpc-util,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,47c10de0-ca43-4304-bc62-5781c9274d86,5d2f891f-7d82-4b44-899d-532a7f752aa6,7cae335f-1193-421e-92f1-8802b4243e93
-26,jackson-annotations,2.17.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,f89ce4a2-4c52-4dd6-823a-e2896ad849d5,7cae335f-1193-421e-92f1-8802b4243e93
-27,jackson-core,2.17.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,08ca7332-776a-4c83-a48e-78cce48c872b,7cae335f-1193-421e-92f1-8802b4243e93
-28,jackson-databind,2.17.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,0f058d2d-fc36-4262-8cf6-93d959630273,7cae335f-1193-421e-92f1-8802b4243e93
-29,jackson-module-kotlin,2.17.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,fd53a755-2db4-47f3-9e5f-68ea97161151,3d605eaf-cec9-4e37-910f-0c80e38e5323,7cae335f-1193-421e-92f1-8802b4243e93
+26,jackson-annotations,2.17.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,de6d70c3-6e81-4e22-802f-5afaf2ee1b10,7cae335f-1193-421e-92f1-8802b4243e93
+27,jackson-core,2.17.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,98fbcdc9-d251-404f-992a-7ae09c99a4b5,7cae335f-1193-421e-92f1-8802b4243e93
+28,jackson-databind,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,10465899-a07b-4a84-9b2e-634c7f0230b6,7cae335f-1193-421e-92f1-8802b4243e93
+29,jackson-module-kotlin,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,fd53a755-2db4-47f3-9e5f-68ea97161151,2fbce866-255d-496c-aba6-d0a459394b29,7cae335f-1193-421e-92f1-8802b4243e93
 30,kotlin-reflect,1.6.20,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bbe44ca0-89f6-498a-b307-20a6061a3724,a96361e2-e23e-4144-becf-0ad437fd7e79,7cae335f-1193-421e-92f1-8802b4243e93
 31,kotlin-stdlib-common,1.6.20,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,16459ffd-c8db-4bc7-8c93-df0da1a9808f,a1545834-d99b-4387-b43d-fa26970b1399,7cae335f-1193-421e-92f1-8802b4243e93
 32,kotlinx-coroutines-core,1.6.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a73a0472-e497-4877-b847-ad42d42d5ba3,bf9da8a1-22b0-4152-9e01-57a97b14b1ea,7cae335f-1193-421e-92f1-8802b4243e93
