@@ -1,0 +1,10 @@
+{
+    "dockerfiles": {
+        "docker": "docker/couchbase-operator/Dockerfile",
+        "redhat": "docker/couchbase-operator/Dockerfile.rhel"
+    },
+    "github_repo": "couchbase/couchbase-operator",
+    "eol_patterns": [
+        "^6\\."
+    ]
+}
