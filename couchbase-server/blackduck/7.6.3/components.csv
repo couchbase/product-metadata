@@ -402,7 +402,7 @@
 400,HtmlUnit,2.23,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,fd8b1603-1af3-401b-ab62-5517de25faf9,a86f9837-97f6-4450-b6a1-f83d86cb9651,7cae335f-1193-421e-92f1-8802b4243e93
 401,HtmlUnit Core JS,2.23,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,6e42b5dc-6a1c-4633-8ab6-2d9690f6c0d3,cdaf5266-8338-41ad-947b-322e7af754d2,ce3dd63e-c569-4cea-986a-46bc5efe9896
 402,HtmlUnit/htmlunit-neko,2.23,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,dbe32d89-3db3-4a59-83a5-902cc6455b97,606b9c52-da67-460d-bf0f-12c67fcb8cb5,7cae335f-1193-421e-92f1-8802b4243e93
-403,HyperSQL Database Engine,2.3.4,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,ca06b3e3-eceb-4d4a-bcc5-aa1c16196667,f8bbfa93-cebb-4ce9-9162-c5009bb7a167,3d238144-44e6-450e-b523-3defbdaed9dc
+403,HyperSQL Database Engine,2.3.4,Transitive Dependency,(Hsqldb License AND Hypersonic SQL License),PERMISSIVE,NOT_REVIEWED,ca06b3e3-eceb-4d4a-bcc5-aa1c16196667,f8bbfa93-cebb-4ce9-9162-c5009bb7a167,"c240d932-39e2-442a-8efa-d4ca7cfe5653,0b8ab429-a3be-436b-b91e-416b91bf3bb2"
 404,IAM Service Account Credentials API v1-rev1-1.18.0-rc,v1-rev20210326-1.32.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7887f6e4-653f-4e7d-ad1f-8b6122dabbe8,e364940f-ac11-4268-b6e7-658b017bee21,7cae335f-1193-421e-92f1-8802b4243e93
 405,J2EE Connector Architecture,1.5,Transitive Dependency,Common Development and Distribution License 1.0,WEAK_RECIPROCAL,NOT_REVIEWED,e7d53825-999f-4698-ba29-66f655410473,0dec3672-957d-4e34-ad4d-d45d60412d75,0179ff68-705a-450b-89eb-c3581199c2e7
 406,J2ObjC Annotations,2.8,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,68f02bba-b8bf-4ff1-8690-2a497ce37818,b592697e-638b-430d-86b5-4bcfa8f83397,7cae335f-1193-421e-92f1-8802b4243e93
@@ -578,7 +578,7 @@
 576,OpenHFT/Java-Runtime-Compiler,2.2.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4ffba022-32b6-4737-9b43-759a2df783cf,d0a8e614-c70d-4a1c-a03c-d920127dc798,7cae335f-1193-421e-92f1-8802b4243e93
 577,OpenHFT/Java-Thread-Affinity,2.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7931a3f9-3f31-4545-9e5e-191f6b171d2d,99737ddd-87db-47b2-9861-062757162516,7cae335f-1193-421e-92f1-8802b4243e93
 578,OpenHTF/Java-Chronicle,3.4.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,50159d3c-4f38-4b52-a2bf-bdf6e8d46299,fc58f5ef-1699-47a8-9d1b-7f15af643651,7cae335f-1193-421e-92f1-8802b4243e93
-579,OpenJDK,jdk-17.0.11-ga,Manually Added,GNU General Public License v2.0 only,RECIPROCAL,NOT_REVIEWED,324fb534-b708-4c94-95d0-25335b546471,90af93fe-4b7c-43cb-b86d-55a8ec18640d,0289ba34-8fe7-41db-82e0-49c28b9c2414
+579,OpenJDK,jdk-17.0.11-ga,Manually Added,GNU General Public License v2.0 only,RECIPROCAL,REVIEWED,324fb534-b708-4c94-95d0-25335b546471,90af93fe-4b7c-43cb-b86d-55a8ec18640d,0289ba34-8fe7-41db-82e0-49c28b9c2414
 580,OpenJPA Aggregate Jar,2.4.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,599c2c24-3c06-4250-b765-b761daae0ffd,8793ae7f-a452-47a5-b5bb-cb130cc5f4d4,7cae335f-1193-421e-92f1-8802b4243e93
 581,OpenSAML 2.0,3.4.6,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7a699b8b-9791-49e9-ae7d-bff405a12197,40f2fa1a-3084-43c1-8eeb-46fd7fc17701,7cae335f-1193-421e-92f1-8802b4243e93
 582,OpenSSL,3.1.4,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cc8d0e2b-f88f-49c8-b42f-42626640f589,48c85c9a-fae1-4153-9392-c810adb2c45e,7cae335f-1193-421e-92f1-8802b4243e93
@@ -2062,7 +2062,7 @@
 2060,pycparser,2.21,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,d4148456-5d7e-49b5-8ffe-c65d67ee52a6,926b5e96-1c45-4afd-8265-940f87d416f4,3d238144-44e6-450e-b523-3defbdaed9dc
 2061,pycryptodome,3.20.0,Manually Added,"(BSD 2-clause ""Simplified"" License AND Public Domain)",PERMISSIVE,NOT_REVIEWED,0262517f-43d2-4243-b451-bb029df9ea11,3b68cac2-6f17-4984-a1bd-fec1d2b47db3,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,cc875133-df38-4806-9921-473e0ef01a87"
 2062,python cffi,1.16.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,a136afda-2456-41df-a8f4-2d74ef679b21,3c1b5f07-1b7c-4607-9ffc-48273a6f8663,ad705c59-6893-4980-bdbf-0837f1823cc4
-2063,python-certifi,2024.02.02,Manually Added,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,41d48295-eff3-44a7-b487-47c1d4994e54,ce3dd63e-c569-4cea-986a-46bc5efe9896
+2063,python-certifi,2024.02.02,Manually Added,Mozilla Public License 2.0,WEAK_RECIPROCAL,REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,41d48295-eff3-44a7-b487-47c1d4994e54,ce3dd63e-c569-4cea-986a-46bc5efe9896
 2064,python-pem,21.2.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,e116f5a5-2fda-4341-9ce9-88ae369d0620,9816d091-74b3-4012-8edf-429fded5c5fb,ad705c59-6893-4980-bdbf-0837f1823cc4
 2065,python-snappy,0.6.1,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,47724afe-8603-46c1-9bb9-de8bbba8c11f,efd04ce3-bd98-400c-ba09-4c1a39e18a23,3d238144-44e6-450e-b523-3defbdaed9dc
 2066,python3-charset-normalizer,3.3.2,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,961db792-aeb0-450b-ba00-4f9b0afa6dda,67b617ab-de44-4711-8288-74579ef5dfda,ad705c59-6893-4980-bdbf-0837f1823cc4
