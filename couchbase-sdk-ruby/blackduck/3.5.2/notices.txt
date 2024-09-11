@@ -9,7 +9,7 @@ ASIO C++ Library 1.30.2 : Boost Software License 1.0
 bigdecimal 3.1.8 : (BSD 2-clause "Simplified" License OR Ruby License)
 C++ Guideline Support Library 4.0.0 : MIT License
 couchbase-ruby-client 3.5.2 : Apache License 2.0
-fmtlib/fmt 10.2.1 : MIT License
+fmtlib/fmt 10.2.1 : (MIT License AND fmt exception)
 googleapis 1.15.0 : Apache License 2.0
 grpc 1.66.0 : Apache License 2.0
 libspatialindex 2.0.0~b4 : MIT License
@@ -420,4 +420,19 @@ conditions below:
   6. THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
   WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+---
+
+fmt exception
+(fmtlib/fmt 10.2.1)
+
+fmt exception
+=============
+
+--- Optional exception to the license ---
+
+As an exception, if, as a result of your compiling your source code, portions of
+this Software are embedded into a machine-executable object form of such source
+code, you may redistribute such embedded portions in such object form without
+including the above copyright and permission notices.
 
