@@ -675,7 +675,7 @@ flatted 2.0.2 : ISC License
 flatted 3.2.2 : ISC License
 Flogger 0.7.1 : Apache License 2.0
 Flogger System Backend 0.7.1 : Apache License 2.0
-fmtlib/fmt 10.1.1 : MIT License
+fmtlib/fmt 10.1.1 : (MIT License AND fmt exception)
 fogfish/it v2.0.1 : MIT License
 fogleman/gg 20190220-snapshot-0403632d : MIT License
 folly 2024.01.08.00 : Apache License 2.0
@@ -19043,6 +19043,21 @@ SOFTWARE.
 Except as contained in this notice, the name of a copyright holder shall not be
 used in advertising or otherwise to promote the sale, use or other dealings in
 this Software without prior written authorization of the copyright holder.
+
+---
+
+fmt exception
+(fmtlib/fmt 10.1.1)
+
+fmt exception
+=============
+
+--- Optional exception to the license ---
+
+As an exception, if, as a result of your compiling your source code, portions of
+this Software are embedded into a machine-executable object form of such source
+code, you may redistribute such embedded portions in such object form without
+including the above copyright and permission notices.
 
 ---
 
