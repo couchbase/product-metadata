@@ -25,7 +25,7 @@ delayed-stream 1.0.0 : MIT License
 delegates 1.0.0 : MIT License
 dominictarr/rc 1.2.8 : (MIT License OR BSD 2-clause "Simplified" License OR Apache License 2.0)
 emoji-regex v8.0.0 : MIT License
-fmtlib/fmt 11.0.1 : MIT License
+fmtlib/fmt 11.0.1 : (MIT License AND fmt exception)
 form-data 4.0.0 : MIT License
 fs-extra 11.2.0 : MIT License
 fs-minipass v2.1.0 : ISC License
@@ -1623,4 +1623,19 @@ OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED O
 THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
 written by Eric Young (eay@cryptsoft.com). This product includes software written
 by Tim Hudson (tjh@cryptsoft.com).
+
+---
+
+fmt exception
+(fmtlib/fmt 11.0.1)
+
+fmt exception
+=============
+
+--- Optional exception to the license ---
+
+As an exception, if, as a result of your compiling your source code, portions of
+this Software are embedded into a machine-executable object form of such source
+code, you may redistribute such embedded portions in such object form without
+including the above copyright and permission notices.
 
