@@ -110,7 +110,12 @@ filenames:
 {%-     for edition in [ "community", "enterprise" ]        %}
   - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
 {%-     endfor                                              %}
-{%-     if (version_tuple >= (7, 1, 0)) and
+{%-     if (version_tuple >= (7, 6, 4)) and
+            (platform in tools_plats) and
+            (bits["tools_ext"] != "IGNORE")                 %}
+  - {{ product }}-admin-tools-{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}
+  - {{ product }}-dev-tools-{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}
+{%-     elif (version_tuple >= (7, 1, 0)) and
             (platform in tools_plats) and
             (bits["tools_ext"] != "IGNORE")                 %}
   - {{ product }}-tools_{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}
