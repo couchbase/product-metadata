@@ -1,7 +1,7 @@
 {
     "dockerfiles": {
-        "docker": "docker/couchbase-operator/Dockerfile",
-        "redhat": "docker/couchbase-operator/Dockerfile.rhel"
+        "dockerhub": "docker/couchbase-operator/Dockerfile",
+        "rhcc": "docker/couchbase-operator/Dockerfile.rhel"
     },
     "github_repo": "couchbase/couchbase-operator",
     "eol_patterns": [
