@@ -9,9 +9,6 @@
         "^6\\.",
         "^7\\.0\\."
     ],
-    "absences": [{
-        "registry": "redhat"
-    },{
-        "edition": "community"
-    }]
+    "editions": ["enterprise"],
+    "absences": [{ "registry": "redhat" }]
 }
