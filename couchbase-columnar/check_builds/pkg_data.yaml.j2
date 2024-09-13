@@ -1,0 +1,63 @@
+{#-
+  Map release names to the set of expected platforms. Each entry has the form
+      platform [ : architecture ]
+  If :architecture is empty, the filename will use the default arch for the
+  platform's packaging style (see below).
+#}
+
+{#- !!! If you add an all-new platform here, be sure to add it to the filebits_for map as well !!! #}
+{%-
+  set platforms_for = {
+    "1.0.0": [ "linux", "linux:aarch64"],
+    "ionic": [ "linux", "linux:aarch64"]
+  }
+%}
+
+{#- Pre-defined sets of filename bits, based on the platform's packaging style #}
+{%-
+  set rpm_bits = {
+    "default_arch": "x86_64",
+    "ext": "rpm",
+    "sep1": "-",
+    "sep2": ".",
+    "tools_ext": "tar.gz"
+  }
+%}
+{%-
+  set deb_bits = {
+    "default_arch": "amd64",
+    "ext": "deb",
+    "sep1": "_",
+    "sep2": "_",
+    "tools_ext": "IGNORE"
+  }
+%}
+
+{#- Map platforms to defined sets of filename bits #}
+{%-
+  set filebits_for = {
+    "linux": [ deb_bits, rpm_bits ]
+  }
+%}
+
+{#- #######  END TEMPLATE CONFIGURATION ########## #}
+{#- ####### ACTUAL OUTPUT TEMPLATE ######## -#}
+
+filenames:
+{%- for platform_entry in platforms_for[release]            %}
+{%-   set plat_bits = platform_entry.split(':')             %}
+{%-   set platform = plat_bits[0]                           %}
+{%-   for bits in filebits_for[platform]                    %}
+{%-     if plat_bits | length > 1                           %}
+{%-       set arch = plat_bits[1]                           %}
+{%-     else                                                %}
+{%-       set arch = bits["default_arch"]                   %}
+{%-     endif                                               %}
+{%-     if (arch == "aarch64") and (bits["ext"] == "deb")   %}
+{%-       set arch = "arm64"                                %}
+{%-     endif                                               %}
+{%-     for edition in [ "enterprise" ]                     %}
+  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
+{%-     endfor                                              %}
+{%-   endfor                                                %}
+{%- endfor                                                  %}

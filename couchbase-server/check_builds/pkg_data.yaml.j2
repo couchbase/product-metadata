@@ -16,6 +16,7 @@
     "cheshire-cat": [ "amzn2", "centos7", "debian9", "debian10", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "windows" ],
     "neo": [ "amzn2", "centos7", "debian10", "linux", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "ubuntu20.04", "windows", "linux:aarch64" ],
     "elixir": [ "linux", "linux:aarch64", "windows", "macos" ],
+    "cypher": [ "linux", "linux:aarch64", "windows", "macos" ],
     "morpheus": [ "linux", "linux:aarch64", "windows", "macos" ]
   }
 %}
@@ -109,7 +110,12 @@ filenames:
 {%-     for edition in [ "community", "enterprise" ]        %}
   - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
 {%-     endfor                                              %}
-{%-     if (version_tuple >= (7, 1, 0)) and
+{%-     if (version_tuple >= (7, 6, 4)) and
+            (platform in tools_plats) and
+            (bits["tools_ext"] != "IGNORE")                 %}
+  - {{ product }}-admin-tools-{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}
+  - {{ product }}-dev-tools-{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}
+{%-     elif (version_tuple >= (7, 1, 0)) and
             (platform in tools_plats) and
             (bits["tools_ext"] != "IGNORE")                 %}
   - {{ product }}-tools_{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}

@@ -38,7 +38,7 @@ client9/misspell v0.3.4 : (MIT License AND BSD 3-clause "New" or "Revised" Licen
 client_golang v1.17.0 : Apache License 2.0
 cncf/udpa 20220112-snapshot-c52dc94e : Apache License 2.0
 connesc/cipherio v0.2.1 : MIT License
-Consul api/v1.28.2 : Business Source License 1.1
+Consul api/v1.28.2 : Mozilla Public License 2.0
 CoreOS v0.3.1 : Apache License 2.0
 couchbase/gocbcore v10.3.1 : Apache License 2.0
 couchbase/goprotostellar v1.0.1 : 
@@ -347,12 +347,13 @@ opentracing-opentracing-go 1.1.0 : Apache License 2.0
 pierrec-lz4 v4.1.15 : BSD 3-clause "New" or "Revised" License
 pkg/browser 20210911-snapshot-681adbf5 : BSD 2-clause "Simplified" License
 pkg/errors v0.9.1 : BSD 2-clause "Simplified" License
+platformdirs 4.2.2 : MIT License
 pmezard-go-difflib 20190219-snapshot-5d4384ee : Apache License 2.0
 prometheus-client_model v0.5.0 : Apache License 2.0
 prometheus-common v0.45.0 : Apache License 2.0
 prometheus-procfs v0.12.0 : Apache License 2.0
 pty v1.1.1 : MIT License
-python-certifi 2024.7.4 : Mozilla Public License 2.0
+python-certifi 2024.8.30 : Mozilla Public License 2.0
 PyYAML 6.0.1 : MIT License
 robfig/cron v3.0.1 : MIT License
 rogpeppe/go-internal v1.10.0 : BSD 3-clause "New" or "Revised" License
@@ -1322,84 +1323,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 
 ---
 
-Business Source License 1.1
-(Consul api/v1.28.2)
-
-Business Source License 1.1
-===========================
-
-
-Terms
------
-
-The Licensor hereby grants you the right to copy, modify, create derivative
-works, redistribute, and make non-production use of the Licensed Work. The
-Licensor may make an Additional Use Grant, above, permitting limited production
-use.
-
-Effective on the Change Date, or the fourth anniversary of the first publicly
-available distribution of a specific version of the Licensed Work under this
-License, whichever comes first, the Licensor hereby grants you rights under the
-terms of the Change License, and the rights granted in the paragraph above
-terminate.
-
-If your use of the Licensed Work does not comply with the requirements currently
-in effect as described in this License, you must purchase a commercial license
-from the Licensor, its affiliated entities, or authorized resellers, or you must
-refrain from using the Licensed Work.
-
-All copies of the original and modified Licensed Work, and derivative works of
-the Licensed Work, are subject to this License. This License applies separately
-for each version of the Licensed Work and the Change Date may vary for each
-version of the Licensed Work released by Licensor.
-
-You must conspicuously display this License on each original or modified copy of
-the Licensed Work. If you receive the Licensed Work in original or modified form
-from a third party, the terms and conditions set forth in this License apply to
-your use of that work.
-
-Any use of the Licensed Work in violation of this License will automatically
-terminate your rights under this License for the current and all other versions
-of the Licensed Work.
-
-This License does not grant you any right in any trademark or logo of Licensor or
-its affiliates (provided that you may use a trademark or logo of Licensor as
-expressly required by this License).
-
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED ON AN
-“AS IS” BASIS. LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS
-OR IMPLIED, INCLUDING (WITHOUT LIMITATION) WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND TITLE.
-
-MariaDB hereby grants you permission to use this License’s text to license your
-works, and to refer to it using the trademark “Business Source License”, as long
-as you comply with the Covenants of Licensor below.
-
-
-Covenants of Licensor
----------------------
-
-In consideration of the right to use this License’s text and the “Business Source
-License” name and trademark, Licensor covenants to MariaDB, and to all other
-recipients of the licensed work to be provided by Licensor:
-
-  1. To specify as the Change License the GPL Version 2.0 or any later version,
-    or a license that is compatible with GPL Version 2.0 or a later version,
-    where “compatible” means that software provided under the Change License can
-    be included in a program with software provided under GPL Version 2.0 or a
-    later version. Licensor may specify additional Change Licenses without
-    limitation.
-
-  2. To either: (a) specify an additional grant of rights to use that does not
-    impose any additional restriction on the right granted in this License, as
-    the Additional Use Grant; or (b) insert the text “None”.
-
-  3. To specify a Change Date.
-
-  4. Not to modify this License in any other way.
-
----
-
 Expat License
 (klauspost-pgzip v1.2.5)
 
@@ -1927,7 +1850,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, armon-go-metrics v0.4.1, Azure/azure-sdk-for-go sdk/azcore/v1.8.0, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.5.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.2.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, fatih-color 1.14.1, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, github.com/go-kit/log v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/sagikazarmark/locafero v0.4.0, go humanize 1.0.1, Go Testify v1.9.0, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-toml v2.2.2, go-viper v1.19.0, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/multierr v1.11.0, goccy/go-yaml v1.11.3, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.5.0, kr/pretty v0.3.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, PyYAML 6.0.1, sagikazarmark/crypt v0.19.0, Sirupsen/logrus v1.9.3, sourcegraph/conc v0.3.0, spf13-cast v1.6.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
+(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, armon-go-metrics v0.4.1, Azure/azure-sdk-for-go sdk/azcore/v1.8.0, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.5.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.2.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, fatih-color 1.14.1, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, github.com/go-kit/log v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/sagikazarmark/locafero v0.4.0, go humanize 1.0.1, Go Testify v1.9.0, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-toml v2.2.2, go-viper v1.19.0, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/multierr v1.11.0, goccy/go-yaml v1.11.3, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.5.0, kr/pretty v0.3.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, platformdirs 4.2.2, PyYAML 6.0.1, sagikazarmark/crypt v0.19.0, Sirupsen/logrus v1.9.3, sourcegraph/conc v0.3.0, spf13-cast v1.6.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
@@ -2358,7 +2281,7 @@ SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(errwrap v1.1.0, go-immutable-radix v1.3.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-rootcerts v1.0.2, hashicorp-golang-lru v0.5.4, hashicorp/hcl v1.0.0, python-certifi 2024.7.4)
+(Consul api/v1.28.2, errwrap v1.1.0, go-immutable-radix v1.3.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-rootcerts v1.0.2, hashicorp-golang-lru v0.5.4, hashicorp/hcl v1.0.0, python-certifi 2024.8.30)
 
 Mozilla Public License
 Version 2.0

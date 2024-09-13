@@ -8,8 +8,8 @@ Components:
 Asio C++ Library 1.29.0 : Boost Software License 1.0
 BoringSSL 20200921 : The Open SSL License
 C++ Guideline Support Library 4.0.0 : MIT License
-couchbase-ruby-client 3.5.0 : Apache License 2.0
-fmtlib/fmt 10.2.1 : MIT License
+couchbase-ruby-client 3.5.2 : Apache License 2.0
+fmtlib/fmt 10.2.1 : (MIT License AND fmt exception)
 google-snappy 1.1.10 : BSD 3-clause "New" or "Revised" License
 HdrHistogram_c 0.11.8 : (BSD 2-clause "Simplified" License AND Creative Commons Zero v1.0 Universal AND Public Domain)
 nodejs/llhttp v9.2.0 : MIT License
@@ -19,7 +19,7 @@ taocpp/json 1.0.0-beta.14 : MIT License
 Licenses: 
 
 Apache License 2.0
-(couchbase-ruby-client 3.5.0)
+(couchbase-ruby-client 3.5.2)
 
 Apache License
 Version 2.0, January 2004
@@ -562,4 +562,19 @@ OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED O
 THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
 written by Eric Young (eay@cryptsoft.com). This product includes software written
 by Tim Hudson (tjh@cryptsoft.com).
+
+---
+
+fmt exception
+(fmtlib/fmt 10.2.1)
+
+fmt exception
+=============
+
+--- Optional exception to the license ---
+
+As an exception, if, as a result of your compiling your source code, portions of
+this Software are embedded into a machine-executable object form of such source
+code, you may redistribute such embedded portions in such object form without
+including the above copyright and permission notices.
 
