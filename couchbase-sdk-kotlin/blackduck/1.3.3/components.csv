@@ -1,6 +1,6 @@
 ,Component name,Component version name,Match type,License names,License families,Review Status,Component id,Version id,License ids
 0,Couchbase JVM Core IO,2.6.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,72ed568b-e849-4f92-a4d1-df220cb2a423,17f75202-9aa6-4f8e-8b33-304beac2f680,7cae335f-1193-421e-92f1-8802b4243e93
-1,Guava InternalFutureFailureAccess and InternalFutures,1.0.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,71ba0e56-32eb-4c4e-9cdc-c68e4b809911,34a8d904-337a-44f2-b6cd-a873f320dc14,7cae335f-1193-421e-92f1-8802b4243e93
+1,Guava InternalFutureFailureAccess and InternalFutures,1.0.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,71ba0e56-32eb-4c4e-9cdc-c68e4b809911,87b54cc4-f37f-42fd-abf2-985872b8fdee,7cae335f-1193-421e-92f1-8802b4243e93
 2,HdrHistogram,2.1.12,Direct Dependency,"(BSD 2-clause ""Simplified"" License OR Creative Commons Zero v1.0 Universal OR Public Domain)",PERMISSIVE,NOT_REVIEWED,cb1dd6e6-4d90-4aff-9a45-2b8f6979e7cc,3bc817e9-60e6-449a-b0e4-fc2155157579,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,cc875133-df38-4806-9921-473e0ef01a87,a7c69599-62b6-4d06-9ec6-ea688c041c00"
 3,Jackson-datatype-jdk8,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93477a6b-05b7-4f6f-a576-818aba23378f,09da5860-7d8f-47e2-97cb-f3a8f815baa4,7cae335f-1193-421e-92f1-8802b4243e93
 4,Jackson-module-Afterburner,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eea33624-c4cb-4c71-8ef7-767642d1d611,667e456b-aa06-42ea-8d3f-3b05ac453a04,7cae335f-1193-421e-92f1-8802b4243e93
@@ -15,17 +15,17 @@
 13,Netty/Transport/Classes/KQueue,4.1.108.Final,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ec669760-7607-4049-917a-f647295609c8,306296a6-59bf-4356-9248-e78731ddf3f3,7cae335f-1193-421e-92f1-8802b4243e93
 14,Netty/Transport/Native/Unix/Common,4.1.108.Final,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1cb09fd1-4c1d-45f5-937a-193e8acbfb88,e28f4c51-af1e-47f9-b54b-20e45894a3d1,7cae335f-1193-421e-92f1-8802b4243e93
 15,SLF4J API Module,1.7.36,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ca782761-ef54-4eb6-b7f0-b9fbb15a0698,1587e123-4c0d-4f25-aa89-32dc78ff0202,ad705c59-6893-4980-bdbf-0837f1823cc4
-16,com.google.api.grpc:proto-google-common-protos,2.41.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bcb4fb16-c588-440e-873f-e1fb57f06033,7c8cdf94-7a8a-4621-8853-482bc7c20cdf,7cae335f-1193-421e-92f1-8802b4243e93
+16,com.google.api.grpc:proto-google-common-protos,2.22.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bcb4fb16-c588-440e-873f-e1fb57f06033,2fd171dd-3879-4c00-bf0b-70319ee59de3,7cae335f-1193-421e-92f1-8802b4243e93
 17,dnsjava,3.5.2,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8113f295-865c-433c-b675-e76ecb5137f1,6dcdeff1-7106-4435-9b29-342e8202fbe2,3d238144-44e6-450e-b523-3defbdaed9dc
-18,google-gson,2.11.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5268f229-3e37-4068-ad3a-18f0bfbf8b34,758f2fd9-0c09-4939-8895-7945f938fb32,7cae335f-1193-421e-92f1-8802b4243e93
-19,googleguava,33.3.0-jre,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2f0a32a0-f5c6-45d7-858c-b8a5d922633d,04b0824d-c87b-467d-9510-10fef324a9d3,7cae335f-1193-421e-92f1-8802b4243e93
-20,grpc-java,1.66.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5dab2ab0-845f-4be6-889e-f9af5c5f7de9,ba13d089-3f38-437b-b445-263c77b083a8,7cae335f-1193-421e-92f1-8802b4243e93
-21,io.grpc:grpc-context,1.66.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f2ab73b5-26ac-46a1-b92d-9be2ff333fe9,893a4e1a-34c4-46dd-8a0f-1c614e549708,7cae335f-1193-421e-92f1-8802b4243e93
-22,io.grpc:grpc-netty,1.66.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,12bd7d33-0674-4ef8-8f13-993c2d2df5a1,9cc0e6b1-b774-4cee-9a19-eee80cefa905,7cae335f-1193-421e-92f1-8802b4243e93
-23,io.grpc:grpc-protobuf,1.66.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,64112a9c-fd64-470e-b1da-25a5068b3ddf,45853424-4ac1-446b-a1b4-bb7a2854f51e,7cae335f-1193-421e-92f1-8802b4243e93
-24,io.grpc:grpc-protobuf-lite,1.66.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,30b551b8-5ad8-4b20-b3b2-cddf3ae2ec17,68cc436a-deb7-4472-8f11-e311ee6f6254,7cae335f-1193-421e-92f1-8802b4243e93
-25,io.grpc:grpc-stub,1.66.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5c46d8c5-43d4-4e35-8087-7a5bfbea89a6,03982222-a4a6-4454-9552-820cd144c54c,7cae335f-1193-421e-92f1-8802b4243e93
-26,io.grpc:grpc-util,1.66.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,47c10de0-ca43-4304-bc62-5781c9274d86,52d016a5-d368-4f09-ba79-0705c6469f09,7cae335f-1193-421e-92f1-8802b4243e93
+18,google-gson,2.10.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5268f229-3e37-4068-ad3a-18f0bfbf8b34,783fc21a-d7fa-45fc-ace5-f624a805a52b,7cae335f-1193-421e-92f1-8802b4243e93
+19,googleguava,v32.1.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2f0a32a0-f5c6-45d7-858c-b8a5d922633d,49cd310b-2488-41d0-93bd-a311f0422182,7cae335f-1193-421e-92f1-8802b4243e93
+20,grpc-java,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5dab2ab0-845f-4be6-889e-f9af5c5f7de9,b79ca412-f4cc-47c2-ad32-56c538c855de,7cae335f-1193-421e-92f1-8802b4243e93
+21,io.grpc:grpc-context,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f2ab73b5-26ac-46a1-b92d-9be2ff333fe9,6c877742-9fd7-48e3-8c57-6557795310c7,7cae335f-1193-421e-92f1-8802b4243e93
+22,io.grpc:grpc-netty,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,12bd7d33-0674-4ef8-8f13-993c2d2df5a1,69edbb54-ffa7-41ef-b691-3ac7cbd492d6,7cae335f-1193-421e-92f1-8802b4243e93
+23,io.grpc:grpc-protobuf,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,64112a9c-fd64-470e-b1da-25a5068b3ddf,b08ad229-a2d0-4997-acd9-cb6d7f8d6aa1,7cae335f-1193-421e-92f1-8802b4243e93
+24,io.grpc:grpc-protobuf-lite,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,30b551b8-5ad8-4b20-b3b2-cddf3ae2ec17,199498c3-0511-4300-a3c4-ba5d6f84b8c2,7cae335f-1193-421e-92f1-8802b4243e93
+25,io.grpc:grpc-stub,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5c46d8c5-43d4-4e35-8087-7a5bfbea89a6,40aa4546-52e7-448d-9dc3-c51bd6b46a8b,7cae335f-1193-421e-92f1-8802b4243e93
+26,io.grpc:grpc-util,1.60.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,47c10de0-ca43-4304-bc62-5781c9274d86,5d2f891f-7d82-4b44-899d-532a7f752aa6,7cae335f-1193-421e-92f1-8802b4243e93
 27,jackson-annotations,2.17.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,de6d70c3-6e81-4e22-802f-5afaf2ee1b10,7cae335f-1193-421e-92f1-8802b4243e93
 28,jackson-core,2.17.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,98fbcdc9-d251-404f-992a-7ae09c99a4b5,7cae335f-1193-421e-92f1-8802b4243e93
 29,jackson-databind,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,10465899-a07b-4a84-9b2e-634c7f0230b6,7cae335f-1193-421e-92f1-8802b4243e93
@@ -40,7 +40,7 @@
 38,moshi-kotlin,1.13.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,aaf4d5ff-eb1d-4855-976d-a654516858f1,5419c660-c60b-4ff4-94ba-7fe9567a706a,7cae335f-1193-421e-92f1-8802b4243e93
 39,org.jetbrains.kotlin:kotlin-stdlib-jdk7,1.6.20,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3e4fc317-4982-4a0a-a98a-1d5e937b05ac,ddc2cd76-95e9-42dd-8c21-99ee65e3f7d8,7cae335f-1193-421e-92f1-8802b4243e93
 40,org.jetbrains.kotlin:kotlin-stdlib-jdk8,1.6.20,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,01443f31-8c0a-40a2-8fbf-213c8e786ca6,f715a732-2002-488c-817a-7d698d9ddee1,7cae335f-1193-421e-92f1-8802b4243e93
-41,perfmark:perfmark-api,0.27.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3342f85f-be71-4fcc-9b94-b874bf469455,81914d27-5148-4e47-83b8-dc2f633cf6f5,7cae335f-1193-421e-92f1-8802b4243e93
+41,perfmark:perfmark-api,0.26.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3342f85f-be71-4fcc-9b94-b874bf469455,94d6f5b2-3238-425c-91a0-933ed29ac0cf,7cae335f-1193-421e-92f1-8802b4243e93
 42,protobuf-java,3.23.2,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,e896bf6b-61ee-4ef6-bd8a-c034d78986b7,3427c5ec-cdfb-442d-80f6-8c607ce6771a,3d238144-44e6-450e-b523-3defbdaed9dc
 43,reactive-streams,1.0.3,Transitive Dependency,Creative Commons Zero v1.0 Universal,PERMISSIVE,NOT_REVIEWED,f00e23b5-eb1d-4939-93bb-4cbf7dedffb0,92a59212-ffed-48cf-9520-2d01a72ce6a7,a7c69599-62b6-4d06-9ec6-ea688c041c00
 44,reactor-core,3.6.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,b75053f1-ffaa-400e-9413-61b36b95b8ce,7cae335f-1193-421e-92f1-8802b4243e93
