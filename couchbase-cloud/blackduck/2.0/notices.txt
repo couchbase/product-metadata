@@ -9089,6 +9089,25 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
+(setprototypeof 1.2.0)
+
+Copyright (c) 2015, Wes Todd
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION
+OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
+
+---
+
+ISC License
 (fastq 1.13.0)
 
 Copyright (c) 2015-2020, Matteo Collina <matteo.collina@gmail.com>
@@ -9864,7 +9883,7 @@ Permission to use, copy, modify, and/or distribute this software for any
 ---
 
 ISC License
-(setprototypeof 1.1.0, setprototypeof 1.2.0)
+(setprototypeof 1.1.0)
 
 Upstream-Contact: https://github.com/wesleytodd/setprototypeof/issues
 Source: https://github.com/wesleytodd/setprototypeof
@@ -10744,6 +10763,34 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
+(base64id 2.0.0)
+
+(The MIT License)
+
+Copyright (c) 2012-2016 Kristian Faeldt <faeldt_kristian@cyberagent.co.jp>
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (assertion-error 1.1.0)
 
 (The MIT License)
@@ -10864,6 +10911,34 @@ MIT License
 (The MIT License)
 
 Copyright (c) 2013 Roman Shtylman <shtylman@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(visionmedia/batch 0.6.1)
+
+(The MIT License)
+
+Copyright (c) 2013 TJ Holowaychuk <tj@vision-media.ca>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -11977,36 +12052,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(mafintosh/pump 3.0.0)
-
-2020 Xavier Guimard <yadd@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
 
 ---
@@ -14834,6 +14879,42 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of
 ---
 
 MIT License
+(is-plain-object v5.0.0)
+
+Files: *
+Copyright: 2014-2017 Jon Schlinkert (https://github.com/jonschlinkert)
+License: Expat
+
+Files: debian/*
+Copyright: 2016 Sruthi Chandran <srud@disroot.org>
+ 2020 Yadd <yadd@debian.org>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (mathiasbynens/regenerate 1.4.2)
 
 Files: *
@@ -15530,7 +15611,7 @@ SOFTWARE
 ---
 
 MIT License
-(@types/aria-query 4.2.2, @types/babel__core 7.1.19, @types/babel__generator 7.6.4, @types/babel__template 7.4.1, @types/cookie 0.4.1, @types/cors 2.8.12, @types/d3-dsv 3.0.0, @types/d3-interpolate 3.0.1, @types/d3-path 3.0.0, @types/debug 4.1.7, @types/estree 0.0.51, @types/find-cache-dir 3.2.1, @types/graceful-fs 4.1.5, @types/html-minifier-terser 6.1.0, @types/istanbul-reports 3.0.1, @types/js-levenshtein 1.1.1, @types/minimatch 3.0.5, @types/parse5 6.0.3, @types/pug 2.0.6, @types/sass 1.43.1, @types/set-cookie-parser 2.4.2, @types/stack-utils 2.0.1, @types/testing-library__cypress 5.0.9, @types/uuid 8.3.4, @types/yargs-parser 21.0.0, crypto-browserify/pbkdf2 v3.1.2, jshttp/mime-types 2.1.35)
+(@types/aria-query 4.2.2, @types/babel__core 7.1.19, @types/babel__generator 7.6.4, @types/babel__template 7.4.1, @types/cookie 0.4.1, @types/cors 2.8.12, @types/d3-dsv 3.0.0, @types/d3-interpolate 3.0.1, @types/d3-path 3.0.0, @types/debug 4.1.7, @types/estree 0.0.51, @types/find-cache-dir 3.2.1, @types/graceful-fs 4.1.5, @types/html-minifier-terser 6.1.0, @types/istanbul-reports 3.0.1, @types/js-levenshtein 1.1.1, @types/minimatch 3.0.5, @types/parse5 6.0.3, @types/pug 2.0.6, @types/sass 1.43.1, @types/set-cookie-parser 2.4.2, @types/stack-utils 2.0.1, @types/testing-library__cypress 5.0.9, @types/uuid 8.3.4, @types/yargs-parser 21.0.0, crypto-browserify/pbkdf2 v3.1.2, imurmurhash 0.1.4, jshttp/mime-types 2.1.35)
 
 MIT License
 
@@ -17958,42 +18039,6 @@ Permission is hereby granted, free of charge, to any person obtaining
 ---
 
 MIT License
-(base64id 2.0.0)
-
-Source: https://github.com/faeldt/base64id
-
-Files: *
-Copyright: 2012-2016, Kristian Faeldt <faeldt_kristian@cyberagent.co.jp>
-License: Expat
-
-Files: debian/*
-Copyright: 2013, Mike Gabriel <mike.gabriel@das-netzwerkteam.de>
- 2019, Xavier Guimard <yadd@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining a
- copy of this software and associated documentation files (the "Software"),
- to deal in the Software without restriction, including without limitation
- the rights to use, copy, modify, merge, publish, distribute, sublicense,
- and/or sell copies of the Software, and to permit persons to whom the
- Software is furnished to do so, subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be included in
- all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
- THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
- FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
- DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (jinzhu-inflection v1.0.0)
 
 Source: https://github.com/jinzhu/inflection
@@ -19234,32 +19279,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(imurmurhash 0.1.4)
-
-The MIT License (MIT)
-
-Copyright (c) 2013 Gary Court, Jens Taylor
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (github.com/docopt/docopt-go 20181101-snapshot-ee0de3bc)
 
 The MIT License (MIT)
@@ -19607,7 +19626,7 @@ SOFTWARE
 ---
 
 MIT License
-(array-flatten 1.1.1, array-flatten 2.1.2, camelcase 4.1.2, dot-case 3.0.4, lower-case 2.0.2, no-case 3.0.4, param-case 3.0.4, pascal-case 3.1.2, path-to-regexp 0.1.7, path-to-regexp 1.8.0)
+(array-flatten 1.1.1, camelcase 4.1.2, dot-case 3.0.4, lower-case 2.0.2, no-case 3.0.4, param-case 3.0.4, pascal-case 3.1.2, path-to-regexp 0.1.7, path-to-regexp 1.8.0)
 
 The MIT License (MIT)
 
@@ -20257,7 +20276,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(duplexify 3.7.1, end-of-stream 1.4.4, mafintosh/pump 2.0.1, peek-stream 1.1.3, pumpify 1.5.1, tar-fs 2.1.1, tar-stream 2.2.0)
+(duplexify 3.7.1, end-of-stream 1.4.4, mafintosh/pump 2.0.1, mafintosh/pump 3.0.0, peek-stream 1.1.3, pumpify 1.5.1, tar-fs 2.1.1, tar-stream 2.2.0)
 
 The MIT License (MIT)
 
@@ -21028,7 +21047,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(cache-base 1.0.1, is-glob 4.0.3, is-plain-object 2.0.4, is-plain-object v5.0.0, isobject 3.0.1, kind-of 5.1.0, kind-of 6.0.3, micromatch 3.1.0)
+(cache-base 1.0.1, is-glob 4.0.3, is-plain-object 2.0.4, isobject 3.0.1, kind-of 5.1.0, kind-of 6.0.3, micromatch 3.1.0)
 
 The MIT License (MIT)
 
@@ -21190,7 +21209,7 @@ SOFTWARE
 ---
 
 MIT License
-(fill-range 7.0.1, is-number 7.0.0, micromatch 4.0.5)
+(fill-range 7.0.1, micromatch 4.0.5)
 
 The MIT License (MIT)
 
@@ -21985,7 +22004,7 @@ SOFTWARE
 ---
 
 MIT License
-(copy-descriptor 0.1.1, expand-brackets 2.1.4)
+(copy-descriptor 0.1.1, expand-brackets 2.1.4, map-visit 1.0.0)
 
 The MIT License (MIT)
 
@@ -22066,7 +22085,7 @@ SOFTWARE
 ---
 
 MIT License
-(map-visit 1.0.0, to-regex-range 2.1.1, union-value 1.0.1)
+(to-regex-range 2.1.1, union-value 1.0.1)
 
 The MIT License (MIT)
 
@@ -22093,7 +22112,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(BASE 0.11.2, extglob 2.0.4, is-accessor-descriptor 1.0.0, is-data-descriptor 1.0.0, is-descriptor 0.1.6, is-descriptor 1.0.2, is-extendable 1.0.1, split-string 3.1.0)
+(BASE 0.11.2, extglob 2.0.4, is-accessor-descriptor 1.0.0, is-data-descriptor 1.0.0, is-descriptor 0.1.6, is-descriptor 1.0.2, split-string 3.1.0)
 
 The MIT License (MIT)
 
@@ -22524,7 +22543,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(gunzip-maybe 1.4.2)
+(gunzip-maybe 1.4.2, stream-shift 1.0.1)
 
 The MIT License (MIT)
 
@@ -24990,6 +25009,45 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
+(array-flatten 2.1.2)
+
+Upstream-Contact: https://github.com/blakeembrey/array-flatten/issues
+Source: https://github.com/blakeembrey/array-flatten
+
+Files: *
+Copyright: 2014 Blake Embrey <hello@blakeembrey.com>
+License: Expat
+
+Files: debian/*
+Copyright: 2016 Thorsten Alteholz <debian@alteholz.de>
+ 2020 Yadd <yadd@debian.org>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (check-error 1.0.2)
 
 Upstream-Contact: https://github.com/chaijs/check-error/issues
@@ -25421,6 +25479,84 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
+(is-extendable 1.0.1)
+
+Upstream-Contact: https://github.com/jonschlinkert/is-extendable/issues
+Source: https://github.com/jonschlinkert/is-extendable
+
+Files: *
+Copyright: 2015-2017, Jon Schlinkert.
+License: Expat
+
+Files: debian/*
+Copyright:
+ 2016, Pirate Praveen <praveen@debian.org>
+ 2018, Paolo Greppi <paolo.greppi@libpf.com>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
+(is-number 7.0.0)
+
+Upstream-Contact: https://github.com/jonschlinkert/is-number/issues
+Source: https://github.com/jonschlinkert/is-number
+
+Files: *
+Copyright: 2016 Jon Schlinkert (https://github.com/jonschlinkert)
+License: Expat
+
+Files: debian/*
+Copyright: 2016 Pirate Praveen <praveen@debian.org>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (is-windows 1.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/is-windows/issues
@@ -25587,44 +25723,6 @@ License: Expat
 
 Files: debian/*
 Copyright: 2014 Leo Iannacone <l3on@ubuntu.com>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(stream-shift 1.0.1)
-
-Upstream-Contact: https://github.com/mafintosh/stream-shift/issues
-Source: https://github.com/mafintosh/stream-shift
-
-Files: *
-Copyright: 2016 Mathias Buus (@mafintosh)
-License: Expat
-
-Files: debian/*
-Copyright: 2016 Pirate Praveen <praveen@debian.org>
 License: Expat
 
 License: Expat
@@ -26235,45 +26333,6 @@ License: Expat
 
 Files: debian/*
 Copyright: 2017 Preyass Chandran <preyassc@hotmail.com>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
-(visionmedia/batch 0.6.1)
-
-Upstream-Contact: https://github.com/visionmedia/batch/issues
-Source: https://github.com/visionmedia/batch
-
-Files: *
-Copyright: 2013 TJ Holowaychuk <tj@vision-media.ca>
-License: Expat
-
-Files: debian/*
-Copyright: 2014 Leo Iannacone <l3on@ubuntu.com>,
- 2019 Xavier Guimard <yadd@debian.org>
 License: Expat
 
 License: Expat
