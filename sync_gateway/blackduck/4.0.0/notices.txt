@@ -65,7 +65,6 @@ felixge/fgprof v0.9.4 : MIT License
 frankban/quicktest 1.14.0 : Expat License
 github.com/cncf/xds 20231128-snapshot-0fa0005c : Apache License 2.0
 github.com/go-kit/log v0.2.1 : MIT License
-github.com/golang-jwt/jwt v4.5.0 : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
 github.com/lufia/plan9stats 20211012-snapshot-39d0f177 : BSD 3-clause "New" or "Revised" License
 github.com/power-devops/perfstat 20210106-snapshot-5aafc221 : MIT License
@@ -104,6 +103,7 @@ gogo/protobuf v1.3.2 : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.33.0 : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.5.4 : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 1.0.0 : BSD 2-clause "Simplified" License
+golang-jwt/jwt v4.5.0 : MIT License
 golang-mock v1.6.0 : Apache License 2.0
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto v0.25.0 : BSD 3-clause "New" or "Revised" License
@@ -1328,7 +1328,7 @@ SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.3.1, alecthomas-units 20211218-snapshot-b94a6e3c, Azure/azure-sdk-for-go sdk/azcore/v1.6.1, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.3.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cespare/xxhash v2.2.0, chromedp/cdproto 20230802-snapshot-3cf4e6d4, chromedp/chromedp v0.9.2, chzyer-readline 20160726-snapshot-62c6fe61, chzyer-readline v1.5.1, chzyer/logex v1.2.1, chzyer/test v1.0.0, cilium/ebpf v0.9.1, couchbase-gomemcached v0.2.1, dominikh/go-tools 20190523-snapshot-ea95bdfd, felixge/fgprof v0.9.4, github.com/go-kit/log v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/power-devops/perfstat 20210106-snapshot-5aafc221, github.com/yusufpapurcu/wmi v1.2.3, Go Testify v1.9.0, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, gobwas/ws v1.2.1, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.23, natefinch/lumberjack v2.2.1, nhooyr/websocket v1.8.10, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.2, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
+(alecthomas-kingpin v2.3.1, alecthomas-units 20211218-snapshot-b94a6e3c, Azure/azure-sdk-for-go sdk/azcore/v1.6.1, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.3.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cespare/xxhash v2.2.0, chromedp/cdproto 20230802-snapshot-3cf4e6d4, chromedp/chromedp v0.9.2, chzyer-readline 20160726-snapshot-62c6fe61, chzyer-readline v1.5.1, chzyer/logex v1.2.1, chzyer/test v1.0.0, cilium/ebpf v0.9.1, couchbase-gomemcached v0.2.1, dominikh/go-tools 20190523-snapshot-ea95bdfd, felixge/fgprof v0.9.4, github.com/go-kit/log v0.2.1, github.com/power-devops/perfstat 20210106-snapshot-5aafc221, github.com/yusufpapurcu/wmi v1.2.3, Go Testify v1.9.0, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, gobwas/ws v1.2.1, golang-jwt/jwt v4.5.0, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.23, natefinch/lumberjack v2.2.1, nhooyr/websocket v1.8.10, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.2, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
