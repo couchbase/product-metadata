@@ -104,9 +104,6 @@ github.com/cncf/xds 20231128-snapshot-0fa0005c : Apache License 2.0
 github.com/cncf/xds 20240423-snapshot-555b57ec : Apache License 2.0
 github.com/go-kit/log v0.2.1 : MIT License
 github.com/go-logr/zapr v1.3.0 : Apache License 2.0
-github.com/golang-jwt/jwt v3.2.1 : MIT License
-github.com/golang-jwt/jwt v4.5.0 : MIT License
-github.com/golang-jwt/jwt v5.2.1 : MIT License
 github.com/google/cel-spec v0.15.0 : Apache License 2.0
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
 github.com/moby/spdystream v0.2.0 : Apache License 2.0
@@ -179,6 +176,9 @@ Golang Protobuf v1.5.4 : BSD 3-clause "New" or "Revised" License
 golang-github-ghodss-yaml-dev 1.0.0 : MIT License
 golang-github-magiconair-properties v1.8.7 : BSD 2-clause "Simplified" License
 golang-github-spf13-pflag-dev v1.0.5 : BSD 3-clause "New" or "Revised" License
+golang-jwt/jwt v3.2.1 : MIT License
+golang-jwt/jwt v4.5.0 : MIT License
+golang-jwt/jwt v5.2.1 : MIT License
 golang-mock v1.1.1 : Apache License 2.0
 golang-mock v1.4.3 : Apache License 2.0
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
@@ -1867,7 +1867,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(github.com/golang-jwt/jwt v3.2.1)
+(golang-jwt/jwt v3.2.1)
 
 Copyright (c) 2012 Dave Grijalva
 Copyright (c) 2021 golang-jwt maintainers
@@ -2260,7 +2260,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, armon-go-metrics v0.4.1, Azure/azure-sdk-for-go sdk/azcore/v1.14.0, Azure/azure-sdk-for-go sdk/azcore/v1.8.0, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/azidentity/v1.7.0, Azure/azure-sdk-for-go sdk/internal/v1.10.0, Azure/azure-sdk-for-go sdk/internal/v1.5.0, Azure/azure-sdk-for-go sdk/resourcemanager/compute/armcompute/v1.0.0, Azure/azure-sdk-for-go sdk/resourcemanager/containerservice/armcontainerservice/v1.0.0, Azure/azure-sdk-for-go sdk/resourcemanager/internal/v1.0.0, Azure/azure-sdk-for-go sdk/resourcemanager/managementgroups/armmanagementgroups/v1.0.0, Azure/azure-sdk-for-go sdk/resourcemanager/network/armnetwork/v1.1.0, Azure/azure-sdk-for-go sdk/resourcemanager/resources/armresources/v1.2.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.2.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.2.2, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, cespare/xxhash v2.3.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, cpuguy83-go-md2man v2.0.4, dominikh/go-tools 20190523-snapshot-ea95bdfd, fatih-color 1.14.1, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, github.com/go-kit/log v0.2.1, github.com/golang-jwt/jwt v4.5.0, github.com/golang-jwt/jwt v5.2.1, github.com/sagikazarmark/locafero v0.4.0, go humanize 1.0.1, Go Testify v1.9.0, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-task/slim-sprig v3.0.0, go-toml v2.2.2, go-viper v1.19.0, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, go.uber.org/multierr v1.9.0, goccy/go-yaml v1.11.3, goccy/go-yaml v1.12.0, golang-stats v0.7.0, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.5.0, kr/pretty v0.3.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, onsi/ginkgo v2.19.0, platformdirs 4.2.2, PyYAML 6.0.1, sagikazarmark/crypt v0.19.0, Sirupsen/logrus v1.9.3, sourcegraph/conc v0.3.0, spf13-cast v1.6.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
+(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, armon-go-metrics v0.4.1, Azure/azure-sdk-for-go sdk/azcore/v1.14.0, Azure/azure-sdk-for-go sdk/azcore/v1.8.0, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/azidentity/v1.7.0, Azure/azure-sdk-for-go sdk/internal/v1.10.0, Azure/azure-sdk-for-go sdk/internal/v1.5.0, Azure/azure-sdk-for-go sdk/resourcemanager/compute/armcompute/v1.0.0, Azure/azure-sdk-for-go sdk/resourcemanager/containerservice/armcontainerservice/v1.0.0, Azure/azure-sdk-for-go sdk/resourcemanager/internal/v1.0.0, Azure/azure-sdk-for-go sdk/resourcemanager/managementgroups/armmanagementgroups/v1.0.0, Azure/azure-sdk-for-go sdk/resourcemanager/network/armnetwork/v1.1.0, Azure/azure-sdk-for-go sdk/resourcemanager/resources/armresources/v1.2.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.2.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.2.2, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, cespare/xxhash v2.3.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, cpuguy83-go-md2man v2.0.4, dominikh/go-tools 20190523-snapshot-ea95bdfd, fatih-color 1.14.1, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, github.com/go-kit/log v0.2.1, github.com/sagikazarmark/locafero v0.4.0, go humanize 1.0.1, Go Testify v1.9.0, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-task/slim-sprig v3.0.0, go-toml v2.2.2, go-viper v1.19.0, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, go.uber.org/multierr v1.9.0, goccy/go-yaml v1.11.3, goccy/go-yaml v1.12.0, golang-jwt/jwt v4.5.0, golang-jwt/jwt v5.2.1, golang-stats v0.7.0, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.5.0, kr/pretty v0.3.1, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.17, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, onsi/ginkgo v2.19.0, platformdirs 4.2.2, PyYAML 6.0.1, sagikazarmark/crypt v0.19.0, Sirupsen/logrus v1.9.3, sourcegraph/conc v0.3.0, spf13-cast v1.6.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
