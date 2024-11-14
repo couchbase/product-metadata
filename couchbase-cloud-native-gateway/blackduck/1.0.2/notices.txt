@@ -77,8 +77,6 @@ github.com/aws/smithy-go v1.20.3 : Apache License 2.0
 github.com/bufbuild/protovalidate-go v0.2.1 : Apache License 2.0
 github.com/cncf/xds 20240723-snapshot-024c85f9 : Apache License 2.0
 github.com/go-kit/log v0.2.1 : MIT License
-github.com/golang-jwt/jwt v3.2.1 : MIT License
-github.com/golang-jwt/jwt v4.2.0 : MIT License
 github.com/google/cel-spec v0.16.0 : Apache License 2.0
 github.com/invopop/yaml v0.2.0 : (MIT License AND BSD 3-clause "New" or "Revised" License)
 github.com/Joker/jade v1.1.3 : BSD 3-clause "New" or "Revised" License
@@ -91,7 +89,7 @@ github.com/sagikazarmark/locafero v0.6.0 : MIT License
 github.com/sagikazarmark/slog-shim 0.1.0 : BSD 3-clause "New" or "Revised" License
 github.com/twitchyliquid64/golang-asm v0.15.1 : BSD 3-clause "New" or "Revised" License
 go humanize v1.0.0 : MIT License
-Go programming language 1.23.0 : BSD 3-clause "New" or "Revised" License
+Go programming language 1.23.2 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.9.0 : MIT License
 go-check-check 20201130-snapshot-10cb9826 : BSD 2-clause "Simplified" License
 go-echo v4.11.4 : MIT License
@@ -127,6 +125,8 @@ Golang Protobuf v1.35.1 : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.5.4 : BSD 3-clause "New" or "Revised" License
 golang-github-magiconair-properties v1.8.7 : BSD 2-clause "Simplified" License
 golang-github-spf13-pflag-dev v1.0.5 : BSD 3-clause "New" or "Revised" License
+golang-jwt/jwt v3.2.1 : MIT License
+golang-jwt/jwt v4.2.0 : MIT License
 golang-mock v1.1.1 : Apache License 2.0
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
 golang-stats v0.6.6 : MIT License
@@ -962,7 +962,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(antlr 20230512-snapshot-5d1fd1a3, bluemonday v1.0.25, BurntSushi/toml 1.3.2, exp 20240708-snapshot-e3f25967, fatih-color 1.14.1, fsnotify-fsnotify v1.7.0, github.com/invopop/yaml v0.2.0, github.com/juju/gnuflag 20171113-snapshot-2ce1bb71, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/sagikazarmark/slog-shim 0.1.0, github.com/twitchyliquid64/golang-asm v0.15.1, Go programming language 1.23.0, go.googlesource.com/arch v0.4.0, Golang Protobuf v1.35.1, Golang Protobuf v1.5.4, golang.org/x/crypto v0.28.0, golang.org/x/lint 20190308-snapshot-d0100b6b, golang.org/x/mod v0.19.0, golang.org/x/net v0.30.0, golang.org/x/oauth2 v0.22.0, golang.org/x/sync v0.8.0, golang.org/x/sys v0.26.0, golang.org/x/term v0.25.0, golang.org/x/time v0.6.0, golang.org/x/tools v0.23.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.19.0, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.13.0, googleapis/google-api-go-client v0.193.0, gorilla/css v1.0.0, gorilla/mux v1.8.1, grpc-gateway v2.22.0, kataras/golog v0.1.9, kataras/pio v0.0.12, klauspost-compress v1.17.2, mattn-go-colorable 0.1.13, rogpeppe/go-internal v1.13.1, xhit/go-str2duration v2.1.0)
+(antlr 20230512-snapshot-5d1fd1a3, bluemonday v1.0.25, BurntSushi/toml 1.3.2, exp 20240708-snapshot-e3f25967, fatih-color 1.14.1, fsnotify-fsnotify v1.7.0, github.com/invopop/yaml v0.2.0, github.com/juju/gnuflag 20171113-snapshot-2ce1bb71, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/sagikazarmark/slog-shim 0.1.0, github.com/twitchyliquid64/golang-asm v0.15.1, Go programming language 1.23.2, go.googlesource.com/arch v0.4.0, Golang Protobuf v1.35.1, Golang Protobuf v1.5.4, golang.org/x/crypto v0.28.0, golang.org/x/lint 20190308-snapshot-d0100b6b, golang.org/x/mod v0.19.0, golang.org/x/net v0.30.0, golang.org/x/oauth2 v0.22.0, golang.org/x/sync v0.8.0, golang.org/x/sys v0.26.0, golang.org/x/term v0.25.0, golang.org/x/time v0.6.0, golang.org/x/tools v0.23.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.19.0, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.13.0, googleapis/google-api-go-client v0.193.0, gorilla/css v1.0.0, gorilla/mux v1.8.1, grpc-gateway v2.22.0, kataras/golog v0.1.9, kataras/pio v0.0.12, klauspost-compress v1.17.2, mattn-go-colorable 0.1.13, rogpeppe/go-internal v1.13.1, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1605,7 +1605,7 @@ SOFTWARE
 ---
 
 MIT License
-(github.com/golang-jwt/jwt v3.2.1, github.com/golang-jwt/jwt v4.2.0)
+(golang-jwt/jwt v3.2.1, golang-jwt/jwt v4.2.0)
 
 Copyright (c) 2012 Dave Grijalva
 Copyright (c) 2021 golang-jwt maintainers
