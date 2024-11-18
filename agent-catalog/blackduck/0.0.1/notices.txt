@@ -187,6 +187,7 @@ all-MiniLM-L12-v2 : Apache License Version 2.0 January 2004
 Components: 
 
 aiohappyeyeballs 2.4.3 : Python Software Foundation License 2.0
+aiohttp 3.11.2 : Apache License 2.0
 aiosignal 1.3.1 : Apache License 2.0
 annotated-types 0.7.0 : MIT License
 ansi2html 2.10.0 : BSD 3-clause "New" or "Revised" License
@@ -208,19 +209,23 @@ gitignore-parser 0.1.11 : MIT License
 GitPython 3.1.43 : BSD 3-clause "New" or "Revised" License
 greenlet 3.1.1 : MIT License
 h11 0.14.0 : MIT License
-httpcore 1.0.6 : BSD 3-clause "New" or "Revised" License
+httpcore 1.0.7 : BSD 3-clause "New" or "Revised" License
 httpx 0.27.2 : BSD 3-clause "New" or "Revised" License
 huggingface-hub 0.26.2 : Apache License 2.0
 idna 3.10 : BSD 3-clause "New" or "Revised" License
 inflect.py 5.6.2 : MIT License
 isort 5.13.2 : MIT License
 Jinja 3.1.4 : BSD 3-clause "New" or "Revised" License
+jiter 0.7.1 : MIT License
 joblib 1.4.2 : BSD 3-clause "New" or "Revised" License
 jsbeautifier 1.15.1 : MIT License
 jsonschema-spec 0.2.4 : Apache License 2.0
 jsonschema-specifications 2023.7.1 : MIT License
+langchain 0.3.19 : MIT License
 langchain 0.3.7 : MIT License
+langchain-openai 0.2.8 : MIT License
 langchain-text-splitters 0.3.2 : MIT License
+langsmith 0.1.143 : MIT License
 lazy-object-proxy 1.10.0 : BSD 2-clause "Simplified" License
 MarkupSafe 3.0.2 : BSD 3-clause "New" or "Revised" License
 mpmath 1.3.0 : BSD 3-clause "New" or "Revised" License
@@ -240,6 +245,7 @@ nvidia-cusparse-cu12 12.3.1.170 : Basic Proprietary Commercial License
 nvidia-nccl-cu12 2.21.5 : 
 nvidia-nvjitlink-cu12 12.4.127 : Basic Proprietary Commercial License
 nvidia-nvtx-cu12 12.4.127 : 
+openai 1.54.4 : Apache License 2.0
 openapi-schema-validator 0.6.2 : BSD 3-clause "New" or "Revised" License
 openapi-spec-validator 0.6.0 : Apache License 2.0
 openapi3-parser 1.1.19 : MIT License
@@ -293,12 +299,11 @@ tqdm 4.67.0 : (MIT License AND Mozilla Public License 2.0)
 transformers 4.46.2 : Apache License 2.0
 triton 3.1.0 : MIT License
 urllib3 2.2.3 : MIT License
-yarl 1.17.1 : Apache License 2.0
 
 Licenses: 
 
 Apache License 2.0
-(aiosignal 1.3.1, argcomplete 3.5.1, couchbase-python-client 4.3.3, distro 1.9.0, docker 7.1.0, frozenlist 1.5.0, huggingface-hub 0.26.2, jsonschema-spec 0.2.4, multidict 6.1.0, openapi-spec-validator 0.6.0, orjson 3.10.11, Packaging 24.2, pathable 0.4.3, propcache 0.2.0, psf-requests 2.32.3, regex 2024.11.6, requests-toolbelt 1.0.0, safetensors 0.4.5, sniffio 1.3.1, tenacity 9.0.0, tokenizers 0.20.3, transformers 4.46.2, yarl 1.17.1)
+(aiohttp 3.11.2, aiosignal 1.3.1, argcomplete 3.5.1, couchbase-python-client 4.3.3, distro 1.9.0, docker 7.1.0, frozenlist 1.5.0, huggingface-hub 0.26.2, jsonschema-spec 0.2.4, multidict 6.1.0, openai 1.54.4, openapi-spec-validator 0.6.0, orjson 3.10.11, Packaging 24.2, pathable 0.4.3, propcache 0.2.0, psf-requests 2.32.3, regex 2024.11.6, requests-toolbelt 1.0.0, safetensors 0.4.5, sniffio 1.3.1, tenacity 9.0.0, tokenizers 0.20.3, transformers 4.46.2)
 
 Apache License
 Version 2.0, January 2004
@@ -514,7 +519,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(ansi2html 2.10.0, Click - Python Command Line Utility 8.1.7, filesystem_spec 2024.10.0, gitdb 4.0.11, GitPython 3.1.43, httpcore 1.0.6, httpx 0.27.2, idna 3.10, Jinja 3.1.4, joblib 1.4.2, MarkupSafe 3.0.2, mpmath 1.3.0, NetworkX 3.4.2, NumPy 1.26.4, openapi-schema-validator 0.6.2, python-dotenv 1.0.1, python-json-patch 1.33, python-json-pointer 3.0.0, pytorch 2.5.1, scikit-learn 1.5.2, SciPy 1.14.1, smmap 5.0.1, SymPy 1.13.1, threadpoolctl 3.5.0)
+(ansi2html 2.10.0, Click - Python Command Line Utility 8.1.7, filesystem_spec 2024.10.0, gitdb 4.0.11, GitPython 3.1.43, httpcore 1.0.7, httpx 0.27.2, idna 3.10, Jinja 3.1.4, joblib 1.4.2, MarkupSafe 3.0.2, mpmath 1.3.0, NetworkX 3.4.2, NumPy 1.26.4, openapi-schema-validator 0.6.2, python-dotenv 1.0.1, python-json-patch 1.33, python-json-pointer 3.0.0, pytorch 2.5.1, scikit-learn 1.5.2, SciPy 1.14.1, smmap 5.0.1, SymPy 1.13.1, threadpoolctl 3.5.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1373,7 +1378,7 @@ SOFTWARE
 ---
 
 MIT License
-(annotated-types 0.7.0, anyio 4.6.2.post1, black 24.10.0, datamodel-code-generator 0.26.3, genson 1.3.0, gitignore-parser 0.1.11, greenlet 3.1.1, h11 0.14.0, inflect.py 5.6.2, isort 5.13.2, jsbeautifier 1.15.1, jsonschema-specifications 2023.7.1, langchain 0.3.7, langchain-text-splitters 0.3.2, mypy-extensions 1.0.0, openapi3-parser 1.1.19, orjson 3.10.11, platformdirs 4.3.6, pydantic 2.9.2, pydantic-core 2.23.4, pydantic-settings 2.6.1, pytest 8.3.3, python-attrs 24.2.0, python-jsonschema 4.23.0, python-pluggy 1.5.0, python3-charset-normalizer 3.4.0, PyYAML 6.0.2, referencing 0.30.2, RonnyPfannschmidt/iniconfig 2.0.0, rpds-py 0.21.0, ruamel-yaml 0.18.6, ruamel.yaml.clib 0.2.12, SQLAlchemy 2.0.36, tiktoken 0.8.0, tqdm 4.67.0, triton 3.1.0, urllib3 2.2.3)
+(annotated-types 0.7.0, anyio 4.6.2.post1, black 24.10.0, datamodel-code-generator 0.26.3, genson 1.3.0, gitignore-parser 0.1.11, greenlet 3.1.1, h11 0.14.0, inflect.py 5.6.2, isort 5.13.2, jiter 0.7.1, jsbeautifier 1.15.1, jsonschema-specifications 2023.7.1, langchain 0.3.19, langchain 0.3.7, langchain-openai 0.2.8, langchain-text-splitters 0.3.2, langsmith 0.1.143, mypy-extensions 1.0.0, openapi3-parser 1.1.19, orjson 3.10.11, platformdirs 4.3.6, pydantic 2.9.2, pydantic-core 2.23.4, pydantic-settings 2.6.1, pytest 8.3.3, python-attrs 24.2.0, python-jsonschema 4.23.0, python-pluggy 1.5.0, python3-charset-normalizer 3.4.0, PyYAML 6.0.2, referencing 0.30.2, RonnyPfannschmidt/iniconfig 2.0.0, rpds-py 0.21.0, ruamel-yaml 0.18.6, ruamel.yaml.clib 0.2.12, SQLAlchemy 2.0.36, tiktoken 0.8.0, tqdm 4.67.0, triton 3.1.0, urllib3 2.2.3)
 
 The MIT License
 ===============
