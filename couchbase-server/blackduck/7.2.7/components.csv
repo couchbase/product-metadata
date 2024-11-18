@@ -460,7 +460,7 @@
 458,builtin-modules,3.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f8fb08e1-b946-4427-aaf1-0e684042bcc4,2ed1fff9-689e-4d38-b179-f241ad49b407,ad705c59-6893-4980-bdbf-0837f1823cc4
 459,builtins,1.0.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e742292d-48c1-4623-b77e-95549d20f028,f7bdff7f-b2cf-44d4-b64b-d4cbdbc9cf1b,ad705c59-6893-4980-bdbf-0837f1823cc4
 460,c-ares,1.19.1,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,3c284f73-2808-4837-845b-b6725cf7e840,f73838ea-2101-4f05-a9f7-3cc559ffbd95,ad705c59-6893-4980-bdbf-0837f1823cc4
-461,ca-certificates,2024.2.2,Manually Added,ISC License,PERMISSIVE,NOT_REVIEWED,530bae3a-a2ad-4bd6-810d-854fe6b57b9b,3f43e461-f878-4b2d-a837-3d9964a61bcc,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
+461,ca-certificates,2024.7.4,Manually Added,Unknown License,UNKNOWN,NOT_REVIEWED,530bae3a-a2ad-4bd6-810d-854fe6b57b9b,8cb505a4-300b-4fa7-8950-d9def6b027aa,00000000-0010-0000-0000-000000000000
 462,cacache,15.0.0,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,d788f65b-9c15-4e28-ac83-7d75e46827de,2230e899-0379-4325-b053-ad2dd6fadc10,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
 463,cacheable-lookup,2.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,009c4e29-dd44-491f-b71b-63f608df476e,09de0fdb-f74c-4b4a-96e4-cadd498a9727,ad705c59-6893-4980-bdbf-0837f1823cc4
 464,cacheable-request,7.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e7b092f0-6bd2-4775-99e1-2a3caadd0900,70df40d9-d9d9-4974-8d43-7c81e3fc6519,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -1070,7 +1070,7 @@
 1068,google/renameio,v0.1.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9754a5b0-76c6-46bb-816b-cddcec5479bc,142ff286-fc5d-45c1-bb1f-bf6d7011df7c,7cae335f-1193-421e-92f1-8802b4243e93
 1069,google/s2a-go,v0.1.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d2298889-2e00-4963-91c6-9778f9d5aa97,588cf00f-80fe-4b5f-90b3-bbabec8d978a,7cae335f-1193-421e-92f1-8802b4243e93
 1070,google/subcommands,v1.0.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,e64b82c3-960a-4eea-ba28-0812b33135b6,3a12025d-5c10-4352-9bfc-4b69a46fd644,7cae335f-1193-421e-92f1-8802b4243e93
-1071,google/uuid,20180803-snapshot,Exact,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,54fe5fe0-f88f-4c83-988d-59e9fc584133,91ec788d-68be-4a55-9fab-bb670418dbde,3d238144-44e6-450e-b523-3defbdaed9dc
+1071,google/uuid,20180806-snapshot,Exact,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,54fe5fe0-f88f-4c83-988d-59e9fc584133,6096d992-4c11-496f-a878-372ff1dd8f57,3d238144-44e6-450e-b523-3defbdaed9dc
 1072,google/uuid,v1.1.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,54fe5fe0-f88f-4c83-988d-59e9fc584133,c510ebf7-06c1-42ea-8626-5a17f5113d14,3d238144-44e6-450e-b523-3defbdaed9dc
 1073,google/uuid,v1.2.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,54fe5fe0-f88f-4c83-988d-59e9fc584133,f9054b40-9c1a-4c4e-9a15-c75654a2e17e,3d238144-44e6-450e-b523-3defbdaed9dc
 1074,google/uuid,v1.3.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,54fe5fe0-f88f-4c83-988d-59e9fc584133,51cbe7fa-bc2a-4161-a2ac-d44083d55285,3d238144-44e6-450e-b523-3defbdaed9dc
@@ -1438,7 +1438,7 @@
 1436,pkg/browser,20210911-snapshot-681adbf5,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,22bdd5c3-7443-482d-a9db-d7d9da92e77f,f50b30ef-34cb-4aff-8e21-6704c98b12fb,cc875133-df38-4806-9921-473e0ef01a87
 1437,pkg/diff,20210226-snapshot-20ebb0f2,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bec87793-4c85-4700-b0df-4dab428254dc,11c587cc-1f94-4449-9536-aa0b039c109e,3d238144-44e6-450e-b523-3defbdaed9dc
 1438,pkg/errors,20180417-snapshot-30136e27,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,388c0d45-4bce-4849-af71-7c01455d0e5b,b463892e-ef27-4768-8e4e-dd5f938cbfd1,cc875133-df38-4806-9921-473e0ef01a87
-1439,pkg/errors,20180501-snapshot,Exact,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,388c0d45-4bce-4849-af71-7c01455d0e5b,fb98efcc-7051-4908-9414-ba2d133c6acb,cc875133-df38-4806-9921-473e0ef01a87
+1439,pkg/errors,20180622-snapshot,Exact,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,388c0d45-4bce-4849-af71-7c01455d0e5b,6853768a-fc05-4f00-be9d-a7ddd928be9e,cc875133-df38-4806-9921-473e0ef01a87
 1440,pkg/errors,v0.9.1,Direct Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,388c0d45-4bce-4849-af71-7c01455d0e5b,53f04c37-067e-4597-a695-0b68ded07687,cc875133-df38-4806-9921-473e0ef01a87
 1441,pmezard-go-difflib,1.0.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,b17e8536-f6a6-455f-a660-0f40479eaf40,d1de4ee2-14d9-46be-9755-0dc7cd89c0d4,3d238144-44e6-450e-b523-3defbdaed9dc
 1442,posener/complete,v1.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,66d550aa-f164-4904-8af5-c05aac5e87ab,a451be32-b417-4446-b147-82400e1f49df,ad705c59-6893-4980-bdbf-0837f1823cc4
