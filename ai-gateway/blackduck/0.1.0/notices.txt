@@ -26,7 +26,6 @@ exp 20190121-snapshot-509febef : BSD 3-clause "New" or "Revised" License
 gabs v2.7.0 : MIT License
 github.com/cncf/xds 20231128-snapshot-0fa0005c : Apache License 2.0
 github.com/go-kit/log v0.2.1 : MIT License
-github.com/konsorten/go-windows-terminal-sequences v1.0.1 : MIT License
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.9.0 : MIT License
 go-check-check 20201130-snapshot-10cb9826 : BSD 2-clause "Simplified" License
@@ -93,7 +92,7 @@ prometheus-common 0.55.0 : Apache License 2.0
 prometheus-procfs v0.15.1 : Apache License 2.0
 pty v1.1.1 : MIT License
 rogpeppe/go-internal v1.10.0 : BSD 3-clause "New" or "Revised" License
-Sirupsen/logrus v1.4.2 : MIT License
+Sirupsen/logrus v1.9.3 : MIT License
 stretchr/objx v0.5.2 : MIT License
 uber-go/atomic 1.7.0 : MIT License
 xhit/go-str2duration v2.1.0 : BSD 3-clause "New" or "Revised" License
@@ -622,21 +621,6 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 MIT License
-(github.com/konsorten/go-windows-terminal-sequences v1.0.1)
-
-(The MIT License)
-
-Copyright (c) 2017 marvin + konsorten GmbH (open-source@konsorten.de)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (beorn7-perks v1.0.1)
 
 Copyright (C) 2013 Blake Mizerany
@@ -862,7 +846,7 @@ SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, cespare/xxhash v2.3.0, dominikh/go-tools 20190523-snapshot-ea95bdfd, gabs v2.7.0, github.com/go-kit/log v0.2.1, Go Testify v1.9.0, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, kr/pretty v0.3.1, mfonda/simhash 20151007-snapshot-79f94a11, stretchr/objx v0.5.2, yaml for Go v3.0.1)
+(alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, cespare/xxhash v2.3.0, dominikh/go-tools 20190523-snapshot-ea95bdfd, gabs v2.7.0, github.com/go-kit/log v0.2.1, Go Testify v1.9.0, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, kr/pretty v0.3.1, mfonda/simhash 20151007-snapshot-79f94a11, Sirupsen/logrus v1.9.3, stretchr/objx v0.5.2, yaml for Go v3.0.1)
 
 The MIT License
 ===============
@@ -966,33 +950,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
-
----
-
-MIT License
-(Sirupsen/logrus v1.4.2)
-
-The MIT License (MIT)
-
-Copyright (c) 2014 Simon Eskildsen
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
 
 ---
 
