@@ -60,7 +60,7 @@ envoyproxy/go-control-plane v0.12.0 : Apache License 2.0
 envoyproxy/protoc-gen-validate 1.0.4 : Apache License 2.0
 errcheck v1.5.0-alpha : MIT License
 exp 20240806-snapshot-0cdaa3ab : BSD 3-clause "New" or "Revised" License
-felixge/fgprof v0.9.4 : MIT License
+felixge/fgprof v0.9.5 : MIT License
 frankban/quicktest 1.14.0 : Expat License
 github.com/cncf/xds 20231128-snapshot-0fa0005c : Apache License 2.0
 github.com/go-kit/log v0.2.1 : MIT License
@@ -73,7 +73,7 @@ github.com/shoenig/go-m1cpu v0.1.6 : Mozilla Public License 2.0
 github.com/shoenig/test v0.6.4 : Mozilla Public License 2.0
 github.com/yusufpapurcu/wmi v1.2.4 : MIT License
 Go programming language 1.23.3 : BSD 3-clause "New" or "Revised" License
-Go Testify v1.9.0 : MIT License
+Go Testify v1.10.0 : MIT License
 go-autorest autorest/adal/v0.9.23 : Apache License 2.0
 go-autorest autorest/date/v0.3.0 : Apache License 2.0
 go-autorest logger/v0.2.1 : Apache License 2.0
@@ -107,20 +107,20 @@ golang-github-elazarl-go-bindata-assetfs-dev 1.0.0 : BSD 2-clause "Simplified" L
 golang-jwt/jwt v4.5.0 : MIT License
 golang-mock v1.6.0 : Apache License 2.0
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto v0.26.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto v0.29.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/lint 20190930-snapshot-16217165 : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod v0.20.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/net v0.28.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/oauth2 v0.22.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sync v0.8.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.23.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/term v0.23.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/net v0.31.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/oauth2 v0.24.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sync v0.9.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.27.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/term v0.26.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.3.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools v0.24.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20220907-snapshot-04be3eba : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.8 : Apache License 2.0
 golang/glog v1.2.0 : Apache License 2.0
-golang/text v0.19.0 : BSD 3-clause "New" or "Revised" License
+golang/text v0.20.0 : BSD 3-clause "New" or "Revised" License
 google-cloud-go compute/metadata/v0.3.0 : Apache License 2.0
 google-cloud-go compute/v1.24.0 : Apache License 2.0
 google-cloud-go iam/v1.1.0 : Apache License 2.0
@@ -678,7 +678,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20240806-snapshot-0cdaa3ab, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.23.3, Golang Protobuf v1.34.2, Golang Protobuf v1.5.4, golang.org/x/crypto v0.26.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.20.0, golang.org/x/net v0.28.0, golang.org/x/oauth2 v0.22.0, golang.org/x/sync v0.8.0, golang.org/x/sys v0.23.0, golang.org/x/term v0.23.0, golang.org/x/time v0.3.0, golang.org/x/tools v0.24.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.19.0, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.11.0, gopsutil v3.24.5, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.11, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.22, rogpeppe/go-internal v1.11.0, tklauser/go-sysconf v0.3.12, xhit/go-str2duration v2.1.0)
+(exp 20240806-snapshot-0cdaa3ab, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.23.3, Golang Protobuf v1.34.2, Golang Protobuf v1.5.4, golang.org/x/crypto v0.29.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.20.0, golang.org/x/net v0.31.0, golang.org/x/oauth2 v0.24.0, golang.org/x/sync v0.9.0, golang.org/x/sys v0.27.0, golang.org/x/term v0.26.0, golang.org/x/time v0.3.0, golang.org/x/tools v0.24.0, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.20.0, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.11.0, gopsutil v3.24.5, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.11, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.22, rogpeppe/go-internal v1.11.0, tklauser/go-sysconf v0.3.12, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1328,7 +1328,7 @@ SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, Azure/azure-sdk-for-go sdk/azcore/v1.6.1, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.3.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cespare/xxhash v2.3.0, chromedp/cdproto 20230802-snapshot-3cf4e6d4, chromedp/chromedp v0.9.2, chzyer-readline 20160726-snapshot-62c6fe61, chzyer-readline v1.5.1, chzyer/logex v1.2.1, chzyer/test v1.0.0, cilium/ebpf v0.9.1, couchbase-gomemcached v0.2.1, dominikh/go-tools 20190523-snapshot-ea95bdfd, felixge/fgprof v0.9.4, github.com/go-kit/log v0.2.1, github.com/KimMachineGun/automemlimit v0.6.1, github.com/power-devops/perfstat 20210106-snapshot-5aafc221, github.com/yusufpapurcu/wmi v1.2.4, Go Testify v1.9.0, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, gobwas/ws v1.2.1, golang-jwt/jwt v4.5.0, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.23, natefinch/lumberjack v2.2.1, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.2, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
+(alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, Azure/azure-sdk-for-go sdk/azcore/v1.6.1, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.3.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.0.0, cespare/xxhash v2.3.0, chromedp/cdproto 20230802-snapshot-3cf4e6d4, chromedp/chromedp v0.9.2, chzyer-readline 20160726-snapshot-62c6fe61, chzyer-readline v1.5.1, chzyer/logex v1.2.1, chzyer/test v1.0.0, cilium/ebpf v0.9.1, couchbase-gomemcached v0.2.1, dominikh/go-tools 20190523-snapshot-ea95bdfd, felixge/fgprof v0.9.5, github.com/go-kit/log v0.2.1, github.com/KimMachineGun/automemlimit v0.6.1, github.com/power-devops/perfstat 20210106-snapshot-5aafc221, github.com/yusufpapurcu/wmi v1.2.4, Go Testify v1.10.0, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, gobwas/ws v1.2.1, golang-jwt/jwt v4.5.0, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.23, natefinch/lumberjack v2.2.1, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.2, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
