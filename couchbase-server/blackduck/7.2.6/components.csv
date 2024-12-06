@@ -538,7 +538,7 @@
 536,couchbase/n1fty,20230413-snapshot-f925ceeb,Files Modified,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,8dae37b6-0a75-4151-91f9-e4b370c8c224,f2337de3-918c-4c99-a4a8-4a4a152e4f7a,dde70004-f23f-437a-8982-c1aca19e3165
 537,couchbase/nitro,20221007-snapshot-92d53613,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,979b8a97-d2c4-4f7b-8c22-e3d6a58e1d3c,36918df7-8e04-4053-be4d-7df5e61db806,7cae335f-1193-421e-92f1-8802b4243e93
 538,couchbase/phosphor,v7.1.4-MP1,Exact,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bb67dc00-250c-45b5-8af4-24bb398d6e60,ee505bd7-340c-4e76-bb53-0b6f4a45f505,7cae335f-1193-421e-92f1-8802b4243e93
-539,couchbase/query-ui,20240913-snapshot-7b0ed58c,"Exact,Files Modified",Unknown License,UNKNOWN,NOT_REVIEWED,2dbe94f7-872f-4bab-bbdd-04d7575be94d,a0208b0d-11aa-42be-87e8-800dd40b13a7,00000000-0010-0000-0000-000000000000
+539,couchbase/query-ui,20241119-snapshot-704c1b26,"Exact,Files Modified",Unknown License,UNKNOWN,NOT_REVIEWED,2dbe94f7-872f-4bab-bbdd-04d7575be94d,d6ab2cdc-dbee-4d0b-b2fe-52af7b8a0b49,00000000-0010-0000-0000-000000000000
 540,couchbase/subjson,v7.1.4-MP4,Exact,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9b8e28d2-78a8-494c-aa8a-01cc0380acef,684c82b0-3e3f-4361-8bdd-3c546ec7dd8c,7cae335f-1193-421e-92f1-8802b4243e93
 541,couchbase/vellum,v1.0.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8c6511e5-6c0d-4b3f-9fb9-697bcb24ac2b,9082e84f-ee13-4f4d-9673-3cb4b37d1db3,7cae335f-1193-421e-92f1-8802b4243e93
 542,couchbaselabs-query,,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,197fb5a7-500f-493a-b5e6-2d4b6acffa41,,dde70004-f23f-437a-8982-c1aca19e3165
@@ -1338,26 +1338,26 @@
 1336,modern-go/reflect2,v1.0.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,78acd48b-3cf3-499d-841b-1fefe4a6ff4a,98674acf-61fb-4d17-8d9d-6960cb6f7cbe,7cae335f-1193-421e-92f1-8802b4243e93
 1337,morikuni/aec,v1.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d380cbb5-6428-4f2c-aeb0-a86352dc263a,d5a64eb0-aa16-43d1-b33d-227ac4e71066,ad705c59-6893-4980-bdbf-0837f1823cc4
 1338,move-concurrently,1.0.1,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,c489892a-80a5-4d9e-bec4-fa8dac576d25,f661c97c-58f9-4a63-b5a4-24aa6fed75c6,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
-1339,ms.js,2.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,36cb81b8-10ef-4223-ac3e-1ad33244d3fa,b68b9c20-284e-4f4c-aafa-3ae7f9841fd1,ad705c59-6893-4980-bdbf-0837f1823cc4
-1340,ms.js,2.1.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,36cb81b8-10ef-4223-ac3e-1ad33244d3fa,919ff8d8-c4b0-4c45-b134-8b2f7fa18865,ad705c59-6893-4980-bdbf-0837f1823cc4
-1341,msal4j,1.14.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,27769567-a4d8-4330-9956-723033636500,509876a3-ac83-4526-9ac5-a0fc20481bc9,ad705c59-6893-4980-bdbf-0837f1823cc4
-1342,msal4j-persistence-extension,1.2.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,575477a9-e131-4816-9c46-49260b039e9c,4b4979ef-6932-4d9e-afb7-53a676758768,ad705c59-6893-4980-bdbf-0837f1823cc4
-1343,mschoch/smat,v0.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,53cb74a5-4292-4caf-b01c-1a00da85a4f2,a2380af7-8301-4c58-a342-e3deeeb0fcde,7cae335f-1193-421e-92f1-8802b4243e93
-1344,msgpack-core,0.8.20,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ee52babc-d5d9-4148-af37-60c1abfe8aff,ae1b561a-466b-447f-9a96-f690f963e54f,7cae335f-1193-421e-92f1-8802b4243e93
-1345,msgpack-python,1.0.7,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d265c559-74ea-4baa-a993-2089ca47efde,13111684-ffae-4c84-a918-2bd2d74fe13b,7cae335f-1193-421e-92f1-8802b4243e93
-1346,murmur3,20181015-snapshot-f09979ec,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,adb72186-2a66-4d51-928b-72c903d1c6ca,6a26196f-ec74-4f24-b166-e3141f6e896a,3d238144-44e6-450e-b523-3defbdaed9dc
-1347,mwitkow/go-conntrack,20161129-snapshot-cc309e4a,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9992ac64-95b6-415c-8d99-9849bc4a1072,299d5dea-e1ba-48a5-8b34-6df50a06e0d9,7cae335f-1193-421e-92f1-8802b4243e93
-1348,mwitkow/go-conntrack,20190716-snapshot-2f068394,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9992ac64-95b6-415c-8d99-9849bc4a1072,feaed800-7a77-4c82-948c-1f77c12fa4dc,7cae335f-1193-421e-92f1-8802b4243e93
-1349,natefinch/npipe,20180227-snapshot-c1b8fa8b,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7ce5346d-185e-49ca-8c8c-9356dda78b86,fbef5a27-c98b-44ed-816b-78ad1b6e312e,ad705c59-6893-4980-bdbf-0837f1823cc4
-1350,natsort,8.4.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,c935b0a6-c4ad-449b-bea6-e953ad632518,39ea8983-b8ff-415a-9398-f1eddb9a3b31,ad705c59-6893-4980-bdbf-0837f1823cc4
-1351,natural-compare,1.4.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6724750e-4ff6-4a11-8fac-db072eeb62df,0200c923-001f-47e7-851d-0eae89ecd45d,ad705c59-6893-4980-bdbf-0837f1823cc4
-1352,ncurses,6.4.20240210,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,7273e9b6-fd06-4da3-882b-391c9d4ea758,56057481-f6c7-4eaf-a84e-2a27ce1f7c52,ad705c59-6893-4980-bdbf-0837f1823cc4
-1353,ngx-clipboard,12.3.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e8343542-48e4-429f-b9c2-fd1696f136e0,9a4d1573-eb5c-4763-aee5-3033bb31103e,ad705c59-6893-4980-bdbf-0837f1823cc4
-1354,ngx-window-token,2.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,98819ab6-3ff3-4e5d-97ab-a1d9a40043f8,5873fcf0-af9a-472f-be60-2c67b6b85b22,ad705c59-6893-4980-bdbf-0837f1823cc4
-1355,nhooyr/websocket,v1.8.7,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,2569c1f5-8b71-470f-9bc2-d7b760970de3,ce36d2eb-3ddc-44d4-9e38-8c3efda3ac38,ad705c59-6893-4980-bdbf-0837f1823cc4
-1356,node-cachedir,2.3.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cc377925-fb64-48e6-be0b-ff4a4bce711f,eb20ddce-6877-4dad-ba2e-f376e2d6c5b5,ad705c59-6893-4980-bdbf-0837f1823cc4
-1357,node-concat-map,0.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,97d28f7a-cd36-43a3-852d-671af4f14041,1f84faee-c85e-4a68-9977-4c86fa8dd73c,ad705c59-6893-4980-bdbf-0837f1823cc4
-1358,node-cross-spawn,7.0.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d9a445ba-08b2-42ad-bf08-3a0e9d6371a6,277b914c-dba5-4cc7-9989-ded3552e0b5a,ad705c59-6893-4980-bdbf-0837f1823cc4
+1339,moxystudio/node-cross-spawn,7.0.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6b0542e2-2b8b-4de5-8e68-a7d3345acc3c,8f2e5367-c7a3-4a53-8eee-8f037b4c65b3,ad705c59-6893-4980-bdbf-0837f1823cc4
+1340,ms.js,2.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,36cb81b8-10ef-4223-ac3e-1ad33244d3fa,b68b9c20-284e-4f4c-aafa-3ae7f9841fd1,ad705c59-6893-4980-bdbf-0837f1823cc4
+1341,ms.js,2.1.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,36cb81b8-10ef-4223-ac3e-1ad33244d3fa,919ff8d8-c4b0-4c45-b134-8b2f7fa18865,ad705c59-6893-4980-bdbf-0837f1823cc4
+1342,msal4j,1.14.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,27769567-a4d8-4330-9956-723033636500,509876a3-ac83-4526-9ac5-a0fc20481bc9,ad705c59-6893-4980-bdbf-0837f1823cc4
+1343,msal4j-persistence-extension,1.2.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,575477a9-e131-4816-9c46-49260b039e9c,4b4979ef-6932-4d9e-afb7-53a676758768,ad705c59-6893-4980-bdbf-0837f1823cc4
+1344,mschoch/smat,v0.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,53cb74a5-4292-4caf-b01c-1a00da85a4f2,a2380af7-8301-4c58-a342-e3deeeb0fcde,7cae335f-1193-421e-92f1-8802b4243e93
+1345,msgpack-core,0.8.20,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ee52babc-d5d9-4148-af37-60c1abfe8aff,ae1b561a-466b-447f-9a96-f690f963e54f,7cae335f-1193-421e-92f1-8802b4243e93
+1346,msgpack-python,1.0.7,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d265c559-74ea-4baa-a993-2089ca47efde,13111684-ffae-4c84-a918-2bd2d74fe13b,7cae335f-1193-421e-92f1-8802b4243e93
+1347,murmur3,20181015-snapshot-f09979ec,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,adb72186-2a66-4d51-928b-72c903d1c6ca,6a26196f-ec74-4f24-b166-e3141f6e896a,3d238144-44e6-450e-b523-3defbdaed9dc
+1348,mwitkow/go-conntrack,20161129-snapshot-cc309e4a,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9992ac64-95b6-415c-8d99-9849bc4a1072,299d5dea-e1ba-48a5-8b34-6df50a06e0d9,7cae335f-1193-421e-92f1-8802b4243e93
+1349,mwitkow/go-conntrack,20190716-snapshot-2f068394,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9992ac64-95b6-415c-8d99-9849bc4a1072,feaed800-7a77-4c82-948c-1f77c12fa4dc,7cae335f-1193-421e-92f1-8802b4243e93
+1350,natefinch/npipe,20180227-snapshot-c1b8fa8b,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7ce5346d-185e-49ca-8c8c-9356dda78b86,fbef5a27-c98b-44ed-816b-78ad1b6e312e,ad705c59-6893-4980-bdbf-0837f1823cc4
+1351,natsort,8.4.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,c935b0a6-c4ad-449b-bea6-e953ad632518,39ea8983-b8ff-415a-9398-f1eddb9a3b31,ad705c59-6893-4980-bdbf-0837f1823cc4
+1352,natural-compare,1.4.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6724750e-4ff6-4a11-8fac-db072eeb62df,0200c923-001f-47e7-851d-0eae89ecd45d,ad705c59-6893-4980-bdbf-0837f1823cc4
+1353,ncurses,6.4.20240210,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,7273e9b6-fd06-4da3-882b-391c9d4ea758,56057481-f6c7-4eaf-a84e-2a27ce1f7c52,ad705c59-6893-4980-bdbf-0837f1823cc4
+1354,ngx-clipboard,12.3.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e8343542-48e4-429f-b9c2-fd1696f136e0,9a4d1573-eb5c-4763-aee5-3033bb31103e,ad705c59-6893-4980-bdbf-0837f1823cc4
+1355,ngx-window-token,2.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,98819ab6-3ff3-4e5d-97ab-a1d9a40043f8,5873fcf0-af9a-472f-be60-2c67b6b85b22,ad705c59-6893-4980-bdbf-0837f1823cc4
+1356,nhooyr/websocket,v1.8.7,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,2569c1f5-8b71-470f-9bc2-d7b760970de3,ce36d2eb-3ddc-44d4-9e38-8c3efda3ac38,ad705c59-6893-4980-bdbf-0837f1823cc4
+1357,node-cachedir,2.3.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cc377925-fb64-48e6-be0b-ff4a4bce711f,eb20ddce-6877-4dad-ba2e-f376e2d6c5b5,ad705c59-6893-4980-bdbf-0837f1823cc4
+1358,node-concat-map,0.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,97d28f7a-cd36-43a3-852d-671af4f14041,1f84faee-c85e-4a68-9977-4c86fa8dd73c,ad705c59-6893-4980-bdbf-0837f1823cc4
 1359,node-entities,2.0.3,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,aac24f32-0d82-44ae-9ee6-7f68ff2527dd,c40c614b-be90-490a-b7d1-7a561b7a0f98,cc875133-df38-4806-9921-473e0ef01a87
 1360,node-error-ex,1.3.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e1a2b5c2-c17a-4387-8ec7-254b7c825de4,5aa08abf-8fee-4563-a691-63c12de1fb58,ad705c59-6893-4980-bdbf-0837f1823cc4
 1361,node-glob,v7.1.6,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,d32f8e55-72b1-4da8-b958-661c525366e6,4865b503-3786-4bd9-bb52-c0de09986c3a,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
