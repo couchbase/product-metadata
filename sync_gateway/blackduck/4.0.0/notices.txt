@@ -37,7 +37,7 @@ chzyer/logex v1.2.1 : MIT License
 chzyer/test v1.0.0 : MIT License
 cilium/ebpf v0.9.1 : MIT License
 client9/misspell v0.3.4 : (MIT License AND BSD 3-clause "New" or "Revised" License)
-client_golang v1.20.0 : Apache License 2.0
+client_golang v1.20.5 : Apache License 2.0
 cncf/udpa 20191208-snapshot-269d4d46 : Apache License 2.0
 containerd/cgroups v3.0.1 : Apache License 2.0
 coreos-go-oidc v3.11.0 : Apache License 2.0
@@ -119,20 +119,20 @@ golang-jwt/jwt v4.5.0 : MIT License
 golang-jwt/jwt v5.2.0 : MIT License
 golang-mock v1.6.0 : Apache License 2.0
 golang-snappy-go-dev v0.0.4 : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto v0.29.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto v0.30.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/lint 20190930-snapshot-16217165 : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod v0.20.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/net v0.31.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/net v0.32.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 v0.24.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sync v0.9.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.27.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/term v0.26.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sync v0.10.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.28.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/term v0.27.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.5.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools v0.24.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20231011-snapshot-104605ab : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.8 : Apache License 2.0
 golang/glog v1.2.0 : Apache License 2.0
-golang/text v0.20.0 : BSD 3-clause "New" or "Revised" License
+golang/text v0.21.0 : BSD 3-clause "New" or "Revised" License
 google-cloud-go compute/metadata/v0.3.0 : Apache License 2.0
 google-cloud-go compute/v1.24.0 : Apache License 2.0
 google-cloud-go iam/v1.1.5 : Apache License 2.0
@@ -209,7 +209,7 @@ yuin/goldmark v1.2.1 : MIT License
 Licenses: 
 
 Apache License 2.0
-(aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.5.4, aws/aws-sdk-go-v2 feature/s3/manager/v1.15.15, aws/aws-sdk-go-v2 internal/configsources/v1.2.10, aws/aws-sdk-go-v2 internal/endpoints/v2.5.10, aws/aws-sdk-go-v2 internal/v4a/v1.2.10, aws/aws-sdk-go-v2 service/internal/accept-encoding/v1.10.4, aws/aws-sdk-go-v2 service/internal/checksum/v1.2.10, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.10.10, aws/aws-sdk-go-v2 service/internal/s3shared/v1.16.10, aws/aws-sdk-go-v2 service/s3/v1.48.1, aws/aws-sdk-go-v2 v1.24.1, census-instrumentation/opencensus-go v0.24.0, client_golang v1.20.0, cncf/udpa 20191208-snapshot-269d4d46, containerd/cgroups v3.0.1, coreos-go-oidc v3.11.0, couchbase-blance v0.1.6, couchbase-cbauth v0.1.12, couchbase-cbgt 20241111-snapshot-b9fdd9b0, couchbase-goutils v0.1.2, couchbase/gocbcore v10.5.2, couchbaselabs/gocaves 20230329-snapshot-05e3ba4f, couchbaselabs/gocbconnstr v1.0.5, docker-go-units v0.4.0, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, github.com/aws/smithy-go v1.19.0, github.com/cncf/xds 20231128-snapshot-0fa0005c, go-autorest autorest/adal/v0.9.23, go-autorest autorest/date/v0.3.0, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v4.0.4, go-logr/logr v1.4.1, go-logr/stdr v1.2.2, go-systemd v22.3.2, gocb v2.9.1, godebug v1.1.0, golang-mock v1.6.0, golang/appengine v1.6.8, golang/glog v1.2.0, google-cloud-go compute/metadata/v0.3.0, google-cloud-go compute/v1.24.0, google-cloud-go iam/v1.1.5, google-cloud-go storage/v1.36.0, google-cloud-go v0.111.0, google-gofuzz v1.0.0, google/pprof 20240227-snapshot-401108e1, google/s2a-go v0.1.7, googleapis/enterprise-certificate-proxy v0.3.2, googleapis/go-genproto 20240227-snapshot-6ceb2ff1, googleapis/go-genproto 20240401-snapshot-c3f98211, groupcache 20210331-snapshot-41bb18bf, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-go v1.63.2, jmespath-go-jmespath v0.4.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, open-telemetry/opentelemetry-go metric/v1.24.0, open-telemetry/opentelemetry-go trace/v1.24.0, open-telemetry/opentelemetry-go v1.24.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.49.0, open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.46.1, OpenCensus v0.4.1, opencontainers-runtime-spec v1.0.2, opentracing-opentracing-go 1.1.0, prometheus-client_model v0.6.1, prometheus-common 0.55.0, prometheus-procfs v0.15.1, sergi/go-diff v1.2.0, sync_gateway 3.2.0, tklauser/numcpus v0.6.1, wheelcomplex/gosigar v0.14.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
+(aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.5.4, aws/aws-sdk-go-v2 feature/s3/manager/v1.15.15, aws/aws-sdk-go-v2 internal/configsources/v1.2.10, aws/aws-sdk-go-v2 internal/endpoints/v2.5.10, aws/aws-sdk-go-v2 internal/v4a/v1.2.10, aws/aws-sdk-go-v2 service/internal/accept-encoding/v1.10.4, aws/aws-sdk-go-v2 service/internal/checksum/v1.2.10, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.10.10, aws/aws-sdk-go-v2 service/internal/s3shared/v1.16.10, aws/aws-sdk-go-v2 service/s3/v1.48.1, aws/aws-sdk-go-v2 v1.24.1, census-instrumentation/opencensus-go v0.24.0, client_golang v1.20.5, cncf/udpa 20191208-snapshot-269d4d46, containerd/cgroups v3.0.1, coreos-go-oidc v3.11.0, couchbase-blance v0.1.6, couchbase-cbauth v0.1.12, couchbase-cbgt 20241111-snapshot-b9fdd9b0, couchbase-goutils v0.1.2, couchbase/gocbcore v10.5.2, couchbaselabs/gocaves 20230329-snapshot-05e3ba4f, couchbaselabs/gocbconnstr v1.0.5, docker-go-units v0.4.0, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, github.com/aws/smithy-go v1.19.0, github.com/cncf/xds 20231128-snapshot-0fa0005c, go-autorest autorest/adal/v0.9.23, go-autorest autorest/date/v0.3.0, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v4.0.4, go-logr/logr v1.4.1, go-logr/stdr v1.2.2, go-systemd v22.3.2, gocb v2.9.1, godebug v1.1.0, golang-mock v1.6.0, golang/appengine v1.6.8, golang/glog v1.2.0, google-cloud-go compute/metadata/v0.3.0, google-cloud-go compute/v1.24.0, google-cloud-go iam/v1.1.5, google-cloud-go storage/v1.36.0, google-cloud-go v0.111.0, google-gofuzz v1.0.0, google/pprof 20240227-snapshot-401108e1, google/s2a-go v0.1.7, googleapis/enterprise-certificate-proxy v0.3.2, googleapis/go-genproto 20240227-snapshot-6ceb2ff1, googleapis/go-genproto 20240401-snapshot-c3f98211, groupcache 20210331-snapshot-41bb18bf, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-go v1.63.2, jmespath-go-jmespath v0.4.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, open-telemetry/opentelemetry-go metric/v1.24.0, open-telemetry/opentelemetry-go trace/v1.24.0, open-telemetry/opentelemetry-go v1.24.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.49.0, open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.46.1, OpenCensus v0.4.1, opencontainers-runtime-spec v1.0.2, opentracing-opentracing-go 1.1.0, prometheus-client_model v0.6.1, prometheus-common 0.55.0, prometheus-procfs v0.15.1, sergi/go-diff v1.2.0, sync_gateway 3.2.0, tklauser/numcpus v0.6.1, wheelcomplex/gosigar v0.14.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -657,7 +657,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20240806-snapshot-0cdaa3ab, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.23.3, Golang Protobuf v1.34.2, Golang Protobuf v1.5.4, golang.org/x/crypto v0.29.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.20.0, golang.org/x/net v0.31.0, golang.org/x/oauth2 v0.24.0, golang.org/x/sync v0.9.0, golang.org/x/sys v0.27.0, golang.org/x/term v0.26.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.24.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/text v0.20.0, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.12.0, googleapis/google-api-go-client v0.154.0, gopsutil v3.24.5, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.11, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.22, rogpeppe/go-internal v1.11.0, tklauser/go-sysconf v0.3.12, xhit/go-str2duration v2.1.0)
+(exp 20240806-snapshot-0cdaa3ab, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.23.3, Golang Protobuf v1.34.2, Golang Protobuf v1.5.4, golang.org/x/crypto v0.30.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.20.0, golang.org/x/net v0.32.0, golang.org/x/oauth2 v0.24.0, golang.org/x/sync v0.10.0, golang.org/x/sys v0.28.0, golang.org/x/term v0.27.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.24.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/text v0.21.0, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.12.0, googleapis/google-api-go-client v0.154.0, gopsutil v3.24.5, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.11, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.22, rogpeppe/go-internal v1.11.0, tklauser/go-sysconf v0.3.12, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
