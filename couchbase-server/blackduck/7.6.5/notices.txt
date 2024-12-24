@@ -356,6 +356,7 @@ Bouncy Castle 1.79 : (MIT License AND Apache License 2.0)
 Bouncy Castle ASN.1 Extension and Utility APIs 1.79 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79 : MIT License
 brace-expansion 1.1.11 : MIT License
+braces 3.0.2 : MIT License
 Breakpad r835 : BSD 3-clause "New" or "Revised" License
 brotli v1.1.0 : MIT License
 browserify/resolve v1.17.0 : MIT License
@@ -685,6 +686,7 @@ github.com/aws/smithy-go v1.13.5 : Apache License 2.0
 github.com/aws/smithy-go v1.19.0 : Apache License 2.0
 github.com/aws/smithy-go v1.20.2 : Apache License 2.0
 github.com/aws/smithy-go v1.20.3 : Apache License 2.0
+github.com/blevesearch/go-faiss v1.0.24 : 
 github.com/blevesearch/vellum v1.0.10 : Apache License 2.0
 github.com/blevesearch/vellum v1.0.9 : Apache License 2.0
 github.com/blevesearch/zapx v11.3.10 : Apache License 2.0
@@ -721,6 +723,7 @@ glob-parent 5.1.2 : ISC License
 glob-parent v5.1.1 : ISC License
 glog 0.4.0 : BSD 3-clause "New" or "Revised" License
 Go CLI v1.1.5 : Mozilla Public License 2.0
+Go Logrus v1.6.0 : MIT License
 Go programming language 0.0~git20190125.d66bd3c+ds : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.2 : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.4 : BSD 3-clause "New" or "Revised" License
@@ -1348,7 +1351,6 @@ Merge-Stream 2.0.0 : MIT License
 mergo v0.3.16 : BSD 3-clause "New" or "Revised" License
 Metrics Core 3.2.4 : Apache License 2.0
 micromatch 4.0.2 : MIT License
-micromatch/braces 3.0.2 : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.18.1 : MIT License
 Microsoft Azure client library for Identity 1.13.3 : MIT License
 Microsoft Azure common module for Storage 12.24.1 : MIT License
@@ -1659,7 +1661,6 @@ sindresorhus/supports-color 5.5.0 : MIT License
 sindresorhus/supports-color 6.1.0 : MIT License
 sindresorhus/supports-color v7.1.0 : MIT License
 sindresorhus/supports-color v7.2.0 : MIT License
-Sirupsen/logrus v1.6.0 : MIT License
 SLF4J API Module 1.7.36 : MIT License
 slice-ansi 2.1.0 : MIT License
 slice-ansi 4.0.0 : MIT License
@@ -13672,7 +13673,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Sirupsen/logrus v1.6.0)
+(Go Logrus v1.6.0)
 
 Source: https://github.com/sirupsen/logrus
 
@@ -16486,7 +16487,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(micromatch/braces 3.0.2)
+(braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
