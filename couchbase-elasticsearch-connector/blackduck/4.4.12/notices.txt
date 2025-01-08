@@ -1,4 +1,4 @@
-Copyright 2024
+Copyright 2025
 
 [couchbase-elasticsearch-connector : 4.4.12]
 
@@ -81,13 +81,13 @@ Ehcache 2.10.9.2 : Apache License 2.0
 Ejecta v1.1 : 
 Elasticsearch Java Client 8.14.3 : Apache License 2.0
 elasticsearch-rest-client 8.14.3 : Apache License 2.0
-elasticsearch-transport-couchbase 4.4.8 : Apache License 2.0
+elasticsearch-transport-couchbase 4.4.11 : Apache License 2.0
 error-prone annotations 2.26.1 : Apache License 2.0
 eu.neilalexander:jnacl 1.0.0 : BSD 2-clause "Simplified" License
 Fabric8 :: Kubernetes :: Bom 7.0.0 : Apache License 2.0
 Fast Infoset 1.2.15 : Apache License 2.0
 FindBugs jsr305 3.0.2 : Apache License 2.0
-google-guava 33.2.1-jre : Apache License 2.0
+googleguava 33.2.1-jre : Apache License 2.0
 grpc-java 1.49.2 : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.2 : Apache License 2.0
 Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava : Apache License 2.0
@@ -108,9 +108,9 @@ Jackson Integration for Metrics 4.2.16 : Apache License 2.0
 jackson-annotations 2.12.1 : Apache License 2.0
 jackson-bom 2.18.2 : Apache License 2.0
 jackson-core 2.17.0 : Apache License 2.0
-jackson-databind 2.18.1 : Apache License 2.0
-jackson-dataformat-xml 2.18.1 : Apache License 2.0
-jackson-dataformat-yaml 2.18.1 : Apache License 2.0
+jackson-databind 2.18.2 : Apache License 2.0
+jackson-dataformat-xml 2.18.2 : Apache License 2.0
+jackson-dataformat-yaml 2.18.2 : Apache License 2.0
 Jackson-datatype-jdk8 2.10.5 : Apache License 2.0
 jackson-module-jsonSchema 2.12.1.redhat-00002 : Apache License 2.0
 Jackson-module-parameter-names 2.12.1 : Apache License 2.0
@@ -163,6 +163,7 @@ JOpt Simple 5.0.4 : MIT License
 JSch 0.1.42 : JSch License
 JSON-B API 2.0.0 : (GNU General Public License v2.0 w/Classpath exception AND Eclipse Public License 2.0)
 json-smart 2.5.0 : Apache License 2.0
+JSpecify annotations 1.0.0 : Apache License 2.0
 JSR 374 (JSON Processing) Default Provider 2.0.0 : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 jsr107 1.1.1 : Apache License 2.0
 JUnit 4.13.2 : Eclipse Public License 1.0
@@ -183,7 +184,7 @@ Maven SCM API 1.4 : Apache License 2.0
 Maven SCM Subversion Provider - Common library 1.4 : Apache License 2.0
 Maven SCM Subversion Provider - SVN Executable Impl. 1.4 : Apache License 2.0
 Metrics Core 4.2.29 : Apache License 2.0
-Metrics Health Checks 4.2.28 : Apache License 2.0
+Metrics Health Checks 4.2.29 : Apache License 2.0
 micrometer-bom 1.10.5 : Apache License 2.0
 micrometer-commons 1.10.5 : Apache License 2.0
 micrometer-metrics/micrometer 1.10.5 : Apache License 2.0
@@ -330,7 +331,7 @@ Illinois, Urbana-Champaign.
 ---
 
 Apache License 2.0
-(Apache Ant 1.6.2, Apache Commons BeanUtils 1.8.3, Apache Commons Codec 1.16.1, Apache Commons Collections 3.2.1, Apache Commons Compress 1.26.0, Apache Commons Configuration 1.8, Apache Commons IO 2.16.1, Apache Commons JXPath 1.3, Apache Commons Lang 2.6, Apache Commons Lang 3.15.0, Apache Commons Logging 1.3.3, Apache Commons Text 1.12.0, Apache HttpClient 3.1, Apache HttpClient 4.5.14, Apache HttpClient 5.3.1, Apache HttpComponents AsyncClient 4.1.5, Apache HttpComponents Core HTTP/2 5.2.5, Apache Jackrabbit 1.5.2, Apache Kafka 2.8.2, Apache Kafka 3.7.0, Apache Log4j 2.23.1, Apache Log4J API 2.23.1, Apache Log4j SLF4J 2.0 Binding 2.23.1, Apache Tomcat 8.5.82, Apache Xerces2 J 2.6.0, Apache XML Commons 1.2, archaius-core 0.4.1, ASM based accessors helper used by json-smart 2.5.0, AssertJ - Fluent Assertions for Java 3.26.3, Awaitility 4.2.0, AWS Java SDK :: Bill of Materials 2.20.26, beanvalidation-api 1.1.0, beanvalidation-api 2.0.2, blockhound 1.0.10.RELEASE, BSON Record Codec 4.8.0-beta0, Byte Buddy 1.14.18, Caffeine cache 2.9.3, co.elastic.logging:log4j2-ecs-layout 1.6.0, com.conversantmedia:disruptor 1.2.15, com.github.therapi:therapi-json-rpc 0.5.0, com.github.therapi:therapi-runtime-javadoc 0.12.0, Commons VFS Core 2.0, commons-csv 1.10.0, commons-net 2.2, Couchbase Java DCP Client 0.52.0, Couchbase Java SDK 3.7.6, Couchbase JVM Core IO 3.7.6, Disruptor Framework 3.4.4, docker-java-api 3.4.0, docker-java-transport 3.4.0, docker-java-transport-zerodep 3.4.0, ecs-logging-core 1.6.0, Ehcache 2.10.9.2, Elasticsearch Java Client 8.14.3, elasticsearch-rest-client 8.14.3, elasticsearch-transport-couchbase 4.4.8, error-prone annotations 2.26.1, Fabric8 :: Kubernetes :: Bom 7.0.0, Fast Infoset 1.2.15, FindBugs jsr305 3.0.2, google-guava 33.2.1-jre, grpc-java 1.49.2, Guava InternalFutureFailureAccess and InternalFutures 1.0.2, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, hazelcast 5.2-BETA-1, httpcomponents-core 4.4.16, httpcomponents-core 5.2.5, hystrix-core 1.5.12, io.grpc:grpc-context 1.49.2, J2ObjC Annotations 3.0.0, Jackson Integration for Metrics 4.2.16, jackson-annotations 2.12.1, jackson-bom 2.18.2, jackson-core 2.17.0, jackson-databind 2.18.1, jackson-dataformat-xml 2.18.1, jackson-dataformat-yaml 2.18.1, Jackson-datatype-jdk8 2.10.5, jackson-module-jsonSchema 2.12.1.redhat-00002, Jackson-module-parameter-names 2.12.1, jansi 2.4.1, Java Annotation Indexer 2.4.2.Final, Java Native Access (JNA) 5.13.0, java-classmate 1.5.1, Javassist 3.19.0, javax.inject:javax.inject 1, jaxen 1.0-FCS, JBoss Logging 3 3.4.3.Final, JCL 1.2 Implemented Over SLF4J 2.0.12, JCTTools 4.0.3, jersey-core-server 2.37, Jetbrains annotations 13.0, Jetty :: ALPN :: API 1.1.0.v20141014, Jetty :: Next Protocol Negotiation :: API 1.1.1.v20141010, Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server 9.4.49.v20220914, jexlcommons 2.1.1, jffi - Java Foreign Function Interface 1.3.9, jnr-a64asm 1.0.0, jnr-constants 0.10.3, jnr-enxio 0.32.13, jnr-ffi 2.2.11, jnr-unixsocket 0.38.17, jOOQ 3.14.16, json-smart 2.5.0, jsr107 1.1.1, JVM Integration for Metrics 4.2.16, Kotlin 1.4.20, kotlin-reflect 1.7.10, kotlin-stdlib-common 1.4.20, kotlinx-coroutines-core 1.6.4, Log4J Compatibility API 2.23.1, logkit 2.0, lz4java 1.2.0, lz4java 1.8.0, lzma-java 1.3, Maven SCM API 1.4, Maven SCM Subversion Provider - Common library 1.4, Maven SCM Subversion Provider - SVN Executable Impl. 1.4, Metrics Core 4.2.29, Metrics Health Checks 4.2.28, micrometer-bom 1.10.5, micrometer-commons 1.10.5, micrometer-metrics/micrometer 1.10.5, micrometer-observation 1.10.5, Mongo Java Driver 4.8.0-beta0, MongoCrypt 1.6.0-alpha0, Netty Project 5.0.0.Alpha2, Netty/TomcatNative [OpenSSL - Dynamic] 1.1.32.Fork1, Ning-compress-LZF 1.0.1, okhttp 5.0.0-alpha.10, OkHttp (Bill of Materials) 4.12.0, OpenSearch Java Client 2.12.0, OpenSearch Testcontainers integration 2.1.2, OpenTelemetry Java 1.29.0, org.conscrypt:conscrypt-openjdk-uber 2.5.2, org.immutables.value 2.10.1, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.4.20, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.4.20, PathJson 2.9.0, picocli - a mighty tiny Command Line Interface 4.7.1, plexus-utils 1.5.6, reactor-core 3.6.9, rest 2.15.0, RocksDB JNI 5.18.4, RxJava 1.2.0, SnakeYAML 2.3, snappy-java 1.1.10.5, squareokio 3.2.0, tuweni-toml 2.0.0, Woodstox 7.0.0)
+(Apache Ant 1.6.2, Apache Commons BeanUtils 1.8.3, Apache Commons Codec 1.16.1, Apache Commons Collections 3.2.1, Apache Commons Compress 1.26.0, Apache Commons Configuration 1.8, Apache Commons IO 2.16.1, Apache Commons JXPath 1.3, Apache Commons Lang 2.6, Apache Commons Lang 3.15.0, Apache Commons Logging 1.3.3, Apache Commons Text 1.12.0, Apache HttpClient 3.1, Apache HttpClient 4.5.14, Apache HttpClient 5.3.1, Apache HttpComponents AsyncClient 4.1.5, Apache HttpComponents Core HTTP/2 5.2.5, Apache Jackrabbit 1.5.2, Apache Kafka 2.8.2, Apache Kafka 3.7.0, Apache Log4j 2.23.1, Apache Log4J API 2.23.1, Apache Log4j SLF4J 2.0 Binding 2.23.1, Apache Tomcat 8.5.82, Apache Xerces2 J 2.6.0, Apache XML Commons 1.2, archaius-core 0.4.1, ASM based accessors helper used by json-smart 2.5.0, AssertJ - Fluent Assertions for Java 3.26.3, Awaitility 4.2.0, AWS Java SDK :: Bill of Materials 2.20.26, beanvalidation-api 1.1.0, beanvalidation-api 2.0.2, blockhound 1.0.10.RELEASE, BSON Record Codec 4.8.0-beta0, Byte Buddy 1.14.18, Caffeine cache 2.9.3, co.elastic.logging:log4j2-ecs-layout 1.6.0, com.conversantmedia:disruptor 1.2.15, com.github.therapi:therapi-json-rpc 0.5.0, com.github.therapi:therapi-runtime-javadoc 0.12.0, Commons VFS Core 2.0, commons-csv 1.10.0, commons-net 2.2, Couchbase Java DCP Client 0.52.0, Couchbase Java SDK 3.7.6, Couchbase JVM Core IO 3.7.6, Disruptor Framework 3.4.4, docker-java-api 3.4.0, docker-java-transport 3.4.0, docker-java-transport-zerodep 3.4.0, ecs-logging-core 1.6.0, Ehcache 2.10.9.2, Elasticsearch Java Client 8.14.3, elasticsearch-rest-client 8.14.3, elasticsearch-transport-couchbase 4.4.11, error-prone annotations 2.26.1, Fabric8 :: Kubernetes :: Bom 7.0.0, Fast Infoset 1.2.15, FindBugs jsr305 3.0.2, googleguava 33.2.1-jre, grpc-java 1.49.2, Guava InternalFutureFailureAccess and InternalFutures 1.0.2, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, hazelcast 5.2-BETA-1, httpcomponents-core 4.4.16, httpcomponents-core 5.2.5, hystrix-core 1.5.12, io.grpc:grpc-context 1.49.2, J2ObjC Annotations 3.0.0, Jackson Integration for Metrics 4.2.16, jackson-annotations 2.12.1, jackson-bom 2.18.2, jackson-core 2.17.0, jackson-databind 2.18.2, jackson-dataformat-xml 2.18.2, jackson-dataformat-yaml 2.18.2, Jackson-datatype-jdk8 2.10.5, jackson-module-jsonSchema 2.12.1.redhat-00002, Jackson-module-parameter-names 2.12.1, jansi 2.4.1, Java Annotation Indexer 2.4.2.Final, Java Native Access (JNA) 5.13.0, java-classmate 1.5.1, Javassist 3.19.0, javax.inject:javax.inject 1, jaxen 1.0-FCS, JBoss Logging 3 3.4.3.Final, JCL 1.2 Implemented Over SLF4J 2.0.12, JCTTools 4.0.3, jersey-core-server 2.37, Jetbrains annotations 13.0, Jetty :: ALPN :: API 1.1.0.v20141014, Jetty :: Next Protocol Negotiation :: API 1.1.1.v20141010, Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server 9.4.49.v20220914, jexlcommons 2.1.1, jffi - Java Foreign Function Interface 1.3.9, jnr-a64asm 1.0.0, jnr-constants 0.10.3, jnr-enxio 0.32.13, jnr-ffi 2.2.11, jnr-unixsocket 0.38.17, jOOQ 3.14.16, json-smart 2.5.0, JSpecify annotations 1.0.0, jsr107 1.1.1, JVM Integration for Metrics 4.2.16, Kotlin 1.4.20, kotlin-reflect 1.7.10, kotlin-stdlib-common 1.4.20, kotlinx-coroutines-core 1.6.4, Log4J Compatibility API 2.23.1, logkit 2.0, lz4java 1.2.0, lz4java 1.8.0, lzma-java 1.3, Maven SCM API 1.4, Maven SCM Subversion Provider - Common library 1.4, Maven SCM Subversion Provider - SVN Executable Impl. 1.4, Metrics Core 4.2.29, Metrics Health Checks 4.2.29, micrometer-bom 1.10.5, micrometer-commons 1.10.5, micrometer-metrics/micrometer 1.10.5, micrometer-observation 1.10.5, Mongo Java Driver 4.8.0-beta0, MongoCrypt 1.6.0-alpha0, Netty Project 5.0.0.Alpha2, Netty/TomcatNative [OpenSSL - Dynamic] 1.1.32.Fork1, Ning-compress-LZF 1.0.1, okhttp 5.0.0-alpha.10, OkHttp (Bill of Materials) 4.12.0, OpenSearch Java Client 2.12.0, OpenSearch Testcontainers integration 2.1.2, OpenTelemetry Java 1.29.0, org.conscrypt:conscrypt-openjdk-uber 2.5.2, org.immutables.value 2.10.1, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.4.20, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.4.20, PathJson 2.9.0, picocli - a mighty tiny Command Line Interface 4.7.1, plexus-utils 1.5.6, reactor-core 3.6.9, rest 2.15.0, RocksDB JNI 5.18.4, RxJava 1.2.0, SnakeYAML 2.3, snappy-java 1.1.10.5, squareokio 3.2.0, tuweni-toml 2.0.0, Woodstox 7.0.0)
 
 Apache License
 Version 2.0, January 2004
