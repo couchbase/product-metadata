@@ -31,7 +31,7 @@
 29,client_golang,v1.20.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,163bec4e-b7f6-4c8a-828d-5ba673aaa72a,995bee40-2200-4896-8138-347e38f23ccc,7cae335f-1193-421e-92f1-8802b4243e93
 30,cncf/udpa,20191208-snapshot-269d4d46,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,e37569b2-41af-411b-bbe8-efd3691fb9e6,5d422821-7c29-4baa-b3ad-078d6d3dd2c7,7cae335f-1193-421e-92f1-8802b4243e93
 31,containerd/cgroups,v3.0.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,00eb9d17-3bad-45a9-ae24-f8ea18adfaa4,a4071e99-c387-44fe-8d9b-d8aad8f7e245,7cae335f-1193-421e-92f1-8802b4243e93
-32,coreos-go-oidc,v3.11.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,97f09a83-51b1-437f-9503-8e74e01e6d2c,ff470e62-2954-4f6d-8ccb-229528d62afc,7cae335f-1193-421e-92f1-8802b4243e93
+32,coreos-go-oidc,v3.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,97f09a83-51b1-437f-9503-8e74e01e6d2c,1b7e9aa5-ce11-431e-a56d-4db4dd2ac514,7cae335f-1193-421e-92f1-8802b4243e93
 33,couchbase-blance,v0.1.5,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,997ef19b-6afc-4a57-8bc9-2278481b33fe,ed7f9485-e730-4e71-919c-0511fb537f5f,7cae335f-1193-421e-92f1-8802b4243e93
 34,couchbase-cbauth,v0.1.11,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5b25999a-cdba-4002-98e4-5ef9b60f408a,aaf879e7-de07-4ce8-af47-72cb140cb6a5,7cae335f-1193-421e-92f1-8802b4243e93
 35,couchbase-cbgt,v1.3.9,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,edff1e2f-00f8-4c3d-bca0-f379eb41d363,815129a5-c9da-451a-89a8-4485c00b8af3,7cae335f-1193-421e-92f1-8802b4243e93
@@ -107,7 +107,7 @@
 105,golang.org/x/lint,20190930-snapshot-16217165,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f2c61772-2542-4128-9a4f-6b133358caa2,b0f2a199-440b-42b6-8c44-c6ffeafd68ef,3d238144-44e6-450e-b523-3defbdaed9dc
 106,golang.org/x/mod,v0.20.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,67e4942e-545c-4ba1-a91d-a56b64c32b70,9bd32af8-685d-40e5-adbb-9ac1ac85830d,3d238144-44e6-450e-b523-3defbdaed9dc
 107,golang.org/x/net,v0.33.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8155c001-31c8-4a27-9a15-77fb97a4779e,f94ae8ef-dbaa-4943-b79a-04ca52dc7ccf,3d238144-44e6-450e-b523-3defbdaed9dc
-108,golang.org/x/oauth2,v0.24.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,11568d85-7d53-4e9d-b755-3294c5a12346,d6c85dcc-144a-4774-a976-bb50a155fba7,3d238144-44e6-450e-b523-3defbdaed9dc
+108,golang.org/x/oauth2,v0.25.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,11568d85-7d53-4e9d-b755-3294c5a12346,105f3c45-9219-43cf-81bb-afa17a60cd75,3d238144-44e6-450e-b523-3defbdaed9dc
 109,golang.org/x/sync,v0.10.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,fba68041-46c7-4541-9c85-b3393ae2d650,e7657f7b-a480-4e48-b562-f47ba5bf01b1,3d238144-44e6-450e-b523-3defbdaed9dc
 110,golang.org/x/sys,v0.28.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,0faf96d2-f25b-44c9-ada2-54a9140e3569,56823ef9-62f0-46e6-9557-5ae0e50c4b9a,3d238144-44e6-450e-b523-3defbdaed9dc
 111,golang.org/x/term,v0.27.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,92e824e9-7afe-43dd-82c6-ed0defe6816c,6847ce28-cddd-4b58-8dea-b2952c0e38d2,3d238144-44e6-450e-b523-3defbdaed9dc
