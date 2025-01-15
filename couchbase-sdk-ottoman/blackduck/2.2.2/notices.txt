@@ -1102,13 +1102,13 @@ postcss-convert-values 4.0.1 : MIT License
 postcss-discard-comments 4.0.2 : MIT License
 postcss-discard-duplicates 4.0.2 : MIT License
 postcss-discard-empty 4.0.1 : MIT License
-postcss-discard-empty 4.0.2 : MIT License
 postcss-discard-overridden 4.0.1 : MIT License
 postcss-load-config 2.1.2 : MIT License
 postcss-loader 3.0.0 : MIT License
 postcss-merge-longhand 4.0.11 : MIT License
 postcss-merge-rules 4.0.3 : MIT License
 postcss-minify-font-values 4.0.2 : MIT License
+postcss-minify-gradients 4.0.2 : MIT License
 postcss-minify-params 4.0.2 : MIT License
 postcss-minify-selectors 4.0.2 : MIT License
 postcss-modules-extract-imports 2.0.0 : ISC License
@@ -1118,7 +1118,9 @@ postcss-modules-values v2.0.0 : ISC License
 postcss-normalize-charset 4.0.1 : MIT License
 postcss-normalize-display-values 4.0.2 : MIT License
 postcss-normalize-positions 4.0.2 : MIT License
+postcss-normalize-repeat-style 4.0.2 : MIT License
 postcss-normalize-string 4.0.2 : MIT License
+postcss-normalize-timing-functions 4.0.2 : MIT License
 postcss-normalize-unicode 4.0.1 : MIT License
 postcss-normalize-url 4.0.1 : MIT License
 postcss-normalize-whitespace 4.0.2 : MIT License
@@ -1194,7 +1196,6 @@ renderkid 2.0.7 : MIT License
 repeat-element 1.1.4 : MIT License
 repeat-string 1.6.1 : MIT License
 Request -  Simple HTTP Client 2.88.2 : Apache License 2.0
-request/tunnel-agent 0.6.0 : Apache License 2.0
 require-directory 2.1.1 : MIT License
 require-main-filename 2.0.0 : ISC License
 requires-port 1.0.0 : MIT License
@@ -1368,6 +1369,7 @@ tr46 2.1.0 : MIT License
 ts-jest 27.1.5 : MIT License
 tsutils 3.21.0 : MIT License
 tty-browserify 0.0.0 : MIT License
+tunnel-agent 0.6.0 : Apache License 2.0
 tweetnacl-js 0.14.5 : The Unlicense
 Two-Screen/stable 0.1.8 : MIT License
 type-check 0.3.2 : MIT License
@@ -1650,7 +1652,7 @@ interfere with or be responsible for such uses by You.
 ---
 
 Apache License 2.0
-(@ampproject/remapping 2.2.0, @humanwhocodes/config-array 0.11.7, @humanwhocodes/module-importer 1.0.1, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, caseless 0.12.0, couchnode 3.2.6, detect-libc 2.0.1, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 2.1.0, eslint-visitor-keys 3.3.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 7.5.7, Request -  Simple HTTP Client 2.88.2, request/tunnel-agent 0.6.0, through 2.3.8, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.8.4, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
+(@ampproject/remapping 2.2.0, @humanwhocodes/config-array 0.11.7, @humanwhocodes/module-importer 1.0.1, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, caseless 0.12.0, couchnode 3.2.6, detect-libc 2.0.1, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 2.1.0, eslint-visitor-keys 3.3.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 7.5.7, Request -  Simple HTTP Client 2.88.2, through 2.3.8, tunnel-agent 0.6.0, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.8.4, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -8175,7 +8177,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(cssnano 4.1.11, cssnano-preset-default 4.0.8, cssnano-util-get-arguments 4.0.0, cssnano-util-get-match 4.0.0, cssnano-util-raw-cache 4.0.1, cssnano-util-same-parent 4.0.1, postcss-colormin 4.0.3, postcss-convert-values 4.0.1, postcss-discard-comments 4.0.2, postcss-discard-duplicates 4.0.2, postcss-discard-empty 4.0.1, postcss-discard-empty 4.0.2, postcss-merge-longhand 4.0.11, postcss-merge-rules 4.0.3, postcss-minify-selectors 4.0.2, postcss-normalize-display-values 4.0.2, postcss-normalize-positions 4.0.2, postcss-normalize-string 4.0.2, postcss-normalize-unicode 4.0.1, postcss-normalize-url 4.0.1, postcss-normalize-whitespace 4.0.2, postcss-ordered-values 4.1.2, postcss-reduce-initial 4.0.3, postcss-reduce-transforms 4.0.2, postcss-selector-parser 3.1.2, postcss-selector-parser 6.0.6, postcss-svgo 4.0.3, postcss-unique-selectors 4.0.1, stylehacks 4.0.3)
+(cssnano 4.1.11, cssnano-preset-default 4.0.8, cssnano-util-get-arguments 4.0.0, cssnano-util-get-match 4.0.0, cssnano-util-raw-cache 4.0.1, cssnano-util-same-parent 4.0.1, postcss-colormin 4.0.3, postcss-convert-values 4.0.1, postcss-discard-comments 4.0.2, postcss-discard-duplicates 4.0.2, postcss-discard-empty 4.0.1, postcss-merge-longhand 4.0.11, postcss-merge-rules 4.0.3, postcss-minify-gradients 4.0.2, postcss-minify-selectors 4.0.2, postcss-normalize-display-values 4.0.2, postcss-normalize-positions 4.0.2, postcss-normalize-repeat-style 4.0.2, postcss-normalize-string 4.0.2, postcss-normalize-timing-functions 4.0.2, postcss-normalize-unicode 4.0.1, postcss-normalize-url 4.0.1, postcss-normalize-whitespace 4.0.2, postcss-ordered-values 4.1.2, postcss-reduce-initial 4.0.3, postcss-reduce-transforms 4.0.2, postcss-selector-parser 3.1.2, postcss-selector-parser 6.0.6, postcss-svgo 4.0.3, postcss-unique-selectors 4.0.1, stylehacks 4.0.3)
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
