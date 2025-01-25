@@ -58,7 +58,7 @@ jackson-annotations 2.18.2: https://github.com/FasterXML/jackson-annotations : A
 jackson-core 2.18.2: https://github.com/FasterXML/jackson-core : Apache License 2.0
 Jakarta Activation API 2.1.3: https://eclipse-ee4j.github.io/jaf/ : Eclipse Distribution License - v 1.0
 Jakarta Annotations API 3.0.0 : (GNU General Public License v2.0 w/Classpath exception AND Eclipse Public License 2.0)
-Jakarta Dependency Injection 2.0.1: https://github.com/eclipse-ee4j/injection-api : Apache License 2.0
+Jakarta Dependency Injection 2.0.1 : Apache License 2.0
 Jakarta Expression Language 3.0 API 5.0.1: https://projects.eclipse.org/projects/ee4j.el : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 Jakarta JSON Processing API 2.1.3: http://json-processing-spec.java.net : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 jakarta.xml.bind:jakarta.xml.bind-api 4.0.2: https://github.com/jakartaee/jaxb-api : Eclipse Distribution License - v 1.0
@@ -145,8 +145,8 @@ Prometheus Java Span Context Supplier - Common 0.16.0 : Apache License 2.0
 Prometheus Java Span Context Supplier - OpenTelemetry 0.16.0 : Apache License 2.0
 Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.16.0 : Apache License 2.0
 Quarkus 3.17.5: https://quarkus.io : Apache License 2.0
-Quarkus - ArC - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-arc-parent/quarkus-arc : Apache License 2.0
 Quarkus - ArC - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-arc-parent/quarkus-arc-deployment : Apache License 2.0
+Quarkus - ArC - Deployment 3.17.5 : Apache License 2.0
 Quarkus - ArC - Test Supplement 3.17.5: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-extensions-parent/quarkus-arc-parent/quarkus-arc-test-supplement : Apache License 2.0
 Quarkus - Bootstrap - App Model 3.17.5: http://www.jboss.org/quarkus-bootstrap-parent/quarkus-bootstrap-app-model : Apache License 2.0
 Quarkus - Bootstrap - Classloader common utilities 3.17.5: https://github.com/quarkusio/quarkus/quarkus-classloader-commons : Apache License 2.0
@@ -164,8 +164,8 @@ Quarkus - FS Util 0.0.10: https://quarkus.io/ : Apache License 2.0
 Quarkus - Hibernate Validator - SPI 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-extensions-parent/quarkus-hibernate-validator-parent/quarkus-hibernate-validator-spi : Apache License 2.0
 Quarkus - IDE Launcher 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-ide-launcher : Apache License 2.0
 Quarkus - JSON-P - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-jsonp-parent/quarkus-jsonp : Apache License 2.0
-Quarkus - Micrometer - Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-micrometer-parent/quarkus-micrometer : Apache License 2.0
-Quarkus - Micrometer Registry - Prometheus Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-extensions-parent/quarkus-micrometer-registry-prometheus-parent/quarkus-micrometer-registry-prometheus : Apache License 2.0
+Quarkus - Micrometer - Runtime 3.17.5 : Apache License 2.0
+Quarkus - Micrometer Registry - Prometheus Runtime 3.17.5 : Apache License 2.0
 Quarkus - Mutiny - Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-mutiny-parent/quarkus-mutiny : Apache License 2.0
 Quarkus - Netty - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-netty-parent/quarkus-netty : Apache License 2.0
 Quarkus - Quarkus - Vert.x Late Bound MDC Provider 3.17.5: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-extensions-parent/quarkus-vertx-parent/quarkus-vertx-latebound-mdc-provider : Apache License 2.0
@@ -175,23 +175,23 @@ Quarkus - RESTEasy - Server common - Runtime 3.17.5: http://www.jboss.org/quarku
 Quarkus - Security - Runtime SPI 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-security-parent/quarkus-security-runtime-spi : Apache License 2.0
 Quarkus - SmallRye Context Propagation - Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-smallrye-context-propagation-parent/quarkus-smallrye-context-propagation : Apache License 2.0
 Quarkus - SmallRye Context Propagation - SPI 3.17.5: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-extensions-parent/quarkus-smallrye-context-propagation-parent/quarkus-smallrye-context-propagation-spi : Apache License 2.0
-Quarkus - SmallRye Health - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-smallrye-health-parent/quarkus-smallrye-health : Apache License 2.0
+Quarkus - SmallRye Health - Deployment 3.17.5 : Apache License 2.0
 Quarkus - SmallRye Health - SPI 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-smallrye-health-parent/quarkus-smallrye-health-spi : Apache License 2.0
 Quarkus - SmallRye Metrics - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-smallrye-metrics-parent/quarkus-smallrye-metrics : Apache License 2.0
-Quarkus - Test framework - Common 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-test-framework/quarkus-test-common : Apache License 2.0
-Quarkus - Test framework - JUnit 5 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-test-framework/quarkus-junit5 : Apache License 2.0
+Quarkus - Test framework - Common 3.17.5 : Apache License 2.0
+Quarkus - Test framework - JUnit 5 3.17.5 : Apache License 2.0
 Quarkus - Test Framework - JUnit 5 - Properties 3.17.5: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-test-framework/quarkus-junit5-properties : Apache License 2.0
 Quarkus - Test framework - JUnit 5 Internal Test Framework 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-test-framework/quarkus-junit5-internal : Apache License 2.0
 Quarkus - TLS Registry - Runtime 3.17.5: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-extensions-parent/quarkus-tls-registry-parent/quarkus-tls-registry : Apache License 2.0
 Quarkus - Vert.x - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-vertx-parent/quarkus-vertx : Apache License 2.0
 Quarkus - Vert.x - HTTP - Dev UI SPI 3.17.5: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-extensions-parent/quarkus-vertx-http-parent/quarkus-vertx-http-dev-ui-spi : Apache License 2.0
-Quarkus - Vert.x - HTTP - Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-vertx-http-parent/quarkus-vertx-http : Apache License 2.0
+Quarkus - Vert.x - HTTP - Runtime 3.17.5 : Apache License 2.0
 Quarkus - Virtual Threads - Runtime 3.17.5: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-extensions-parent/quarkus-virtual-threads-parent/quarkus-virtual-threads : Apache License 2.0
 quarkus-security 2.2.0: http://www.jboss.org/quarkus-security : Apache License 2.0
 reactive-streams 1.0.4: http://www.reactive-streams.org/ : MIT No Attribution
 reactor-core 3.4.18: https://github.com/reactor/reactor-core : Apache License 2.0
 reactor-core 3.6.8: https://github.com/reactor/reactor-core : Apache License 2.0
-REST Assured 5.5.0: http://code.google.com/p/rest-assured : Apache License 2.0
+REST Assured 5.5.0 : Apache License 2.0
 rest-assured-common 5.5.0: http://maven.apache.org : Apache License 2.0
 RESTEasy 6.2.11.Final: http://jboss.org/resteasy : Apache License 2.0
 RESTEasy CDI integration module 6.2.11.Final: http://rest-easy.org/resteasy-cdi : Apache License 2.0
