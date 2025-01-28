@@ -32,7 +32,6 @@ delegates 1.0.0: https://github.com/visionmedia/node-delegates : MIT License
 dominictarr/rc 1.2.8: https://github.com/dominictarr/rc : (MIT License OR BSD 2-clause "Simplified" License OR Apache License 2.0)
 emoji-regex v8.0.0: https://github.com/mathiasbynens/emoji-regex : MIT License
 escalade 3.2.0: https://github.com/lukeed/escalade#readme : MIT License
-fmtlib/fmt 11.0.1: https://github.com/fmtlib/fmt : (MIT License AND fmt exception)
 follow-redirects 1.15.9: https://github.com/follow-redirects/follow-redirects : MIT License
 form-data 4.0.1: https://github.com/felixge/node-form-data : MIT License
 fs-extra 11.3.0: https://github.com/jprichardson/node-fs-extra : MIT License
@@ -70,7 +69,7 @@ readable-stream 3.6.2: https://github.com/isaacs/readable-stream : MIT License
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 safe-buffer 5.2.1: https://github.com/feross/safe-buffer : MIT License
 set-blocking 2.0.0: https://github.com/yargs/set-blocking#readme : ISC License
-spdlog v1.14.1: https://github.com/gabime/spdlog : MIT License
+spdlog v1.15.0: https://github.com/gabime/spdlog : MIT License
 string-width 4.2.3: https://github.com/sindresorhus/string-width : MIT License
 Strip ANSI 6.0.1: https://github.com/sindresorhus/strip-ansi : MIT License
 strip-json-comments 2.0.1: https://github.com/sindresorhus/strip-json-comments : MIT License
@@ -1523,7 +1522,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(axios 1.7.9, cmake-js 7.3.0, debug-js/debug 4.4.0, escalade 3.2.0, fmtlib/fmt 11.0.1, follow-redirects 1.15.9, form-data 4.0.1, fs-extra 11.3.0, minimist 1.2.8, node-addon-api 8.3.0, node-api-headers 1.5.0, nodejs/llhttp v9.2.1, readable-stream 3.6.2, spdlog v1.14.1, taocpp/json 1.0.0-beta.14, universalify 2.0.1, yargs 17.7.2)
+(axios 1.7.9, cmake-js 7.3.0, debug-js/debug 4.4.0, escalade 3.2.0, follow-redirects 1.15.9, form-data 4.0.1, fs-extra 11.3.0, minimist 1.2.8, node-addon-api 8.3.0, node-api-headers 1.5.0, nodejs/llhttp v9.2.1, readable-stream 3.6.2, spdlog v1.15.0, taocpp/json 1.0.0-beta.14, universalify 2.0.1, yargs 17.7.2)
 
 The MIT License
 ===============
@@ -1607,21 +1606,6 @@ OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED O
 THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
 written by Eric Young (eay@cryptsoft.com). This product includes software written
 by Tim Hudson (tjh@cryptsoft.com).
-
----
-
-fmt exception
-(fmtlib/fmt 11.0.1)
-
-fmt exception
-=============
-
---- Optional exception to the license ---
-
-As an exception, if, as a result of your compiling your source code, portions of
-this Software are embedded into a machine-executable object form of such source
-code, you may redistribute such embedded portions in such object form without
-including the above copyright and permission notices.
 
 ---
 
