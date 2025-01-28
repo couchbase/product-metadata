@@ -33,7 +33,7 @@ Awaitility 4.2.2 : Apache License 2.0
 beanvalidation-api 3.0.2: http://beanvalidation.org/ : Apache License 2.0
 brotli4j 1.16.0 : Apache License 2.0
 CDI APIs 4.1.0: http://www.seamframework.org/Weld : Apache License 2.0
-CDI Language Model 4.1.0: https://projects.eclipse.org/projects/ee4j/jakarta.enterprise.cdi-parent/jakarta.enterprise.lang-model : Apache License 2.0
+CDI Language Model 4.1.0 : Apache License 2.0
 classworlds 2.6.0: http://plexus.codehaus.org/plexus-classworlds/ : Apache License 2.0
 Commons Logging to JBoss Logging 1.0.0.Final: http://www.jboss.org : Apache License 2.0
 commons-cli 1.8.0: http://commons.apache.org/cli/ : Apache License 2.0
@@ -69,7 +69,7 @@ Java Native Access (JNA) 5.8.0: https://github.com/twall/jna : (GNU Lesser Gener
 Java Servlet API 6.0.0: http://servlet-spec.java.net : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 javax.annotation API 1.3.2: http://jcp.org/en/jsr/detail?id=250 : (GNU General Public License v2.0 w/Classpath exception OR Common Development and Distribution License 1.1)
 javax.inject:javax.inject 1: http://code.google.com/p/atinject/ : Apache License 2.0
-javax.interceptor API 2.2.0: https://github.com/eclipse-ee4j/interceptor-api : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
+javax.interceptor API 2.2.0 : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 javax.transaction API 2.0.1: https://github.com/jakartaee/transactions : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 JBoss Logging 3 3.6.1.Final: http://www.jboss.org : Apache License 2.0
 JBoss Logging I18n Annotations 3.0.2.Final: http://www.jboss.org/jboss-logging-tools-parent/jboss-logging-annotations : Apache License 2.0
@@ -170,7 +170,7 @@ Quarkus - Mutiny - Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-b
 Quarkus - Netty - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-netty-parent/quarkus-netty : Apache License 2.0
 Quarkus - Quarkus - Vert.x Late Bound MDC Provider 3.17.5: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-extensions-parent/quarkus-vertx-parent/quarkus-vertx-latebound-mdc-provider : Apache License 2.0
 Quarkus - RESTEasy - Common - Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-resteasy-common-parent/quarkus-resteasy-common : Apache License 2.0
-Quarkus - RESTEasy - Deployment 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-resteasy-parent/quarkus-resteasy : Apache License 2.0
+Quarkus - RESTEasy - Deployment 3.17.5 : Apache License 2.0
 Quarkus - RESTEasy - Server common - Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-resteasy-server-common-parent/quarkus-resteasy-server-common : Apache License 2.0
 Quarkus - Security - Runtime SPI 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-security-parent/quarkus-security-runtime-spi : Apache License 2.0
 Quarkus - SmallRye Context Propagation - Runtime 3.17.5: http://www.jboss.org/quarkus-parent/quarkus-build-parent/quarkus-smallrye-context-propagation-parent/quarkus-smallrye-context-propagation : Apache License 2.0
@@ -219,8 +219,8 @@ SmallRye Common: OS 2.9.0: http://smallrye.io/smallrye-common-os : Apache Licens
 SmallRye Common: References 2.9.0: http://smallrye.io/smallrye-common-ref : Apache License 2.0
 SmallRye Common: Vert.x Context Utilities 2.9.0 : Apache License 2.0
 SmallRye Fault Tolerance: Vert.x Integration 6.6.3: http://smallrye.io/smallrye-fault-tolerance-implementation-parent/smallrye-fault-tolerance-vertx : Apache License 2.0
-SmallRye Health: API 4.1.0: http://smallrye.io/smallrye-health-api : Apache License 2.0
-SmallRye Health: Provided Health Checks 4.1.0: http://smallrye.io/smallrye-health-provided-checks : Apache License 2.0
+SmallRye Health: API 4.1.0 : Apache License 2.0
+SmallRye Health: Provided Health Checks 4.1.0 : Apache License 2.0
 SmallRye Mutiny 2.6.2 : Apache License 2.0
 SmallRye Mutiny - Code Generator 3.16.0 : Apache License 2.0
 SmallRye Mutiny - Runtime Helpers 3.16.0 : Apache License 2.0
@@ -240,7 +240,7 @@ smallrye-context-propagation-storage 2.1.2: https://github.com/smallrye/smallrye
 SmallRye: Common classes 3.10.2: http://smallrye.io/smallrye-config-common : Apache License 2.0
 SmallRye: MicroProfile Config Core Implementation 3.10.2: http://smallrye.io/smallrye-config-core : Apache License 2.0
 SmallRye: MicroProfile Config Implementation 3.10.2: http://smallrye.io/smallrye-config : Apache License 2.0
-SmallRye: MicroProfile Health Implementation 4.1.0: http://smallrye.io/smallrye-health-parent/smallrye-health : Apache License 2.0
+SmallRye: MicroProfile Health Implementation 4.1.0 : Apache License 2.0
 SmallRye: MicroProfile Metrics Implementation 4.0.0: http://smallrye.io/smallrye-metrics-parent/smallrye-metrics : Apache License 2.0
 TagSoup 1.2.1: http://www-users.cs.york.ac.uk/~ndm/tagsoup/ : Apache License 2.0
 Testcontainers :: Couchbase 1.20.1 : MIT License
