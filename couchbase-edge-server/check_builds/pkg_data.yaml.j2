@@ -1,0 +1,66 @@
+# Map release names to the set of expected platforms. Each entry has the form
+#     platform [ : architecture ]
+# If :architecture is empty, the filename will use the default arch for the
+# platform's packaging style (see below).
+
+# !!! If you add an all-new platform here, be sure to add it to the filebits_for map as well !!!
+
+{%
+  set platforms_for = {
+    "1.0.0":   [ "debian", "redhat", "macos" ]
+  }
+%}
+
+# Pre-defined sets of filename bits, based on the platform's packaging style
+{%
+  set rpm_bits = {
+    "default_arch": "x86_64",
+    "ext": "rpm",
+    "sep1": "-",
+    "sep2": "."
+  }
+%}
+{%
+  set deb_bits = {
+    "default_arch": "amd64",
+    "ext": "deb",
+    "sep1": "_",
+    "sep2": "_"
+  }
+%}
+
+# use "macos" as arch for universal binary
+{%
+  set mac_bits = {
+    "default_arch": "macos",
+    "ext": "zip",
+    "sep1": "-",
+    "sep2": "-"
+  }
+%}
+
+# Map platforms to defined sets of filename bits
+{%
+  set filebits_for = {
+    "debian": deb_bits,
+    "redhat": rpm_bits,
+    "macos": mac_bits
+  }
+%}
+
+#######  END TEMPLATE CONFIGURATION ##########
+
+####### ACTUAL OUTPUT TEMPLATE ########
+
+filenames:
+{% for platform_entry in platforms_for[release]    %}
+{%    set plat_bits = platform_entry.split(':')    %}
+{%    set platform = plat_bits[0]                  %}
+{%    set bits = filebits_for[platform]            %}
+{%    if plat_bits | length > 1                    %}
+{%       set arch = plat_bits[1]                   %}
+{%    else                                         %}
+{%       set arch = bits["default_arch"]           %}
+{%    endif                                        %}
+{%    {{ product }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
+{% endfor %}
