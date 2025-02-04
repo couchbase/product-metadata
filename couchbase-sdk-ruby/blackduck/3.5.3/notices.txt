@@ -12,7 +12,6 @@ Components:
 ASIO C++ Library 1.30.2: http://think-async.com/Asio/ : Boost Software License 1.0
 bigdecimal 3.1.9: http://www.ruby-lang.org : (BSD 2-clause "Simplified" License OR Ruby License)
 C++ Guideline Support Library 4.0.0: https://github.com/Microsoft/GSL : MIT License
-couchbase-ruby-client 3.5.4: https://couchbase.com : Apache License 2.0
 couchbase-ruby-client 3.5.5: https://couchbase.com : Apache License 2.0
 googleapis 1.18.0: https://github.com/googleapis/googleapis : Apache License 2.0
 grpc 1.70.1: https://github.com/google/grpc/tree/master/src/ruby/tools : Apache License 2.0
@@ -20,12 +19,13 @@ HdrHistogram_c 0.11.8: https://github.com/HdrHistogram/HdrHistogram_c : (BSD 2-c
 Rake 13.2.1: https://github.com/ruby/rake : MIT License
 ruby-google-protobuf 4.29.3: https://developers.google.com/protocol-buffers : BSD 3-clause "New" or "Revised" License
 spdlog v1.15.0: https://github.com/gabime/spdlog : MIT License
+spdlog-devel 1.15.0: https://github.com/gabime/spdlog/ : MIT License
 tao-pegtl 3.2.6: https://github.com/taocpp/PEGTL : MIT License
 
 Licenses: 
 
 Apache License 2.0
-(couchbase-ruby-client 3.5.4, couchbase-ruby-client 3.5.5, googleapis 1.18.0, grpc 1.70.1)
+(couchbase-ruby-client 3.5.5, googleapis 1.18.0, grpc 1.70.1)
 
 Apache License
 Version 2.0, January 2004
@@ -484,7 +484,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(Rake 13.2.1, spdlog v1.15.0, tao-pegtl 3.2.6)
+(Rake 13.2.1, spdlog v1.15.0, spdlog-devel 1.15.0, tao-pegtl 3.2.6)
 
 The MIT License
 ===============
