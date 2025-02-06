@@ -7,7 +7,7 @@
 
 {%
   set platforms_for = {
-    "1.0.0":   [ "debian", "redhat", "macos" ]
+    (1, 0, 0):   [ "linux", "macos" ]
   }
 %}
 
@@ -42,8 +42,7 @@
 # Map platforms to defined sets of filename bits
 {%
   set filebits_for = {
-    "debian": deb_bits,
-    "redhat": rpm_bits,
+    "linux": [deb_bits, rpm_bits],
     "macos": mac_bits
   }
 %}
@@ -56,11 +55,8 @@ filenames:
 {% for platform_entry in platforms_for[release]    %}
 {%    set plat_bits = platform_entry.split(':')    %}
 {%    set platform = plat_bits[0]                  %}
-{%    set bits = filebits_for[platform]            %}
-{%    if plat_bits | length > 1                    %}
-{%       set arch = plat_bits[1]                   %}
-{%    else                                         %}
+{%    for bits in filebits_for[platform]           %}
 {%       set arch = bits["default_arch"]           %}
-{%    endif                                        %}
-{%    {{ product }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
+  -       {{ product }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
+{%    endfor                                       %}
 {% endfor %}
