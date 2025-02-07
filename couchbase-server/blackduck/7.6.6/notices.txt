@@ -509,7 +509,7 @@ couchbase/tools-common utils/v1.0.0 :
 couchbase/tools-common utils/v2.0.3 : 
 couchbase/tools-common utils/v3.0.0 : 
 couchbaselabs-query: http://github.com/couchbase/query : Business Source License 1.1
-couchbaselabs/bleve v2.3.5: https://github.com/couchbaselabs/bleve : Apache License 2.0
+couchbaselabs/bleve v2.3.5: https://github.com/blevesearch/bleve : Apache License 2.0
 couchbaselabs/cbgt 20150924-snapshot-a1de7075: https://github.com/couchbaselabs/cbgt : Apache License 2.0
 couchbaselabs/clog v0.1.0: https://github.com/couchbaselabs/clog : Apache License 2.0
 couchbaselabs/gocaves 20230329-snapshot-05e3ba4f : Apache License 2.0
@@ -728,7 +728,6 @@ glob-parent 5.1.2: https://github.com/es128/glob-parent : ISC License
 glob-parent v5.1.1: https://github.com/es128/glob-parent : ISC License
 glog 0.4.0: https://github.com/google/glog : BSD 3-clause "New" or "Revised" License
 Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
-Go Logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
 Go programming language 0.0~git20190125.d66bd3c+ds: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.2: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.4: http://golang.org/ : BSD 3-clause "New" or "Revised" License
@@ -1670,6 +1669,7 @@ sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT
 sindresorhus/supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
 sindresorhus/supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
 sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
+Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
 slice-ansi 2.1.0: https://github.com/chalk/slice-ansi#readme : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -14319,7 +14319,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.6.0)
+(Sirupsen/logrus v1.6.0)
 
 Source: https://github.com/sirupsen/logrus
 
