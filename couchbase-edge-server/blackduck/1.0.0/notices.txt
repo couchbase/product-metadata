@@ -12,6 +12,7 @@ Components:
 BinaryEncoding 1.5.0 : MIT License
 couchbase-lite-net 2.1.2: http://developer.couchbase.com/mobile/ : Apache License 2.0
 couchbase-net-client 2.7.4: https://www.couchbase.com/community : Apache License 2.0
+Couchbase.Lite.Enterprise 3.2.1: https://github.com/couchbase/couchbase-lite-net : Apache License 2.0
 Json.NET 12.0.1: https://github.com/JamesNK/Newtonsoft.Json : MIT License
 McMaster.Extensions.CommandLineUtils 2.3.2: https://github.com/natemcmaster/CommandLineUtils : Apache License 2.0
 McMaster.Extensions.CommandLineUtils 2.4.4: https://github.com/natemcmaster/CommandLineUtils : Apache License 2.0
@@ -21,6 +22,7 @@ Microsoft.Extensions.Configuration.Ini 2.2.0 : Apache License 2.0
 Microsoft.Extensions.Configuration.Ini 3.1.0 : Apache License 2.0
 Microsoft.Extensions.Configuration.UserSecrets 8.0.0 : MIT License
 sly 2.2.5.1: https://github.com/b3b00/sly : MIT License
+Spectre.Console 0.49.2-preview.0.47: https://www.nuget.org/packages/Spectre.Console : MIT License
 Spectre.Console.Cli 0.48.1-preview.0.5: https://github.com/spectreconsole/spectre.console : MIT License
 Spectre.Console.Json 0.48.1-preview.0.5: https://github.com/spectreconsole/spectre.console : MIT License
 System.Linq.Async 4.0.0: https://github.com/dotnet/reactive : Apache License 2.0
@@ -29,7 +31,7 @@ Utility.CommandLine.Progress 0.0.5: https://github.com/jpdillingham/Utility.Comm
 Licenses: 
 
 Apache License 2.0
-(couchbase-lite-net 2.1.2, couchbase-net-client 2.7.4, McMaster.Extensions.CommandLineUtils 2.3.2, McMaster.Extensions.CommandLineUtils 2.4.4, Microsoft.Extensions.Configuration 2.2.0, Microsoft.Extensions.Configuration.EnvironmentVariables 2.2.0, Microsoft.Extensions.Configuration.Ini 2.2.0, Microsoft.Extensions.Configuration.Ini 3.1.0, System.Linq.Async 4.0.0)
+(couchbase-lite-net 2.1.2, couchbase-net-client 2.7.4, Couchbase.Lite.Enterprise 3.2.1, McMaster.Extensions.CommandLineUtils 2.3.2, McMaster.Extensions.CommandLineUtils 2.4.4, Microsoft.Extensions.Configuration 2.2.0, Microsoft.Extensions.Configuration.EnvironmentVariables 2.2.0, Microsoft.Extensions.Configuration.Ini 2.2.0, Microsoft.Extensions.Configuration.Ini 3.1.0, System.Linq.Async 4.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -216,7 +218,7 @@ third-party archives.
 ---
 
 MIT License
-(BinaryEncoding 1.5.0, Microsoft.Extensions.Configuration.UserSecrets 8.0.0, sly 2.2.5.1, Spectre.Console.Cli 0.48.1-preview.0.5, Spectre.Console.Json 0.48.1-preview.0.5, Utility.CommandLine.Progress 0.0.5)
+(BinaryEncoding 1.5.0, Microsoft.Extensions.Configuration.UserSecrets 8.0.0, sly 2.2.5.1, Spectre.Console 0.49.2-preview.0.47, Spectre.Console.Cli 0.48.1-preview.0.5, Spectre.Console.Json 0.48.1-preview.0.5, Utility.CommandLine.Progress 0.0.5)
 
 The MIT License
 ===============
