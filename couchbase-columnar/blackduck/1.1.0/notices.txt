@@ -167,9 +167,9 @@ Animal Sniffer Annotations 1.24: https://www.mojohaus.org/animal-sniffer/animal-
 ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
 ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 Apache Avro 1.12.0: http://avro.apache.org/ : Apache License 2.0
 Apache Avro 1.9.2: http://avro.apache.org/ : Apache License 2.0
 Apache Avro IPC 1.12.0: http://avro.apache.org : Apache License 2.0
@@ -391,7 +391,6 @@ Bouncy Castle 1.79: http://www.bouncycastle.org : (MIT License AND Apache Licens
 Bouncy Castle ASN.1 Extension and Utility APIs 1.79 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://www.bouncycastle.org/java.html : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
-braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 brotli v1.1.0: https://github.com/google/brotli : MIT License
 browserify/resolve v1.17.0: https://github.com/browserify/resolve : MIT License
@@ -456,7 +455,7 @@ com.google.api.grpc:proto-google-common-protos 2.41.0 : Apache License 2.0
 com.google.api.grpc:proto-google-common-protos 2.49.0 : Apache License 2.0
 com.google.api.grpc:proto-google-iam-v1 1.44.0 : Apache License 2.0
 com.google.cloud.bigdataoss:util 2.2.25 : Apache License 2.0
-Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
+Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
 commons-cli 1.5.0: http://commons.apache.org/cli/ : Apache License 2.0
 commons-csv 1.12.0: http://commons.apache.org/proper/commons-csv/index.html : Apache License 2.0
 commons-net 3.9.0: https://commons.apache.org/proper/commons-net/ : Apache License 2.0
@@ -1271,7 +1270,7 @@ gotest.tools v3.0.3: https://github.com/gotestyourself/gotest.tools : Apache Lic
 govalidator 20230301-snapshot-a9d515a0: https://github.com/asaskevich/govalidator : MIT License
 groupcache 20200125-snapshot-8c9f03a8: https://github.com/golang/groupcache : Apache License 2.0
 groupcache 20210331-snapshot-41bb18bf: https://github.com/golang/groupcache : Apache License 2.0
-grpc 1.59.3: https://grpc.io/ : Apache License 2.0
+grpc 1.59.3 : Apache License 2.0
 grpc-ecosystem/go-grpc-middleware v1.4.0: https://github.com/grpc-ecosystem/go-grpc-middleware : Apache License 2.0
 grpc-gateway v1.16.0: https://github.com/grpc-ecosystem/grpc-gateway : BSD 3-clause "New" or "Revised" License
 grpc-gateway v2.16.0: https://github.com/grpc-ecosystem/grpc-gateway : BSD 3-clause "New" or "Revised" License
@@ -1576,6 +1575,7 @@ Merge-Stream 2.0.0: https://github.com/grncdr/merge-stream : MIT License
 mergo v0.3.16: https://github.com/imdario/mergo : BSD 3-clause "New" or "Revised" License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsoft Azure client library for Blob Storage batching 12.23.0 : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.18.1 : MIT License
 Microsoft Azure client library for Identity 1.13.3 : MIT License
@@ -1895,10 +1895,6 @@ sindresorhus/got 10.7.0: https://github.com/sindresorhus/got : MIT License
 sindresorhus/is-stream v2.0.0: https://github.com/sindresorhus/is-stream : MIT License
 sindresorhus/normalize-url v4.5.0: https://github.com/sindresorhus/normalize-url : MIT License
 sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
 slice-ansi 2.1.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -1947,6 +1943,10 @@ Strip ANSI 6.0.0: https://github.com/sindresorhus/strip-ansi : MIT License
 strip-bom 3.0.0: https://github.com/sindresorhus/strip-bom : MIT License
 strip-json-comments 3.1.0: https://github.com/sindresorhus/strip-json-comments : MIT License
 strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments : MIT License
+supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
+supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
+supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
+supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 swag v0.22.4: https://github.com/go-openapi/swag : Apache License 2.0
 Swift Poet 1.5.0 : Apache License 2.0
 tapable 1.1.3: https://github.com/webpack/tapable : MIT License
@@ -15024,7 +15024,32 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(braces 3.0.2)
+(editorconfig-core-c 0.15.3)
+
+Copyright © 2012 EditorConfig Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -15064,31 +15089,6 @@ Permission is hereby granted, free of charge, to any person
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
-
----
-
-MIT License
-(editorconfig-core-c 0.15.3)
-
-Copyright © 2012 EditorConfig Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
 
 ---
 
@@ -15695,7 +15695,7 @@ SOFTWARE
 ---
 
 MIT License
-(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles v4.3.0, builtin-modules 3.1.0, callsites 3.1.0, Chalk 4.1.2, Chalk v3.0.0, Chalk v4.1.0, clean-stack 2.2.0, cli-spinners 2.3.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, leven 3.1.0, log-symbols 2.2.0, lowercase-keys 2.0.0, mimic-fn 1.2.0, mimic-response 1.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, parent-module 1.0.1, path-key 3.1.1, path-type 4.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/got 10.7.0, sindresorhus/is-stream v2.0.0, sindresorhus/normalize-url v4.5.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 6.1.0, sindresorhus/supports-color v7.1.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width v3.1.0, Strip ANSI 5.2.0, strip-json-comments 3.1.0, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1)
+(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles v4.3.0, builtin-modules 3.1.0, callsites 3.1.0, Chalk 4.1.2, Chalk v3.0.0, Chalk v4.1.0, clean-stack 2.2.0, cli-spinners 2.3.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, leven 3.1.0, log-symbols 2.2.0, lowercase-keys 2.0.0, mimic-fn 1.2.0, mimic-response 1.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, parent-module 1.0.1, path-key 3.1.1, path-type 4.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/got 10.7.0, sindresorhus/is-stream v2.0.0, sindresorhus/normalize-url v4.5.0, string-width 4.2.2, string-width v3.1.0, Strip ANSI 5.2.0, strip-json-comments 3.1.0, supports-color 5.5.0, supports-color 6.1.0, supports-color v7.1.0, supports-color v7.2.0, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1)
 
 MIT License
 
