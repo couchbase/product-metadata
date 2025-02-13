@@ -1,36 +1,40 @@
-Copyright 2024
+Copyright 2025
 
 [couchbase-sdk-net : snapshot]
 
+
+Notices Report Content
+ * License Data
+ * License Text
 
 Components: 
 
 DnsClient 1.8.0 : Apache License 2.0
 Google API Common Protos 2.13.0 : BSD 2-clause "Simplified" License
-Google.Protobuf/C# 3.25.0 : BSD 2-clause "Simplified" License
-Grpc.Net.Client 2.50.0 : Apache License 2.0
-Grpc.Net.ClientFactory 2.50.0 : Apache License 2.0
+Google.Protobuf/C# 3.25.0: https://github.com/protocolbuffers/protobuf : BSD 2-clause "Simplified" License
+Grpc.Net.Client 2.50.0: https://github.com/grpc/grpc-dotnet : Apache License 2.0
+Grpc.Net.ClientFactory 2.50.0: https://github.com/grpc/grpc-dotnet : Apache License 2.0
 Grpc.Tools 2.51.0 : Apache License 2.0
-JamesNK/Newtonsoft.Json 13.0.3 : MIT License
-Microsoft.Bcl.HashCode 1.1.1 : MIT License
-Microsoft.Extensions.Configuration 3.1.21 : Apache License 2.0
-Microsoft.Extensions.Configuration.Binder 3.1.21 : Apache License 2.0
-Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0 : MIT License
-Microsoft.Extensions.Logging.Abstractions 6.0.1 : MIT License
+Json.NET 13.0.3: https://github.com/JamesNK/Newtonsoft.Json : MIT License
+Microsoft.Bcl.HashCode 1.1.1: https://github.com/dotnet/corefx : MIT License
+Microsoft.Extensions.Configuration 3.1.21: http://www.nuget.org/packages/Microsoft.Extensions.Configuration : Apache License 2.0
+Microsoft.Extensions.Configuration.Binder 3.1.21: http://www.nuget.org/packages/Microsoft.Extensions.Configuration.Binder : Apache License 2.0
+Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0: http://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection.Abstractions : MIT License
+Microsoft.Extensions.Logging.Abstractions 6.0.1: http://www.nuget.org/packages/Microsoft.Extensions.Logging.Abstractions : MIT License
 Microsoft.Extensions.ObjectPool 6.0.0 : MIT License
-Microsoft.Extensions.Options 3.1.21 : Apache License 2.0
+Microsoft.Extensions.Options 3.1.21: http://www.nuget.org/packages/Microsoft.Extensions.Options : Apache License 2.0
 OpenTelemetry 1.2.0 : Apache License 2.0
-OpenTelemetry.Api 1.2.0 : Apache License 2.0
+OpenTelemetry.Api 1.2.0: https://opentelemetry.io/ : Apache License 2.0
 Snappier 1.1.6 : BSD 2-clause "Simplified" License
-System.Diagnostics.DiagnosticSource 6.0.0 : MIT License
-System.IO.Hashing 8.0.0 : MIT License
-System.IO.Pipelines 5.0.1 : MIT License
-System.Linq.Async 6.0.1 : MIT License
-System.Memory 4.5.5 : MIT License
+System.Diagnostics.DiagnosticSource 6.0.0: https://www.nuget.org/packages/System.Diagnostics.DiagnosticSource : MIT License
+System.IO.Hashing 8.0.0: https://dot.net/ : MIT License
+System.IO.Pipelines 5.0.1: https://github.com/dotnet/corefxlab : MIT License
+System.Linq.Async 6.0.1: https://github.com/dotnet/reactive : MIT License
+System.Memory 4.5.5: https://dotnet.microsoft.com/en-us/ : MIT License
 System.Reflection.Emit 4.7.0 : MIT License
-System.Runtime.CompilerServices.Unsafe 6.0.0 : MIT License
-System.Text.Json 8.0.4 : MIT License
-System.Threading.Channels 5.0.0 : MIT License
+System.Runtime.CompilerServices.Unsafe 6.0.0: https://www.nuget.org/packages/System.Runtime.CompilerServices.Unsafe : MIT License
+System.Text.Json 8.0.5: https://www.nuget.org/packages/System.Text.Json : MIT License
+System.Threading.Channels 5.0.0: https://dot.net/ : MIT License
 System.Threading.Tasks.Dataflow 5.0.0 : MIT License
 
 Licenses: 
@@ -252,6 +256,66 @@ DAMAGE.
 ---
 
 MIT License
+(Microsoft.Bcl.HashCode 1.1.1, Microsoft.Extensions.Logging.Abstractions 6.0.1, System.Diagnostics.DiagnosticSource 6.0.0, System.IO.Pipelines 5.0.1, System.Runtime.CompilerServices.Unsafe 6.0.0, System.Threading.Channels 5.0.0, System.Threading.Tasks.Dataflow 5.0.0)
+
+The MIT License (MIT)
+
+
+
+Copyright (c) .NET Foundation and Contributors
+
+
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+---
+
+MIT License
+(Json.NET 13.0.3, Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0, System.IO.Hashing 8.0.0, System.Linq.Async 6.0.1, System.Memory 4.5.5, System.Reflection.Emit 4.7.0, System.Text.Json 8.0.5)
+
+The MIT License
+===============
+
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+MIT License
 (Microsoft.Extensions.ObjectPool 6.0.0)
 
 ------------------------------------
@@ -287,62 +351,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 
 ---
-
-MIT License
-(JamesNK/Newtonsoft.Json 13.0.3, Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0, System.IO.Hashing 8.0.0, System.Linq.Async 6.0.1, System.Memory 4.5.5, System.Reflection.Emit 4.7.0, System.Text.Json 8.0.4)
-
-The MIT License
-===============
-
-Copyright (c) <year> <copyright holders>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in the
-Software without restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
-Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
-AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-MIT License
-(Microsoft.Bcl.HashCode 1.1.1, Microsoft.Extensions.Logging.Abstractions 6.0.1, System.Diagnostics.DiagnosticSource 6.0.0, System.IO.Pipelines 5.0.1, System.Runtime.CompilerServices.Unsafe 6.0.0, System.Threading.Channels 5.0.0, System.Threading.Tasks.Dataflow 5.0.0)
-
-The MIT License (MIT)
-
-
-
-Copyright (c) .NET Foundation and Contributors
-
-
-
-All rights reserved.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
 
