@@ -2502,45 +2502,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(strip-json-comments 3.1.1)
-
-Upstream-Contact: https://github.com/sindresorhus/strip-json-comments/issues
-Source: https://github.com/sindresorhus/strip-json-comments
-
-Files: *
-Copyright: Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-License: Expat
-
-Files: debian/*
-Copyright: 2015-2018, Julien Puydt <jpuydt@debian.org>
- 2019, Xavier Guimard <yadd@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
 (node-jsonfile 4.0.0)
 
 (The MIT License)
@@ -2558,44 +2519,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
 OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
  ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(detect-newline v3.1.0)
-
-Upstream-Contact: https://github.com/sindresorhus/detect-newline/issues
-Source: https://github.com/sindresorhus/detect-newline#readme
-
-Files: *
-Copyright: 2016 Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-License: Expat
-
-Files: debian/*
-Copyright: 2016 Sruthi Chandran <srud@disroot.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
 
 ---
 
@@ -2725,7 +2648,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(balanced-match 1.0.2, isarray 0.0.1)
+(balanced-match 1.0.2, brace-expansion 1.1.11, isarray 0.0.1)
 
 Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt;
 
@@ -2976,6 +2899,44 @@ THE SOFTWARE
 ---
 
 MIT License
+(ansi-regex 5.0.1)
+
+Upstream-Contact: https://github.com/sindresorhus/ansi-regex/issues
+Source: https://github.com/sindresorhus/ansi-regex
+
+Files: *
+Copyright: 2016 Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+License: Expat
+
+Files: debian/*
+Copyright: 2016 Thorsten Alteholz <debian@alteholz.de>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (color-name 1.1.3, color-name 1.1.4)
 
 The MIT License (MIT)
@@ -3078,33 +3039,6 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(brace-expansion 1.1.11)
-
-MIT License
-
-Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
-
----
-
-MIT License
 (json5 2.2.3)
 
 MIT License
@@ -3186,7 +3120,7 @@ SOFTWARE
 ---
 
 MIT License
-(locate-path v6.0.0)
+(locate-path v5.0.0, locate-path v6.0.0)
 
 License: Expat
 
@@ -3239,7 +3173,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(@types/babel__generator 7.6.4, @types/babel__template 7.4.1, @types/graceful-fs 4.1.5, @types/istanbul-reports 3.0.1, @types/json-schema 7.0.11, @types/minimatch 3.0.5, @types/node 16.4.14, @types/stack-utils 2.0.1, @types/yargs-parser 21.0.0, imurmurhash 0.1.4)
+(@types/babel__generator 7.6.4, @types/babel__template 7.4.1, @types/graceful-fs 4.1.5, @types/istanbul-reports 3.0.1, @types/json-schema 7.0.11, @types/minimatch 3.0.5, @types/node 16.4.14, @types/stack-utils 2.0.1, @types/yargs-parser 21.0.0)
 
 MIT License
 
@@ -3268,7 +3202,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(nodejs/string_decoder 1.1.1, readable-stream v2.3.7)
+(nodejs/string_decoder 1.1.1, readable-stream 3.6.0, readable-stream v2.3.7)
 
 """
 Copyright Node.js contributors. All rights reserved.
@@ -3371,45 +3305,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
-
----
-
-MIT License
-(array-differ 3.0.0)
-
-Upstream-Contact: https://github.com/sindresorhus/array-differ/issues
-Source: https://github.com/sindresorhus/array-differ#readme
-
-Files: *
-Copyright: Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-License: Expat
-
-Files: debian/*
-Copyright: 2016 Sruthi Chandran <srud@disroot.org>
- 2020 Xavier Guimard <yadd@debian.org>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
 
 ---
 
@@ -3545,41 +3440,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-
----
-
-MIT License
-(camelcase 5.3.1)
-
-Source: https://github.com/sindresorhus/camelcase
-
-Files: *
-Copyright: 2016, Sindre Sorhus <sindresorhus@gmail.com>
-License: Expat
-
-Files: debian/*
-Copyright: 2016, Jonathan Ulrich Horn <debian@autoit4you.de>
-License: Expat
-
-License: Expat
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
- of this software and associated documentation files (the "Software"), to deal
- in the Software without restriction, including without limitation the rights
- to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- copies of the Software, and to permit persons to whom the Software is
- furnished to do so, subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be included in
- all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
- THE SOFTWARE
 
 ---
 
@@ -4050,6 +3910,49 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
+(p-locate v5.0.0)
+
+Upstream-Contact: https://github.com/sindresorhus/p-locate/issues
+Source: https://github.com/sindresorhus/p-locate#readme
+
+Files: *
+Copyright: Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+License: Expat
+
+Files: debian/*
+Copyright: 2017 Pirate Praveen <praveen@debian.org>
+ 2020 Xavier Guimard <yadd@debian.org>
+License: Expat
+
+Files: debian/tests/test_modules/*
+Copyright: Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (is-number 7.0.0)
 
 Upstream-Contact: https://github.com/jonschlinkert/is-number/issues
@@ -4307,37 +4210,6 @@ THE SOFTWARE
 ---
 
 MIT License
-(readable-stream 3.6.0)
-
-License: Expat
-
-License: Expat
- All rights reserved.
- .
-
-Permission is hereby granted, free of charge, to any person
- obtaining a copy of this software and associated documentation files
- (the "Software"), to deal in the Software without restriction,
- including without limitation the rights to use, copy, modify, merge,
- publish, distribute, sublicense, and/or sell copies of the Software,
- and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be
- included in all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
- NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
- BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
- ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- SOFTWARE
-
----
-
-MIT License
 (find-up v4.1.0)
 
 Upstream-Contact: https://github.com/sindresorhus/find-up/issues
@@ -4400,6 +4272,34 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(node-buffers 0.1.1)
+
+2020 Xavier Guimard <yadd@debian.org>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE
 
 ---
 
@@ -4928,6 +4828,44 @@ THE SOFTWARE
 ---
 
 MIT License
+(Strip ANSI 6.0.1)
+
+Upstream-Contact: https://github.com/chalk/strip-ansi/issues
+Source: https://github.com/chalk/strip-ansi
+
+Files: *
+Copyright: Sindre Sorhus <sindresorhus@gmail.com>
+License: Expat
+
+Files: debian/*
+Copyright: 2016, Thorsten Alteholz <debian@alteholz.de>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
+
+---
+
+MIT License
 (dedent 0.7.0)
 
 The MIT License (MIT)
@@ -5008,33 +4946,6 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(node-buffers 0.1.1)
-
-License: MIT
-
-License: MIT
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
- of this software and associated documentation files (the "Software"), to deal
- in the Software without restriction, including without limitation the rights
- to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- copies of the Software, and to permit persons to whom the Software is
- furnished to do so, subject to the following conditions:
- .
- The above copyright notice and this permission notice shall be included in
- all copies or substantial portions of the Software.
- .
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
- THE SOFTWARE
 
 ---
 
@@ -5819,7 +5730,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(aggregate-error 3.1.0, ansi-regex 5.0.1, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, arrify 2.0.1, callsites 3.1.0, Chalk 4.1.2, Chalk v3.0.0, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, escape-string-regexp v2.0.0, has-flag 3.0.0, has-flag 4.0.0, import-local 3.1.0, indent-string v4.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-path-inside 3.0.3, leven 3.1.0, locate-path v5.0.0, log-update 4.0.0, make-dir 3.1.0, mimic-fn 2.1.0, npm-run-path 4.0.1, p-limit 2.3.0, p-locate 4.1.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, path-type 4.0.0, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, string-width 4.2.3, Strip ANSI 6.0.1, strip-bom 4.0.0, strip-final-newline 2.0.0, supports-color 5.5.0, supports-color v7.2.0, wrap-ansi v6.2.0)
+(aggregate-error 3.1.0, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-differ 3.0.0, array-union v2.1.0, arrify 2.0.1, callsites 3.1.0, camelcase 5.3.1, Chalk 4.1.2, Chalk v3.0.0, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, has-flag 3.0.0, has-flag 4.0.0, import-local 3.1.0, indent-string v4.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-path-inside 3.0.3, leven 3.1.0, log-update 4.0.0, make-dir 3.1.0, mimic-fn 2.1.0, npm-run-path 4.0.1, p-limit 2.3.0, p-locate 4.1.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, path-type 4.0.0, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, string-width 4.2.3, strip-bom 4.0.0, strip-final-newline 2.0.0, supports-color 5.5.0, supports-color v7.2.0, wrap-ansi v6.2.0)
 
 MIT License
 
@@ -6008,7 +5919,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ansi-escapes 4.3.2, ansi-regex 6.0.1, camelcase 6.3.0, cli-truncate 3.1.0, decompress-response 6.0.0, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, execa 6.1.0, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, import-fresh 3.3.0, is-fullwidth-code-point 4.0.0, mimic-fn 4.0.0, mimic-response 3.1.0, npm-run-path 5.1.0, p-limit 3.1.0, p-locate v5.0.0, p-map 4.0.0, parse-json v5.2.0, path-key 4.0.0, sindresorhus/is-stream 2.0.1, sindresorhus/is-stream 3.0.0, sindresorhus/onetime 6.0.0, sindresorhus/onetime v5.1.2, string-length 4.0.2, Strip ANSI 7.0.1, strip-final-newline 3.0.0, supports-color 8.1.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
+(ansi-escapes 4.3.2, ansi-regex 6.0.1, camelcase 6.3.0, cli-truncate 3.1.0, decompress-response 6.0.0, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, execa 6.1.0, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, import-fresh 3.3.0, is-fullwidth-code-point 4.0.0, mimic-fn 4.0.0, mimic-response 3.1.0, npm-run-path 5.1.0, p-limit 3.1.0, p-map 4.0.0, parse-json v5.2.0, path-key 4.0.0, sindresorhus/is-stream 2.0.1, sindresorhus/is-stream 3.0.0, sindresorhus/onetime 6.0.0, sindresorhus/onetime v5.1.2, string-length 4.0.2, Strip ANSI 7.0.1, strip-final-newline 3.0.0, strip-json-comments 3.1.1, supports-color 8.1.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
 
 MIT License
 
@@ -6082,6 +5993,44 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(imurmurhash 0.1.4)
+
+Upstream-Contact: https://github.com/jensyt/imurmurhash-js/issues
+Source: https://github.com/jensyt/imurmurhash-js
+
+Files: *
+Copyright: 2013 Gary Court, Jens Taylor <jensyt@gmail.com> (https://github.com/homebrewing)
+License: Expat
+
+Files: debian/*
+Copyright: 2017 Roshan Nalawade <dn.roshan2@gmail.com>
+License: Expat
+
+License: Expat
+
+Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation files
+ (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software,
+ and to permit persons to whom the Software is furnished to do so,
+ subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+ BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE
 
 ---
 
