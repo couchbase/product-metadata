@@ -19,9 +19,14 @@ bwesterb/go-ristretto v1.2.3: https://github.com/bwesterb/go-ristretto : MIT Lic
 cespare/xxhash v2.3.0: https://github.com/cespare/xxhash : MIT License
 cloudflare/circl v1.3.7: https://github.com/cloudflare/circl : BSD 3-clause "New" or "Revised" License
 couchbase/tools-common functional/v1.3.1 : 
+couchbase/tools-common strings/v1.0.0 : 
+couchbase/tools-common sync/v2.0.0 : 
+couchbase/tools-common types/v1.1.4 : 
+couchbase/tools-common utils/v3.0.0 : 
 creack/pty v1.1.9: https://github.com/kr/pty : MIT License
 cyphar/filepath-securejoin v0.2.5: https://github.com/cyphar/filepath-securejoin : BSD 3-clause "New" or "Revised" License
 emirpasic-gods v1.18.1: https://github.com/emirpasic/gods : (BSD 2-clause "Simplified" License AND ISC License)
+emperror/errors v0.8.1: https://github.com/emperror/errors : MIT License
 envoyproxy/go-control-plane v0.13.1: https://github.com/envoyproxy/go-control-plane : Apache License 2.0
 envoyproxy/protoc-gen-validate 1.1.0: https://github.com/envoyproxy/protoc-gen-validate : Apache License 2.0
 errwrap v1.1.0: https://github.com/hashicorp/errwrap : Mozilla Public License 2.0
@@ -32,7 +37,7 @@ github.com/cncf/xds 20240905-snapshot-b4127c9b : Apache License 2.0
 github.com/go-git/gcfg 20230307-snapshot-3a3c6141: https://github.com/go-git/gcfg : 
 github.com/google/cel-spec v0.16.2: https://github.com/google/cel-spec : Apache License 2.0
 github.com/hashicorp/cli v1.1.6 : 
-github.com/hashicorp/terraform-plugin-framework-validators v0.16.0 : Mozilla Public License 2.0
+github.com/hashicorp/terraform-plugin-framework-validators v0.17.0 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-plugin-go v0.26.0 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-plugin-log v0.9.0 : Mozilla Public License 2.0
 github.com/hashicorp/terraform-plugin-testing v1.7.0 : Mozilla Public License 2.0
@@ -52,6 +57,7 @@ go-logr/stdr v1.2.2: https://github.com/go-logr/stdr : Apache License 2.0
 go-spew v1.1.1: https://github.com/davecgh/go-spew : ISC License
 go-test/deep v1.0.3: http://github.com/go-test/deep/ : MIT License
 go-warnings/warnings v0.1.2: https://github.com/go-warnings/warnings : BSD 2-clause "Simplified" License
+go.uber.org/multierr v1.6.0: https://github.com/uber-go/multierr : MIT License
 GoDoc Text v0.2.0: http://godoc.org/github.com/kr/text : MIT License
 Golang Protobuf v1.36.3: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.5.4: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
@@ -126,6 +132,7 @@ sergi/go-diff 20230802-snapshot-5b0b94c5: https://github.com/sergi/go-diff : MIT
 shopspring-decimal v1.2.0: https://github.com/shopspring/decimal : MIT License
 spf13-cast v1.3.1: https://github.com/spf13/cast : MIT License
 stretchr/objx v0.5.2: https://github.com/stretchr/objx : MIT License
+uber-go/atomic 1.7.0: https://go.uber.org/atomic : MIT License
 vmihailenco/msgpack v4.0.4: https://github.com/vmihailenco/msgpack : BSD 2-clause "Simplified" License
 vmihailenco/msgpack v5.4.1: https://github.com/vmihailenco/msgpack : BSD 2-clause "Simplified" License
 vmihailenco/tagparser v2.0.0: https://github.com/vmihailenco/tagparser : BSD 2-clause "Simplified" License
@@ -790,6 +797,31 @@ SOFTWARE
 ---
 
 MIT License
+(emperror/errors v0.8.1)
+
+Copyright (c) 2019 Márk Sági-Kazár <mark.sagikazar@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
 (mitchellh/go-testing-interface v1.14.1)
 
 Files: *
@@ -849,6 +881,31 @@ OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(uber-go/atomic 1.7.0)
+
+Copyright (c) 2016 Uber Technologies, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
 
 ---
 
@@ -1021,6 +1078,31 @@ THE SOFTWARE
 ---
 
 MIT License
+(go.uber.org/multierr v1.6.0)
+
+Copyright (c) 2017 Uber Technologies, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
 (mitchellh-reflectwalk v1.0.2)
 
 The MIT License (MIT)
@@ -1075,7 +1157,7 @@ THE SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(errwrap v1.1.0, github.com/hashicorp/terraform-plugin-framework-validators v0.16.0, github.com/hashicorp/terraform-plugin-go v0.26.0, github.com/hashicorp/terraform-plugin-log v0.9.0, github.com/hashicorp/terraform-plugin-testing v1.7.0, github.com/hashicorp/terraform-registry-address v0.2.4, go-checkpoint v0.5.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.6.2, hashicorp-go-retryablehttp 0.7.7, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.7.0, hashicorp-logutils v1.0.0, hashicorp-yamux v0.1.2, hashicorp/hcl v2.23.0, hashicorp/terraform-plugin-framework v1.14.1, hashicorp/terraform-plugin-sdk v2.36.1, hashicorp/terraform-svchost v0.1.1)
+(errwrap v1.1.0, github.com/hashicorp/terraform-plugin-framework-validators v0.17.0, github.com/hashicorp/terraform-plugin-go v0.26.0, github.com/hashicorp/terraform-plugin-log v0.9.0, github.com/hashicorp/terraform-plugin-testing v1.7.0, github.com/hashicorp/terraform-registry-address v0.2.4, go-checkpoint v0.5.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.6.2, hashicorp-go-retryablehttp 0.7.7, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.7.0, hashicorp-logutils v1.0.0, hashicorp-yamux v0.1.2, hashicorp/hcl v2.23.0, hashicorp/terraform-plugin-framework v1.14.1, hashicorp/terraform-plugin-sdk v2.36.1, hashicorp/terraform-svchost v0.1.1)
 
 Mozilla Public License
 Version 2.0
