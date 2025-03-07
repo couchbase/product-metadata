@@ -9,11 +9,12 @@ Notices Report Content
 
 Components: 
 
+fpagliughi/sockpp v0.7 : BSD 3-clause "New" or "Revised" License
 jsonsl 20171103-snapshot-684b60f9: https://github.com/mnunberg/jsonsl : MIT License
 Kotlin 1.9.24: http://kotlin.jetbrains.org : Apache License 2.0
 kotlin-stdlib-common 1.9.24 : Apache License 2.0
 libb64 1.2.1: http://libb64.sourceforge.net/ : Creative Commons Public Domain Dedication and Certification
-libicu 71.1: http://www.icu-project.org/ : (MIT License AND Public Domain AND Unicode Character Database Terms Of Use)
+libicu 76.1: http://www.icu-project.org/ : (BSD 2-clause "Simplified" License AND Unicode License Agreement - Data Files and Software (2016) AND Nara Institute of Science and Technology License (2003) AND BSD 3-clause "New" or "Revised" License AND Unknown License)
 libstemmer 0: http://snowball.tartarus.org : BSD 3-clause "New" or "Revised" License
 mbed TLS 2.28.8: https://www.trustedfirmware.org/ : Apache License 2.0
 OkHttp 4.12.0: https://github.com/square/okhttp : Apache License 2.0
@@ -214,8 +215,37 @@ third-party archives.
 
 ---
 
+BSD 2-clause "Simplified" License
+(libicu 76.1)
+
+BSD Two Clause License
+======================
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  1. Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  2. Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+---
+
 BSD 3-clause "New" or "Revised" License
-(libstemmer 0)
+(fpagliughi/sockpp v0.7, libicu 76.1, libstemmer 0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -318,7 +348,7 @@ IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(jsonsl 20171103-snapshot-684b60f9, libicu 71.1)
+(jsonsl 20171103-snapshot-684b60f9)
 
 The MIT License
 ===============
@@ -344,8 +374,79 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
+Nara Institute of Science and Technology License (2003)
+(libicu 76.1)
+
+Nara Institute of Science and Technology License (2003)
+=======================================================
+
+Copyright 2000, 2001, 2002, 2003 Nara Institute of Science and Technology. All
+Rights Reserved.
+Use, reproduction, and distribution of this software is permitted. Any copy of
+this software, whether in its original form or modified, must include both the
+above copyright notice and the following paragraphs.
+
+Nara Institute of Science and Technology (NAIST), the copyright holders,
+disclaims all warranties with regard to this software, including all implied
+warranties of merchantability and fitness, in no event shall NAIST be liable for
+any special, indirect or consequential damages or any damages whatsoever
+resulting from loss of use, data or profits, whether in an action of contract,
+negligence or other tortuous action, arising out of or in connection with the use
+or performance of this software.
+
+A large portion of the dictionary entries originate from ICOT Free Software. The
+following conditions for ICOT Free Software applies to the current dictionary as
+well.
+
+Each User may also freely distribute the Program, whether in its original form or
+modified, to any third party or parties, PROVIDED that the provisions of Section
+3 ("NO WARRANTY") will ALWAYS appear on, or be attached to, the Program, which is
+distributed substantially in the same form as set out herein and that such
+intended distribution, if actually made, will neither violate or otherwise
+contravene any of the laws and regulations of the countries having jurisdiction
+over the User or the intended distribution itself.
+
+NO WARRANTY
+
+The program was produced on an experimental basis in the course of the research
+and development conducted during the project and is provided to users as so
+produced on an experimental basis. Accordingly, the program is provided without
+any warranty whatsoever, whether express, implied, statutory or otherwise. The
+term "warranty" used herein includes, but is not limited to, any warranty of the
+quality, performance, merchantability and fitness for a particular purpose of the
+program and the nonexistence of any infringement or violation of any right of any
+third party.
+
+Each user of the program will agree and understand, and be deemed to have agreed
+and understood, that there is no warranty whatsoever for the program and,
+accordingly, the entire risk arising from or otherwise connected with the program
+is assumed by the user.
+
+Therefore, neither ICOT, the copyright holder, or any other organization that
+participated in or was otherwise related to the development of the program and
+their respective officials, directors, officers and other employees shall be held
+liable for any and all damages, including, without limitation, general, special,
+incidental and consequential damages, arising out of or otherwise in connection
+with the use or inability to use the program or any product, material or result
+produced or otherwise obtained by using the program, regardless of whether they
+have been advised of, or otherwise had knowledge of, the possibility of such
+damages at any time during the project or thereafter. Each user will be deemed to
+have agreed to the foregoing by his or her commencement of use of the program.
+The term "use" as used herein includes, but is not limited to, the use,
+modification, copying and distribution of the program and the production of
+secondary products from the program.
+
+In the case where the program, whether in its original form or modified, was
+distributed or delivered to or received by a user from any person, organization
+or entity other than ICOT, unless it makes or grants independently of ICOT any
+specific warranty to the user in writing, such person, organization or entity,
+will also be exempted from and not be held liable to the user for any such
+damages as noted above as far as the program is concerned.
+
+---
+
 Public Domain
-(libicu 71.1, sqlite3-unicodesn 20160920-snapshot-af75748c)
+(sqlite3-unicodesn 20160920-snapshot-af75748c)
 
 Public domain code is not subject to any license.
 
@@ -381,34 +482,63 @@ For more information, please refer to http://unlicense.org/
 
 ---
 
-Unicode Character Database Terms Of Use
-(libicu 71.1)
+Unicode License Agreement - Data Files and Software (2016)
+(libicu 76.1)
 
-UCD Terms of Use
-================
+UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
+=========================================================
 
-Disclaimer
+Unicode Data Files include all data files under the directories
+http://www.unicode.org/Public/, http://www.unicode.org/reports/,
+http://www.unicode.org/cldr/data/, http://source.icu-project.org/repos/icu/, and
+http://www.unicode.org/utility/trac/browser/.
 
-The Unicode Character Database is provided as is by Unicode, Inc. No claims are
-made as to fitness for any particular purpose. No warranties of any kind are
-expressed or implied. The recipient agrees to determine applicability of
-information provided. If this file has been purchased on magnetic or optical
-media from Unicode, Inc., the sole remedy for any claim will be exchange of
-defective media within 90 days of receipt.
+Unicode Data Files do not include PDF online code charts under the directory
+http://www.unicode.org/Public/.
 
-This disclaimer is applicable for all other data files accompanying the Unicode
-Character Database, some of which have been compiled by the Unicode Consortium,
-and some of which have been supplied by other sources.
+Software includes any source code published in the Unicode Standard or under the
+directories
+http://www.unicode.org/Public/, http://www.unicode.org/reports/,
+http://www.unicode.org/cldr/data/, http://source.icu-project.org/repos/icu/, and
+http://www.unicode.org/utility/trac/browser/.
 
-Limitations on Rights to Redistribute This Data
+NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING,
+INSTALLING, COPYING OR OTHERWISE USING UNICODE INC.'S DATA FILES ("DATA FILES"),
+AND/OR SOFTWARE ("SOFTWARE"), YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY,
+ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT
+DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
 
-Recipient is granted the right to make copies in any form for internal
-distribution and to freely use the information supplied in the creation of
-products supporting the UnicodeTM Standard. The files in the Unicode Character
-Database can be redistributed to third parties or other organizations (whether
-for profit or not) as long as this notice and the disclaimer notice are retained.
-Information can be extracted from these files and used in documentation or
-programs, as long as there is an accompanying notice indicating the source.
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright © 1991-2016 Unicode, Inc. All rights reserved. Distributed under the
+Terms of Use in http://www.unicode.org/copyright.html.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+the Unicode data files and any associated documentation (the "Data Files") or
+Unicode software and any associated documentation (the "Software") to deal in the
+Data Files or Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, and/or sell copies of
+the Data Files or Software, and to permit persons to whom the Data Files or
+Software are furnished to do so, provided that either
+
+  a. this copyright and permission notice appear with all copies of the Data
+    Files or Software, or
+
+  b. this copyright and permission notice appear in associated Documentation.
+
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD
+PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS
+NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES,
+OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN
+AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall not be
+used in advertising or otherwise to promote the sale, use or other dealings in
+these Data Files or Software without prior written authorization of the copyright
+holder.
 
 ---
 
