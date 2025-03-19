@@ -25,14 +25,14 @@ Microsoft.Extensions.ObjectPool 6.0.0 : MIT License
 Microsoft.Extensions.Options 3.1.21: http://www.nuget.org/packages/Microsoft.Extensions.Options : Apache License 2.0
 OpenTelemetry 1.2.0 : Apache License 2.0
 OpenTelemetry.Api 1.2.0: https://opentelemetry.io/ : Apache License 2.0
-Snappier 1.1.6 : BSD 2-clause "Simplified" License
+Snappier 1.2.0 : BSD 2-clause "Simplified" License
 System.Diagnostics.DiagnosticSource 6.0.0: https://www.nuget.org/packages/System.Diagnostics.DiagnosticSource : MIT License
 System.IO.Hashing 8.0.0: https://dot.net/ : MIT License
 System.IO.Pipelines 5.0.1: https://github.com/dotnet/corefxlab : MIT License
 System.Linq.Async 6.0.1: https://github.com/dotnet/reactive : MIT License
-System.Memory 4.5.5: https://dotnet.microsoft.com/en-us/ : MIT License
+System.Memory 4.6.0: https://dotnet.microsoft.com/en-us/ : MIT License
 System.Reflection.Emit 4.7.0 : MIT License
-System.Runtime.CompilerServices.Unsafe 6.0.0: https://www.nuget.org/packages/System.Runtime.CompilerServices.Unsafe : MIT License
+System.Runtime.CompilerServices.Unsafe 6.1.0: https://www.nuget.org/packages/System.Runtime.CompilerServices.Unsafe : MIT License
 System.Text.Json 8.0.5: https://www.nuget.org/packages/System.Text.Json : MIT License
 System.Threading.Channels 5.0.0: https://dot.net/ : MIT License
 System.Threading.Tasks.Dataflow 5.0.0 : MIT License
@@ -227,7 +227,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(Google API Common Protos 2.13.0, Google.Protobuf/C# 3.25.0, Snappier 1.1.6)
+(Google API Common Protos 2.13.0, Google.Protobuf/C# 3.25.0, Snappier 1.2.0)
 
 BSD Two Clause License
 ======================
@@ -256,7 +256,7 @@ DAMAGE.
 ---
 
 MIT License
-(Microsoft.Bcl.HashCode 1.1.1, Microsoft.Extensions.Logging.Abstractions 6.0.1, System.Diagnostics.DiagnosticSource 6.0.0, System.IO.Pipelines 5.0.1, System.Runtime.CompilerServices.Unsafe 6.0.0, System.Threading.Channels 5.0.0, System.Threading.Tasks.Dataflow 5.0.0)
+(Microsoft.Bcl.HashCode 1.1.1, Microsoft.Extensions.Logging.Abstractions 6.0.1, System.Diagnostics.DiagnosticSource 6.0.0, System.IO.Pipelines 5.0.1, System.Threading.Channels 5.0.0, System.Threading.Tasks.Dataflow 5.0.0)
 
 The MIT License (MIT)
 
@@ -289,7 +289,7 @@ SOFTWARE
 ---
 
 MIT License
-(Json.NET 13.0.3, Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0, System.IO.Hashing 8.0.0, System.Linq.Async 6.0.1, System.Memory 4.5.5, System.Reflection.Emit 4.7.0, System.Text.Json 8.0.5)
+(Json.NET 13.0.3, Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0, System.IO.Hashing 8.0.0, System.Linq.Async 6.0.1, System.Memory 4.6.0, System.Reflection.Emit 4.7.0, System.Runtime.CompilerServices.Unsafe 6.1.0, System.Text.Json 8.0.5)
 
 The MIT License
 ===============
