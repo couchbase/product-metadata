@@ -158,9 +158,9 @@ Animal Sniffer Annotations 1.24: https://www.mojohaus.org/animal-sniffer/animal-
 ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
 ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
 Apache Avro 1.12.0: http://avro.apache.org/ : Apache License 2.0
 Apache Avro 1.9.2: http://avro.apache.org/ : Apache License 2.0
 Apache Avro IPC 1.12.0: http://avro.apache.org : Apache License 2.0
@@ -365,6 +365,7 @@ Bouncy Castle 1.79: http://www.bouncycastle.org : (MIT License AND Apache Licens
 Bouncy Castle ASN.1 Extension and Utility APIs 1.79 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://www.bouncycastle.org/java.html : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
+braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 browserify/resolve v1.17.0: https://github.com/browserify/resolve : MIT License
 browserslist 4.12.0: https://github.com/ai/browserslist : MIT License
@@ -465,7 +466,7 @@ couchbase-gomemcached v0.2.1: http://dustin.github.com/2009/11/12/gomemcached.ht
 couchbase-gomemcached v0.3.2: http://dustin.github.com/2009/11/12/gomemcached.html : MIT License
 couchbase-goutils v0.1.2: https://github.com/couchbase/goutils : Apache License 2.0
 couchbase/cbflag 20220325-snapshot-f0f642f8: https://github.com/couchbase/cbflag : 
-couchbase/cbsummary 20240815-snapshot-b93a39e6: https://github.com/couchbase/cbsummary : 
+couchbase/cbsummary 20250109-snapshot-6775f5ae: https://github.com/couchbase/cbsummary : 
 couchbase/go_json 20220330-snapshot-4473a218: https://github.com/couchbase/go_json : 
 couchbase/go_json 20230326-snapshot-d6e17ad2: https://github.com/couchbase/go_json : 
 couchbase/gocbcore v10.1.6 : Apache License 2.0
@@ -474,12 +475,12 @@ couchbase/gocbcore v9.1.3 : Apache License 2.0
 couchbase/gocbcore v9.1.8 : Apache License 2.0
 couchbase/goprotostellar v1.0.2: https://github.com/couchbase/goprotostellar : 
 couchbase/phosphor 20240417-snapshot-a4d27b2b : Apache License 2.0
-couchbase/query-ui 20241119-snapshot-704c1b26 : 
+couchbase/query-ui 20250110-snapshot-4d740392 : 
 couchbase/tools-common auth/v2.0.0 : 
 couchbase/tools-common cbbs/v1.2.1 : 
 couchbase/tools-common cloud/v6.1.2 : 
 couchbase/tools-common core/v2.1.0 : 
-couchbase/tools-common couchbase/v3.3.1 : 
+couchbase/tools-common couchbase/v3.3.4 : 
 couchbase/tools-common databases/v1.0.5 : 
 couchbase/tools-common environment/v1.1.1 : 
 couchbase/tools-common errors/v1.0.0 : 
@@ -1130,8 +1131,6 @@ google/renameio v0.1.0: https://pkg.go.dev/mvdan.cc/sh/v3 : Apache License 2.0
 google/s2a-go v0.1.7: https://github.com/google/s2a-go : Apache License 2.0
 google/s2a-go v0.1.8: https://github.com/google/s2a-go : Apache License 2.0
 google/subcommands 1.2.0: https://github.com/google/subcommands : Apache License 2.0
-google/uuid v1.3.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
-google/uuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
 google/wire v0.6.0: https://github.com/google/wire : Apache License 2.0
 googleapis/enterprise-certificate-proxy 0.3.4: https://github.com/googleapis/enterprise-certificate-proxy : Apache License 2.0
 googleapis/enterprise-certificate-proxy v0.1.0: https://github.com/googleapis/enterprise-certificate-proxy : Apache License 2.0
@@ -1168,6 +1167,8 @@ googleguava 33.3.0-jre: https://github.com/google/guava : Apache License 2.0
 googleguava 33.3.1-jre: https://github.com/google/guava : Apache License 2.0
 googleguava v32.0.1: https://github.com/google/guava : Apache License 2.0
 googleguava v32.1.2: https://github.com/google/guava : Apache License 2.0
+Googleuuid v1.3.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
+Googleuuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
 gophercloud/gophercloud v1.14.1: https://github.com/gophercloud/gophercloud : Apache License 2.0
 gopherjs 20181205-snapshot-0766667c: https://github.com/gopherjs/gopherjs : BSD 2-clause "Simplified" License
 gopkg.in/v1/fsnotify v1.4.7: http://fsnotify.org : BSD 3-clause "New" or "Revised" License
@@ -1485,7 +1486,6 @@ Merge-Stream 2.0.0: https://github.com/grncdr/merge-stream : MIT License
 mergo v0.3.16: https://github.com/imdario/mergo : BSD 3-clause "New" or "Revised" License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
-micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsoft Azure client library for Blob Storage batching 12.23.0 : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.18.1 : MIT License
 Microsoft Azure client library for Identity 1.13.3 : MIT License
@@ -1791,6 +1791,7 @@ shopspring-decimal v1.2.0: https://github.com/shopspring/decimal : MIT License
 shurcooL-sanitized_anchor_name 1.0.0: https://github.com/shurcooL/sanitized_anchor_name : MIT License
 shurcooL/httpfs 20230704-snapshot-f1e31cf0: https://github.com/shurcooL/httpfs : MIT License
 sigmund 1.0.1: https://github.com/isaacs/sigmund : ISC License
+signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
 sigs.k8s.io/json 20221116-snapshot-bc3834ca: https://github.com/kubernetes-sigs/json : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 sigs.k8s.io/yaml v1.2.0: https://github.com/kubernetes-sigs/yaml : (MIT License AND BSD 3-clause "New" or "Revised" License)
 sigs.k8s.io/yaml v1.4.0: https://github.com/kubernetes-sigs/yaml : Apache License 2.0
@@ -1801,6 +1802,10 @@ sindresorhus/got 10.7.0: https://github.com/sindresorhus/got : MIT License
 sindresorhus/is-stream v2.0.0: https://github.com/sindresorhus/is-stream : MIT License
 sindresorhus/normalize-url v4.5.0: https://github.com/sindresorhus/normalize-url : MIT License
 sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
 Sirupsen/logrus v1.9.3: https://github.com/Sirupsen/logrus : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
@@ -1839,15 +1844,10 @@ string-width 4.2.2: https://github.com/sindresorhus/string-width : MIT License
 Strip ANSI 5.2.0: https://github.com/sindresorhus/strip-ansi : MIT License
 Strip ANSI 6.0.0: https://github.com/sindresorhus/strip-ansi : MIT License
 strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments : MIT License
-supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
-supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
-supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
-supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 svgo 20180226-snapshot-644b8db4: https://github.com/ajstarks/svgo : Creative Commons Attribution 3.0
 swag v0.22.9: https://github.com/go-openapi/swag : Apache License 2.0
 Swift Poet 1.5.0 : Apache License 2.0
 tapable 1.1.3: https://github.com/webpack/tapable : MIT License
-tapjs/signal-exit v3.0.3: https://github.com/tapjs/signal-exit : ISC License
 tar v6.0.1: https://github.com/isaacs/node-tar : ISC License
 tdegrunt/jsonschema 1.2.6: https://github.com/tdegrunt/jsonschema : MIT License
 terser 4.8.0: https://github.com/fabiosantoscode/terser : BSD 2-clause "Simplified" License
@@ -3733,7 +3733,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(ASM 9.3, ASM Commons 9.3, ASM Tree 9.3, ASM Util 9.3, asm-analysis 9.3, bigfft 20200410-snapshot-eec4a21b, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate 1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dnsjava 3.5.2, dnsjava 3.6.0, dnsjava 3.6.1, double-conversion v3.3.0, edsrzf/mmap-go 1.1.0, exp 20190121-snapshot-509febef, exp 20200223-snapshot-6cc2880d, exp 20241204-snapshot-43b7b7cd, facette/natsort 20181210-snapshot-2cd4dd1e, filippo.io/edwards25519 v1.1.0, fsnotify-fsnotify 1.8.0, fsnotify-fsnotify v1.7.0, gajus/table v6.7.1, GAX (Google Api eXtensions) 2.58.0, github.com/lufia/plan9stats 20240909-snapshot-873cd016, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, glfw 20190408-snapshot-e6da0acd, glfw 20200222-snapshot-6f7a984d, Go programming language 1.23.2, Go programming language 1.23.4, Go support for Mobile devices 20190704-snapshot-d2bd2a29, go-zookeeper/zk v1.0.4, Golang Protobuf v1.33.0, Golang Protobuf v1.34.2, Golang Protobuf v1.35.2, Golang Protobuf v1.5.4, golang.org/x/crypto 0.24.0, golang.org/x/crypto v0.1.0, golang.org/x/crypto v0.15.0, golang.org/x/crypto v0.30.0, golang.org/x/crypto v0.32.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20190308-snapshot-d0100b6b, golang.org/x/lint 20200301-snapshot-738671d3, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/lint 20241105-snapshot-818c5a80, golang.org/x/mod 20220414-snapshot-86c51ed2, golang.org/x/mod v0.17.0, golang.org/x/mod v0.22.0, golang.org/x/net v0.10.0, golang.org/x/net v0.22.0, golang.org/x/net v0.25.0, golang.org/x/net v0.26.0, golang.org/x/net v0.32.0, golang.org/x/net v0.7.0, golang.org/x/oauth2 20220223-snapshot-ee480838, golang.org/x/oauth2 20220630-snapshot-2104d584, golang.org/x/oauth2 v0.18.0, golang.org/x/oauth2 v0.21.0, golang.org/x/oauth2 v0.24.0, golang.org/x/sync 20220722-snapshot-886fb937, golang.org/x/sync v0.10.0, golang.org/x/sync v0.7.0, golang.org/x/sys 0.21.0, golang.org/x/sys 0.5.0, golang.org/x/sys v0.14.0, golang.org/x/sys v0.28.0, golang.org/x/sys v0.29.0, golang.org/x/term v0.14.0, golang.org/x/term v0.21.0, golang.org/x/term v0.27.0, golang.org/x/term v0.28.0, golang.org/x/term v0.5.0, golang.org/x/time 20191023-snapshot-555d28b2, golang.org/x/time v0.5.0, golang.org/x/time v0.8.0, golang.org/x/tools v0.1.12, golang.org/x/tools v0.28.0, golang.org/x/xerrors 20190516-snapshot-a985d340, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20220608-snapshot-65e65417, golang.org/x/xerrors 20231011-snapshot-104605ab, golang.org/x/xerrors 20240902-snapshot-7835f813, golang/text 0.16.0, golang/text v0.14.0, golang/text v0.21.0, golang/text v0.7.0, gonum/netlib 20190311-snapshot-8cb42192, Google API Common 2.41.0, Google Auth Library for Java 1.30.0, google-snappy 1.1.10, google/go-cmp v0.5.9, google/go-cmp v0.6.0, google/uuid v1.6.0, googleapis/gax-go v2.12.2, googleapis/gax-go v2.12.5, googleapis/gax-go v2.14.0, googleapis/gax-go v2.4.0, googleapis/google-api-go-client v0.169.0, googleapis/google-api-go-client v0.187.0, googleapis/google-api-go-client v0.210.0, googleapis/google-api-go-client v0.87.0, gopsutil v3.24.5, gorilla/mux v1.8.1, gorilla/websocket v1.4.0, grpc-gateway v2.22.0, grpc-gateway v2.7.0, ianlancetaylor/demangle 20200824-snapshot-28f6c0f3, idna 3.10, JLine - Java Console input Library 3.9.0, JLine Builtins 3.9.0, JLine JANSI Terminal 3.9.0, JLine JNA Terminal 3.9.0, JLine Reader 3.9.0, JLine Remote SSH 3.9.0, JLine Remote Telnet 3.9.0, JLine Style 3.9.0, JLine Terminal 3.9.0, klauspost-compress v1.17.11, libgcc 13.2.0, mathutil 20181205-snapshot-297441e0, mattn-go-colorable 0.1.13, mergo v0.3.16, miekg/dns v1.1.62, OpenBLAS v0.3.28, ovh/go-ovh v1.6.0, pbnjay/memory 20210728-snapshot-7b4eea64, PCRE 8.44, pingcap/check 20211026-snapshot-57bd13f7, prometheus-procfs 0.8.0, Protobuf 3.24.3, protobuf-java 3.23.2, Protocol Buffer Java Util Package 3.23.2, pycparser 2.22, pycryptodomex 3.21.0, python-snappy 0.7.2, re2j 1.1, re2j 1.7, rogpeppe/go-internal v1.12.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, ThreeTen backport 1.7.0, ThreeTen-extra 1.7.1, tklauser/go-sysconf v0.3.14, v8 12.1.285.26, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
+(ASM 9.3, ASM Commons 9.3, ASM Tree 9.3, ASM Util 9.3, asm-analysis 9.3, bigfft 20200410-snapshot-eec4a21b, d3-array 2.4.0, d3-axis 1.0.12, d3-brush 1.1.5, d3-collection 1.0.7, d3-color 1.4.1, d3-dispatch 1.0.6, d3-drag 1.2.5, d3-dsv 2.0.0, d3-ease 1.0.6, d3-format 1.4.3, d3-hierarchy 1.1.9, d3-interpolate 1.4.0, d3-path 1.0.9, d3-scale 3.2.1, d3-scale-chromatic 1.5.0, d3-selection v1.4.1, d3-time 1.1.0, d3-time-format 2.2.3, d3-timer v1.0.10, d3-zoom 1.8.3, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dnsjava 3.5.2, dnsjava 3.6.0, dnsjava 3.6.1, double-conversion v3.3.0, edsrzf/mmap-go 1.1.0, exp 20190121-snapshot-509febef, exp 20200223-snapshot-6cc2880d, exp 20241204-snapshot-43b7b7cd, facette/natsort 20181210-snapshot-2cd4dd1e, filippo.io/edwards25519 v1.1.0, fsnotify-fsnotify 1.8.0, fsnotify-fsnotify v1.7.0, gajus/table v6.7.1, GAX (Google Api eXtensions) 2.58.0, github.com/lufia/plan9stats 20240909-snapshot-873cd016, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, glfw 20190408-snapshot-e6da0acd, glfw 20200222-snapshot-6f7a984d, Go programming language 1.23.2, Go programming language 1.23.4, Go support for Mobile devices 20190704-snapshot-d2bd2a29, go-zookeeper/zk v1.0.4, Golang Protobuf v1.33.0, Golang Protobuf v1.34.2, Golang Protobuf v1.35.2, Golang Protobuf v1.5.4, golang.org/x/crypto 0.24.0, golang.org/x/crypto v0.1.0, golang.org/x/crypto v0.15.0, golang.org/x/crypto v0.30.0, golang.org/x/crypto v0.32.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20190308-snapshot-d0100b6b, golang.org/x/lint 20200301-snapshot-738671d3, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/lint 20241105-snapshot-818c5a80, golang.org/x/mod 20220414-snapshot-86c51ed2, golang.org/x/mod v0.17.0, golang.org/x/mod v0.22.0, golang.org/x/net v0.10.0, golang.org/x/net v0.22.0, golang.org/x/net v0.25.0, golang.org/x/net v0.26.0, golang.org/x/net v0.32.0, golang.org/x/net v0.7.0, golang.org/x/oauth2 20220223-snapshot-ee480838, golang.org/x/oauth2 20220630-snapshot-2104d584, golang.org/x/oauth2 v0.18.0, golang.org/x/oauth2 v0.21.0, golang.org/x/oauth2 v0.24.0, golang.org/x/sync 20220722-snapshot-886fb937, golang.org/x/sync v0.10.0, golang.org/x/sync v0.7.0, golang.org/x/sys 0.21.0, golang.org/x/sys 0.5.0, golang.org/x/sys v0.14.0, golang.org/x/sys v0.28.0, golang.org/x/sys v0.29.0, golang.org/x/term v0.14.0, golang.org/x/term v0.21.0, golang.org/x/term v0.27.0, golang.org/x/term v0.28.0, golang.org/x/term v0.5.0, golang.org/x/time 20191023-snapshot-555d28b2, golang.org/x/time v0.5.0, golang.org/x/time v0.8.0, golang.org/x/tools v0.1.12, golang.org/x/tools v0.28.0, golang.org/x/xerrors 20190516-snapshot-a985d340, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20220608-snapshot-65e65417, golang.org/x/xerrors 20231011-snapshot-104605ab, golang.org/x/xerrors 20240902-snapshot-7835f813, golang/text 0.16.0, golang/text v0.14.0, golang/text v0.21.0, golang/text v0.7.0, gonum/netlib 20190311-snapshot-8cb42192, Google API Common 2.41.0, Google Auth Library for Java 1.30.0, google-snappy 1.1.10, google/go-cmp v0.5.9, google/go-cmp v0.6.0, googleapis/gax-go v2.12.2, googleapis/gax-go v2.12.5, googleapis/gax-go v2.14.0, googleapis/gax-go v2.4.0, googleapis/google-api-go-client v0.169.0, googleapis/google-api-go-client v0.187.0, googleapis/google-api-go-client v0.210.0, googleapis/google-api-go-client v0.87.0, Googleuuid v1.6.0, gopsutil v3.24.5, gorilla/mux v1.8.1, gorilla/websocket v1.4.0, grpc-gateway v2.22.0, grpc-gateway v2.7.0, ianlancetaylor/demangle 20200824-snapshot-28f6c0f3, idna 3.10, JLine - Java Console input Library 3.9.0, JLine Builtins 3.9.0, JLine JANSI Terminal 3.9.0, JLine JNA Terminal 3.9.0, JLine Reader 3.9.0, JLine Remote SSH 3.9.0, JLine Remote Telnet 3.9.0, JLine Style 3.9.0, JLine Terminal 3.9.0, klauspost-compress v1.17.11, libgcc 13.2.0, mathutil 20181205-snapshot-297441e0, mattn-go-colorable 0.1.13, mergo v0.3.16, miekg/dns v1.1.62, OpenBLAS v0.3.28, ovh/go-ovh v1.6.0, pbnjay/memory 20210728-snapshot-7b4eea64, PCRE 8.44, pingcap/check 20211026-snapshot-57bd13f7, prometheus-procfs 0.8.0, Protobuf 3.24.3, protobuf-java 3.23.2, Protocol Buffer Java Util Package 3.23.2, pycparser 2.22, pycryptodomex 3.21.0, python-snappy 0.7.2, re2j 1.1, re2j 1.7, rogpeppe/go-internal v1.12.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, ThreeTen backport 1.7.0, ThreeTen-extra 1.7.1, tklauser/go-sysconf v0.3.14, v8 12.1.285.26, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -4259,7 +4259,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(google/uuid v1.3.0)
+(Googleuuid v1.3.0)
 
 Copyright (c) 2009,2014 Google Inc. All rights reserved.
 
@@ -9778,7 +9778,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(tapjs/signal-exit v3.0.3)
+(signal-exit v3.0.3)
 
 Upstream-Contact: https://github.com/tapjs/signal-exit/issues
 Source: https://github.com/tapjs/signal-exit
@@ -11748,32 +11748,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(editorconfig-core-c 0.15.3)
-
-Copyright © 2012 EditorConfig Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
-(micromatch/braces 3.0.2)
+(braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -11813,6 +11788,31 @@ Permission is hereby granted, free of charge, to any person
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
+
+---
+
+MIT License
+(editorconfig-core-c 0.15.3)
+
+Copyright © 2012 EditorConfig Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
 
 ---
 
@@ -12330,7 +12330,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles v4.3.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 4.1.2, Chalk v3.0.0, clean-stack 2.2.0, cli-spinners 2.3.0, decompress-response 5.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, leven 3.1.0, log-symbols 2.2.0, lowercase-keys 2.0.0, mimic-fn 1.2.0, mimic-response 1.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, parent-module 1.0.1, path-key 3.1.1, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/is-stream v2.0.0, sindresorhus/normalize-url v4.5.0, string-width 4.2.2, Strip ANSI 6.0.0, supports-color 5.5.0, supports-color 6.1.0, supports-color v7.1.0, supports-color v7.2.0, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1)
+(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles v4.3.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 4.1.2, Chalk v3.0.0, clean-stack 2.2.0, cli-spinners 2.3.0, decompress-response 5.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, leven 3.1.0, log-symbols 2.2.0, lowercase-keys 2.0.0, mimic-fn 1.2.0, mimic-response 1.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, parent-module 1.0.1, path-key 3.1.1, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/is-stream v2.0.0, sindresorhus/normalize-url v4.5.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 6.1.0, sindresorhus/supports-color v7.1.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, Strip ANSI 6.0.0, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1)
 
 MIT License
 
