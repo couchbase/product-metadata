@@ -21,7 +21,7 @@
 19,Python six,1.17.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,69184346-b974-4064-88a3-134a17f6bbb5,17070f8f-549f-48e3-bdc0-6fd4341ec36f,ad705c59-6893-4980-bdbf-0837f1823cc4
 20,Python tzdata,2024.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1b0fab32-a8d3-4bdb-8696-e512435d855f,47ae95e7-22cf-4bad-8a95-cb6a08bcd6cf,7cae335f-1193-421e-92f1-8802b4243e93
 21,RonnyPfannschmidt/iniconfig,2.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6ead4e8a-ac79-4403-bf49-b7ee459369b2,6edbc869-0b0e-49b9-ab08-651f763c3fde,ad705c59-6893-4980-bdbf-0837f1823cc4
-22,SQLAlchemy,2.0.36,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f9dc2132-1f7c-4023-a16a-efadce634871,e985fbcc-ac81-4034-8c84-0248a72670b6,ad705c59-6893-4980-bdbf-0837f1823cc4
+22,SQLAlchemy,2.0.36,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f9dc2132-1f7c-4023-a16a-efadce634871,e985fbcc-ac81-4034-8c84-0248a72670b6,ad705c59-6893-4980-bdbf-0837f1823cc4
 23,Snowball stemmer,2.2.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8ba79332-aa77-4444-9db6-b5dab83a88d3,8f686949-9cb8-4ca9-b547-33381685b504,3d238144-44e6-450e-b523-3defbdaed9dc
 24,Sphinx,7.4.7,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,0b8c23c2-a8cc-467d-8068-4f746bd8e084,21d023cc-8d91-42ce-b4a1-8687bbec051c,3d238144-44e6-450e-b523-3defbdaed9dc
 25,Sphinx-Python Documentation Generator,1.0.1,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,60d94529-7300-42be-8471-a7685a5f4b50,0eec5ae0-b5f5-4d99-a123-9dfc31fe13bd,3d238144-44e6-450e-b523-3defbdaed9dc
@@ -152,7 +152,7 @@
 150,pydantic-core,2.20.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,85a80765-0235-49d3-b68e-ceeeb7950091,054507b1-27ad-43fc-b952-60e5e7647ba5,ad705c59-6893-4980-bdbf-0837f1823cc4
 151,pydantic-core,2.27.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,85a80765-0235-49d3-b68e-ceeeb7950091,fb8454a1-4607-40f4-adba-b2a77aef453f,ad705c59-6893-4980-bdbf-0837f1823cc4
 152,pydantic-settings,2.6.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,3dfde261-2b64-4083-99dc-08e42647990c,27a3ec83-8bf6-4608-b688-92cc3f9ebb20,ad705c59-6893-4980-bdbf-0837f1823cc4
-153,pyjson5,0.10.0,Transitive Dependency,(MIT License OR Unknown License),"PERMISSIVE,UNKNOWN",NOT_REVIEWED,06371699-8bbd-4892-a2cc-6ede776b7276,68231782-3356-4e96-b80a-cd82869f34cd,"00000000-0010-0000-0000-000000000000,ad705c59-6893-4980-bdbf-0837f1823cc4"
+153,pyjson5,0.10.0,Transitive Dependency,(MIT License AND Apache License 2.0),PERMISSIVE,NOT_REVIEWED,06371699-8bbd-4892-a2cc-6ede776b7276,68231782-3356-4e96-b80a-cd82869f34cd,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 154,pypi/setuptools,72.1.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a488e32d-5039-4ed8-b086-8890c82b498b,0483e77c-dc06-4c7f-9e27-ead9e5b102c1,ad705c59-6893-4980-bdbf-0837f1823cc4
 155,pypi/setuptools,75.6.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a488e32d-5039-4ed8-b086-8890c82b498b,6bbb2984-80ee-42a5-9694-3db3c0e2278b,ad705c59-6893-4980-bdbf-0837f1823cc4
 156,pytest,8.3.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,50b11cf7-bb6c-4d2b-86bd-c4c43548ef76,7406af34-5649-4316-9ee3-651a065256e9,ad705c59-6893-4980-bdbf-0837f1823cc4

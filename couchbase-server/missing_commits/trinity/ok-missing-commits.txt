@@ -145,7 +145,9 @@ gomemcached 3caad6d
 gomemcached 4604300
 gomemcached 64243c7
 gomemcached 915d315 Specific to Neo
+gomemcached 915d315 Verified by Aditya Sood
 gomemcached ae44008
+goxdcr 015a5d39 Confirmed OK by Neil
 goxdcr 02b7824
 goxdcr 033b6b2
 goxdcr 0f66d74
@@ -158,6 +160,7 @@ goxdcr 29d6dae
 goxdcr 2b28020
 goxdcr 2ff4bdf
 goxdcr 3411f52
+goxdcr 3a0965d3 Confirmed OK by Neil
 goxdcr 3a47d0a confirmed as backports by Neil
 goxdcr 3a79faf
 goxdcr 46e4276
@@ -180,18 +183,24 @@ goxdcr 7aa2134 confirmed as backports by Neil
 goxdcr 7de8e91
 goxdcr 7f4c090
 goxdcr 81ebdc4
+goxdcr 8287300b Confirmed OK by Neil
 goxdcr 838ad03 confirmed as backports by Neil
 goxdcr 83e7775 Backports
 goxdcr 8e8cf86
 goxdcr 9447f9d
 goxdcr 988924f confirmed as backports by Neil
+goxdcr 99322cc Verified by Aditya Sood
 goxdcr 9a76311
 goxdcr 9ede2fc confirmed as backports by Neil
+goxdcr a00a8935 Confirmed OK by Neil
 goxdcr a2a9b33 Verified by Yu Sui
+goxdcr a48db06c Confirmed OK by Neil
 goxdcr a70e9dd
 goxdcr a847b49
 goxdcr ae387e0
+goxdcr ae83c7b6 Confirmed OK by Neil
 goxdcr aefef46
+goxdcr b39a0b35 Confirmed OK by Neil
 goxdcr bcb801c
 goxdcr bdc8bc8 confirmed as backports by Neil
 goxdcr c9bc535
@@ -201,6 +210,7 @@ goxdcr dae0564 confirmed as backports by Neil
 goxdcr de98a4a backport
 goxdcr e6a287e
 goxdcr f41b186
+goxdcr f44e61cf Confirmed OK by Neil
 goxdcr f6292ca
 goxdcr f86d989
 goxdcr f8a14dc confirmed as backports by Neil
@@ -311,6 +321,7 @@ n1fty 0fde9b6 backports
 n1fty 1f5554b go mod stuff
 n1fty 4b14087 go mod stuff
 n1fty 65d57bd Confirmed OK by Sreekanth
+n1fty 7503ae7 Verified by Dhanya Gowrish
 n1fty a285144 backports
 n1fty a782b34 backports
 n1fty e3cb8cf go mod stuff
@@ -333,6 +344,7 @@ plasma dd85606 Backport
 query 021137a
 query 0307d853 confirmed OK by Bingjie
 query 037cf64 verified by Bingjie
+query 059055c Verified by Sitaram Vemulapalli
 query 0592af5 verified by Bingjie
 query 05a871c cherry-picks
 query 064c88c cherry-picks
@@ -370,6 +382,7 @@ query 3a123f2 cherry-picks
 query 3a31ddf
 query 3a5349e cherry-picks
 query 3a6a9b3 backports
+query 3a7adb3 Verified by Sitaram Vemulapalli
 query 3e259aeb confirmed OK by Bingjie
 query 3f6fcc3
 query 40a46503 confirmed OK by Bingjie
@@ -383,6 +396,7 @@ query 4790855 Backport
 query 47c62a4 backports
 query 4893dc5 cherry-picks
 query 48a063f cherry-picks
+query 490cb13 Verified by Sitaram Vemulapalli
 query 490cb130 Confirmed by Sitaram
 query 4b2bf53c confirmed OK by Bingjie
 query 4e3a1ae
@@ -394,12 +408,14 @@ query 5938ce8 backports
 query 5955eb9
 query 59c2a68
 query 5a4e41c cherry-picks
+query 5ced190 Verified by Sitaram Vemulapalli
 query 5ced190f Confirmed by Sitaram
 query 5ef95dd backports
 query 61d6fa3
 query 6250e21 cherry-picks
 query 64e85d8
 query 6516208
+query 6541a75 Verified by Sitaram Vemulapalli
 query 6541a754 confirmed OK by Bingjie
 query 65a18bcc confirmed OK by Bingjie
 query 66a9b52
@@ -429,6 +445,7 @@ query 7e496fb backports
 query 8471c1f
 query 87f87262 
 query 889dbbc4 
+query 891ec2d Verified by Sitaram Vemulapalli
 query 892e3d9 Confirmed as OK by Bingjie
 query 89ea38f cherry-picks
 query 89ee3de backports
@@ -444,6 +461,7 @@ query 91a03bdd confirmed OK by Bingjie
 query 9823e36e confirmed OK by Bingjie
 query 9947305
 query 9d044b5 confirmed OK by Marco
+query 9d6bbda Verified by Sitaram Vemulapalli
 query 9d6bbda6 verified OK by Donald Haggart
 query 9eb663f8 confirmed OK by Bingjie
 query 9f0dd773 confirmed OK by Bingjie
@@ -483,6 +501,7 @@ query ca37fa52 revert
 query cbaeba37 
 query cbebea0
 query cbed7a3a revert
+query cc904d3 Verified by Sitaram Vemulapalli
 query cd68735b confirmed OK by Bingjie
 query cf636b60 
 query d2011f6 backports
@@ -500,17 +519,21 @@ query dda4158 Confirmed as OK by Bingjie
 query ddb3b81
 query def5e04 cherry-picks
 query e01df30 Confirmed by Sitaram
+query e07d7f0 Verified by Sitaram Vemulapalli
 query e0a008f Confirmed as OK by Bingjie
 query e3178e70 
 query e33abd90 confirmed OK by Bingjie
 query e7353dd
 query e7e1255
 query e89bc1e
+query e8b8c2c Verified by Sitaram Vemulapalli
 query e8fc316 backports
 query eacf37e
 query ebc5762 cherry-picks
+query ebf8e1ba1 Verified by Dhanya Gowrish
 query ec5b66f
 query ed795e4 cherry-picks
+query ee558ca Verified by Sitaram Vemulapalli
 query ee558ca4 confirmed OK by Bingjie
 query ee7e18e backport
 query efcfea6
@@ -524,6 +547,7 @@ query f9c0a66 cherry-picks
 query fa52b35c confirmed OK by Bingjie
 query fb454ac cherry-picks
 query fcd9b9a
+query fe08c05 Verified by Sitaram Vemulapalli
 query fe08c059 Confirmed by Sitaram
 query fe41e8c
 query fe95a0f cherry-picks
