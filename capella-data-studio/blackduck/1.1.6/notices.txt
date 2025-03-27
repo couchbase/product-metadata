@@ -222,7 +222,7 @@ asynckit 0.4.0: https://github.com/alexindigo/asynckit : MIT License
 axios 1.7.7: https://github.com/axios/axios : MIT License
 babel-plugin-macros 3.1.0: https://github.com/codemix/babel-plugin-macros : MIT License
 babel-traverse 7.25.6: https://babeljs.io/ : MIT License
-base64js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
+base64-js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
 big.js 5.2.2: https://github.com/MikeMcl/big.js : MIT License
 browserify/resolve 1.22.8: https://github.com/browserify/resolve : MIT License
 Buffer v5.6.0: https://github.com/feross/native-buffer-browserif : MIT License
@@ -294,6 +294,7 @@ escape-goat 2.1.1: https://github.com/sindresorhus/escape-goat#readme : MIT Lice
 escape-string-regexp 1.0.5: https://github.com/sindresorhus/escape-string-regexp : MIT License
 escape-string-regexp v4.0.0: https://github.com/sindresorhus/escape-string-regexp : MIT License
 eventemitter3 4.0.7: https://github.com/primus/eventemitter3 : MIT License
+expressjs/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 ext-list 2.2.2: https://github.com/kevva/ext-list : MIT License
 extname 5.0.0: https://github.com/kevva/extname : MIT License
 extract-zip 2.0.1: https://github.com/maxogden/extract-zip : BSD 2-clause "Simplified" License
@@ -341,7 +342,6 @@ isaacs/once 1.4.0: https://github.com/isaacs/once : ISC License
 jorgebucaran/classcat 5.0.5: https://github.com/JorgeBucaran/classcat#readme : MIT License
 js-tokens 4.0.0: https://github.com/lydell/js-tokens : MIT License
 jsesc v2.5.2: http://mths.be/jsesc : MIT License
-jshttp/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 json-parse-even-better-errors 2.3.1: https://github.com/npm/json-parse-even-better-errors#readme : MIT License
 json-schema-traverse 0.4.1: https://github.com/epoberezkin/json-schema-traverse : MIT License
 json5 2.2.3: http://json5.org/ : MIT License
@@ -2388,7 +2388,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 MIT License
-(base64js 1.5.1)
+(base64-js 1.5.1)
 
 The MIT License (MIT)
 
@@ -2496,7 +2496,7 @@ SOFTWARE
 ---
 
 MIT License
-(jshttp/mime-types 2.1.35)
+(expressjs/mime-types 2.1.35)
 
 (The MIT License)
 
