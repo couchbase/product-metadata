@@ -9,14 +9,17 @@ Notices Report Content
 
 Components: 
 
-Couchbase.EntityFrameworkCore 1.0.0-pre.1: https://github.com/couchbaselabs/couchbase-efcore-provider : 
-Microsoft.Extensions.Logging.Console 8.0.1: http://www.nuget.org/packages/Microsoft.Extensions.Logging.Console : MIT License
+couchbase-net-client 3.6.6: https://www.couchbase.com/community : Apache License 2.0
+Couchbase.Extensions.DependencyInjection 3.6.6 : Apache License 2.0
+EntityFrameworkCore 8.0.13: https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore : MIT License
+Microsoft.EntityFrameworkCore.Relational 8.0.13 : MIT License
+Microsoft.Extensions.Logging.Console 8.0.1 : MIT License
 Serilog.Extensions.Logging.File 3.0.0: https://www.nuget.org/packages/Serilog.Extensions.Logging.File : Apache License 2.0
 
 Licenses: 
 
 Apache License 2.0
-(Serilog.Extensions.Logging.File 3.0.0)
+(couchbase-net-client 3.6.6, Couchbase.Extensions.DependencyInjection 3.6.6, Serilog.Extensions.Logging.File 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -203,7 +206,7 @@ third-party archives.
 ---
 
 MIT License
-(Microsoft.Extensions.Logging.Console 8.0.1)
+(EntityFrameworkCore 8.0.13, Microsoft.EntityFrameworkCore.Relational 8.0.13, Microsoft.Extensions.Logging.Console 8.0.1)
 
 The MIT License
 ===============
