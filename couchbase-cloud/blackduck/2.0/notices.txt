@@ -1222,8 +1222,8 @@ bail 2.0.2: https://github.com/wooorm/bail#readme : MIT License
 balanced-match 1.0.2: https://github.com/juliangruber/balanced-match : MIT License
 BASE 0.11.2: https://github.com/node-base/base : MIT License
 base64-arraybuffer 1.0.2: https://github.com/niklasvh/base64-arraybuffer : MIT License
+base64-js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
 base64id 2.0.0: https://github.com/faeldt/base64id : MIT License
-base64js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
 Bazel rules_go v0.37.0: https://github.com/bazelbuild/rules_go : Apache License 2.0
 bazelbuild/bazel-gazelle v0.29.0: https://github.com/bazelbuild/bazel-gazelle : Apache License 2.0
 bazelbuild/buildtools 20230127-snapshot-cf446296: https://github.com/bazelbuild/buildtools : Apache License 2.0
@@ -1763,7 +1763,7 @@ electron-to-chromium 1.4.242: https://github.com/kilian/electron-to-chromium : I
 electron-to-chromium 1.5.109: https://github.com/kilian/electron-to-chromium : ISC License
 electron-to-chromium 1.5.116: https://github.com/kilian/electron-to-chromium : ISC License
 electron-to-chromium 1.5.120: https://github.com/kilian/electron-to-chromium : ISC License
-electron-to-chromium 1.5.124: https://github.com/kilian/electron-to-chromium : ISC License
+electron-to-chromium 1.5.127: https://github.com/kilian/electron-to-chromium : ISC License
 element-size 1.1.1: https://github.com/hughsk/element-size : MIT License
 elementary-circuits-directed-graph 1.3.1: https://github.com/antoinerg/elementary-circuits-directed-graph#readme : MIT License
 elliptic 6.5.4: https://github.com/indutny/elliptic : MIT License
@@ -1898,6 +1898,7 @@ exponent-io/jsonpath 20210407-snapshot-1de76d71: https://github.com/exponent-io/
 expressjs/accepts 1.3.8: https://github.com/expressjs/accepts : MIT License
 expressjs/compressible 2.0.18: https://github.com/expressjs/compressible : MIT License
 expressjs/express 4.18.2: https://expressjs.com : MIT License
+expressjs/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 ext 1.7.0: https://github.com/medikoo/es5-ext/tree/ext#readme : ISC License
 extend 3.0.2: https://github.com/justmoon/node-extend : MIT License
 extend-shallow 2.0.1: https://github.com/jonschlinkert/extend-shallow : MIT License
@@ -2806,7 +2807,6 @@ jsesc v2.5.2: http://mths.be/jsesc : MIT License
 JSHTTP's negotiator 0.6.3: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.5: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
-jshttp/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 json-2-csv 5.5.9: https://github.com/mrodrig/json-2-csv : MIT License
 json-buffer 3.0.1: https://github.com/dominictarr/json-buffer : MIT License
 json-parse-even-better-errors 2.3.1: https://github.com/npm/json-parse-even-better-errors#readme : MIT License
@@ -4339,8 +4339,8 @@ whitequark/ipaddr.js 2.1.0: https://github.com/whitequark/ipaddr.js : MIT Licens
 whitequark/ipaddr.js v1.9.1: https://github.com/whitequark/ipaddr.js : MIT License
 whoots-js 3.1.0: https://github.com/mapbox/whoots-js#readme : ISC License
 wooorm/ccount 2.0.1: https://github.com/wooorm/ccount : MIT License
-word-wrap 1.2.3: https://github.com/jonschlinkert/word-wrap : MIT License
-word-wrap 1.2.5: https://github.com/jonschlinkert/word-wrap : MIT License
+word-wrap 1.2.3: https://github.com/jonschlinkert : MIT License
+word-wrap 1.2.5: https://github.com/jonschlinkert : MIT License
 workerpool 6.2.0: https://github.com/josdejong/workerpool : Apache License 2.0
 workerpool 6.5.1: https://github.com/josdejong/workerpool : Apache License 2.0
 worktop 0.8.0-next.13: https://github.com/lukeed/worktop#readme : MIT License
@@ -9961,7 +9961,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(@isaacs/cliui 8.0.2, @mapbox/geojson-rewind 0.5.2, @mapbox/geojson-types 1.0.2, @maplibre/maplibre-gl-style-spec 20.3.1, @ungap/structured-clone 1.2.0, abbrev 2.0.0, anymatch 3.1.3, boolbase 1.0.0, browserify-sign 4.2.2, browserify-sign 4.2.3, bs-recipes 1.3.4, cliui 8.0.1, d3-color 3.1.0, decred-dcrd dcrec/secp256k1/v4.3.0, earcut 2.2.4, earcut 3.0.0, electron-to-chromium 1.4.242, electron-to-chromium 1.5.109, electron-to-chromium 1.5.116, electron-to-chromium 1.5.120, electron-to-chromium 1.5.124, es5-ext 0.10.64, es6-symbol 3.1.4, eslint-plugin-no-relative-import-paths 1.5.3, esniff 2.0.1, ext 1.7.0, fast-fuzzy 1.12.0, fastq 1.15.0, fastq 1.19.1, flatted 3.2.7, flatted 3.2.9, flatted 3.3.3, foreground-child 3.1.1, foreground-child 3.3.1, geojson-vt 4.0.2, glslify-deps 1.3.2, go-xdr 20161122-snapshot-e6a2ba00, isexe 3.1.1, kdbush 4.0.2, lucide-svelte 0.479.0, medikoo/d 1.0.2, memoize-weak 1.0.2, minimatch 4.2.1, minimatch 5.1.6, minimatch 9.0.1, minimatch 9.0.3, minimatch 9.0.5, minipass 7.0.4, minipass 7.1.2, node-glob 10.3.10, node-glob 10.4.5, node-glob 7.2.3, node-glob 8.1.0, node-graceful-fs 4.2.10, node-graceful-fs 4.2.11, node-lru-cache 10.1.0, node-lru-cache 10.2.0, node-lru-cache 10.4.3, node-semver 6.3.1, node-semver 7.3.7, node-semver 7.5.4, node-semver 7.6.3, node-semver 7.7.1, nopt 7.2.1, npm ini 4.1.3, objectorarray 1.0.5, parse-asn1 5.1.7, picocolors 1.1.1, postcss-modules-extract-imports 3.1.0, postcss-modules-scope 3.2.0, postcss-modules-scope 3.2.1, potpack 2.0.0, qrcode.react 3.1.0, quickselect 3.0.0, sax-js 1.4.1, siginfo 2.0.0, signal-exit 4.1.0, supercluster-indexes 7.1.5, supercluster-indexes 8.0.1, svelte-hmr 0.14.12, svelte-hmr 0.16.0, tinyqueue 3.0.0, touch 3.1.1, ts-deepmerge 7.0.2, type 2.7.3, v8-to-istanbul 9.2.0, v8-to-istanbul 9.3.0, which 4.0.0, which-module 2.0.1, write-file-atomic 4.0.2, yaml 2.3.1, yaml 2.7.0, yargs-parser 21.1.1, zod-to-json-schema 3.24.3)
+(@isaacs/cliui 8.0.2, @mapbox/geojson-rewind 0.5.2, @mapbox/geojson-types 1.0.2, @maplibre/maplibre-gl-style-spec 20.3.1, @ungap/structured-clone 1.2.0, abbrev 2.0.0, anymatch 3.1.3, boolbase 1.0.0, browserify-sign 4.2.2, browserify-sign 4.2.3, bs-recipes 1.3.4, cliui 8.0.1, d3-color 3.1.0, decred-dcrd dcrec/secp256k1/v4.3.0, earcut 2.2.4, earcut 3.0.0, electron-to-chromium 1.4.242, electron-to-chromium 1.5.109, electron-to-chromium 1.5.116, electron-to-chromium 1.5.120, electron-to-chromium 1.5.127, es5-ext 0.10.64, es6-symbol 3.1.4, eslint-plugin-no-relative-import-paths 1.5.3, esniff 2.0.1, ext 1.7.0, fast-fuzzy 1.12.0, fastq 1.15.0, fastq 1.19.1, flatted 3.2.7, flatted 3.2.9, flatted 3.3.3, foreground-child 3.1.1, foreground-child 3.3.1, geojson-vt 4.0.2, glslify-deps 1.3.2, go-xdr 20161122-snapshot-e6a2ba00, isexe 3.1.1, kdbush 4.0.2, lucide-svelte 0.479.0, medikoo/d 1.0.2, memoize-weak 1.0.2, minimatch 4.2.1, minimatch 5.1.6, minimatch 9.0.1, minimatch 9.0.3, minimatch 9.0.5, minipass 7.0.4, minipass 7.1.2, node-glob 10.3.10, node-glob 10.4.5, node-glob 7.2.3, node-glob 8.1.0, node-graceful-fs 4.2.10, node-graceful-fs 4.2.11, node-lru-cache 10.1.0, node-lru-cache 10.2.0, node-lru-cache 10.4.3, node-semver 6.3.1, node-semver 7.3.7, node-semver 7.5.4, node-semver 7.6.3, node-semver 7.7.1, nopt 7.2.1, npm ini 4.1.3, objectorarray 1.0.5, parse-asn1 5.1.7, picocolors 1.1.1, postcss-modules-extract-imports 3.1.0, postcss-modules-scope 3.2.0, postcss-modules-scope 3.2.1, potpack 2.0.0, qrcode.react 3.1.0, quickselect 3.0.0, sax-js 1.4.1, siginfo 2.0.0, signal-exit 4.1.0, supercluster-indexes 7.1.5, supercluster-indexes 8.0.1, svelte-hmr 0.14.12, svelte-hmr 0.16.0, tinyqueue 3.0.0, touch 3.1.1, ts-deepmerge 7.0.2, type 2.7.3, v8-to-istanbul 9.2.0, v8-to-istanbul 9.3.0, which 4.0.0, which-module 2.0.1, write-file-atomic 4.0.2, yaml 2.3.1, yaml 2.7.0, yargs-parser 21.1.1, zod-to-json-schema 3.24.3)
 
 ISC License (ISCL)
 ==================
@@ -20472,7 +20472,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(base64js 1.5.1)
+(base64-js 1.5.1)
 
 The MIT License (MIT)
 
@@ -27118,7 +27118,7 @@ SOFTWARE
 ---
 
 MIT License
-(expressjs/accepts 1.3.8, jshttp/mime-types 2.1.35)
+(expressjs/accepts 1.3.8, expressjs/mime-types 2.1.35)
 
 (The MIT License)
 
