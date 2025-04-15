@@ -1485,10 +1485,10 @@ k8s.io/klog v1.0.0: https://github.com/kubernetes/klog : Apache License 2.0
 k8s.io/klog v2.100.1-k3s1: https://github.com/kubernetes/klog : Apache License 2.0
 k8s.io/kube-openapi 20230717-snapshot-26953613: https://github.com/kubernetes/kube-openapi : Apache License 2.0
 k8s.io/utils 20230711-snapshot-30195339: https://github.com/kubernetes/utils : Apache License 2.0
-Kerby Config 2.0.3: http://directory.apache.org/kerby/kerby-config : Apache License 2.0
-Kerby Util 2.0.3: http://directory.apache.org/kerby/kerby-util : Apache License 2.0
-Kerby-kerb Crypto 2.0.3: http://directory.apache.org/kerby/kerby-kerb/kerb-crypto : Apache License 2.0
-Kerby-kerb Util 2.0.3: http://directory.apache.org/kerby/kerby-kerb/kerb-util : Apache License 2.0
+Kerby Config 2.0.3 : Apache License 2.0
+Kerby Util 2.0.3 : Apache License 2.0
+Kerby-kerb Crypto 2.0.3 : Apache License 2.0
+Kerby-kerb Util 2.0.3 : Apache License 2.0
 keybase/go-keychain 20231219-snapshot-57a3676c : MIT License
 keyv 4.0.0: https://github.com/lukechilds/keyv : MIT License
 keyv 4.5.4: https://github.com/lukechilds/keyv : MIT License
@@ -1613,7 +1613,7 @@ msgpack-python 1.0.8: http://pypi.python.org/pypi/msgpack-python/ : Apache Licen
 mwitkow/go-conntrack 20190716-snapshot-2f068394: https://github.com/mwitkow/go-conntrack : Apache License 2.0
 natsort 8.4.0: http://pypi.python.org/pypi/natsort : MIT License
 natural-compare 1.4.0: https://github.com/litejs/natural-compare : MIT License
-ncurses 6.5: http://www.gnu.org/software/ncurses/ : (X11 License OR MIT License)
+ncurses 6.5: http://www.gnu.org/software/ncurses/ : MIT License
 Netty Project 4.1.115: http://netty.io/ : Apache License 2.0
 Netty/Codec/Redis 4.1.115.Final : Apache License 2.0
 Netty/Codec/SMTP 4.1.115.Final : Apache License 2.0
@@ -17870,39 +17870,6 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS
 OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
-
----
-
-X11 License
-(ncurses 6.5)
-
-X11 License
-===========
-
-Copyright (C) 1996 X Consortium
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in the
-Software without restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
-Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE X CONSORTIUM
-BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
-CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Except as contained in this notice, the name of the X Consortium shall not be
-used in advertising or otherwise to promote the sale, use or other dealings in
-this Software without prior written authorization from the X Consortium.
-
-X Window System is a trademark of X Consortium, Inc.
 
 ---
 
