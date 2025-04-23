@@ -1,3 +1,7 @@
 {
-    "github_repo": "couchbase/stellar-gateway"
+    "github_repo": "couchbase/stellar-gateway",
+    "build_jobs": {
+            "dockerhub": "couchbase-k8s-microservice-republish",
+            "rhcc": "couchbase-k8s-microservice-republish"
+    }
 }

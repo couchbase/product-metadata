@@ -1,5 +1,8 @@
 {
     "github_repo": "couchbase/docker",
     "editions": ["enterprise"],
-    "absences": [{ "registry": "rhcc" }]
+    "absences": [{ "registry": "rhcc" }],
+    "build_jobs": {
+            "dockerhub": "update-dockerhub"
+    }
 }

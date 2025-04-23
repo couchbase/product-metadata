@@ -7,5 +7,9 @@
     "absences": [{
         "registry": "rhcc",
         "edition": "community"
-    }]
+    }],
+    "build_jobs": {
+            "dockerhub": "update-dockerhub",
+            "rhcc": "update-rhcc"
+    }
 }

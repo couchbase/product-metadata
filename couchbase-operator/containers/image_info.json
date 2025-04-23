@@ -3,5 +3,9 @@
         "dockerhub": "docker/couchbase-operator/Dockerfile",
         "rhcc": "docker/couchbase-operator/Dockerfile.rhel"
     },
-    "github_repo": "couchbase/couchbase-operator"
+    "github_repo": "couchbase/couchbase-operator",
+    "build_jobs": {
+            "dockerhub": "couchbase-k8s-microservice-republish",
+            "rhcc": "couchbase-k8s-microservice-republish"
+    }
 }

@@ -1,3 +1,7 @@
 {
-    "github_repo": "couchbaselabs/couchbase-operator-backup"
+    "github_repo": "couchbaselabs/couchbase-operator-backup",
+    "build_jobs": {
+            "dockerhub": "couchbase-k8s-microservice-republish",
+            "rhcc": "couchbase-k8s-microservice-republish"
+    }
 }

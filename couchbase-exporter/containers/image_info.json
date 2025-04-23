@@ -1,3 +1,7 @@
 {
-    "github_repo": "couchbase/couchbase-exporter"
+    "github_repo": "couchbase/couchbase-exporter",
+    "build_jobs": {
+            "dockerhub": "couchbase-k8s-microservice-republish",
+            "rhcc": "couchbase-k8s-microservice-republish"
+    }
 }
