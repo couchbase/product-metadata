@@ -290,7 +290,7 @@ babel-preset-current-node-syntax 1.0.1: https://github.com/nicolo-ribaudo/babel-
 babel-traverse 7.15.0: https://babeljs.io/ : MIT License
 balanced-match 1.0.2: https://github.com/juliangruber/balanced-match : MIT License
 BASE 0.11.2: https://github.com/node-base/base : MIT License
-base64js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
+base64-js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
 bcrypt-pbkdf 1.0.2: https://github.com/joyent/node-bcrypt-pbkdf#readme : BSD 3-clause "New" or "Revised" License
 big.js 3.2.0: https://github.com/MikeMcl/big.js : MIT License
 big.js 5.2.2: https://github.com/MikeMcl/big.js : MIT License
@@ -337,6 +337,7 @@ callsites 3.1.0: https://github.com/sindresorhus/callsites : MIT License
 camelcase 3.0.0: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 5.3.1: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 6.2.0: https://github.com/sindresorhus/camelcase : MIT License
+caniuse-api 3.0.0: https://github.com/nyalab/caniuse-api : MIT License
 caniuse-lite 1.0.30001252: https://github.com/ben-eb/caniuse-lite : Creative Commons Attribution 4.0
 caseless 0.12.0: https://github.com/mikeal/caseless : Apache License 2.0
 Chalk 1.1.3: https://github.com/sindresorhus/chalk : MIT License
@@ -667,7 +668,7 @@ https-proxy-agent 5.0.0: https://github.com/TooTallNate/node-https-proxy-agent :
 human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 iarna/gauge v2.7.4: https://github.com/iarna/gauge : ISC License
-iarna/write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
+iarna/write-file-atomic 3.0.3: https://github.com/iarna/write-file-atomic : ISC License
 iconv-lite v0.4.24: https://github.com/ashtuchkin/iconv-lite : MIT License
 icss-replace-symbols 1.1.0: https://github.com/css-modules/icss-replace-symbols#readme : ISC License
 icss-utils 4.1.1: https://github.com/css-modules/icss-utils#readme : ISC License
@@ -892,8 +893,8 @@ merge2 1.4.1: https://github.com/teambition/merge2 : MIT License
 methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 micromatch 3.1.10: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch 4.0.4: https://github.com/jonschlinkert/micromatch : MIT License
-micromatch/braces 2.3.2: https://github.com/jonschlinkert/braces : MIT License
-micromatch/braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
+micromatch/braces 2.3.2: https://github.com/micromatch/braces : MIT License
+micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsofttslib 1.14.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
 mikeal/oauth-sign 0.9.0: https://github.com/mikeal/oauth-sign : Apache License 2.0
 miller-rabin 4.0.1: https://github.com/indutny/miller-rabin : MIT License
@@ -986,7 +987,7 @@ node-tmp 0.0.33: https://github.com/raszi/node-tmp : MIT License
 node-url 0.11.0: https://github.com/defunctzombie/node-url : MIT License
 node-worker-farm v1.7.0: https://github.com/rvagg/node-worker-farm : MIT License
 nodeca-argparse 1.0.10: https://github.com/nodeca/argparse : MIT License
-nodeca/pako 1.0.11: https://github.com/nodeca/pako : MIT License
+nodeca/pako 1.0.11: https://github.com/nodeca/pako : (zlib License AND MIT License)
 nodejs Deprecate 1.1.2: https://github.com/dougwilson/nodejs-depd : MIT License
 nodejs-asn1 0.2.4: https://github.com/mcavage/node-asn1 : MIT License
 nodejs-exit 0.1.2: https://github.com/cowboy/node-exit : MIT License
@@ -1008,7 +1009,6 @@ nth-check 2.0.0: https://github.com/fb55/nth-check : BSD 2-clause "Simplified" L
 num2fraction 1.2.2: https://github.com/yisibl/num2fraction : MIT License
 number-is-nan 1.0.1: https://github.com/sindresorhus/number-is-nan : MIT License
 nwsapi 2.2.0: http://javascript.nwbox.com/nwsapi/ : MIT License
-Nyalab/caniuse-api 3.0.0: https://github.com/Nyalab/caniuse-api : MIT License
 object-assign 4.1.1: https://github.com/sindresorhus/object-assign : MIT License
 object-inspect 1.11.0: https://github.com/substack/object-inspect : MIT License
 object-is 1.1.5: https://github.com/ljharb/object-is : MIT License
@@ -1215,7 +1215,7 @@ select-hose 2.0.0: https://github.com/indutny/select-hose#readme : MIT License
 selfsigned v1.10.11: https://github.com/jfromaniello/selfsigned : MIT License
 semver-compare 1.0.0: https://github.com/substack/semver-compare : MIT License
 semver-diff 3.1.1: https://github.com/sindresorhus/semver-diff : MIT License
-Send for Node.js 0.17.1: https://github.com/visionmedia/send : MIT License
+Send for Node.js 0.17.1: https://github.com/pillarjs/send : MIT License
 serialize-javascript 3.1.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serialize-javascript 4.0.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serve-index 1.9.1: https://github.com/expressjs/serve-index : MIT License
@@ -1323,7 +1323,7 @@ svg-tags 1.0.0: https://github.com/element-io/svg-tags : MIT License
 svgo 1.3.2: https://github.com/svg/svgo : MIT License
 symbol-tree 3.2.4: https://github.com/Joris-van-der-Wel/js-symbol-tree#readme : MIT License
 tapable 1.1.3: https://github.com/webpack/tapable : MIT License
-tapjs/signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
+tapjs/signal-exit v3.0.3: https://github.com/tapjs/signal-exit : ISC License
 tar-fs 2.1.1: https://github.com/mafintosh/tar-fs : MIT License
 tar-stream 2.2.0: https://github.com/mafintosh/tar-stream : MIT License
 term-size 2.2.1: https://github.com/sindresorhus/term-size#readme : MIT License
@@ -1349,7 +1349,7 @@ to-regex-range 2.1.1: https://github.com/jonschlinkert/to-regex-range : MIT Lice
 to-regex-range 5.0.1: https://github.com/jonschlinkert/to-regex-range : MIT License
 toidentifier 1.0.0: https://github.com/koajs/toidentifier : MIT License
 toml-node v3.0.0: http://binarymuse.github.io/toml-node/ : MIT License
-toposort 1.0.7: https://github.com/marcelklehr/toposort : MIT License
+toposort 1.0.7: https://gitlab.com/ericvsmith/toposort/-/tree/1.10?ref_type=tags : MIT License
 tough-cookie 4.0.0: https://github.com/salesforce/tough-cookie : BSD 3-clause "New" or "Revised" License
 tough-cookie v2.5.0: https://github.com/salesforce/tough-cookie : BSD 3-clause "New" or "Revised" License
 tr46 2.1.0: https://github.com/Sebmaster/tr46.js#readme : MIT License
@@ -1432,8 +1432,8 @@ w3c-hr-time 1.0.2 : MIT License
 w3c-xmlserializer 2.0.0: https://github.com/jsdom/w3c-xmlserializer#readme : MIT License
 watchman 2.0.1: https://github.com/facebook/watchman : Apache License 2.0
 watchman 2.1.1: https://github.com/facebook/watchman : Apache License 2.0
+watchpack 1.7.5: https://github.com/webpack/watchpack : MIT License
 watchpack 2.0.1: https://github.com/webpack/watchpack : MIT License
-watchpack v1.7.5: https://github.com/webpack/watchpack : MIT License
 wbuf 1.7.3: https://github.com/indunty/wbuf : MIT License
 webidl-conversions 5.0.0: https://github.com/domenic/webidl-conversions : BSD 2-clause "Simplified" License
 webidl-conversions 6.1.0: https://github.com/domenic/webidl-conversions : BSD 2-clause "Simplified" License
@@ -1460,7 +1460,7 @@ which-module 2.0.0: https://github.com/nexdrew/which-module#readme : ISC License
 whitequark/ipaddr.js v1.9.1: https://github.com/whitequark/ipaddr.js : MIT License
 wide-align 1.1.3: https://github.com/iarna/wide-align#readme : ISC License
 widest-line 3.1.0: https://github.com/sindresorhus/widest-line : MIT License
-word-wrap 1.2.3: https://github.com/jonschlinkert/word-wrap : MIT License
+word-wrap 1.2.3: https://github.com/jonschlinkert : MIT License
 wordwrap 1.0.0: https://github.com/substack/node-wordwrap#readme : MIT License
 wrap-ansi v5.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
@@ -13704,7 +13704,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(base64js 1.5.1)
+(base64-js 1.5.1)
 
 The MIT License (MIT)
 
@@ -15125,7 +15125,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(copy-webpack-plugin 5.1.2, css-loader 2.1.1, enhanced-resolve 4.5.0, file-loader 3.0.1, memory-fs 0.5.0, mini-css-extract-plugin 0.6.0, schema-utils v2.7.1, terser-webpack-plugin 1.4.5, url-loader 1.1.2, vue-style-loader v4.1.3, watchpack 2.0.1, watchpack v1.7.5, Webpack 4.46.0, webpack-contrib/cache-loader 3.0.1, webpack-dev-server 3.11.2, webpack/loader-utils 1.4.0, webpack/webpack-dev-middleware 3.7.3, webpackbar 3.2.0)
+(copy-webpack-plugin 5.1.2, css-loader 2.1.1, enhanced-resolve 4.5.0, file-loader 3.0.1, memory-fs 0.5.0, mini-css-extract-plugin 0.6.0, schema-utils v2.7.1, terser-webpack-plugin 1.4.5, url-loader 1.1.2, vue-style-loader v4.1.3, watchpack 1.7.5, watchpack 2.0.1, Webpack 4.46.0, webpack-contrib/cache-loader 3.0.1, webpack-dev-server 3.11.2, webpack/loader-utils 1.4.0, webpack/webpack-dev-middleware 3.7.3, webpackbar 3.2.0)
 
 Copyright JS Foundation and other contributors
 
@@ -17022,7 +17022,7 @@ SOFTWARE
 ---
 
 MIT License
-(Nyalab/caniuse-api 3.0.0)
+(caniuse-api 3.0.0)
 
 The MIT License (MIT)
 
@@ -20578,6 +20578,34 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to http://unlicense.org/
+
+---
+
+zlib License
+(nodeca/pako 1.0.11)
+
+The zlib/libpng License
+=======================
+
+Copyright (c) <year> <copyright holders>
+
+This software is provided 'as-is', without any express or implied warranty. In no
+event will the authors be held liable for any damages arising from the use of
+this software.
+
+Permission is granted to anyone to use this software for any purpose, including
+commercial applications, and to alter it and redistribute it freely, subject to
+the following restrictions:
+
+      1. The origin of this software must not be misrepresented; you must not
+      claim that you wrote the original software. If you use this software in a
+      product, an acknowledgment in the product documentation would be
+      appreciated but is not required.
+
+      2. Altered source versions must be plainly marked as such, and must not be
+      misrepresented as being the original software.
+
+      3. This notice may not be removed or altered from any source distribution.
 
 ---
 
