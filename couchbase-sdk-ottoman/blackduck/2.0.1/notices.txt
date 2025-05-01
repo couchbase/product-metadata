@@ -264,7 +264,6 @@ human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 human-signals 3.0.1: https://git.io/JeluP : Apache License 2.0
 iarna/gauge 4.0.4: https://github.com/iarna/gauge : ISC License
-iarna/write-file-atomic 4.0.2: https://github.com/npm/write-file-atomic : ISC License
 iconv-lite 0.6.3: https://github.com/ashtuchkin/iconv-lite : MIT License
 import-fresh 3.3.0: https://github.com/sindresorhus/import-fresh : MIT License
 import-local 3.1.0: https://github.com/sindresorhus/import-local#readme : MIT License
@@ -392,8 +391,8 @@ node-lru-cache 6.0.0: http://github.com/isaacs/node-lru-cache : ISC License
 node-mkdirp 1.0.4: https://github.com/substack/node-mkdirp : MIT License
 node-promise-retry 2.0.1: https://github.com/IndigoUnited/node-promise-retry : MIT License
 node-releases 2.0.6: https://github.com/chicoxyzzy/node-releases : MIT License
-node-semver 6.3.1: https://github.com/npm/node-semver : ISC License
-node-semver 7.5.4: https://github.com/npm/node-semver : ISC License
+node-semver 6.3.1: https://github.com/isaacs/node-semver : ISC License
+node-semver 7.5.4: https://github.com/isaacs/node-semver : ISC License
 node-source-map-support 0.5.13: https://github.com/evanw/node-source-map-support : MIT License
 nodeca-argparse 1.0.10: https://github.com/nodeca/argparse : MIT License
 nodeca-argparse 2.0.1: https://github.com/nodeca/argparse : Python Software Foundation License 2.0
@@ -538,6 +537,7 @@ wrap-ansi 8.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
+write-file-atomic 4.0.2: https://github.com/npm/write-file-atomic : ISC License
 y18n 5.0.8: https://github.com/yargs/y18n : ISC License
 yallist 4.0.0: https://github.com/isaacs/yallist#readme : ISC License
 yaml 2.2.2: https://github.com/tj/js-yaml : ISC License
@@ -2051,7 +2051,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(@isaacs/cliui 8.0.2, @npmcli/agent 2.2.2, @npmcli/fs 3.1.1, abbrev 2.0.0, anymatch 3.1.3, are-we-there-yet 3.0.1, cacache 18.0.3, cliui 8.0.1, electron-to-chromium 1.4.284, flatted 3.2.7, foreground-child 3.1.1, fs-minipass 3.0.3, iarna/gauge 4.0.4, iarna/write-file-atomic 4.0.2, isexe 3.1.1, make-fetch-happen 13.0.1, minimatch 9.0.3, minipass 3.3.6, minipass 5.0.0, minipass 7.1.2, minipass-collect 2.0.1, node-glob 10.3.10, node-glob 7.2.3, node-graceful-fs 4.2.10, node-graceful-fs 4.2.11, node-lru-cache 10.2.0, node-semver 6.3.1, node-semver 7.5.4, nopt 7.2.1, npmlog 6.0.2, proc-log 3.0.0, proc-log 4.2.0, ssri 10.0.6, tapjs/signal-exit 4.1.0, tar 6.2.1, unique-filename 3.0.0, unique-slug 4.0.0, v8-to-istanbul 9.0.1, which 4.0.0, yaml 2.2.2, yargs-parser 21.1.1)
+(@isaacs/cliui 8.0.2, @npmcli/agent 2.2.2, @npmcli/fs 3.1.1, abbrev 2.0.0, anymatch 3.1.3, are-we-there-yet 3.0.1, cacache 18.0.3, cliui 8.0.1, electron-to-chromium 1.4.284, flatted 3.2.7, foreground-child 3.1.1, fs-minipass 3.0.3, iarna/gauge 4.0.4, isexe 3.1.1, make-fetch-happen 13.0.1, minimatch 9.0.3, minipass 3.3.6, minipass 5.0.0, minipass 7.1.2, minipass-collect 2.0.1, node-glob 10.3.10, node-glob 7.2.3, node-graceful-fs 4.2.10, node-graceful-fs 4.2.11, node-lru-cache 10.2.0, node-semver 6.3.1, node-semver 7.5.4, nopt 7.2.1, npmlog 6.0.2, proc-log 3.0.0, proc-log 4.2.0, ssri 10.0.6, tapjs/signal-exit 4.1.0, tar 6.2.1, unique-filename 3.0.0, unique-slug 4.0.0, v8-to-istanbul 9.0.1, which 4.0.0, write-file-atomic 4.0.2, yaml 2.2.2, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
