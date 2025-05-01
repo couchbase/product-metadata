@@ -8,15 +8,13 @@
 {%
   set archive_platforms_for = {
     (3, 0, 0):   [ "android", "debian10-x86_64", "debian9-x86_64", "ios", "macos", "raspbian9", "raspios10-arm64", "raspios10-armhf", "ubuntu20.04-arm64", "ubuntu20.04-armhf", "ubuntu20.04-x86_64", "windows-x86_64" ],
-    (3, 1, 0):   [ "android", "ios", "linux-x86_64", "linux-arm64", "linux-armhf", "macos", "windows-x86_64" ]
+    (3, 1, 0):   [ "android", "ios", "linux-x86_64", "linux-arm64", "linux-armhf", "macos", "windows-x86_64", "windows-arm64" ]
   }
 %}
 {%
   set pkg_platforms_for = {
      (3, 0, 0):  [ "debian10_amd64", "debian10_arm64", "debian10_armhf", "debian9_amd64", "debian9_armhf", "raspbian9_armhf", "raspios10_arm64", "raspios10_armhf", "ubuntu20.04_arm64", "ubuntu20.04_armhf", "ubuntu20.04_amd64" ],
      (3, 1, 0):  [ "debian11_amd64", "debian11_arm64", "debian10_amd64", "debian10_arm64", "debian10_armhf", "debian11_armhf", "debian9_amd64", "debian9_armhf", "ubuntu20.04_arm64", "ubuntu20.04_armhf", "ubuntu20.04_amd64", "ubuntu22.04_arm64", "ubuntu22.04_armhf", "ubuntu22.04_amd64" ],
-     (3, 2, 0):  [ "debian11_amd64", "debian11_arm64", "debian10_amd64", "debian10_arm64", "debian10_armhf", "debian11_armhf", "debian9_amd64", "debian9_armhf", "ubuntu20.04_arm64", "ubuntu20.04_armhf", "ubuntu20.04_amd64", "ubuntu22.04_arm64", "ubuntu22.04_armhf", "ubuntu22.04_amd64" ],
-     (3, 3, 0):  [ "debian11_amd64", "debian11_arm64", "debian10_amd64", "debian10_arm64", "debian10_armhf", "debian11_armhf", "debian9_amd64", "debian9_armhf", "ubuntu20.04_arm64", "ubuntu20.04_armhf", "ubuntu20.04_amd64", "ubuntu22.04_arm64", "ubuntu22.04_armhf", "ubuntu22.04_amd64" ],
      (4, 0, 0):  [ "debian11_amd64", "debian11_arm64", "debian11_armhf", "debian12_amd64", "debian12_arm64", "debian12_armhf", "ubuntu22.04_arm64", "ubuntu22.04_armhf", "ubuntu22.04_amd64", "ubuntu24.04_amd64", "ubuntu24.04_arm64", "ubuntu24.04_armhf" ]
   }
 %}
@@ -71,13 +69,18 @@
 {####### ACTUAL OUTPUT TEMPLATE ########}
 {##}
 filenames:
-{% set ns = namespace(closest_release=(0, 0, 0))  %}
+{% set ns = namespace(closest_archive_release=(0, 0, 0), closest_pkg_release=(0, 0, 0))  %}
 {% for entry in archive_platforms_for             %}
 {%    if version_tuple >= entry                         %}
-{%      set ns.closest_release = entry            %}
+{%      set ns.closest_archive_release = entry            %}
 {%    endif                                       %}
 {% endfor                                        %}
-{% for platform_entry in archive_platforms_for[ns.closest_release]   %}
+{% for entry in pkg_platforms_for             %}
+{%    if version_tuple >= entry %}
+{%      set ns.closest_pkg_release = entry            %}
+{%    endif                                       %}
+{% endfor                                        %}
+{% for platform_entry in archive_platforms_for[ns.closest_archive_release]   %}
 {%   set bits = filebits_for[platform_entry.split('-')[0]]           %}
 {%    for edition in [ "community", "enterprise" ]                   %}
   - {{ product }}-{{ edition }}-{{ version }}-{{ build_num }}-{{ platform_entry }}.{{ bits["ext"] }}
@@ -87,7 +90,7 @@ filenames:
 {%   endfor %}
 {% endfor %}
 
-{% for platform_entry in pkg_platforms_for[ns.closest_release]       %}
+{% for platform_entry in pkg_platforms_for[ns.closest_pkg_release]       %}
 {%    set bits = filebits_for[platform_entry.split('_')[0]]          %}
 {%    for edition in [ "community", "dev-community", "enterprise", "dev-enterprise" ] %}
   - libcblite-{{ edition }}_{{ version }}-{{ build_num }}-{{ platform_entry }}.{{ bits["pkg_ext"] }}
