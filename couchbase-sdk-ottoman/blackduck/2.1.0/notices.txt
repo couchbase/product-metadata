@@ -668,7 +668,6 @@ https-proxy-agent 5.0.0: https://github.com/TooTallNate/node-https-proxy-agent :
 human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 iarna/gauge v2.7.4: https://github.com/iarna/gauge : ISC License
-iarna/write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
 iconv-lite v0.4.24: https://github.com/ashtuchkin/iconv-lite : MIT License
 icss-replace-symbols 1.1.0: https://github.com/css-modules/icss-replace-symbols#readme : ISC License
 icss-utils 4.1.1: https://github.com/css-modules/icss-utils#readme : ISC License
@@ -978,10 +977,10 @@ node-modules-regexp 1.0.0: https://github.com/jamestalmage/node-modules-regexp#r
 node-process 0.11.10: https://github.com/defunctzombie/node-process : MIT License
 node-progress 2.0.3: https://github.com/visionmedia/node-progress : MIT License
 node-releases 1.1.75: https://github.com/chicoxyzzy/node-releases : MIT License
-node-semver 5.7.1: https://github.com/npm/node-semver : ISC License
-node-semver 6.3.0: https://github.com/npm/node-semver : ISC License
-node-semver 7.0.0: https://github.com/npm/node-semver : ISC License
-node-semver 7.3.5: https://github.com/npm/node-semver : ISC License
+node-semver 5.7.1: https://github.com/isaacs/node-semver : ISC License
+node-semver 6.3.0: https://github.com/isaacs/node-semver : ISC License
+node-semver 7.0.0: https://github.com/isaacs/node-semver : ISC License
+node-semver 7.3.5: https://github.com/isaacs/node-semver : ISC License
 node-source-map-support 0.5.19: https://github.com/evanw/node-source-map-support : MIT License
 node-tmp 0.0.33: https://github.com/raszi/node-tmp : MIT License
 node-url 0.11.0: https://github.com/defunctzombie/node-url : MIT License
@@ -1466,6 +1465,7 @@ wrap-ansi v5.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
+write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
 xdg-basedir 4.0.0: https://github.com/sindresorhus/xdg-basedir : MIT License
 xml-name-validator 3.0.0: https://github.com/jsdom/xml-name-validator : Apache License 2.0
 xmlchars 2.2.0: https://github.com/lddubeau/xmlchars#readme : MIT License
@@ -4553,7 +4553,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(iarna/write-file-atomic 3.0.3)
+(write-file-atomic 3.0.3)
 
 Upstream-Contact: https://github.com/iarna/write-file-atomic/issues
 Source: https://github.com/iarna/write-file-atomic
