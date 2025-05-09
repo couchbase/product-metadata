@@ -17,6 +17,7 @@ Grpc.Net.ClientFactory 2.50.0: https://github.com/grpc/grpc-dotnet : Apache Lice
 Grpc.Tools 2.51.0 : Apache License 2.0
 Json.NET 13.0.3: https://github.com/JamesNK/Newtonsoft.Json : MIT License
 Microsoft.Bcl.HashCode 1.1.1: https://github.com/dotnet/corefx : MIT License
+Microsoft.Bcl.TimeProvider 8.0.1: https://dot.net/ : MIT License
 Microsoft.Extensions.Configuration 3.1.21: http://www.nuget.org/packages/Microsoft.Extensions.Configuration : Apache License 2.0
 Microsoft.Extensions.Configuration.Binder 3.1.21: http://www.nuget.org/packages/Microsoft.Extensions.Configuration.Binder : Apache License 2.0
 Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0: http://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection.Abstractions : MIT License
@@ -289,7 +290,7 @@ SOFTWARE
 ---
 
 MIT License
-(Json.NET 13.0.3, Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0, System.IO.Hashing 8.0.0, System.Linq.Async 6.0.1, System.Memory 4.6.0, System.Reflection.Emit 4.7.0, System.Runtime.CompilerServices.Unsafe 6.1.0, System.Text.Json 8.0.5)
+(Json.NET 13.0.3, Microsoft.Bcl.TimeProvider 8.0.1, Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0, System.IO.Hashing 8.0.0, System.Linq.Async 6.0.1, System.Memory 4.6.0, System.Reflection.Emit 4.7.0, System.Runtime.CompilerServices.Unsafe 6.1.0, System.Text.Json 8.0.5)
 
 The MIT License
 ===============
