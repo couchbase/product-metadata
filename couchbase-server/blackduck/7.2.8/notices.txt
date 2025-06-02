@@ -201,15 +201,15 @@ Angular 1.8.0: http://code.google.com/p/angula : MIT License
 Angular 8.2.14: http://code.google.com/p/angula : MIT License
 Angular UI Bootstrap 1.2.0: http://angular-ui.github.io/bootstrap/ : MIT License
 angular-hybrid 10.0.1: https://github.com/ui-router/angular-hybrid : MIT License
-angular-ui-tree 2.22.6: https://github.com/JimLiu/angular-ui-tree : MIT License
+angular-ui-tree/angular-ui-tree 2.22.6: https://github.com/angular-ui-tree/angular-ui-tree : MIT License
 Animal Sniffer Annotations 1.24: https://www.mojohaus.org/animal-sniffer/animal-sniffer-annotations/ : MIT License
 ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
 ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 Apache Arrow go/v11.0.0: http://arrow.apache.org/ : Apache License 2.0
 Apache Arrow go/v12.0.0: http://arrow.apache.org/ : Apache License 2.0
 Apache Commons Codec 1.17.1: https://github.com/apache/commons-codec : Apache License 2.0
@@ -393,7 +393,7 @@ com.conversantmedia:disruptor 1.2.15: https://github.com/conversant/disruptor : 
 com.google.api.grpc:proto-google-cloud-monitoring-v3 3.31.0 : Apache License 2.0
 com.google.api.grpc:proto-google-common-protos 2.49.0 : Apache License 2.0
 com.google.api.grpc:proto-google-iam-v1 1.44.0 : Apache License 2.0
-Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
 commons-csv 1.12.0: http://commons.apache.org/proper/commons-csv/index.html : Apache License 2.0
 config-chain 1.1.13: https://github.com/dominictarr/config-chain : MIT License
 containerd/cgroups 20190919-snapshot-bf292b21: https://github.com/containerd/cgroups : Apache License 2.0
@@ -488,7 +488,7 @@ dimchansky/utfbom v1.1.1: https://github.com/dimchansky/utfbom : Apache License 
 Disruptor Framework 3.4.4: http://lmax-exchange.github.com/disruptor : Apache License 2.0
 dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877: https://dmitri.shuralyov.com/gpu/mtl : BSD 3-clause "New" or "Revised" License
 dnaeon/go-vcr v1.1.0: http://github.com/dnaeon/go-vcr/ : BSD 2-clause "Simplified" License
-docker 20200319-snapshot-c7ad2b86: https://www.docker.com/ : Apache License 2.0
+docker 20200319-snapshot-c7ad2b86: https://github.com/docker/swarm : Apache License 2.0
 docker-go-units v0.4.0: https://godoc.org/github.com/docker/go-units : Apache License 2.0
 docker-registry 2.7.1: http://docker.io : Apache License 2.0
 doctrine v1.5.0: https://github.com/Constellation/doctrine : (BSD 2.0 Digital License AND Apache License 2.0)
@@ -663,6 +663,7 @@ glycerine/goconvey 20190410-snapshot-58a59202: https://github.com/glycerine/goco
 Go CLI v1.0.0: https://github.com/mitchellh/cli : Mozilla Public License 2.0
 go humanize 1.0.1: http://github.com/dustin/go-humanize : MIT License
 go humanize 20171110-snapshot-bb3d3186: http://github.com/dustin/go-humanize : MIT License
+Go Logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 Go programming language 0.0~git20190125.d66bd3c+ds: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.2: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.24.1: http://golang.org/ : BSD 3-clause "New" or "Revised" License
@@ -1574,6 +1575,7 @@ sftp v1.13.1: https://github.com/pkg/sftp : BSD 2-clause "Simplified" License
 shebang-command 2.0.0: https://github.com/kevva/shebang-command#readme : MIT License
 shebang-regex 3.0.0: https://github.com/sindresorhus/shebang-regex : MIT License
 sigmund 1.0.1: https://github.com/isaacs/sigmund : ISC License
+signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
 sindresorhus/globals 11.12.0: https://github.com/sindresorhus/globals : MIT License
 sindresorhus/globals 12.4.0: https://github.com/sindresorhus/globals : MIT License
 sindresorhus/globals 13.10.0: https://github.com/sindresorhus/globals : MIT License
@@ -1581,11 +1583,6 @@ sindresorhus/globals 13.23.0: https://github.com/sindresorhus/globals : MIT Lice
 sindresorhus/got 10.7.0: https://github.com/sindresorhus/got : MIT License
 sindresorhus/normalize-url v4.5.0: https://github.com/sindresorhus/normalize-url : MIT License
 sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
-Sirupsen/logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
 SLF4J API Module 1.7.25: http://www.slf4j.org : MIT License
 slice-ansi 2.1.0: https://github.com/chalk/slice-ansi#readme : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -1625,9 +1622,12 @@ Strip ANSI 6.0.1: https://github.com/sindresorhus/strip-ansi : MIT License
 strip-bom 3.0.0: https://github.com/sindresorhus/strip-bom : MIT License
 strip-json-comments 3.1.0: https://github.com/sindresorhus/strip-json-comments : MIT License
 strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments : MIT License
+supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
+supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
+supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
+supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 svgo 20211024-snapshot-1546f124: https://github.com/ajstarks/svgo : Creative Commons Attribution 3.0
 tapable 1.1.3: https://github.com/webpack/tapable : MIT License
-tapjs/signal-exit v3.0.3: https://github.com/tapjs/signal-exit : ISC License
 tar v6.0.1: https://github.com/isaacs/node-tar : ISC License
 tdegrunt/jsonschema 1.2.6: https://github.com/tdegrunt/jsonschema : MIT License
 terser 4.8.0: https://github.com/fabiosantoscode/terser : BSD 2-clause "Simplified" License
@@ -8786,7 +8786,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(tapjs/signal-exit v3.0.3)
+(signal-exit v3.0.3)
 
 Upstream-Contact: https://github.com/tapjs/signal-exit/issues
 Source: https://github.com/tapjs/signal-exit
@@ -12048,7 +12048,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles v4.3.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 4.1.2, Chalk v3.0.0, Chalk v4.1.0, clean-stack 2.2.0, cli-spinners 2.3.0, decompress-response 5.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-path-inside 3.0.3, is-stream v2.0.0, leven 3.1.0, log-symbols 2.2.0, lowercase-keys 2.0.0, mimic-fn 1.2.0, mimic-response 1.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url v4.5.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 6.1.0, sindresorhus/supports-color v7.1.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width v3.1.0, Strip ANSI 6.0.0, strip-json-comments 3.1.0, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1)
+(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles v4.3.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 4.1.2, Chalk v3.0.0, Chalk v4.1.0, clean-stack 2.2.0, cli-spinners 2.3.0, decompress-response 5.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-path-inside 3.0.3, is-stream v2.0.0, leven 3.1.0, log-symbols 2.2.0, lowercase-keys 2.0.0, mimic-fn 1.2.0, mimic-response 1.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url v4.5.0, string-width 4.2.2, string-width v3.1.0, Strip ANSI 6.0.0, strip-json-comments 3.1.0, supports-color 5.5.0, supports-color 6.1.0, supports-color v7.1.0, supports-color v7.2.0, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1)
 
 MIT License
 
@@ -12745,7 +12745,7 @@ SOFTWARE
 ---
 
 MIT License
-(angular-ui-tree 2.22.6)
+(angular-ui-tree/angular-ui-tree 2.22.6)
 
 The MIT License (MIT)
 
@@ -14337,7 +14337,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Sirupsen/logrus v1.4.2)
+(Go Logrus v1.4.2)
 
 The MIT License (MIT)
 
