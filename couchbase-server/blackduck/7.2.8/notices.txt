@@ -342,7 +342,6 @@ Bouncy Castle 1.79: http://www.bouncycastle.org : (MIT License AND Apache Licens
 Bouncy Castle ASN.1 Extension and Utility APIs 1.79 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://www.bouncycastle.org/java.html : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
-braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 browserify/resolve v1.17.0: https://github.com/browserify/resolve : MIT License
 browserslist 4.12.0: https://github.com/ai/browserslist : MIT License
@@ -1299,6 +1298,7 @@ memory-fs 0.5.0: https://github.com/webpack/memory-fs : MIT License
 Merge-Stream 2.0.0: https://github.com/grncdr/merge-stream : MIT License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.18.1 : MIT License
 Microsoft Azure client library for Identity 1.13.3 : MIT License
 Microsoft Azure common module for Storage 12.24.1 : MIT License
@@ -1574,7 +1574,6 @@ sftp v1.13.1: https://github.com/pkg/sftp : BSD 2-clause "Simplified" License
 shebang-command 2.0.0: https://github.com/kevva/shebang-command#readme : MIT License
 shebang-regex 3.0.0: https://github.com/sindresorhus/shebang-regex : MIT License
 sigmund 1.0.1: https://github.com/isaacs/sigmund : ISC License
-signal-exit v3.0.3: https://github.com/tapjs/signal-exit : ISC License
 sindresorhus/globals 11.12.0: https://github.com/sindresorhus/globals : MIT License
 sindresorhus/globals 12.4.0: https://github.com/sindresorhus/globals : MIT License
 sindresorhus/globals 13.10.0: https://github.com/sindresorhus/globals : MIT License
@@ -1628,6 +1627,7 @@ strip-json-comments 3.1.0: https://github.com/sindresorhus/strip-json-comments :
 strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments : MIT License
 svgo 20211024-snapshot-1546f124: https://github.com/ajstarks/svgo : Creative Commons Attribution 3.0
 tapable 1.1.3: https://github.com/webpack/tapable : MIT License
+tapjs/signal-exit v3.0.3: https://github.com/tapjs/signal-exit : ISC License
 tar v6.0.1: https://github.com/isaacs/node-tar : ISC License
 tdegrunt/jsonschema 1.2.6: https://github.com/tdegrunt/jsonschema : MIT License
 terser 4.8.0: https://github.com/fabiosantoscode/terser : BSD 2-clause "Simplified" License
@@ -8786,7 +8786,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(signal-exit v3.0.3)
+(tapjs/signal-exit v3.0.3)
 
 Upstream-Contact: https://github.com/tapjs/signal-exit/issues
 Source: https://github.com/tapjs/signal-exit
@@ -11261,7 +11261,32 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(editorconfig-core-c 0.15.3)
+
+Copyright © 2012 EditorConfig Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -11301,31 +11326,6 @@ Permission is hereby granted, free of charge, to any person
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
-
----
-
-MIT License
-(editorconfig-core-c 0.15.3)
-
-Copyright © 2012 EditorConfig Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
 
 ---
 
