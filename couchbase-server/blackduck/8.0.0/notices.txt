@@ -369,6 +369,7 @@ Bouncy Castle 1.79: http://www.bouncycastle.org : (MIT License AND Apache Licens
 Bouncy Castle ASN.1 Extension and Utility APIs 1.79 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://www.bouncycastle.org/java.html : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
+braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 browserify/resolve v1.17.0: https://github.com/browserify/resolve : MIT License
 browserslist 4.12.0: https://github.com/ai/browserslist : MIT License
@@ -492,7 +493,7 @@ couchbase/tools-common core/v2.1.0 :
 couchbase/tools-common couchbase/v2.0.4 : 
 couchbase/tools-common couchbase/v3.3.1 : 
 couchbase/tools-common couchbase/v3.3.8 : 
-couchbase/tools-common databases/v1.0.5 : 
+couchbase/tools-common databases/v1.0.6 : 
 couchbase/tools-common environment/v1.0.0 : 
 couchbase/tools-common environment/v1.0.5 : 
 couchbase/tools-common environment/v1.1.1 : 
@@ -1404,7 +1405,7 @@ mathiasbynens/regenerate 1.4.0: https://github.com/mathiasbynens/regenerate : MI
 mattn-go-colorable 0.1.13: http://godoc.org/github.com/mattn/go-colorable : (MIT License AND BSD 3-clause "New" or "Revised" License)
 mattn-go-isatty v0.0.20: http://godoc.org/github.com/mattn/go-isatty : MIT License
 mattn-go-runewidth v0.0.3: https://github.com/mattn/go-runewidth : MIT License
-mattn-go-sqlite3 v1.14.24: http://mattn.github.io/go-sqlite3 : MIT License
+mattn-go-sqlite3 v1.14.28: http://mattn.github.io/go-sqlite3 : MIT License
 matttproud-golang_protobuf_extensions v1.0.1: https://github.com/matttproud/golang_protobuf_extensions : Apache License 2.0
 mdlayher/vsock v1.2.1: https://github.com/mdlayher/vsock : MIT License
 memory-fs 0.5.0: https://github.com/webpack/memory-fs : MIT License
@@ -1412,7 +1413,6 @@ Merge-Stream 2.0.0: https://github.com/grncdr/merge-stream : MIT License
 mergo v0.3.16: https://github.com/imdario/mergo : BSD 3-clause "New" or "Revised" License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
-micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.18.1 : MIT License
 Microsoft Azure client library for Identity 1.13.3 : MIT License
 Microsoft Azure common module for Storage 12.24.1 : MIT License
@@ -1730,6 +1730,7 @@ shebang-regex 3.0.0: https://github.com/sindresorhus/shebang-regex : MIT License
 shopspring-decimal v1.2.0: https://github.com/shopspring/decimal : MIT License
 shurcooL/httpfs 20230704-snapshot-f1e31cf0: https://github.com/shurcooL/httpfs : MIT License
 sigmund 1.0.1: https://github.com/isaacs/sigmund : ISC License
+signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
 sigs.k8s.io/json 20221116-snapshot-bc3834ca: https://github.com/kubernetes-sigs/json : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 sigs.k8s.io/yaml v1.4.0: https://github.com/kubernetes-sigs/yaml : Apache License 2.0
 simdutf v7.0.0: https://github.com/simdutf/simdutf : 
@@ -1785,7 +1786,6 @@ strip-json-comments 3.1.0: https://github.com/sindresorhus/strip-json-comments :
 strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments : MIT License
 swag v0.22.9: https://github.com/go-openapi/swag : Apache License 2.0
 tapable 1.1.3: https://github.com/webpack/tapable : MIT License
-tapjs/signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
 tar v6.0.1: https://github.com/isaacs/node-tar : ISC License
 tdegrunt/jsonschema 1.2.6: https://github.com/tdegrunt/jsonschema : MIT License
 terser 4.8.0: https://github.com/fabiosantoscode/terser : BSD 2-clause "Simplified" License
@@ -8588,7 +8588,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ---
 
 ISC License
-(tapjs/signal-exit v3.0.3)
+(signal-exit v3.0.3)
 
 Upstream-Contact: https://github.com/tapjs/signal-exit/issues
 Source: https://github.com/tapjs/signal-exit
@@ -10649,32 +10649,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(editorconfig-core-c 0.15.3)
-
-Copyright © 2012 EditorConfig Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
-(micromatch/braces 3.0.2)
+(braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -10718,6 +10693,31 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
+(editorconfig-core-c 0.15.3)
+
+Copyright © 2012 EditorConfig Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
 (angular-hybrid 10.0.1)
 
 The MIT License
@@ -10745,7 +10745,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, @babel/preset-modules 0.1.3, @types/json5 0.0.29, alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, alecthomas-units 20240927-snapshot-0f3dac36, Animal Sniffer Annotations 1.24, armon-go-metrics v0.4.1, array.prototype.flat 1.2.3, azure-storage-blob 12.25.1, Azure/azure-amqp-common-go v3.2.3, Azure/azure-sdk-for-go sdk/azcore/v1.10.0, Azure/azure-sdk-for-go sdk/azcore/v1.16.0, Azure/azure-sdk-for-go sdk/azcore/v1.6.1, Azure/azure-sdk-for-go sdk/azcore/v1.9.1, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/azidentity/v1.4.0, Azure/azure-sdk-for-go sdk/azidentity/v1.5.1, Azure/azure-sdk-for-go sdk/azidentity/v1.8.0, Azure/azure-sdk-for-go sdk/internal/v1.10.0, Azure/azure-sdk-for-go sdk/internal/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.5.1, Azure/azure-sdk-for-go sdk/internal/v1.5.2, Azure/azure-sdk-for-go sdk/keyvault/azkeys/v0.10.0, Azure/azure-sdk-for-go sdk/keyvault/internal/v0.7.1, Azure/azure-sdk-for-go sdk/messaging/azservicebus/v1.6.1, Azure/azure-sdk-for-go sdk/messaging/azservicebus/v1.7.1, Azure/azure-sdk-for-go sdk/resourcemanager/compute/armcompute/v5.7.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.6.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.0.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.3.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.5.0, Azure/go-amqp v1.0.5, AzureAD/microsoft-authentication-library-for-go v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.2.2, AzureAD/microsoft-authentication-library-for-go v1.3.2, blevesearch/gtreap v0.1.1, Bouncy Castle 1.79, Bouncy Castle ASN.1 Extension and Utility APIs 1.79, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79, BurntSushi/toml 20240526-snapshot-a339e1f7, BurntSushi/toml v1.4.0, cenkalti/backoff v4.3.0, cespare/xxhash v2.2.0, cespare/xxhash v2.3.0, Checker Qual 3.47.0, cilium/ebpf v0.11.0, clipboard.js 1.5.16, Clone 1.0.4, Code-Hex/go-generics-cache v1.5.1, couchbase-gomemcached 20230407-snapshot-7d7ce13d, couchbase-gomemcached v0.2.1, couchbase-gomemcached v0.3.2, couchbase-gomemcached v0.3.3, cpuguy83-go-md2man v2.0.4, cpuguy83-go-md2man v2.0.5, cramjam 2.9.0, curl 8.12.1, delegate 3.2.0, dgryski/go-rendezvous 20200823-snapshot-9f7001d1, digitalocean-godo v1.126.0, dominikh/go-tools 20190523-snapshot-ea95bdfd, dominikh/go-tools v0.5.1, enacl v1.2.1, erl-iso8601 1.3.3, estree-walker 0.6.1, estree-walker 1.0.1, faiss v1.11.0, fast_float 7.0.0, fatih-color v1.16.0, felixge/httpsnoop v1.0.4, find-package-json 1.2.0, fmtlib/fmt 11.0.0, fogfish/it v2.0.1, github.com/blevesearch/go-faiss v1.0.25, github.com/go-kit/log v0.2.1, github.com/KimMachineGun/automemlimit v0.6.1, github.com/linode/linodego v1.41.0, github.com/mdlayher/socket 0.4.1, github.com/power-devops/perfstat 20240221-snapshot-82ca3683, github.com/yusufpapurcu/wmi v1.2.4, go humanize 1.0.1, Go Testify v1.10.0, Go Testify v1.8.1, Go Testify v1.8.4, Go Testify v1.9.0, go-ole-go-ole v1.3.0, go-restful v3.11.0, go-resty/resty v2.13.1, go-task/slim-sprig v3.0.0, go-test/deep v1.1.0, go-zap v1.27.0, go.etcd.io/bbolt v1.4.0-alpha.0, go.uber.org/automaxprocs v1.6.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, golang-jwt/jwt v4.5.0, golang-jwt/jwt v5.2.0, golang-jwt/jwt v5.2.1, golang-stats v0.7.0, good-listener 1.2.2, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.6.3, hetznercloud/hcloud-go v2.13.1, iancoleman/strcase v0.3.0, icrowley/fake 20240710-snapshot-f797eb4a, JAXB isorelax library 20090621, js-beautify 1.14.3, JSON for Modern C++ 3.11.3, jsoniter-go 20171115-snapshot-f7279a60, keybase/go-keychain 20231219-snapshot-57a3676c, klauspost-cpuid v2.2.9, kolo/xmlrpc 20220921-snapshot-a4b6fa1d, kr/pretty v0.3.1, kshard/fvecs v0.0.2, libicu 71.1, lpgauth/marina 0.3.13, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.20, mattn-go-sqlite3 v1.14.24, mdlayher/vsock v1.2.1, Microsoft Azure client library for File Storage Data Lake 12.18.1, Microsoft Azure client library for Identity 1.13.3, Microsoft Azure common module for Storage 12.24.1, Microsoft Azure internal Avro module for Storage 12.10.1, Microsoft Azure Java Core Library 1.45.1, Microsoft Azure Java JSON Library 1.3.0, Microsoft Azure Netty HTTP Client Library 1.13.11, Microsoft Azure SDK for Key Vault 1.2.4, Microsoft-go-winio v0.6.1, msal4j 1.17.1, msal4j-persistence-extension 1.3.0, natsort 8.4.0, natural-compare 1.4.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, nsf/jsondiff 20230429-snapshot-43f6cf30, onsi/ginkgo v2.19.0, peterh/liner v1.2.0, pq v1.10.9, prataprc/monster 20210210-snapshot-07525cc2, prometheus-cpp v1.2.1, python cffi 1.17.1, python-pem 23.1.0, python3-charset-normalizer 3.4.0, pyzipper 0.3.6, rollup-pluginutils 2.8.2, rs-xid v1.6.0, select 1.1.2, shurcooL/httpfs 20230704-snapshot-f1e31cf0, Sirupsen/logrus v1.9.3, SLF4J API Module 1.7.36, sn-2-ui-router-ng2 6.0.1, Sparkle 1.27.3, spdlog v1.15.0, stretchr/objx v0.5.0, stretchr/objx v0.5.2, uber-go/atomic v1.11.0, urfave-cli v2.27.5, urllib3 2.2.3, vultr/govultr v2.17.2, wcwidth 1.0.1, xrash/smetrics 20240521-snapshot-686a1a29, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, youmark/pkcs8 20240726-snapshot-a2c0da24, yuin/goldmark v1.4.13)
+(@angular/common 8.2.14, @angular/compiler 8.2.14, @angular/forms 8.2.14, @angular/platform-browser 8.2.14, @angular/platform-browser-dynamic 8.2.14, @angular/router 8.2.14, @angular/upgrade 8.2.14, @babel/preset-modules 0.1.3, @types/json5 0.0.29, alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, alecthomas-units 20240927-snapshot-0f3dac36, Animal Sniffer Annotations 1.24, armon-go-metrics v0.4.1, array.prototype.flat 1.2.3, azure-storage-blob 12.25.1, Azure/azure-amqp-common-go v3.2.3, Azure/azure-sdk-for-go sdk/azcore/v1.10.0, Azure/azure-sdk-for-go sdk/azcore/v1.16.0, Azure/azure-sdk-for-go sdk/azcore/v1.6.1, Azure/azure-sdk-for-go sdk/azcore/v1.9.1, Azure/azure-sdk-for-go sdk/azidentity/v1.3.0, Azure/azure-sdk-for-go sdk/azidentity/v1.4.0, Azure/azure-sdk-for-go sdk/azidentity/v1.5.1, Azure/azure-sdk-for-go sdk/azidentity/v1.8.0, Azure/azure-sdk-for-go sdk/internal/v1.10.0, Azure/azure-sdk-for-go sdk/internal/v1.3.0, Azure/azure-sdk-for-go sdk/internal/v1.5.1, Azure/azure-sdk-for-go sdk/internal/v1.5.2, Azure/azure-sdk-for-go sdk/keyvault/azkeys/v0.10.0, Azure/azure-sdk-for-go sdk/keyvault/internal/v0.7.1, Azure/azure-sdk-for-go sdk/messaging/azservicebus/v1.6.1, Azure/azure-sdk-for-go sdk/messaging/azservicebus/v1.7.1, Azure/azure-sdk-for-go sdk/resourcemanager/compute/armcompute/v5.7.0, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.6.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.0.0, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.3.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.5.0, Azure/go-amqp v1.0.5, AzureAD/microsoft-authentication-library-for-go v1.0.0, AzureAD/microsoft-authentication-library-for-go v1.2.0, AzureAD/microsoft-authentication-library-for-go v1.2.2, AzureAD/microsoft-authentication-library-for-go v1.3.2, blevesearch/gtreap v0.1.1, Bouncy Castle 1.79, Bouncy Castle ASN.1 Extension and Utility APIs 1.79, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79, BurntSushi/toml 20240526-snapshot-a339e1f7, BurntSushi/toml v1.4.0, cenkalti/backoff v4.3.0, cespare/xxhash v2.2.0, cespare/xxhash v2.3.0, Checker Qual 3.47.0, cilium/ebpf v0.11.0, clipboard.js 1.5.16, Clone 1.0.4, Code-Hex/go-generics-cache v1.5.1, couchbase-gomemcached 20230407-snapshot-7d7ce13d, couchbase-gomemcached v0.2.1, couchbase-gomemcached v0.3.2, couchbase-gomemcached v0.3.3, cpuguy83-go-md2man v2.0.4, cpuguy83-go-md2man v2.0.5, cramjam 2.9.0, curl 8.12.1, delegate 3.2.0, dgryski/go-rendezvous 20200823-snapshot-9f7001d1, digitalocean-godo v1.126.0, dominikh/go-tools 20190523-snapshot-ea95bdfd, dominikh/go-tools v0.5.1, enacl v1.2.1, erl-iso8601 1.3.3, estree-walker 0.6.1, estree-walker 1.0.1, faiss v1.11.0, fast_float 7.0.0, fatih-color v1.16.0, felixge/httpsnoop v1.0.4, find-package-json 1.2.0, fmtlib/fmt 11.0.0, fogfish/it v2.0.1, github.com/blevesearch/go-faiss v1.0.25, github.com/go-kit/log v0.2.1, github.com/KimMachineGun/automemlimit v0.6.1, github.com/linode/linodego v1.41.0, github.com/mdlayher/socket 0.4.1, github.com/power-devops/perfstat 20240221-snapshot-82ca3683, github.com/yusufpapurcu/wmi v1.2.4, go humanize 1.0.1, Go Testify v1.10.0, Go Testify v1.8.1, Go Testify v1.8.4, Go Testify v1.9.0, go-ole-go-ole v1.3.0, go-restful v3.11.0, go-resty/resty v2.13.1, go-task/slim-sprig v3.0.0, go-test/deep v1.1.0, go-zap v1.27.0, go.etcd.io/bbolt v1.4.0-alpha.0, go.uber.org/automaxprocs v1.6.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, golang-jwt/jwt v4.5.0, golang-jwt/jwt v5.2.0, golang-jwt/jwt v5.2.1, golang-stats v0.7.0, good-listener 1.2.2, govalidator 20230301-snapshot-a9d515a0, hashicorp/go-hclog v1.6.3, hetznercloud/hcloud-go v2.13.1, iancoleman/strcase v0.3.0, icrowley/fake 20240710-snapshot-f797eb4a, JAXB isorelax library 20090621, js-beautify 1.14.3, JSON for Modern C++ 3.11.3, jsoniter-go 20171115-snapshot-f7279a60, keybase/go-keychain 20231219-snapshot-57a3676c, klauspost-cpuid v2.2.9, kolo/xmlrpc 20220921-snapshot-a4b6fa1d, kr/pretty v0.3.1, kshard/fvecs v0.0.2, libicu 71.1, lpgauth/marina 0.3.13, mapstructure v1.5.0, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.20, mattn-go-sqlite3 v1.14.28, mdlayher/vsock v1.2.1, Microsoft Azure client library for File Storage Data Lake 12.18.1, Microsoft Azure client library for Identity 1.13.3, Microsoft Azure common module for Storage 12.24.1, Microsoft Azure internal Avro module for Storage 12.10.1, Microsoft Azure Java Core Library 1.45.1, Microsoft Azure Java JSON Library 1.3.0, Microsoft Azure Netty HTTP Client Library 1.13.11, Microsoft Azure SDK for Key Vault 1.2.4, Microsoft-go-winio v0.6.1, msal4j 1.17.1, msal4j-persistence-extension 1.3.0, natsort 8.4.0, natural-compare 1.4.0, ngx-clipboard 12.3.1, ngx-window-token 2.0.1, nsf/jsondiff 20230429-snapshot-43f6cf30, onsi/ginkgo v2.19.0, peterh/liner v1.2.0, pq v1.10.9, prataprc/monster 20210210-snapshot-07525cc2, prometheus-cpp v1.2.1, python cffi 1.17.1, python-pem 23.1.0, python3-charset-normalizer 3.4.0, pyzipper 0.3.6, rollup-pluginutils 2.8.2, rs-xid v1.6.0, select 1.1.2, shurcooL/httpfs 20230704-snapshot-f1e31cf0, Sirupsen/logrus v1.9.3, SLF4J API Module 1.7.36, sn-2-ui-router-ng2 6.0.1, Sparkle 1.27.3, spdlog v1.15.0, stretchr/objx v0.5.0, stretchr/objx v0.5.2, uber-go/atomic v1.11.0, urfave-cli v2.27.5, urllib3 2.2.3, vultr/govultr v2.17.2, wcwidth 1.0.1, xrash/smetrics 20240521-snapshot-686a1a29, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, youmark/pkcs8 20240726-snapshot-a2c0da24, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
