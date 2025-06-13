@@ -1,0 +1,10 @@
+{
+    "github_repo": "couchbase/docker",
+    "editions": [
+        "enterprise"
+    ],
+    "build_jobs": {
+            "dockerhub": "update-dockerhub",
+            "rhcc": "update-rhcc"
+    }
+}
