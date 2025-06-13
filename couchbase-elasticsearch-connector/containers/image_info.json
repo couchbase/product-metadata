@@ -4,7 +4,6 @@
         "enterprise"
     ],
     "build_jobs": {
-            "dockerhub": "update-dockerhub",
-            "rhcc": "update-rhcc"
+            "dockerhub": "couchbase-k8s-microservice-republish"
     }
 }
