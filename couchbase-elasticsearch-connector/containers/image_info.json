@@ -3,6 +3,7 @@
     "editions": [
         "enterprise"
     ],
+    "absences": [{"registry": "rhcc"}],
     "build_jobs": {
             "dockerhub": "couchbase-k8s-microservice-republish"
     }
