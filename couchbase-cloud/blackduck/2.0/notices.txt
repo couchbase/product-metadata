@@ -1972,8 +1972,6 @@ function.prototype.name 1.1.6: https://github.com/ljharb/function.prototype.name
 function.prototype.name 1.1.8: https://github.com/ljharb/function.prototype.name#readme : MIT License
 functional-red-black-tree 1.0.1: https://github.com/mikolalysenko/functional-red-black-tree : MIT License
 functions-have-names 1.2.3: https://github.com/ljharb/functions-have-names#readme : MIT License
-Fuzzyma/svg.select.js 2.1.2: https://github.com/Fuzzyma/svg.select.js : MIT License
-Fuzzyma/svg.select.js 3.0.1: https://github.com/Fuzzyma/svg.select.js : MIT License
 fxamacker/cbor 2.7.0: https://github.com/fxamacker/cbor : Expat License
 gabriel-vasile/mimetype v1.4.8: https://github.com/gabriel-vasile/mimetype : MIT License
 gengo 20250207-snapshot-1244d319: https://github.com/kubernetes/gengo : Apache License 2.0
@@ -3951,6 +3949,8 @@ svg.filter.js 2.0.2: https://github.com/wout/svg.filter.js#readme : MIT License
 svg.js 2.7.1: https://svgdotjs.github.io/ : MIT License
 svg.pathmorphing.js 0.1.3: https://github.com/Fuzzyma/svg.pathmorphing.js#readme : MIT License
 svg.resize.js 1.4.3: https://github.com/Fuzzyma/svg.resize.js : MIT License
+svg.select.js 2.1.2: https://github.com/svgdotjs/svg.select.js : MIT License
+svg.select.js 3.0.1: https://github.com/svgdotjs/svg.select.js : MIT License
 svg4everybody 2.1.9: https://github.com/jonathantneal/svg4everybody : Creative Commons Zero v1.0 Universal
 svgo 2.8.0: https://github.com/svg/svgo : MIT License
 svgstore 3.0.1: https://github.com/shannonmoeller/svgstore : MIT License
@@ -11591,13 +11591,11 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Fuzzyma/svg.select.js 2.1.2, Fuzzyma/svg.select.js 3.0.1, svg.draggable.js 2.2.2, svg.easing.js 2.0.0, svg.filter.js 2.0.2, svg.pathmorphing.js 0.1.3)
+(local-storage-fallback 4.1.2)
 
 The MIT License (MIT)
 
-
-
-Copyright (c) 2014 Fuzzy
+Copyright (c) 2016 Ripeworks
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11620,11 +11618,13 @@ SOFTWARE
 ---
 
 MIT License
-(local-storage-fallback 4.1.2)
+(svg.draggable.js 2.2.2, svg.easing.js 2.0.0, svg.filter.js 2.0.2, svg.pathmorphing.js 0.1.3, svg.select.js 2.1.2, svg.select.js 3.0.1)
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Ripeworks
+
+
+Copyright (c) 2014 Fuzzy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
