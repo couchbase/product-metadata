@@ -465,7 +465,7 @@
 463,mongodb/mongo-go-driver,v1.12.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3abd1dbe-0384-45a0-bec1-e351e3cdb55e,21e17dd8-d00c-4184-ad58-da056133031e,7cae335f-1193-421e-92f1-8802b4243e93
 464,morikuni/aec,v1.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d380cbb5-6428-4f2c-aeb0-a86352dc263a,d5a64eb0-aa16-43d1-b33d-227ac4e71066,ad705c59-6893-4980-bdbf-0837f1823cc4
 465,mwitkow/go-conntrack,20190716-snapshot-2f068394,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9992ac64-95b6-415c-8d99-9849bc4a1072,feaed800-7a77-4c82-948c-1f77c12fa4dc,7cae335f-1193-421e-92f1-8802b4243e93
-466,oauthlib/oauthlib,3.2.2,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,40586baf-f96b-4e50-997a-458103e6712b,e6e20c8c-f4c6-40c1-a7af-931478de2779,3d238144-44e6-450e-b523-3defbdaed9dc
+466,oauthlib/oauthlib,3.3.1,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,40586baf-f96b-4e50-997a-458103e6712b,f5c495c1-cb4a-4255-8a09-70acdd681794,3d238144-44e6-450e-b523-3defbdaed9dc
 467,oklog/run,v1.1.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,06b874c5-1820-416f-a9ea-61ea31640fa9,fa6e5b09-5621-42df-b67d-ef24558bca97,7cae335f-1193-421e-92f1-8802b4243e93
 468,oklog/ulid,v1.3.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,92e7a8bf-4f76-4779-b39d-82b21dc393aa,b27d6199-7744-46a8-93c3-ae2323d31aba,7cae335f-1193-421e-92f1-8802b4243e93
 469,open-telemetry/opentelemetry-collector,pdata/v1.0.0-rcv0016,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b639c17f-705b-4f17-8e0f-9d51a0e193a1,42075740-e853-4cf8-b601-495fd1f82b03,7cae335f-1193-421e-92f1-8802b4243e93
@@ -501,12 +501,12 @@
 499,prometheus-common,v0.45.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,399ba8e6-0419-4d36-81ef-754f8a32bdf0,a9ae313e-b78f-447f-8a8d-65875a8f1d68,7cae335f-1193-421e-92f1-8802b4243e93
 500,prometheus-procfs,v0.12.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,28fc1259-0963-4734-85ab-7eb29eb9e134,f19c6111-b851-4671-a8c3-e256d73107df,7cae335f-1193-421e-92f1-8802b4243e93
 501,prometheus/prometheus,v0.48.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,04b82d3f-8119-4a41-bfb6-e71168773767,699f72df-cf7e-4fa6-a949-a4732b56e5ad,7cae335f-1193-421e-92f1-8802b4243e93
-502,psf-requests,v2.32.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93b03de5-fedb-4162-8a18-7f19fdbd252e,a52da06d-9e50-4614-ac95-e37c0e9267e6,7cae335f-1193-421e-92f1-8802b4243e93
+502,psf-requests,2.32.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93b03de5-fedb-4162-8a18-7f19fdbd252e,a52da06d-9e50-4614-ac95-e37c0e9267e6,7cae335f-1193-421e-92f1-8802b4243e93
 503,pty,v1.1.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dffe4812-b2ac-4fda-be17-e4043bf72bc4,203e9cca-bc53-4ad0-be1a-5f7d1fdc5665,ad705c59-6893-4980-bdbf-0837f1823cc4
 504,py3-google-auth,2.40.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,979a219c-1bd6-44e4-8899-d32cbaade25e,c4527dc4-e3e9-4378-8c0c-c73090d21a3d,7cae335f-1193-421e-92f1-8802b4243e93
 505,pyasn1,0.6.1,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,ebab072d-8673-40d6-b751-a2322f817c5d,acacdb7f-c5f7-4849-8524-9ab53fa32dbf,cc875133-df38-4806-9921-473e0ef01a87
 506,pyasn1-modules,0.4.2,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f0b4ccd0-e96b-4f6d-8611-4f14d93da468,80f8cc7f-34d4-4c08-ad6e-4b6159c6f88a,3d238144-44e6-450e-b523-3defbdaed9dc
-507,python-certifi,2025.4.26,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,447eeab5-7c85-457d-ab77-803d05d963e7,ce3dd63e-c569-4cea-986a-46bc5efe9896
+507,python-certifi,2025.6.15,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,a3787f7c-dc88-4ab5-af5a-07127f272e09,ce3dd63e-c569-4cea-986a-46bc5efe9896
 508,python-dateutil,2.9.0.post0,Transitive Dependency,"(Apache License 2.0 OR BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,ba9f9ff7-691f-4faa-83ef-702409be1282,99a90adb-3ef3-4a02-b2da-4bb61ded54d7,"3d238144-44e6-450e-b523-3defbdaed9dc,7cae335f-1193-421e-92f1-8802b4243e93"
 509,python3-charset-normalizer,3.4.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,961db792-aeb0-450b-ba00-4f9b0afa6dda,8c1d70af-06c7-48e2-9cd9-566f9c5ae1e4,ad705c59-6893-4980-bdbf-0837f1823cc4
 510,requests-oauthlib,2.0.0,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,633fa304-bfec-4845-9648-85cd1c01cd6b,a20dfeeb-d17a-4255-82d1-4ad57e137187,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
