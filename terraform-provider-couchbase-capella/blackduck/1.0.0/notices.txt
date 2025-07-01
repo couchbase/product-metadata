@@ -98,6 +98,8 @@ hashicorp-yamux v0.1.2: https://github.com/hashicorp/yamux : Mozilla Public Lice
 hashicorp/go-cty v1.5.0 : MIT License
 hashicorp/go-hclog v1.6.3: https://github.com/hashicorp/go-hclog : MIT License
 hashicorp/hcl v2.23.0: https://github.com/hashicorp/hcl : Mozilla Public License 2.0
+hashicorp/terraform-exec v0.23.0: https://github.com/hashicorp/terraform-exec : Mozilla Public License 2.0
+hashicorp/terraform-json v0.25.0: https://github.com/hashicorp/terraform-json : Mozilla Public License 2.0
 hashicorp/terraform-plugin-framework v1.15.0 : Mozilla Public License 2.0
 hashicorp/terraform-plugin-sdk v2.37.0 : Mozilla Public License 2.0
 hashicorp/terraform-svchost v0.1.1 : Mozilla Public License 2.0
@@ -145,6 +147,7 @@ vmihailenco/tagparser v2.0.0: https://github.com/vmihailenco/tagparser : BSD 2-c
 xanzy-ssh-agent v0.3.3: https://github.com/xanzy/ssh-agent : Apache License 2.0
 yaml for Go v3.0.1: https://github.com/go-yaml/yaml : (MIT License AND Apache License 2.0)
 yuin/goldmark v1.4.13: https://pkg.go.dev/github.com/go-text/typesetting : MIT License
+zclconf/go-cty v1.16.2: https://github.com/zclconf/go-cty : MIT License
 zclconf/go-cty-debug 20240509-snapshot-0d6042c5: https://github.com/zclconf/go-cty-debug : MIT License
 zeebo/errs v1.4.0: https://github.com/zeebo/errs : MIT License
 
@@ -1033,7 +1036,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(apparentlymart/go-textseg v15.0.0, bwesterb/go-ristretto v1.2.3, cespare/xxhash v2.3.0, fatih-color v1.18.0, Go Testify v1.10.0, hashicorp/go-cty v1.5.0, hashicorp/go-hclog v1.6.3, huandu/xstrings v1.3.3, kevinburke/ssh_config v1.2.0, mapstructure v1.5.0, Masterminds-semver v3.2.0, Masterminds/sprig v3.2.3, mattn-go-colorable v0.1.14, mattn-go-isatty v0.0.20, Microsoft-go-winio v0.6.2, sergi/go-diff 20230802-snapshot-5b0b94c5, stretchr/objx v0.5.2, yaml for Go v3.0.1, yuin/goldmark v1.4.13, zclconf/go-cty-debug 20240509-snapshot-0d6042c5, zeebo/errs v1.4.0)
+(apparentlymart/go-textseg v15.0.0, bwesterb/go-ristretto v1.2.3, cespare/xxhash v2.3.0, fatih-color v1.18.0, Go Testify v1.10.0, hashicorp/go-cty v1.5.0, hashicorp/go-hclog v1.6.3, huandu/xstrings v1.3.3, kevinburke/ssh_config v1.2.0, mapstructure v1.5.0, Masterminds-semver v3.2.0, Masterminds/sprig v3.2.3, mattn-go-colorable v0.1.14, mattn-go-isatty v0.0.20, Microsoft-go-winio v0.6.2, sergi/go-diff 20230802-snapshot-5b0b94c5, stretchr/objx v0.5.2, yaml for Go v3.0.1, yuin/goldmark v1.4.13, zclconf/go-cty v1.16.2, zclconf/go-cty-debug 20240509-snapshot-0d6042c5, zeebo/errs v1.4.0)
 
 The MIT License
 ===============
@@ -1164,7 +1167,7 @@ THE SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(errwrap v1.1.0, github.com/hashicorp/cli v1.1.7, github.com/hashicorp/hc-install v0.9.2, github.com/hashicorp/terraform-plugin-framework-validators v0.18.0, github.com/hashicorp/terraform-plugin-go v0.27.0, github.com/hashicorp/terraform-plugin-log v0.9.0, github.com/hashicorp/terraform-plugin-testing v1.13.0, github.com/hashicorp/terraform-registry-address v0.2.5, go-checkpoint v0.5.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.6.3, hashicorp-go-retryablehttp 0.7.7, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.7.0, hashicorp-logutils v1.0.0, hashicorp-yamux v0.1.2, hashicorp/hcl v2.23.0, hashicorp/terraform-plugin-framework v1.15.0, hashicorp/terraform-plugin-sdk v2.37.0, hashicorp/terraform-svchost v0.1.1)
+(errwrap v1.1.0, github.com/hashicorp/cli v1.1.7, github.com/hashicorp/hc-install v0.9.2, github.com/hashicorp/terraform-plugin-framework-validators v0.18.0, github.com/hashicorp/terraform-plugin-go v0.27.0, github.com/hashicorp/terraform-plugin-log v0.9.0, github.com/hashicorp/terraform-plugin-testing v1.13.0, github.com/hashicorp/terraform-registry-address v0.2.5, go-checkpoint v0.5.0, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-plugin v1.6.3, hashicorp-go-retryablehttp 0.7.7, hashicorp-go-uuid v1.0.3, hashicorp-go-version v1.7.0, hashicorp-logutils v1.0.0, hashicorp-yamux v0.1.2, hashicorp/hcl v2.23.0, hashicorp/terraform-exec v0.23.0, hashicorp/terraform-json v0.25.0, hashicorp/terraform-plugin-framework v1.15.0, hashicorp/terraform-plugin-sdk v2.37.0, hashicorp/terraform-svchost v0.1.1)
 
 Mozilla Public License
 Version 2.0
