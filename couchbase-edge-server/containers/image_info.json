@@ -1,0 +1,10 @@
+{
+    "github_repo": "couchbase/edge-server",
+    "editions": [
+        "enterprise"
+    ],
+    "absences": [{"registry": "rhcc"}],
+    "build_jobs": {
+            "dockerhub": "update-dockerhub"
+    }
+}
