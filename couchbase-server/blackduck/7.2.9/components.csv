@@ -294,7 +294,7 @@
 292,OpenCensus,0.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8eed0f87-8b41-45eb-b0d5-1d23a84bc7da,7e0251e5-e9fa-4dfb-bcab-03a5d818ee51,7cae335f-1193-421e-92f1-8802b4243e93
 293,OpenCensus,0.31.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6be0603b-408c-4e63-bfcf-7bd94a5558f3,6247de5b-7d6f-4c76-9ada-61afdb3aebbc,7cae335f-1193-421e-92f1-8802b4243e93
 294,OpenCensus,v0.4.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f05607e4-f8ed-4bf9-94aa-d8e611cfc252,398bbdad-843c-4a4b-899f-9c1bc70ce3ec,7cae335f-1193-421e-92f1-8802b4243e93
-295,OpenJDK,jdk-17.0.15-ga,Manually Added,GNU General Public License v2.0 only,RECIPROCAL,NOT_REVIEWED,324fb534-b708-4c94-95d0-25335b546471,0969ad49-f79d-4d98-b2f6-03b401242c8b,0289ba34-8fe7-41db-82e0-49c28b9c2414
+295,OpenJDK,jdk-17.0.15-ga,Manually Added,GNU General Public License v2.0 only,RECIPROCAL,REVIEWED,324fb534-b708-4c94-95d0-25335b546471,0969ad49-f79d-4d98-b2f6-03b401242c8b,0289ba34-8fe7-41db-82e0-49c28b9c2414
 296,OpenSSL,3.1.4,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cd7c0bf1-7757-4ce9-bcc0-46332273dc27,03f9f582-3414-4ebe-bc94-888d7838e5bd,7cae335f-1193-421e-92f1-8802b4243e93
 297,OpenTelemetry,1.42.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,36fc993c-49f2-4758-83e1-78346922d243,5cf403df-0e31-49ca-b7c7-48566a35c572,7cae335f-1193-421e-92f1-8802b4243e93
 298,OpenTelemetry Java,1.42.1-alpha,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,47da3fd7-c292-4b10-aa62-52abb59d3e67,5e5df635-5ff6-4d59-a4bd-4d8ea42a4877,7cae335f-1193-421e-92f1-8802b4243e93
@@ -1101,9 +1101,9 @@
 1099,levn,0.4.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,15e06d30-55ae-461a-adaa-a1bfb6c7c02d,66a91287-3069-4b7c-af2f-304e01f25c81,ad705c59-6893-4980-bdbf-0837f1823cc4
 1100,libcouchbase,3.3.13,Exact,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,58e2e758-dfa0-4c9a-bcc4-fc24b0951c4d,7178a9a0-1749-4d1a-9f57-54b8fb26eb80,7cae335f-1193-421e-92f1-8802b4243e93
 1101,libevent,2.1.11,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,3164e153-3508-415c-af53-443dea356811,0d430e67-5ac6-45ec-8a87-e01d8e943373,3d238144-44e6-450e-b523-3defbdaed9dc
-1102,libgcc,13.2.0,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,e12b8d28-cc06-4ffe-9393-21982b677571,9fc60e6f-112c-47d5-9715-2c7df6805857,3d238144-44e6-450e-b523-3defbdaed9dc
+1102,libgcc,13.2.0,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,REVIEWED,e12b8d28-cc06-4ffe-9393-21982b677571,9fc60e6f-112c-47d5-9715-2c7df6805857,3d238144-44e6-450e-b523-3defbdaed9dc
 1103,libicu,71.1,Manually Added,(MIT License AND Public Domain AND Unicode Character Database Terms Of Use),PERMISSIVE,NOT_REVIEWED,a7441c50-9be3-493b-82ed-19666236acef,8c226365-ab65-43f9-943a-2c52ec080b58,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,ad705c59-6893-4980-bdbf-0837f1823cc4,92b7564a-4a43-4679-83cf-89261e16de72"
-1104,libstdc++6,13.2.0,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,NOT_REVIEWED,00b4e8b2-e862-45eb-a30a-41f2e65dcdcf,40bcf714-3c45-4962-a70c-50e6c7017ed6,3a5d4424-557d-49fa-9416-71c06026fe07
+1104,libstdc++6,13.2.0,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,REVIEWED,00b4e8b2-e862-45eb-a30a-41f2e65dcdcf,40bcf714-3c45-4962-a70c-50e6c7017ed6,3a5d4424-557d-49fa-9416-71c06026fe07
 1105,liburing,0.6,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,b37c3c42-04f2-4ac7-b52c-dc98252e0875,6d17962e-df36-42bd-8bee-2c246371788c,ad705c59-6893-4980-bdbf-0837f1823cc4
 1106,libuv,1.20.3,Manually Added,"(MIT License AND ISC License AND BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,ecefe33e-be8d-47b7-b02a-ee0cfe7ab2f2,32941257-9dcd-4e23-9558-62996e879aa6,"3d238144-44e6-450e-b523-3defbdaed9dc,ad705c59-6893-4980-bdbf-0837f1823cc4,14b0b50b-acd2-4fc8-ac65-3b15f9e58260"
 1107,lines-and-columns,1.1.6,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ee3df0a8-db95-4ba5-8520-4553bf923ac0,c6353bbe-b35d-45f5-a6c5-47fc417fad0a,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -1616,7 +1616,7 @@
 1614,klauspost/asmfmt,v1.3.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1432d5f8-cb0d-431a-ad78-ed60b1e71bea,99e55cc8-bbe8-46c9-92bb-58af0aefcc96,ad705c59-6893-4980-bdbf-0837f1823cc4
 1615,leven,3.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0807607d-36c1-4dbd-b257-3e59774952aa,75632ea4-0047-4f53-ba29-ee068d1926a9,ad705c59-6893-4980-bdbf-0837f1823cc4
 1616,levenary,1.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7c6698a3-d6a0-43d5-87ad-3b164d1f975b,975bd218-e1e6-4fb1-a0ba-435be992dbd6,ad705c59-6893-4980-bdbf-0837f1823cc4
-1617,libnuma1,2.0.11,Manually Added,GNU Lesser General Public License v2.1 or later,WEAK_RECIPROCAL,NOT_REVIEWED,fe3e8b96-6c8e-411f-991f-697ecfed5605,3ad40a1f-6637-474f-a6b0-3f57f1549dc0,cff110eb-f85c-445c-9d3b-00a04b7f4cf0
+1617,libnuma1,2.0.11,Manually Added,GNU Lesser General Public License v2.1 or later,WEAK_RECIPROCAL,REVIEWED,fe3e8b96-6c8e-411f-991f-697ecfed5605,3ad40a1f-6637-474f-a6b0-3f57f1549dc0,cff110eb-f85c-445c-9d3b-00a04b7f4cf0
 1618,locate-path,2.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dfe93e80-5ef3-4e7e-b5d6-4e564639333a,acc0778f-af63-4ee3-858d-2a34c235cc37,ad705c59-6893-4980-bdbf-0837f1823cc4
 1619,locate-path,v6.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dfe93e80-5ef3-4e7e-b5d6-4e564639333a,73db84e0-5031-4901-972f-b9e5f2a5e5d5,ad705c59-6893-4980-bdbf-0837f1823cc4
 1620,lukechampine/uint128,v1.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f33af561-d877-496e-b46d-b66cff732859,b1525350-c0b2-4fd7-bc85-22db918e264e,ad705c59-6893-4980-bdbf-0837f1823cc4
