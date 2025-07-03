@@ -66,7 +66,7 @@ digitalocean-godo v1.99.0: https://github.com/digitalocean/godo : MIT License
 diskv v2.0.1: http://godoc.org/github.com/peterbourgon/diskv : MIT License
 dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877: https://dmitri.shuralyov.com/gpu/mtl : BSD 3-clause "New" or "Revised" License
 dnaeon/go-vcr v1.2.0: http://github.com/dnaeon/go-vcr/ : BSD 2-clause "Simplified" License
-docker v24.0.2: https://www.docker.com/ : Apache License 2.0
+docker v24.0.2: https://github.com/docker/swarm : Apache License 2.0
 docker-go-units v0.5.0: https://godoc.org/github.com/docker/go-units : Apache License 2.0
 docker-registry 2.8.1: http://docker.io : Apache License 2.0
 dominikh/go-tools v0.0.1-2020.1.4: https://staticcheck.io : MIT License
@@ -92,12 +92,12 @@ github.com/cncf/xds 20230428-snapshot-4003588d : Apache License 2.0
 github.com/docopt/docopt-go 20181101-snapshot-ee0de3bc: https://github.com/docopt/docopt-go : MIT License
 github.com/go-kit/log v0.2.1: https://github.com/go-kit/log : MIT License
 github.com/gobuffalo/flect v0.1.3: https://github.com/gobuffalo/flect : MIT License
-github.com/gobuffalo/genny v0.1.1: https://github.com/gobuffalo/genny : MIT License
+github.com/gobuffalo/genny v0.1.1 : MIT License
 github.com/gobuffalo/gogen v0.1.1: https://github.com/gobuffalo/gogen : MIT License
 github.com/gobuffalo/logger 20190813-snapshot-86e12af4: https://github.com/gobuffalo/logger : Apache License 2.0
-github.com/gobuffalo/mapi v1.0.2: https://github.com/gobuffalo/mapi : MIT License
-github.com/gobuffalo/packd v0.1.0: https://pkg.go.dev/github.com/gobuffalo/packd : MIT License
-github.com/gobuffalo/syncx 20190425-snapshot-33c29581: https://github.com/gobuffalo/syncx : Apache License 2.0
+github.com/gobuffalo/mapi v1.0.2 : MIT License
+github.com/gobuffalo/packd v0.1.0: https://github.com/gobuffalo/packd : MIT License
+github.com/gobuffalo/syncx 20190425-snapshot-33c29581 : Apache License 2.0
 github.com/influxdata/influxdb1-client 20200827-snapshot-b269163b: https://github.com/influxdata/influxdb1-client : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.3: https://github.com/konsorten/go-windows-terminal-sequences : MIT License
 github.com/linode/linodego v1.17.0: https://github.com/linode/linodego : MIT License
@@ -203,7 +203,6 @@ golang.org/x/lint 20210508-snapshot-6edffad5 : BSD 3-clause "New" or "Revised" L
 golang.org/x/mod v0.10.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net v0.10.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 v0.8.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sync v0.2.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys 0.8.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
 golang.org/x/term v0.8.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.3.0 : BSD 3-clause "New" or "Revised" License
@@ -211,6 +210,7 @@ golang.org/x/tools v0.9.3: https://pkg.go.dev/golang.org/x/tools : BSD 3-clause 
 golang.org/x/xerrors 20220907-snapshot-04be3eba : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.7: http://google.golang.org/appengine : Apache License 2.0
 golang/glog v1.1.0: https://github.com/golang/glog : Apache License 2.0
+golang/sync v0.2.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
 golang/text v0.9.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
 gomega v1.23.0: https://github.com/onsi/gomega : MIT License
 google-cloud-go accessapproval/v1.6.0: https://github.com/GoogleCloudPlatform/google-cloud-go : Apache License 2.0
@@ -1800,7 +1800,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, edsrzf/mmap-go 1.1.0, exp 20230517-snapshot-2e198f4a, fatih-color 1.14.1, fsnotify-fsnotify v1.6.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, glfw 20190408-snapshot-e6da0acd, glfw 20200222-snapshot-6f7a984d, Go programming language 1.23.2, Go support for Mobile devices 20190704-snapshot-d2bd2a29, go-zookeeper 20190923-snapshot-2cc03de4, go-zookeeper/zk v1.0.3, Golang Protobuf v1.30.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.8.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/mod v0.10.0, golang.org/x/net v0.10.0, golang.org/x/oauth2 v0.8.0, golang.org/x/sync v0.2.0, golang.org/x/sys 0.8.0, golang.org/x/term v0.8.0, golang.org/x/time v0.3.0, golang.org/x/tools v0.9.3, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/text v0.9.0, google/go-cmp v0.5.9, googleapis/gax-go v2.7.1, goproxy 20180725-snapshot-947c36da, grpc-gateway v2.15.0, ianlancetaylor/demangle 20230524-snapshot-eabc099b, mattn-go-colorable 0.1.13, mergo v0.3.13, miekg/dns v1.1.54, ovh/go-ovh v1.4.1, rogpeppe/go-internal v1.10.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, x2j 20191024-snapshot-82524943, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
+(dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, edsrzf/mmap-go 1.1.0, exp 20230517-snapshot-2e198f4a, fatih-color 1.14.1, fsnotify-fsnotify v1.6.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, glfw 20190408-snapshot-e6da0acd, glfw 20200222-snapshot-6f7a984d, Go programming language 1.23.2, Go support for Mobile devices 20190704-snapshot-d2bd2a29, go-zookeeper 20190923-snapshot-2cc03de4, go-zookeeper/zk v1.0.3, Golang Protobuf v1.30.0, Golang Protobuf v1.5.3, golang.org/x/crypto v0.8.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20210508-snapshot-6edffad5, golang.org/x/mod v0.10.0, golang.org/x/net v0.10.0, golang.org/x/oauth2 v0.8.0, golang.org/x/sys 0.8.0, golang.org/x/term v0.8.0, golang.org/x/time v0.3.0, golang.org/x/tools v0.9.3, golang.org/x/xerrors 20220907-snapshot-04be3eba, golang/sync v0.2.0, golang/text v0.9.0, google/go-cmp v0.5.9, googleapis/gax-go v2.7.1, goproxy 20180725-snapshot-947c36da, grpc-gateway v2.15.0, ianlancetaylor/demangle 20230524-snapshot-eabc099b, mattn-go-colorable 0.1.13, mergo v0.3.13, miekg/dns v1.1.54, ovh/go-ovh v1.4.1, rogpeppe/go-internal v1.10.0, sigs.k8s.io/json 20221116-snapshot-bc3834ca, x2j 20191024-snapshot-82524943, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
