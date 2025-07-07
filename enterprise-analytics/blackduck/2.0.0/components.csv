@@ -217,7 +217,7 @@
 215,Consul,api/v1.32.0,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,2e03fc5f-65b8-43b8-80cd-b3f2cee4bd41,3d6f1544-e27c-42f0-b8b2-473fb4305c9a,dde70004-f23f-437a-8982-c1aca19e3165
 216,Core functionality for the Reactor Netty library,1.0.39,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,dc18c7ed-fbe6-4b47-86f4-d30b87874693,b1931c72-0b5e-41c7-b45e-8e0bbdbf9d5a,7cae335f-1193-421e-92f1-8802b4243e93
 217,CoreOS,v0.3.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c55af4d6-d66b-42ec-aa08-60b9864096a9,72bbcfd3-408d-4714-b3d8-66bbed840bf1,7cae335f-1193-421e-92f1-8802b4243e93
-218,Couchbase Java SDK,3.7.9,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,24d30cc9-59fe-47e8-9672-b5b99f76eaec,c2ef8052-a589-424d-9542-8a9abf7f0ea9,7cae335f-1193-421e-92f1-8802b4243e93
+218,Couchbase Java SDK,3.8.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,24d30cc9-59fe-47e8-9672-b5b99f76eaec,c03f24cf-4aa7-4d72-8c43-2642b770dc71,7cae335f-1193-421e-92f1-8802b4243e93
 219,Curator Client,5.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,0c9e6eba-c8fe-483d-b4aa-74819f8af8a4,62b2e673-fdf6-491f-9b7d-c131df1f757e,7cae335f-1193-421e-92f1-8802b4243e93
 220,Curator Framework,5.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d34e4879-cd5a-429a-8b5f-21c59d2c5f18,4cce17e0-c79d-45e6-9688-9b7d0ba702bc,7cae335f-1193-421e-92f1-8802b4243e93
 221,Curator Recipes,5.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6aa803f2-57fe-433a-a3f1-07dd9baf6887,2d911c47-5354-4973-aeb3-6dbc4e32aaaa,7cae335f-1193-421e-92f1-8802b4243e93
@@ -288,7 +288,7 @@
 286,Jackson 2 extensions to the Google HTTP Client Library for Java.,1.45.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,46122256-f4a9-45c9-a091-8ccee2262276,48534143-b098-440c-b10f-05c3bb25e23f,7cae335f-1193-421e-92f1-8802b4243e93
 287,Jackson-Datatype-JSR310,2.13.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,69a1f40e-2423-412c-98e3-869fa0919e37,3562c104-7883-4b15-8be4-aa1e1f4c63d3,7cae335f-1193-421e-92f1-8802b4243e93
 288,Jackson-JAXRS-base,2.12.7,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b4c0d0ff-6ad5-4015-b78b-8ba573abe7af,c1e1a662-89dd-4c3b-8e32-e81eca4d4522,7cae335f-1193-421e-92f1-8802b4243e93
-289,Jackson-module-Afterburner,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eea33624-c4cb-4c71-8ef7-767642d1d611,667e456b-aa06-42ea-8d3f-3b05ac453a04,7cae335f-1193-421e-92f1-8802b4243e93
+289,Jackson-module-Afterburner,2.17.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eea33624-c4cb-4c71-8ef7-767642d1d611,853b6d24-10c5-45b9-a608-796809aa24e4,7cae335f-1193-421e-92f1-8802b4243e93
 290,Jakarta Activation API,1.2.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,fcc6905e-b4c4-4e41-ae1e-0ed870ba706b,f3146f1e-1432-41c7-9bb9-9c82375cec5c,3d238144-44e6-450e-b523-3defbdaed9dc
 291,Java Native Access (JNA),5.13.0,Direct Dependency,(GNU Lesser General Public License v2.1 or later OR Apache License 2.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,7e64c5f7-ceb0-4a7c-85e7-d9c840b5ee6e,bc2face3-5a88-42c6-95e0-79936a1c025f,"7cae335f-1193-421e-92f1-8802b4243e93,cff110eb-f85c-445c-9d3b-00a04b7f4cf0"
 292,Java Native Access (JNA),5.6.0,Direct Dependency,(GNU Lesser General Public License v2.1 or later OR Apache License 2.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,7e64c5f7-ceb0-4a7c-85e7-d9c840b5ee6e,a53f2b0d-75d8-410f-90f1-1cab5c6ba4d3,"7cae335f-1193-421e-92f1-8802b4243e93,cff110eb-f85c-445c-9d3b-00a04b7f4cf0"
@@ -492,7 +492,7 @@
 490,couchbase/query-ui,20250303-snapshot-b62458fd,Exact,Unknown License,UNKNOWN,NOT_REVIEWED,2dbe94f7-872f-4bab-bbdd-04d7575be94d,b6ae1a97-d99b-4fff-8910-10ef17e4fa00,00000000-0010-0000-0000-000000000000
 491,couchbase/tools-common,auth/v2.0.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,de76714b-fda5-45a2-a94c-211c93197fca,00000000-0010-0000-0000-000000000000
 492,couchbase/tools-common,cbbs/v1.2.2,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,8bcfc858-9950-4dc4-ba81-cdfe969f2b78,00000000-0010-0000-0000-000000000000
-493,couchbase/tools-common,cloud/v7.0.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,00173184-9460-4bda-a9a9-dce83380d360,00000000-0010-0000-0000-000000000000
+493,couchbase/tools-common,cloud/v7.2.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,6074fc76-0465-436b-9a14-9de47c4eaf9b,00000000-0010-0000-0000-000000000000
 494,couchbase/tools-common,core/v2.1.1,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,7d9cf41c-d973-4775-98d9-cc58897e2cfa,00000000-0010-0000-0000-000000000000
 495,couchbase/tools-common,couchbase/v3.3.8,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,8e8a8e4b-6de2-4bd1-be27-69295754674d,00000000-0010-0000-0000-000000000000
 496,couchbase/tools-common,databases/v1.0.6,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,8592570f-226e-4d3c-ae85-370fd6aac718,00000000-0010-0000-0000-000000000000
@@ -504,7 +504,7 @@
 502,couchbase/tools-common,strings/v1.0.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,a00288fe-6236-4cd5-b642-4c146caed6e8,00000000-0010-0000-0000-000000000000
 503,couchbase/tools-common,sync/v2.0.1,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,b887dcd0-65dc-40e5-abe0-d5204c83bf3f,00000000-0010-0000-0000-000000000000
 504,couchbase/tools-common,testing/v1.0.2,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,87680e9c-8035-4f48-befb-1825a2428d05,00000000-0010-0000-0000-000000000000
-505,couchbase/tools-common,types/v2.0.1,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,dd46f792-3d23-436b-ab24-97c4201df401,00000000-0010-0000-0000-000000000000
+505,couchbase/tools-common,types/v2.1.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,8e66d90e-da72-46c0-9c18-443b7569b7df,00000000-0010-0000-0000-000000000000
 506,couchbase/tools-common,utils/v3.1.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,af15c82f-7d5a-453f-99c2-f3f6ea462338,00000000-0010-0000-0000-000000000000
 507,couchbaselabs/gocaves,20250107-snapshot-f9647922,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2a29191b-0048-4c15-891f-60285d2fba83,ab2c1adc-1171-44f1-ad97-902c5f1562ad,7cae335f-1193-421e-92f1-8802b4243e93
 508,cpuguy83-go-md2man,2.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,63e94eee-d11d-47ab-bc8a-9bd56a0b11b6,a984ebc0-5399-412d-8a43-86df352faaa0,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -1199,11 +1199,11 @@
 1197,jackson-core,1.9.14-atlassian-6,Direct Dependency,(GNU Lesser General Public License v2.1 or later OR Apache License 2.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,8176df46-d301-4cb9-a771-0aa5a80d32ba,"7cae335f-1193-421e-92f1-8802b4243e93,cff110eb-f85c-445c-9d3b-00a04b7f4cf0"
 1198,jackson-core,2.12.7,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,2a8a7b28-9350-4dfa-8b61-731b172068ee,7cae335f-1193-421e-92f1-8802b4243e93
 1199,jackson-core,2.14.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,0adff68c-3953-428d-bddb-f774448a5131,7cae335f-1193-421e-92f1-8802b4243e93
-1200,jackson-core,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,98fbcdc9-d251-404f-992a-7ae09c99a4b5,7cae335f-1193-421e-92f1-8802b4243e93
+1200,jackson-core,2.17.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,3082dae8-dd9a-40a4-bed6-5d9d02eef0ab,7cae335f-1193-421e-92f1-8802b4243e93
 1201,jackson-core,2.18.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,43fe3b75-1143-47ee-8c6a-31b4a47f147c,7cae335f-1193-421e-92f1-8802b4243e93
 1202,jackson-databind,2.12.7.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,dbb1cbde-5a2f-4f64-9c8e-3453285f14e2,7cae335f-1193-421e-92f1-8802b4243e93
 1203,jackson-databind,2.14.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,8de5f947-3115-4635-a285-eaf96fd020d3,7cae335f-1193-421e-92f1-8802b4243e93
-1204,jackson-databind,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,10465899-a07b-4a84-9b2e-634c7f0230b6,7cae335f-1193-421e-92f1-8802b4243e93
+1204,jackson-databind,2.17.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,d0756b78-6c77-4fe1-bb41-989fcbbc24bd,7cae335f-1193-421e-92f1-8802b4243e93
 1205,jackson-databind,2.18.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,eddf60e2-9f48-473a-a5ad-c0656f655922,7cae335f-1193-421e-92f1-8802b4243e93
 1206,jackson-dataformat-binary,2.12.6,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d216126e-9670-4663-9027-49bc98e24754,d58e9991-33ac-4adb-9828-b6b8a1382da5,7cae335f-1193-421e-92f1-8802b4243e93
 1207,jackson-dataformat-csv,2.14.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9b61106e-aeec-4de8-835b-be842f0c62b6,431a6841-b070-4457-946d-2b125143e49a,7cae335f-1193-421e-92f1-8802b4243e93
@@ -1625,7 +1625,7 @@
 1623,Clone,1.0.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1e0cc6ab-6197-498a-a3ab-0a972a424025,37e1e13f-8d4e-4110-9166-41b973040aaf,ad705c59-6893-4980-bdbf-0837f1823cc4
 1624,Couchbase,v7.1.1,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2f1a87a6-12e2-4211-a369-4a37de3f8636,92e8f605-b5db-4ac7-8b58-af6eb602be94,7cae335f-1193-421e-92f1-8802b4243e93
 1625,Couchbase,v7.6.0,"Exact,Files Modified",Unknown License,UNKNOWN,NOT_REVIEWED,2f1a87a6-12e2-4211-a369-4a37de3f8636,6fb9f772-57bf-472d-8d60-5cb5ddad79e5,00000000-0010-0000-0000-000000000000
-1626,Couchbase JVM Core IO,3.8.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,72ed568b-e849-4f92-a4d1-df220cb2a423,dcf7002e-d052-44a7-b118-8dc4b4865f56,7cae335f-1193-421e-92f1-8802b4243e93
+1626,Couchbase JVM Core IO,3.8.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,72ed568b-e849-4f92-a4d1-df220cb2a423,6c22a017-e166-4a35-9e3e-547a020470c4,7cae335f-1193-421e-92f1-8802b4243e93
 1627,Flogger,0.7.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,90812105-9ad8-4c6a-becd-0ccbad969d4f,6673f0be-5978-4fd0-baf3-5f04a00e010e,7cae335f-1193-421e-92f1-8802b4243e93
 1628,FoundationDB,20200112-snapshot-407dc090,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5b0cbf71-d728-4f09-8f2e-7f98415a4def,14182ec5-68a3-41d3-9c93-7f38c3ae8415,7cae335f-1193-421e-92f1-8802b4243e93
 1629,Go Testify,v1.10.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,5271cd46-d193-4af5-b2c2-50a07751f580,a38ebf4c-4f3a-43eb-97db-bc15d0a76224,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -1844,7 +1844,7 @@
 1842,is-number,7.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,464f1ad5-5e53-4827-aea5-78b651105f4d,b06dfc37-9482-41f2-bb94-6f22b4b8dc40,ad705c59-6893-4980-bdbf-0837f1823cc4
 1843,jackson-annotations,2.12.7,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,87149c5d-6d7a-478c-a355-72c29005f377,7cae335f-1193-421e-92f1-8802b4243e93
 1844,jackson-annotations,2.14.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,3508c467-447f-436e-8378-78b265ac46b4,7cae335f-1193-421e-92f1-8802b4243e93
-1845,jackson-annotations,2.17.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,de6d70c3-6e81-4e22-802f-5afaf2ee1b10,7cae335f-1193-421e-92f1-8802b4243e93
+1845,jackson-annotations,2.17.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,5eed7358-4b3d-4cc6-b356-bc0d90f10967,7cae335f-1193-421e-92f1-8802b4243e93
 1846,jackson-annotations,2.18.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,1e9b5aaa-a460-45e2-abf2-73448151f5c1,7cae335f-1193-421e-92f1-8802b4243e93
 1847,jbcrypt,0.4,Direct Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,0e605e55-53f9-475e-8b41-ea157d93ebd2,397e90b8-134b-42bb-a0f5-19e0675ab52d,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
 1848,jersey-servlet,1.19.4,Direct Dependency,(Common Development and Distribution License 1.1 OR Sun GPL With Classpath Exception v2.0),"WEAK_RECIPROCAL,RECIPROCAL",NOT_REVIEWED,c24aeceb-071c-4c60-8272-d4acf05acf58,a2f67a9f-6467-4c09-84ea-d255d8fa103a,"728e8092-d99e-4a37-90d3-da7abfa33c6d,dd002c7d-e70a-479f-8af4-798e1b2bbd2d"
