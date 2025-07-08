@@ -323,6 +323,9 @@ beorn7-perks v1.0.1: https://github.com/beorn7/perks : MIT License
 bgentry-speakeasy 0.1.0: https://github.com/bgentry/speakeasy : Apache License 2.0
 bigfft 20230129-snapshot-24d4a6f8: https://github.com/remyoudompheng/bigfft : BSD 3-clause "New" or "Revised" License
 bits-and-blooms/bitset v1.2.2: https://github.com/bits-and-blooms/bitset : BSD 3-clause "New" or "Revised" License
+blackducksoftware_lodash 3.3.0: https://lodash.com/ : MIT License
+blackducksoftware_lodash 4.17.20: https://lodash.com/ : MIT License
+blackducksoftware_lodash 4.17.21: https://lodash.com/ : MIT License
 blackfriday v1.5.2: https://github.com/russross/blackfriday : BSD 3-clause "New" or "Revised" License
 blackfriday v2.1.0: https://github.com/russross/blackfriday : BSD 2-clause "Simplified" License
 blevesearch-go-porterstemmer v1.0.3: https://github.com/blevesearch/go-porterstemmer : MIT License
@@ -394,7 +397,7 @@ com.conversantmedia:disruptor 1.2.15: https://github.com/conversant/disruptor : 
 com.google.api.grpc:proto-google-cloud-monitoring-v3 3.31.0 : Apache License 2.0
 com.google.api.grpc:proto-google-common-protos 2.49.0 : Apache License 2.0
 com.google.api.grpc:proto-google-iam-v1 1.44.0 : Apache License 2.0
-Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
+Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
 commons-csv 1.12.0: http://commons.apache.org/proper/commons-csv/index.html : Apache License 2.0
 config-chain 1.1.13: https://github.com/dominictarr/config-chain : MIT License
 containerd/cgroups 20190919-snapshot-bf292b21: https://github.com/containerd/cgroups : Apache License 2.0
@@ -1261,9 +1264,6 @@ ljharb/object.assign 4.1.0: https://github.com/ljharb/object.assign : MIT Licens
 load-json-file 2.0.0: https://github.com/sindresorhus/load-json-file : MIT License
 locate-path 2.0.0: https://github.com/sindresorhus/locate-path : MIT License
 locate-path v6.0.0: https://github.com/sindresorhus/locate-path : MIT License
-Lodash 3.3.0: https://lodash.com/ : MIT License
-Lodash 4.17.20: https://lodash.com/ : MIT License
-Lodash 4.17.21: https://lodash.com/ : MIT License
 lodash.clonedeep 4.5.0: https://lodash.com/ : MIT License
 lodash.merge 4.6.2: https://lodash.com/ : MIT License
 lodash.truncate 4.4.2: https://lodash.com/ : MIT License
@@ -9838,7 +9838,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Lodash 3.3.0)
+(blackducksoftware_lodash 3.3.0)
 
 Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>
 Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,
@@ -15013,7 +15013,7 @@ SOFTWARE
 ---
 
 MIT License
-(Lodash 4.17.21, lodash.clonedeep 4.5.0, lodash.merge 4.6.2, lodash.truncate 4.4.2)
+(blackducksoftware_lodash 4.17.21, lodash.clonedeep 4.5.0, lodash.merge 4.6.2, lodash.truncate 4.4.2)
 
 ====
 
@@ -15066,7 +15066,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(Lodash 4.17.20)
+(blackducksoftware_lodash 4.17.20)
 
 License: Expat
 
