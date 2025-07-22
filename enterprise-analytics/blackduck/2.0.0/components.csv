@@ -199,7 +199,7 @@
 197,Code-Hex/go-generics-cache,v1.5.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,fcf9fd15-44eb-4480-8da6-8036cfea6fea,855a3763-693f-4b4a-9347-f68ffde34dce,ad705c59-6893-4980-bdbf-0837f1823cc4
 198,CodeMirror,5.56.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,42859e3b-a35d-497b-9ff6-52816ae6917d,ff806995-191a-4991-a254-a84aec160711,ad705c59-6893-4980-bdbf-0837f1823cc4
 199,Commander.js,v2.20.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,724e6d4a-85c0-47c3-9f28-9b5fc54b369d,5e250664-dc79-4d40-b23c-341450f34f59,ad705c59-6893-4980-bdbf-0837f1823cc4
-200,Consul,api/v1.32.0,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,2e03fc5f-65b8-43b8-80cd-b3f2cee4bd41,3d6f1544-e27c-42f0-b8b2-473fb4305c9a,dde70004-f23f-437a-8982-c1aca19e3165
+200,Consul,api/v1.32.0,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,REVIEWED,2e03fc5f-65b8-43b8-80cd-b3f2cee4bd41,3d6f1544-e27c-42f0-b8b2-473fb4305c9a,dde70004-f23f-437a-8982-c1aca19e3165
 201,Core functionality for the Reactor Netty library,1.0.39,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,dc18c7ed-fbe6-4b47-86f4-d30b87874693,b1931c72-0b5e-41c7-b45e-8e0bbdbf9d5a,7cae335f-1193-421e-92f1-8802b4243e93
 202,CoreOS,v0.3.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c55af4d6-d66b-42ec-aa08-60b9864096a9,72bbcfd3-408d-4714-b3d8-66bbed840bf1,7cae335f-1193-421e-92f1-8802b4243e93
 203,Couchbase Java SDK,3.8.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,24d30cc9-59fe-47e8-9672-b5b99f76eaec,c03f24cf-4aa7-4d72-8c43-2642b770dc71,7cae335f-1193-421e-92f1-8802b4243e93
@@ -351,7 +351,7 @@
 349,Strip ANSI,6.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0809e45c-41a9-4f4b-ba9d-1aa51a0c47dc,8a55a94f-869c-4677-a2c0-f9e84cfa6a84,ad705c59-6893-4980-bdbf-0837f1823cc4
 350,Swift Poet,1.5.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,793928ac-ac83-41b4-8c3e-b509b68bc608,3e7610d3-96b7-44e0-9268-10c59555a09f,7cae335f-1193-421e-92f1-8802b4243e93
 351,ThreeTen backport,1.7.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a9e8b388-262e-42fb-802b-6b81b1c64a5d,c3fc6404-b2d2-4782-afd5-f0dbb66d9271,3d238144-44e6-450e-b523-3defbdaed9dc
-352,Vault by HashiCorp,api/v1.20.0,Direct Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,67ca6ae2-63e9-4e4a-8973-26b1e1592521,0d68b1ed-ef80-41c3-801b-7f710edfc620,dde70004-f23f-437a-8982-c1aca19e3165
+352,Vault by HashiCorp,api/v1.20.0,Direct Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,REVIEWED,67ca6ae2-63e9-4e4a-8973-26b1e1592521,0d68b1ed-ef80-41c3-801b-7f710edfc620,dde70004-f23f-437a-8982-c1aca19e3165
 353,Wire,4.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2e5b5335-3a2a-495d-bc16-7eb43ad4c32a,15a069e5-2005-488c-a256-101a8669d023,7cae335f-1193-421e-92f1-8802b4243e93
 354,Wire,4.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8d62bfb8-832a-4b9a-86e8-5ee837b318c0,595de398-f296-4d20-b8c1-701fd972b36d,7cae335f-1193-421e-92f1-8802b4243e93
 355,Wire,4.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93a45c5a-af03-4a2f-b9e7-06cd55c5a13c,33277b34-12e4-4de4-bd8b-c8f330ab26ee,7cae335f-1193-421e-92f1-8802b4243e93
@@ -863,7 +863,7 @@
 861,hashicorp/go-sockaddr,v1.0.7,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,565e9561-bae5-400d-b59e-e39b978fc904,c13395b8-7a02-4fa9-b530-4f7c49048f59,ce3dd63e-c569-4cea-986a-46bc5efe9896
 862,hashicorp/hcl,v1.0.0,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,1d8bfe84-cbc2-4f1f-a820-02d43067a6b5,366a28c4-e791-4855-892c-91804de72776,ce3dd63e-c569-4cea-986a-46bc5efe9896
 863,hashicorp/hcl,v1.0.1-vault-7,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,1d8bfe84-cbc2-4f1f-a820-02d43067a6b5,58bd4b3d-856b-42ab-aed6-6fa283261825,ce3dd63e-c569-4cea-986a-46bc5efe9896
-864,hashicorp_nomad,20241218-snapshot-e3ac00f3,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,ff0fd13c-f05d-4d53-b0b4-8c6b03bd1892,81c18c6e-9d45-4bf7-8f46-f21127776ced,dde70004-f23f-437a-8982-c1aca19e3165
+864,hashicorp_nomad,20241218-snapshot-e3ac00f3,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,REVIEWED,ff0fd13c-f05d-4d53-b0b4-8c6b03bd1892,81c18c6e-9d45-4bf7-8f46-f21127776ced,dde70004-f23f-437a-8982-c1aca19e3165
 865,http-cache-semantics,4.1.0,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,8b04ec04-a74e-45b9-9178-bb192e84e09a,7930583a-4404-4e3d-91bc-d2b22c6e0998,cc875133-df38-4806-9921-473e0ef01a87
 866,httpcomponents-core,4.4.16,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ca433569-ea2e-4c78-b53d-106843ec1f58,f4c8d49f-84fc-4ffb-958b-a154a94e307b,7cae335f-1193-421e-92f1-8802b4243e93
 867,httpcomponents-core,5.2.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ca433569-ea2e-4c78-b53d-106843ec1f58,888a46f5-c4f0-447b-badf-415752e21e0a,7cae335f-1193-421e-92f1-8802b4243e93
