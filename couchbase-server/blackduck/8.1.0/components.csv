@@ -175,7 +175,7 @@
 173,Cloud Storage API v1beta1 (revision 28),v1-rev20241008-2.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a01fac88-6595-4aa6-b02e-3d56e991cf4f,5cf77a1a-4d40-41e0-bd02-64148c77a38f,7cae335f-1193-421e-92f1-8802b4243e93
 174,Code-Hex/go-generics-cache,v1.5.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,fcf9fd15-44eb-4480-8da6-8036cfea6fea,855a3763-693f-4b4a-9347-f68ffde34dce,ad705c59-6893-4980-bdbf-0837f1823cc4
 175,CodeMirror,5.56.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,42859e3b-a35d-497b-9ff6-52816ae6917d,ff806995-191a-4991-a254-a84aec160711,ad705c59-6893-4980-bdbf-0837f1823cc4
-176,Consul,api/v1.32.0,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,2e03fc5f-65b8-43b8-80cd-b3f2cee4bd41,3d6f1544-e27c-42f0-b8b2-473fb4305c9a,dde70004-f23f-437a-8982-c1aca19e3165
+176,Consul,api/v1.32.0,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,REVIEWED,2e03fc5f-65b8-43b8-80cd-b3f2cee4bd41,3d6f1544-e27c-42f0-b8b2-473fb4305c9a,dde70004-f23f-437a-8982-c1aca19e3165
 177,Core functionality for the Reactor Netty library,1.0.39,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,dc18c7ed-fbe6-4b47-86f4-d30b87874693,b1931c72-0b5e-41c7-b45e-8e0bbdbf9d5a,7cae335f-1193-421e-92f1-8802b4243e93
 178,Couchbase Java SDK,3.8.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,24d30cc9-59fe-47e8-9672-b5b99f76eaec,c03f24cf-4aa7-4d72-8c43-2642b770dc71,7cae335f-1193-421e-92f1-8802b4243e93
 179,Data Mapper for Jackson,1.9.14-atlassian-6,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2b7662cb-54ab-47fb-9836-3e8e7ed53005,95ddfc65-824e-4d2a-a640-5b7088cafe63,7cae335f-1193-421e-92f1-8802b4243e93
@@ -322,7 +322,7 @@
 320,Strip ANSI,7.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0809e45c-41a9-4f4b-ba9d-1aa51a0c47dc,2c9f347a-852e-423b-83c3-442deb7ec49e,ad705c59-6893-4980-bdbf-0837f1823cc4
 321,Swift Poet,1.5.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,793928ac-ac83-41b4-8c3e-b509b68bc608,3e7610d3-96b7-44e0-9268-10c59555a09f,7cae335f-1193-421e-92f1-8802b4243e93
 322,ThreeTen backport,1.7.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a9e8b388-262e-42fb-802b-6b81b1c64a5d,c3fc6404-b2d2-4782-afd5-f0dbb66d9271,3d238144-44e6-450e-b523-3defbdaed9dc
-323,Vault by HashiCorp,api/v1.20.0,Direct Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,67ca6ae2-63e9-4e4a-8973-26b1e1592521,0d68b1ed-ef80-41c3-801b-7f710edfc620,dde70004-f23f-437a-8982-c1aca19e3165
+323,Vault by HashiCorp,api/v1.20.0,Direct Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,REVIEWED,67ca6ae2-63e9-4e4a-8973-26b1e1592521,0d68b1ed-ef80-41c3-801b-7f710edfc620,dde70004-f23f-437a-8982-c1aca19e3165
 324,Wire,4.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2e5b5335-3a2a-495d-bc16-7eb43ad4c32a,15a069e5-2005-488c-a256-101a8669d023,7cae335f-1193-421e-92f1-8802b4243e93
 325,Wire,4.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93a45c5a-af03-4a2f-b9e7-06cd55c5a13c,33277b34-12e4-4de4-bd8b-c8f330ab26ee,7cae335f-1193-421e-92f1-8802b4243e93
 326,Wire,4.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,df36f1e8-2531-4c37-9a79-b8af9c9a13fd,f50886bd-ce24-42c2-bb56-af915455c529,7cae335f-1193-421e-92f1-8802b4243e93
@@ -856,7 +856,7 @@
 854,hashicorp/go-hclog,v1.6.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f18fcd8f-10dd-4eb1-9e65-8482a0fc6f5f,ccd79cec-2201-42a6-b69b-a302266cacb1,ad705c59-6893-4980-bdbf-0837f1823cc4
 855,hashicorp/go-sockaddr,v1.0.7,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,565e9561-bae5-400d-b59e-e39b978fc904,c13395b8-7a02-4fa9-b530-4f7c49048f59,ce3dd63e-c569-4cea-986a-46bc5efe9896
 856,hashicorp/hcl,v1.0.1-vault-7,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,1d8bfe84-cbc2-4f1f-a820-02d43067a6b5,58bd4b3d-856b-42ab-aed6-6fa283261825,ce3dd63e-c569-4cea-986a-46bc5efe9896
-857,hashicorp_nomad,20241218-snapshot-e3ac00f3,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,NOT_REVIEWED,ff0fd13c-f05d-4d53-b0b4-8c6b03bd1892,81c18c6e-9d45-4bf7-8f46-f21127776ced,dde70004-f23f-437a-8982-c1aca19e3165
+857,hashicorp_nomad,20241218-snapshot-e3ac00f3,Transitive Dependency,Business Source License 1.1,RESTRICTED_PROPRIETARY,REVIEWED,ff0fd13c-f05d-4d53-b0b4-8c6b03bd1892,81c18c6e-9d45-4bf7-8f46-f21127776ced,dde70004-f23f-437a-8982-c1aca19e3165
 858,hogan.js,3.0.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,32b53034-8d2d-4eee-9d36-8ded89129bbd,632498f0-a006-4807-bd41-63d14c358731,7cae335f-1193-421e-92f1-8802b4243e93
 859,htmlparser2,4.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7ed4ee23-2265-45fe-8bc4-ced14f28573e,df1022f9-2c50-4d78-973f-84f77ea8328f,ad705c59-6893-4980-bdbf-0837f1823cc4
 860,http-cache-semantics,4.1.0,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,8b04ec04-a74e-45b9-9178-bb192e84e09a,7930583a-4404-4e3d-91bc-d2b22c6e0998,cc875133-df38-4806-9921-473e0ef01a87
@@ -1317,7 +1317,7 @@
 1315,tar,v6.0.1,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,76fdd28b-3699-4874-8487-07334d337826,73c29349-93dc-4b84-9bd7-2d6355cc4389,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
 1316,terser,4.8.0,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,bece7dcf-5e8b-4300-89ad-1ec628d69320,4a56e23f-74b9-4754-a18d-66d81b9a66ec,cc875133-df38-4806-9921-473e0ef01a87
 1317,text-table,0.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,2d5a264b-c414-409b-b314-d3fbec08f9b7,1cb4d33a-a990-4e4e-b509-e98f2132048c,ad705c59-6893-4980-bdbf-0837f1823cc4
-1318,tgruben/roaring,v2.4.5,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,8ca72418-c496-416a-b7b6-acc1068e02c8,4ddf54a3-cdac-4c0e-b0b1-d27c2b6a47e3,00000000-0010-0000-0000-000000000000
+1318,tgruben/roaring,v2.4.5,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8ca72418-c496-416a-b7b6-acc1068e02c8,4ddf54a3-cdac-4c0e-b0b1-d27c2b6a47e3,7cae335f-1193-421e-92f1-8802b4243e93
 1319,through,2.3.8,Transitive Dependency,(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,81846dfd-c740-435d-a82b-0d3729e6c565,766133a5-48d9-4fd5-95bc-d767fdaca847,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 1320,tiny-emitter,1.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d95ad328-fee9-472e-9273-afabaf0f2062,77679a94-1978-413d-b5f7-7dc465504950,ad705c59-6893-4980-bdbf-0837f1823cc4
 1321,tklauser/go-sysconf,v0.3.15,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bb8cb6f3-ecb8-43e5-9904-37db44aff56d,c0edbdaa-4c92-474d-a55a-2fdbabde8e4c,3d238144-44e6-450e-b523-3defbdaed9dc
@@ -1853,7 +1853,7 @@
 1851,go-autorest,autorest/adal/v0.9.23,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2aaaa93f-ed10-483b-87ef-97702db5be0d,24ffb27b-edee-4108-a2a0-cdb7277220fa,7cae335f-1193-421e-92f1-8802b4243e93
 1852,go-autorest,autorest/date/v0.3.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2aaaa93f-ed10-483b-87ef-97702db5be0d,351c892a-27a3-45c9-8b88-06d11fd634a8,7cae335f-1193-421e-92f1-8802b4243e93
 1853,go-autorest,autorest/to/v0.4.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2aaaa93f-ed10-483b-87ef-97702db5be0d,83a282ee-58c2-4cd0-808b-6051eb6f73d4,7cae335f-1193-421e-92f1-8802b4243e93
-1854,go-autorest,autorest/to/v0.4.1,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,2aaaa93f-ed10-483b-87ef-97702db5be0d,6c15ebb0-d6eb-4cdf-99f0-d4d585157b54,00000000-0010-0000-0000-000000000000
+1854,go-autorest,autorest/to/v0.4.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2aaaa93f-ed10-483b-87ef-97702db5be0d,6c15ebb0-d6eb-4cdf-99f0-d4d585157b54,7cae335f-1193-421e-92f1-8802b4243e93
 1855,go-autorest,logger/v0.2.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2aaaa93f-ed10-483b-87ef-97702db5be0d,d76d96b5-033c-4027-a58d-d0f1aeefb15f,7cae335f-1193-421e-92f1-8802b4243e93
 1856,go-autorest,tracing/v0.6.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2aaaa93f-ed10-483b-87ef-97702db5be0d,5e1ffd95-55ef-4b21-a8a0-b1eaebf690f2,7cae335f-1193-421e-92f1-8802b4243e93
 1857,go-autorest,v14.2.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2aaaa93f-ed10-483b-87ef-97702db5be0d,025c8249-62c1-4d24-bee7-f58d9871e8e1,7cae335f-1193-421e-92f1-8802b4243e93
@@ -2169,7 +2169,7 @@
 2167,jackson-dataformat-binary,2.12.6,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d216126e-9670-4663-9027-49bc98e24754,d58e9991-33ac-4adb-9828-b6b8a1382da5,7cae335f-1193-421e-92f1-8802b4243e93
 2168,jakartaeevalidation,2.0.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7cd5265c-4925-4b4c-a539-fbc89713c9cb,8efcb1c2-f8c2-452d-8523-7bc30ee0f1d1,7cae335f-1193-421e-92f1-8802b4243e93
 2169,jbcrypt,0.4,Direct Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,0e605e55-53f9-475e-8b41-ea157d93ebd2,397e90b8-134b-42bb-a0f5-19e0675ab52d,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
-2170,jersey-json,1.22.0,Direct Dependency,(GNU General Public License v2.0 w/Classpath exception AND Common Development and Distribution License 1.1),"WEAK_RECIPROCAL,RECIPROCAL",NOT_REVIEWED,9ba605f1-308f-4a06-9762-60a6273c7936,871b8131-0516-4c07-b2fb-9beb1778697a,"dd002c7d-e70a-479f-8af4-798e1b2bbd2d,9b7eb3ce-d64b-4e3e-a6b7-55d4dc798e68"
+2170,jersey-json,1.22.0,Direct Dependency,(GNU General Public License v2.0 w/Classpath exception AND Common Development and Distribution License 1.1),"WEAK_RECIPROCAL,RECIPROCAL",REVIEWED,9ba605f1-308f-4a06-9762-60a6273c7936,871b8131-0516-4c07-b2fb-9beb1778697a,"dd002c7d-e70a-479f-8af4-798e1b2bbd2d,9b7eb3ce-d64b-4e3e-a6b7-55d4dc798e68"
 2171,jffi - Java Foreign Function Interface,1.3.13,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8f90da8d-d134-43ba-8dfd-063c3bcdc825,2993e967-6fd4-47f6-8ea2-1190ca97ba77,7cae335f-1193-421e-92f1-8802b4243e93
 2172,jnr-ffi,2.2.16,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eab18f49-5e31-43a2-9fca-cf029bf13ad1,1e52840d-ec4d-46ff-8412-1cb13977a4b8,7cae335f-1193-421e-92f1-8802b4243e93
 2173,josharian/intern,v1.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,252546ce-c26d-4055-9d8a-81d3332fb91b,3748bb19-1073-4535-bca2-74fd8dc8cb4f,ad705c59-6893-4980-bdbf-0837f1823cc4
