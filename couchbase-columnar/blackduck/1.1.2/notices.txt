@@ -425,7 +425,6 @@ Bouncy Castle 1.79: http://www.bouncycastle.org : (MIT License AND Apache Licens
 Bouncy Castle ASN.1 Extension and Utility APIs 1.79 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://www.bouncycastle.org/java.html : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
-braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 brotli v1.1.0: https://github.com/google/brotli : MIT License
 browserify/resolve v1.17.0: https://github.com/browserify/resolve : MIT License
@@ -489,7 +488,7 @@ com.google.api.grpc:proto-google-common-protos 2.48.0 : Apache License 2.0
 com.google.api.grpc:proto-google-common-protos 2.49.0 : Apache License 2.0
 com.google.api.grpc:proto-google-iam-v1 1.44.0 : Apache License 2.0
 com.google.cloud.bigdataoss:util 2.2.25 : Apache License 2.0
-Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
 commons-csv 1.12.0: http://commons.apache.org/proper/commons-csv/index.html : Apache License 2.0
 config-chain 1.1.13: https://github.com/dominictarr/config-chain : MIT License
 Consul api/v1.25.1: http://www.consul.io : Mozilla Public License 2.0
@@ -823,6 +822,7 @@ glob-parent 6.0.2: https://github.com/es128/glob-parent : ISC License
 glob-parent v5.1.1: https://github.com/es128/glob-parent : ISC License
 glog 0.4.0: https://github.com/google/glog : BSD 3-clause "New" or "Revised" License
 Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
+Go Logrus v1.6.0: https://github.com/sirupsen/logrus : MIT License
 Go programming language 0.0~git20190125.d66bd3c+ds: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.2: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.4: http://golang.org/ : BSD 3-clause "New" or "Revised" License
@@ -1599,7 +1599,7 @@ jmespath-go-jmespath v0.4.0: https://github.com/jmespath/go-jmespath : Apache Li
 jnr-a64asm 1.0.0 : Apache License 2.0
 jnr-constants 0.10.4: http://github.com/jnr/jnr-constants : Apache License 2.0
 jnr-ffi 2.2.16: http://github.com/jnr/jnr-ffi : Apache License 2.0
-jnr-posix 3.1.19: https://github.com/jnr/jnr-posix : (GNU Lesser General Public License v2.1 or later AND GNU General Public License v2.0 or later AND Eclipse Public License 2.0)
+jnr-posix 3.1.19: https://github.com/jnr/jnr-posix : (GNU Lesser General Public License v2.1 or later OR GNU General Public License v2.0 or later OR Eclipse Public License 2.0)
 jnr-x86asm 1.0.2: http://github.com/wmeissner/jnr-x86asm : MIT License
 Joda Time 2.8.1: http://joda-time.sourceforge.net/ : Apache License 2.0
 josharian/intern v1.0.0: https://github.com/josharian/intern : MIT License
@@ -1731,6 +1731,7 @@ Merge-Stream 2.0.0: https://github.com/grncdr/merge-stream : MIT License
 mergo v0.3.16: https://github.com/imdario/mergo : BSD 3-clause "New" or "Revised" License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsoft Azure client library for Blob Storage batching 12.23.0 : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.18.1 : MIT License
 Microsoft Azure client library for Identity 1.13.3 : MIT License
@@ -2068,7 +2069,6 @@ sindresorhus/globals 13.23.0: https://github.com/sindresorhus/globals : MIT Lice
 sindresorhus/got 10.7.0: https://github.com/sindresorhus/got : MIT License
 sindresorhus/normalize-url v4.5.0: https://github.com/sindresorhus/normalize-url : MIT License
 sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT License
-Sirupsen/logrus v1.6.0: https://github.com/sirupsen/logrus : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
 slice-ansi 2.1.0: https://github.com/chalk/slice-ansi#readme : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -13196,7 +13196,32 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(editorconfig-core-c 0.15.3)
+
+Copyright © 2012 EditorConfig Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -13236,31 +13261,6 @@ Permission is hereby granted, free of charge, to any person
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
-
----
-
-MIT License
-(editorconfig-core-c 0.15.3)
-
-Copyright © 2012 EditorConfig Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
 
 ---
 
@@ -14745,7 +14745,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Sirupsen/logrus v1.6.0)
+(Go Logrus v1.6.0)
 
 Source: https://github.com/sirupsen/logrus
 
