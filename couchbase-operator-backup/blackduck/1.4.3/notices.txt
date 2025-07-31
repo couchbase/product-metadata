@@ -161,7 +161,6 @@ github.com/yusufpapurcu/wmi v1.2.3 : MIT License
 glfw 20190408-snapshot-e6da0acd: https://pkg.go.dev/golang.org/x/exp/shiny : BSD 3-clause "New" or "Revised" License
 glfw 20200222-snapshot-6f7a984d: https://pkg.go.dev/golang.org/x/exp/shiny : BSD 3-clause "New" or "Revised" License
 Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
-Go Logrus v1.6.0: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.22.7: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.8.4: https://github.com/stretchr/testify : MIT License
@@ -419,7 +418,7 @@ hashicorp/hcl v1.0.1-vault-5: https://github.com/hashicorp/hcl : Mozilla Public 
 hetznercloud/hcloud-go v2.4.0: https://github.com/hetznercloud/hcloud-go : MIT License
 huandu/xstrings v1.3.2: http://github.com/huandu/xstrings/ : MIT License
 ianlancetaylor/demangle 20181102-snapshot-5e5cf602: https://github.com/ianlancetaylor/demangle : BSD 3-clause "New" or "Revised" License
-idan/oauthlib 3.3.1: https://github.com/idan/oauthlib : BSD 3-clause "New" or "Revised" License
+idan/oauthlib 3.3.1: https://github.com/oauthlib/oauthlib : BSD 3-clause "New" or "Revised" License
 idna 3.10: https://github.com/kjd/idna : BSD 3-clause "New" or "Revised" License
 inconshreveable/mousetrap v1.1.0: https://github.com/inconshreveable/mousetrap : Apache License 2.0
 ionos-cloud/sdk-go v6.1.9: https://github.com/ionos-cloud/sdk-go : Apache License 2.0
@@ -528,6 +527,7 @@ shopspring-decimal v1.2.0: https://github.com/shopspring/decimal : MIT License
 shurcooL/httpfs 20230704-snapshot-f1e31cf0: https://github.com/shurcooL/httpfs : MIT License
 sigs.k8s.io/json 20221116-snapshot-bc3834ca: https://github.com/kubernetes-sigs/json : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 sigs.k8s.io/yaml v1.3.0: https://github.com/kubernetes-sigs/yaml : Apache License 2.0
+Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
 spf13-cast v1.3.1: https://github.com/spf13/cast : MIT License
 spf13-cobra 1.8.0: https://github.com/spf13/cobra : Apache License 2.0
 stretchr/objx v0.5.1: https://github.com/stretchr/objx : MIT License
@@ -2684,7 +2684,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.6.0)
+(Sirupsen/logrus v1.6.0)
 
 Source: https://github.com/sirupsen/logrus
 
