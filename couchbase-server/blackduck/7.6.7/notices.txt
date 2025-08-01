@@ -202,15 +202,15 @@ Angular 1.8.0: http://code.google.com/p/angula : MIT License
 Angular 8.2.14: http://code.google.com/p/angula : MIT License
 Angular UI Bootstrap 1.2.0: http://angular-ui.github.io/bootstrap/ : MIT License
 angular-hybrid 10.0.1: https://github.com/ui-router/angular-hybrid : MIT License
-angular-ui-tree/angular-ui-tree 2.22.6: https://github.com/angular-ui-tree/angular-ui-tree : MIT License
+angular-ui-tree 2.22.6: https://github.com/JimLiu/angular-ui-tree : MIT License
 Animal Sniffer Annotations 1.24: https://www.mojohaus.org/animal-sniffer/animal-sniffer-annotations/ : MIT License
 ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
 ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
 Apache Commons Codec 1.17.1: https://github.com/apache/commons-codec : Apache License 2.0
 Apache Commons Collections 3.2.2: http://commons.apache.org/proper/commons-collections/ : Apache License 2.0
 Apache Commons Collections 4.4: http://commons.apache.org/proper/commons-collections/ : Apache License 2.0
@@ -407,6 +407,7 @@ Bouncy Castle 1.79: http://www.bouncycastle.org : (MIT License AND Apache Licens
 Bouncy Castle ASN.1 Extension and Utility APIs 1.79 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://www.bouncycastle.org/java.html : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
+braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 brotli v1.1.0: https://github.com/google/brotli : MIT License
 browserify/resolve v1.17.0: https://github.com/browserify/resolve : MIT License
@@ -497,7 +498,7 @@ couchbase/cbft : Business Source License 1.1
 couchbase/cbsummary 20240815-snapshot-b93a39e6 : 
 couchbase/couchstore v7.6.6-MP1 : Apache License 2.0
 couchbase/go-slab 20220302-snapshot-e47646b4 : Apache License 2.0
-couchbase/go_json 20230326-snapshot-d6e17ad2: https://github.com/couchbase/go_json : 
+couchbase/go_json 20230326-snapshot-d6e17ad2 : 
 couchbase/gocbcore v10.1.6 : Apache License 2.0
 couchbase/gocbcore v10.5.2 : Apache License 2.0
 couchbase/gocbcore v10.5.4 : Apache License 2.0
@@ -780,7 +781,6 @@ glob-parent 6.0.2: https://github.com/es128/glob-parent : ISC License
 glob-parent v5.1.1: https://github.com/es128/glob-parent : ISC License
 glog 0.4.0: https://github.com/google/glog : BSD 3-clause "New" or "Revised" License
 Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
-Go Logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
 Go programming language 0.0~git20190125.d66bd3c+ds: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.2: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.23.4: http://golang.org/ : BSD 3-clause "New" or "Revised" License
@@ -1541,7 +1541,6 @@ Merge-Stream 2.0.0: https://github.com/grncdr/merge-stream : MIT License
 mergo v0.3.16: https://github.com/imdario/mergo : BSD 3-clause "New" or "Revised" License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
-micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.18.1 : MIT License
 Microsoft Azure client library for Identity 1.13.3 : MIT License
 Microsoft Azure common module for Storage 12.24.1 : MIT License
@@ -1867,6 +1866,7 @@ sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-colo
 sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
 sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
 sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
+Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
 slice-ansi 2.1.0: https://github.com/chalk/slice-ansi#readme : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -12520,32 +12520,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(editorconfig-core-c 0.15.3)
-
-Copyright © 2012 EditorConfig Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
-
----
-
-MIT License
-(micromatch/braces 3.0.2)
+(braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -12585,6 +12560,31 @@ Permission is hereby granted, free of charge, to any person
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
+
+---
+
+MIT License
+(editorconfig-core-c 0.15.3)
+
+Copyright © 2012 EditorConfig Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
 
 ---
 
@@ -13684,7 +13684,7 @@ SOFTWARE
 ---
 
 MIT License
-(angular-ui-tree/angular-ui-tree 2.22.6)
+(angular-ui-tree 2.22.6)
 
 The MIT License (MIT)
 
@@ -14015,7 +14015,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.6.0)
+(Sirupsen/logrus v1.6.0)
 
 Source: https://github.com/sirupsen/logrus
 
