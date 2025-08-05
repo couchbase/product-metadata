@@ -407,7 +407,6 @@ Bouncy Castle 1.79: http://www.bouncycastle.org : (MIT License AND Apache Licens
 Bouncy Castle ASN.1 Extension and Utility APIs 1.79 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://www.bouncycastle.org/java.html : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
-braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 brotli v1.1.0: https://github.com/google/brotli : MIT License
 browserify/resolve v1.17.0: https://github.com/browserify/resolve : MIT License
@@ -1541,6 +1540,7 @@ Merge-Stream 2.0.0: https://github.com/grncdr/merge-stream : MIT License
 mergo v0.3.16: https://github.com/imdario/mergo : BSD 3-clause "New" or "Revised" License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.18.1 : MIT License
 Microsoft Azure client library for Identity 1.13.3 : MIT License
 Microsoft Azure common module for Storage 12.24.1 : MIT License
@@ -1785,7 +1785,7 @@ pycryptodome 3.20.0: https://www.pycryptodome.org : (BSD 2-clause "Simplified" L
 pyOpenSSL 24.2.1: https://launchpad.net/pyopenssl : Apache License 2.0
 PySocks 1.7.1: http://pypi.python.org/pypi/PySocks : BSD 3-clause "New" or "Revised" License
 python cffi 1.16.0: https://cffi.readthedocs.io/en/latest/index.html : MIT License
-Python programming language 3.11.8: https://www.python.org/ : Python Software Foundation License 2.0
+Python programming language 3.11.8: https://www.python.org : Python Software Foundation License 2.0
 python-certifi 2024.07.04: https://certifiio.readthedocs.io/en/latest/ : Mozilla Public License 2.0
 python-hpack 4.0.0: https://github.com/python-hyper/HPACK : MIT License
 python-pem 21.2.0: https://github.com/hynek/pem : MIT License
@@ -1851,7 +1851,7 @@ shebang-regex 3.0.0: https://github.com/sindresorhus/shebang-regex : MIT License
 shopspring-decimal v1.2.0: https://github.com/shopspring/decimal : MIT License
 shurcooL/httpfs 20230704-snapshot-f1e31cf0: https://github.com/shurcooL/httpfs : MIT License
 sigmund 1.0.1: https://github.com/isaacs/sigmund : ISC License
-signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
+signal-exit v3.0.3: https://github.com/tapjs/signal-exit : ISC License
 sigs.k8s.io/json 20221116-snapshot-bc3834ca: https://github.com/kubernetes-sigs/json : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 sigs.k8s.io/yaml v1.3.0: https://github.com/kubernetes-sigs/yaml : Apache License 2.0
 simdutf 3.2.14: https://github.com/simdutf/simdutf : Apache License 2.0
@@ -1862,11 +1862,11 @@ sindresorhus/globals 13.23.0: https://github.com/sindresorhus/globals : MIT Lice
 sindresorhus/got 10.7.0: https://github.com/sindresorhus/got : MIT License
 sindresorhus/normalize-url v4.5.0: https://github.com/sindresorhus/normalize-url : MIT License
 sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
-Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
+Sirupsen/logrus v1.6.0: https://github.com/sirupsen/logrus : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
 slice-ansi 2.1.0: https://github.com/chalk/slice-ansi#readme : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -12520,7 +12520,32 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(editorconfig-core-c 0.15.3)
+
+Copyright © 2012 EditorConfig Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
@@ -12560,31 +12585,6 @@ Permission is hereby granted, free of charge, to any person
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
-
----
-
-MIT License
-(editorconfig-core-c 0.15.3)
-
-Copyright © 2012 EditorConfig Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE
 
 ---
 
