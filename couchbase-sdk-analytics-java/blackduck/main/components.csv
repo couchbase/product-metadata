@@ -4,11 +4,11 @@
 2,Kotlin,2.1.21,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ecbf67e0-977b-40dd-830d-42c44c595a57,25c3ad2b-519e-41b2-935e-3cf4aef83f90,7cae335f-1193-421e-92f1-8802b4243e93
 3,OkHttp,4.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2b921d88-c1ab-4304-bf45-7110c1ca49f7,0c9a4005-ed69-46ff-8ff7-305e29e5ca32,7cae335f-1193-421e-92f1-8802b4243e93
 4,OkHttp Transport Layer Security (TLS),4.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,be16bc02-f986-429c-a542-dd524ab551d4,39d463f1-a83b-40e8-8cdc-7f2ae4998e85,7cae335f-1193-421e-92f1-8802b4243e93
-5,SLF4J API Module,2.0.17,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ca782761-ef54-4eb6-b7f0-b9fbb15a0698,6cfa3541-df06-48b7-bb91-4ba7ddd20057,ad705c59-6893-4980-bdbf-0837f1823cc4
-6,jackson-annotations,2.19.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,34e1a61f-ff80-48b3-9f0d-7e2fac528ddd,7cae335f-1193-421e-92f1-8802b4243e93
-7,jackson-core,2.19.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,608f70c6-9425-4c8a-9044-edf4f9dabbe4,7cae335f-1193-421e-92f1-8802b4243e93
-8,jackson-databind,2.19.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,b4d03b4b-a357-494e-b1ed-b1fd6a655611,7cae335f-1193-421e-92f1-8802b4243e93
-9,json-skiff,1.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,04fd74cf-1d60-47ae-b36d-e9e3ca1f9e96,5229cf44-6bb5-4db1-95d6-d3fca47a54bb,7cae335f-1193-421e-92f1-8802b4243e93
-10,reactive-streams,1.0.4,Transitive Dependency,MIT No Attribution,PERMISSIVE,NOT_REVIEWED,f00e23b5-eb1d-4939-93bb-4cbf7dedffb0,07e06202-b19b-4688-aa7c-275395b70a19,3f2f93af-991e-4604-b57c-a2fef0f8781e
-11,reactor-core,3.7.6,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,6130fde9-d277-4d0e-a4fe-160b8de6e341,7cae335f-1193-421e-92f1-8802b4243e93
-12,squareokio,3.12.0,"Direct Dependency,Transitive Dependency",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,92a62dae-28ba-467b-a999-60e889d11a58,7a19d9a0-2fc3-41a2-aa5e-0d08b0f69806,7cae335f-1193-421e-92f1-8802b4243e93
+5,OkIO,3.12.0,"Direct Dependency,Transitive Dependency",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,92a62dae-28ba-467b-a999-60e889d11a58,7a19d9a0-2fc3-41a2-aa5e-0d08b0f69806,7cae335f-1193-421e-92f1-8802b4243e93
+6,SLF4J API Module,2.0.17,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ca782761-ef54-4eb6-b7f0-b9fbb15a0698,6cfa3541-df06-48b7-bb91-4ba7ddd20057,ad705c59-6893-4980-bdbf-0837f1823cc4
+7,jackson-annotations,2.19.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,34e1a61f-ff80-48b3-9f0d-7e2fac528ddd,7cae335f-1193-421e-92f1-8802b4243e93
+8,jackson-core,2.19.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,608f70c6-9425-4c8a-9044-edf4f9dabbe4,7cae335f-1193-421e-92f1-8802b4243e93
+9,jackson-databind,2.19.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,b4d03b4b-a357-494e-b1ed-b1fd6a655611,7cae335f-1193-421e-92f1-8802b4243e93
+10,json-skiff,1.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,04fd74cf-1d60-47ae-b36d-e9e3ca1f9e96,5229cf44-6bb5-4db1-95d6-d3fca47a54bb,7cae335f-1193-421e-92f1-8802b4243e93
+11,reactive-streams,1.0.4,Transitive Dependency,MIT No Attribution,PERMISSIVE,NOT_REVIEWED,f00e23b5-eb1d-4939-93bb-4cbf7dedffb0,07e06202-b19b-4688-aa7c-275395b70a19,3f2f93af-991e-4604-b57c-a2fef0f8781e
+12,reactor-core,3.7.6,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,6130fde9-d277-4d0e-a4fe-160b8de6e341,7cae335f-1193-421e-92f1-8802b4243e93
