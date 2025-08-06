@@ -59,7 +59,7 @@
 57,ms.js,2.1.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,36cb81b8-10ef-4223-ac3e-1ad33244d3fa,4dfff015-8550-4612-a6f0-bbcae347e7f2,ad705c59-6893-4980-bdbf-0837f1823cc4
 58,node-addon-api,8.5.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,2d55b985-f40c-461f-b264-bf49291c22bc,5375b994-6987-4cff-9f9d-46b18687b933,ad705c59-6893-4980-bdbf-0837f1823cc4
 59,node-api-headers,1.5.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,5e5835d2-8fb7-4d29-a646-59cefd3c9e94,00b34099-5a9f-4c16-9d9d-639b6bad4da5,ad705c59-6893-4980-bdbf-0837f1823cc4
-60,node-fs-extra,11.3.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f86e7ece-e9db-4533-a637-53fb9fd1f0d2,246752da-2107-4379-8343-fbd21d559be9,ad705c59-6893-4980-bdbf-0837f1823cc4
+60,node-fs-extra,11.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f86e7ece-e9db-4533-a637-53fb9fd1f0d2,f1c91567-42e6-4eea-9156-2fb4703548dd,ad705c59-6893-4980-bdbf-0837f1823cc4
 61,node-graceful-fs,4.2.11,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,41b6a08a-2d34-45e2-85db-601cdd98a4b3,edf34284-60c6-4212-896d-b28285539e5b,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
 62,node-jsonfile,6.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6a3d6da9-6114-44b9-85fb-6572f84d7975,2ed7c41e-b760-400e-a436-147d98e0b1af,ad705c59-6893-4980-bdbf-0837f1823cc4
 63,node-mkdirp,1.0.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e264bf55-1def-40d7-bd57-661762065c64,e54f6fe6-dffa-4c02-a5d3-7e0a1a6ffa58,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -73,11 +73,11 @@
 71,require-directory,2.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,deeba078-6cc9-4700-ae90-047b55ac9b10,42c51eb8-443a-4529-af93-9ea62dd1ce9c,ad705c59-6893-4980-bdbf-0837f1823cc4
 72,safe-buffer,5.2.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,4fe0a49d-954b-4e9d-aa2b-ef7c16385b38,507117d9-e777-4319-8d03-ef2c030cc58c,ad705c59-6893-4980-bdbf-0837f1823cc4
 73,set-blocking,2.0.0,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,571611bc-87c6-4e31-9aea-2cac10b5836d,9559e862-8b61-43c4-8cfd-a95b781f2da3,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
-74,spdlog,v1.15.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,7785114c-5b78-4aad-8771-72a739a1f06e,9ec3f6f6-7f4f-4672-9bbf-9921da16be88,ad705c59-6893-4980-bdbf-0837f1823cc4
-75,string-width,4.2.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,62093f41-55ce-46db-ba50-be53b9d4308f,8fd84296-a686-412f-a9ba-18efd1d119ce,ad705c59-6893-4980-bdbf-0837f1823cc4
-76,strip-json-comments,2.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ab3f4f23-87c3-4822-93f1-2fc7f1f4188a,39d355c2-4e49-4915-86e1-7d1468727adf,ad705c59-6893-4980-bdbf-0837f1823cc4
-77,taocpp/json,1.0.0-beta.14,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,cae0f7d2-4279-473a-9f71-eabdd121d2e3,63f87283-1e50-4437-9033-f91753daba72,ad705c59-6893-4980-bdbf-0837f1823cc4
-78,tapjs/signal-exit,3.0.7,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,1984a43c-890f-4b42-80da-bd18c6664889,baf7fd65-5991-420e-be67-ddab1e8ac1da,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
+74,signal-exit,3.0.7,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,1984a43c-890f-4b42-80da-bd18c6664889,baf7fd65-5991-420e-be67-ddab1e8ac1da,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
+75,spdlog,v1.15.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,7785114c-5b78-4aad-8771-72a739a1f06e,9ec3f6f6-7f4f-4672-9bbf-9921da16be88,ad705c59-6893-4980-bdbf-0837f1823cc4
+76,string-width,4.2.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,62093f41-55ce-46db-ba50-be53b9d4308f,8fd84296-a686-412f-a9ba-18efd1d119ce,ad705c59-6893-4980-bdbf-0837f1823cc4
+77,strip-json-comments,2.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ab3f4f23-87c3-4822-93f1-2fc7f1f4188a,39d355c2-4e49-4915-86e1-7d1468727adf,ad705c59-6893-4980-bdbf-0837f1823cc4
+78,taocpp/json,1.0.0-beta.14,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,cae0f7d2-4279-473a-9f71-eabdd121d2e3,63f87283-1e50-4437-9033-f91753daba72,ad705c59-6893-4980-bdbf-0837f1823cc4
 79,tar,6.2.1,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,76fdd28b-3699-4874-8487-07334d337826,3cf6254a-0a1c-4e43-8434-c12458418f59,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
 80,universalify,2.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a818221d-e6c5-4b3b-98ce-d63213a1f681,062177c3-5fdd-480d-b97a-2d1700b99b33,ad705c59-6893-4980-bdbf-0837f1823cc4
 81,urljoin,4.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,81b6b19d-e1fb-4539-b79f-1f9c42436ab4,be4f20f5-dd1c-46d9-b5d1-32a8a570b8f5,ad705c59-6893-4980-bdbf-0837f1823cc4
