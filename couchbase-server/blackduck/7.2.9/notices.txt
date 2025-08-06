@@ -576,10 +576,10 @@ ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
 Apache Arrow go/v11.0.0: http://arrow.apache.org/ : Apache License 2.0
 Apache Arrow go/v12.0.0: http://arrow.apache.org/ : Apache License 2.0
@@ -880,9 +880,9 @@ com.google.api.grpc:proto-google-cloud-monitoring-v3 3.31.0 : Apache License 2.0
 com.google.api.grpc:proto-google-common-protos 2.49.0 : Apache License 2.0
 com.google.api.grpc:proto-google-iam-v1 1.44.0 : Apache License 2.0
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
-Commander.js 8.3.0: https://github.com/tj/commander.js : MIT License
-Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
+Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 8.3.0: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
 common-tags 1.8.2: https://github.com/zspecza/common-tags : MIT License
 commons-csv 1.12.0: http://commons.apache.org/proper/commons-csv/index.html : Apache License 2.0
 compression 1.7.4: https://github.com/expressjs/compression : MIT License
@@ -3033,6 +3033,7 @@ side-channel-map 1.0.1: https://github.com/ljharb/side-channel-map#readme : MIT 
 side-channel-weakmap 1.0.2: https://github.com/ljharb/side-channel-weakmap#readme : MIT License
 sigmund 1.0.1: https://github.com/isaacs/sigmund : ISC License
 signal-exit 3.0.7: https://github.com/bcoe/signal-exit : ISC License
+signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
 sigs.k8s.io/json 20221116-snapshot-bc3834ca: https://github.com/kubernetes-sigs/json : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 sigs.k8s.io/yaml v1.3.0: https://github.com/kubernetes-sigs/yaml : Apache License 2.0
 simonpasquier/klog-gokit v0.3.0: https://github.com/simonpasquier/klog-gokit : Apache License 2.0
@@ -3152,7 +3153,6 @@ symbol-tree 3.2.4: https://github.com/Joris-van-der-Wel/js-symbol-tree#readme : 
 tailwindcss 3.1.8: https://github.com/tailwindcss/tailwindcss#readme : MIT License
 tapable 1.1.3: https://github.com/webpack/tapable : MIT License
 tapable 2.2.1: https://github.com/webpack/tapable : MIT License
-tapjs/signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
 tar v6.0.1: https://github.com/isaacs/node-tar : ISC License
 tdegrunt/jsonschema 1.2.6: https://github.com/tdegrunt/jsonschema : MIT License
 temp-dir 2.0.0: https://github.com/sindresorhus/temp-dir#readme : MIT License
@@ -12384,7 +12384,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(tapjs/signal-exit v3.0.3)
+(signal-exit v3.0.3)
 
 Upstream-Contact: https://github.com/tapjs/signal-exit/issues
 Source: https://github.com/tapjs/signal-exit
