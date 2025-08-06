@@ -418,7 +418,7 @@ hashicorp/hcl v1.0.1-vault-5: https://github.com/hashicorp/hcl : Mozilla Public 
 hetznercloud/hcloud-go v2.4.0: https://github.com/hetznercloud/hcloud-go : MIT License
 huandu/xstrings v1.3.2: http://github.com/huandu/xstrings/ : MIT License
 ianlancetaylor/demangle 20181102-snapshot-5e5cf602: https://github.com/ianlancetaylor/demangle : BSD 3-clause "New" or "Revised" License
-idan/oauthlib 3.3.1: https://github.com/oauthlib/oauthlib : BSD 3-clause "New" or "Revised" License
+idan/oauthlib 3.3.1: https://github.com/idan/oauthlib : BSD 3-clause "New" or "Revised" License
 idna 3.10: https://github.com/kjd/idna : BSD 3-clause "New" or "Revised" License
 inconshreveable/mousetrap v1.1.0: https://github.com/inconshreveable/mousetrap : Apache License 2.0
 ionos-cloud/sdk-go v6.1.9: https://github.com/ionos-cloud/sdk-go : Apache License 2.0
@@ -511,7 +511,7 @@ py3-google-auth 2.40.3 : Apache License 2.0
 pyasn1 0.6.1: https://pypi.org/project/pyasn1/ : BSD 2-clause "Simplified" License
 pyasn1-modules 0.4.2: http://pypi.python.org/pypi/pyasn1-modules : BSD 3-clause "New" or "Revised" License
 Python six 1.17.0: http://pypi.python.org/pypi/six : MIT License
-python-certifi 2025.7.14: https://certifiio.readthedocs.io/en/latest/ : Mozilla Public License 2.0
+python-certifi 2025.8.3: https://certifiio.readthedocs.io/en/latest/ : ISC License
 python-dateutil 2.9.0.post0: https://github.com/dateutil/dateutil : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
 Python-RSA 4.9.1: https://stuvel.eu/rsa : Apache License 2.0
 python3-charset-normalizer 3.4.2: https://github.com/ousret/charset_normalizer : MIT License
@@ -527,7 +527,7 @@ shopspring-decimal v1.2.0: https://github.com/shopspring/decimal : MIT License
 shurcooL/httpfs 20230704-snapshot-f1e31cf0: https://github.com/shurcooL/httpfs : MIT License
 sigs.k8s.io/json 20221116-snapshot-bc3834ca: https://github.com/kubernetes-sigs/json : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 sigs.k8s.io/yaml v1.3.0: https://github.com/kubernetes-sigs/yaml : Apache License 2.0
-Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
+Sirupsen/logrus v1.6.0: https://github.com/sirupsen/logrus : MIT License
 spf13-cast v1.3.1: https://github.com/spf13/cast : MIT License
 spf13-cobra 1.8.0: https://github.com/spf13/cobra : Apache License 2.0
 stretchr/objx v0.5.1: https://github.com/stretchr/objx : MIT License
@@ -1956,7 +1956,7 @@ POSSIBILITY OF SUCH DAMAGES.
 ---
 
 ISC License
-(requests-oauthlib 2.0.0)
+(python-certifi 2025.8.3, requests-oauthlib 2.0.0)
 
 ISC License (ISCL)
 ==================
@@ -3055,7 +3055,7 @@ SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(Consul api/v1.25.1, errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib parseutil/v0.1.8, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, github.com/shoenig/go-m1cpu v0.1.6, github.com/shoenig/test v0.6.4, Go CLI v1.1.5, go-immutable-radix v1.3.1, go-sql-driver v1.7.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-retryablehttp v0.7.5, hashicorp-go-rootcerts v1.0.2, hashicorp-golang-lru v1.0.2, hashicorp/go-sockaddr v1.0.6, hashicorp/hcl v1.0.1-vault-5, python-certifi 2025.7.14)
+(Consul api/v1.25.1, errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib parseutil/v0.1.8, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, github.com/shoenig/go-m1cpu v0.1.6, github.com/shoenig/test v0.6.4, Go CLI v1.1.5, go-immutable-radix v1.3.1, go-sql-driver v1.7.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-retryablehttp v0.7.5, hashicorp-go-rootcerts v1.0.2, hashicorp-golang-lru v1.0.2, hashicorp/go-sockaddr v1.0.6, hashicorp/hcl v1.0.1-vault-5)
 
 Mozilla Public License
 Version 2.0
