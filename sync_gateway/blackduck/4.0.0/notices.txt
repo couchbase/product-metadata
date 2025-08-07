@@ -84,6 +84,7 @@ github.com/power-devops/perfstat 20210106-snapshot-5aafc221: https://pkg.go.dev/
 github.com/shoenig/go-m1cpu v0.1.6: https://github.com/shoenig/go-m1cpu : Mozilla Public License 2.0
 github.com/shoenig/test v0.6.4: https://github.com/shoenig/test : Mozilla Public License 2.0
 github.com/yusufpapurcu/wmi v1.2.4 : MIT License
+Go Logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.24.4: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go Testify v1.10.0: https://github.com/stretchr/testify : MIT License
 go-autorest autorest/adal/v0.9.23: https://github.com/Azure/autorest.go/ : Apache License 2.0
@@ -192,9 +193,8 @@ robertkrimen/otto 20211024-snapshot-b87d35c0: https://github.com/robertkrimen/ot
 rogpeppe/go-internal v1.11.0: http://github.com/rogpeppe/go-internal/ : BSD 3-clause "New" or "Revised" License
 samuel/go-metrics 20150819-snapshot-7ccf3e0e: https://github.com/samuel/go-metrics : BSD 3-clause "New" or "Revised" License
 sergi/go-diff v1.2.0: https://github.com/sergi/go-diff : (MIT License AND Apache License 2.0)
-Sirupsen/logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 stretchr/objx v0.5.2: https://github.com/stretchr/objx : MIT License
-sync_gateway 3.3-docs: https://github.com/couchbase/sync_gateway : Apache License 2.0
+sync_gateway 3.3.0: https://github.com/couchbase/sync_gateway : Apache License 2.0
 tklauser/go-sysconf v0.3.12: https://github.com/tklauser/go-sysconf : BSD 3-clause "New" or "Revised" License
 tklauser/numcpus v0.6.1: https://github.com/tklauser/numcpus : Apache License 2.0
 uber-go/atomic 1.7.0: https://go.uber.org/atomic : MIT License
@@ -208,7 +208,7 @@ yuin/goldmark v1.2.1: https://pkg.go.dev/github.com/go-text/typesetting : MIT Li
 Licenses: 
 
 Apache License 2.0
-(aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.5.4, aws/aws-sdk-go-v2 feature/s3/manager/v1.15.15, aws/aws-sdk-go-v2 internal/configsources/v1.2.10, aws/aws-sdk-go-v2 internal/endpoints/v2.5.10, aws/aws-sdk-go-v2 internal/v4a/v1.2.10, aws/aws-sdk-go-v2 service/internal/accept-encoding/v1.10.4, aws/aws-sdk-go-v2 service/internal/checksum/v1.2.10, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.10.10, aws/aws-sdk-go-v2 service/internal/s3shared/v1.16.10, aws/aws-sdk-go-v2 service/s3/v1.48.1, aws/aws-sdk-go-v2 v1.24.1, census-instrumentation/opencensus-go v0.24.0, client_golang v1.20.5, cncf/udpa 20191208-snapshot-269d4d46, coreos-go-oidc v3.15.0, couchbase-blance v0.1.6, couchbase-cbauth v0.1.13, couchbase-goutils v0.1.2, couchbase/gocbcore v10.7.1, couchbaselabs/gocaves 20250107-snapshot-f9647922, couchbaselabs/gocbconnstr v1.0.5, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, github.com/aws/smithy-go v1.19.0, github.com/cncf/xds 20231128-snapshot-0fa0005c, github.com/couchbase/gocbcoreps v0.1.3, go-autorest autorest/adal/v0.9.23, go-autorest autorest/date/v0.3.0, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v4.1.1, go-logr/logr v1.4.1, go-logr/stdr v1.2.2, gocb v2.10.1, godebug v1.1.0, golang-mock v1.6.0, golang/appengine v1.6.8, golang/glog v1.2.0, google-cloud-go compute/metadata/v0.3.0, google-cloud-go compute/v1.24.0, google-cloud-go iam/v1.1.5, google-cloud-go storage/v1.36.0, google-cloud-go v0.111.0, google-gofuzz v1.0.0, google/pprof 20240227-snapshot-401108e1, google/s2a-go v0.1.7, googleapis/enterprise-certificate-proxy v0.3.2, googleapis/go-genproto 20240227-snapshot-6ceb2ff1, googleapis/go-genproto 20240401-snapshot-c3f98211, groupcache 20210331-snapshot-41bb18bf, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-go v1.63.2, jmespath-go-jmespath v0.4.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, open-telemetry/opentelemetry-go metric/v1.24.0, open-telemetry/opentelemetry-go trace/v1.24.0, open-telemetry/opentelemetry-go v1.24.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.49.0, open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.46.1, OpenCensus v0.4.1, opentracing-opentracing-go 1.1.0, prometheus-client_model v0.6.1, prometheus-common 0.55.0, prometheus-procfs v0.15.1, sergi/go-diff v1.2.0, sync_gateway 3.3-docs, tklauser/numcpus v0.6.1, wheelcomplex/gosigar v0.14.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
+(aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.5.4, aws/aws-sdk-go-v2 feature/s3/manager/v1.15.15, aws/aws-sdk-go-v2 internal/configsources/v1.2.10, aws/aws-sdk-go-v2 internal/endpoints/v2.5.10, aws/aws-sdk-go-v2 internal/v4a/v1.2.10, aws/aws-sdk-go-v2 service/internal/accept-encoding/v1.10.4, aws/aws-sdk-go-v2 service/internal/checksum/v1.2.10, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.10.10, aws/aws-sdk-go-v2 service/internal/s3shared/v1.16.10, aws/aws-sdk-go-v2 service/s3/v1.48.1, aws/aws-sdk-go-v2 v1.24.1, census-instrumentation/opencensus-go v0.24.0, client_golang v1.20.5, cncf/udpa 20191208-snapshot-269d4d46, coreos-go-oidc v3.15.0, couchbase-blance v0.1.6, couchbase-cbauth v0.1.13, couchbase-goutils v0.1.2, couchbase/gocbcore v10.7.1, couchbaselabs/gocaves 20250107-snapshot-f9647922, couchbaselabs/gocbconnstr v1.0.5, envoyproxy/go-control-plane v0.12.0, envoyproxy/protoc-gen-validate 1.0.4, github.com/aws/smithy-go v1.19.0, github.com/cncf/xds 20231128-snapshot-0fa0005c, github.com/couchbase/gocbcoreps v0.1.3, go-autorest autorest/adal/v0.9.23, go-autorest autorest/date/v0.3.0, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v4.1.1, go-logr/logr v1.4.1, go-logr/stdr v1.2.2, gocb v2.10.1, godebug v1.1.0, golang-mock v1.6.0, golang/appengine v1.6.8, golang/glog v1.2.0, google-cloud-go compute/metadata/v0.3.0, google-cloud-go compute/v1.24.0, google-cloud-go iam/v1.1.5, google-cloud-go storage/v1.36.0, google-cloud-go v0.111.0, google-gofuzz v1.0.0, google/pprof 20240227-snapshot-401108e1, google/s2a-go v0.1.7, googleapis/enterprise-certificate-proxy v0.3.2, googleapis/go-genproto 20240227-snapshot-6ceb2ff1, googleapis/go-genproto 20240401-snapshot-c3f98211, groupcache 20210331-snapshot-41bb18bf, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-go v1.63.2, jmespath-go-jmespath v0.4.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, open-telemetry/opentelemetry-go metric/v1.24.0, open-telemetry/opentelemetry-go trace/v1.24.0, open-telemetry/opentelemetry-go v1.24.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.49.0, open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.46.1, OpenCensus v0.4.1, opentracing-opentracing-go 1.1.0, prometheus-client_model v0.6.1, prometheus-common 0.55.0, prometheus-procfs v0.15.1, sergi/go-diff v1.2.0, sync_gateway 3.3.0, tklauser/numcpus v0.6.1, wheelcomplex/gosigar v0.14.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -1006,20 +1006,7 @@ SOFTWARE
 ---
 
 MIT License
-(mailru/easyjson v0.7.7)
-
-Copyright (c) 2016 Mail.Ru Group
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(Sirupsen/logrus v1.4.2)
+(Go Logrus v1.4.2)
 
 The MIT License (MIT)
 
@@ -1042,6 +1029,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
+
+---
+
+MIT License
+(mailru/easyjson v0.7.7)
+
+Copyright (c) 2016 Mail.Ru Group
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
