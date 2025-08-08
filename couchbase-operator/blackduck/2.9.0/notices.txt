@@ -51,7 +51,7 @@ creack/pty v1.1.9: https://github.com/kr/pty : MIT License
 diskv v2.0.1: http://godoc.org/github.com/peterbourgon/diskv : MIT License
 dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877: https://dmitri.shuralyov.com/gpu/mtl : BSD 3-clause "New" or "Revised" License
 dnaeon/go-vcr v1.2.0: http://github.com/dnaeon/go-vcr/ : BSD 2-clause "Simplified" License
-dominikh/go-tools v0.0.1-2019.2.3: https://staticcheck.io : MIT License
+dominikh/go-tools v0.0.1-2019.2.3: https://github.com/dominikh/go-tools : MIT License
 dsnet/compress v0.0.1: https://github.com/dsnet/compress : BSD 3-clause "New" or "Revised" License
 dsnet/golib 20180515-snapshot-1ea16677: https://github.com/dsnet/golib : BSD 3-clause "New" or "Revised" License
 envoyproxy/go-control-plane v0.12.0: https://github.com/envoyproxy/go-control-plane : Apache License 2.0
@@ -72,8 +72,8 @@ github.com/konsorten/go-windows-terminal-sequences v1.0.1: https://github.com/ko
 github.com/moby/spdystream v0.2.0: https://github.com/moby/spdystream : Apache License 2.0
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61: https://github.com/munnerz/goautoneg : BSD 3-clause "New" or "Revised" License
 github.com/therootcompany/xz v1.0.1 : Creative Commons Zero v1.0 Universal
-glfw 20190408-snapshot-e6da0acd: https://pkg.go.dev/golang.org/x/exp/shiny : BSD 3-clause "New" or "Revised" License
-glfw 20191125-snapshot-12ad95a8: https://pkg.go.dev/golang.org/x/exp/shiny : BSD 3-clause "New" or "Revised" License
+glfw 20190408-snapshot-e6da0acd: https://github.com/go-gl/glfw : BSD 3-clause "New" or "Revised" License
+glfw 20191125-snapshot-12ad95a8: https://github.com/go-gl/glfw : BSD 3-clause "New" or "Revised" License
 go humanize 1.0.1: http://github.com/dustin/go-humanize : MIT License
 Go Logrus v1.9.3: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.24.4: http://golang.org/ : BSD 3-clause "New" or "Revised" License
@@ -122,14 +122,14 @@ golang-jwt/jwt v4.5.0: https://github.com/golang-jwt/jwt : MIT License
 golang-mock v1.4.3: https://github.com/golang/mock : Apache License 2.0
 golang-snappy-go-dev v0.0.4: https://github.com/golang/snappy : BSD 3-clause "New" or "Revised" License
 golang.org/x/crypto v0.32.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
-golang.org/x/image 20190704-snapshot-cff245a6 : BSD 3-clause "New" or "Revised" License
-golang.org/x/lint 20200130-snapshot-910be7a9 : BSD 3-clause "New" or "Revised" License
+golang.org/x/image 20190704-snapshot-cff245a6: https://pkg.go.dev/golang.org/x/image : BSD 3-clause "New" or "Revised" License
+golang.org/x/lint 20200130-snapshot-910be7a9: https://pkg.go.dev/golang.org/x/lint : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod v0.17.0 : BSD 3-clause "New" or "Revised" License
 golang.org/x/net v0.34.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 v0.18.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys v0.29.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
 golang.org/x/term v0.28.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
-golang.org/x/time v0.5.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/time v0.5.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools 20240508-snapshot-e35e4ccd: https://pkg.go.dev/golang.org/x/tools : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20231011-snapshot-104605ab : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.8: http://google.golang.org/appengine : Apache License 2.0
@@ -264,7 +264,7 @@ google/gnostic-models 20230804-snapshot-c7be7c78: https://github.com/google/gnos
 google/go-cmp v0.6.0: https://github.com/google/go-cmp : BSD 3-clause "New" or "Revised" License
 google/go-pkcs11 20230801-snapshot-c6f79328: https://github.com/google/go-pkcs11 : Apache License 2.0
 google/pprof 20210720-snapshot-4bb14d4b: https://github.com/google/pprof : Apache License 2.0
-google/renameio v0.1.0: https://pkg.go.dev/mvdan.cc/sh/v3 : Apache License 2.0
+google/renameio v0.1.0: https://github.com/google/renameio : Apache License 2.0
 google/s2a-go v0.1.7: https://github.com/google/s2a-go : Apache License 2.0
 google/starlark-go 20231101-snapshot-556fd59b: https://github.com/google/starlark-go : BSD 3-clause "New" or "Revised" License
 googleapis/enterprise-certificate-proxy v0.3.2: https://github.com/googleapis/enterprise-certificate-proxy : Apache License 2.0
@@ -392,7 +392,7 @@ xlab/treeprint v1.2.0: https://github.com/xlab/treeprint : MIT License
 yaml for Go v2.4.0: https://github.com/go-yaml/yaml : Apache License 2.0
 yaml for Go v3.0.1: https://github.com/go-yaml/yaml : (MIT License AND Apache License 2.0)
 youmark/pkcs8 20201027-snapshot-1326539a : MIT License
-yuin/goldmark v1.4.13: https://pkg.go.dev/github.com/go-text/typesetting : MIT License
+yuin/goldmark v1.4.13: https://github.com/yuin/goldmark : MIT License
 
 Licenses: 
 
