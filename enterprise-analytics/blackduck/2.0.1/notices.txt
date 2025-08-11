@@ -519,7 +519,7 @@ Angular 1.8.0: http://code.google.com/p/angula : MIT License
 Angular 8.2.14: http://code.google.com/p/angula : MIT License
 Angular UI Bootstrap 1.2.0: http://angular-ui.github.io/bootstrap/ : MIT License
 angular-hybrid 10.0.1: https://github.com/ui-router/angular-hybrid : MIT License
-angular-ui-tree/angular-ui-tree 2.22.6: https://github.com/angular-ui-tree/angular-ui-tree : MIT License
+angular-ui-tree 2.22.6: https://github.com/JimLiu/angular-ui-tree : MIT License
 Animal Sniffer Annotations 1.24: https://www.mojohaus.org/animal-sniffer/animal-sniffer-annotations/ : MIT License
 ankeetmaini/react-infinite-scroll-component 6.1.0: https://github.com/ankeetmaini/react-infinite-scroll-component#readme : MIT License
 ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
@@ -530,10 +530,10 @@ ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
 anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
 Apache Avro 1.12.0: http://avro.apache.org/ : Apache License 2.0
 Apache Avro IPC 1.12.0: http://avro.apache.org : Apache License 2.0
@@ -1397,8 +1397,6 @@ Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
 go humanize 1.0.1: http://github.com/dustin/go-humanize : MIT License
 go humanize 20171110-snapshot-bb3d3186: http://github.com/dustin/go-humanize : MIT License
 go humanize v1.0.0: http://github.com/dustin/go-humanize : MIT License
-Go Logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
-Go Logrus v1.6.0: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.24.4: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.10.0: https://github.com/stretchr/testify : MIT License
@@ -3125,7 +3123,9 @@ sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-colo
 sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
 sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 Sinon.JS 14.0.2: http://sinonjs.org/ : BSD 3-clause "New" or "Revised" License
-Sirupsen/logrus v1.9.3: https://github.com/sirupsen/logrus : MIT License
+Sirupsen/logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
+Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
+Sirupsen/logrus v1.9.3: https://github.com/Sirupsen/logrus : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -15928,7 +15928,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(angular-ui-tree/angular-ui-tree 2.22.6)
+(angular-ui-tree 2.22.6)
 
 The MIT License (MIT)
 
@@ -17364,7 +17364,7 @@ SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.4.2)
+(Sirupsen/logrus v1.4.2)
 
 The MIT License (MIT)
 
@@ -22397,7 +22397,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.6.0)
+(Sirupsen/logrus v1.6.0)
 
 Source: https://github.com/sirupsen/logrus
 
