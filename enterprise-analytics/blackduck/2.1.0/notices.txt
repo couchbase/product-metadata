@@ -526,8 +526,10 @@ ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
 ansi-escapes 4.3.2: https://github.com/sindresorhus/ansi-escapes : MIT License
 ansi-html 0.0.9: https://github.com/Tjatse/ansi-html : Apache License 2.0
 ansi-html-community 0.0.8: https://github.com/mahdyar/ansi-html-community : Apache License 2.0
-ansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
-ansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
+ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
+ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
+ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
+ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
@@ -852,8 +854,6 @@ cespare/xxhash v2.3.0: https://github.com/cespare/xxhash : MIT License
 Chalk 2.4.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 3.0.0: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
-chalkansi-regex 4.1.0: https://github.com/chalk/ansi-regex : MIT License
-chalkansi-regex 5.0.0: https://github.com/chalk/ansi-regex : MIT License
 char-regex 1.0.2: https://github.com/Richienb/char-regex#readme : MIT License
 char-regex 2.0.1: https://github.com/Richienb/char-regex#readme : MIT License
 check-types.js 11.1.2: https://github.com/philbooth/check-types.js : MIT License
@@ -1300,7 +1300,7 @@ flat-cache 3.0.4: https://github.com/royriojas/flat-cache : MIT License
 FlatBuffers 24.3.25: http://google.github.io/flatbuffers/ : Apache License 2.0
 FlatBuffers 25.2.10: http://google.github.io/flatbuffers/ : Apache License 2.0
 FlatBuffers v1.10.0: http://google.github.io/flatbuffers/ : Apache License 2.0
-flatiron/nock 13.5.6: https://github.com/pgte/nock : MIT License
+flatiron/nock 13.5.6: https://github.com/flatiron/nock : MIT License
 flatted 3.2.2: https://github.com/WebReflection/flatted#readme : ISC License
 flatted 3.2.7: https://github.com/WebReflection/flatted#readme : ISC License
 Flogger 0.7.1 : Apache License 2.0
@@ -2878,7 +2878,7 @@ parse5 7.1.0: https://github.com/inikulin/parse5 : MIT License
 parse5 7.1.1: https://github.com/inikulin/parse5 : MIT License
 parse5 7.1.2: https://github.com/inikulin/parse5 : MIT License
 parse5 7.3.0: https://github.com/inikulin/parse5 : MIT License
-parseurl 1.3.3: https://github.com/pillarjs/parseurl : MIT License
+parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 pascal-case 3.1.2: https://github.com/blakeembrey/change-case/tree/master/packages/pascal-case : MIT License
 pascaldekloe/goe v0.1.0: https://github.com/pascaldekloe/goe : Public Domain
 path-exists 3.0.0: https://github.com/sindresorhus/path-exists : MIT License
@@ -3197,7 +3197,7 @@ sean-/seed 20170313-snapshot-e2103e2c: https://github.com/sean-/seed : (MIT Lice
 select 1.1.2: https://github.com/zenorocha/select : MIT License
 select-hose 2.0.0: https://github.com/indutny/select-hose#readme : MIT License
 selfsigned 2.1.1: https://github.com/jfromaniello/selfsigned : MIT License
-send 0.19.0: https://github.com/pillarjs/send : MIT License
+send 0.19.0: https://github.com/visionmedia/send : MIT License
 sergi/go-diff v1.1.0: https://github.com/sergi/go-diff : (MIT License AND Apache License 2.0)
 serialize-javascript 4.0.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serialize-javascript 6.0.2: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
@@ -3243,6 +3243,10 @@ sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT Licens
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash 4.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 Sinon.JS 14.0.2: http://sinonjs.org/ : BSD 3-clause "New" or "Revised" License
 Sirupsen/logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
 Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
@@ -3324,11 +3328,7 @@ style-loader 3.3.1: https://github.com/webpack/style-loader : MIT License
 style-mod 4.1.0: https://github.com/marijnh/style-mod#readme : MIT License
 style-mod 4.1.2: https://github.com/marijnh/style-mod#readme : MIT License
 stylehacks 5.1.0: https://github.com/ben-eb/stylehacks : MIT License
-supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
-supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
-supports-color 8.1.1: https://github.com/chalk/supports-color : MIT License
-supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
-supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
+supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
 supports-hyperlinks 2.3.0: https://github.com/jamestalmage/supports-hyperlinks : MIT License
 supports-preserve-symlinks-flag 1.0.0: https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme : MIT License
 svgo 1.3.2: https://github.com/svg/svgo : MIT License
@@ -3469,7 +3469,7 @@ webidl-conversions 4.0.2: https://github.com/domenic/webidl-conversions : BSD 2-
 webidl-conversions 5.0.0: https://github.com/domenic/webidl-conversions : BSD 2-clause "Simplified" License
 webidl-conversions 6.1.0: https://github.com/domenic/webidl-conversions : BSD 2-clause "Simplified" License
 Webpack 5.99.9: https://webpack.js.org : MIT License
-webpack-contrib/sass-loader 12.6.0: https://github.com/webpack-contrib/sass-loader : MIT License
+webpack-contrib/sass-loader 12.6.0: https://github.com/jtangelder/sass-loader : MIT License
 webpack-dev-server 4.15.2: https://github.com/webpack/webpack-dev-server : MIT License
 webpack-manifest-plugin 4.1.1: https://github.com/danethurber/webpack-manifest-plugin : MIT License
 webpack-sources 1.4.3: https://github.com/webpack/webpack-sources#readme : MIT License
@@ -21561,7 +21561,7 @@ SOFTWARE
 ---
 
 MIT License
-(aggregate-error 3.0.1, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, chalkansi-regex 4.1.0, chalkansi-regex 5.0.0, clean-stack 2.2.0, cli-spinners 2.3.0, crypto-random-string 2.0.0, decompress-response 5.0.0, define-lazy-prop 2.0.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, find-up 3.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, import-local 3.1.0, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-root 2.1.0, is-stream v2.0.0, is-wsl 2.2.0, leven 3.1.0, locate-path 3.0.0, log-symbols 2.2.0, lowercase-keys 2.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, mimic-response 1.0.1, npm-run-path 4.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, pkg-up 3.1.0, quick-lru 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url 6.1.0, sindresorhus/normalize-url v4.5.0, sindresorhus/slash v3.0.0, string-width 4.2.2, string-width 4.2.3, Strip ANSI 6.0.0, strip-bom 4.0.0, strip-final-newline 2.0.0, supports-color 5.5.0, supports-color 6.1.0, supports-color v7.1.0, supports-color v7.2.0, temp-dir 2.0.0, terminal-link 2.1.1, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1, unique-string 2.0.0)
+(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, clean-stack 2.2.0, cli-spinners 2.3.0, crypto-random-string 2.0.0, decompress-response 5.0.0, define-lazy-prop 2.0.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, find-up 3.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, import-local 3.1.0, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-root 2.1.0, is-stream v2.0.0, is-wsl 2.2.0, leven 3.1.0, locate-path 3.0.0, log-symbols 2.2.0, lowercase-keys 2.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, mimic-response 1.0.1, npm-run-path 4.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, pkg-up 3.1.0, quick-lru 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url 6.1.0, sindresorhus/normalize-url v4.5.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 6.1.0, sindresorhus/supports-color v7.1.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width 4.2.3, Strip ANSI 6.0.0, strip-bom 4.0.0, strip-final-newline 2.0.0, temp-dir 2.0.0, terminal-link 2.1.1, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1, unique-string 2.0.0)
 
 MIT License
 
