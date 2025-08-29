@@ -360,7 +360,7 @@
 358,OpenCensus,0.31.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b58a7f69-4ac9-46b9-8bf6-d9eb6051e39b,942c3be8-040f-4952-a686-1bd6a0d4a2cf,7cae335f-1193-421e-92f1-8802b4243e93
 359,OpenCensus,0.31.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3a13183f-88db-4c07-bc73-e705124fac06,7597efe8-6533-46dd-bac0-3f63168f229c,7cae335f-1193-421e-92f1-8802b4243e93
 360,OpenCensus,v0.4.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f05607e4-f8ed-4bf9-94aa-d8e611cfc252,398bbdad-843c-4a4b-899f-9c1bc70ce3ec,7cae335f-1193-421e-92f1-8802b4243e93
-361,OpenJDK,jdk-21.0.7-ga,Manually Added,GNU General Public License v2.0 w/Classpath exception,RECIPROCAL,NOT_REVIEWED,324fb534-b708-4c94-95d0-25335b546471,288dbe88-a8d3-42e7-a79c-09ce61251446,9b7eb3ce-d64b-4e3e-a6b7-55d4dc798e68
+361,OpenJDK,jdk-21.0.7-ga,Manually Added,GNU General Public License v2.0 w/Classpath exception,RECIPROCAL,REVIEWED,324fb534-b708-4c94-95d0-25335b546471,288dbe88-a8d3-42e7-a79c-09ce61251446,9b7eb3ce-d64b-4e3e-a6b7-55d4dc798e68
 362,OpenSSL,3.5.1,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cd7c0bf1-7757-4ce9-bcc0-46332273dc27,fc81ef51-c249-4899-855f-e19429956208,7cae335f-1193-421e-92f1-8802b4243e93
 363,OpenTelemetry,1.42.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,36fc993c-49f2-4758-83e1-78346922d243,5cf403df-0e31-49ca-b7c7-48566a35c572,7cae335f-1193-421e-92f1-8802b4243e93
 364,OpenTelemetry Java,1.42.1-alpha,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,47da3fd7-c292-4b10-aa62-52abb59d3e67,5e5df635-5ff6-4d59-a4bd-4d8ea42a4877,7cae335f-1193-421e-92f1-8802b4243e93
@@ -1135,7 +1135,7 @@
 1133,kubernetes/api,v0.29.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1f9b60a8-93bb-4af8-920e-9d3b690fc054,cb4b131a-c1ff-4d13-b433-2e061d652931,7cae335f-1193-421e-92f1-8802b4243e93
 1134,kubernetes/api,v0.33.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1f9b60a8-93bb-4af8-920e-9d3b690fc054,3649bfbe-1b8e-497f-8c8b-2fd1e6e72660,7cae335f-1193-421e-92f1-8802b4243e93
 1135,launch-editor,2.10.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,863ce72d-a1e1-491c-9ae8-412b3ac4f9a7,f9562743-de5c-4e12-9804-1d277a75d990,ad705c59-6893-4980-bdbf-0837f1823cc4
-1136,libgcc,13.2.0,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,e12b8d28-cc06-4ffe-9393-21982b677571,9fc60e6f-112c-47d5-9715-2c7df6805857,3d238144-44e6-450e-b523-3defbdaed9dc
+1136,libgcc,13.2.0,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,REVIEWED,e12b8d28-cc06-4ffe-9393-21982b677571,9fc60e6f-112c-47d5-9715-2c7df6805857,3d238144-44e6-450e-b523-3defbdaed9dc
 1137,liburing,0.6,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,b37c3c42-04f2-4ac7-b52c-dc98252e0875,6d17962e-df36-42bd-8bee-2c246371788c,ad705c59-6893-4980-bdbf-0837f1823cc4
 1138,libuv,1.20.3,Manually Added,"(MIT License AND ISC License AND BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,ecefe33e-be8d-47b7-b02a-ee0cfe7ab2f2,32941257-9dcd-4e23-9558-62996e879aa6,"3d238144-44e6-450e-b523-3defbdaed9dc,ad705c59-6893-4980-bdbf-0837f1823cc4,14b0b50b-acd2-4fc8-ac65-3b15f9e58260"
 1139,lightstep/lightstep-tracer-common,20190605-snapshot-bc2310a0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d265c37d-e401-43e0-bfa9-44b4a84b68c7,86c46325-3bf2-4d82-a053-17a52494cfa6,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -2927,7 +2927,7 @@
 2925,libevent,2.1.11,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,3164e153-3508-415c-af53-443dea356811,0d430e67-5ac6-45ec-8a87-e01d8e943373,3d238144-44e6-450e-b523-3defbdaed9dc
 2926,libicu,71.1,Manually Added,(MIT License AND Public Domain AND Unicode Character Database Terms Of Use),PERMISSIVE,NOT_REVIEWED,a7441c50-9be3-493b-82ed-19666236acef,8c226365-ab65-43f9-943a-2c52ec080b58,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,ad705c59-6893-4980-bdbf-0837f1823cc4,92b7564a-4a43-4679-83cf-89261e16de72"
 2927,libsodium,1.0.18,Manually Added,ISC License,PERMISSIVE,NOT_REVIEWED,ef66948e-fcea-4a1a-8936-bb64c3866ec3,9f9f36b2-cd41-4c63-bbfc-d7e0433da9db,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
-2928,libstdc++6,13.2.0,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,NOT_REVIEWED,00b4e8b2-e862-45eb-a30a-41f2e65dcdcf,40bcf714-3c45-4962-a70c-50e6c7017ed6,3a5d4424-557d-49fa-9416-71c06026fe07
+2928,libstdc++6,13.2.0,Manually Added,GNU General Public License v3.0 w/GCC Runtime Library exception,RECIPROCAL,REVIEWED,00b4e8b2-e862-45eb-a30a-41f2e65dcdcf,40bcf714-3c45-4962-a70c-50e6c7017ed6,3a5d4424-557d-49fa-9416-71c06026fe07
 2929,lightstep/lightstep-tracer-go,v0.18.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8e4e4cef-2954-4bc5-9bbd-45f95c154baf,8fe6449e-972f-423d-9719-6734bdd2489a,ad705c59-6893-4980-bdbf-0837f1823cc4
 2930,lilconfig,2.0.6,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,9b3dc627-6cdb-4c0e-8ba6-85aba256d95d,a0871940-ebcb-4e88-bdd5-9dd044e5c86d,ad705c59-6893-4980-bdbf-0837f1823cc4
 2931,lines-and-columns,1.1.6,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ee3df0a8-db95-4ba5-8520-4553bf923ac0,c6353bbe-b35d-45f5-a6c5-47fc417fad0a,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -3622,7 +3622,7 @@
 3620,leven,3.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0807607d-36c1-4dbd-b257-3e59774952aa,75632ea4-0047-4f53-ba29-ee068d1926a9,ad705c59-6893-4980-bdbf-0837f1823cc4
 3621,leven,3.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0807607d-36c1-4dbd-b257-3e59774952aa,75632ea4-0047-4f53-ba29-ee068d1926a9,ad705c59-6893-4980-bdbf-0837f1823cc4
 3622,levenary,1.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7c6698a3-d6a0-43d5-87ad-3b164d1f975b,975bd218-e1e6-4fb1-a0ba-435be992dbd6,ad705c59-6893-4980-bdbf-0837f1823cc4
-3623,libnuma1,2.0.11,Manually Added,GNU Lesser General Public License v2.1 or later,WEAK_RECIPROCAL,NOT_REVIEWED,fe3e8b96-6c8e-411f-991f-697ecfed5605,3ad40a1f-6637-474f-a6b0-3f57f1549dc0,cff110eb-f85c-445c-9d3b-00a04b7f4cf0
+3623,libnuma1,2.0.11,Manually Added,GNU Lesser General Public License v2.1 or later,WEAK_RECIPROCAL,REVIEWED,fe3e8b96-6c8e-411f-991f-697ecfed5605,3ad40a1f-6637-474f-a6b0-3f57f1549dc0,cff110eb-f85c-445c-9d3b-00a04b7f4cf0
 3624,locate-path,2.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dfe93e80-5ef3-4e7e-b5d6-4e564639333a,acc0778f-af63-4ee3-858d-2a34c235cc37,ad705c59-6893-4980-bdbf-0837f1823cc4
 3625,locate-path,3.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dfe93e80-5ef3-4e7e-b5d6-4e564639333a,8cdb7c3e-8d1e-4421-8946-f470985161a4,ad705c59-6893-4980-bdbf-0837f1823cc4
 3626,locate-path,v5.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dfe93e80-5ef3-4e7e-b5d6-4e564639333a,62087a16-c9ba-4047-ba3c-5819c317cb32,ad705c59-6893-4980-bdbf-0837f1823cc4
