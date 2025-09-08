@@ -236,9 +236,9 @@ jiter 0.10.0: https://github.com/pydantic/jiter/ : MIT License
 joblib 1.5.2: http://packages.python.org/joblib/ : BSD 3-clause "New" or "Revised" License
 jsbeautifier 1.15.4: https://pypi.python.org/pypi/jsbeautifier/ : MIT License
 jsonschema-specifications 2025.4.1: https://pypi.org/project/jsonschema-specifications/ : MIT License
-langchain 0.2.5: https://github.com/langchain-ai/langchain : MIT License
 langchain 0.3.27: https://github.com/langchain-ai/langchain : MIT License
 langchain 0.3.75: https://github.com/langchain-ai/langchain : MIT License
+langchain 0.4.0: https://github.com/langchain-ai/langchain : MIT License
 langchain-openai 0.3.32: https://github.com/langchain-ai/langchain : MIT License
 langchain-text-splitters 0.3.11: https://github.com/langchain-ai/langchain : MIT License
 langgraph 0.5.2: https://langchain-ai.github.io/langgraph/ : MIT License
@@ -298,7 +298,7 @@ nvidia-nvjitlink-cu12 12.6.85: https://github.com/NVIDIA : Basic Proprietary Com
 nvidia-nvjitlink-cu12 12.8.93: https://github.com/NVIDIA : Basic Proprietary Commercial License
 nvidia-nvtx-cu12 12.6.77: https://github.com/NVIDIA : Apache License 2.0
 nvidia-nvtx-cu12 12.8.90: https://github.com/NVIDIA : Apache License 2.0
-openai 1.104.2: https://github.com/openai/openai-python : Apache License 2.0
+openai 1.105.0: https://github.com/openai/openai-python : Apache License 2.0
 openapi-pydantic 0.5.1: https://github.com/mike-oakley/openapi-pydantic : MIT License
 orjson 3.11.3: https://github.com/ijl/orjson : (MIT License AND Apache License 2.0)
 ormsgpack 1.10.0: https://github.com/aviramha/ormsgpack : (MIT License OR Apache License 2.0)
@@ -380,7 +380,7 @@ zstandard 0.24.0: https://github.com/indygreg/python-zstandard : BSD 3-clause "N
 Licenses: 
 
 Apache License 2.0
-(aiohttp 3.12.15, aiosignal 1.4.0, couchbase-python-client 4.4.0, distro 1.9.0, docker 7.1.0, frozenlist 1.7.0, hf-xet 1.1.9, huggingface-hub 0.34.4, multidict 6.6.4, nltk 3.9.1, nvidia-nvtx-cu12 12.6.77, nvidia-nvtx-cu12 12.8.90, openai 1.104.2, orjson 3.11.3, ormsgpack 1.10.0, Packaging 25.0, propcache 0.3.2, psf-requests 2.32.5, pytest-asyncio 1.1.0, Python tzdata 2025.2, python-dateutil 2.9.0.post0, requests-toolbelt 1.0.0, safetensors 0.6.2, sentence-transformers 3.4.1, sniffio 1.3.1, tenacity 9.1.2, tokenizers 0.22.0, transformers 4.56.0, yarl 1.20.1)
+(aiohttp 3.12.15, aiosignal 1.4.0, couchbase-python-client 4.4.0, distro 1.9.0, docker 7.1.0, frozenlist 1.7.0, hf-xet 1.1.9, huggingface-hub 0.34.4, multidict 6.6.4, nltk 3.9.1, nvidia-nvtx-cu12 12.6.77, nvidia-nvtx-cu12 12.8.90, openai 1.105.0, orjson 3.11.3, ormsgpack 1.10.0, Packaging 25.0, propcache 0.3.2, psf-requests 2.32.5, pytest-asyncio 1.1.0, Python tzdata 2025.2, python-dateutil 2.9.0.post0, requests-toolbelt 1.0.0, safetensors 0.6.2, sentence-transformers 3.4.1, sniffio 1.3.1, tenacity 9.1.2, tokenizers 0.22.0, transformers 4.56.0, yarl 1.20.1)
 
 Apache License
 Version 2.0, January 2004
@@ -1203,7 +1203,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(aiosqlite 0.21.0, annotated-types 0.7.0, anyio 4.10.0, banks 2.2.0, BeautifulSoup4 4.13.5, bracex 2.6, cfgv 3.4.0, dataclasses-json 0.6.7, Deprecated 1.2.18, dirtyjson 1.0.8, filetype 1.2.0, gitignore-parser 0.1.13, greenlet 3.2.4, h11 0.16.0, identify 2.6.13, jiter 0.10.0, jsbeautifier 1.15.4, jsonschema-specifications 2025.4.1, langchain 0.2.5, langchain 0.3.27, langchain 0.3.75, langchain-openai 0.3.32, langchain-text-splitters 0.3.11, langgraph 0.5.2, langgraph 0.5.4, langgraph 2.1.1, langgraph-sdk 0.1.74, langsmith 0.4.23, llama-cloud 0.1.35, llama-index-cli 0.5.0, llama-index-llms-openai 0.5.4, LlamaIndex 0.13.4, mypy-extensions 1.1.0, openapi-pydantic 0.5.1, orjson 3.11.3, ormsgpack 1.10.0, platformdirs 4.4.0, pre-commit/pre-commit 3.8.0, pydantic 2.11.7, pydantic-core 2.33.2, pydantic-settings 2.10.1, pypi/setuptools 80.9.0, pytest 8.4.1, pytest-retry 1.7.0, Python six 1.17.0, python-attrs 25.3.0, python-jsonschema 4.25.1, python-marshmallow 3.26.1, python-pluggy 1.6.0, python3-charset-normalizer 3.4.3, PyTZ - Python Time Zone Library 2025.2, PyYAML 6.0.2, referencing 0.36.2, RonnyPfannschmidt/iniconfig 2.1.0, rpds-py 0.27.1, soupsieve 2.8, SQLAlchemy 2.0.43, tabulate 0.9.0, tiktoken 0.11.0, tqdm 4.67.1, triton 3.3.1, triton 3.4.0, typing-inspect 0.9.0, typing-inspection 0.4.1, tzlocal 5.3.1, urllib3 2.5.0, virtualenv 20.32.0, wcmatch 10.1, wcwidth 0.2.13, xmltodict 0.14.2)
+(aiosqlite 0.21.0, annotated-types 0.7.0, anyio 4.10.0, banks 2.2.0, BeautifulSoup4 4.13.5, bracex 2.6, cfgv 3.4.0, dataclasses-json 0.6.7, Deprecated 1.2.18, dirtyjson 1.0.8, filetype 1.2.0, gitignore-parser 0.1.13, greenlet 3.2.4, h11 0.16.0, identify 2.6.13, jiter 0.10.0, jsbeautifier 1.15.4, jsonschema-specifications 2025.4.1, langchain 0.3.27, langchain 0.3.75, langchain 0.4.0, langchain-openai 0.3.32, langchain-text-splitters 0.3.11, langgraph 0.5.2, langgraph 0.5.4, langgraph 2.1.1, langgraph-sdk 0.1.74, langsmith 0.4.23, llama-cloud 0.1.35, llama-index-cli 0.5.0, llama-index-llms-openai 0.5.4, LlamaIndex 0.13.4, mypy-extensions 1.1.0, openapi-pydantic 0.5.1, orjson 3.11.3, ormsgpack 1.10.0, platformdirs 4.4.0, pre-commit/pre-commit 3.8.0, pydantic 2.11.7, pydantic-core 2.33.2, pydantic-settings 2.10.1, pypi/setuptools 80.9.0, pytest 8.4.1, pytest-retry 1.7.0, Python six 1.17.0, python-attrs 25.3.0, python-jsonschema 4.25.1, python-marshmallow 3.26.1, python-pluggy 1.6.0, python3-charset-normalizer 3.4.3, PyTZ - Python Time Zone Library 2025.2, PyYAML 6.0.2, referencing 0.36.2, RonnyPfannschmidt/iniconfig 2.1.0, rpds-py 0.27.1, soupsieve 2.8, SQLAlchemy 2.0.43, tabulate 0.9.0, tiktoken 0.11.0, tqdm 4.67.1, triton 3.3.1, triton 3.4.0, typing-inspect 0.9.0, typing-inspection 0.4.1, tzlocal 5.3.1, urllib3 2.5.0, virtualenv 20.32.0, wcmatch 10.1, wcwidth 0.2.13, xmltodict 0.14.2)
 
 The MIT License
 ===============
