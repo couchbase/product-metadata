@@ -1,124 +1,45 @@
-{#-
-  Map release names to the set of expected platforms. Each entry has the form
-      platform [ : architecture ]
-  If :architecture is empty, the filename will use the default arch for the
-  platform's packaging style (see below).
-#}
+{#- Editions we expect, based on version #}
+{%- if version_tuple[2] < 3 -%}
+  {%- set editions = [ "community", "enterprise" ] -%}
+{%- else -%}
+  {%- set editions = [ "enterprise" ] -%}
+{%- endif -%}
 
-{#- !!! If you add an all-new platform here, be sure to add it to the filebits_for map as well !!! #}
-{%-
-  set platforms_for = {
-    "watson": [ "centos6", "centos7", "debian7", "debian8", "macos", "oel6", "suse11", "ubuntu12.04", "ubuntu14.04", "windows" ],
-    "spock": [ "centos6", "centos7", "debian8", "debian9", "macos", "oel6", "oel7", "suse11", "suse12", "ubuntu14.04", "ubuntu16.04", "windows" ],
-    "vulcan": [ "centos6", "centos7", "debian8", "debian9", "macos", "oel6", "oel7", "suse11", "suse12", "ubuntu14.04", "ubuntu16.04", "windows" ],
-    "alice": [ "amzn2", "centos6", "centos7", "debian8", "debian9", "macos", "oel6", "oel7", "rhel8", "suse11", "suse12", "ubuntu16.04", "ubuntu18.04", "windows" ],
-    "mad-hatter": [ "amzn2", "centos7", "centos8", "debian9", "debian10", "macos", "oel7", "oel8", "suse12", "suse15", "ubuntu16.04", "ubuntu18.04", "ubuntu20.04", "windows" ],
-    "cheshire-cat": [ "amzn2", "centos7", "debian9", "debian10", "macos", "oel7", "oel8", "rhel8", "suse12", "suse15", "ubuntu18.04", "windows" ],
-    "neo": [ "linux", "linux:aarch64", "windows", "macos" ],
-    "elixir": [ "linux", "linux:aarch64", "windows", "macos" ],
-    "cypher": [ "linux", "linux:aarch64", "windows", "macos" ],
-    "morpheus": [ "linux", "linux:aarch64", "windows", "macos" ]
-  }
-%}
+{#- Tools packages we expect, based on version #}
+{%- if (version_tuple >= (7, 6, 4)) -%}
+{%-   set tools_pkgs = [ "admin-tools-", "dev-tools-" ] -%}
+{%- elif (version_tuple >= (7, 1, 0)) -%}
+{%-   set tools_pkgs = [ "tools_" ] -%}
+{%- else -%}
+{%-   set tools_pkgs = [ ] -%}
+{%- endif -%}
 
-{#- Pre-defined sets of filename bits, based on the platform's packaging style #}
-{%-
-  set rpm_bits = {
-    "default_arch": "x86_64",
-    "ext": "rpm",
-    "sep1": "-",
-    "sep2": ".",
-    "tools_ext": "tar.gz"
-  }
-%}
-{%-
-  set deb_bits = {
-    "default_arch": "amd64",
-    "ext": "deb",
-    "sep1": "_",
-    "sep2": "_",
-    "tools_ext": "IGNORE"
-  }
-%}
-{%-
-  set mac_bits = {
-    "default_arch": "x86_64",
-    "ext": "dmg",
-    "sep1": "_",
-    "sep2": "_",
-    "tools_ext": "zip"
-  }
-%}
-{%-
-  set win_bits = {
-    "default_arch": "amd64",
-    "ext": "msi",
-    "sep1": "_",
-    "sep2": "_",
-    "tools_ext": "zip"
-  }
-%}
-
-{#- Map platforms to defined sets of filename bits #}
-{%-
-  set filebits_for = {
-    "amzn2": [ rpm_bits ],
-    "centos6": [ rpm_bits ],
-    "centos7": [ rpm_bits ],
-    "centos8": [ rpm_bits ],
-    "debian7": [ deb_bits ],
-    "debian8": [ deb_bits ],
-    "debian9": [ deb_bits ],
-    "debian10": [ deb_bits ],
-    "linux": [ deb_bits, rpm_bits ],
-    "macos": [ mac_bits ],
-    "oel6": [ rpm_bits ],
-    "oel7": [ rpm_bits ],
-    "oel8": [ rpm_bits ],
-    "rhel8": [ rpm_bits ],
-    "suse11": [ rpm_bits ],
-    "suse12": [ rpm_bits ],
-    "suse15": [ rpm_bits ],
-    "ubuntu12.04": [ deb_bits ],
-    "ubuntu14.04": [ deb_bits ],
-    "ubuntu16.04": [ deb_bits ],
-    "ubuntu18.04": [ deb_bits ],
-    "ubuntu20.04": [ deb_bits ],
-    "windows": [ win_bits ]
-  }
-%}
-
-{#- Platforms for which we expect a tools package #}
-{%- set tools_plats = [ "linux", "macos", "windows" ] %}
-
-{#- #######  END TEMPLATE CONFIGURATION ########## #}
 {#- ####### ACTUAL OUTPUT TEMPLATE ######## -#}
 
 filenames:
-{%- for platform_entry in platforms_for[release]            %}
-{%-   set plat_bits = platform_entry.split(':')             %}
-{%-   set platform = plat_bits[0]                           %}
-{%-   for bits in filebits_for[platform]                    %}
-{%-     if plat_bits | length > 1                           %}
-{%-       set arch = plat_bits[1]                           %}
-{%-     else                                                %}
-{%-       set arch = bits["default_arch"]                   %}
-{%-     endif                                               %}
-{%-     if (arch == "aarch64") and (bits["ext"] == "deb")   %}
-{%-       set arch = "arm64"                                %}
-{%-     endif                                               %}
-{%-     for edition in [ "community", "enterprise" ]        %}
-  - {{ product }}-{{ edition }}{{ bits["sep1"] }}{{ version }}-{{ build_num }}-{{ platform }}{{ bits["sep2"] }}{{ arch }}.{{ bits["ext"] }}
-{%-     endfor                                              %}
-{%-     if (version_tuple >= (7, 6, 4)) and
-            (platform in tools_plats) and
-            (bits["tools_ext"] != "IGNORE")                 %}
-  - {{ product }}-admin-tools-{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}
-  - {{ product }}-dev-tools-{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}
-{%-     elif (version_tuple >= (7, 1, 0)) and
-            (platform in tools_plats) and
-            (bits["tools_ext"] != "IGNORE")                 %}
-  - {{ product }}-tools_{{ version }}-{{ build_num }}-{{ platform }}_{{ arch }}.{{ bits["tools_ext"] }}
-{%-     endif                                               %}
-{%-   endfor                                                %}
+{%- for edition in editions:                                %}
+{#- RPMs #}
+  - {{ product }}-{{ edition }}-{{ version }}-{{ build_num }}-linux.x86_64.rpm
+  - {{ product }}-{{ edition }}-{{ version }}-{{ build_num }}-linux.aarch64.rpm
+  - {{ product }}-{{ edition }}-debuginfo-{{ version }}-{{ build_num }}-linux.x86_64.rpm
+  - {{ product }}-{{ edition }}-debuginfo-{{ version }}-{{ build_num }}-linux.aarch64.rpm
+{#- DEBs #}
+  - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-linux_amd64.deb
+  - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-linux_arm64.deb
+  - {{ product }}-{{ edition }}-dbg_{{ version }}-{{ build_num }}-linux_amd64.deb
+  - {{ product }}-{{ edition }}-dbg_{{ version }}-{{ build_num }}-linux_arm64.deb
+{#- MacOS #}
+  - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-macos_x86_64.dmg
+  - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-macos_arm64.dmg
+{#- Windows #}
+  - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-windows_amd64.msi
+  - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-windows_amd64-PDB.zip
+{%- endfor                                                  %}
+{#- Tools packages #}
+{%- for tools_pkg in tools_pkgs                             %}
+  - {{ product }}-{{ tools_pkg }}{{ version }}-{{ build_num }}-linux_x86_64.tar.gz
+  - {{ product }}-{{ tools_pkg }}{{ version }}-{{ build_num }}-linux_aarch64.tar.gz
+  - {{ product }}-{{ tools_pkg }}{{ version }}-{{ build_num }}-macos_x86_64.zip
+  - {{ product }}-{{ tools_pkg }}{{ version }}-{{ build_num }}-macos_arm64.zip
+  - {{ product }}-{{ tools_pkg }}{{ version }}-{{ build_num }}-windows_amd64.zip
 {%- endfor                                                  %}
