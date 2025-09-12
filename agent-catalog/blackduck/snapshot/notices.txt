@@ -315,7 +315,7 @@ pydantic 2.11.7: https://pydantic-docs.helpmanual.io/ : MIT License
 pydantic-core 2.33.2: https://github.com/samuelcolvin/pydantic-core : MIT License
 pydantic-settings 2.10.1: https://github.com/danields761/pydantic-settings : MIT License
 Pygments - Python syntax highlighter 2.19.2: http://pygments.org/ : BSD 2-clause "Simplified" License
-pypdf 6.0.0 : 
+pypdf 6.0.0 : BSD 3-clause "New" or "Revised" License
 pypi/setuptools 80.9.0: https://pypi.org/project/setuptools/ : MIT License
 pytest 8.4.1: http://pytest.org : MIT License
 pytest-asyncio 1.1.0: https://pypi.python.org/pypi/pytest-asyncio : Apache License 2.0
@@ -341,7 +341,7 @@ PyTZ - Python Time Zone Library 2025.2: http://pythonhosted.org/pytz/ : MIT Lice
 pywin32 311: https://github.com/mhammond/pywin32 : Python Software Foundation License 2.0
 PyYAML 6.0.2: https://pyyaml.org/ : MIT License
 referencing 0.36.2: https://github.com/python-jsonschema/referencing : MIT License
-regex 2025.9.1: https://github.com/cgrand/regex : 
+regex 2025.9.1: https://github.com/cgrand/regex : (CNRI Python License AND Apache License 2.0)
 requests-toolbelt 1.0.0: https://toolbelt.readthedocs.io : Apache License 2.0
 RonnyPfannschmidt/iniconfig 2.1.0: https://github.com/RonnyPfannschmidt/iniconfig : MIT License
 rpds-py 0.27.1: https://pypi.org/project/rpds-py/ : MIT License
@@ -380,7 +380,7 @@ zstandard 0.24.0: https://github.com/indygreg/python-zstandard : BSD 3-clause "N
 Licenses: 
 
 Apache License 2.0
-(aiohttp 3.12.15, aiosignal 1.4.0, couchbase-python-client 4.4.0, distro 1.9.0, docker 7.1.0, frozenlist 1.7.0, hf-xet 1.1.9, huggingface-hub 0.34.4, multidict 6.6.4, nltk 3.9.1, nvidia-nvtx-cu12 12.6.77, nvidia-nvtx-cu12 12.8.90, openai 1.105.0, orjson 3.11.3, ormsgpack 1.10.0, Packaging 25.0, propcache 0.3.2, psf-requests 2.32.5, pytest-asyncio 1.1.0, Python tzdata 2025.2, python-dateutil 2.9.0.post0, requests-toolbelt 1.0.0, safetensors 0.6.2, sentence-transformers 3.4.1, sniffio 1.3.1, tenacity 9.1.2, tokenizers 0.22.0, transformers 4.56.0, yarl 1.20.1)
+(aiohttp 3.12.15, aiosignal 1.4.0, couchbase-python-client 4.4.0, distro 1.9.0, docker 7.1.0, frozenlist 1.7.0, hf-xet 1.1.9, huggingface-hub 0.34.4, multidict 6.6.4, nltk 3.9.1, nvidia-nvtx-cu12 12.6.77, nvidia-nvtx-cu12 12.8.90, openai 1.105.0, orjson 3.11.3, ormsgpack 1.10.0, Packaging 25.0, propcache 0.3.2, psf-requests 2.32.5, pytest-asyncio 1.1.0, Python tzdata 2025.2, python-dateutil 2.9.0.post0, regex 2025.9.1, requests-toolbelt 1.0.0, safetensors 0.6.2, sentence-transformers 3.4.1, sniffio 1.3.1, tenacity 9.1.2, tokenizers 0.22.0, transformers 4.56.0, yarl 1.20.1)
 
 Apache License
 Version 2.0, January 2004
@@ -596,7 +596,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(boltons 25.0.0, Click - Python Command Line Utility 8.1.8, cloup 3.0.8, colorama 0.4.6, dateparser 1.2.2, filesystem_spec 2025.3.0, gitdb 4.0.12, GitPython 3.1.45, httpcore 1.0.9, httpx 0.28.1, idna 3.10, isodate 0.7.2, jinjapython 3.1.6, joblib 1.5.2, MarkupSafe 3.0.2, mpmath 1.3.0, nest-asyncio 1.6.0, NetworkX 3.5, nodeenv 1.9.1, NumPy 2.3.2, nvidia-nccl-cu12 2.26.2, nvidia-nccl-cu12 2.27.3, Packaging 25.0, pandas-python 2.2.3, python-dateutil 2.9.0.post0, python-dotenv 1.1.1, python-json-patch 1.33, python-json-pointer 3.0.0, python-semanticversion 2.10.0, pytorch 2.7.1, pytorch 2.8.0, scikit-learn 1.7.1, SciPy 1.16.1, smmap 5.0.2, striprtf 0.0.26, SymPy 1.14.0, threadpoolctl 3.6.0, wrapt 1.17.3, xxhash 3.5.0, zstandard 0.24.0)
+(boltons 25.0.0, Click - Python Command Line Utility 8.1.8, cloup 3.0.8, colorama 0.4.6, dateparser 1.2.2, filesystem_spec 2025.3.0, gitdb 4.0.12, GitPython 3.1.45, httpcore 1.0.9, httpx 0.28.1, idna 3.10, isodate 0.7.2, jinjapython 3.1.6, joblib 1.5.2, MarkupSafe 3.0.2, mpmath 1.3.0, nest-asyncio 1.6.0, NetworkX 3.5, nodeenv 1.9.1, NumPy 2.3.2, nvidia-nccl-cu12 2.26.2, nvidia-nccl-cu12 2.27.3, Packaging 25.0, pandas-python 2.2.3, pypdf 6.0.0, python-dateutil 2.9.0.post0, python-dotenv 1.1.1, python-json-patch 1.33, python-json-pointer 3.0.0, python-semanticversion 2.10.0, pytorch 2.7.1, pytorch 2.8.0, scikit-learn 1.7.1, SciPy 1.16.1, smmap 5.0.2, striprtf 0.0.26, SymPy 1.14.0, threadpoolctl 3.6.0, wrapt 1.17.3, xxhash 3.5.0, zstandard 0.24.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -817,6 +817,79 @@ Services Agreement, ACMEs entire liability regarding Support Services shall be
 governed by the terms of that agreement. Because some states and jurisdictions do
 not allow the exclusion or limitation of liability, the above limitation may not
 apply to you.
+
+---
+
+CNRI Python License
+(regex 2025.9.1)
+
+Python License (CNRI Python License)
+====================================
+
+
+CNRI OPEN SOURCE LICENSE AGREEMENT
+----------------------------------
+
+
+
+IMPORTANT: PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY.
+
+BY CLICKING ON "ACCEPT" WHERE INDICATED BELOW, OR BY COPYING, INSTALLING OR
+OTHERWISE USING PYTHON 1.6, beta 1 SOFTWARE, YOU ARE DEEMED TO HAVE AGREED TO THE
+TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT.
+
+1. This LICENSE AGREEMENT is between the Corporation for National Research
+Initiatives, having an office at 1895 Preston White Drive, Reston, VA 20191
+("CNRI"), and the Individual or Organization ("Licensee") accessing and otherwise
+using Python 1.6, beta 1 software in source or binary form and its associated
+documentation, as released at the www.python.org Internet site on August 4, 2000
+("Python 1.6b1").
+
+2. Subject to the terms and conditions of this License Agreement, CNRI hereby
+grants Licensee a non-exclusive, royalty-free, world-wide license to reproduce,
+analyze, test, perform and/or display publicly, prepare derivative works,
+distribute, and otherwise use Python 1.6b1 alone or in any derivative version,
+provided, however, that CNRIs License Agreement is retained in Python 1.6b1,
+alone or in any derivative version prepared by Licensee.
+
+Alternately, in lieu of CNRIs License Agreement, Licensee may substitute the
+following text (omitting the quotes): "Python 1.6, beta 1, is made available
+subject to the terms and conditions in CNRIs License Agreement. This Agreement
+may be located on the Internet using the following unique, persistent identifier
+(known as a handle): 1895.22/1011. This Agreement may also be obtained from a
+proxy server on the Internet using the URL:http://hdl.handle.net/1895.22/1011".
+
+3. In the event Licensee prepares a derivative work that is based on or
+incorporates Python 1.6b1 or any part thereof, and wants to make the derivative
+work available to the public as provided herein, then Licensee hereby agrees to
+indicate in any such work the nature of the modifications made to Python 1.6b1.
+
+4. CNRI is making Python 1.6b1 available to Licensee on an "AS IS" basis. CNRI
+MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE,
+BUT NOT LIMITATION, CNRI MAKES NO AND DISCLAIMS ANY REPRESENTATION OR WARRANTY OF
+MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF PYTHON
+1.6b1WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
+
+5. CNRI SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF THE SOFTWARE FOR
+ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF USING,
+MODIFYING OR DISTRIBUTING PYTHON 1.6b1, OR ANY DERIVATIVE THEREOF, EVEN IF
+ADVISED OF THE POSSIBILITY THEREOF.
+
+6. This License Agreement will automatically terminate upon a material breach of
+its terms and conditions.
+
+7. This License Agreement shall be governed by and interpreted in all respects by
+the law of the State of Virginia, excluding conflict of law provisions. Nothing
+in this License Agreement shall be deemed to create any relationship of agency,
+partnership, or joint venture between CNRI and Licensee. This License Agreement
+does not grant permission to use CNRI trademarks or trade name in a trademark
+sense to endorse or promote products or services of Licensee, or any third party.
+
+8. By clicking on the "ACCEPT" button where indicated, or by copying, installing
+or otherwise using Python 1.6b1, Licensee agrees to be bound by the terms and
+conditions of this License Agreement.
+
+ACCEPT
 
 ---
 
