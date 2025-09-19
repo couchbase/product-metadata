@@ -110,9 +110,6 @@ Acorn-JSX 5.3.2: https://github.com/RReverser/Acorn-JSX : MIT License
 aggregate-error 3.1.0: https://github.com/sindresorhus/aggregate-error#readme : MIT License
 ajv 6.12.6: https://github.com/ajv-validator/ajv.git : MIT License
 ansi-escapes 4.3.2: https://github.com/sindresorhus/ansi-escapes : MIT License
-ansi-regex 2.1.1: https://github.com/chalk/ansi-regex : MIT License
-ansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
-ansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
 ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 6.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
@@ -153,6 +150,9 @@ chainsaw 0.1.0: https://github.com/substack/node-chainsaw : MIT License
 Chalk 2.4.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 3.0.0: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
+chalkansi-regex 2.1.1: https://github.com/chalk/ansi-regex : MIT License
+chalkansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
+chalkansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
 char-regex 1.0.2: https://github.com/Richienb/char-regex#readme : MIT License
 chownr 1.1.4: https://github.com/isaacs/chownr : ISC License
 ci-info 3.7.0: https://github.com/watson/ci-info : MIT License
@@ -2705,7 +2705,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(ansi-regex 5.0.1)
+(chalkansi-regex 5.0.1)
 
 Upstream-Contact: https://github.com/sindresorhus/ansi-regex/issues
 Source: https://github.com/sindresorhus/ansi-regex
@@ -4948,7 +4948,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(ansi-regex 2.1.1, camelcase 2.1.1, code-point-at 1.1.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, invert-kv 1.0.0, is-fullwidth-code-point 1.0.0, lcid 1.0.0, number-is-nan 1.0.1, os-locale 1.4.0, path-is-absolute 1.0.1, string-width 1.0.2, Strip ANSI 3.0.1, strip-json-comments 2.0.1, wrap-ansi 2.1.0)
+(camelcase 2.1.1, chalkansi-regex 2.1.1, code-point-at 1.1.0, Decamelize 1.2.0, escape-string-regexp 1.0.5, invert-kv 1.0.0, is-fullwidth-code-point 1.0.0, lcid 1.0.0, number-is-nan 1.0.1, os-locale 1.4.0, path-is-absolute 1.0.1, string-width 1.0.2, Strip ANSI 3.0.1, strip-json-comments 2.0.1, wrap-ansi 2.1.0)
 
 The MIT License (MIT)
 
@@ -5720,7 +5720,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ansi-escapes 4.3.2, ansi-regex 6.0.1, camelcase 6.3.0, cli-truncate 3.1.0, decompress-response 6.0.0, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, execa 6.1.0, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, import-fresh 3.3.0, is-fullwidth-code-point 4.0.0, is-stream 2.0.1, is-stream 3.0.0, mimic-fn 4.0.0, mimic-response 3.1.0, npm-run-path 5.1.0, p-limit 3.1.0, p-map 4.0.0, parse-json v5.2.0, path-key 4.0.0, sindresorhus/onetime 6.0.0, sindresorhus/onetime v5.1.2, sindresorhus/supports-color 8.1.1, string-length 4.0.2, Strip ANSI 7.0.1, strip-final-newline 3.0.0, strip-json-comments 3.1.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
+(ansi-escapes 4.3.2, camelcase 6.3.0, chalkansi-regex 6.0.1, cli-truncate 3.1.0, decompress-response 6.0.0, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, execa 6.1.0, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, import-fresh 3.3.0, is-fullwidth-code-point 4.0.0, is-stream 2.0.1, is-stream 3.0.0, mimic-fn 4.0.0, mimic-response 3.1.0, npm-run-path 5.1.0, p-limit 3.1.0, p-map 4.0.0, parse-json v5.2.0, path-key 4.0.0, sindresorhus/onetime 6.0.0, sindresorhus/onetime v5.1.2, sindresorhus/supports-color 8.1.1, string-length 4.0.2, Strip ANSI 7.0.1, strip-final-newline 3.0.0, strip-json-comments 3.1.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
 
 MIT License
 
