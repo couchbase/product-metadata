@@ -527,8 +527,10 @@ ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
 ansi-escapes 4.3.2: https://github.com/sindresorhus/ansi-escapes : MIT License
 ansi-html 0.0.9: https://github.com/Tjatse/ansi-html : Apache License 2.0
 ansi-html-community 0.0.8: https://github.com/mahdyar/ansi-html-community : Apache License 2.0
-ansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
-ansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
+ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
+ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
+ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
+ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
@@ -850,8 +852,6 @@ cespare/xxhash v2.3.0: https://github.com/cespare/xxhash : MIT License
 Chalk 2.4.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 3.0.0: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
-chalkansi-regex 4.1.0: https://github.com/chalk/ansi-regex : MIT License
-chalkansi-regex 5.0.0: https://github.com/chalk/ansi-regex : MIT License
 char-regex 1.0.2: https://github.com/Richienb/char-regex#readme : MIT License
 char-regex 2.0.1: https://github.com/Richienb/char-regex#readme : MIT License
 check-types.js 11.1.2: https://github.com/philbooth/check-types.js : MIT License
@@ -21420,7 +21420,7 @@ SOFTWARE
 ---
 
 MIT License
-(aggregate-error 3.0.1, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, chalkansi-regex 4.1.0, chalkansi-regex 5.0.0, clean-stack 2.2.0, cli-spinners 2.3.0, crypto-random-string 2.0.0, decompress-response 5.0.0, define-lazy-prop 2.0.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, find-up 3.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, import-local 3.1.0, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-root 2.1.0, is-stream v2.0.0, is-wsl 2.2.0, leven 3.1.0, locate-path 3.0.0, log-symbols 2.2.0, lowercase-keys 2.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, mimic-response 1.0.1, npm-run-path 4.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, pkg-up 3.1.0, quick-lru 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url 6.1.0, sindresorhus/normalize-url v4.5.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 6.1.0, sindresorhus/supports-color v7.1.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width 4.2.3, Strip ANSI 6.0.0, strip-bom 4.0.0, strip-final-newline 2.0.0, temp-dir 2.0.0, terminal-link 2.1.1, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1, unique-string 2.0.0)
+(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, clean-stack 2.2.0, cli-spinners 2.3.0, crypto-random-string 2.0.0, decompress-response 5.0.0, define-lazy-prop 2.0.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, find-up 3.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, import-local 3.1.0, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-root 2.1.0, is-stream v2.0.0, is-wsl 2.2.0, leven 3.1.0, locate-path 3.0.0, log-symbols 2.2.0, lowercase-keys 2.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, mimic-response 1.0.1, npm-run-path 4.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, pkg-up 3.1.0, quick-lru 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url 6.1.0, sindresorhus/normalize-url v4.5.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 6.1.0, sindresorhus/supports-color v7.1.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width 4.2.3, Strip ANSI 6.0.0, strip-bom 4.0.0, strip-final-newline 2.0.0, temp-dir 2.0.0, terminal-link 2.1.1, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1, unique-string 2.0.0)
 
 MIT License
 
