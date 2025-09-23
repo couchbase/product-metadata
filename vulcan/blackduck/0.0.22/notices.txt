@@ -14,7 +14,6 @@ aiohttp 3.12.15: http://aiohttp.readthedocs.io : Apache License 2.0
 aiosignal 1.4.0: https://aiosignal.readthedocs.io/ : Apache License 2.0
 annotated-types 0.7.0: https://github.com/annotated-types/annotated-types : MIT License
 anyio 4.10.0: https://pypi.org/project/anyio/ : MIT License
-anyio 4.6.2.post1: https://pypi.org/project/anyio/ : MIT License
 asyncio 3.4.3: http://www.python.org/dev/peps/pep-3156/ : Apache License 2.0
 backoff 2.2.1: https://github.com/litl/backoff : MIT License
 BeautifulSoup4 4.13.5: https://github.com/il-vladislav/BeautifulSoup4 : MIT License
@@ -23,23 +22,17 @@ boto3 1.40.25: http://aws.amazon.com/sdk-for-python/ : Apache License 2.0
 botocore 1.40.25: https://github.com/boto/botocore : Apache License 2.0
 breadability 0.1.20: https://github.com/bookieio/breadability : BSD 3-clause "New" or "Revised" License
 chardet 5.2.0: https://github.com/chardet/chardet : GNU Lesser General Public License v2.1 or later
-Click - Python Command Line Utility 8.1.7: http://click.pocoo.org/ : BSD 3-clause "New" or "Revised" License
 Click - Python Command Line Utility 8.2.1: http://click.pocoo.org/ : BSD 3-clause "New" or "Revised" License
-client_python 0.21.0: https://github.com/prometheus/client_python : Apache License 2.0
 client_python 0.21.1: https://github.com/prometheus/client_python : Apache License 2.0
-cobble 0.1.4: http://github.com/mwilliamson/python-cobble : BSD 3-clause "New" or "Revised" License
 colorama 0.4.6: https://github.com/tartley/colorama : BSD 3-clause "New" or "Revised" License
 coloredlogs 15.0.1: https://pypi.python.org/pypi/coloredlogs : MIT License
 contourpy 1.3.3: https://github.com/contourpy/contourpy : BSD 3-clause "New" or "Revised" License
-couchbase-python-client 4.3.4: http://www.couchbase.org : Apache License 2.0
 couchbase-python-client 4.4.0: http://www.couchbase.org : Apache License 2.0
 Cycler 0.12.1: https://github.com/matplotlib/Cycler : BSD 3-clause "New" or "Revised" License
 dataclasses-json 0.6.7: https://github.com/lidatong/dataclasses-json : MIT License
 docopt 0.6.2: http://docopt.org : MIT License
 emoji 2.14.1: http://github.com/imakado/emoji : BSD 3-clause "New" or "Revised" License
-encode/uvicorn 0.30.6: https://github.com/encode/uvicorn/ : BSD 3-clause "New" or "Revised" License
 fastapi 0.115.14: https://fastapi.tiangolo.com/ : MIT License
-fastapi 0.115.5: https://fastapi.tiangolo.com/ : MIT License
 filesystem_spec 2025.9.0: https://github.com/fsspec/filesystem_spec : BSD 3-clause "New" or "Revised" License
 filetype 1.2.0: https://github.com/h2non/filetype.py : MIT License
 Flask 3.1.2: http://flask.pocoo.org/ : BSD 3-clause "New" or "Revised" License
@@ -48,7 +41,6 @@ FlatBuffers 25.2.10: http://google.github.io/flatbuffers/ : Apache License 2.0
 fonttools/fonttools 4.59.2: https://groups.google.com/d/forum/fonttools : MIT License
 frozenlist 1.7.0: https://github.com/aio-libs/frozenlist : Apache License 2.0
 greenlet 3.2.4: http://pypi.python.org/pypi/greenlet : (Python Software Foundation License 2.0 AND MIT License)
-h11 0.14.0: https://github.com/njsmith/h11 : MIT License
 h11 0.16.0: https://github.com/njsmith/h11 : MIT License
 hf-xet 1.1.9 : Apache License 2.0
 html5lib-python 1.1: https://github.com/html5lib/html5lib-python : MIT License
@@ -66,9 +58,7 @@ langchain 0.2.43: https://github.com/langchain-ai/langchain : MIT License
 langchain-text-splitters 0.2.4: https://github.com/langchain-ai/langchain : MIT License
 langdetect 1.0.9: https://github.com/Mimino666/langdetect : MIT License
 langsmith 0.1.147: https://smith.langchain.com/ : MIT License
-lxml 5.4.0: http://codespeak.net/lxml/ : BSD 3-clause "New" or "Revised" License
 lxml 6.0.1: http://codespeak.net/lxml/ : BSD 3-clause "New" or "Revised" License
-mammoth 1.9.0: http://github.com/mwilliamson/python-mammoth : BSD 2-clause "Simplified" License
 MarkupSafe 3.0.2: https://www.palletsprojects.com/p/markupsafe/ : BSD 3-clause "New" or "Revised" License
 matplotlib 3.10.6: https://matplotlib.org/ : MATPLOTLIB License 1.3.0 or Later
 ml-dtypes 0.5.3: https://pypi.org/project/ml-dtypes/ : Apache License 2.0
@@ -100,34 +90,24 @@ opencv-python 4.11.0.86: https://github.com/skvark/opencv-python : Apache Licens
 orjson 3.11.3: https://github.com/ijl/orjson : (MIT License AND Apache License 2.0)
 Packaging 24.2: https://github.com/pypa/packaging : (BSD 2-clause "Simplified" License OR Apache License 2.0)
 pandas-python 2.3.2: https://pandas.pydata.org : BSD 3-clause "New" or "Revised" License
-pdfminer.six 20250327: https://github.com/pdfminer/pdfminer.six/wiki : MIT License
 pdfminer.six 20250506: https://github.com/pdfminer/pdfminer.six/wiki : MIT License
-pdfplumber 0.11.6 : MIT License
-PillowPython 11.2.1: https://github.com/python-pillow/Pillow : Python Imaging Library Software License
 PillowPython 11.3.0: https://github.com/python-pillow/Pillow : Python Imaging Library Software License
-prometheus-fastapi-instrumentator 7.0.0: https://github.com/trallnag/prometheus-fastapi-instrumentator : ISC License
 propcache 0.3.2: https://github.com/aio-libs/propcache : Apache License 2.0
 psf-requests 2.32.5: http://docs.python-requests.org : Apache License 2.0
 psutil 7.0.0: http://code.google.com/p/psutil/ : BSD 3-clause "New" or "Revised" License
 py-filelock 3.19.1: https://github.com/benediktschmitt/py-filelock : The Unlicense
 py-kiwisolver 1.4.9: https://github.com/nucleic/kiwi : BSD 3-clause "New" or "Revised" License
-pyca/cryptography 44.0.3: https://github.com/pyca/cryptography : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
 pyca/cryptography 45.0.7: https://github.com/pyca/cryptography : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
 pycountry 24.6.1: http://pypi.python.org/pypi/pycountry : GNU Lesser General Public License v2.1 only
 pycparser 2.22: https://github.com/eliben/pycparser : BSD 3-clause "New" or "Revised" License
-pydantic 2.10.2: https://pydantic-docs.helpmanual.io/ : MIT License
 pydantic 2.11.7: https://pydantic-docs.helpmanual.io/ : MIT License
-pydantic-core 2.27.1: https://github.com/samuelcolvin/pydantic-core : MIT License
 pydantic-core 2.33.2: https://github.com/samuelcolvin/pydantic-core : MIT License
 pydantic-settings 2.10.1: https://github.com/danields761/pydantic-settings : MIT License
-pydantic-settings 2.6.1: https://github.com/danields761/pydantic-settings : MIT License
 Pyparsing 3.2.3: https://github.com/pyparsing/pyparsing/ : MIT License
 pypdf 5.9.0 : BSD 3-clause "New" or "Revised" License
 pypdfium2 4.30.0: https://github.com/pypdfium2-team/pypdfium2 : (Creative Commons Attribution 4.0 AND Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
-pypdfium2 4.30.1: https://github.com/pypdfium2-team/pypdfium2 : (Creative Commons Attribution 4.0 AND Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 pypi/setuptools 80.9.0: https://pypi.org/project/setuptools/ : MIT License
 pyreadline3 3.5.4: https://pypi.python.org/pypi/pyreadline3/ : BSD 3-clause "New" or "Revised" License
-python cffi 1.17.1: https://cffi.readthedocs.io/en/latest/index.html : MIT License
 python cffi 2.0.0b1: https://cffi.readthedocs.io/en/latest/index.html : 
 Python six 1.17.0: http://pypi.python.org/pypi/six : MIT License
 Python tzdata 2025.2: https://github.com/python/tzdata : Apache License 2.0
@@ -135,7 +115,6 @@ python-aiofiles 24.1.0: http://github.com/Tinche/aiofiles/ : Apache License 2.0
 python-attrs 25.3.0: https://attrs.readthedocs.org/ : MIT License
 python-certifi 2025.8.3: https://certifiio.readthedocs.io/en/latest/ : ISC License
 python-dateutil 2.9.0.post0: https://github.com/dateutil/dateutil : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
-python-dotenv 1.0.1: http://github.com/theskumar/python-dotenv : BSD 3-clause "New" or "Revised" License
 python-dotenv 1.1.1: http://github.com/theskumar/python-dotenv : BSD 3-clause "New" or "Revised" License
 python-iso639 2025.2.18 : Apache License 2.0
 python-json-patch 1.33: https://github.com/stefankoegl/python-json-patch/ : BSD 3-clause "New" or "Revised" License
@@ -143,15 +122,10 @@ python-json-pointer 3.0.0: https://github.com/stefankoegl/python-json-pointer : 
 python-magic 0.4.27: https://github.com/ahupp/python-magic : MIT License
 python-marshmallow 3.26.1: http://marshmallow.readthedocs.io/ : MIT License
 python-multipart 0.0.20: http://github.com/andrew-d/python-multipart : Apache License 2.0
-python-multipart 0.0.9: http://github.com/andrew-d/python-multipart : Apache License 2.0
-python-openxml/python-docx 1.1.2: https://github.com/python-openxml/python-docx : Expat License
 python-oxmsg 0.0.2 : MIT License
 python-protobuf 6.32.0: https://code.google.com/p/protobuf/ : BSD 3-clause "New" or "Revised" License
-python-typing-extensions 4.12.2 : Python Software Foundation License 2.0
-python-typing-extensions 4.13.2 : Python Software Foundation License 2.0
 python-typing-extensions 4.15.0 : Python Software Foundation License 2.0
 python-webencodings 0.5.1: https://github.com/SimonSapin/python-webencodings : BSD 3-clause "New" or "Revised" License
-python3-charset-normalizer 3.4.2: https://github.com/ousret/charset_normalizer : MIT License
 python3-charset-normalizer 3.4.3: https://github.com/ousret/charset_normalizer : MIT License
 pytorch 2.7.1: http://pytorch.org : BSD 3-clause "New" or "Revised" License
 PyTZ - Python Time Zone Library 2025.2: http://pythonhosted.org/pytz/ : MIT License
@@ -196,7 +170,7 @@ yarl 1.20.1: https://github.com/aio-libs/yarl/ : Apache License 2.0
 Licenses: 
 
 Apache License 2.0
-(aiohttp 3.12.15, aiosignal 1.4.0, asyncio 3.4.3, boto3 1.40.25, botocore 1.40.25, client_python 0.21.0, client_python 0.21.1, couchbase-python-client 4.3.4, couchbase-python-client 4.4.0, FlatBuffers 25.2.10, frozenlist 1.7.0, hf-xet 1.1.9, huggingface-hub 0.34.4, ml-dtypes 0.5.3, multidict 6.6.4, nltk 3.9.1, nvidia-nvtx-cu12 12.6.77, onnx 1.19.0, opencv-python 4.11.0.86, orjson 3.11.3, Packaging 24.2, propcache 0.3.2, psf-requests 2.32.5, pyca/cryptography 44.0.3, pyca/cryptography 45.0.7, pypdfium2 4.30.0, pypdfium2 4.30.1, Python tzdata 2025.2, python-aiofiles 24.1.0, python-dateutil 2.9.0.post0, python-iso639 2025.2.18, python-multipart 0.0.20, python-multipart 0.0.9, regex 2025.9.1, requests-toolbelt 1.0.0, rwightman/pytorch-image-models 1.0.19, s3transfer 0.13.1, safetensors 0.6.2, sentence-transformers 4.1.0, sniffio 1.3.1, sumy 0.11.0, tenacity 8.5.0, tokenizers 0.22.0, transformers 4.56.1, unstructured 0.17.2, unstructured-inference 0.8.10, yarl 1.20.1)
+(aiohttp 3.12.15, aiosignal 1.4.0, asyncio 3.4.3, boto3 1.40.25, botocore 1.40.25, client_python 0.21.1, couchbase-python-client 4.4.0, FlatBuffers 25.2.10, frozenlist 1.7.0, hf-xet 1.1.9, huggingface-hub 0.34.4, ml-dtypes 0.5.3, multidict 6.6.4, nltk 3.9.1, nvidia-nvtx-cu12 12.6.77, onnx 1.19.0, opencv-python 4.11.0.86, orjson 3.11.3, Packaging 24.2, propcache 0.3.2, psf-requests 2.32.5, pyca/cryptography 45.0.7, pypdfium2 4.30.0, Python tzdata 2025.2, python-aiofiles 24.1.0, python-dateutil 2.9.0.post0, python-iso639 2025.2.18, python-multipart 0.0.20, regex 2025.9.1, requests-toolbelt 1.0.0, rwightman/pytorch-image-models 1.0.19, s3transfer 0.13.1, safetensors 0.6.2, sentence-transformers 4.1.0, sniffio 1.3.1, sumy 0.11.0, tenacity 8.5.0, tokenizers 0.22.0, transformers 4.56.1, unstructured 0.17.2, unstructured-inference 0.8.10, yarl 1.20.1)
 
 Apache License
 Version 2.0, January 2004
@@ -383,7 +357,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(mammoth 1.9.0, Packaging 24.2)
+(Packaging 24.2)
 
 BSD Two Clause License
 ======================
@@ -445,7 +419,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(breadability 0.1.20, Click - Python Command Line Utility 8.1.7, Click - Python Command Line Utility 8.2.1, cobble 0.1.4, colorama 0.4.6, contourpy 1.3.3, Cycler 0.12.1, emoji 2.14.1, encode/uvicorn 0.30.6, filesystem_spec 2025.9.0, Flask 3.1.2, httpcore 1.0.9, httpx 0.28.1, idna 3.10, itsdangerous 2.2.0, jinjapython 3.1.6, joblib 1.5.2, lxml 5.4.0, lxml 6.0.1, MarkupSafe 3.0.2, mpmath 1.3.0, NetworkX 3.5, NumPy 1.26.4, nvidia-nccl-cu12 2.26.2, olefile 0.47, pandas-python 2.3.2, psutil 7.0.0, py-kiwisolver 1.4.9, pyca/cryptography 44.0.3, pyca/cryptography 45.0.7, pycparser 2.22, pypdf 5.9.0, pypdfium2 4.30.0, pypdfium2 4.30.1, pyreadline3 3.5.4, python-dateutil 2.9.0.post0, python-dotenv 1.0.1, python-dotenv 1.1.1, python-json-patch 1.33, python-json-pointer 3.0.0, python-protobuf 6.32.0, pytorch 2.7.1, scikit-learn 1.7.1, SciPy 1.16.1, Starlette 0.41.3, SymPy 1.14.0, threadpoolctl 3.6.0, torchvision 0.22.1, Werkzeug 3.1.3, wrapt 1.17.3)
+(breadability 0.1.20, Click - Python Command Line Utility 8.2.1, colorama 0.4.6, contourpy 1.3.3, Cycler 0.12.1, emoji 2.14.1, filesystem_spec 2025.9.0, Flask 3.1.2, httpcore 1.0.9, httpx 0.28.1, idna 3.10, itsdangerous 2.2.0, jinjapython 3.1.6, joblib 1.5.2, lxml 6.0.1, MarkupSafe 3.0.2, mpmath 1.3.0, NetworkX 3.5, NumPy 1.26.4, nvidia-nccl-cu12 2.26.2, olefile 0.47, pandas-python 2.3.2, psutil 7.0.0, py-kiwisolver 1.4.9, pyca/cryptography 45.0.7, pycparser 2.22, pypdf 5.9.0, pypdfium2 4.30.0, pyreadline3 3.5.4, python-dateutil 2.9.0.post0, python-dotenv 1.1.1, python-json-patch 1.33, python-json-pointer 3.0.0, python-protobuf 6.32.0, pytorch 2.7.1, scikit-learn 1.7.1, SciPy 1.16.1, Starlette 0.41.3, SymPy 1.14.0, threadpoolctl 3.6.0, torchvision 0.22.1, Werkzeug 3.1.3, wrapt 1.17.3)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -743,7 +717,7 @@ ACCEPT
 ---
 
 Creative Commons Attribution 4.0
-(pypdfium2 4.30.0, pypdfium2 4.30.1)
+(pypdfium2 4.30.0)
 
 Creative Commons Attribution 4.0
 ================================
@@ -1071,35 +1045,6 @@ For the avoidance of doubt, this paragraph does not form part of the public
 licenses.
 
 Creative Commons may be contacted at creativecommons.org.
-
----
-
-Expat License
-(python-openxml/python-docx 1.1.2)
-
-Expat License
-=============
-
-Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd
-                               and Clark Cooper
-Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in the
-Software without restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
-Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
-AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -2101,7 +2046,7 @@ That's all there is to it!
 ---
 
 ISC License
-(prometheus-fastapi-instrumentator 7.0.0, python-certifi 2025.8.3)
+(python-certifi 2025.8.3)
 
 ISC License (ISCL)
 ==================
@@ -2260,7 +2205,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(annotated-types 0.7.0, anyio 4.10.0, anyio 4.6.2.post1, backoff 2.2.1, BeautifulSoup4 4.13.5, blinker-pypi 1.9.0, dataclasses-json 0.6.7, fastapi 0.115.14, fastapi 0.115.5, filetype 1.2.0, flask-swagger-ui 5.21.0, fonttools/fonttools 4.59.2, greenlet 3.2.4, h11 0.14.0, h11 0.16.0, jmespath.py 1.0.1, langchain 0.2.17, langchain 0.2.43, langchain-text-splitters 0.2.4, langdetect 1.0.9, langsmith 0.1.147, msoffcrypto-tool 5.4.2, mypy-extensions 1.1.0, onnxruntime 1.22.1, orjson 3.11.3, pdfminer.six 20250327, pdfminer.six 20250506, pdfplumber 0.11.6, pydantic 2.10.2, pydantic 2.11.7, pydantic-core 2.27.1, pydantic-core 2.33.2, pydantic-settings 2.10.1, pydantic-settings 2.6.1, Pyparsing 3.2.3, pypi/setuptools 80.9.0, python cffi 1.17.1, Python six 1.17.0, python-attrs 25.3.0, python-magic 0.4.27, python-marshmallow 3.26.1, python-oxmsg 0.0.2, python3-charset-normalizer 3.4.2, python3-charset-normalizer 3.4.3, PyTZ - Python Time Zone Library 2025.2, PyYAML 6.0.2, RapidFuzz 3.14.0, s3 0.1.0, semantic-chunking 0.1.0, soupsieve 2.8, SQLAlchemy 2.0.43, tesserocr 2.8.0, tiktoken 0.9.0, tqdm 4.67.1, triton 3.3.1, typing-inspect 0.9.0, typing-inspection 0.4.1, unstructured-client 0.42.3, urllib3 2.5.0)
+(annotated-types 0.7.0, anyio 4.10.0, backoff 2.2.1, BeautifulSoup4 4.13.5, blinker-pypi 1.9.0, dataclasses-json 0.6.7, fastapi 0.115.14, filetype 1.2.0, flask-swagger-ui 5.21.0, fonttools/fonttools 4.59.2, greenlet 3.2.4, h11 0.16.0, jmespath.py 1.0.1, langchain 0.2.17, langchain 0.2.43, langchain-text-splitters 0.2.4, langdetect 1.0.9, langsmith 0.1.147, msoffcrypto-tool 5.4.2, mypy-extensions 1.1.0, onnxruntime 1.22.1, orjson 3.11.3, pdfminer.six 20250506, pydantic 2.11.7, pydantic-core 2.33.2, pydantic-settings 2.10.1, Pyparsing 3.2.3, pypi/setuptools 80.9.0, Python six 1.17.0, python-attrs 25.3.0, python-magic 0.4.27, python-marshmallow 3.26.1, python-oxmsg 0.0.2, python3-charset-normalizer 3.4.3, PyTZ - Python Time Zone Library 2025.2, PyYAML 6.0.2, RapidFuzz 3.14.0, s3 0.1.0, semantic-chunking 0.1.0, soupsieve 2.8, SQLAlchemy 2.0.43, tesserocr 2.8.0, tiktoken 0.9.0, tqdm 4.67.1, triton 3.3.1, typing-inspect 0.9.0, typing-inspection 0.4.1, unstructured-client 0.42.3, urllib3 2.5.0)
 
 The MIT License
 ===============
@@ -2883,7 +2828,7 @@ PERFORMANCE OF THIS SOURCE CODE.
 ---
 
 Python Imaging Library Software License
-(PillowPython 11.2.1, PillowPython 11.3.0)
+(PillowPython 11.3.0)
 
 Python Imaging Library Software License
 =======================================
@@ -2922,7 +2867,7 @@ SOFTWARE.
 ---
 
 Python Software Foundation License 2.0
-(aiohappyeyeballs 2.6.1, greenlet 3.2.4, python-typing-extensions 4.12.2, python-typing-extensions 4.13.2, python-typing-extensions 4.15.0)
+(aiohappyeyeballs 2.6.1, greenlet 3.2.4, python-typing-extensions 4.15.0)
 
 This license was approved as the official PSF License Version 2 on October 22,
 2004. The only differences between this and version 1 of the PSF license consist
