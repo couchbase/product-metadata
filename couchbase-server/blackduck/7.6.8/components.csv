@@ -254,7 +254,7 @@
 252,Bouncy Castle,1.79,Direct Dependency,(MIT License AND Apache License 2.0),PERMISSIVE,NOT_REVIEWED,907300e1-d66e-45ef-b77d-a790ed30b4e1,3154c13b-f281-49ea-9e14-4c2086b178a1,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 253,Bouncy Castle ASN.1 Extension and Utility APIs,1.79,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,596ef865-7f23-4ba8-b202-e1f5261d035c,36fa4b99-fc47-4460-9a98-65a85035379c,ad705c59-6893-4980-bdbf-0837f1823cc4
 254,"Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs",1.79,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cfa19008-29dd-4e1d-b4e3-a7a1ad9855a2,b5524042-5815-473d-bdac-1e7c09025938,ad705c59-6893-4980-bdbf-0837f1823cc4
-255,Breakpad,r835,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,db80c33d-d4c4-47e7-a3a4-a749eb3b5d74,dbdbc0b0-cf09-4a11-92dd-c2207abaabcf,3d238144-44e6-450e-b523-3defbdaed9dc
+255,Breakpad,v2022.07.12,Manually Added,"(Unicode License AND MIT License AND BSD 2-clause ""Simplified"" License AND Apple Public Source License 2.0 AND BSD 3-clause ""New"" or ""Revised"" License)","PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,db80c33d-d4c4-47e7-a3a4-a749eb3b5d74,037bc8b3-5032-4673-9112-e1aaccf6ae21,"abb42c9b-1ecf-4a0c-82ee-3b388695397f,3d238144-44e6-450e-b523-3defbdaed9dc,cc875133-df38-4806-9921-473e0ef01a87,ad705c59-6893-4980-bdbf-0837f1823cc4,fc451d0b-1164-4c74-9b9c-60e5de0fb97f"
 256,CSSselect,2.1.0,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,af141810-06f1-4b66-a5c5-c9f25f402177,bd754183-35c8-4e30-b339-635a9ef62c5f,cc875133-df38-4806-9921-473e0ef01a87
 257,CSSselect,4.3.0,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,af141810-06f1-4b66-a5c5-c9f25f402177,6c702329-c524-4023-bb8f-1789bfaf5993,cc875133-df38-4806-9921-473e0ef01a87
 258,CSSselect,5.1.0,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,af141810-06f1-4b66-a5c5-c9f25f402177,4d45365d-439d-4877-9f1e-9cf1369a6710,cc875133-df38-4806-9921-473e0ef01a87
@@ -1441,7 +1441,7 @@
 1439,soheilhy/cmux,v0.1.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2487e8d2-9866-459e-9781-b920592c75d4,eff26a3b-5b08-4dd1-bf7b-79de5ecbc2df,7cae335f-1193-421e-92f1-8802b4243e93
 1440,sortablejs,1.10.2,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,4ed7b19b-e5cc-4af3-a493-ed48821bf81e,388a0a49-3c43-45b8-8bb9-032622cf8339,ad705c59-6893-4980-bdbf-0837f1823cc4
 1441,sourcegraph/appdash,20190731-snapshot-ebfcffb1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,608b0c12-383a-489d-a08c-e7b72afb1ba7,96e14e72-deff-4c9b-8586-a549099739bb,ad705c59-6893-4980-bdbf-0837f1823cc4
-1442,spdlog,1.10.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,7785114c-5b78-4aad-8771-72a739a1f06e,1d23c68e-5fb2-4b66-817d-e9cd4473837a,ad705c59-6893-4980-bdbf-0837f1823cc4
+1442,spdlog,v1.15.0,Manually Added,MIT License,PERMISSIVE,NOT_REVIEWED,7785114c-5b78-4aad-8771-72a739a1f06e,9ec3f6f6-7f4f-4672-9bbf-9921da16be88,ad705c59-6893-4980-bdbf-0837f1823cc4
 1443,spdx-expression-parse.js,3.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6282b633-3142-4cab-b5c7-0c223900d12e,08abf6cd-a4e5-4fbb-9293-da6ef70fdf21,ad705c59-6893-4980-bdbf-0837f1823cc4
 1444,spdy,4.0.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,65e9bd1c-ba84-45f9-b16d-0bdf9695666e,10795d07-f25a-40a6-98af-4eeb9eb6c5a0,ad705c59-6893-4980-bdbf-0837f1823cc4
 1445,spf13-afero,v1.10.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,43df3dae-7701-42c8-8626-ca3f7c9e5930,078ebae4-db67-4f0b-bec6-3e6915f60618,7cae335f-1193-421e-92f1-8802b4243e93
@@ -1873,7 +1873,7 @@
 1871,AzureAD/microsoft-authentication-library-for-go,v1.3.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,582b43d7-4b70-4dcc-8f04-72a8a7dc4ed8,7b511220-e2ae-4d37-858f-f19352975b2d,ad705c59-6893-4980-bdbf-0837f1823cc4
 1872,AzureAD/microsoft-authentication-library-for-go,v1.4.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,582b43d7-4b70-4dcc-8f04-72a8a7dc4ed8,d9f257b4-1e5c-440a-8951-3a94623ce0c2,ad705c59-6893-4980-bdbf-0837f1823cc4
 1873,AzureAD/microsoft-authentication-library-for-go,v1.4.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,582b43d7-4b70-4dcc-8f04-72a8a7dc4ed8,d9f257b4-1e5c-440a-8951-3a94623ce0c2,ad705c59-6893-4980-bdbf-0837f1823cc4
-1874,Boost C++ Libraries - boost,1.82.0,Manually Added,Boost Software License 1.0,PERMISSIVE,NOT_REVIEWED,4eac8f37-d9e5-4344-83d0-be0e9fd42a6a,b7af8b1f-256a-4d8a-a7eb-915bc3ffdfd0,26b23233-77bd-4cc2-8977-f312abd57327
+1874,Boost C++ Libraries - boost,1.86.0,Manually Added,Boost Software License 1.0,PERMISSIVE,NOT_REVIEWED,4eac8f37-d9e5-4344-83d0-be0e9fd42a6a,675102ef-cb58-4557-aa38-35f94dfeeaa4,26b23233-77bd-4cc2-8977-f312abd57327
 1875,Bootstrap (Twitter),4.6.2,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,677efaf5-5bad-4f93-904b-dc4b69af9199,dfc9c6a5-9658-4672-9702-ef988e09279a,ad705c59-6893-4980-bdbf-0837f1823cc4
 1876,BurntSushi/toml,1.3.2,Transitive Dependency,"(MIT License AND BSD 2-clause ""Simplified"" License AND Creative Commons Attribution 3.0 AND BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,999f5c44-828a-4f2c-8a17-9b5fd22f3beb,64f166d7-1e91-4f82-b2f8-0083421e18e9,"3d238144-44e6-450e-b523-3defbdaed9dc,cc875133-df38-4806-9921-473e0ef01a87,ad705c59-6893-4980-bdbf-0837f1823cc4,6958c970-4ceb-419e-8316-206151b9714a"
 1877,BurntSushi/toml,v0.3.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,999f5c44-828a-4f2c-8a17-9b5fd22f3beb,e513f674-8efd-4899-baf3-d756c355bec0,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -2331,7 +2331,7 @@
 2329,finalhandler,1.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f7dfd891-6ff7-4456-ac2a-089a228dc38d,08bfedfb-3e0c-49c3-9787-974d8600c257,ad705c59-6893-4980-bdbf-0837f1823cc4
 2330,find-cache-dir,3.3.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,469948f3-edf8-4cbd-960b-ad4735c21fff,69d0818e-7d58-473b-9030-68edc7e09742,ad705c59-6893-4980-bdbf-0837f1823cc4
 2331,flatiron/nock,13.5.6,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,75303069-0517-4ac2-9ee9-85b00ccbf4d9,5ab1271e-7724-46bd-b1ae-b578456fb2a6,ad705c59-6893-4980-bdbf-0837f1823cc4
-2332,fmtlib/fmt,8.1.1,Manually Added,(MIT License AND fmt exception),PERMISSIVE,NOT_REVIEWED,eae20828-18b8-478f-83b3-4a058748a28b,f379200e-ecb1-4ccf-a4ce-0795482bb9f4,"ad705c59-6893-4980-bdbf-0837f1823cc4,3a9ce417-ffbd-44bd-be13-2eeabf5fb943"
+2332,fmtlib/fmt,11.0.0,Manually Added,(MIT License AND fmt exception),PERMISSIVE,NOT_REVIEWED,eae20828-18b8-478f-83b3-4a058748a28b,6ca6cfca-0824-45b4-8b64-96a0ce0bfcb5,"ad705c59-6893-4980-bdbf-0837f1823cc4,3a9ce417-ffbd-44bd-be13-2eeabf5fb943"
 2333,forestdb,v1.2,"Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a9c3a6a3-195e-4864-a853-e257c57a7ff8,5e4fa1a4-a2bc-4c9d-8586-5c223713bd95,7cae335f-1193-421e-92f1-8802b4243e93
 2334,forwarded,0.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,55584837-e5dc-4264-865b-5f33c2fb73c0,a892eb93-2d46-4590-bc09-3012995e84a0,ad705c59-6893-4980-bdbf-0837f1823cc4
 2335,foxcpp/go-mockdns,v1.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cad3331c-0aae-41af-b76f-688ad1d168e9,e8820b50-31bb-4466-9d1b-9a2e187cc2e3,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -3432,7 +3432,7 @@
 3430,util.promisify,1.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,51fc00bf-6f30-42ca-9ebd-0e525fcb2380,5d837a34-3daa-4004-a88b-62ac007fea20,ad705c59-6893-4980-bdbf-0837f1823cc4
 3431,utila,0.4.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,c80a8af5-2f90-43ca-86ce-7f7143593ea0,1cfa6cd9-37c2-411d-9ff2-fb88c1cceb98,ad705c59-6893-4980-bdbf-0837f1823cc4
 3432,utils-merge,1.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f4143331-9273-400c-a565-b7f792f8981c,d1dcc35c-11ae-465e-8d33-53d4d2e4b023,ad705c59-6893-4980-bdbf-0837f1823cc4
-3433,v8,12.1.285.26,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,3eec43ae-12a3-4035-bceb-9b5bd8eefe79,0ba9985b-3822-461a-98ba-f610e40799cb,3d238144-44e6-450e-b523-3defbdaed9dc
+3433,v8,13.4.115,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,3eec43ae-12a3-4035-bceb-9b5bd8eefe79,edfef867-6ebd-4779-acdb-2aac385e824d,3d238144-44e6-450e-b523-3defbdaed9dc
 3434,validate-npm-package-license,3.0.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,0b9dcab8-8254-4f4a-b2a0-3903de818688,b47edf63-fd9b-40d7-bc42-9908e01ea98e,7cae335f-1193-421e-92f1-8802b4243e93
 3435,validate-npm-package-name,3.0.0,Transitive Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,204fbdf1-4518-4f5b-8c41-80feca26eea4,e3533e38-3af0-4d8e-8fea-36209b4378cb,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
 3436,w3c-hr-time,1.0.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a6d7fa72-b248-433b-a135-2d89d370a14e,cadc4893-7709-4980-ab1e-0eedf7ed909e,ad705c59-6893-4980-bdbf-0837f1823cc4
