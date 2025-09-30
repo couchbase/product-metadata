@@ -12,11 +12,10 @@ Components:
 Asio C++ Library 1.31.0: https://think-async.com/Asio/ : Boost Software License 1.0
 BoringSSL 20200921: https://boringssl.googlesource.com/boringssl : The Open SSL License
 C++ Guideline Support Library 4.0.0: https://github.com/Microsoft/GSL : MIT License
-fmtlib/fmt 11.0.1: https://github.com/fmtlib/fmt : (MIT License AND fmt exception)
-google-snappy 1.2.1: http://google.github.io/snappy/ : BSD 3-clause "New" or "Revised" License
+google-snappy 1.2.2: http://google.github.io/snappy/ : BSD 3-clause "New" or "Revised" License
 HdrHistogram_c 0.11.8: https://github.com/HdrHistogram/HdrHistogram_c : (BSD 2-clause "Simplified" License AND Creative Commons Zero v1.0 Universal AND Public Domain)
 nodejs/llhttp v9.2.1: https://github.com/nodejs/llhttp : MIT License
-spdlog v1.14.1: https://github.com/gabime/spdlog : MIT License
+spdlog v1.15.0: https://github.com/gabime/spdlog : MIT License
 taocpp/json 1.0.0-beta.14: https://github.com/taocpp/json : MIT License
 
 Licenses: 
@@ -51,7 +50,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(google-snappy 1.2.1)
+(google-snappy 1.2.2)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -267,7 +266,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 MIT License
-(fmtlib/fmt 11.0.1, nodejs/llhttp v9.2.1, spdlog v1.14.1, taocpp/json 1.0.0-beta.14)
+(nodejs/llhttp v9.2.1, spdlog v1.15.0, taocpp/json 1.0.0-beta.14)
 
 The MIT License
 ===============
@@ -386,21 +385,6 @@ OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED O
 THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
 written by Eric Young (eay@cryptsoft.com). This product includes software written
 by Tim Hudson (tjh@cryptsoft.com).
-
----
-
-fmt exception
-(fmtlib/fmt 11.0.1)
-
-fmt exception
-=============
-
---- Optional exception to the license ---
-
-As an exception, if, as a result of your compiling your source code, portions of
-this Software are embedded into a machine-executable object form of such source
-code, you may redistribute such embedded portions in such object form without
-including the above copyright and permission notices.
 
 ---
 
