@@ -374,10 +374,10 @@ color-name 1.1.4: https://github.com/colorjs/color-name : MIT License
 color-string 1.6.0: https://github.com/Qix-/color-string : MIT License
 colorette 1.3.0: https://github.com/jorgebucaran/colorette : MIT License
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 2.17.1: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 2.19.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 2.17.1: https://github.com/tj/commander.js : MIT License
+Commander.js 2.19.0: https://github.com/tj/commander.js : MIT License
+Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
+Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
 Commitizen CLI 4.2.4: http://commitizen.github.io/cz-cli/ : MIT License
 commitizen/cz-conventional-changelog 3.2.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
 commitizen/cz-conventional-changelog 3.3.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
@@ -802,6 +802,7 @@ jsbn 0.1.1: https://github.com/timkurvers/jsbn : MIT License
 jsdom 16.7.0: https://github.com/jsdom/jsdom : MIT License
 jsesc 0.5.0: http://mths.be/jsesc : MIT License
 jsesc v2.5.2: http://mths.be/jsesc : MIT License
+jshttp statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 JSHTTP's negotiator 0.6.2: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.4: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
@@ -1176,7 +1177,7 @@ remove-trailing-separator 1.1.0: https://github.com/darsain/remove-trailing-sepa
 renderkid 2.0.7: https://github.com/AriaMinaei/renderkid : MIT License
 repeat-element 1.1.4: https://github.com/jonschlinkert/repeat-element : MIT License
 repeat-string 1.6.1: https://github.com/jonschlinkert/repeat-string : MIT License
-Request -  Simple HTTP Client 2.88.2: https://github.com/request/request : Apache License 2.0
+Request -  Simple HTTP Client 2.88.2: https://github.com/mikeal/request : Apache License 2.0
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 require-from-string 2.0.2: https://github.com/floatdrop/require-from-string : MIT License
 require-main-filename 2.0.0: https://github.com/yargs/require-main-filename#readme : ISC License
@@ -1287,7 +1288,6 @@ stack-utils 1.0.5: https://github.com/jamestalmage/stack-utils#readme : MIT Lice
 stack-utils 2.0.3: https://github.com/jamestalmage/stack-utils#readme : MIT License
 static-eval 2.0.2: https://github.com/substack/static-eval : MIT License
 static-extend 0.1.2: https://github.com/jonschlinkert/static-extend : MIT License
-statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 std-env v2.3.0: https://github.com/pi0/std-env : MIT License
 stream-browserify 2.0.2: https://github.com/substack/stream-browserify : MIT License
 stream-each 1.2.3: https://github.com/mafintosh/stream-each : MIT License
@@ -13923,7 +13923,7 @@ SOFTWARE
 ---
 
 MIT License
-(statuses 1.5.0)
+(jshttp statuses 1.5.0)
 
 The MIT License (MIT)
 
