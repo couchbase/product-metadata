@@ -5,6 +5,13 @@
   {%- set editions = [ "enterprise" ] -%}
 {%- endif -%}
 
+{#- Name of debian debug package, based on version #}
+{%- if (version_tuple >= (8, 0, 0)) -%}
+{%-   set deb_dbg = "dbgsym" -%}
+{%- else -%}
+{%-   set deb_dbg = "dbg" -%}
+{%- endif -%}
+
 {#- Tools packages we expect, based on version #}
 {%- if (version_tuple >= (7, 6, 4)) -%}
 {%-   set tools_pkgs = [ "admin-tools-", "dev-tools-" ] -%}
@@ -26,8 +33,8 @@ filenames:
 {#- DEBs #}
   - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-linux_amd64.deb
   - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-linux_arm64.deb
-  - {{ product }}-{{ edition }}-dbg_{{ version }}-{{ build_num }}-linux_amd64.deb
-  - {{ product }}-{{ edition }}-dbg_{{ version }}-{{ build_num }}-linux_arm64.deb
+  - {{ product }}-{{ edition }}-{{ deb_dbg }}_{{ version }}-{{ build_num }}-linux_amd64.deb
+  - {{ product }}-{{ edition }}-{{ deb_dbg }}_{{ version }}-{{ build_num }}-linux_arm64.deb
 {#- MacOS #}
   - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-macos_x86_64.dmg
   - {{ product }}-{{ edition }}_{{ version }}-{{ build_num }}-macos_arm64.dmg
