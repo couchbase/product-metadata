@@ -77,7 +77,7 @@
 75,llama-index-core,0.13.4,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,702f3cb0-ff41-42d2-9be9-5602f27b1945,1a79d1ef-2a1f-493f-9ba7-de0ba762c19e,00000000-0010-0000-0000-000000000000
 76,llama-index-embeddings-openai,0.5.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,a7d68171-75de-410c-a266-8619e9f41144,02ac6041-5323-4bde-8f4a-8b07d68e1b70,00000000-0010-0000-0000-000000000000
 77,llama-index-indices-managed-llama-cloud,0.9.3,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,0805ba82-8cec-4336-84c2-e2025010654f,92c35fe5-d4d8-435e-9d59-636e20f9d2ea,00000000-0010-0000-0000-000000000000
-78,llama-index-instrumentation,0.4.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,31081658-385f-4e32-972b-d710dbbbc073,f9bb9be2-3cfe-4056-b0f0-c8868b47c43e,00000000-0010-0000-0000-000000000000
+78,llama-index-instrumentation,0.4.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,31081658-385f-4e32-972b-d710dbbbc073,f9bb9be2-3cfe-4056-b0f0-c8868b47c43e,ad705c59-6893-4980-bdbf-0837f1823cc4
 79,llama-index-llms-openai,0.5.4,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,24c37344-bf34-462e-addf-3686fd4be901,a70f7370-4821-462e-a004-50fff1597927,ad705c59-6893-4980-bdbf-0837f1823cc4
 80,llama-index-readers-file,0.5.2,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,19c1394e-f9d2-4929-ab73-10a6649d54fb,40578239-0796-4272-ace3-0ed34f958e3a,00000000-0010-0000-0000-000000000000
 81,llama-index-readers-llama-parse,0.5.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,869f3c7d-0547-4393-94de-71cc5fb1fc22,6fce9878-2ece-4edb-a4a6-e5cbafbff1e6,00000000-0010-0000-0000-000000000000
@@ -112,8 +112,8 @@
 110,nvidia-cusparse-cu12,12.5.8.93,Direct Dependency,NVIDIA License,PERMISSIVE,NOT_REVIEWED,2c10f2ef-d23a-497c-8500-85c84759602c,ee90b986-30dc-40e9-883e-0413a85a7b2e,cb6510ff-3f4f-4328-97df-7ac9da7db2a7
 111,nvidia-cusparselt-cu12,0.6.3,Direct Dependency,NVIDIA Customer Use License,RESTRICTED_PROPRIETARY,NOT_REVIEWED,3040c924-2fa8-42b7-a1e9-cf436797b5db,3f1d9162-a1d7-4d5a-a634-1612c0535310,471c1cfd-a33d-4955-ad37-a2e41491adcf
 112,nvidia-cusparselt-cu12,0.7.1,Direct Dependency,NVIDIA Customer Use License,RESTRICTED_PROPRIETARY,NOT_REVIEWED,3040c924-2fa8-42b7-a1e9-cf436797b5db,b9c304d1-6bce-4817-a2e9-ba7bf37a6496,471c1cfd-a33d-4955-ad37-a2e41491adcf
-113,nvidia-nccl-cu12,2.26.2,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,d3f83e9b-6e3e-46cd-bc09-d88afca727de,e5488f68-4303-4b9e-a43a-77203e469f03,3d238144-44e6-450e-b523-3defbdaed9dc
-114,nvidia-nccl-cu12,2.27.3,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,d3f83e9b-6e3e-46cd-bc09-d88afca727de,2b22993f-7b5e-4c8e-a151-90f5bbd247d8,3d238144-44e6-450e-b523-3defbdaed9dc
+113,nvidia-nccl-cu12,2.26.2,Direct Dependency,Basic Proprietary Commercial License,RESTRICTED_PROPRIETARY,NOT_REVIEWED,d3f83e9b-6e3e-46cd-bc09-d88afca727de,e5488f68-4303-4b9e-a43a-77203e469f03,3eca8fb9-fca4-4b49-b4bd-189ba8efd691
+114,nvidia-nccl-cu12,2.27.3,Direct Dependency,Basic Proprietary Commercial License,RESTRICTED_PROPRIETARY,NOT_REVIEWED,d3f83e9b-6e3e-46cd-bc09-d88afca727de,2b22993f-7b5e-4c8e-a151-90f5bbd247d8,3eca8fb9-fca4-4b49-b4bd-189ba8efd691
 115,nvidia-nvjitlink-cu12,12.6.85,Direct Dependency,Basic Proprietary Commercial License,RESTRICTED_PROPRIETARY,NOT_REVIEWED,f9759a65-2f7e-47c7-9c44-883286c2016f,5e41f9d7-f995-4b80-ad11-f0c33ff76133,3eca8fb9-fca4-4b49-b4bd-189ba8efd691
 116,nvidia-nvjitlink-cu12,12.8.93,Direct Dependency,Basic Proprietary Commercial License,RESTRICTED_PROPRIETARY,NOT_REVIEWED,f9759a65-2f7e-47c7-9c44-883286c2016f,db6ad7c0-6280-4825-a881-9bc2a79fd8c5,3eca8fb9-fca4-4b49-b4bd-189ba8efd691
 117,nvidia-nvtx-cu12,12.6.77,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3e0ac428-a9ce-4058-9b6f-4de3e90e86a4,45bc3d63-dcb5-49fa-9fae-4276c8690358,7cae335f-1193-421e-92f1-8802b4243e93
