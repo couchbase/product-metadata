@@ -42,7 +42,7 @@ chzyer/test v1.0.0: https://github.com/chzyer/test : MIT License
 client9/misspell v0.3.4: https://pkg.go.dev/github.com/client9/misspell : (MIT License AND BSD 3-clause "New" or "Revised" License)
 client_golang v1.20.5: https://github.com/prometheus/client_golang : Apache License 2.0
 cncf/udpa 20191208-snapshot-269d4d46: https://github.com/cncf/udpa : Apache License 2.0
-coreos-go-oidc v3.15.0: https://github.com/coreos/go-oidc : Apache License 2.0
+coreos-go-oidc v3.16.0: https://github.com/coreos/go-oidc : Apache License 2.0
 couchbase-blance v0.1.6 : Apache License 2.0
 couchbase-cbauth v0.1.13 : Apache License 2.0
 couchbase-cbgt v1.4.10 : Apache License 2.0
@@ -67,6 +67,7 @@ couchbaselabs/gocaves 20250107-snapshot-f9647922 : Apache License 2.0
 couchbaselabs/gocbconnstr v1.0.5 : Apache License 2.0
 couchbaselabs/gocbconnstr v2.0.0 : Apache License 2.0
 dominikh/go-tools 20190523-snapshot-ea95bdfd: https://github.com/dominikh/go-tools : MIT License
+ebitengine/purego v0.8.4: https://github.com/ebitengine/purego : Apache License 2.0
 envoyproxy/go-control-plane envoy/v1.32.4: https://github.com/envoyproxy/go-control-plane : Apache License 2.0
 envoyproxy/go-control-plane ratelimit/v0.1.0: https://github.com/envoyproxy/go-control-plane : Apache License 2.0
 envoyproxy/go-control-plane v0.13.4: https://github.com/envoyproxy/go-control-plane : Apache License 2.0
@@ -86,9 +87,7 @@ github.com/konsorten/go-windows-terminal-sequences v1.0.1: https://github.com/ko
 github.com/lufia/plan9stats 20211012-snapshot-39d0f177: https://pkg.go.dev/github.com/lufia/plan9stats : BSD 3-clause "New" or "Revised" License
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61: https://github.com/munnerz/goautoneg : BSD 3-clause "New" or "Revised" License
 github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b: https://github.com/planetscale/vtprotobuf : BSD 3-clause "New" or "Revised" License
-github.com/power-devops/perfstat 20210106-snapshot-5aafc221: https://pkg.go.dev/github.com/power-devops/perfstat : MIT License
-github.com/shoenig/go-m1cpu v0.1.6: https://github.com/shoenig/go-m1cpu : Mozilla Public License 2.0
-github.com/shoenig/test v0.6.4: https://github.com/shoenig/test : Mozilla Public License 2.0
+github.com/power-devops/perfstat 20240221-snapshot-82ca3683: https://pkg.go.dev/github.com/power-devops/perfstat : MIT License
 github.com/yusufpapurcu/wmi v1.2.4: https://github.com/yusufpapurcu/wmi : MIT License
 Go programming language 1.24.4: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
@@ -124,19 +123,20 @@ golang-jwt/jwt v4.5.0: https://github.com/golang-jwt/jwt : MIT License
 golang-jwt/jwt v5.2.0: https://github.com/golang-jwt/jwt : MIT License
 golang-mock v1.6.0: https://github.com/golang/mock : Apache License 2.0
 golang-snappy-go-dev v1.0.0: https://github.com/golang/snappy : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto v0.42.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto v0.43.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
 golang.org/x/lint 20190930-snapshot-16217165: https://pkg.go.dev/golang.org/x/lint : BSD 3-clause "New" or "Revised" License
-golang.org/x/mod v0.27.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/net v0.44.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.28.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/net v0.46.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 v0.30.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.36.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
-golang.org/x/term v0.35.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.37.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang.org/x/term v0.36.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.5.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
-golang.org/x/tools v0.36.0: https://pkg.go.dev/golang.org/x/tools : BSD 3-clause "New" or "Revised" License
+golang.org/x/tools v0.37.0: https://pkg.go.dev/golang.org/x/tools : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20231011-snapshot-104605ab : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.8: http://google.golang.org/appengine : Apache License 2.0
 golang/glog v1.2.5: https://github.com/golang/glog : Apache License 2.0
 golang/sync v0.17.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang/text v0.30.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
 google-cloud-go compute/metadata/v0.7.0: https://github.com/GoogleCloudPlatform/google-cloud-go : Apache License 2.0
 google-cloud-go compute/v1.23.3: https://github.com/GoogleCloudPlatform/google-cloud-go : Apache License 2.0
 google-cloud-go iam/v1.1.5: https://github.com/GoogleCloudPlatform/google-cloud-go : Apache License 2.0
@@ -154,8 +154,7 @@ googleapis/go-genproto 20250811-snapshot-5f3141c8: https://godoc.org/google.gola
 googleapis/google-api-go-client v0.154.0 : BSD 3-clause "New" or "Revised" License
 GoogleCloudPlatform/opentelemetry-operations-go detectors/gcp/v1.27.0 : Apache License 2.0
 Googleuuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
-gopsutil v3.21.11: https://github.com/shirou/gopsutil : BSD 3-clause "New" or "Revised" License
-gopsutil v3.24.5: https://github.com/shirou/gopsutil : BSD 3-clause "New" or "Revised" License
+gopsutil v4.25.8: https://github.com/shirou/gopsutil : BSD 3-clause "New" or "Revised" License
 gorilla/mux v1.8.1: https://github.com/gorilla/mux : BSD 3-clause "New" or "Revised" License
 gorilla/websocket v1.5.3: https://github.com/gorilla/websocket : BSD 2-clause "Simplified" License
 groupcache 20210331-snapshot-41bb18bf: https://github.com/golang/groupcache : Apache License 2.0
@@ -207,8 +206,8 @@ Sirupsen/logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
 spiffe/go-spiffe v2.5.0: https://github.com/spiffe/go-spiffe : Apache License 2.0
 stretchr/objx v0.5.2: https://github.com/stretchr/objx : MIT License
 sync_gateway 4.0-docs: https://github.com/couchbase/sync_gateway : Apache License 2.0
-tklauser/go-sysconf v0.3.12: https://github.com/tklauser/go-sysconf : BSD 3-clause "New" or "Revised" License
-tklauser/numcpus v0.6.1: https://github.com/tklauser/numcpus : Apache License 2.0
+tklauser/go-sysconf v0.3.15: https://github.com/tklauser/go-sysconf : BSD 3-clause "New" or "Revised" License
+tklauser/numcpus v0.10.0: https://github.com/tklauser/numcpus : Apache License 2.0
 uber-go/atomic 1.7.0: https://go.uber.org/atomic : MIT License
 wheelcomplex/gosigar v0.14.3: https://github.com/elastic/gosigar : Apache License 2.0
 xhit/go-str2duration v2.1.0: https://github.com/xhit/go-str2duration : BSD 3-clause "New" or "Revised" License
@@ -221,7 +220,7 @@ zeebo/errs v1.4.0: https://github.com/zeebo/errs : MIT License
 Licenses: 
 
 Apache License 2.0
-(aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.5.4, aws/aws-sdk-go-v2 feature/s3/manager/v1.15.15, aws/aws-sdk-go-v2 internal/configsources/v1.2.10, aws/aws-sdk-go-v2 internal/endpoints/v2.5.10, aws/aws-sdk-go-v2 internal/v4a/v1.2.10, aws/aws-sdk-go-v2 service/internal/accept-encoding/v1.10.4, aws/aws-sdk-go-v2 service/internal/checksum/v1.2.10, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.10.10, aws/aws-sdk-go-v2 service/internal/s3shared/v1.16.10, aws/aws-sdk-go-v2 service/s3/v1.48.1, aws/aws-sdk-go-v2 v1.24.1, census-instrumentation/opencensus-go v0.24.0, client_golang v1.20.5, cncf/udpa 20191208-snapshot-269d4d46, coreos-go-oidc v3.15.0, couchbase-blance v0.1.6, couchbase-cbauth v0.1.13, couchbase-cbgt v1.4.10, couchbase-goutils v0.1.2, couchbase/gocbcore v10.8.1, couchbaselabs/gocaves 20250107-snapshot-f9647922, couchbaselabs/gocbconnstr v1.0.5, couchbaselabs/gocbconnstr v2.0.0, envoyproxy/go-control-plane envoy/v1.32.4, envoyproxy/go-control-plane ratelimit/v0.1.0, envoyproxy/go-control-plane v0.13.4, envoyproxy/protoc-gen-validate 1.2.1, github.com/aws/smithy-go v1.19.0, github.com/cncf/xds 20250501-snapshot-2ac532fd, github.com/couchbase/gocbcoreps v0.1.4, github.com/google/cel-spec v0.24.0, go-autorest autorest/adal/v0.9.23, go-autorest autorest/date/v0.3.0, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v4.1.3, go-logr/logr v1.4.3, go-logr/stdr v1.2.2, gocb v2.11.1, godebug v1.1.0, golang-mock v1.6.0, golang/appengine v1.6.8, golang/glog v1.2.5, google-cloud-go compute/metadata/v0.7.0, google-cloud-go compute/v1.23.3, google-cloud-go iam/v1.1.5, google-cloud-go storage/v1.36.0, google-cloud-go v0.111.0, google-gofuzz v1.0.0, google/pprof 20240227-snapshot-401108e1, google/s2a-go v0.1.7, googleapis/enterprise-certificate-proxy v0.3.2, googleapis/go-genproto 20240102-snapshot-50ed04b9, googleapis/go-genproto 20250528-snapshot-200df99c, googleapis/go-genproto 20250811-snapshot-5f3141c8, GoogleCloudPlatform/opentelemetry-operations-go detectors/gcp/v1.27.0, groupcache 20210331-snapshot-41bb18bf, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-go v1.74.2, jmespath-go-jmespath v0.4.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, open-telemetry/opentelemetry-go metric/v1.37.0, open-telemetry/opentelemetry-go sdk/metric/v1.37.0, open-telemetry/opentelemetry-go sdk/v1.37.0, open-telemetry/opentelemetry-go trace/v1.37.0, open-telemetry/opentelemetry-go v1.37.0, open-telemetry/opentelemetry-go-contrib detectors/gcp/v1.36.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.62.0, open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.46.1, open-telemetry/opentelemetry-go-instrumentation sdk/v1.1.0, OpenCensus 0.2.1, opentracing-opentracing-go 1.1.0, prometheus-client_model v0.6.1, prometheus-common 0.55.0, prometheus-procfs v0.15.1, sergi/go-diff v1.2.0, spiffe/go-spiffe v2.5.0, sync_gateway 4.0-docs, tklauser/numcpus v0.6.1, wheelcomplex/gosigar v0.14.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
+(aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.5.4, aws/aws-sdk-go-v2 feature/s3/manager/v1.15.15, aws/aws-sdk-go-v2 internal/configsources/v1.2.10, aws/aws-sdk-go-v2 internal/endpoints/v2.5.10, aws/aws-sdk-go-v2 internal/v4a/v1.2.10, aws/aws-sdk-go-v2 service/internal/accept-encoding/v1.10.4, aws/aws-sdk-go-v2 service/internal/checksum/v1.2.10, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.10.10, aws/aws-sdk-go-v2 service/internal/s3shared/v1.16.10, aws/aws-sdk-go-v2 service/s3/v1.48.1, aws/aws-sdk-go-v2 v1.24.1, census-instrumentation/opencensus-go v0.24.0, client_golang v1.20.5, cncf/udpa 20191208-snapshot-269d4d46, coreos-go-oidc v3.16.0, couchbase-blance v0.1.6, couchbase-cbauth v0.1.13, couchbase-cbgt v1.4.10, couchbase-goutils v0.1.2, couchbase/gocbcore v10.8.1, couchbaselabs/gocaves 20250107-snapshot-f9647922, couchbaselabs/gocbconnstr v1.0.5, couchbaselabs/gocbconnstr v2.0.0, ebitengine/purego v0.8.4, envoyproxy/go-control-plane envoy/v1.32.4, envoyproxy/go-control-plane ratelimit/v0.1.0, envoyproxy/go-control-plane v0.13.4, envoyproxy/protoc-gen-validate 1.2.1, github.com/aws/smithy-go v1.19.0, github.com/cncf/xds 20250501-snapshot-2ac532fd, github.com/couchbase/gocbcoreps v0.1.4, github.com/google/cel-spec v0.24.0, go-autorest autorest/adal/v0.9.23, go-autorest autorest/date/v0.3.0, go-autorest logger/v0.2.1, go-autorest tracing/v0.6.0, go-autorest v14.2.0, go-jose v4.1.3, go-logr/logr v1.4.3, go-logr/stdr v1.2.2, gocb v2.11.1, godebug v1.1.0, golang-mock v1.6.0, golang/appengine v1.6.8, golang/glog v1.2.5, google-cloud-go compute/metadata/v0.7.0, google-cloud-go compute/v1.23.3, google-cloud-go iam/v1.1.5, google-cloud-go storage/v1.36.0, google-cloud-go v0.111.0, google-gofuzz v1.0.0, google/pprof 20240227-snapshot-401108e1, google/s2a-go v0.1.7, googleapis/enterprise-certificate-proxy v0.3.2, googleapis/go-genproto 20240102-snapshot-50ed04b9, googleapis/go-genproto 20250528-snapshot-200df99c, googleapis/go-genproto 20250811-snapshot-5f3141c8, GoogleCloudPlatform/opentelemetry-operations-go detectors/gcp/v1.27.0, groupcache 20210331-snapshot-41bb18bf, grpc-ecosystem/go-grpc-middleware v1.4.0, grpc-go v1.74.2, jmespath-go-jmespath v0.4.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, open-telemetry/opentelemetry-go metric/v1.37.0, open-telemetry/opentelemetry-go sdk/metric/v1.37.0, open-telemetry/opentelemetry-go sdk/v1.37.0, open-telemetry/opentelemetry-go trace/v1.37.0, open-telemetry/opentelemetry-go v1.37.0, open-telemetry/opentelemetry-go-contrib detectors/gcp/v1.36.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.62.0, open-telemetry/opentelemetry-go-contrib instrumentation/net/http/otelhttp/v0.46.1, open-telemetry/opentelemetry-go-instrumentation sdk/v1.1.0, OpenCensus 0.2.1, opentracing-opentracing-go 1.1.0, prometheus-client_model v0.6.1, prometheus-common 0.55.0, prometheus-procfs v0.15.1, sergi/go-diff v1.2.0, spiffe/go-spiffe v2.5.0, sync_gateway 4.0-docs, tklauser/numcpus v0.10.0, wheelcomplex/gosigar v0.14.3, yaml for Go v2.4.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -744,40 +743,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(gopsutil v3.21.11)
-
-gopsutil is distributed under BSD license reproduced below.
-
-Copyright (c) 2014, WAKAYAMA Shirou
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
- * Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
- * Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
- * Neither the name of the gopsutil authors nor the names of its contributors
-   may be used to endorse or promote products derived from this software without
-   specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
-ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(exp 20250605-snapshot-dcc06ee1, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Go programming language 1.24.4, Golang Protobuf v1.36.7, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.42.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.27.0, golang.org/x/net v0.44.0, golang.org/x/oauth2 v0.30.0, golang.org/x/sys v0.36.0, golang.org/x/term v0.35.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.36.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/sync v0.17.0, google/go-cmp v0.7.0, googleapis/gax-go v2.12.0, googleapis/google-api-go-client v0.154.0, Googleuuid v1.6.0, gopsutil v3.24.5, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.11, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.13.1, tklauser/go-sysconf v0.3.12, xhit/go-str2duration v2.1.0)
+(exp 20250605-snapshot-dcc06ee1, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Go programming language 1.24.4, Golang Protobuf v1.36.7, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.43.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.28.0, golang.org/x/net v0.46.0, golang.org/x/oauth2 v0.30.0, golang.org/x/sys v0.37.0, golang.org/x/term v0.36.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.37.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/sync v0.17.0, golang/text v0.30.0, google/go-cmp v0.7.0, googleapis/gax-go v2.12.0, googleapis/google-api-go-client v0.154.0, Googleuuid v1.6.0, gopsutil v4.25.8, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.11, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.13.1, tklauser/go-sysconf v0.3.15, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1538,7 +1504,7 @@ SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, Azure/azure-sdk-for-go sdk/azcore/v1.9.1, Azure/azure-sdk-for-go sdk/azidentity/v1.4.0, Azure/azure-sdk-for-go sdk/internal/v1.5.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.1, AzureAD/microsoft-authentication-library-for-go v1.2.0, cespare/xxhash v2.3.0, chromedp/cdproto 20230802-snapshot-3cf4e6d4, chromedp/chromedp v0.9.2, chzyer-readline 20160726-snapshot-62c6fe61, chzyer-readline v1.5.1, chzyer/logex v1.2.1, chzyer/test v1.0.0, couchbase-gomemcached v0.2.1, dominikh/go-tools 20190523-snapshot-ea95bdfd, felixge/fgprof v0.9.5, felixge/httpsnoop v1.0.4, github.com/go-kit/log v0.2.1, github.com/KimMachineGun/automemlimit v0.7.2, github.com/power-devops/perfstat 20210106-snapshot-5aafc221, github.com/yusufpapurcu/wmi v1.2.4, Go Testify v1.11.1, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, gobwas/ws v1.2.1, golang-jwt/jwt v4.5.0, golang-jwt/jwt v5.2.0, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.24, natefinch/lumberjack v2.2.1, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.2, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, zeebo/errs v1.4.0)
+(alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, Azure/azure-sdk-for-go sdk/azcore/v1.9.1, Azure/azure-sdk-for-go sdk/azidentity/v1.4.0, Azure/azure-sdk-for-go sdk/internal/v1.5.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.1, AzureAD/microsoft-authentication-library-for-go v1.2.0, cespare/xxhash v2.3.0, chromedp/cdproto 20230802-snapshot-3cf4e6d4, chromedp/chromedp v0.9.2, chzyer-readline 20160726-snapshot-62c6fe61, chzyer-readline v1.5.1, chzyer/logex v1.2.1, chzyer/test v1.0.0, couchbase-gomemcached v0.2.1, dominikh/go-tools 20190523-snapshot-ea95bdfd, felixge/fgprof v0.9.5, felixge/httpsnoop v1.0.4, github.com/go-kit/log v0.2.1, github.com/KimMachineGun/automemlimit v0.7.2, github.com/power-devops/perfstat 20240221-snapshot-82ca3683, github.com/yusufpapurcu/wmi v1.2.4, Go Testify v1.11.1, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, gobwas/ws v1.2.1, golang-jwt/jwt v4.5.0, golang-jwt/jwt v5.2.0, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.24, natefinch/lumberjack v2.2.1, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.2, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, zeebo/errs v1.4.0)
 
 The MIT License
 ===============
@@ -1588,420 +1554,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-
----
-
-Mozilla Public License 2.0
-(github.com/shoenig/go-m1cpu v0.1.6, github.com/shoenig/test v0.6.4)
-
-Mozilla Public License
-Version 2.0
-======================
-
-
-1. Definitions
---------------
-
-  1.1. "Contributor"
-
-  means each individual or legal entity that creates, contributes to the creation
-  of, or owns Covered Software.
-
-  1.2. "Contributor Version"
-
-  means the combination of the Contributions of others (if any) used by a
-  Contributor and that particular Contributor's Contribution.
-
-  1.3. "Contribution"
-
-  means Covered Software of a particular Contributor.
-
-  1.4. "Covered Software"
-
-  means Source Code Form to which the initial Contributor has attached the notice
-  in Exhibit A, the Executable Form of such Source Code Form, and Modifications
-  of such Source Code Form, in each case including portions thereof.
-
-  1.5. "Incompatible With Secondary Licenses"
-
-  means
-
-    a. 
-
-      that the initial Contributor has attached the notice described in Exhibit B
-      to the Covered Software; or
-
-    b. 
-
-      that the Covered Software was made available under the terms of version 1.1
-      or earlier of the License, but not also under the terms of a Secondary
-      License.
-
-  1.6. "Executable Form"
-
-  means any form of the work other than Source Code Form.
-
-  1.7. "Larger Work"
-
-  means a work that combines Covered Software with other material, in a separate
-  file or files, that is not Covered Software.
-
-  1.8. "License"
-
-  means this document.
-
-  1.9. "Licensable"
-
-  means having the right to grant, to the maximum extent possible, whether at the
-  time of the initial grant or subsequently, any and all of the rights conveyed
-  by this License.
-
-  1.10. "Modifications"
-
-  means any of the following:
-
-    a. 
-
-      any file in Source Code Form that results from an addition to, deletion
-      from, or modification of the contents of Covered Software; or
-
-    b. 
-
-      any new file in Source Code Form that contains any Covered Software.
-
-  1.11. "Patent Claims" of a Contributor
-
-  means any patent claim(s), including without limitation, method, process, and
-  apparatus claims, in any patent Licensable by such Contributor that would be
-  infringed, but for the grant of the License, by the making, using, selling,
-  offering for sale, having made, import, or transfer of either its Contributions
-  or its Contributor Version.
-
-  1.12. "Secondary License"
-
-  means either the GNU General Public License, Version 2.0, the GNU Lesser
-  General Public License, Version 2.1, the GNU Affero General Public License,
-  Version 3.0, or any later versions of those licenses.
-
-  1.13. "Source Code Form"
-
-  means the form of the work preferred for making modifications.
-
-  1.14. "You" (or "Your")
-
-  means an individual or a legal entity exercising rights under this License. For
-  legal entities, "You" includes any entity that controls, is controlled by, or
-  is under common control with You. For purposes of this definition, "control"
-  means (a) the power, direct or indirect, to cause the direction or management
-  of such entity, whether by contract or otherwise, or (b) ownership of more than
-  fifty percent (50%) of the outstanding shares or beneficial ownership of such
-  entity.
-
-
-2. License Grants and Conditions
---------------------------------
-
-
-  2.1. Grants
-
-  Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive
-  license:
-
-    a. 
-
-      under intellectual property rights (other than patent or trademark)
-      Licensable by such Contributor to use, reproduce, make available, modify,
-      display, perform, distribute, and otherwise exploit its Contributions,
-      either on an unmodified basis, with Modifications, or as part of a Larger
-      Work; and
-
-    b. 
-
-      under Patent Claims of such Contributor to make, use, sell, offer for sale,
-      have made, import, and otherwise transfer either its Contributions or its
-      Contributor Version.
-
-
-  2.2. Effective Date
-
-  The licenses granted in Section 2.1 with respect to any Contribution become
-  effective for each Contribution on the date the Contributor first distributes
-  such Contribution.
-
-
-  2.3. Limitations on Grant Scope
-
-  The licenses granted in this Section 2 are the only rights granted under this
-  License. No additional rights or licenses will be implied from the distribution
-  or licensing of Covered Software under this License. Notwithstanding
-  Section 2.1(b) above, no patent license is granted by a Contributor:
-
-    a. 
-
-      for any code that a Contributor has removed from Covered Software; or
-
-    b. 
-
-      for infringements caused by: (i) Your and any other third party's
-      modifications of Covered Software, or (ii) the combination of its
-      Contributions with other software (except as part of its Contributor
-      Version); or
-
-    c. 
-
-      under Patent Claims infringed by Covered Software in the absence of its
-      Contributions.
-
-  This License does not grant any rights in the trademarks, service marks, or
-  logos of any Contributor (except as may be necessary to comply with the notice
-  requirements in Section 3.4).
-
-
-  2.4. Subsequent Licenses
-
-  No Contributor makes additional grants as a result of Your choice to distribute
-  the Covered Software under a subsequent version of this License (see
-  Section 10.2) or under the terms of a Secondary License (if permitted under the
-  terms of Section 3.3).
-
-
-  2.5. Representation
-
-  Each Contributor represents that the Contributor believes its Contributions are
-  its original creation(s) or it has sufficient rights to grant the rights to its
-  Contributions conveyed by this License.
-
-
-  2.6. Fair Use
-
-  This License is not intended to limit any rights You have under applicable
-  copyright doctrines of fair use, fair dealing, or other equivalents.
-
-
-  2.7. Conditions
-
-  Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted in
-  Section 2.1.
-
-
-3. Responsibilities
--------------------
-
-
-  3.1. Distribution of Source Form
-
-  All distribution of Covered Software in Source Code Form, including any
-  Modifications that You create or to which You contribute, must be under the
-  terms of this License. You must inform recipients that the Source Code Form of
-  the Covered Software is governed by the terms of this License, and how they can
-  obtain a copy of this License. You may not attempt to alter or restrict the
-  recipients' rights in the Source Code Form.
-
-
-  3.2. Distribution of Executable Form
-
-  If You distribute Covered Software in Executable Form then:
-
-    a. 
-
-      such Covered Software must also be made available in Source Code Form, as
-      described in Section 3.1, and You must inform recipients of the Executable
-      Form how they can obtain a copy of such Source Code Form by reasonable
-      means in a timely manner, at a charge no more than the cost of distribution
-      to the recipient; and
-
-    b. 
-
-      You may distribute such Executable Form under the terms of this License, or
-      sublicense it under different terms, provided that the license for the
-      Executable Form does not attempt to limit or alter the recipients' rights
-      in the Source Code Form under this License.
-
-
-  3.3. Distribution of a Larger Work
-
-  You may create and distribute a Larger Work under terms of Your choice,
-  provided that You also comply with the requirements of this License for the
-  Covered Software. If the Larger Work is a combination of Covered Software with
-  a work governed by one or more Secondary Licenses, and the Covered Software is
-  not Incompatible With Secondary Licenses, this License permits You to
-  additionally distribute such Covered Software under the terms of such Secondary
-  License(s), so that the recipient of the Larger Work may, at their option,
-  further distribute the Covered Software under the terms of either this License
-  or such Secondary License(s).
-
-
-  3.4. Notices
-
-  You may not remove or alter the substance of any license notices (including
-  copyright notices, patent notices, disclaimers of warranty, or limitations of
-  liability) contained within the Source Code Form of the Covered Software,
-  except that You may alter any license notices to the extent required to remedy
-  known factual inaccuracies.
-
-
-  3.5. Application of Additional Terms
-
-  You may choose to offer, and to charge a fee for, warranty, support, indemnity
-  or liability obligations to one or more recipients of Covered Software.
-  However, You may do so only on Your own behalf, and not on behalf of any
-  Contributor. You must make it absolutely clear that any such warranty, support,
-  indemnity, or liability obligation is offered by You alone, and You hereby
-  agree to indemnify every Contributor for any liability incurred by such
-  Contributor as a result of warranty, support, indemnity or liability terms You
-  offer. You may include additional disclaimers of warranty and limitations of
-  liability specific to any jurisdiction.
-
-
-4. Inability to Comply Due to Statute or Regulation
----------------------------------------------------
-
-If it is impossible for You to comply with any of the terms of this License with
-respect to some or all of the Covered Software due to statute, judicial order, or
-regulation then You must: (a) comply with the terms of this License to the
-maximum extent possible; and (b) describe the limitations and the code they
-affect. Such description must be placed in a text file included with all
-distributions of the Covered Software under this License. Except to the extent
-prohibited by statute or regulation, such description must be sufficiently
-detailed for a recipient of ordinary skill to be able to understand it.
-
-
-5. Termination
---------------
-
-  5.1. The rights granted under this License will terminate automatically if You
-  fail to comply with any of its terms. However, if You become compliant, then
-  the rights granted under this License from a particular Contributor are
-  reinstated (a) provisionally, unless and until such Contributor explicitly and
-  finally terminates Your grants, and (b) on an ongoing basis, if such
-  Contributor fails to notify You of the non-compliance by some reasonable means
-  prior to 60 days after You have come back into compliance. Moreover, Your
-  grants from a particular Contributor are reinstated on an ongoing basis if such
-  Contributor notifies You of the non-compliance by some reasonable means, this
-  is the first time You have received notice of non-compliance with this License
-  from such Contributor, and You become compliant prior to 30 days after Your
-  receipt of the notice.
-
-  5.2. If You initiate litigation against any entity by asserting a patent
-  infringement claim (excluding declaratory judgment actions, counter-claims, and
-  cross-claims) alleging that a Contributor Version directly or indirectly
-  infringes any patent, then the rights granted to You by any and all
-  Contributors for the Covered Software under Section 2.1 of this License shall
-  terminate.
-
-  5.3. In the event of termination under Sections 5.1 or 5.2 above, all end user
-  license agreements (excluding distributors and resellers) which have been
-  validly granted by You or Your distributors under this License prior to
-  termination shall survive termination.
-
-
-6. Disclaimer of Warranty
--------------------------
-
-Covered Software is provided under this License on an "as is" basis, without
-warranty of any kind, either expressed, implied, or statutory, including, without
-limitation, warranties that the Covered Software is free of defects,
-merchantable, fit for a particular purpose or non-infringing. The entire risk as
-to the quality and performance of the Covered Software is with You. Should any
-Covered Software prove defective in any respect, You (not any Contributor) assume
-the cost of any necessary servicing, repair, or correction. This disclaimer of
-warranty constitutes an essential part of this License. No use of any Covered
-Software is authorized under this License except under this disclaimer.
-
-
-7. Limitation of Liability
---------------------------
-
-Under no circumstances and under no legal theory, whether tort (including
-negligence), contract, or otherwise, shall any Contributor, or anyone who
-distributes Covered Software as permitted above, be liable to You for any direct,
-indirect, special, incidental, or consequential damages of any character
-including, without limitation, damages for lost profits, loss of goodwill, work
-stoppage, computer failure or malfunction, or any and all other commercial
-damages or losses, even if such party shall have been informed of the possibility
-of such damages. This limitation of liability shall not apply to liability for
-death or personal injury resulting from such party's negligence to the extent
-applicable law prohibits such limitation. Some jurisdictions do not allow the
-exclusion or limitation of incidental or consequential damages, so this exclusion
-and limitation may not apply to You.
-
-
-8. Litigation
--------------
-
-Any litigation relating to this License may be brought only in the courts of a
-jurisdiction where the defendant maintains its principal place of business and
-such litigation shall be governed by laws of that jurisdiction, without reference
-to its conflict-of-law provisions. Nothing in this Section shall prevent a
-party's ability to bring cross-claims or counter-claims.
-
-
-9. Miscellaneous
-----------------
-
-This License represents the complete agreement concerning the subject matter
-hereof. If any provision of this License is held to be unenforceable, such
-provision shall be reformed only to the extent necessary to make it enforceable.
-Any law or regulation which provides that the language of a contract shall be
-construed against the drafter shall not be used to construe this License against
-a Contributor.
-
-
-10. Versions of the License
----------------------------
-
-
-  10.1. New Versions
-
-  Mozilla Foundation is the license steward. Except as provided in Section 10.3,
-  no one other than the license steward has the right to modify or publish new
-  versions of this License. Each version will be given a distinguishing version
-  number.
-
-
-  10.2. Effect of New Versions
-
-  You may distribute the Covered Software under the terms of the version of the
-  License under which You originally received the Covered Software, or under the
-  terms of any subsequent version published by the license steward.
-
-
-  10.3. Modified Versions
-
-  If you create software not governed by this License, and you want to create a
-  new license for such software, you may create and use a modified version of
-  this License if you rename the license and remove any references to the name of
-  the license steward (except to note that such modified license differs from
-  this License).
-
-
-  10.4. Distributing Source Code Form that is Incompatible With Secondary
-  Licenses
-
-  If You choose to distribute Source Code Form that is Incompatible With
-  Secondary Licenses under the terms of this version of the License, the notice
-  described in Exhibit B of this License must be attached.
-
-
-Exhibit A - Source Code Form License Notice
--------------------------------------------
-
-  This Source Code Form is subject to the terms of the Mozilla Public License,
-  v. 2.0. If a copy of the MPL was not distributed with this file, You can
-  obtain one at http://mozilla.org/MPL/2.0/.
-
-If it is not possible or desirable to put the notice in a particular file, then
-You may include the notice in a location (such as a LICENSE file in a relevant
-directory) where a recipient would be likely to look for such a notice.
-
-You may add additional accurate notices of copyright ownership.
-
-
-Exhibit B - "Incompatible With Secondary Licenses" Notice
----------------------------------------------------------
-
-  This Source Code Form is "Incompatible With Secondary Licenses", as defined
-  by the Mozilla Public License, v. 2.0.
 
 ---
 
