@@ -11,8 +11,8 @@ Components:
 
 annotated-types 0.7.0: https://github.com/annotated-types/annotated-types : MIT License
 blinker-pypi 1.9.0: http://pythonhosted.org/blinker/ : MIT License
-boto3 1.40.51: http://aws.amazon.com/sdk-for-python/ : Apache License 2.0
-botocore 1.40.51: https://github.com/boto/botocore : Apache License 2.0
+boto3 1.40.52: http://aws.amazon.com/sdk-for-python/ : Apache License 2.0
+botocore 1.40.52: https://github.com/boto/botocore : Apache License 2.0
 Click - Python Command Line Utility 8.3.0: http://click.pocoo.org/ : BSD 3-clause "New" or "Revised" License
 client_python 0.21.1: https://github.com/prometheus/client_python : Apache License 2.0
 colorama 0.4.6: https://github.com/tartley/colorama : BSD 3-clause "New" or "Revised" License
@@ -22,6 +22,8 @@ itsdangerous 2.2.0: http://packages.python.org/itsdangerous/ : BSD 3-clause "New
 jinjapython 3.1.6: https://jinja.palletsprojects.com : BSD 3-clause "New" or "Revised" License
 jmespath.py 1.0.1: https://github.com/jmespath/jmespath.py : MIT License
 MarkupSafe 3.0.3: https://www.palletsprojects.com/p/markupsafe/ : BSD 3-clause "New" or "Revised" License
+pydantic 2.12.2: https://pydantic-docs.helpmanual.io/ : 
+pydantic-core 2.41.4: https://github.com/pydantic/pydantic-core : MIT License
 pydantic-settings 2.11.0: https://github.com/danields761/pydantic-settings : MIT License
 pypdf 6.1.1 : BSD 3-clause "New" or "Revised" License
 Python six 1.17.0: http://pypi.python.org/pypi/six : MIT License
@@ -37,7 +39,7 @@ Werkzeug 3.1.3: http://werkzeug.pocoo.org/ : BSD 3-clause "New" or "Revised" Lic
 Licenses: 
 
 Apache License 2.0
-(boto3 1.40.51, botocore 1.40.51, client_python 0.21.1, python-dateutil 2.9.0.post0, s3transfer 0.14.0)
+(boto3 1.40.52, botocore 1.40.52, client_python 0.21.1, python-dateutil 2.9.0.post0, s3transfer 0.14.0)
 
 Apache License
 Version 2.0, January 2004
@@ -258,7 +260,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 MIT License
-(annotated-types 0.7.0, blinker-pypi 1.9.0, flask-swagger-ui 5.21.0, jmespath.py 1.0.1, pydantic-settings 2.11.0, Python six 1.17.0, typing-inspection 0.4.2, urllib3 2.5.0)
+(annotated-types 0.7.0, blinker-pypi 1.9.0, flask-swagger-ui 5.21.0, jmespath.py 1.0.1, pydantic-core 2.41.4, pydantic-settings 2.11.0, Python six 1.17.0, typing-inspection 0.4.2, urllib3 2.5.0)
 
 The MIT License
 ===============
