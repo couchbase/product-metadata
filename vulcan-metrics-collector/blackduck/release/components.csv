@@ -6,16 +6,16 @@
 4,Werkzeug,3.1.3,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,3825be3a-fed9-4aae-b49a-d28cc97134f6,2a0ddda1-3c71-4b1e-bc54-7bc785bd2ae3,3d238144-44e6-450e-b523-3defbdaed9dc
 5,annotated-types,0.7.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8043d6f4-e2de-44f6-9bf3-4c0ee7de334f,97d68e0b-16cb-46a0-ac87-a4753f39809d,ad705c59-6893-4980-bdbf-0837f1823cc4
 6,blinker-pypi,1.9.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a9442b4b-95d2-4734-a83b-261d8bc49c74,82792d58-5113-4b74-b046-ac2a9c1ee3f2,ad705c59-6893-4980-bdbf-0837f1823cc4
-7,boto3,1.40.44,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,359ae0d6-dd94-44f6-a6a6-f16d1a4ce87f,6c100df0-a6db-437b-8ac8-4f678584457e,7cae335f-1193-421e-92f1-8802b4243e93
-8,botocore,1.40.44,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1d033c2e-1492-4002-afd0-a68c123934a7,46010e41-7e03-40f0-8314-580d3792fcd3,7cae335f-1193-421e-92f1-8802b4243e93
+7,boto3,1.40.52,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,359ae0d6-dd94-44f6-a6a6-f16d1a4ce87f,0e1de2fe-cff3-4e9f-afe8-84ffdfabf034,7cae335f-1193-421e-92f1-8802b4243e93
+8,botocore,1.40.52,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1d033c2e-1492-4002-afd0-a68c123934a7,1f152676-4b21-423d-b2cb-25002e6c8add,7cae335f-1193-421e-92f1-8802b4243e93
 9,client_python,0.21.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,447813b7-dbf2-4290-89ae-1aac0b14ece4,1775eb41-be9f-4d75-b20b-c1b5e04ce5b7,7cae335f-1193-421e-92f1-8802b4243e93
 10,colorama,0.4.6,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,7881fc93-08be-4c7c-a706-96dc08608748,bf874d5c-156c-4104-a801-bcd3e185ecf3,3d238144-44e6-450e-b523-3defbdaed9dc
 11,flask-swagger-ui,5.21.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a49f5467-c068-461d-b544-0ba53765a067,c479e5dd-4cba-43ec-ae8f-9ce66e63fec4,ad705c59-6893-4980-bdbf-0837f1823cc4
 12,itsdangerous,2.2.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,de625b9f-ece9-4ea6-bf10-8c2baaaff44a,74e8f359-50a5-47d3-9560-6742d998ea72,3d238144-44e6-450e-b523-3defbdaed9dc
 13,jinjapython,3.1.6,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,ae1b8ed0-430e-4b18-b6db-eaf04d774633,54249e8c-8d31-46c9-93ae-edca77f606e7,3d238144-44e6-450e-b523-3defbdaed9dc
 14,jmespath.py,1.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,b255f3db-638d-4c4d-a725-add4730767f5,438fa684-ac51-4a03-b022-f37a4909376e,ad705c59-6893-4980-bdbf-0837f1823cc4
-15,pydantic,2.11.9,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f69cd983-6690-4bf7-8658-6abe66f162fc,2dcc3e29-ddcc-4e4f-befd-5af4d6d9b80f,ad705c59-6893-4980-bdbf-0837f1823cc4
-16,pydantic-core,2.33.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,85a80765-0235-49d3-b68e-ceeeb7950091,a8c9f9fe-7340-4648-8165-af9f717c2024,ad705c59-6893-4980-bdbf-0837f1823cc4
+15,pydantic,2.12.2,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,f69cd983-6690-4bf7-8658-6abe66f162fc,4cb9461f-1147-4f63-9d45-7a31788aa27d,00000000-0010-0000-0000-000000000000
+16,pydantic-core,2.41.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8c787a5d-a158-4537-be7c-60b5a117ac87,170c6d9c-257e-4713-bfac-240e3eb71663,ad705c59-6893-4980-bdbf-0837f1823cc4
 17,pydantic-settings,2.11.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,3dfde261-2b64-4083-99dc-08e42647990c,82aa1847-885d-42c5-8999-757ec5361c43,ad705c59-6893-4980-bdbf-0837f1823cc4
 18,pypdf,6.1.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,6fb66d55-3dbf-48d2-88a6-f5d200aa104e,81eefbf1-c717-45f5-8fc2-c2b588758127,3d238144-44e6-450e-b523-3defbdaed9dc
 19,python-dateutil,2.9.0.post0,Transitive Dependency,"(Apache License 2.0 OR BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,ba9f9ff7-691f-4faa-83ef-702409be1282,99a90adb-3ef3-4a02-b2da-4bb61ded54d7,"3d238144-44e6-450e-b523-3defbdaed9dc,7cae335f-1193-421e-92f1-8802b4243e93"
