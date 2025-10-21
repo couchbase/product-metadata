@@ -33,15 +33,16 @@ serde_json 1.0.145: http://docs.serde.rs/serde_json/ : Apache License 2.0
 servo/rust-smallvec 0.6.14 : (MIT License OR Apache License 2.0)
 servo/unicode-bidi 0.3.18 : (MIT License OR Apache License 2.0)
 stable_deref_trait 1.2.1 : (MIT License OR Apache License 2.0)
+syn 2.0.107: https://github.com/dtolnay/syn : (MIT License OR Apache License 2.0)
 tinyvec 1.10.0 : (zlib License OR MIT License OR Apache License 2.0)
 tinyvec_macros 0.1.1: https://crates.io/crates/tinyvec_macros : (zlib License OR MIT License OR Apache License 2.0)
-unicode-ident 1.0.19 : Unicode License v3
+unicode-ident 1.0.20 : (Unicode License v3 AND (MIT License OR Apache License 2.0))
 unicode-rs/unicode-normalization 0.1.24: https://github.com/unicode-rs/unicode-normalization : (MIT License AND Apache License 2.0)
 
 Licenses: 
 
 Apache License 2.0
-(alexcrichton/proc-macro2 1.0.101, couchbase-sys 0.3.0, dtolnay/itoa 1.0.15, dtolnay/quote 1.0.41, dtolnay/ryu 1.0.20, idna 0.1.5, log 0.3.9, log 0.4.28, maybe-uninit 2.0.0, parking_lot 0.4.8, parking_lot_core 0.2.14, percent-encoding 1.0.1, pkg-config 0.3.32, rust-lang-nursery/futures-rs 0.1.31, rust-lang/libc 0.2.177, rust-random/rand 0.4.6, rust-url 1.7.2, serde_derive 1.0.228, serde_json 1.0.145, servo/rust-smallvec 0.6.14, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-rs/unicode-normalization 0.1.24)
+(alexcrichton/proc-macro2 1.0.101, couchbase-sys 0.3.0, dtolnay/itoa 1.0.15, dtolnay/quote 1.0.41, dtolnay/ryu 1.0.20, idna 0.1.5, log 0.3.9, log 0.4.28, maybe-uninit 2.0.0, parking_lot 0.4.8, parking_lot_core 0.2.14, percent-encoding 1.0.1, pkg-config 0.3.32, rust-lang-nursery/futures-rs 0.1.31, rust-lang/libc 0.2.177, rust-random/rand 0.4.6, rust-url 1.7.2, serde_derive 1.0.228, serde_json 1.0.145, servo/rust-smallvec 0.6.14, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, syn 2.0.107, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-ident 1.0.20, unicode-rs/unicode-normalization 0.1.24)
 
 Apache License
 Version 2.0, January 2004
@@ -441,7 +442,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(alexcrichton/proc-macro2 1.0.101, dtolnay/itoa 1.0.15, dtolnay/quote 1.0.41, log 0.4.28, matches 0.1.10, parking_lot_core 0.2.14, pkg-config 0.3.32, rust-lang/libc 0.2.177, serde_derive 1.0.228, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-rs/unicode-normalization 0.1.24)
+(alexcrichton/proc-macro2 1.0.101, dtolnay/itoa 1.0.15, dtolnay/quote 1.0.41, log 0.4.28, matches 0.1.10, parking_lot_core 0.2.14, pkg-config 0.3.32, rust-lang/libc 0.2.177, serde_derive 1.0.228, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, syn 2.0.107, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-ident 1.0.20, unicode-rs/unicode-normalization 0.1.24)
 
 The MIT License
 ===============
@@ -468,7 +469,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 Unicode License v3
-(unicode-ident 1.0.19)
+(unicode-ident 1.0.20)
 
 UNICODE LICENSE V3
 ==================
