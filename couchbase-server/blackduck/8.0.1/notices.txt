@@ -522,10 +522,10 @@ ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
 anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
 Apache Commons Codec 1.17.1: https://github.com/apache/commons-codec : Apache License 2.0
 Apache Commons Collections 3.2.2: http://commons.apache.org/proper/commons-collections/ : Apache License 2.0
@@ -796,7 +796,6 @@ Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://w
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 1.1.12: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 2.0.2: https://github.com/juliangruber/brace-expansion : MIT License
-braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 braces 3.0.3: https://github.com/jonschlinkert/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 browser-process-hrtime 1.0.0: https://github.com/kumavis/browser-process-hrtime#readme : BSD 2-clause "Simplified" License
@@ -1511,7 +1510,7 @@ go-systemd 20180511-snapshot-39ca1b05: https://github.com/coreos/go-systemd : Ap
 go-systemd v22.5.0: https://github.com/coreos/go-systemd : Apache License 2.0
 go-task/slim-sprig 20230315-snapshot-52ccab3e: https://github.com/go-task/slim-sprig : MIT License
 go-test/deep v1.1.0: http://github.com/go-test/deep/ : MIT License
-go-tomb-tomb 20150422-snapshot-dd632973: https://github.com/go-tomb/tomb/tree/v1 : BSD 3-clause "New" or "Revised" License
+go-tomb-tomb 20150422-snapshot-dd632973: https://github.com/go-tomb/tomb : BSD 3-clause "New" or "Revised" License
 go-warnings/warnings v0.1.2: https://github.com/go-warnings/warnings : BSD 2-clause "Simplified" License
 go-zap v1.19.1: https://godoc.org/go.uber.org/zap : MIT License
 go-zap v1.27.0: https://godoc.org/go.uber.org/zap : MIT License
@@ -2349,6 +2348,7 @@ methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch 4.0.8: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.24.1 : MIT License
 Microsoft Azure client library for Identity 1.17.0 : MIT License
 Microsoft Azure common module for Storage 12.30.1 : MIT License
@@ -3270,8 +3270,8 @@ workbox-background-sync 6.5.4: https://github.com/GoogleChrome/workbox/tree/mast
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
 write 1.0.3: https://github.com/jonschlinkert/write : MIT License
-write-file-atomic 3.0.3: https://github.com/iarna/write-file-atomic : ISC License
-write-file-atomic 4.0.2: https://github.com/iarna/write-file-atomic : ISC License
+write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
+write-file-atomic 4.0.2: https://github.com/npm/write-file-atomic : ISC License
 x2j 20191024-snapshot-82524943: https://github.com/clbanning/x2j : BSD 3-clause "New" or "Revised" License
 x448/float16 v0.8.4: https://github.com/x448/float16 : MIT License
 xdg-go/scram v1.1.2: https://github.com/xdg-go/scram : Apache License 2.0
@@ -3292,9 +3292,9 @@ yallist 3.1.1: https://github.com/isaacs/yallist#readme : ISC License
 yallist 4.0.0: https://github.com/isaacs/yallist#readme : ISC License
 yaml 1.10.2: https://github.com/tj/js-yaml : ISC License
 yaml 1.9.2: https://github.com/tj/js-yaml : ISC License
-yaml for Go v2.2.8: https://github.com/go-yaml/yaml : Apache License 2.0
-yaml for Go v2.4.0: https://github.com/go-yaml/yaml : Apache License 2.0
-yaml for Go v3.0.1: https://github.com/go-yaml/yaml : (MIT License AND Apache License 2.0)
+yaml for Go v2.2.8: https://github.com/go-yaml/yaml/tree/v2 : Apache License 2.0
+yaml for Go v2.4.0: https://github.com/go-yaml/yaml/tree/v2 : Apache License 2.0
+yaml for Go v3.0.1: https://github.com/go-yaml/yaml/tree/v2 : (MIT License AND Apache License 2.0)
 yannickcr/eslint-plugin-react 7.31.8: https://github.com/yannickcr/eslint-plugin-react : MIT License
 yargs 16.2.0: https://github.com/yargs/yargs : MIT License
 yargs 17.6.2: https://github.com/yargs/yargs : MIT License
@@ -20339,7 +20339,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
