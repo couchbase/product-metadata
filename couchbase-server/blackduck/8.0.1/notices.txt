@@ -522,10 +522,10 @@ ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
 Apache Commons Codec 1.17.1: https://github.com/apache/commons-codec : Apache License 2.0
 Apache Commons Collections 3.2.2: http://commons.apache.org/proper/commons-collections/ : Apache License 2.0
@@ -1443,6 +1443,7 @@ glog 0.4.0: https://github.com/google/glog : BSD 3-clause "New" or "Revised" Lic
 Go CLI v1.1.0: https://github.com/mitchellh/cli : Mozilla Public License 2.0
 Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
 go humanize 20171110-snapshot-bb3d3186: http://github.com/dustin/go-humanize : MIT License
+Go Logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.24.7: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.25.3: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
@@ -2188,7 +2189,7 @@ jsesc v2.5.2: http://mths.be/jsesc : MIT License
 JSHTTP's negotiator 0.6.3: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.5: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
-jshttp/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
+jshttp/mime-types 2.1.35: https://github.com/jshttp/mime-types : MIT License
 jsjest 27.5.1: https://jestjs.io : MIT License
 jsjest 29.2.2: https://jestjs.io : MIT License
 JSON for Modern Cpp 3.11.3: https://json.nlohmann.me : MIT License
@@ -2854,7 +2855,7 @@ pycryptodome 3.23.0: https://www.pycryptodome.org : (BSD 2-clause "Simplified" L
 pycryptodomex 3.23.0: http://www.pycryptodome.org : (BSD 3-clause "New" or "Revised" License AND Public Domain)
 pyOpenSSL 25.1.0: https://launchpad.net/pyopenssl : Apache License 2.0
 python cffi 1.17.1: https://cffi.readthedocs.io/en/latest/index.html : MIT License
-Python programming language 3.11.10: https://www.python.org/ : Python Software Foundation License 2.0
+Python programming language 3.11.10: https://www.python.org : Python Software Foundation License 2.0
 python-certifi 2025.8.3: https://certifiio.readthedocs.io/en/latest/ : ISC License
 python-pem 23.1.0: https://github.com/hynek/pem : MIT License
 python-snappy 0.7.2: https://github.com/andrix/python-snappy : BSD 3-clause "New" or "Revised" License
@@ -3027,14 +3028,13 @@ sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT Licens
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash 4.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color 8.1.1: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 Sinon.JS 14.0.2: http://sinonjs.org/ : BSD 3-clause "New" or "Revised" License
-Sirupsen/logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
-Sirupsen/logrus v1.9.3: https://github.com/Sirupsen/logrus : MIT License
+Sirupsen/logrus v1.9.3: https://github.com/sirupsen/logrus : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
 slice-ansi 2.1.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -3270,8 +3270,8 @@ workbox-background-sync 6.5.4: https://github.com/GoogleChrome/workbox/tree/mast
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
 write 1.0.3: https://github.com/jonschlinkert/write : MIT License
-write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
-write-file-atomic 4.0.2: https://github.com/npm/write-file-atomic : ISC License
+write-file-atomic 3.0.3: https://github.com/iarna/write-file-atomic : ISC License
+write-file-atomic 4.0.2: https://github.com/iarna/write-file-atomic : ISC License
 x2j 20191024-snapshot-82524943: https://github.com/clbanning/x2j : BSD 3-clause "New" or "Revised" License
 x448/float16 v0.8.4: https://github.com/x448/float16 : MIT License
 xdg-go/scram v1.1.2: https://github.com/xdg-go/scram : Apache License 2.0
@@ -16954,7 +16954,7 @@ SOFTWARE
 ---
 
 MIT License
-(Sirupsen/logrus v1.4.2)
+(Go Logrus v1.4.2)
 
 The MIT License (MIT)
 
