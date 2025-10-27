@@ -82,7 +82,7 @@ github.com/coder/websocket v1.8.12: https://github.com/coder/websocket : ISC Lic
 github.com/couchbase/gocbcoreps v0.1.4 : Apache License 2.0
 github.com/go-kit/log v0.2.1: https://github.com/go-kit/log : MIT License
 github.com/google/cel-spec v0.24.0: https://github.com/google/cel-spec : Apache License 2.0
-github.com/KimMachineGun/automemlimit v0.7.2: https://github.com/KimMachineGun/automemlimit : MIT License
+github.com/KimMachineGun/automemlimit v0.7.5: https://github.com/KimMachineGun/automemlimit : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.1: https://github.com/konsorten/go-windows-terminal-sequences : MIT License
 github.com/lufia/plan9stats 20211012-snapshot-39d0f177: https://pkg.go.dev/github.com/lufia/plan9stats : BSD 3-clause "New" or "Revised" License
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61: https://github.com/munnerz/goautoneg : BSD 3-clause "New" or "Revised" License
@@ -211,8 +211,8 @@ tklauser/numcpus v0.10.0: https://github.com/tklauser/numcpus : Apache License 2
 uber-go/atomic 1.7.0: https://go.uber.org/atomic : MIT License
 wheelcomplex/gosigar v0.14.3: https://github.com/elastic/gosigar : Apache License 2.0
 xhit/go-str2duration v2.1.0: https://github.com/xhit/go-str2duration : BSD 3-clause "New" or "Revised" License
-yaml for Go v2.4.0: https://github.com/go-yaml/yaml : Apache License 2.0
-yaml for Go v3.0.1: https://github.com/go-yaml/yaml : (MIT License AND Apache License 2.0)
+yaml for Go v2.4.0: https://github.com/go-yaml/yaml/tree/v2 : Apache License 2.0
+yaml for Go v3.0.1: https://github.com/go-yaml/yaml/tree/v2 : (MIT License AND Apache License 2.0)
 youmark/pkcs8 20201027-snapshot-1326539a : MIT License
 yuin/goldmark v1.2.1: https://github.com/yuin/goldmark : MIT License
 zeebo/errs v1.4.0: https://github.com/zeebo/errs : MIT License
@@ -1504,7 +1504,7 @@ SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, Azure/azure-sdk-for-go sdk/azcore/v1.9.1, Azure/azure-sdk-for-go sdk/azidentity/v1.4.0, Azure/azure-sdk-for-go sdk/internal/v1.5.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.1, AzureAD/microsoft-authentication-library-for-go v1.2.0, cespare/xxhash v2.3.0, chromedp/cdproto 20230802-snapshot-3cf4e6d4, chromedp/chromedp v0.9.2, chzyer-readline 20160726-snapshot-62c6fe61, chzyer-readline v1.5.1, chzyer/logex v1.2.1, chzyer/test v1.0.0, couchbase-gomemcached v0.2.1, dominikh/go-tools 20190523-snapshot-ea95bdfd, felixge/fgprof v0.9.5, felixge/httpsnoop v1.0.4, github.com/go-kit/log v0.2.1, github.com/KimMachineGun/automemlimit v0.7.2, github.com/power-devops/perfstat 20240221-snapshot-82ca3683, github.com/yusufpapurcu/wmi v1.2.4, Go Testify v1.11.1, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, gobwas/ws v1.2.1, golang-jwt/jwt v4.5.0, golang-jwt/jwt v5.2.0, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.24, natefinch/lumberjack v2.2.1, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.2, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, zeebo/errs v1.4.0)
+(alecthomas-kingpin v2.4.0, alecthomas-units 20211218-snapshot-b94a6e3c, Azure/azure-sdk-for-go sdk/azcore/v1.9.1, Azure/azure-sdk-for-go sdk/azidentity/v1.4.0, Azure/azure-sdk-for-go sdk/internal/v1.5.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.2.1, AzureAD/microsoft-authentication-library-for-go v1.2.0, cespare/xxhash v2.3.0, chromedp/cdproto 20230802-snapshot-3cf4e6d4, chromedp/chromedp v0.9.2, chzyer-readline 20160726-snapshot-62c6fe61, chzyer-readline v1.5.1, chzyer/logex v1.2.1, chzyer/test v1.0.0, couchbase-gomemcached v0.2.1, dominikh/go-tools 20190523-snapshot-ea95bdfd, felixge/fgprof v0.9.5, felixge/httpsnoop v1.0.4, github.com/go-kit/log v0.2.1, github.com/KimMachineGun/automemlimit v0.7.5, github.com/power-devops/perfstat 20240221-snapshot-82ca3683, github.com/yusufpapurcu/wmi v1.2.4, Go Testify v1.11.1, go-zap v1.27.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, gobwas/ws v1.2.1, golang-jwt/jwt v4.5.0, golang-jwt/jwt v5.2.0, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.24, natefinch/lumberjack v2.2.1, robertkrimen/otto 20211024-snapshot-b87d35c0, stretchr/objx v0.5.2, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, zeebo/errs v1.4.0)
 
 The MIT License
 ===============
