@@ -561,10 +561,10 @@ ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
 anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
 Apache Commons Codec 1.17.1: https://github.com/apache/commons-codec : Apache License 2.0
 Apache Commons Collections 3.2.2: http://commons.apache.org/proper/commons-collections/ : Apache License 2.0
@@ -812,8 +812,8 @@ Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://w
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 1.1.12: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 2.0.2: https://github.com/juliangruber/brace-expansion : MIT License
-braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
-braces 3.0.3: https://github.com/jonschlinkert/braces : MIT License
+braces 3.0.2: https://github.com/micromatch/braces : MIT License
+braces 3.0.3: https://github.com/micromatch/braces : MIT License
 Breakpad v2022.07.12: http://code.google.com/p/google-breakpad/ : (Unicode License AND MIT License AND BSD 2-clause "Simplified" License AND Apple Public Source License 2.0 AND BSD 3-clause "New" or "Revised" License)
 browser-process-hrtime 1.0.0: https://github.com/kumavis/browser-process-hrtime#readme : BSD 2-clause "Simplified" License
 browserify/detective 5.2.1: https://github.com/browserify/detective : MIT License
@@ -1523,7 +1523,7 @@ go-systemd v22.5.0: https://github.com/coreos/go-systemd : Apache License 2.0
 go-task/slim-sprig 20230315-snapshot-52ccab3e: https://github.com/go-task/slim-sprig : MIT License
 go-task/slim-sprig v3.0.0: https://github.com/go-task/slim-sprig : MIT License
 go-test/deep v1.1.0: http://github.com/go-test/deep/ : MIT License
-go-tomb-tomb 20150422-snapshot-dd632973: https://github.com/go-tomb/tomb/tree/v1 : BSD 3-clause "New" or "Revised" License
+go-tomb-tomb 20150422-snapshot-dd632973: https://github.com/go-tomb/tomb : BSD 3-clause "New" or "Revised" License
 go-warnings/warnings v0.1.2: https://github.com/go-warnings/warnings : BSD 2-clause "Simplified" License
 go-zap exp/v0.2.0: https://godoc.org/go.uber.org/zap : MIT License
 go-zap v1.19.1: https://godoc.org/go.uber.org/zap : MIT License
@@ -3154,11 +3154,9 @@ sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT Licens
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash 4.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 8.1.1: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 Sinon.JS 14.0.2: http://sinonjs.org/ : BSD 3-clause "New" or "Revised" License
 Sirupsen/logrus v1.9.3: https://github.com/sirupsen/logrus : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
@@ -3236,6 +3234,8 @@ strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments :
 style-loader 3.3.1: https://github.com/webpack/style-loader : MIT License
 style-mod 4.1.0: https://github.com/marijnh/style-mod#readme : MIT License
 stylehacks 5.1.0: https://github.com/ben-eb/stylehacks : MIT License
+supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
+supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
 supports-hyperlinks 2.3.0: https://github.com/jamestalmage/supports-hyperlinks : MIT License
 supports-preserve-symlinks-flag 1.0.0: https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme : MIT License
 svgo 1.3.2: https://github.com/svg/svgo : MIT License
@@ -3424,8 +3424,8 @@ yallist 3.1.1: https://github.com/isaacs/yallist#readme : ISC License
 yallist 4.0.0: https://github.com/isaacs/yallist#readme : ISC License
 yaml 1.10.2: https://github.com/tj/js-yaml : ISC License
 yaml 1.9.2: https://github.com/tj/js-yaml : ISC License
-yaml for Go v2.4.0: https://github.com/go-yaml/yaml : Apache License 2.0
-yaml for Go v3.0.1: https://github.com/go-yaml/yaml : (MIT License AND Apache License 2.0)
+yaml for Go v2.4.0: https://github.com/go-yaml/yaml/tree/v2 : Apache License 2.0
+yaml for Go v3.0.1: https://github.com/go-yaml/yaml/tree/v2 : (MIT License AND Apache License 2.0)
 yannickcr/eslint-plugin-react 7.31.8: https://github.com/yannickcr/eslint-plugin-react : MIT License
 yargs 16.2.0: https://github.com/yargs/yargs : MIT License
 yargs 17.6.2: https://github.com/yargs/yargs : MIT License
@@ -21425,7 +21425,7 @@ SOFTWARE
 ---
 
 MIT License
-(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, Chalk v4.1.0, clean-stack 2.2.0, cli-spinners 2.3.0, crypto-random-string 2.0.0, decompress-response 5.0.0, define-lazy-prop 2.0.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, find-up 3.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, import-local 3.1.0, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-path-inside 3.0.3, is-root 2.1.0, is-stream v2.0.0, is-wsl 2.2.0, leven 3.1.0, locate-path 3.0.0, log-symbols 2.2.0, lowercase-keys 2.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, mimic-response 1.0.1, npm-run-path 4.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, pkg-up 3.1.0, quick-lru 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url 6.1.0, sindresorhus/normalize-url v4.5.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 6.1.0, sindresorhus/supports-color v7.1.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width 4.2.3, string-width v3.1.0, Strip ANSI 6.0.0, strip-bom 4.0.0, strip-final-newline 2.0.0, strip-json-comments 3.1.0, temp-dir 2.0.0, terminal-link 2.1.1, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1, unique-string 2.0.0)
+(aggregate-error 3.0.1, ansi-regex 4.1.0, ansi-regex 5.0.0, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, Chalk v4.1.0, clean-stack 2.2.0, cli-spinners 2.3.0, crypto-random-string 2.0.0, decompress-response 5.0.0, define-lazy-prop 2.0.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, find-up 3.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, import-local 3.1.0, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-path-inside 3.0.3, is-root 2.1.0, is-stream v2.0.0, is-wsl 2.2.0, leven 3.1.0, locate-path 3.0.0, log-symbols 2.2.0, lowercase-keys 2.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, mimic-response 1.0.1, npm-run-path 4.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, pkg-up 3.1.0, quick-lru 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url 6.1.0, sindresorhus/normalize-url v4.5.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width 4.2.3, string-width v3.1.0, Strip ANSI 6.0.0, strip-bom 4.0.0, strip-final-newline 2.0.0, strip-json-comments 3.1.0, supports-color 6.1.0, supports-color v7.1.0, temp-dir 2.0.0, terminal-link 2.1.1, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1, unique-string 2.0.0)
 
 MIT License
 
