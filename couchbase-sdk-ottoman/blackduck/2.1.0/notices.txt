@@ -246,10 +246,10 @@ ansi-regex 2.1.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 3.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 2.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 2.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
 anymatch 2.0.0: https://github.com/es128/anymatch : ISC License
 anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
 aproba 1.2.0: https://github.com/iarna/aproba : ISC License
@@ -304,8 +304,6 @@ body-parser 1.19.0: https://github.com/expressjs/body-parser : MIT License
 bonjour 3.5.0: https://github.com/watson/bonjour : MIT License
 boolbase 1.0.0 : ISC License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
-braces 2.3.2: https://github.com/jonschlinkert/braces : MIT License
-braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 brorand 1.1.0: https://github.com/indutny/brorand : MIT License
 browser-process-hrtime 1.0.0: https://github.com/kumavis/browser-process-hrtime#readme : BSD 2-clause "Simplified" License
 browserify-aes 1.2.0: https://github.com/crypto-browserify/browserify-aes : MIT License
@@ -667,6 +665,7 @@ https-proxy-agent 5.0.0: https://github.com/TooTallNate/node-https-proxy-agent :
 human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 iarna/gauge v2.7.4: https://github.com/iarna/gauge : ISC License
+iarna/write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
 iconv-lite v0.4.24: https://github.com/ashtuchkin/iconv-lite : MIT License
 icss-replace-symbols 1.1.0: https://github.com/css-modules/icss-replace-symbols#readme : ISC License
 icss-utils 4.1.1: https://github.com/css-modules/icss-utils#readme : ISC License
@@ -802,6 +801,7 @@ jsbn 0.1.1: https://github.com/timkurvers/jsbn : MIT License
 jsdom 16.7.0: https://github.com/jsdom/jsdom : MIT License
 jsesc 0.5.0: http://mths.be/jsesc : MIT License
 jsesc v2.5.2: http://mths.be/jsesc : MIT License
+jshttp statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 JSHTTP's negotiator 0.6.2: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.4: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
@@ -893,6 +893,8 @@ merge2 1.4.1: https://github.com/teambition/merge2 : MIT License
 methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 micromatch 3.1.10: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch 4.0.4: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 2.3.2: https://github.com/jonschlinkert/braces : MIT License
+micromatch/braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 Microsofttslib 1.14.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
 mikeal/oauth-sign 0.9.0: https://github.com/mikeal/oauth-sign : Apache License 2.0
 miller-rabin 4.0.1: https://github.com/indutny/miller-rabin : MIT License
@@ -1254,11 +1256,11 @@ sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT Licen
 sindresorhus/slash 1.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v2.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 2.0.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 8.1.1: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color 2.0.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
 slice-ansi 3.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -1287,7 +1289,6 @@ stack-utils 1.0.5: https://github.com/jamestalmage/stack-utils#readme : MIT Lice
 stack-utils 2.0.3: https://github.com/jamestalmage/stack-utils#readme : MIT License
 static-eval 2.0.2: https://github.com/substack/static-eval : MIT License
 static-extend 0.1.2: https://github.com/jonschlinkert/static-extend : MIT License
-statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 std-env v2.3.0: https://github.com/pi0/std-env : MIT License
 stream-browserify 2.0.2: https://github.com/substack/stream-browserify : MIT License
 stream-each 1.2.3: https://github.com/mafintosh/stream-each : MIT License
@@ -1465,7 +1466,6 @@ wrap-ansi v5.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
-write-file-atomic 3.0.3: https://github.com/iarna/write-file-atomic : ISC License
 xdg-basedir 4.0.0: https://github.com/sindresorhus/xdg-basedir : MIT License
 xml-name-validator 3.0.0: https://github.com/jsdom/xml-name-validator : Apache License 2.0
 xmlchars 2.2.0: https://github.com/lddubeau/xmlchars#readme : MIT License
@@ -4553,7 +4553,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(write-file-atomic 3.0.3)
+(iarna/write-file-atomic 3.0.3)
 
 Upstream-Contact: https://github.com/iarna/write-file-atomic/issues
 Source: https://github.com/iarna/write-file-atomic
@@ -8646,7 +8646,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(assemble/gray-matter 4.0.3, braces 2.3.2, micromatch 3.1.10, normalize-path 3.0.0)
+(assemble/gray-matter 4.0.3, micromatch 3.1.10, micromatch/braces 2.3.2, normalize-path 3.0.0)
 
 The MIT License (MIT)
 
@@ -13923,7 +13923,7 @@ SOFTWARE
 ---
 
 MIT License
-(statuses 1.5.0)
+(jshttp statuses 1.5.0)
 
 The MIT License (MIT)
 
@@ -14785,7 +14785,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
