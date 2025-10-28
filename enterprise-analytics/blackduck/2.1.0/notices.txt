@@ -518,10 +518,10 @@ ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 4.2.1: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 4.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
 anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
 Apache Avro 1.12.0: http://avro.apache.org/ : Apache License 2.0
 Apache Avro IPC 1.12.0: http://avro.apache.org : Apache License 2.0
@@ -1374,8 +1374,6 @@ Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
 go humanize 1.0.1: http://github.com/dustin/go-humanize : MIT License
 go humanize 20171110-snapshot-bb3d3186: http://github.com/dustin/go-humanize : MIT License
 go humanize v1.0.0: http://github.com/dustin/go-humanize : MIT License
-Go Logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
-Go Logrus v1.6.0: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.24.7: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.25.3: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
@@ -1456,8 +1454,8 @@ go-systemd v22.5.0: https://github.com/coreos/go-systemd : Apache License 2.0
 go-task/slim-sprig 20210107-snapshot-348f09db: https://github.com/go-task/slim-sprig : MIT License
 go-task/slim-sprig 20230315-snapshot-52ccab3e: https://github.com/go-task/slim-sprig : MIT License
 go-test/deep v1.1.0: http://github.com/go-test/deep/ : MIT License
-go-tomb-tomb 20150422-snapshot-dd632973: https://github.com/go-tomb/tomb/tree/v1 : BSD 3-clause "New" or "Revised" License
-go-tomb-tomb 20180513-snapshot-d5d1b582: https://github.com/go-tomb/tomb/tree/v1 : BSD 3-clause "New" or "Revised" License
+go-tomb-tomb 20150422-snapshot-dd632973: https://github.com/go-tomb/tomb : BSD 3-clause "New" or "Revised" License
+go-tomb-tomb 20180513-snapshot-d5d1b582: https://github.com/go-tomb/tomb : BSD 3-clause "New" or "Revised" License
 go-toml v1.2.0: https://github.com/pelletier/go-toml : MIT License
 go-viper v1.4.0: https://github.com/spf13/viper : MIT License
 go-warnings/warnings v0.1.2: https://github.com/go-warnings/warnings : BSD 2-clause "Simplified" License
@@ -3121,13 +3119,15 @@ sindresorhus/onetime 2.0.1: https://github.com/sindresorhus/onetime : MIT Licens
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash 4.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 8.1.1: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.1.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 Sinon.JS 14.0.2: http://sinonjs.org/ : BSD 3-clause "New" or "Revised" License
-Sirupsen/logrus v1.9.3: https://github.com/sirupsen/logrus : MIT License
+Sirupsen/logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
+Sirupsen/logrus v1.6.0: https://github.com/Sirupsen/logrus : MIT License
+Sirupsen/logrus v1.9.3: https://github.com/Sirupsen/logrus : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -3393,9 +3393,9 @@ yallist 3.1.1: https://github.com/isaacs/yallist#readme : ISC License
 yallist 4.0.0: https://github.com/isaacs/yallist#readme : ISC License
 yaml 1.10.2: https://github.com/tj/js-yaml : ISC License
 yaml 1.9.2: https://github.com/tj/js-yaml : ISC License
-yaml for Go v2.2.8: https://github.com/go-yaml/yaml : Apache License 2.0
-yaml for Go v2.4.0: https://github.com/go-yaml/yaml : Apache License 2.0
-yaml for Go v3.0.1: https://github.com/go-yaml/yaml : (MIT License AND Apache License 2.0)
+yaml for Go v2.2.8: https://github.com/go-yaml/yaml/tree/v2 : Apache License 2.0
+yaml for Go v2.4.0: https://github.com/go-yaml/yaml/tree/v2 : Apache License 2.0
+yaml for Go v3.0.1: https://github.com/go-yaml/yaml/tree/v2 : (MIT License AND Apache License 2.0)
 yannickcr/eslint-plugin-react 7.31.8: https://github.com/yannickcr/eslint-plugin-react : MIT License
 yargs 16.2.0: https://github.com/yargs/yargs : MIT License
 yargs 17.6.2: https://github.com/yargs/yargs : MIT License
@@ -17250,7 +17250,7 @@ SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.4.2)
+(Sirupsen/logrus v1.4.2)
 
 The MIT License (MIT)
 
@@ -22256,7 +22256,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.6.0)
+(Sirupsen/logrus v1.6.0)
 
 Source: https://github.com/sirupsen/logrus
 
