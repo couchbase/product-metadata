@@ -948,9 +948,9 @@
 946,kubernetes/api,v0.34.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1f9b60a8-93bb-4af8-920e-9d3b690fc054,a8b11528-5673-4796-abcc-0d081e4f2c88,7cae335f-1193-421e-92f1-8802b4243e93
 947,kubernetes/component-base,v0.34.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2accd2fb-2d75-4f0e-9c9a-92cac4edba18,f731b037-2aaf-4d2c-a2ac-3da250d0fe3b,7cae335f-1193-421e-92f1-8802b4243e93
 948,kubernetes/cri-api,v0.34.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b44fccf0-a1bf-47b5-8eef-d74eac8ebecb,9e79189f-8575-497e-9b1b-0d3569bb7458,7cae335f-1193-421e-92f1-8802b4243e93
-949,kubernetes/kms,v0.34.1,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,8a39d6f0-d3e7-413a-96f7-f35c57b44d27,67590347-0989-4f22-a467-78bc613105d9,00000000-0010-0000-0000-000000000000
+949,kubernetes/kms,v0.34.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8a39d6f0-d3e7-413a-96f7-f35c57b44d27,67590347-0989-4f22-a467-78bc613105d9,7cae335f-1193-421e-92f1-8802b4243e93
 950,kubernetes/metrics,v0.34.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,66f7b5ae-a90c-41d9-a6bd-a3dbd9909987,aeb24987-5c1a-4393-86b5-9035d9e127a4,7cae335f-1193-421e-92f1-8802b4243e93
-951,kubernetes/pod-security-admission,v0.34.1,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,81eaadef-261e-4074-aa2c-7a53e001d453,cbc3a039-86d3-4a3d-99c0-bb470c6ffe41,00000000-0010-0000-0000-000000000000
+951,kubernetes/pod-security-admission,v0.34.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,81eaadef-261e-4074-aa2c-7a53e001d453,cbc3a039-86d3-4a3d-99c0-bb470c6ffe41,7cae335f-1193-421e-92f1-8802b4243e93
 952,kubernetes/sample-apiserver,v0.34.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,fa931f81-5c21-4241-a2b3-7f70934d6636,38e1f41b-4fef-4433-adf6-f389d8508db5,7cae335f-1193-421e-92f1-8802b4243e93
 953,kubernetes/system-validators,v1.10.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c2b1ede6-01de-4ee5-acab-386145b5389e,16c8c9fa-3095-4dac-877a-f72b342bedc3,7cae335f-1193-421e-92f1-8802b4243e93
 954,kustomize,api/v0.20.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3a4d2f1-33d2-4729-9dd1-f99796a01a9b,a5bd8176-2fb3-4be6-9f07-3409573d9a8a,7cae335f-1193-421e-92f1-8802b4243e93
@@ -3341,7 +3341,7 @@
 3339,core-js,3.41.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8156d24b-34f2-47c8-b635-dcbccc6d2aad,53b0491e-77e2-4ac0-a7b6-490fbb3749f7,ad705c59-6893-4980-bdbf-0837f1823cc4
 3340,core-util-is,1.0.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f9c417d0-ee42-4ede-8217-39abbd04a2cf,051ae347-bee9-4065-b1f2-5c0677cba538,ad705c59-6893-4980-bdbf-0837f1823cc4
 3341,core-util-is,1.0.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f9c417d0-ee42-4ede-8217-39abbd04a2cf,f51b36ff-be05-436e-9e89-6a968b546923,ad705c59-6893-4980-bdbf-0837f1823cc4
-3342,coredns/corefile-migration,v1.0.26,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,950b6b9f-cf25-4c81-ae6b-350412056c7d,9c2ce4e3-4016-46d2-a35e-5a48bf430723,00000000-0010-0000-0000-000000000000
+3342,coredns/corefile-migration,v1.0.26,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,950b6b9f-cf25-4c81-ae6b-350412056c7d,9c2ce4e3-4016-46d2-a35e-5a48bf430723,7cae335f-1193-421e-92f1-8802b4243e93
 3343,create-hash,1.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,84b8d402-b631-44cd-b6f1-0794f58d4c18,6bf4605e-91da-4d4f-bed9-2581f43fe304,ad705c59-6893-4980-bdbf-0837f1823cc4
 3344,create-react-app,1.0.11,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,30a2a0b5-8074-462e-afea-87653abe67d4,f6ffaf30-0ea7-42e0-9372-8fc6ecef9a81,3d238144-44e6-450e-b523-3defbdaed9dc
 3345,cross-fetch,3.1.5,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a0f39ccd-e103-42ca-9713-d7534c5c27ba,a832a081-019b-4c8d-83e2-9f945cc57f8a,ad705c59-6893-4980-bdbf-0837f1823cc4
