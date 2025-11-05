@@ -191,7 +191,7 @@ Notices Report Content
 Components: 
 
 aiohappyeyeballs 2.6.1: https://github.com/aio-libs/aiohappyeyeballs : Python Software Foundation License 2.0
-aiohttp 3.12.15: http://aiohttp.readthedocs.io : Apache License 2.0
+aiohttp 3.13.2: http://aiohttp.readthedocs.io : (MIT License AND Apache License 2.0)
 aiosignal 1.4.0: https://aiosignal.readthedocs.io/ : Apache License 2.0
 aiosqlite 0.21.0: https://github.com/jreese/aiosqlite : MIT License
 annotated-types 0.7.0: https://github.com/annotated-types/annotated-types : MIT License
@@ -200,7 +200,6 @@ banks 2.2.0: https://pypi.org/project/banks/ : MIT License
 BeautifulSoup4 4.14.2: https://github.com/il-vladislav/BeautifulSoup4 : MIT License
 boltons 25.0.0: https://github.com/mahmoud/boltons : BSD 3-clause "New" or "Revised" License
 bracex 2.6: https://github.com/facelessuser/bracex : MIT License
-cfgv 3.4.0: https://github.com/asottile/cfgv : MIT License
 Click - Python Command Line Utility 8.1.8: http://click.pocoo.org/ : BSD 3-clause "New" or "Revised" License
 click-extra 4.15.0: https://github.com/kdeldycke/click-extra : GNU General Public License v2.0 or later
 cloup 3.0.8: https://github.com/janLuke/cloup : BSD 3-clause "New" or "Revised" License
@@ -211,10 +210,9 @@ defusedxml v0.7.1: https://github.com/tiran/defusedxml : Python Software Foundat
 Deprecated 1.2.18: https://github.com/tantale/deprecated : MIT License
 dirtyjson 1.0.8: https://github.com/codecobblers/dirtyjson : MIT License
 distro 1.9.0: https://github.com/MartijnBraam/distro : Apache License 2.0
-docker 7.1.0: https://github.com/jbt/docker : Apache License 2.0
 EditorConfig 0.17.1: http://editorconfig.org/ : Python Software Foundation License 2.0
-extra-platforms 3.2.3 : GNU General Public License v2.0 or later
-filesystem_spec 2025.9.0: https://github.com/fsspec/filesystem_spec : BSD 3-clause "New" or "Revised" License
+extra-platforms 5.0.0 : GNU General Public License v2.0 or later
+filesystem_spec 2025.10.0: https://github.com/fsspec/filesystem_spec : BSD 3-clause "New" or "Revised" License
 filetype 1.2.0: https://github.com/h2non/filetype.py : MIT License
 frozenlist 1.8.0: https://github.com/aio-libs/frozenlist : Apache License 2.0
 gitdb 4.0.12: http://github.com/gitpython-developers/gitdb : BSD 3-clause "New" or "Revised" License
@@ -223,36 +221,33 @@ GitPython 3.1.45: https://github.com/gitpython-developers/GitPython : BSD 3-clau
 greenlet 3.2.4: http://pypi.python.org/pypi/greenlet : (Python Software Foundation License 2.0 AND MIT License)
 griffe 1.14.0 : ISC License
 h11 0.16.0: https://github.com/njsmith/h11 : MIT License
-hf-xet 1.1.10: https://pypi.org/project/hf-xet/ : Apache License 2.0
 httpcore 1.0.9: https://github.com/encode/httpcore : BSD 3-clause "New" or "Revised" License
 httpx 0.28.1: https://www.python-httpx.org/ : BSD 3-clause "New" or "Revised" License
-huggingface-hub 0.35.3: https://github.com/huggingface/huggingface_hub : Apache License 2.0
-identify 2.6.15: https://github.com/chriskuehl/identify : MIT License
-idna 3.10: https://github.com/kjd/idna : BSD 3-clause "New" or "Revised" License
+idna 3.11: https://github.com/kjd/idna : BSD 3-clause "New" or "Revised" License
 isodate 0.7.2: https://github.com/gweis/isodate : BSD 3-clause "New" or "Revised" License
 jinjapython 3.1.6: https://jinja.palletsprojects.com : BSD 3-clause "New" or "Revised" License
-jiter 0.11.0: https://github.com/pydantic/jiter/ : MIT License
+jiter 0.11.1: https://github.com/pydantic/jiter/ : MIT License
 joblib 1.5.2: http://packages.python.org/joblib/ : BSD 3-clause "New" or "Revised" License
 jsbeautifier 1.15.4: https://pypi.python.org/pypi/jsbeautifier/ : MIT License
 jsonschema-specifications 2025.9.1: https://pypi.org/project/jsonschema-specifications/ : MIT License
 langchain 0.3.27: https://github.com/langchain-ai/langchain : MIT License
-langchain 0.3.78: https://github.com/langchain-ai/langchain : MIT License
+langchain 0.3.79: https://github.com/langchain-ai/langchain : MIT License
 langchain 0.4.0: https://github.com/langchain-ai/langchain : MIT License
 langchain-openai 0.3.35: https://github.com/langchain-ai/langchain : MIT License
 langchain-text-splitters 0.3.11: https://github.com/langchain-ai/langchain : MIT License
 langgraph 0.5.2: https://langchain-ai.github.io/langgraph/ : MIT License
 langgraph 0.5.4: https://www.github.com/langchain-ai/langgraph : MIT License
-langgraph 2.1.1: https://langchain-ai.github.io/langgraph/ : MIT License
+langgraph 2.1.2: https://langchain-ai.github.io/langgraph/ : MIT License
 langgraph-checkpointer-couchbase 1.0.7: https://pypi.org/project/langgraph-checkpointer-couchbase/ : MIT License
 langgraph-sdk 0.1.74: https://www.github.com/langchain-ai/langgraph : MIT License
-langsmith 0.4.32: https://smith.langchain.com/ : MIT License
+langsmith 0.4.40: https://smith.langchain.com/ : MIT License
 llama-cloud 0.1.35 : MIT License
 llama-cloud-services 0.6.54 : MIT License
 llama-index-cli 0.5.1 : 
 llama-index-core 0.13.6: https://llamaindex.ai : MIT License
 llama-index-embeddings-openai 0.5.1 : 
 llama-index-indices-managed-llama-cloud 0.9.4 : 
-llama-index-instrumentation 0.4.1 : MIT License
+llama-index-instrumentation 0.4.2 : MIT License
 llama-index-llms-openai 0.5.6 : MIT License
 llama-index-readers-file 0.5.4 : 
 llama-index-readers-llama-parse 0.5.1 : 
@@ -261,98 +256,57 @@ llama-parse 0.6.54 : MIT License
 LlamaIndex 0.13.6: https://docs.llamaindex.ai : MIT License
 MarkupSafe 3.0.3: https://www.palletsprojects.com/p/markupsafe/ : BSD 3-clause "New" or "Revised" License
 mergedeep 1.3.4: https://github.com/clarketm/mergedeep : MIT License
-mpmath 1.3.0: http://code.google.com/p/mpmath/ : BSD 3-clause "New" or "Revised" License
 multidict 6.7.0: https://github.com/aio-libs/multidict/ : Apache License 2.0
 mypy-extensions 1.1.0: http://www.mypy-lang.org/ : MIT License
 nest-asyncio 1.6.0: https://github.com/erdewit/nest_asyncio : BSD 3-clause "New" or "Revised" License
 NetworkX 3.5: https://networkx.github.io/ : BSD 3-clause "New" or "Revised" License
 nltk 3.9.2: http://www.nltk.org/ : Apache License 2.0
-nodeenv 1.9.1: https://github.com/ekalinin/nodeenv : BSD 3-clause "New" or "Revised" License
-NumPy 2.3.3: https://numpy.org/ : BSD 3-clause "New" or "Revised" License
-nvidia-cublas-cu12 12.8.4.1: https://github.com/NVIDIA : Basic Proprietary Commercial License
-nvidia-cuda-cupti-cu12 12.8.90: https://github.com/NVIDIA : Basic Proprietary Commercial License
-nvidia-cuda-nvrtc-cu12 12.8.93: https://github.com/NVIDIA : Basic Proprietary Commercial License
-nvidia-cuda-runtime-cu12 12.8.90: https://github.com/NVIDIA : Basic Proprietary Commercial License
-nvidia-cudnn-cu12 9.10.2.21: https://github.com/NVIDIA : Basic Proprietary Commercial License
-nvidia-cufft-cu12 11.3.3.83: https://github.com/NVIDIA : NVIDIA License
-nvidia-cufile-cu12 1.13.1.3: https://developer.nvidia.com/cuda-zone : NVIDIA License
-nvidia-curand-cu12 10.3.9.90: https://github.com/NVIDIA : NVIDIA License
-nvidia-cusolver-cu12 11.7.3.90: https://github.com/NVIDIA : NVIDIA License
-nvidia-cusparse-cu12 12.5.8.93: https://github.com/NVIDIA : NVIDIA License
-nvidia-cusparselt-cu12 0.7.1: https://developer.nvidia.com/cusparselt : NVIDIA Customer Use License
-nvidia-nccl-cu12 2.27.3: https://github.com/NVIDIA : Basic Proprietary Commercial License
-nvidia-nvjitlink-cu12 12.8.93: https://github.com/NVIDIA : Basic Proprietary Commercial License
-nvidia-nvtx-cu12 12.8.90: https://github.com/NVIDIA : Apache License 2.0
 openai 1.109.1: https://github.com/openai/openai-python : Apache License 2.0
 openapi-pydantic 0.5.1: https://github.com/mike-oakley/openapi-pydantic : MIT License
-orjson 3.11.3: https://github.com/ijl/orjson : (MIT License AND Apache License 2.0)
-ormsgpack 1.10.0: https://github.com/aviramha/ormsgpack : (MIT License OR Apache License 2.0)
+orjson 3.11.4: https://github.com/ijl/orjson : (MIT License AND Apache License 2.0)
+ormsgpack 1.12.0: https://github.com/aviramha/ormsgpack : (MIT License AND Apache License 2.0)
 Packaging 25.0: https://github.com/pypa/packaging : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 pandas-python 2.2.3: https://pandas.pydata.org : BSD 3-clause "New" or "Revised" License
-PillowPython 11.3.0: https://github.com/python-pillow/Pillow : Python Imaging Library Software License
-platformdirs 4.4.0: https://github.com/platformdirs/platformdirs : MIT License
-pre-commit/pre-commit 3.8.0: https://github.com/pre-commit/pre-commit : MIT License
-propcache 0.4.0: https://github.com/aio-libs/propcache : Apache License 2.0
+platformdirs 4.5.0: https://github.com/platformdirs/platformdirs : MIT License
+propcache 0.4.1: https://github.com/aio-libs/propcache : Apache License 2.0
 psf-requests 2.32.5: http://docs.python-requests.org : Apache License 2.0
-py-filelock 3.19.1: https://github.com/benediktschmitt/py-filelock : The Unlicense
 py-openapi-schema-to-json-schema 0.0.3: https://github.com/pglass/py-openapi-jsonschema-converter : MIT License
-pydantic 2.11.10: https://pydantic-docs.helpmanual.io/ : MIT License
-pydantic-core 2.33.2: https://github.com/samuelcolvin/pydantic-core : MIT License
+pydantic 2.12.3: https://pydantic-docs.helpmanual.io/ : MIT License
+pydantic-core 2.41.4: https://github.com/pydantic/pydantic-core : MIT License
 pydantic-settings 2.11.0: https://github.com/danields761/pydantic-settings : MIT License
-Pygments - Python syntax highlighter 2.19.2: http://pygments.org/ : BSD 2-clause "Simplified" License
-pypdf 6.1.1 : BSD 3-clause "New" or "Revised" License
-pypi/setuptools 80.9.0: https://pypi.org/project/setuptools/ : MIT License
-pytest 8.4.2: http://pytest.org : MIT License
-pytest-asyncio 1.2.0: https://pypi.python.org/pypi/pytest-asyncio : Apache License 2.0
-pytest-retry 1.7.0: https://pypi.org/project/pytest-retry/ : (MIT License OR Unknown License)
+pypdf 6.1.3 : BSD 3-clause "New" or "Revised" License
 Python six 1.17.0: http://pypi.python.org/pypi/six : MIT License
 Python tzdata 2025.2: https://github.com/python/tzdata : Apache License 2.0
 python-attrs 25.4.0: https://attrs.readthedocs.org/ : MIT License
 python-certifi 2025.10.5: https://certifiio.readthedocs.io/en/latest/ : Mozilla Public License 2.0
 python-dateutil 2.9.0.post0: https://github.com/dateutil/dateutil : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
-python-distlib 0.4.0: https://pypi.python.org/pypi/distlib : Python Software Foundation License 2.0
-python-dotenv 1.1.1: http://github.com/theskumar/python-dotenv : BSD 3-clause "New" or "Revised" License
+python-dotenv 1.2.1: http://github.com/theskumar/python-dotenv : BSD 3-clause "New" or "Revised" License
 python-json-patch 1.33: https://github.com/stefankoegl/python-json-patch/ : BSD 3-clause "New" or "Revised" License
 python-json-pointer 3.0.0: https://github.com/stefankoegl/python-json-pointer : BSD 3-clause "New" or "Revised" License
 python-jsonschema 4.25.1: https://python-jsonschema.readthedocs.org : MIT License
 python-marshmallow 3.26.1: http://marshmallow.readthedocs.io/ : MIT License
-python-pluggy 1.6.0: https://pypi.python.org/pypi/pluggy : MIT License
 python-semanticversion 2.10.0: https://github.com/rbarrois/python-semanticversion : BSD 3-clause "New" or "Revised" License
 python-typing-extensions 4.15.0 : Python Software Foundation License 2.0
-python3-charset-normalizer 3.4.3: https://github.com/ousret/charset_normalizer : MIT License
-pytorch 2.8.0: http://pytorch.org : BSD 3-clause "New" or "Revised" License
+python3-charset-normalizer 3.4.4: https://github.com/ousret/charset_normalizer : MIT License
 PyTZ - Python Time Zone Library 2025.2: http://pythonhosted.org/pytz/ : MIT License
-pywin32 311: https://github.com/mhammond/pywin32 : Python Software Foundation License 2.0
 PyYAML 6.0.3: https://pyyaml.org/ : MIT License
-referencing 0.36.2: https://github.com/python-jsonschema/referencing : MIT License
-regex 2025.9.18: https://github.com/cgrand/regex : Eclipse Public License 1.0
+referencing 0.37.0: https://github.com/python-jsonschema/referencing : MIT License
 requests-toolbelt 1.0.0: https://toolbelt.readthedocs.io : Apache License 2.0
-RonnyPfannschmidt/iniconfig 2.1.0: https://github.com/RonnyPfannschmidt/iniconfig : MIT License
-rpds-py 0.27.1: https://pypi.org/project/rpds-py/ : MIT License
-safetensors 0.6.2: https://huggingface.co/docs/safetensors : Apache License 2.0
-scikit-learn 1.7.2: https://scikit-learn.org/ : BSD 3-clause "New" or "Revised" License
-SciPy 1.16.2: http://www.scipy.org : BSD 3-clause "New" or "Revised" License
-sentence-transformers 3.4.1: https://github.com/UKPLab/sentence-transformers : Apache License 2.0
+rpds-py 0.28.0: https://pypi.org/project/rpds-py/ : MIT License
 smmap 5.0.2: https://github.com/gitpython-developers/smmap : BSD 3-clause "New" or "Revised" License
 sniffio 1.3.1: https://github.com/python-trio/sniffio : Apache License 2.0
 soupsieve 2.8: https://github.com/facelessuser/soupsieve : MIT License
-SQLAlchemy 2.0.43: http://www.sqlalchemy.org/ : MIT License
+SQLAlchemy 2.0.44: http://www.sqlalchemy.org/ : MIT License
 striprtf 0.0.26: https://github.com/joshy/striprtf : BSD 3-clause "New" or "Revised" License
-SymPy 1.14.0: http://sympy.org : BSD 3-clause "New" or "Revised" License
 tabulate 0.9.0: http://code.google.com/p/tabulate/ : MIT License
 tenacity 9.1.2: https://github.com/jd/tenacity : Apache License 2.0
 texteditor 1.4.1: https://github.com/Vijaysai005/MyPythonFiles/texteditor : MIT License
-threadpoolctl 3.6.0: https://github.com/joblib/threadpoolctl : BSD 3-clause "New" or "Revised" License
-tiktoken 0.11.0: https://pypi.org/project/tiktoken/ : MIT License
-tokenizers 0.22.1: https://github.com/huggingface/tokenizers : Apache License 2.0
+tiktoken 0.12.0: https://pypi.org/project/tiktoken/ : MIT License
 tqdm 4.67.1: https://tqdm.github.io : (MIT License AND Mozilla Public License 2.0)
-transformers 4.57.0: https://github.com/huggingface/transformers : Apache License 2.0
-triton 3.4.0: https://github.com/prakashpp/triton : MIT License
 typing-inspect 0.9.0: https://github.com/ilevkivskyi/typing_inspect : MIT License
 typing-inspection 0.4.2: https://pypi.org/project/typing-inspection/ : MIT License
 tzlocal 5.3.1: https://github.com/regebro/tzlocal : MIT License
 urllib3 2.5.0: https://urllib3.readthedocs.io/en/stable : MIT License
-virtualenv 20.32.0: https://pypi.org/project/virtualenv/ : MIT License
 wcmatch 10.1: https://github.com/facelessuser/wcmatch : MIT License
 wcwidth 0.2.14: https://github.com/timoxley/wcwidth#readme : MIT License
 wrapt 1.17.3: https://github.com/GrahamDumpleton/wrapt : BSD 3-clause "New" or "Revised" License
@@ -364,7 +318,7 @@ zstandard 0.25.0: https://github.com/indygreg/python-zstandard : BSD 3-clause "N
 Licenses: 
 
 Apache License 2.0
-(aiohttp 3.12.15, aiosignal 1.4.0, distro 1.9.0, docker 7.1.0, frozenlist 1.8.0, hf-xet 1.1.10, huggingface-hub 0.35.3, multidict 6.7.0, nltk 3.9.2, nvidia-nvtx-cu12 12.8.90, openai 1.109.1, orjson 3.11.3, ormsgpack 1.10.0, Packaging 25.0, propcache 0.4.0, psf-requests 2.32.5, pytest-asyncio 1.2.0, Python tzdata 2025.2, python-dateutil 2.9.0.post0, requests-toolbelt 1.0.0, safetensors 0.6.2, sentence-transformers 3.4.1, sniffio 1.3.1, tenacity 9.1.2, tokenizers 0.22.1, transformers 4.57.0, yarl 1.22.0)
+(aiohttp 3.13.2, aiosignal 1.4.0, distro 1.9.0, frozenlist 1.8.0, multidict 6.7.0, nltk 3.9.2, openai 1.109.1, orjson 3.11.4, ormsgpack 1.12.0, Packaging 25.0, propcache 0.4.1, psf-requests 2.32.5, Python tzdata 2025.2, python-dateutil 2.9.0.post0, requests-toolbelt 1.0.0, sniffio 1.3.1, tenacity 9.1.2, yarl 1.22.0)
 
 Apache License
 Version 2.0, January 2004
@@ -550,37 +504,8 @@ third-party archives.
 
 ---
 
-BSD 2-clause "Simplified" License
-(Pygments - Python syntax highlighter 2.19.2)
-
-BSD Two Clause License
-======================
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-  1. Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
-
-  2. Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED
-WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
-SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
-OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
----
-
 BSD 3-clause "New" or "Revised" License
-(boltons 25.0.0, Click - Python Command Line Utility 8.1.8, cloup 3.0.8, colorama 0.4.6, dateparser 1.2.2, filesystem_spec 2025.9.0, gitdb 4.0.12, GitPython 3.1.45, httpcore 1.0.9, httpx 0.28.1, idna 3.10, isodate 0.7.2, jinjapython 3.1.6, joblib 1.5.2, MarkupSafe 3.0.3, mpmath 1.3.0, nest-asyncio 1.6.0, NetworkX 3.5, nodeenv 1.9.1, NumPy 2.3.3, Packaging 25.0, pandas-python 2.2.3, pypdf 6.1.1, python-dateutil 2.9.0.post0, python-dotenv 1.1.1, python-json-patch 1.33, python-json-pointer 3.0.0, python-semanticversion 2.10.0, pytorch 2.8.0, scikit-learn 1.7.2, SciPy 1.16.2, smmap 5.0.2, striprtf 0.0.26, SymPy 1.14.0, threadpoolctl 3.6.0, wrapt 1.17.3, xxhash 3.6.0, zstandard 0.25.0)
+(boltons 25.0.0, Click - Python Command Line Utility 8.1.8, cloup 3.0.8, colorama 0.4.6, dateparser 1.2.2, filesystem_spec 2025.10.0, gitdb 4.0.12, GitPython 3.1.45, httpcore 1.0.9, httpx 0.28.1, idna 3.11, isodate 0.7.2, jinjapython 3.1.6, joblib 1.5.2, MarkupSafe 3.0.3, nest-asyncio 1.6.0, NetworkX 3.5, Packaging 25.0, pandas-python 2.2.3, pypdf 6.1.3, python-dateutil 2.9.0.post0, python-dotenv 1.2.1, python-json-patch 1.33, python-json-pointer 3.0.0, python-semanticversion 2.10.0, smmap 5.0.2, striprtf 0.0.26, wrapt 1.17.3, xxhash 3.6.0, zstandard 0.25.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -613,414 +538,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-Basic Proprietary Commercial License
-(nvidia-cublas-cu12 12.8.4.1, nvidia-cuda-cupti-cu12 12.8.90, nvidia-cuda-nvrtc-cu12 12.8.93, nvidia-cuda-runtime-cu12 12.8.90, nvidia-cudnn-cu12 9.10.2.21, nvidia-nccl-cu12 2.27.3, nvidia-nvjitlink-cu12 12.8.93)
-
-END-USER LICENSE AGREEMENT FOR ACME SOFTWARE
-============================================
-
-IMPORTANT READ CAREFULLY: This ACME End-User License Agreement ("EULA") is a
-legal agreement between you (either an individual or a single entity) and ACME
-Corporation for the ACME software product identified above, which includes
-computer software and may include associated media, printed materials, and
-"online" or electronic documentation ("SOFTWARE PRODUCT"). The SOFTWARE PRODUCT
-also includes any updates and supplements to the original SOFTWARE PRODUCT
-provided to you by ACME. Any software provided along with the SOFTWARE PRODUCT
-that is associated with a separate end-user license agreement is licensed to you
-under the terms of that license agreement. By installing, copying, downloading,
-accessing, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the
-terms of this EULA. If you do not agree to the terms of this EULA, do not install
-or use the SOFTWARE PRODUCT; you may, however, return it to your place of
-purchase for a full refund.
-
-
-SOFTWARE PRODUCT LICENSE
-------------------------
-
-The SOFTWARE PRODUCT is protected by copyright laws and international copyright
-treaties, as well as other intellectual property laws and treaties. The SOFTWARE
-PRODUCT is licensed, not sold.
-
-  1. GRANT OF LICENSE. This EULA grants you the following rights:
-
-      * Applications Software. You may install, use, access, display, run, or
-        otherwise interact with ("RUN") one copy of the SOFTWARE PRODUCT, or any
-        prior version for the same operating system, on a single computer,
-        workstation, terminal, handheld PC, pager, "smart phone," or other
-        digital electronic device ("COMPUTER"). The primary user of the COMPUTER
-        on which the SOFTWARE PRODUCT is installed may make a second copy for his
-        or her exclusive use on a portable computer.
-
-      * Reservation of Rights. All rights not expressly granted are reserved by
-        ACME.
-
-  2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
-
-      * Not for Resale Software. If the SOFTWARE PRODUCT is labeled "Not For
-        Resale" or "NFR," then, notwithstanding other sections of this EULA, your
-        use of the SOFTWARE PRODUCT is limited to use for demonstration, test, or
-        evaluation purposes and you may not resell, or otherwise transfer for
-        value, the SOFTWARE PRODUCT.
-
-      * Limitations on Reverse Engineering, Decompilation, and Disassembly. You
-        may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT,
-        except and only to the extent that such activity is expressly permitted
-        by applicable law.
-
-      * Separation of Components. The SOFTWARE PRODUCT is licensed as a single
-        product. Its component parts may not be separated for use on more than
-        one COMPUTER.
-
-      * Trademarks. This EULA does not grant you any rights in connection with
-        any trademarks or service marks of ACME.
-
-      * Rental. You may not rent, lease, or lend the SOFTWARE PRODUCT.
-
-      * Support Services. ACME may provide you with support services related to
-        the SOFTWARE PRODUCT ("Support Services"). Use of Support Services is
-        governed by the ACME policies and programs described in the user manual,
-        in "online" documentation, and/or in other ACME-provided materials. Any
-        supplemental software code provided to you as part of the Support
-        Services shall be considered part of the SOFTWARE PRODUCT and subject to
-        the terms and conditions of this EULA.
-
-      * Software Transfer. The initial licensee of the SOFTWARE PRODUCT may make
-        a one-time permanent transfer of this EULA and SOFTWARE PRODUCT only
-        directly to an end user. This transfer must include all of the SOFTWARE
-        PRODUCT (including all component parts, the media and printed materials,
-        any upgrades, this EULA, and, if applicable, the Certificate of
-        Authenticity). Such transfer may not be by way of consignment or any
-        other indirect transfer. The transferee of such one-time transfer must
-        agree to comply with the terms of this EULA, including the obligation not
-        to further transfer this EULA and SOFTWARE PRODUCT.
-
-      * Termination. Without prejudice to any other rights, ACME may terminate
-        this EULA if you fail to comply with the terms and conditions of this
-        EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT
-        and all of its component parts.
-
-  3. COPYRIGHT. All title and copyrights in and to the SOFTWARE PRODUCT
-    (including but not limited to any images, photographs, animations, video,
-    audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT),
-    the accompanying printed materials, and any copies of the SOFTWARE PRODUCT
-    are owned by ACME or its suppliers. All title and intellectual property
-    rights in and to the content that may be accessed through use of the SOFTWARE
-    PRODUCT is the property of the respective content owner and may be protected
-    by applicable copyright or other intellectual property laws and treaties.
-    This EULA grants you no rights to use such content. If this SOFTWARE PRODUCT
-    contains documentation that is provided only in electronic form, you may
-    print one copy of such electronic documentation. You may not copy the printed
-    materials accompanying the SOFTWARE PRODUCT.
-
-  4. BACKUP COPY. After installation of one copy of the SOFTWARE PRODUCT pursuant
-    to this EULA, you may keep the original media on which the SOFTWARE PRODUCT
-    was provided by ACME solely for backup or archival purposes. If the original
-    media is required to use the SOFTWARE PRODUCT on the COMPUTER, you may make
-    one copy of the SOFTWARE PRODUCT solely for backup or archival purposes.
-    Except as expressly provided in this EULA, you may not otherwise make copies
-    of the SOFTWARE PRODUCT or the printed materials accompanying the SOFTWARE
-    PRODUCT.
-
-  5. U.S. GOVERNMENT RESTRICTED RIGHTS. All SOFTWARE PRODUCT provided to the U.S.
-    Government pursuant to solicitations issued on or after December 1, 1995 is
-    provided with the commercial rights and restrictions described elsewhere
-    herein. All SOFTWARE PRODUCT provided to the U.S. Government pursuant to
-    solicitations issued prior to December 1, 1995 is provided with RESTRICTED
-    RIGHTS as provided for in FAR, 48 CFR 52.227-14 (JUNE 1987) or FAR, 48 CFR
-    252.227-7013 (OCT 1988), as applicable.
-
-  6. EXPORT RESTRICTIONS. This SOFTWARE PRODUCT has been classified by the US
-    Government as exportable under License Exception TSU. Therefore the following
-    terms apply: You agree that you will not export or re-export the SOFTWARE
-    PRODUCT, any part thereof, or any process or service that is the direct
-    product of the SOFTWARE PRODUCT (the foregoing collectively referred to as
-    the Restricted Components), to any country, person or entity subject to U.S.
-    export restrictions. You specifically agree not to export or re-export any of
-    the Restricted Components (i) to any country to which the U.S. has embargoed
-    or restricted the export of goods or services, which currently include, but
-    are not necessarily limited to Cuba, Iran, Iraq, Libya, North Korea, Sudan
-    and Syria, or to any national of any such country, wherever located, who
-    intends to transmit or transport the Restricted Components back to such
-    country; (ii) to any person or entity who you know or have reason to know
-    will utilize the Restricted Components in the design, development or
-    production of nuclear, chemical or biological weapons; or (iii) to any person
-    or entity who has been prohibited from participating in U.S. export
-    transactions by any federal agency of the U.S. government. You warrant and
-    represent that neither the Bureau of Export Administration nor any other U.S.
-    federal agency has suspended, revoked or denied your export privileges.
-
-
-MISCELLANEOUS
--------------
-
-This EULA is governed by the laws of the Commonwealth of Massachusetts and the
-United States of America.
-
-
-LIMITED WARRANTY
-----------------
-
-ACME warrants that (a) the SOFTWARE PRODUCT will perform substantially in
-accordance with the accompanying written materials for a period of ninety (90)
-days from the date of receipt, and (b) any Support Services provided by ACME
-shall be substantially as described in applicable written materials provided to
-you by ACME, and ACME support engineers will make commercially reasonable efforts
-to solve any problem issues. Some states and jurisdictions do not allow
-limitations on duration of an implied warranty, so the above limitation may not
-apply to you.
-
-
-CUSTOMER REMEDIES. ACMEs and its suppliersentire liability and your exclusive
-remedy shall be, at ACMEs option, either (a) return of the price paid, if any, or
-(b) repair or replacement of the SOFTWARE PRODUCT that does not meet ACMEs
-Limited Warranty and which is returned to ACME with a copy of your receipt. This
-Limited Warranty is void if failure of the SOFTWARE PRODUCT has resulted from
-accident, abuse, or misapplication. Any replacement SOFTWARE PRODUCT will be
-warranted for the remainder of the original warranty period or thirty (30) days,
-whichever is longer.
-
-NO OTHER WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ACME AND
-ITS SUPPLIERS DISCLAIM ALL OTHER WARRANTIES AND CONDITIONS, EITHER EXPRESS OR
-IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE
-SOFTWARE PRODUCT, AND THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES.
-THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS. YOU MAY HAVE OTHERS, WHICH
-VARY FROM STATE/JURISDICTION TO STATE/JURISDICTION.
- 
-LIMITATION OF LIABILITY. To the maximum extent permitted by applicable law, in no
-event shall ACME or its suppliers be liable for any special, incidental,
-indirect, or consequential damages whatsoever (including, without limitation,
-damages for loss of business profits, business interruption, loss of business
-information, or any other pecuniary loss) arising out of the use of or inability
-to use the SOFTWARE PRODUCT or the provision of or failure to provide Support
-Services, even if ACME has been advised of the possibility of such damages. In
-any case, ACMEs entire liability under any provision of this EULA shall be
-limited to the greater of the amount actually paid by you for the SOFTWARE
-PRODUCT or U.S. $5.00; provided, however, if you have entered into a ACME Support
-Services Agreement, ACMEs entire liability regarding Support Services shall be
-governed by the terms of that agreement. Because some states and jurisdictions do
-not allow the exclusion or limitation of liability, the above limitation may not
-apply to you.
-
----
-
-Eclipse Public License 1.0
-(regex 2025.9.18)
-
-Eclipse Public License - v 1.0
-==============================
-
-THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC
-LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM
-CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
-
-1. DEFINITIONS
-
-"Contribution" means:
-
-a) in the case of the initial Contributor, the initial code and documentation
-distributed under this Agreement, and
-b) in the case of each subsequent Contributor:
-
-i) changes to the Program, and
-
-ii) additions to the Program;
-
-where such changes and/or additions to the Program originate from and are
-distributed by that particular Contributor. A Contribution 'originates' from a
-Contributor if it was added to the Program by such Contributor itself or anyone
-acting on such Contributor's behalf. Contributions do not include additions to
-the Program which: (i) are separate modules of software distributed in
-conjunction with the Program under their own license agreement, and (ii) are not
-derivative works of the Program.
-
-"Contributor" means any person or entity that distributes the Program.
-
-"Licensed Patents " mean patent claims licensable by a Contributor which are
-necessarily infringed by the use or sale of its Contribution alone or when
-combined with the Program.
-
-"Program" means the Contributions distributed in accordance with this Agreement.
-
-"Recipient" means anyone who receives the Program under this Agreement, including
-all Contributors.
-
-2. GRANT OF RIGHTS
-
-a) Subject to the terms of this Agreement, each Contributor hereby grants
-Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce,
-prepare derivative works of, publicly display, publicly perform, distribute and
-sublicense the Contribution of such Contributor, if any, and such derivative
-works, in source code and object code form.
-
-b) Subject to the terms of this Agreement, each Contributor hereby grants
-Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed
-Patents to make, use, sell, offer to sell, import and otherwise transfer the
-Contribution of such Contributor, if any, in source code and object code form.
-This patent license shall apply to the combination of the Contribution and the
-Program if, at the time the Contribution is added by the Contributor, such
-addition of the Contribution causes such combination to be covered by the
-Licensed Patents. The patent license shall not apply to any other combinations
-which include the Contribution. No hardware per se is licensed hereunder.
-
-c) Recipient understands that although each Contributor grants the licenses to
-its Contributions set forth herein, no assurances are provided by any Contributor
-that the Program does not infringe the patent or other intellectual property
-rights of any other entity. Each Contributor disclaims any liability to Recipient
-for claims brought by any other entity based on infringement of intellectual
-property rights or otherwise. As a condition to exercising the rights and
-licenses granted hereunder, each Recipient hereby assumes sole responsibility to
-secure any other intellectual property rights needed, if any. For example, if a
-third party patent license is required to allow Recipient to distribute the
-Program, it is Recipient's responsibility to acquire that license before
-distributing the Program.
-
-d) Each Contributor represents that to its knowledge it has sufficient copyright
-rights in its Contribution, if any, to grant the copyright license set forth in
-this Agreement.
-
-3. REQUIREMENTS
-
-A Contributor may choose to distribute the Program in object code form under its
-own license agreement, provided that:
-
-a) it complies with the terms and conditions of this Agreement; and
-
-b) its license agreement:
-
-i) effectively disclaims on behalf of all Contributors all warranties and
-conditions, express and implied, including warranties or conditions of title and
-non-infringement, and implied warranties or conditions of merchantability and
-fitness for a particular purpose;
-
-ii) effectively excludes on behalf of all Contributors all liability for damages,
-including direct, indirect, special, incidental and consequential damages, such
-as lost profits;
-
-iii) states that any provisions which differ from this Agreement are offered by
-that Contributor alone and not by any other party; and
-
-iv) states that source code for the Program is available from such Contributor,
-and informs licensees how to obtain it in a reasonable manner on or through a
-medium customarily used for software exchange.
-
-When the Program is made available in source code form:
-
-a) it must be made available under this Agreement; and
-
-b) a copy of this Agreement must be included with each copy of the Program.
-
-Contributors may not remove or alter any copyright notices contained within the
-Program.
-
-Each Contributor must identify itself as the originator of its Contribution, if
-any, in a manner that reasonably allows subsequent Recipients to identify the
-originator of the Contribution.
-
-4. COMMERCIAL DISTRIBUTION
-
-Commercial distributors of software may accept certain responsibilities with
-respect to end users, business partners and the like. While this license is
-intended to facilitate the commercial use of the Program, the Contributor who
-includes the Program in a commercial product offering should do so in a manner
-which does not create potential liability for other Contributors. Therefore, if a
-Contributor includes the Program in a commercial product offering, such
-Contributor ("Commercial Contributor") hereby agrees to defend and indemnify
-every other Contributor ("Indemnified Contributor") against any losses, damages
-and costs (collectively "Losses") arising from claims, lawsuits and other legal
-actions brought by a third party against the Indemnified Contributor to the
-extent caused by the acts or omissions of such Commercial Contributor in
-connection with its distribution of the Program in a commercial product offering.
-The obligations in this section do not apply to any claims or Losses relating to
-any actual or alleged intellectual property infringement. In order to qualify, an
-Indemnified Contributor must: a) promptly notify the Commercial Contributor in
-writing of such claim, and b) allow the Commercial Contributor to control, and
-cooperate with the Commercial Contributor in, the defense and any related
-settlement negotiations. The Indemnified Contributor may participate in any such
-claim at its own expense.
-
-For example, a Contributor might include the Program in a commercial product
-offering, Product X. That Contributor is then a Commercial Contributor. If that
-Commercial Contributor then makes performance claims, or offers warranties
-related to Product X, those performance claims and warranties are such Commercial
-Contributor's responsibility alone. Under this section, the Commercial
-Contributor would have to defend claims against the other Contributors related to
-those performance claims and warranties, and if a court requires any other
-Contributor to pay any damages as a result, the Commercial Contributor must pay
-those damages.
-
-5. NO WARRANTY
-
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN
-"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
-IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE,
-NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each
-Recipient is solely responsible for determining the appropriateness of using and
-distributing the Program and assumes all risks associated with its exercise of
-rights under this Agreement , including but not limited to the risks and costs of
-program errors, compliance with applicable laws, damage to or loss of data,
-programs or equipment, and unavailability or interruption of operations.
-
-6. DISCLAIMER OF LIABILITY
-
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY
-CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST
-PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS
-GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-7. GENERAL
-
-If any provision of this Agreement is invalid or unenforceable under applicable
-law, it shall not affect the validity or enforceability of the remainder of the
-terms of this Agreement, and without further action by the parties hereto, such
-provision shall be reformed to the minimum extent necessary to make such
-provision valid and enforceable.
-
-If Recipient institutes patent litigation against any entity (including a
-cross-claim or counterclaim in a lawsuit) alleging that the Program itself
-(excluding combinations of the Program with other software or hardware) infringes
-such Recipient's patent(s), then such Recipient's rights granted under Section
-2(b) shall terminate as of the date such litigation is filed.
-
-All Recipient's rights under this Agreement shall terminate if it fails to comply
-with any of the material terms or conditions of this Agreement and does not cure
-such failure in a reasonable period of time after becoming aware of such
-noncompliance. If all Recipient's rights under this Agreement terminate,
-Recipient agrees to cease use and distribution of the Program as soon as
-reasonably practicable. However, Recipient's obligations under this Agreement and
-any licenses granted by Recipient relating to the Program shall continue and
-survive.
-
-Everyone is permitted to copy and distribute copies of this Agreement, but in
-order to avoid inconsistency the Agreement is copyrighted and may only be
-modified in the following manner. The Agreement Steward reserves the right to
-publish new versions (including revisions) of this Agreement from time to time.
-No one other than the Agreement Steward has the right to modify this Agreement.
-The Eclipse Foundation is the initial Agreement Steward. The Eclipse Foundation
-may assign the responsibility to serve as the Agreement Steward to a suitable
-separate entity. Each new version of the Agreement will be given a distinguishing
-version number. The Program (including Contributions) may always be distributed
-subject to the version of the Agreement under which it was received. In addition,
-after a new version of the Agreement is published, Contributor may elect to
-distribute the Program (including its Contributions) under the new version.
-Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no
-rights or licenses to the intellectual property of any Contributor under this
-Agreement, whether expressly, by implication, estoppel or otherwise. All rights
-in the Program not expressly granted under this Agreement are reserved.
-
-This Agreement is governed by the laws of the State of New York and the
-intellectual property laws of the United States of America. No party to this
-Agreement will bring a legal action under this Agreement more than one year after
-the cause of action arose. Each party waives its rights to a jury trial in any
-resulting litigation.
-
----
-
 GNU General Public License v2.0 or later
-(click-extra 4.15.0, extra-platforms 3.2.3)
+(click-extra 4.15.0, extra-platforms 5.0.0)
 
 The GNU General Public License (GPL)
 ====================================
@@ -1402,7 +921,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(aiosqlite 0.21.0, annotated-types 0.7.0, anyio 4.11.0, banks 2.2.0, BeautifulSoup4 4.14.2, bracex 2.6, cfgv 3.4.0, dataclasses-json 0.6.7, Deprecated 1.2.18, dirtyjson 1.0.8, filetype 1.2.0, gitignore-parser 0.1.13, greenlet 3.2.4, h11 0.16.0, identify 2.6.15, jiter 0.11.0, jsbeautifier 1.15.4, jsonschema-specifications 2025.9.1, langchain 0.3.27, langchain 0.3.78, langchain 0.4.0, langchain-openai 0.3.35, langchain-text-splitters 0.3.11, langgraph 0.5.2, langgraph 0.5.4, langgraph 2.1.1, langgraph-checkpointer-couchbase 1.0.7, langgraph-sdk 0.1.74, langsmith 0.4.32, llama-cloud 0.1.35, llama-cloud-services 0.6.54, llama-index-core 0.13.6, llama-index-instrumentation 0.4.1, llama-index-llms-openai 0.5.6, llama-index-workflows 1.3.0, llama-parse 0.6.54, LlamaIndex 0.13.6, mypy-extensions 1.1.0, openapi-pydantic 0.5.1, orjson 3.11.3, ormsgpack 1.10.0, platformdirs 4.4.0, pre-commit/pre-commit 3.8.0, pydantic 2.11.10, pydantic-core 2.33.2, pydantic-settings 2.11.0, pypi/setuptools 80.9.0, pytest 8.4.2, pytest-retry 1.7.0, Python six 1.17.0, python-attrs 25.4.0, python-jsonschema 4.25.1, python-marshmallow 3.26.1, python-pluggy 1.6.0, python3-charset-normalizer 3.4.3, PyTZ - Python Time Zone Library 2025.2, PyYAML 6.0.3, referencing 0.36.2, RonnyPfannschmidt/iniconfig 2.1.0, rpds-py 0.27.1, soupsieve 2.8, SQLAlchemy 2.0.43, tabulate 0.9.0, texteditor 1.4.1, tiktoken 0.11.0, tqdm 4.67.1, triton 3.4.0, typing-inspect 0.9.0, typing-inspection 0.4.2, tzlocal 5.3.1, urllib3 2.5.0, virtualenv 20.32.0, wcmatch 10.1, wcwidth 0.2.14, xmltodict 0.14.2)
+(aiohttp 3.13.2, aiosqlite 0.21.0, annotated-types 0.7.0, anyio 4.11.0, banks 2.2.0, BeautifulSoup4 4.14.2, bracex 2.6, dataclasses-json 0.6.7, Deprecated 1.2.18, dirtyjson 1.0.8, filetype 1.2.0, gitignore-parser 0.1.13, greenlet 3.2.4, h11 0.16.0, jiter 0.11.1, jsbeautifier 1.15.4, jsonschema-specifications 2025.9.1, langchain 0.3.27, langchain 0.3.79, langchain 0.4.0, langchain-openai 0.3.35, langchain-text-splitters 0.3.11, langgraph 0.5.2, langgraph 0.5.4, langgraph 2.1.2, langgraph-checkpointer-couchbase 1.0.7, langgraph-sdk 0.1.74, langsmith 0.4.40, llama-cloud 0.1.35, llama-cloud-services 0.6.54, llama-index-core 0.13.6, llama-index-instrumentation 0.4.2, llama-index-llms-openai 0.5.6, llama-index-workflows 1.3.0, llama-parse 0.6.54, LlamaIndex 0.13.6, mypy-extensions 1.1.0, openapi-pydantic 0.5.1, orjson 3.11.4, ormsgpack 1.12.0, platformdirs 4.5.0, pydantic 2.12.3, pydantic-core 2.41.4, pydantic-settings 2.11.0, Python six 1.17.0, python-attrs 25.4.0, python-jsonschema 4.25.1, python-marshmallow 3.26.1, python3-charset-normalizer 3.4.4, PyTZ - Python Time Zone Library 2025.2, PyYAML 6.0.3, referencing 0.37.0, rpds-py 0.28.0, soupsieve 2.8, SQLAlchemy 2.0.44, tabulate 0.9.0, texteditor 1.4.1, tiktoken 0.12.0, tqdm 4.67.1, typing-inspect 0.9.0, typing-inspection 0.4.2, tzlocal 5.3.1, urllib3 2.5.0, wcmatch 10.1, wcwidth 0.2.14, xmltodict 0.14.2)
 
 The MIT License
 ===============
@@ -1867,202 +1386,8 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 ---
 
-NVIDIA Customer Use License
-(nvidia-cusparselt-cu12 0.7.1)
-
-License For Customer Use of NVIDIA Software
-===========================================
-
-IMPORTANT NOTICE -- READ CAREFULLY: This License For Customer Use of NVIDIA
-Software ("LICENSE") is the agreement which governs use of the software of NVIDIA
-Corporation and its subsidiaries ("NVIDIA") downloadable herefrom, including
-computer software and associated printed materials ("SOFTWARE"). By downloading,
-installing, copying, or otherwise using the SOFTWARE, you agree to be bound by
-the terms of this LICENSE. If you do not agree to the terms of this LICENSE, do
-not download the SOFTWARE.
-
-RECITALS
-
-Use of NVIDIA's products requires three elements: the SOFTWARE, the hardware on a
-graphics controller board, and a personal computer. The SOFTWARE is protected by
-copyright laws and international copyright treaties, as well as other
-intellectual property laws and treaties. The SOFTWARE is not sold, and instead is
-only licensed for use, strictly in accordance with this document. The hardware is
-protected by various patents, and is sold, but this LICENSE does not cover that
-sale, since it may not necessarily be sold as a package with the SOFTWARE. This
-LICENSE sets forth the terms and conditions of the SOFTWARE LICENSE only.
-
-1. DEFINITIONS
-
-1.1 Customer.  Customer means the entity or individual that downloads the
-SOFTWARE.
-
-2. GRANT OF LICENSE
-
-2.1 Rights and Limitations of Grant.  NVIDIA hereby grants Customer the following
-non-exclusive, non-transferable right to use the SOFTWARE, with the following
-limitations:
-
-2.1.1 Rights.  Customer may install and use one copy of the SOFTWARE on a single
-computer, and except for making one back-up copy of the Software, may not
-otherwise copy the SOFTWARE. This LICENSE of SOFTWARE may not be shared or used
-concurrently on different computers.
-
-2.1.2 Linux/FreeBSD/OpenSolaris Exception.  Notwithstanding the foregoing terms
-of Section 2.1.1, SOFTWARE designed exclusively for use on the Linux or FreeBSD
-operating systems, or other operating systems derived from the source code to
-these operating systems, may be copied and redistributed, provided that the
-binary files thereof are not modified in any way (except for unzipping of
-compressed files).
-
-2.1.3 Limitations.
-
-No Reverse Engineering.  Customer may not reverse engineer, decompile, or
-disassemble the SOFTWARE, nor attempt in any other manner to obtain the source
-code.
-
-No Separation of Components.  The SOFTWARE is licensed as a single product. Its
-component parts may not be separated for use on more than one computer, nor
-otherwise used separately from the other parts.
-
-No Rental.  Customer may not rent or lease the SOFTWARE to someone else.
-
-3. TERMINATION
-
-This LICENSE will automatically terminate if Customer fails to comply with any of
-the terms and conditions hereof. In such event, Customer must destroy all copies
-of the SOFTWARE and all of its component parts.
-
-Defensive Suspension. If Customer commences or participates in any legal
-proceeding against NVIDIA, then NVIDIA may, in its sole discretion, suspend or
-terminate all license grants and any other rights provided under this LICENSE
-during the pendency of such legal proceedings.
-
-4. COPYRIGHT
-
-All title and copyrights in and to the SOFTWARE (including but not limited to all
-images, photographs, animations, video, audio, music, text, and other information
-incorporated into the SOFTWARE), the accompanying printed materials, and any
-copies of the SOFTWARE, are owned by NVIDIA, or its suppliers. The SOFTWARE is
-protected by copyright laws and international treaty provisions. Accordingly,
-Customer is required to treat the SOFTWARE like any other copyrighted material,
-except as otherwise allowed pursuant to this LICENSE and that it may make one
-copy of the SOFTWARE solely for backup or archive purposes.
-
-5. APPLICABLE LAW
-
-This LICENSE shall be deemed to have been made in, and shall be construed
-pursuant to, the laws of the State of California. The United Nations Convention
-on Contracts for the International Sale of Goods is specifically disclaimed.
-
-6. DISCLAIMER OF WARRANTIES AND LIMITATION ON LIABILITY
-
-6.1 No Warranties.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE
-SOFTWARE IS PROVIDED "AS IS" AND NVIDIA AND ITS SUPPLIERS DISCLAIM ALL
-WARRANTIES, EITHERWHETHER EXPRESS OR, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT
-LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND, FITNESS FOR A PARTICULAR
-PURPOSE. , TITLE, AND NON-INFRINGEMENT. Without limiting the foregoing, you are
-solely responsible for determining and verifying that the SOFTWARE that you
-obtain and install is the appropriate version for your model of graphics
-controller board, operating system, and computer hardware.
-
-6.2 No Liability for Consequential Damages.  TO THE MAXIMUM EXTENT PERMITTED BY
-APPLICABLE LAW, IN NO EVENT SHALL NVIDIA OR ITS SUPPLIERS BE LIABLE FOR ANY
-SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING,
-WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, LOSS OF DATA, BUSINESS
-INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING
-OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF NVIDIA HAS BEEN
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-7. MISCELLANEOUS
-
-If any provision of this LICENSE is inconsistent with, or cannot be fully
-enforced under, the law, such provision will be construed as limited to the
-extent necessary to be consistent with and fully enforceable under the law. This
-LICENSE is the final, complete and exclusive agreement between the parties
-relating to the subject matter hereof, and supersedes all prior or
-contemporaneous understandings and agreements relating to such subject matter,
-whether oral or written. This LICENSE may only be modified in writing signed by
-an authorized officer of NVIDIA.  Customer agrees that it will not ship, transfer
-or export the SOFTWARE into any country, or use the SOFTWARE in any manner,
-prohibited by the United States Bureau of Industry and Security or any export
-laws, restrictions or regulations.
-
----
-
-NVIDIA License
-(nvidia-cufft-cu12 11.3.3.83, nvidia-cufile-cu12 1.13.1.3, nvidia-curand-cu12 10.3.9.90, nvidia-cusolver-cu12 11.7.3.90, nvidia-cusparse-cu12 12.5.8.93)
-
-NVIDIA Corp
-===========
-
-Copyright (c) 1996 NVIDIA, Corp. All rights reserved.
-
-NOTICE TO USER: The source code is copyrighted under U.S. and international laws.
-NVIDIA, Corp. of Sunnyvale, California owns the copyright and as design patents
-pending on the design and interface of the NV chips. Users and possessors of this
-source code are hereby granted a nonexclusive, royalty-free copyright and design
-patent license to use this code in individual and commercial software.
-
-Any use of this source code must include, in the user documentation and internal
-comments to the code, notices to the end user as follows:
-
-Copyright (c) 1996 NVIDIA, Corp. NVIDIA design patents pending in the U.S. and
-foreign countries.
-
-NVIDIA, CORP. MAKES NO REPRESENTATION ABOUT THE SUITABILITY OF THIS SOURCE CODE
-FOR ANY PURPOSE. IT IS PROVIDED "AS IS" WITHOUT EXPRESS OR IMPLIED WARRANTY OF
-ANY KIND. NVIDIA, CORP. DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOURCE CODE,
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
-PURPOSE. IN NO EVENT SHALL NVIDIA, CORP. BE LIABLE FOR ANY SPECIAL, INDIRECT,
-INCIDENTAL, OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOURCE CODE.
-
----
-
-Python Imaging Library Software License
-(PillowPython 11.3.0)
-
-Python Imaging Library Software License
-=======================================
-
-The Python Imaging Library (PIL) is
-
-Copyright © 1997-2011 by Secret Labs AB
-Copyright © 1995-2011 by Fredrik Lundh
-
-Pillow is the friendly PIL fork. It is
-
-Copyright © 2010-2018 by Alex Clark and contributors
-
-Like PIL, Pillow is licensed under the open source PIL Software License:
-
-By obtaining, using, and/or copying this software and/or its associated
-documentation, you agree that you have read, understood, and will comply with the
-following terms and conditions:
-
-Permission to use, copy, modify, and distribute this software and its associated
-documentation for any purpose and without fee is hereby granted, provided that
-the above copyright notice appears in all copies, and that both that copyright
-notice and this permission notice appear in supporting documentation, and that
-the name of Secret Labs AB or the author not be used in advertising or publicity
-pertaining to distribution of the software without specific, written prior
-permission.
-
-SECRET LABS AB AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
-SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
-EVENT SHALL SECRET LABS AB OR THE AUTHOR BE LIABLE FOR ANY SPECIAL, INDIRECT OR
-CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA
-OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
-ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
-SOFTWARE.
-
----
-
 Python Software Foundation License 2.0
-(aiohappyeyeballs 2.6.1, defusedxml v0.7.1, EditorConfig 0.17.1, greenlet 3.2.4, python-distlib 0.4.0, python-typing-extensions 4.15.0, pywin32 311)
+(aiohappyeyeballs 2.6.1, defusedxml v0.7.1, EditorConfig 0.17.1, greenlet 3.2.4, python-typing-extensions 4.15.0)
 
 This license was approved as the official PSF License Version 2 on October 22,
 2004. The only differences between this and version 1 of the PSF license consist
@@ -2116,36 +1441,6 @@ PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 
   8.  By copying, installing or otherwise using Python, Licensee agrees to be
     bound by the terms and conditions of this License Agreement.
-
----
-
-The Unlicense
-(py-filelock 3.19.1)
-
-The Unlicense
-=============
-
-This is free and unencumbered software released into the public domain.
-
-Anyone is free to copy, modify, publish, use, compile, sell, or distribute this
-software, either in source code form or as a compiled binary, for any purpose,
-commercial or non-commercial, and by any means.
-
-In jurisdictions that recognize copyright laws, the author or authors of this
-software dedicate any and all copyright interest in the software to the public
-domain. We make this dedication for the benefit of the public at large and to the
-detriment of our heirs and successors. We intend this dedication to be an overt
-act of relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
-CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to http://unlicense.org/
 
 ---
 
