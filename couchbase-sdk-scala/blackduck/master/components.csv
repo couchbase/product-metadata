@@ -5,8 +5,8 @@
 3,HdrHistogram,2.2.2,Direct Dependency,"(BSD 2-clause ""Simplified"" License OR Creative Commons Zero v1.0 Universal OR Public Domain)",PERMISSIVE,NOT_REVIEWED,cb1dd6e6-4d90-4aff-9a45-2b8f6979e7cc,e4483759-fd42-409c-a7a1-32a09b555475,"d26bcb7d-5bc8-4f05-8942-a3a42728a2e4,cc875133-df38-4806-9921-473e0ef01a87,a7c69599-62b6-4d06-9ec6-ea688c041c00"
 4,JCTTools,v4.0.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ed9663f6-217e-4f90-9aa5-c74a02cc964c,cdcc807d-c440-4739-b3ac-73b38324857e,7cae335f-1193-421e-92f1-8802b4243e93
 5,JSpecify annotations,1.0.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7e7f9b3b-83a6-4496-8182-b45538f9d5a8,49a188b8-b059-404b-9cab-b27b48e65f06,7cae335f-1193-421e-92f1-8802b4243e93
-6,Jackson-Datatype-JSR310,2.11.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,69a1f40e-2423-412c-98e3-869fa0919e37,af344229-8dad-43f3-ad9a-938714863357,7cae335f-1193-421e-92f1-8802b4243e93
-7,Jackson-module-Afterburner,2.19.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eea33624-c4cb-4c71-8ef7-767642d1d611,43db0eeb-0d11-4647-b725-f88805139081,7cae335f-1193-421e-92f1-8802b4243e93
+6,Jackson-Datatype-JSR310,2.20.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,69a1f40e-2423-412c-98e3-869fa0919e37,40a52d3a-8753-4dc0-86bb-3f1c10b802af,7cae335f-1193-421e-92f1-8802b4243e93
+7,Jackson-module-Afterburner,2.20.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eea33624-c4cb-4c71-8ef7-767642d1d611,a708b3dc-b8d7-48af-a03e-a9939b8d40d9,7cae335f-1193-421e-92f1-8802b4243e93
 8,LatencyUtils,2.0.3,Direct Dependency,"(BSD 2-clause ""Simplified"" License OR Creative Commons Zero v1.0 Universal)",PERMISSIVE,NOT_REVIEWED,874c05c9-ed80-4f4b-a936-f00eb05b72e6,e93456bb-8d51-4be1-a5c0-57af8aaa218c,"cc875133-df38-4806-9921-473e0ef01a87,a7c69599-62b6-4d06-9ec6-ea688c041c00"
 9,Netty Project,4.1.128,"Direct Dependency,Transitive Dependency",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,efd56af9-62c0-430b-84e7-f45fedd08060,b57e920a-6b43-4422-9cb7-0c364a973af1,7cae335f-1193-421e-92f1-8802b4243e93
 10,Netty/TomcatNative [OpenSSL - Classes],2.0.74.Final,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,51ad849f-4561-4fd8-a57a-efecd9590147,1ee54112-c070-4d5e-9bc4-64a8914f5af7,7cae335f-1193-421e-92f1-8802b4243e93
@@ -35,35 +35,33 @@
 33,io.grpc:grpc-protobuf-lite,1.69.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,30b551b8-5ad8-4b20-b3b2-cddf3ae2ec17,09fd98ce-2490-47ac-a488-6813a715981a,7cae335f-1193-421e-92f1-8802b4243e93
 34,io.grpc:grpc-stub,1.69.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5c46d8c5-43d4-4e35-8087-7a5bfbea89a6,2c9746d6-632b-48f4-b401-05d4f1ca4b48,7cae335f-1193-421e-92f1-8802b4243e93
 35,io.grpc:grpc-util,1.69.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,47c10de0-ca43-4304-bc62-5781c9274d86,ba042490-460b-4fd8-bab1-5d4df148999f,7cae335f-1193-421e-92f1-8802b4243e93
-36,jackson-annotations,2.11.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,f691604a-d498-42d1-9765-ed3795e4f643,7cae335f-1193-421e-92f1-8802b4243e93
-37,jackson-annotations,2.19.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,7cf3969d-0356-4644-9b62-7d77d1062ebb,7cae335f-1193-421e-92f1-8802b4243e93
-38,jackson-core,2.11.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,783fd736-7a82-46f6-abab-84cc931f9d23,7cae335f-1193-421e-92f1-8802b4243e93
-39,jackson-core,2.19.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,9ebe5eb1-103f-4755-baf0-d4d9f134391b,7cae335f-1193-421e-92f1-8802b4243e93
-40,jackson-databind,2.19.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,a9bbf841-159a-4b62-acc4-c9ebb8996d9f,7cae335f-1193-421e-92f1-8802b4243e93
-41,jackson-modules-java8,2.11.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93477a6b-05b7-4f6f-a576-818aba23378f,30579da7-25b0-434d-9bc1-93d71732ffc7,7cae335f-1193-421e-92f1-8802b4243e93
-42,jawn,0.14.10,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,62d77708-8fd4-4a24-8110-604722065f38,5b6fa159-81d0-4b28-a034-801e118ae368,7cae335f-1193-421e-92f1-8802b4243e93
-43,json iterator,0.9.23,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,53c8535d-e61f-4d58-a19c-b2a0667aa529,e594e8b5-3fac-41f6-8501-e43f95f4e793,ad705c59-6893-4980-bdbf-0837f1823cc4
-44,json4s-ast,3.6.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,39b2d81a-7d07-4a01-afb6-a09a5d17eabc,3c644d59-c84c-4a33-ab07-9781d9402fc6,7cae335f-1193-421e-92f1-8802b4243e93
-45,json4s-core,3.6.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,dc024c96-62b6-4480-a5d7-06f971013215,a84e8970-679c-43b4-823a-008ebe32f239,7cae335f-1193-421e-92f1-8802b4243e93
-46,json4s-jackson,3.6.12,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7b26637f-eb61-44cf-936c-8d520428d5f6,5c8a2831-d8b6-4fa7-a1ac-bea0bcfdd1fc,7cae335f-1193-421e-92f1-8802b4243e93
-47,json4s-native,3.6.12,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,fc5a2c7a-99ab-4127-b05f-55f8161438f9,7414010e-549e-4bf6-ba0a-b497d3f0c797,7cae335f-1193-421e-92f1-8802b4243e93
-48,json4s-scalap,3.6.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8a9904f7-6408-4da4-9ab3-8456e7c100da,79215f2f-c218-41ee-9563-99dd5dd57397,7cae335f-1193-421e-92f1-8802b4243e93
-49,jsoniter-scala-core,2.13.5.2,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d8fdfa6f-b3f6-4946-8bfd-266af9a290fa,97882182-a959-4b44-ab6b-e14056b8ae3d,ad705c59-6893-4980-bdbf-0837f1823cc4
-50,numbers,0.14.10,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,62efa65e-3031-4f52-89cf-73e201329eec,507b5ddc-4569-496a-b9ca-f9fa965b08ae,7cae335f-1193-421e-92f1-8802b4243e93
-51,parser,0.14.10,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,25e5ada4-ffae-4126-959f-3fcc8d909103,bbee33bd-ca38-479a-b11b-0b6915f2f3b1,7cae335f-1193-421e-92f1-8802b4243e93
-52,parser,1.6.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,acaeb18d-b06c-4674-9a9d-790757799d05,e7eaf506-2731-4cb6-8f7e-a83a0bfcc7d1,ad705c59-6893-4980-bdbf-0837f1823cc4
-53,perfmark:perfmark-api,0.27.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3342f85f-be71-4fcc-9b94-b874bf469455,81914d27-5148-4e47-83b8-dc2f633cf6f5,7cae335f-1193-421e-92f1-8802b4243e93
-54,play-functional,2.9.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c1f2d2da-247c-44e0-8ce2-500ef0f30595,a51224c9-575a-4c74-9f70-b50789346d7e,7cae335f-1193-421e-92f1-8802b4243e93
-55,play-json,2.9.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a2f700b3-28f3-46c3-a79f-c835321e296c,64fa2a8a-6dc7-4fbe-9e3e-38e2ca2633f6,7cae335f-1193-421e-92f1-8802b4243e93
-56,protobuf-java,4.29.2,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,e896bf6b-61ee-4ef6-bd8a-c034d78986b7,ada84b22-7fbf-446a-bfd8-03593ffaad03,3d238144-44e6-450e-b523-3defbdaed9dc
-57,reactive-streams,1.0.4,Transitive Dependency,MIT No Attribution,PERMISSIVE,NOT_REVIEWED,f00e23b5-eb1d-4939-93bb-4cbf7dedffb0,07e06202-b19b-4688-aa7c-275395b70a19,3f2f93af-991e-4604-b57c-a2fef0f8781e
-58,reactor-core,3.6.9,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,95cc981c-4f06-407a-8d30-0c4650894332,7cae335f-1193-421e-92f1-8802b4243e93
-59,scala-collection-compat,2.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3abdb783-e862-48be-b919-98c5daf8151a,07bb8ec6-4867-47ac-a142-9d857585e3f1,7cae335f-1193-421e-92f1-8802b4243e93
-60,scala-java8-compat,1.0.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1ab0d217-8efe-466a-954c-89afce8bb755,b964026b-0cf2-4502-8050-8fdb3100c662,7cae335f-1193-421e-92f1-8802b4243e93
-61,snappy,0.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eb1c6940-3f50-4689-bbe8-ffaa17459a52,a9a020c8-35dd-4e4f-a5ac-765d742d533f,7cae335f-1193-421e-92f1-8802b4243e93
-62,ujson_2.12,3.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,37efd4c1-2e5b-47b3-a032-7c0dbd5065ac,5fcde334-fbc5-4a0d-8950-0725359cc44e,ad705c59-6893-4980-bdbf-0837f1823cc4
-63,upack_2.12,3.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1cafbfa9-acfe-4666-a8b9-e85adeb4af68,c81dd445-f788-4b56-9353-d42a6cf2f218,ad705c59-6893-4980-bdbf-0837f1823cc4
-64,upickle,3.3.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,699c9499-318f-4ba4-a29c-c690fab26fcc,8c798b46-fcea-4325-98a6-bb0c9eb182a3,ad705c59-6893-4980-bdbf-0837f1823cc4
-65,upickle-core_2.12,3.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ac2f93ae-d2d4-45f0-8bed-37e1de0591f8,15319eaf-a9ed-433b-8949-86f6c7d7d8a1,ad705c59-6893-4980-bdbf-0837f1823cc4
-66,upickle-implicits_2.12,3.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,37b5474d-c326-4b0e-8664-c24243025a23,eb183aa3-a38d-4ce7-9e66-70bdf199208b,ad705c59-6893-4980-bdbf-0837f1823cc4
-67,util,1.6.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f2c4f0f5-f432-4fb3-8405-6227191e7532,29f88478-e421-4cb3-8bb0-5973a14f795a,ad705c59-6893-4980-bdbf-0837f1823cc4
+36,jackson-annotations,2.20,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,bcce4e56-30d0-40d6-9a72-79d3e5e53f87,7cae335f-1193-421e-92f1-8802b4243e93
+37,jackson-core,2.20.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,87f2d3ee-cccd-4241-ba2d-25074ff70402,7cae335f-1193-421e-92f1-8802b4243e93
+38,jackson-databind,2.20.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,0f3b0a30-927b-406f-adbe-23e99c1ae5ad,7cae335f-1193-421e-92f1-8802b4243e93
+39,jackson-modules-java8,2.20.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93477a6b-05b7-4f6f-a576-818aba23378f,c8e6891a-bc3b-47c5-a4cb-e38d86ca76e8,7cae335f-1193-421e-92f1-8802b4243e93
+40,jawn,0.14.10,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,62d77708-8fd4-4a24-8110-604722065f38,5b6fa159-81d0-4b28-a034-801e118ae368,7cae335f-1193-421e-92f1-8802b4243e93
+41,json iterator,0.9.23,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,53c8535d-e61f-4d58-a19c-b2a0667aa529,e594e8b5-3fac-41f6-8501-e43f95f4e793,ad705c59-6893-4980-bdbf-0837f1823cc4
+42,json4s-ast,3.6.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,39b2d81a-7d07-4a01-afb6-a09a5d17eabc,3c644d59-c84c-4a33-ab07-9781d9402fc6,7cae335f-1193-421e-92f1-8802b4243e93
+43,json4s-core,3.6.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,dc024c96-62b6-4480-a5d7-06f971013215,a84e8970-679c-43b4-823a-008ebe32f239,7cae335f-1193-421e-92f1-8802b4243e93
+44,json4s-jackson,3.6.12,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7b26637f-eb61-44cf-936c-8d520428d5f6,5c8a2831-d8b6-4fa7-a1ac-bea0bcfdd1fc,7cae335f-1193-421e-92f1-8802b4243e93
+45,json4s-native,3.6.12,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,fc5a2c7a-99ab-4127-b05f-55f8161438f9,7414010e-549e-4bf6-ba0a-b497d3f0c797,7cae335f-1193-421e-92f1-8802b4243e93
+46,json4s-scalap,3.6.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8a9904f7-6408-4da4-9ab3-8456e7c100da,79215f2f-c218-41ee-9563-99dd5dd57397,7cae335f-1193-421e-92f1-8802b4243e93
+47,jsoniter-scala-core,2.13.5.2,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d8fdfa6f-b3f6-4946-8bfd-266af9a290fa,97882182-a959-4b44-ab6b-e14056b8ae3d,ad705c59-6893-4980-bdbf-0837f1823cc4
+48,numbers,0.14.10,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,62efa65e-3031-4f52-89cf-73e201329eec,507b5ddc-4569-496a-b9ca-f9fa965b08ae,7cae335f-1193-421e-92f1-8802b4243e93
+49,parser,0.14.10,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,25e5ada4-ffae-4126-959f-3fcc8d909103,bbee33bd-ca38-479a-b11b-0b6915f2f3b1,7cae335f-1193-421e-92f1-8802b4243e93
+50,parser,1.6.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,acaeb18d-b06c-4674-9a9d-790757799d05,e7eaf506-2731-4cb6-8f7e-a83a0bfcc7d1,ad705c59-6893-4980-bdbf-0837f1823cc4
+51,perfmark:perfmark-api,0.27.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3342f85f-be71-4fcc-9b94-b874bf469455,81914d27-5148-4e47-83b8-dc2f633cf6f5,7cae335f-1193-421e-92f1-8802b4243e93
+52,play-functional,2.9.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c1f2d2da-247c-44e0-8ce2-500ef0f30595,a51224c9-575a-4c74-9f70-b50789346d7e,7cae335f-1193-421e-92f1-8802b4243e93
+53,play-json,2.9.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a2f700b3-28f3-46c3-a79f-c835321e296c,64fa2a8a-6dc7-4fbe-9e3e-38e2ca2633f6,7cae335f-1193-421e-92f1-8802b4243e93
+54,protobuf-java,4.29.2,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,e896bf6b-61ee-4ef6-bd8a-c034d78986b7,ada84b22-7fbf-446a-bfd8-03593ffaad03,3d238144-44e6-450e-b523-3defbdaed9dc
+55,reactive-streams,1.0.4,Transitive Dependency,MIT No Attribution,PERMISSIVE,NOT_REVIEWED,f00e23b5-eb1d-4939-93bb-4cbf7dedffb0,07e06202-b19b-4688-aa7c-275395b70a19,3f2f93af-991e-4604-b57c-a2fef0f8781e
+56,reactor-core,3.6.9,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,95cc981c-4f06-407a-8d30-0c4650894332,7cae335f-1193-421e-92f1-8802b4243e93
+57,scala-collection-compat,2.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3abdb783-e862-48be-b919-98c5daf8151a,07bb8ec6-4867-47ac-a142-9d857585e3f1,7cae335f-1193-421e-92f1-8802b4243e93
+58,scala-java8-compat,1.0.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1ab0d217-8efe-466a-954c-89afce8bb755,b964026b-0cf2-4502-8050-8fdb3100c662,7cae335f-1193-421e-92f1-8802b4243e93
+59,snappy,0.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eb1c6940-3f50-4689-bbe8-ffaa17459a52,a9a020c8-35dd-4e4f-a5ac-765d742d533f,7cae335f-1193-421e-92f1-8802b4243e93
+60,ujson_2.12,3.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,37efd4c1-2e5b-47b3-a032-7c0dbd5065ac,5fcde334-fbc5-4a0d-8950-0725359cc44e,ad705c59-6893-4980-bdbf-0837f1823cc4
+61,upack_2.12,3.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1cafbfa9-acfe-4666-a8b9-e85adeb4af68,c81dd445-f788-4b56-9353-d42a6cf2f218,ad705c59-6893-4980-bdbf-0837f1823cc4
+62,upickle,3.3.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,699c9499-318f-4ba4-a29c-c690fab26fcc,8c798b46-fcea-4325-98a6-bb0c9eb182a3,ad705c59-6893-4980-bdbf-0837f1823cc4
+63,upickle-core_2.12,3.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ac2f93ae-d2d4-45f0-8bed-37e1de0591f8,15319eaf-a9ed-433b-8949-86f6c7d7d8a1,ad705c59-6893-4980-bdbf-0837f1823cc4
+64,upickle-implicits_2.12,3.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,37b5474d-c326-4b0e-8664-c24243025a23,eb183aa3-a38d-4ce7-9e66-70bdf199208b,ad705c59-6893-4980-bdbf-0837f1823cc4
+65,util,1.6.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f2c4f0f5-f432-4fb3-8405-6227191e7532,29f88478-e421-4cb3-8bb0-5973a14f795a,ad705c59-6893-4980-bdbf-0837f1823cc4
