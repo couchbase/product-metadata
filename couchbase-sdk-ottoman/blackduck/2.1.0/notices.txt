@@ -246,10 +246,10 @@ ansi-regex 2.1.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 3.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 2.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 2.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 anymatch 2.0.0: https://github.com/es128/anymatch : ISC License
 anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
 aproba 1.2.0: https://github.com/iarna/aproba : ISC License
@@ -548,6 +548,7 @@ expect 27.1.0: https://github.com/mjackson/expect : MIT License
 expressjs/accepts 1.3.7: https://github.com/expressjs/accepts : MIT License
 expressjs/compressible 2.0.18: https://github.com/expressjs/compressible : MIT License
 expressjs/express 4.17.1: https://expressjs.com : MIT License
+expressjs/mime-types 2.1.32: https://github.com/expressjs/mime-types : MIT License
 extend 3.0.2: https://github.com/justmoon/node-extend : MIT License
 extend-shallow 2.0.1: https://github.com/jonschlinkert/extend-shallow : MIT License
 extend-shallow 3.0.2: https://github.com/jonschlinkert/extend-shallow : MIT License
@@ -805,7 +806,6 @@ jshttp statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 JSHTTP's negotiator 0.6.2: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.4: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
-jshttp/mime-types 2.1.32: https://github.com/jshttp/mime-types : MIT License
 jsjest 27.1.0: https://jestjs.io : MIT License
 JSON 3 3.3.3: http://bestiejs.github.io/json3 : MIT License
 json-buffer 3.0.0: https://github.com/dominictarr/json-buffer : MIT License
@@ -15436,7 +15436,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@types/istanbul-lib-report 3.0.0, @types/parse-json 4.0.0, jshttp/mime-types 2.1.32)
+(@types/istanbul-lib-report 3.0.0, @types/parse-json 4.0.0, expressjs/mime-types 2.1.32)
 
 MIT License
 
