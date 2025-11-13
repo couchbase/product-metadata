@@ -863,7 +863,6 @@ Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.79: http://w
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 1.1.12: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 2.0.2: https://github.com/juliangruber/brace-expansion : MIT License
-braces 3.0.2: https://github.com/micromatch/braces : MIT License
 braces 3.0.3: https://github.com/micromatch/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 browser-process-hrtime 1.0.0: https://github.com/kumavis/browser-process-hrtime#readme : BSD 2-clause "Simplified" License
@@ -2663,6 +2662,7 @@ methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch 4.0.8: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsoft Azure client library for File Storage Data Lake 12.24.1 : MIT License
 Microsoft Azure client library for Identity 1.17.0 : MIT License
 Microsoft Azure common module for Storage 12.30.1 : MIT License
@@ -21719,7 +21719,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
