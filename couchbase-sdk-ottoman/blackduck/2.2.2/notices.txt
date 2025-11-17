@@ -385,6 +385,7 @@ callsites 3.1.0: https://github.com/sindresorhus/callsites : MIT License
 camelcase 3.0.0: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 5.3.1: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 6.2.0: https://github.com/sindresorhus/camelcase : MIT License
+caniuse-api 3.0.0: https://github.com/nyalab/caniuse-api : MIT License
 caniuse-lite 1.0.30001252: https://github.com/ben-eb/caniuse-lite : Creative Commons Attribution 4.0
 caniuse-lite 1.0.30001431: https://github.com/ben-eb/caniuse-lite : Creative Commons Attribution 4.0
 caseless 0.12.0: https://github.com/mikeal/caseless : Apache License 2.0
@@ -589,7 +590,6 @@ expect 27.5.1: https://github.com/mjackson/expect : MIT License
 expressjs/accepts 1.3.7: https://github.com/expressjs/accepts : MIT License
 expressjs/compressible 2.0.18: https://github.com/expressjs/compressible : MIT License
 expressjs/express 4.17.1: https://expressjs.com : MIT License
-expressjs/mime-types 2.1.32: https://github.com/expressjs/mime-types : MIT License
 extend 3.0.2: https://github.com/justmoon/node-extend : MIT License
 extend-shallow 2.0.1: https://github.com/jonschlinkert/extend-shallow : MIT License
 extend-shallow 3.0.2: https://github.com/jonschlinkert/extend-shallow : MIT License
@@ -838,6 +838,7 @@ jshttp statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 JSHTTP's negotiator 0.6.2: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.4: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
+jshttp/mime-types 2.1.32: https://github.com/expressjs/mime-types : MIT License
 jsjest 27.5.1: https://jestjs.io : MIT License
 JSON 3 3.3.3: http://bestiejs.github.io/json3 : MIT License
 json-buffer 3.0.0: https://github.com/dominictarr/json-buffer : MIT License
@@ -1038,7 +1039,6 @@ nth-check 1.0.2: https://github.com/fb55/nth-check : BSD 2-clause "Simplified" L
 nth-check 2.0.0: https://github.com/fb55/nth-check : BSD 2-clause "Simplified" License
 num2fraction 1.2.2: https://github.com/yisibl/num2fraction : MIT License
 nwsapi 2.2.0: http://javascript.nwbox.com/nwsapi/ : MIT License
-Nyalab/caniuse-api 3.0.0: https://github.com/Nyalab/caniuse-api : MIT License
 object-assign 4.1.1: https://github.com/sindresorhus/object-assign : MIT License
 object-inspect 1.11.0: https://github.com/substack/object-inspect : MIT License
 object-is 1.1.5: https://github.com/ljharb/object-is : MIT License
@@ -1203,7 +1203,7 @@ remove-trailing-separator 1.1.0: https://github.com/darsain/remove-trailing-sepa
 renderkid 2.0.7: https://github.com/AriaMinaei/renderkid : MIT License
 repeat-element 1.1.4: https://github.com/jonschlinkert/repeat-element : MIT License
 repeat-string 1.6.1: https://github.com/jonschlinkert/repeat-string : MIT License
-Request -  Simple HTTP Client 2.88.2: https://github.com/mikeal/request : Apache License 2.0
+Request -  Simple HTTP Client 2.88.2: https://github.com/request/request : Apache License 2.0
 request/tunnel-agent 0.6.0: https://github.com/request/tunnel-agent : Apache License 2.0
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 require-main-filename 2.0.0: https://github.com/yargs/require-main-filename#readme : ISC License
@@ -14708,7 +14708,7 @@ IN THE SOFTWARE
 ---
 
 MIT License
-(@types/istanbul-lib-report 3.0.0, @types/mdurl 1.0.2, @types/parse-json 4.0.0, expressjs/mime-types 2.1.32)
+(@types/istanbul-lib-report 3.0.0, @types/mdurl 1.0.2, @types/parse-json 4.0.0, jshttp/mime-types 2.1.32)
 
 MIT License
 
@@ -16241,7 +16241,7 @@ SOFTWARE
 ---
 
 MIT License
-(Nyalab/caniuse-api 3.0.0)
+(caniuse-api 3.0.0)
 
 The MIT License (MIT)
 
