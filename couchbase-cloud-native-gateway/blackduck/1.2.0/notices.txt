@@ -98,7 +98,6 @@ github.com/sagikazarmark/locafero v0.7.0: https://github.com/sagikazarmark/locaf
 github.com/sagikazarmark/slog-shim 0.1.0: https://github.com/sagikazarmark/slog-shim : BSD 3-clause "New" or "Revised" License
 github.com/speakeasy-api/openapi-overlay v0.9.0 : MIT License
 github.com/twitchyliquid64/golang-asm v0.15.1 : BSD 3-clause "New" or "Revised" License
-Go Logrus v1.8.1: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.25.3: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go Testify v1.10.0: https://github.com/stretchr/testify : MIT License
 go-check-check 20201130-snapshot-10cb9826: http://labix.org/gocheck : BSD 2-clause "Simplified" License
@@ -375,6 +374,7 @@ schollz/closestmatch v2.1.0: https://github.com/schollz/closestmatch : MIT Licen
 sergi/go-diff v1.1.0: https://github.com/sergi/go-diff : (MIT License AND Apache License 2.0)
 sftp v1.13.7: https://github.com/pkg/sftp : BSD 2-clause "Simplified" License
 Shopify/goreferrer 20220729-snapshot-8cddb4f5 : MIT License
+Sirupsen/logrus v1.8.1: https://github.com/Sirupsen/logrus : MIT License
 sourcegraph/conc v0.3.0: https://github.com/sourcegraph/conc : MIT License
 spf13-afero v1.12.0: https://github.com/spf13/afero : Apache License 2.0
 spf13-cast v1.7.1: https://github.com/spf13/cast : MIT License
@@ -1521,7 +1521,7 @@ SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.8.1)
+(Sirupsen/logrus v1.8.1)
 
 The MIT License (MIT)
 
