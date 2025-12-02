@@ -27,15 +27,14 @@ Microsoft.Extensions.Options 6.0.0: http://www.nuget.org/packages/Microsoft.Exte
 OpenTelemetry 1.2.0 : Apache License 2.0
 OpenTelemetry.Api 1.2.0: https://opentelemetry.io/ : Apache License 2.0
 Snappier 1.2.0 : BSD 2-clause "Simplified" License
-System.Diagnostics.DiagnosticSource 6.0.1: https://www.nuget.org/packages/System.Diagnostics.DiagnosticSource : MIT License
 System.IO.Hashing 8.0.0: https://dot.net/ : MIT License
 System.IO.Pipelines 5.0.1: https://github.com/dotnet/corefxlab : MIT License
 System.Linq.Async 6.0.1: https://github.com/dotnet/reactive : MIT License
-System.Memory 4.6.0: https://dotnet.microsoft.com/en-us/ : MIT License
+System.Linq.AsyncEnumerable 10.0.0: https://dot.net/ : MIT License
+System.Memory 4.6.3: https://dotnet.microsoft.com/en-us/ : MIT License
 System.Reflection.Emit 4.7.0 : MIT License
-System.Runtime.CompilerServices.Unsafe 6.1.0: https://www.nuget.org/packages/System.Runtime.CompilerServices.Unsafe : MIT License
 System.Text.Json 8.0.5: https://www.nuget.org/packages/System.Text.Json : MIT License
-System.Threading.Channels 5.0.0: https://dot.net/ : MIT License
+System.Threading.Channels 9.0.9: https://dot.net/ : MIT License
 System.Threading.Tasks.Dataflow 6.0.0 : MIT License
 
 Licenses: 
@@ -291,7 +290,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 MIT License
-(Microsoft.Bcl.HashCode 1.1.1, Microsoft.Extensions.Logging.Abstractions 6.0.1, Microsoft.Extensions.Options 6.0.0, System.IO.Pipelines 5.0.1, System.Threading.Channels 5.0.0, System.Threading.Tasks.Dataflow 6.0.0)
+(Microsoft.Bcl.HashCode 1.1.1, Microsoft.Extensions.Logging.Abstractions 6.0.1, Microsoft.Extensions.Options 6.0.0, System.IO.Pipelines 5.0.1, System.Threading.Tasks.Dataflow 6.0.0)
 
 The MIT License (MIT)
 
@@ -324,7 +323,7 @@ SOFTWARE
 ---
 
 MIT License
-(Json.NET 13.0.3, Microsoft.Bcl.TimeProvider 8.0.1, Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0, System.Diagnostics.DiagnosticSource 6.0.1, System.IO.Hashing 8.0.0, System.Linq.Async 6.0.1, System.Memory 4.6.0, System.Reflection.Emit 4.7.0, System.Runtime.CompilerServices.Unsafe 6.1.0, System.Text.Json 8.0.5)
+(Json.NET 13.0.3, Microsoft.Bcl.TimeProvider 8.0.1, Microsoft.Extensions.DependencyInjection.Abstractions 8.0.0, System.IO.Hashing 8.0.0, System.Linq.Async 6.0.1, System.Linq.AsyncEnumerable 10.0.0, System.Memory 4.6.3, System.Reflection.Emit 4.7.0, System.Text.Json 8.0.5, System.Threading.Channels 9.0.9)
 
 The MIT License
 ===============
