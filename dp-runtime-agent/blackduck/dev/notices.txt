@@ -100,7 +100,7 @@ edsrzf/mmap-go v1.2.0: https://github.com/edsrzf/mmap-go : BSD 3-clause "New" or
 envoyproxy/go-control-plane envoy/v1.32.4: https://github.com/envoyproxy/go-control-plane : Apache License 2.0
 envoyproxy/protoc-gen-validate 1.2.1: https://github.com/envoyproxy/protoc-gen-validate : Apache License 2.0
 errwrap v1.1.0: https://github.com/hashicorp/errwrap : Mozilla Public License 2.0
-exp 20250910-snapshot-df929982: http://code.google.com/p/go.exp : BSD 3-clause "New" or "Revised" License
+exp 20251108-snapshot-87e1e737: http://code.google.com/p/go.exp : BSD 3-clause "New" or "Revised" License
 facette/natsort 20181210-snapshot-2cd4dd1e: https://github.com/facette/natsort : BSD 3-clause "New" or "Revised" License
 felixge/httpsnoop v1.0.4: https://github.com/felixge/httpsnoop : MIT License
 gabriel-vasile/mimetype v1.4.10: https://github.com/gabriel-vasile/mimetype : MIT License
@@ -154,14 +154,15 @@ golang-github-spf13-pflag-dev v1.0.10: https://github.com/spf13/pflag : BSD 3-cl
 golang-jwt/jwt v5.3.0: https://github.com/golang-jwt/jwt : MIT License
 golang-mock v1.7.0-rc.1: https://github.com/golang/mock : Apache License 2.0
 golang-snappy-go-dev v1.0.0: https://github.com/golang/snappy : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto v0.42.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
-golang.org/x/mod v0.28.0 : BSD 3-clause "New" or "Revised" License
-golang.org/x/net v0.44.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
-golang.org/x/oauth2 v0.31.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.36.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
-golang.org/x/time v0.13.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto v0.45.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.30.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/net v0.47.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
+golang.org/x/oauth2 v0.33.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.38.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang.org/x/time v0.14.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20240902-snapshot-7835f813 : BSD 3-clause "New" or "Revised" License
-golang/sync v0.17.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang/sync v0.18.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang/text v0.31.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
 google-cloud-go auth/oauth2adapt/v0.2.8: https://github.com/GoogleCloudPlatform/google-cloud-go : Apache License 2.0
 google-cloud-go auth/v0.16.5: https://github.com/GoogleCloudPlatform/google-cloud-go : Apache License 2.0
 google-cloud-go cloudquotas/v1.4.0: https://github.com/GoogleCloudPlatform/google-cloud-go : Apache License 2.0
@@ -635,7 +636,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(DataDog/dd-trace-go 2.2.3, DataDog/dd-trace-go v1.74.6, DataDog/go-tuf v1.1.1-0.5.2, edsrzf/mmap-go v1.2.0, exp 20250910-snapshot-df929982, facette/natsort 20181210-snapshot-2cd4dd1e, github.com/lufia/plan9stats 20250827-snapshot-24949be3, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Golang Protobuf v1.36.9, Golang Protobuf v1.5.4, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.42.0, golang.org/x/mod v0.28.0, golang.org/x/net v0.44.0, golang.org/x/oauth2 v0.31.0, golang.org/x/sys v0.36.0, golang.org/x/time v0.13.0, golang.org/x/xerrors 20240902-snapshot-7835f813, golang/sync v0.17.0, google/go-cmp v0.7.0, googleapis/gax-go v2.15.0, googleapis/google-api-go-client v0.249.0, Googleuuid v1.6.0, gopsutil v4.25.8, gorilla/mux v1.8.1, klauspost-compress v1.18.0, mergo v1.0.2, tklauser/go-sysconf v0.3.15)
+(DataDog/dd-trace-go 2.2.3, DataDog/dd-trace-go v1.74.6, DataDog/go-tuf v1.1.1-0.5.2, edsrzf/mmap-go v1.2.0, exp 20251108-snapshot-87e1e737, facette/natsort 20181210-snapshot-2cd4dd1e, github.com/lufia/plan9stats 20250827-snapshot-24949be3, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Golang Protobuf v1.36.9, Golang Protobuf v1.5.4, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.45.0, golang.org/x/mod v0.30.0, golang.org/x/net v0.47.0, golang.org/x/oauth2 v0.33.0, golang.org/x/sys v0.38.0, golang.org/x/time v0.14.0, golang.org/x/xerrors 20240902-snapshot-7835f813, golang/sync v0.18.0, golang/text v0.31.0, google/go-cmp v0.7.0, googleapis/gax-go v2.15.0, googleapis/google-api-go-client v0.249.0, Googleuuid v1.6.0, gopsutil v4.25.8, gorilla/mux v1.8.1, klauspost-compress v1.18.0, mergo v1.0.2, tklauser/go-sysconf v0.3.15)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
