@@ -40,8 +40,8 @@
 38,aws/aws-sdk-go-v2,credentials/v1.18.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,ee0576fe-5e39-4187-abee-462f9b55209c,7cae335f-1193-421e-92f1-8802b4243e93
 39,aws/aws-sdk-go-v2,feature/ec2/imds/v1.18.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,1542516a-38b1-430a-b608-048262fe0dfd,7cae335f-1193-421e-92f1-8802b4243e93
 40,aws/aws-sdk-go-v2,feature/s3/manager/v1.18.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,e11cc126-98e9-40ab-b672-f9dc21b2c631,7cae335f-1193-421e-92f1-8802b4243e93
-41,aws/aws-sdk-go-v2,internal/configsources/v1.4.9,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,be1e2592-3870-4804-977f-68acde730696,7cae335f-1193-421e-92f1-8802b4243e93
-42,aws/aws-sdk-go-v2,internal/endpoints/v2.7.9,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,595f1016-fdd5-44b2-93a1-6e63c3bd4d87,7cae335f-1193-421e-92f1-8802b4243e93
+41,aws/aws-sdk-go-v2,internal/configsources/v1.4.14,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,ea8706f4-8fd4-4076-9611-ce05bba01216,7cae335f-1193-421e-92f1-8802b4243e93
+42,aws/aws-sdk-go-v2,internal/endpoints/v2.7.14,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,65b910e4-780e-4811-974d-80a810885bbc,7cae335f-1193-421e-92f1-8802b4243e93
 43,aws/aws-sdk-go-v2,internal/ini/v1.8.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,68942956-a427-4129-92fa-9045aaea95aa,7cae335f-1193-421e-92f1-8802b4243e93
 44,aws/aws-sdk-go-v2,internal/v4a/v1.4.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,e4855122-2c28-47e2-808c-0cf14fee9603,7cae335f-1193-421e-92f1-8802b4243e93
 45,aws/aws-sdk-go-v2,service/account/v1.26.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,69a0dec3-0792-4978-9c47-38cc2ddeecac,7cae335f-1193-421e-92f1-8802b4243e93
@@ -62,7 +62,7 @@
 60,aws/aws-sdk-go-v2,service/sso/v1.27.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,2a71e09f-1e8e-42be-a847-b3a465ed109e,7cae335f-1193-421e-92f1-8802b4243e93
 61,aws/aws-sdk-go-v2,service/ssooidc/v1.32.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,fc1808b9-c32c-4613-8cce-aaad4e079740,7cae335f-1193-421e-92f1-8802b4243e93
 62,aws/aws-sdk-go-v2,service/sts/v1.36.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,08ba44e2-4198-4125-b978-c3ede2f6cb97,7cae335f-1193-421e-92f1-8802b4243e93
-63,aws/aws-sdk-go-v2,v1.39.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,d04e3241-f0d0-45e2-8ad8-234c7edc8703,7cae335f-1193-421e-92f1-8802b4243e93
+63,aws/aws-sdk-go-v2,v1.40.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a3b4b398-8875-452a-b3cd-308d80a1c075,a0d65db4-d3b9-4510-8f34-6f5de86c5257,7cae335f-1193-421e-92f1-8802b4243e93
 64,beorn7-perks,v1.0.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a160fd2a-ab2a-4d35-8243-5bed42557272,9a891f96-ef74-4ef0-ae30-a33f42945b10,ad705c59-6893-4980-bdbf-0837f1823cc4
 65,biter777/countries,v1.7.5,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,3420baa6-eba7-4cab-8401-cd93e6ac47aa,1edb89fe-d2e2-4040-8636-d75a8c40e611,cc875133-df38-4806-9921-473e0ef01a87
 66,blang-semver,3.5.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d0a2ae82-983d-44b9-ba59-699b2232dc2f,0e8d5e6d-4cd7-4f9a-bf87-2cc288d64265,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -107,7 +107,7 @@
 105,getkin/kin-openapi,v0.133.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a3bdc6f7-4ef3-4694-8186-dfee3c54518b,d93d15f3-8a64-43ae-bfea-5fc6275fdc68,ad705c59-6893-4980-bdbf-0837f1823cc4
 106,github.com/DataDog/go-sqllexer,v0.1.8,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,de24f06f-b1e9-45c3-8c9d-a876002741ae,9b8f0199-0cc3-4d0d-b2de-a88bf2ec6d35,ad705c59-6893-4980-bdbf-0837f1823cc4
 107,github.com/apapsch/go-jsonmerge,v2.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,b83af616-d91b-451b-bb31-98bd5d18cae4,bfb01568-c626-44c1-800d-04518216fd67,ad705c59-6893-4980-bdbf-0837f1823cc4
-108,github.com/aws/smithy-go,v1.23.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,630838fb-c9bc-4165-8d81-49635d2e7374,57360ea6-2f81-4786-b882-4c4fa561ec8b,7cae335f-1193-421e-92f1-8802b4243e93
+108,github.com/aws/smithy-go,v1.23.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,630838fb-c9bc-4165-8d81-49635d2e7374,1916c75c-12e7-47e9-b82b-4dce822960c1,7cae335f-1193-421e-92f1-8802b4243e93
 109,github.com/bboreham/go-loser,20230904-snapshot-fcc2c218,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,fda17ad6-e015-43f1-b580-35aba8aaf98f,1e034aa9-bc1f-42bd-983d-5460d3c9a2b3,7cae335f-1193-421e-92f1-8802b4243e93
 110,github.com/cncf/xds,20250501-snapshot-2ac532fd,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6f614a26-e346-4ba0-9ff4-ca0adcc5396e,3a9b03bd-3546-42fb-abc5-bba9765aa3f7,7cae335f-1193-421e-92f1-8802b4243e93
 111,github.com/couchbase/gocbcoreps,v0.1.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,854d2653-8297-42ea-b64e-b16156e8c4ce,99ccd83c-9cad-47f7-b0ab-c31d76fdba09,7cae335f-1193-421e-92f1-8802b4243e93
