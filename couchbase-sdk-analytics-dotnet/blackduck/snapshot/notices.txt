@@ -11,32 +11,32 @@ Components:
 
 Contrib.Grpc.Core.M1 2.46.7: https://github.com/einari/Grpc.Core.M1 : MIT License
 DnsClient 1.8.0 : Apache License 2.0
-Google.Protobuf/C# 3.31.1: https://github.com/protocolbuffers/protobuf : BSD 3-clause "New" or "Revised" License
+Google.Protobuf/C# 3.33.1: https://github.com/protocolbuffers/protobuf : BSD 3-clause "New" or "Revised" License
 grpc 2.46.6: https://github.com/grpc/grpc : Apache License 2.0
 Grpc.AspNetCore 2.71.0: https://github.com/grpc/grpc-dotnet : Apache License 2.0
 Grpc.Net.Client 2.71.0: https://github.com/grpc/grpc-dotnet : Apache License 2.0
-Grpc.Tools 2.72.0 : Apache License 2.0
-Microsoft.Extensions.Configuration 9.0.5: http://www.nuget.org/packages/Microsoft.Extensions.Configuration : MIT License
-Microsoft.Extensions.Configuration.Binder 9.0.5: http://www.nuget.org/packages/Microsoft.Extensions.Configuration.Binder : MIT License
-Microsoft.Extensions.Configuration.Json 9.0.5 : MIT License
-Microsoft.Extensions.Logging 9.0.5: http://www.nuget.org/packages/Microsoft.Extensions.Logging : MIT License
-Microsoft.Extensions.Logging.Abstractions 9.0.5: http://www.nuget.org/packages/Microsoft.Extensions.Logging.Abstractions : MIT License
-Microsoft.NET.Test.Sdk 17.14.0: http://www.nuget.org/packages/Microsoft.NET.Test.Sdk : MIT License
+Grpc.Tools 2.76.0 : Apache License 2.0
+Microsoft.Extensions.Configuration 10.0.0: http://www.nuget.org/packages/Microsoft.Extensions.Configuration : MIT License
+Microsoft.Extensions.Configuration.Binder 10.0.0: http://www.nuget.org/packages/Microsoft.Extensions.Configuration.Binder : MIT License
+Microsoft.Extensions.Configuration.Json 10.0.0 : MIT License
+Microsoft.Extensions.Logging 10.0.0: http://www.nuget.org/packages/Microsoft.Extensions.Logging : MIT License
+Microsoft.Extensions.Logging.Abstractions 10.0.0: http://www.nuget.org/packages/Microsoft.Extensions.Logging.Abstractions : MIT License
+Microsoft.NET.Test.Sdk 18.0.1: http://www.nuget.org/packages/Microsoft.NET.Test.Sdk : MIT License
 moq/moq4 4.20.72: https://github.com/moq/moq4 : BSD 3-clause "New" or "Revised" License
-Serilog.Extensions.Logging 8.0.0: https://github.com/serilog/serilog-framework-logging : Apache License 2.0
-Serilog.Sinks.Console 5.0.1 : Apache License 2.0
-Serilog.Sinks.File 5.0.0: https://www.nuget.org/packages/Serilog.Sinks.File : Apache License 2.0
-serilog/serilog 3.1.1: https://github.com/serilog/serilog : Apache License 2.0
-System.Linq.Async 6.0.1: https://github.com/dotnet/reactive : MIT License
-System.Net.Http.Json 9.0.6: https://github.com/dotnet/corefx : MIT License
+Serilog.Extensions.Logging 10.0.0: https://github.com/serilog/serilog-framework-logging : Apache License 2.0
+Serilog.Sinks.Console 6.1.1 : Apache License 2.0
+Serilog.Sinks.File 7.0.0: https://www.nuget.org/packages/Serilog.Sinks.File : Apache License 2.0
+serilog/serilog 4.3.0: https://github.com/serilog/serilog : Apache License 2.0
+System.Linq.AsyncEnumerable 10.0.0: https://dot.net/ : MIT License
+System.Net.Http.Json 10.0.0: https://github.com/dotnet/corefx : MIT License
 xUnit.net 2.9.3: https://github.com/xunit/xunit : Apache License 2.0
 xUnit.net [Abstractions] 2.0.3: http://xunit.codeplex.com : Apache License 2.0
-xUnit.net [Visual Studio/TFS Build Runner] 2.8.2: http://www.nuget.org/packages/xunit.runner.visualstudio : Apache License 2.0
+xUnit.net [Visual Studio/TFS Build Runner] 3.1.5: http://www.nuget.org/packages/xunit.runner.visualstudio : Apache License 2.0
 
 Licenses: 
 
 Apache License 2.0
-(DnsClient 1.8.0, grpc 2.46.6, Grpc.AspNetCore 2.71.0, Grpc.Net.Client 2.71.0, Grpc.Tools 2.72.0, Serilog.Extensions.Logging 8.0.0, Serilog.Sinks.Console 5.0.1, Serilog.Sinks.File 5.0.0, serilog/serilog 3.1.1, xUnit.net 2.9.3, xUnit.net [Abstractions] 2.0.3, xUnit.net [Visual Studio/TFS Build Runner] 2.8.2)
+(DnsClient 1.8.0, grpc 2.46.6, Grpc.AspNetCore 2.71.0, Grpc.Net.Client 2.71.0, Grpc.Tools 2.76.0, Serilog.Extensions.Logging 10.0.0, Serilog.Sinks.Console 6.1.1, Serilog.Sinks.File 7.0.0, serilog/serilog 4.3.0, xUnit.net 2.9.3, xUnit.net [Abstractions] 2.0.3, xUnit.net [Visual Studio/TFS Build Runner] 3.1.5)
 
 Apache License
 Version 2.0, January 2004
@@ -223,7 +223,7 @@ third-party archives.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(Google.Protobuf/C# 3.31.1, moq/moq4 4.20.72)
+(Google.Protobuf/C# 3.33.1, moq/moq4 4.20.72)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -257,7 +257,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 MIT License
-(Contrib.Grpc.Core.M1 2.46.7, Microsoft.Extensions.Configuration 9.0.5, Microsoft.Extensions.Configuration.Binder 9.0.5, Microsoft.Extensions.Configuration.Json 9.0.5, Microsoft.Extensions.Logging 9.0.5, Microsoft.Extensions.Logging.Abstractions 9.0.5, Microsoft.NET.Test.Sdk 17.14.0, System.Linq.Async 6.0.1, System.Net.Http.Json 9.0.6)
+(Contrib.Grpc.Core.M1 2.46.7, Microsoft.Extensions.Configuration 10.0.0, Microsoft.Extensions.Configuration.Binder 10.0.0, Microsoft.Extensions.Configuration.Json 10.0.0, Microsoft.Extensions.Logging 10.0.0, Microsoft.Extensions.Logging.Abstractions 10.0.0, Microsoft.NET.Test.Sdk 18.0.1, System.Linq.AsyncEnumerable 10.0.0, System.Net.Http.Json 10.0.0)
 
 The MIT License
 ===============

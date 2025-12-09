@@ -1,24 +1,24 @@
 ,Component name,Component version name,Match type,License names,License families,Review Status,Component id,Version id,License ids
 0,Contrib.Grpc.Core.M1,2.46.7,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1da49a55-bd08-4fce-8e20-efeb94fc3f5c,631b8136-efd6-4562-a6a7-7d92c2fbbdc5,ad705c59-6893-4980-bdbf-0837f1823cc4
 1,DnsClient,1.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3976e60c-9a76-4632-bf6b-71f45b9acdcc,5c1ffbfa-ee5c-4ec6-9d0c-f39ebde1703d,7cae335f-1193-421e-92f1-8802b4243e93
-2,Google.Protobuf/C#,3.31.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8651a885-94ee-452f-93d7-9f25aea647d3,a13a6468-c2ad-4ac2-a458-f887952a8032,3d238144-44e6-450e-b523-3defbdaed9dc
+2,Google.Protobuf/C#,3.33.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8651a885-94ee-452f-93d7-9f25aea647d3,a20e89be-bc6f-462f-b43b-13e0bee28cce,3d238144-44e6-450e-b523-3defbdaed9dc
 3,Grpc.AspNetCore,2.71.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d3d36f66-08ba-4016-b0fd-38f26861d6c0,1ac63f9d-fd58-43c7-836f-f8044b40e958,7cae335f-1193-421e-92f1-8802b4243e93
 4,Grpc.Net.Client,2.71.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9b7764b8-8d81-47d6-9c05-39ed87ea123e,acb4a295-b6cb-4bf9-9f82-0f0d25e28322,7cae335f-1193-421e-92f1-8802b4243e93
-5,Grpc.Tools,2.72.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7d5a44d7-00cb-40cb-978b-17809fd1ba2f,ab7ad282-45d5-47e5-90fc-2a048a5779ee,7cae335f-1193-421e-92f1-8802b4243e93
-6,Microsoft.Extensions.Configuration,9.0.5,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d663372b-2dad-49d4-917e-053efa986cd2,18e6afbb-bda1-4a0d-b795-4076ec794f3d,ad705c59-6893-4980-bdbf-0837f1823cc4
-7,Microsoft.Extensions.Configuration.Binder,9.0.5,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,155ced88-f56d-4c1f-8fcd-3440f05a672a,ee709fa8-250f-4579-9145-17887ddd0b69,ad705c59-6893-4980-bdbf-0837f1823cc4
-8,Microsoft.Extensions.Configuration.Json,9.0.5,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,c825793c-51cb-4278-b070-518c4c3504d7,d9e63682-05a2-438c-a95c-16124bddc6f9,ad705c59-6893-4980-bdbf-0837f1823cc4
-9,Microsoft.Extensions.Logging,9.0.5,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,61c0fb4f-0b7a-42e5-b104-3bfd6ca013e6,a16604da-1bf1-4ed6-bdc0-bd0d78a4a0cb,ad705c59-6893-4980-bdbf-0837f1823cc4
-10,Microsoft.Extensions.Logging.Abstractions,9.0.5,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,24d628b8-19ba-4103-b297-c690a556c3fb,c385d60e-bc4a-495c-ba22-a6ab6269427e,ad705c59-6893-4980-bdbf-0837f1823cc4
-11,Microsoft.NET.Test.Sdk,17.14.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,aebd7f55-8d98-49b5-9098-c6f1b96483ac,6197e2fb-469d-4863-9e0a-3f3818417e1d,ad705c59-6893-4980-bdbf-0837f1823cc4
-12,Serilog.Extensions.Logging,8.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9b63dfda-c1ad-48d3-beb9-98997e8ff6cf,e469050c-d199-4af6-b85c-abe830840aba,7cae335f-1193-421e-92f1-8802b4243e93
-13,Serilog.Sinks.Console,5.0.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,83d9f3fb-7808-41a1-af50-0f33c7e1a242,16caa627-13f4-406b-a3fe-8ecc2dd60cc1,7cae335f-1193-421e-92f1-8802b4243e93
-14,Serilog.Sinks.File,5.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9586603f-e066-4c8f-a03e-3b307c7b831f,8c05e84e-a6b2-4b93-b296-76fc241a628f,7cae335f-1193-421e-92f1-8802b4243e93
-15,System.Linq.Async,6.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6169a142-be09-42ff-95be-5f1e915ea0e5,a9a4cc51-4430-45da-8886-fa398187ef93,ad705c59-6893-4980-bdbf-0837f1823cc4
-16,System.Net.Http.Json,9.0.6,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,53f445fa-4bb4-42b8-9ed1-d3db2852f285,9947afe6-7d92-42d2-abd7-12c996b086b8,ad705c59-6893-4980-bdbf-0837f1823cc4
+5,Grpc.Tools,2.76.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7d5a44d7-00cb-40cb-978b-17809fd1ba2f,92f5cd84-69e2-4561-b616-e439dddb23fa,7cae335f-1193-421e-92f1-8802b4243e93
+6,Microsoft.Extensions.Configuration,10.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d663372b-2dad-49d4-917e-053efa986cd2,27675275-62c7-4383-a682-e320e8330e28,ad705c59-6893-4980-bdbf-0837f1823cc4
+7,Microsoft.Extensions.Configuration.Binder,10.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,155ced88-f56d-4c1f-8fcd-3440f05a672a,c46d94c6-2a67-4f66-a839-0f8d6fa10d75,ad705c59-6893-4980-bdbf-0837f1823cc4
+8,Microsoft.Extensions.Configuration.Json,10.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,c825793c-51cb-4278-b070-518c4c3504d7,db91c407-3aa3-4b1b-8b1e-253648be99a7,ad705c59-6893-4980-bdbf-0837f1823cc4
+9,Microsoft.Extensions.Logging,10.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,61c0fb4f-0b7a-42e5-b104-3bfd6ca013e6,7fc34aaf-8ad8-454e-a323-026edcc2d2ee,ad705c59-6893-4980-bdbf-0837f1823cc4
+10,Microsoft.Extensions.Logging.Abstractions,10.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,24d628b8-19ba-4103-b297-c690a556c3fb,4731d026-6394-4d1f-9bc7-64ba0307764e,ad705c59-6893-4980-bdbf-0837f1823cc4
+11,Microsoft.NET.Test.Sdk,18.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,aebd7f55-8d98-49b5-9098-c6f1b96483ac,22a2d59d-a576-45bb-969e-8c816303e53a,ad705c59-6893-4980-bdbf-0837f1823cc4
+12,Serilog.Extensions.Logging,10.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9b63dfda-c1ad-48d3-beb9-98997e8ff6cf,2b886080-1e99-4532-a943-07482d24e224,7cae335f-1193-421e-92f1-8802b4243e93
+13,Serilog.Sinks.Console,6.1.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,83d9f3fb-7808-41a1-af50-0f33c7e1a242,53d974fe-9f7a-478f-9a1d-bbd39b266089,7cae335f-1193-421e-92f1-8802b4243e93
+14,Serilog.Sinks.File,7.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9586603f-e066-4c8f-a03e-3b307c7b831f,9c50b9b0-c0e0-4308-954e-024e9a5dcd13,7cae335f-1193-421e-92f1-8802b4243e93
+15,System.Linq.AsyncEnumerable,10.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,5c70c36c-65bb-4e10-ad08-a6174a08e771,b9cd9370-019c-4189-86c9-f771ffd1beff,ad705c59-6893-4980-bdbf-0837f1823cc4
+16,System.Net.Http.Json,10.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,53f445fa-4bb4-42b8-9ed1-d3db2852f285,32960f95-5ecc-4ee5-a0a0-35b75b56d651,ad705c59-6893-4980-bdbf-0837f1823cc4
 17,grpc,2.46.6,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f706d0f9-963f-4464-a69e-9e4647131897,263a6bad-5f2f-4b12-bc19-35635c6dc84e,7cae335f-1193-421e-92f1-8802b4243e93
 18,moq/moq4,4.20.72,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,ba26a47e-4a98-4f9b-8ccc-03908ff4384d,c1fe9256-4ee4-4ade-aeb8-0ec32424e3e8,3d238144-44e6-450e-b523-3defbdaed9dc
-19,serilog/serilog,3.1.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6830b0e5-4142-4580-ac4d-07a542f6efcc,c0e527e9-a489-4cc9-bd47-773f64c25a1f,7cae335f-1193-421e-92f1-8802b4243e93
+19,serilog/serilog,4.3.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6830b0e5-4142-4580-ac4d-07a542f6efcc,0d984ec2-9b97-443f-86ba-d516f0fc78a5,7cae335f-1193-421e-92f1-8802b4243e93
 20,xUnit.net,2.9.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ff15e592-8f90-4809-8889-3e7962eab7bb,bf62977f-35ce-4adf-b060-4531474b77c1,7cae335f-1193-421e-92f1-8802b4243e93
 21,xUnit.net [Abstractions],2.0.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5a312fcc-bdf3-4ada-8472-c775fde79ee4,bb0fa00d-8163-46ad-b34c-e11565a1f490,7cae335f-1193-421e-92f1-8802b4243e93
-22,xUnit.net [Visual Studio/TFS Build Runner],2.8.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c6fe482b-2ce0-4df8-9c6f-3986df1a055b,b53c031a-d5d3-438d-85b2-54ddf572b511,7cae335f-1193-421e-92f1-8802b4243e93
+22,xUnit.net [Visual Studio/TFS Build Runner],3.1.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c6fe482b-2ce0-4df8-9c6f-3986df1a055b,bb8b3020-c5de-4967-b87d-ac90d771dc68,7cae335f-1193-421e-92f1-8802b4243e93
