@@ -1451,6 +1451,7 @@ Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
 go humanize 20171110-snapshot-bb3d3186: http://github.com/dustin/go-humanize : MIT License
 Go programming language 1.24.7: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.25.3: http://golang.org/ : BSD 3-clause "New" or "Revised" License
+Go programming language 1.25.5: http://golang.org/ : Go BSD License with Patent Provision
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.10.0: https://github.com/stretchr/testify : MIT License
 Go Testify v1.8.1: https://github.com/stretchr/testify : MIT License
@@ -2193,7 +2194,7 @@ jsesc v2.5.2: http://mths.be/jsesc : MIT License
 JSHTTP's negotiator 0.6.3: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.5: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
-jshttp/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
+jshttp/mime-types 2.1.35: https://github.com/jshttp/mime-types : MIT License
 jsjest 27.5.1: https://jestjs.io : MIT License
 jsjest 29.2.2: https://jestjs.io : MIT License
 JSON for Modern Cpp 3.11.3: https://json.nlohmann.me : MIT License
@@ -10763,6 +10764,50 @@ sample; alter the names:
       Ty Coon, President of Vice
 
 That's all there is to it!
+
+---
+
+Go BSD License with Patent Provision
+(Go programming language 1.25.5)
+
+Copyright © 2009 The Go Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  * Neither the name of Google Inc. nor the names of its contributors may be used
+    to endorse or promote products derived from this software without specific
+    prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Subject to the terms and conditions of this License, Google hereby grants to You
+a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+(except as stated in this section) patent license to make, have made, use, offer
+to sell, sell, import, and otherwise transfer this implementation of Go, where
+such license applies only to those patent claims licensable by Google that are
+necessarily infringed by use of this implementation of Go. If You institute
+patent litigation against any entity (including a cross-claim or counterclaim in
+a lawsuit) alleging that this implementation of Go or a Contribution incorporated
+within this implementation of Go constitutes direct or contributory patent
+infringement, then any patent licenses granted to You under this License for this
+implementation of Go shall terminate as of the date such litigation is filed.
 
 ---
 
