@@ -547,7 +547,6 @@ expect 27.1.0: https://github.com/mjackson/expect : MIT License
 expressjs/accepts 1.3.7: https://github.com/expressjs/accepts : MIT License
 expressjs/compressible 2.0.18: https://github.com/expressjs/compressible : MIT License
 expressjs/express 4.17.1: https://expressjs.com : MIT License
-expressjs/mime-types 2.1.32: https://github.com/jshttp/mime-types : MIT License
 extend 3.0.2: https://github.com/justmoon/node-extend : MIT License
 extend-shallow 2.0.1: https://github.com/jonschlinkert/extend-shallow : MIT License
 extend-shallow 3.0.2: https://github.com/jonschlinkert/extend-shallow : MIT License
@@ -805,6 +804,7 @@ jsesc v2.5.2: http://mths.be/jsesc : MIT License
 JSHTTP's negotiator 0.6.2: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.4: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
+jshttp/mime-types 2.1.32: https://github.com/expressjs/mime-types : MIT License
 jsjest 27.1.0: https://jestjs.io : MIT License
 JSON 3 3.3.3: http://bestiejs.github.io/json3 : MIT License
 json-buffer 3.0.0: https://github.com/dominictarr/json-buffer : MIT License
@@ -980,10 +980,6 @@ node-modules-regexp 1.0.0: https://github.com/jamestalmage/node-modules-regexp#r
 node-process 0.11.10: https://github.com/defunctzombie/node-process : MIT License
 node-progress 2.0.3: https://github.com/visionmedia/node-progress : MIT License
 node-releases 1.1.75: https://github.com/chicoxyzzy/node-releases : MIT License
-node-semver 5.7.1: https://github.com/npm/node-semver : ISC License
-node-semver 6.3.0: https://github.com/npm/node-semver : ISC License
-node-semver 7.0.0: https://github.com/npm/node-semver : ISC License
-node-semver 7.3.5: https://github.com/npm/node-semver : ISC License
 node-source-map-support 0.5.19: https://github.com/evanw/node-source-map-support : MIT License
 node-tmp 0.0.33: https://github.com/raszi/node-tmp : MIT License
 node-url 0.11.0: https://github.com/defunctzombie/node-url : MIT License
@@ -1215,9 +1211,13 @@ schema-utils v2.7.1: https://github.com/webpack-contrib/schema-utils#readme : MI
 section-matter 1.0.0: https://github.com/jonschlinkert/section-matter : MIT License
 select-hose 2.0.0: https://github.com/indutny/select-hose#readme : MIT License
 selfsigned v1.10.11: https://github.com/jfromaniello/selfsigned : MIT License
+semver 5.7.1: https://github.com/npm/node-semver : ISC License
+semver 6.3.0: https://github.com/npm/node-semver : ISC License
+semver 7.0.0: https://github.com/npm/node-semver : ISC License
+semver 7.3.5: https://github.com/npm/node-semver : ISC License
 semver-compare 1.0.0: https://github.com/substack/semver-compare : MIT License
 semver-diff 3.1.1: https://github.com/sindresorhus/semver-diff : MIT License
-send 0.17.1: https://github.com/visionmedia/send : MIT License
+Send for Node.js 0.17.1: https://github.com/pillarjs/send : MIT License
 serialize-javascript 3.1.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serialize-javascript 4.0.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serve-index 1.9.1: https://github.com/expressjs/serve-index : MIT License
@@ -4839,7 +4839,7 @@ ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(chownr 1.1.4, fs-write-stream-atomic 1.0.10, fs.realpath 1.0.0, isexe 2.0.0, json-stringify-safe 5.0.1, minimatch 3.0.4, mute-stream 0.0.7, node-glob 7.1.4, node-glob 7.2.0, node-lru-cache 4.1.5, node-lru-cache 6.0.0, node-semver 5.7.1, node-semver 6.3.0, node-semver 7.0.0, node-semver 7.3.5, npm ini 1.3.7, npm ini 1.3.8, pseudomap 1.0.2, rimraf 2.7.1, rimraf 3.0.2, sax-js 1.2.4, which 1.3.1, which 2.0.2, yallist 2.1.2, yallist 3.1.1, yallist 4.0.0)
+(chownr 1.1.4, fs-write-stream-atomic 1.0.10, fs.realpath 1.0.0, isexe 2.0.0, json-stringify-safe 5.0.1, minimatch 3.0.4, mute-stream 0.0.7, node-glob 7.1.4, node-glob 7.2.0, node-lru-cache 4.1.5, node-lru-cache 6.0.0, npm ini 1.3.7, npm ini 1.3.8, pseudomap 1.0.2, rimraf 2.7.1, rimraf 3.0.2, sax-js 1.2.4, semver 5.7.1, semver 6.3.0, semver 7.0.0, semver 7.3.5, which 1.3.1, which 2.0.2, yallist 2.1.2, yallist 3.1.1, yallist 4.0.0)
 
 The ISC License
 
@@ -12632,7 +12632,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(send 0.17.1)
+(Send for Node.js 0.17.1)
 
 (The MIT License)
 
@@ -15436,7 +15436,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(@types/istanbul-lib-report 3.0.0, @types/parse-json 4.0.0, expressjs/mime-types 2.1.32)
+(@types/istanbul-lib-report 3.0.0, @types/parse-json 4.0.0, jshttp/mime-types 2.1.32)
 
 MIT License
 
