@@ -9,7 +9,7 @@
 7,BurntSushi/toml,v0.3.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,999f5c44-828a-4f2c-8a17-9b5fd22f3beb,e513f674-8efd-4899-baf3-d756c355bec0,ad705c59-6893-4980-bdbf-0837f1823cc4
 8,CoreOS,v0.3.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c55af4d6-d66b-42ec-aa08-60b9864096a9,d72f9524-8946-444b-b119-1497b4f11027,7cae335f-1193-421e-92f1-8802b4243e93
 9,Go Testify,v1.9.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,5271cd46-d193-4af5-b2c2-50a07751f580,55d0b032-7e71-4bdd-8957-69736bb3c299,ad705c59-6893-4980-bdbf-0837f1823cc4
-10,Go programming language,1.25.3,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,6d055c2b-f7d7-45ab-a6b3-021617efd61b,762a3da3-08ab-4505-a197-a9d0ff04c3ad,3d238144-44e6-450e-b523-3defbdaed9dc
+10,Go programming language,1.25.5,Manually Added,Go BSD License with Patent Provision,PERMISSIVE,NOT_REVIEWED,6d055c2b-f7d7-45ab-a6b3-021617efd61b,0c79e7d0-b003-4f31-b8e9-b2b5a7446ebc,aea0a5dc-0989-46dc-b1e3-71c7796d85fa
 11,Go support for Mobile devices,20190704-snapshot-d2bd2a29,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,ad06bc5f-fb07-49e3-a48a-bb1adaa5ed73,169d7f69-07a1-45d0-8a40-313d425c05ca,3d238144-44e6-450e-b523-3defbdaed9dc
 12,GoDoc Text,v0.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,fcf8903b-ac17-4a21-a3ed-d12e6e709e40,f5727975-0297-4fdb-9d68-a5d2085e1a0f,ad705c59-6893-4980-bdbf-0837f1823cc4
 13,Golang Protobuf,v1.33.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,faa9ce60-ee56-4f4a-b55c-b33fae6c61f4,a09bf9f0-c832-4bb7-8bad-b442a0bc5fc8,3d238144-44e6-450e-b523-3defbdaed9dc
@@ -364,7 +364,7 @@
 362,sergi/go-diff,v1.1.0,Transitive Dependency,(MIT License AND Apache License 2.0),PERMISSIVE,NOT_REVIEWED,e4dfc8c6-9e1e-417b-8af9-6a3e3eafd7f9,a0992952-9d2d-4098-b13d-0c422db2dce7,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 363,sigs.k8s.io/controller-runtime,v0.16.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6d1fc2ab-23c3-4b18-bfc4-24ea174f6f5b,6fd7f9e3-99e4-4498-a649-69a4156ee05e,7cae335f-1193-421e-92f1-8802b4243e93
 364,sigs.k8s.io/json,20221116-snapshot-bc3834ca,Transitive Dependency,"(Apache License 2.0 AND BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,82c6bcba-bcc2-4e13-866b-1c7ee522f066,be860e96-10a2-4bd6-b6cd-f22e3be329c8,"3d238144-44e6-450e-b523-3defbdaed9dc,7cae335f-1193-421e-92f1-8802b4243e93"
-365,sigs.k8s.io/yaml,v1.4.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b859c1af-1545-46be-b5d7-b375dd4e4353,352c0b35-0214-4511-85e5-f791c6cb726b,7cae335f-1193-421e-92f1-8802b4243e93
+365,sigs.k8s.io/yaml,v1.4.0,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,b859c1af-1545-46be-b5d7-b375dd4e4353,352c0b35-0214-4511-85e5-f791c6cb726b,00000000-0010-0000-0000-000000000000
 366,soheilhy/cmux,v0.1.5,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2487e8d2-9866-459e-9781-b920592c75d4,bffa7786-b70c-4536-9a71-bac502422463,7cae335f-1193-421e-92f1-8802b4243e93
 367,spf13-cobra,1.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,01b58af6-4fea-4850-a865-f04907645f91,155bd7b0-2cd6-44eb-ac30-18d7522e22a5,7cae335f-1193-421e-92f1-8802b4243e93
 368,stoewer/go-strcase,v1.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,96a30781-2e45-49f3-8aab-60bc8e5b76ca,120b7874-8a49-47d8-bd9b-0061b6710e94,ad705c59-6893-4980-bdbf-0837f1823cc4
