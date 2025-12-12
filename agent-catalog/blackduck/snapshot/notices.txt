@@ -204,6 +204,7 @@ Click - Python Command Line Utility 8.1.8: http://click.pocoo.org/ : BSD 3-claus
 click-extra 4.15.0: https://github.com/kdeldycke/click-extra : GNU General Public License v2.0 or later
 cloup 3.0.8: https://github.com/janLuke/cloup : BSD 3-clause "New" or "Revised" License
 colorama 0.4.6: https://github.com/tartley/colorama : BSD 3-clause "New" or "Revised" License
+couchbase-python-client 4.5.0: http://www.couchbase.org : Apache License 2.0
 dataclasses-json 0.6.7: https://github.com/lidatong/dataclasses-json : MIT License
 dateparser 1.2.2: https://github.com/scrapinghub/dateparser : BSD 3-clause "New" or "Revised" License
 defusedxml v0.7.1: https://github.com/tiran/defusedxml : Python Software Foundation License 2.0
@@ -261,12 +262,14 @@ mypy-extensions 1.1.0: http://www.mypy-lang.org/ : MIT License
 nest-asyncio 1.6.0: https://github.com/erdewit/nest_asyncio : BSD 3-clause "New" or "Revised" License
 NetworkX 3.5: https://networkx.github.io/ : BSD 3-clause "New" or "Revised" License
 nltk 3.9.2: http://www.nltk.org/ : Apache License 2.0
+NumPy 2.3.4: https://numpy.org/ : BSD 3-clause "New" or "Revised" License
 openai 1.109.1: https://github.com/openai/openai-python : Apache License 2.0
 openapi-pydantic 0.5.1: https://github.com/mike-oakley/openapi-pydantic : MIT License
 orjson 3.11.4: https://github.com/ijl/orjson : Apache License 2.0
 ormsgpack 1.12.0: https://github.com/aviramha/ormsgpack : (MIT License AND Apache License 2.0)
 Packaging 25.0: https://github.com/pypa/packaging : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 pandas-python 2.2.3: https://pandas.pydata.org : BSD 3-clause "New" or "Revised" License
+PillowPython 12.0.0: https://github.com/python-pillow/Pillow : Diffstat License
 platformdirs 4.5.0: https://github.com/platformdirs/platformdirs : MIT License
 propcache 0.4.1: https://github.com/aio-libs/propcache : Apache License 2.0
 psf-requests 2.32.5: http://docs.python-requests.org : Apache License 2.0
@@ -319,7 +322,7 @@ zstandard 0.25.0: https://github.com/indygreg/python-zstandard : BSD 3-clause "N
 Licenses: 
 
 Apache License 2.0
-(aiohttp 3.13.2, aiosignal 1.4.0, distro 1.9.0, frozenlist 1.8.0, multidict 6.7.0, nltk 3.9.2, openai 1.109.1, orjson 3.11.4, ormsgpack 1.12.0, Packaging 25.0, propcache 0.4.1, psf-requests 2.32.5, Python tzdata 2025.2, python-dateutil 2.9.0.post0, regex 2025.11.3, requests-toolbelt 1.0.0, sniffio 1.3.1, tenacity 9.1.2, yarl 1.22.0)
+(aiohttp 3.13.2, aiosignal 1.4.0, couchbase-python-client 4.5.0, distro 1.9.0, frozenlist 1.8.0, multidict 6.7.0, nltk 3.9.2, openai 1.109.1, orjson 3.11.4, ormsgpack 1.12.0, Packaging 25.0, propcache 0.4.1, psf-requests 2.32.5, Python tzdata 2025.2, python-dateutil 2.9.0.post0, regex 2025.11.3, requests-toolbelt 1.0.0, sniffio 1.3.1, tenacity 9.1.2, yarl 1.22.0)
 
 Apache License
 Version 2.0, January 2004
@@ -506,7 +509,7 @@ third-party archives.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(boltons 25.0.0, Click - Python Command Line Utility 8.1.8, cloup 3.0.8, colorama 0.4.6, dateparser 1.2.2, filesystem_spec 2025.10.0, gitdb 4.0.12, GitPython 3.1.45, httpcore 1.0.9, httpx 0.28.1, idna 3.11, isodate 0.7.2, jinjapython 3.1.6, joblib 1.5.2, MarkupSafe 3.0.3, nest-asyncio 1.6.0, NetworkX 3.5, Packaging 25.0, pandas-python 2.2.3, pypdf 6.1.3, python-dateutil 2.9.0.post0, python-dotenv 1.2.1, python-json-patch 1.33, python-json-pointer 3.0.0, python-semanticversion 2.10.0, smmap 5.0.2, striprtf 0.0.26, wrapt 1.17.3, xxhash 3.6.0, zstandard 0.25.0)
+(boltons 25.0.0, Click - Python Command Line Utility 8.1.8, cloup 3.0.8, colorama 0.4.6, dateparser 1.2.2, filesystem_spec 2025.10.0, gitdb 4.0.12, GitPython 3.1.45, httpcore 1.0.9, httpx 0.28.1, idna 3.11, isodate 0.7.2, jinjapython 3.1.6, joblib 1.5.2, MarkupSafe 3.0.3, nest-asyncio 1.6.0, NetworkX 3.5, NumPy 2.3.4, Packaging 25.0, pandas-python 2.2.3, pypdf 6.1.3, python-dateutil 2.9.0.post0, python-dotenv 1.2.1, python-json-patch 1.33, python-json-pointer 3.0.0, python-semanticversion 2.10.0, smmap 5.0.2, striprtf 0.0.26, wrapt 1.17.3, xxhash 3.6.0, zstandard 0.25.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -609,6 +612,33 @@ or otherwise using Python 1.6b1, Licensee agrees to be bound by the terms and
 conditions of this License Agreement.
 
 ACCEPT
+
+---
+
+Diffstat License
+(PillowPython 12.0.0)
+
+Diffstat License
+================
+
+Copyright 1994-2001,2002 by Thomas E. Dickey
+All Rights Reserved.
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted, provided that
+the above copyright notice appear in all copies and that both that copyright
+notice and this permission notice appear in supporting documentation, and that
+the name of the above listed copyright holder(s) not be used in advertising or
+publicity pertaining to distribution of the software without specific, written
+prior permission.
+
+THE ABOVE LISTED COPYRIGHT HOLDER(S) DISCLAIM ALL WARRANTIES WITH REGARD TO THIS
+SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO
+EVENT SHALL THE ABOVE LISTED COPYRIGHT HOLDER(S) BE LIABLE FOR ANY SPECIAL,
+INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE.
 
 ---
 
