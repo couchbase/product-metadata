@@ -10,6 +10,7 @@ Notices Report Content
 Components: 
 
 alexcrichton/proc-macro2 1.0.103: https://github.com/alexcrichton/proc-macro2 : (MIT License OR Apache License 2.0)
+BurntSushi/rust-memchr 2.7.6: https://github.com/BurntSushi/rust-memchr : (MIT License AND Public Domain)
 couchbase-sys 0.3.0: https://github.com/couchbaselabs/couchbase-rs : Apache License 2.0
 dtolnay/itoa 1.0.15 : (MIT License OR Apache License 2.0)
 dtolnay/quote 1.0.42 : (MIT License OR Apache License 2.0)
@@ -442,7 +443,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(alexcrichton/proc-macro2 1.0.103, dtolnay/itoa 1.0.15, dtolnay/quote 1.0.42, log 0.4.29, matches 0.1.10, parking_lot_core 0.2.14, pkg-config 0.3.32, rust-lang/libc 0.2.178, serde_derive 1.0.228, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-rs/unicode-normalization 0.1.25)
+(alexcrichton/proc-macro2 1.0.103, BurntSushi/rust-memchr 2.7.6, dtolnay/itoa 1.0.15, dtolnay/quote 1.0.42, log 0.4.29, matches 0.1.10, parking_lot_core 0.2.14, pkg-config 0.3.32, rust-lang/libc 0.2.178, serde_derive 1.0.228, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-rs/unicode-normalization 0.1.25)
 
 The MIT License
 ===============
@@ -465,6 +466,13 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
 AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+Public Domain
+(BurntSushi/rust-memchr 2.7.6)
+
+Public domain code is not subject to any license.
 
 ---
 
