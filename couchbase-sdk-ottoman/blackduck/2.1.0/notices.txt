@@ -304,6 +304,8 @@ body-parser 1.19.0: https://github.com/expressjs/body-parser : MIT License
 bonjour 3.5.0: https://github.com/watson/bonjour : MIT License
 boolbase 1.0.0 : ISC License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
+braces 2.3.2: https://github.com/jonschlinkert/braces : MIT License
+braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 brorand 1.1.0: https://github.com/indutny/brorand : MIT License
 browser-process-hrtime 1.0.0: https://github.com/kumavis/browser-process-hrtime#readme : BSD 2-clause "Simplified" License
 browserify-aes 1.2.0: https://github.com/crypto-browserify/browserify-aes : MIT License
@@ -372,10 +374,10 @@ color-name 1.1.4: https://github.com/colorjs/color-name : MIT License
 color-string 1.6.0: https://github.com/Qix-/color-string : MIT License
 colorette 1.3.0: https://github.com/jorgebucaran/colorette : MIT License
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 2.17.1: https://github.com/tj/commander.js : MIT License
-Commander.js 2.19.0: https://github.com/tj/commander.js : MIT License
-Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
-Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
+Commander.js 2.17.1: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 2.19.0: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
 Commitizen CLI 4.2.4: http://commitizen.github.io/cz-cli/ : MIT License
 commitizen/cz-conventional-changelog 3.2.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
 commitizen/cz-conventional-changelog 3.3.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
@@ -665,7 +667,6 @@ https-proxy-agent 5.0.0: https://github.com/TooTallNate/node-https-proxy-agent :
 human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 iarna/gauge v2.7.4: https://github.com/iarna/gauge : ISC License
-iarna/write-file-atomic 3.0.3: https://github.com/iarna/write-file-atomic : ISC License
 iconv-lite v0.4.24: https://github.com/ashtuchkin/iconv-lite : MIT License
 icss-replace-symbols 1.1.0: https://github.com/css-modules/icss-replace-symbols#readme : ISC License
 icss-utils 4.1.1: https://github.com/css-modules/icss-utils#readme : ISC License
@@ -892,10 +893,7 @@ merge2 1.4.1: https://github.com/teambition/merge2 : MIT License
 methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 micromatch 3.1.10: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch 4.0.4: https://github.com/jonschlinkert/micromatch : MIT License
-micromatch/braces 2.3.2: https://github.com/micromatch/braces : MIT License
-micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsofttslib 1.14.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
-mikeal/oauth-sign 0.9.0: https://github.com/mikeal/oauth-sign : Apache License 2.0
 miller-rabin 4.0.1: https://github.com/indutny/miller-rabin : MIT License
 mime 1.6.0: https://github.com/broofa/node-mime : MIT License
 mime 2.5.2: https://github.com/broofa/node-mime : MIT License
@@ -1011,6 +1009,7 @@ nth-check 2.0.0: https://github.com/fb55/nth-check : BSD 2-clause "Simplified" L
 num2fraction 1.2.2: https://github.com/yisibl/num2fraction : MIT License
 number-is-nan 1.0.1: https://github.com/sindresorhus/number-is-nan : MIT License
 nwsapi 2.2.0: http://javascript.nwbox.com/nwsapi/ : MIT License
+oauth-sign 0.9.0: https://github.com/mikeal/oauth-sign : Apache License 2.0
 object-assign 4.1.1: https://github.com/sindresorhus/object-assign : MIT License
 object-inspect 1.11.0: https://github.com/substack/object-inspect : MIT License
 object-is 1.1.5: https://github.com/ljharb/object-is : MIT License
@@ -1217,7 +1216,7 @@ select-hose 2.0.0: https://github.com/indutny/select-hose#readme : MIT License
 selfsigned v1.10.11: https://github.com/jfromaniello/selfsigned : MIT License
 semver-compare 1.0.0: https://github.com/substack/semver-compare : MIT License
 semver-diff 3.1.1: https://github.com/sindresorhus/semver-diff : MIT License
-Send for Node.js 0.17.1: https://github.com/pillarjs/send : MIT License
+send 0.17.1: https://github.com/visionmedia/send : MIT License
 serialize-javascript 3.1.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serialize-javascript 4.0.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serve-index 1.9.1: https://github.com/expressjs/serve-index : MIT License
@@ -1234,6 +1233,7 @@ shebang-regex 1.0.0: https://github.com/sindresorhus/shebang-regex : MIT License
 shebang-regex 3.0.0: https://github.com/sindresorhus/shebang-regex : MIT License
 shelljs 0.8.5: https://github.com/arturadib/shelljs : BSD 3-clause "New" or "Revised" License
 side-channel 1.0.4: https://github.com/ljharb/side-channel#readme : MIT License
+signal-exit v3.0.3: https://github.com/bcoe/signal-exit : ISC License
 simple-concat 1.0.1: https://github.com/feross/simple-concat : MIT License
 simple-get v3.1.0: https://github.com/feross/simple-get : MIT License
 simple-swizzle 0.2.2: https://github.com/qix-/node-simple-swizzle#readme : MIT License
@@ -1323,7 +1323,6 @@ svg-tags 1.0.0: https://github.com/element-io/svg-tags : MIT License
 svgo 1.3.2: https://github.com/svg/svgo : MIT License
 symbol-tree 3.2.4: https://github.com/Joris-van-der-Wel/js-symbol-tree#readme : MIT License
 tapable 1.1.3: https://github.com/webpack/tapable : MIT License
-tapjs/signal-exit v3.0.3: https://github.com/tapjs/signal-exit : ISC License
 tar-fs 2.1.1: https://github.com/mafintosh/tar-fs : MIT License
 tar-stream 2.2.0: https://github.com/mafintosh/tar-stream : MIT License
 term-size 2.2.1: https://github.com/sindresorhus/term-size#readme : MIT License
@@ -1466,6 +1465,7 @@ wrap-ansi v5.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
+write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
 xdg-basedir 4.0.0: https://github.com/sindresorhus/xdg-basedir : MIT License
 xml-name-validator 3.0.0: https://github.com/jsdom/xml-name-validator : Apache License 2.0
 xmlchars 2.2.0: https://github.com/lddubeau/xmlchars#readme : MIT License
@@ -1638,7 +1638,7 @@ interfere with or be responsible for such uses by You.
 ---
 
 Apache License 2.0
-(@humanwhocodes/config-array 0.5.0, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, through 2.3.8, tunnel-agent 0.6.0, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.3.5, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
+(@humanwhocodes/config-array 0.5.0, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, nodejs-walker 1.0.7, oauth-sign 0.9.0, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, through 2.3.8, tunnel-agent 0.6.0, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.3.5, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -4553,7 +4553,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(iarna/write-file-atomic 3.0.3)
+(write-file-atomic 3.0.3)
 
 Upstream-Contact: https://github.com/iarna/write-file-atomic/issues
 Source: https://github.com/iarna/write-file-atomic
@@ -5084,7 +5084,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(tapjs/signal-exit v3.0.3)
+(signal-exit v3.0.3)
 
 Upstream-Contact: https://github.com/tapjs/signal-exit/issues
 Source: https://github.com/tapjs/signal-exit
@@ -8646,7 +8646,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(assemble/gray-matter 4.0.3, micromatch 3.1.10, micromatch/braces 2.3.2, normalize-path 3.0.0)
+(assemble/gray-matter 4.0.3, braces 2.3.2, micromatch 3.1.10, normalize-path 3.0.0)
 
 The MIT License (MIT)
 
@@ -12632,7 +12632,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(Send for Node.js 0.17.1)
+(send 0.17.1)
 
 (The MIT License)
 
@@ -14785,7 +14785,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(micromatch/braces 3.0.2)
+(braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
