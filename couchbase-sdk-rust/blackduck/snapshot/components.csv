@@ -164,7 +164,7 @@
 162,seanmonstar/try-lock,0.2.5,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,3c0d084d-3d55-42cb-9033-dbacc94389fc,5b553368-b852-43ba-b7c4-d946b2480a41,ad705c59-6893-4980-bdbf-0837f1823cc4
 163,seanmonstar/want,0.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,3de4ef18-f1b2-4418-b51d-a3446058421b,21f17706-be06-4921-9cc8-14f93e68d5a9,ad705c59-6893-4980-bdbf-0837f1823cc4
 164,serde_derive,1.0.228,"Direct Dependency,Transitive Dependency",(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,22d7baa6-f8d4-4f7f-976e-f8d9a653d70a,6a675f54-d9e0-4050-a0eb-d421a36e4f83,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
-165,serde_json,1.0.146,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c9c27221-cb7d-4376-b363-0a3abdf8097d,e9b74905-7da1-44b1-b2ec-d1e1cd2d8ec6,7cae335f-1193-421e-92f1-8802b4243e93
+165,serde_json,1.0.147,Direct Dependency,(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,c9c27221-cb7d-4376-b363-0a3abdf8097d,d6e64d8e-4db1-4a85-b5ec-2c17a40fea25,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 166,serial_test,3.2.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,19c2fbd3-e070-4e00-8177-783f59f74004,90feb1b0-651b-4ae0-8886-4b21ae450e40,ad705c59-6893-4980-bdbf-0837f1823cc4
 167,serial_test_derive,3.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ef8d44c5-7ea3-49ca-bdee-0818b07db7f7,c0c0d6ab-e265-4b50-bfa3-6399d4b08bcb,ad705c59-6893-4980-bdbf-0837f1823cc4
 168,servo/rust-fnv,1.0.7,Transitive Dependency,(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,100dfc03-c34a-4c10-9313-d9a63ae2875e,c000ff2b-c0e5-4af1-ae31-b1c5c0e9147c,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
@@ -212,7 +212,7 @@
 210,utf8_iter,1.0.4,Transitive Dependency,(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,8d20d163-ccf5-428e-9d88-391eb4704537,850726a1-7ad3-4b9d-97ab-adb74656ee79,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 211,utf8parse,0.2.2,Transitive Dependency,(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,c23000b2-0ff3-43fa-b4ba-3f75803efe45,774d95d2-b03f-4972-b92f-5b29603ebf9f,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 212,uuid-rs/uuid,1.19.0,Direct Dependency,(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,1c23e31d-52f1-4a37-b244-bad022dcdd91,5cae0526-d35c-4a3c-a234-0f10b3ef5c9f,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
-213,vorner/arc-swap,1.7.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,39f09b59-4fbd-4780-86af-4d7c1ec79c3b,7ab82126-0f3a-480d-94eb-30a65e1db185,7cae335f-1193-421e-92f1-8802b4243e93
+213,vorner/arc-swap,1.8.0,Direct Dependency,(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,39f09b59-4fbd-4780-86af-4d7c1ec79c3b,4292e5bf-7752-4ec0-964f-931b3747e601,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 214,webdesus/fs_extra,1.3.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7c8ca471-67ba-4d60-925b-1216cea7a133,6e1741cc-41ed-455c-a666-0267e33f3497,ad705c59-6893-4980-bdbf-0837f1823cc4
 215,webpki-roots,1.0.4,Direct Dependency,Community Data License Agreement Permissive 2.0,PERMISSIVE,NOT_REVIEWED,ce490d51-3cbb-4c64-bb84-60e9133841b9,45b82b1e-b343-4e1a-b38c-1bad0ce3f85a,501f0df0-2706-4180-af2d-71f3c6f77403
 216,writeable,0.6.2,Transitive Dependency,Unicode License v3,PERMISSIVE,NOT_REVIEWED,8553c741-6f73-4769-bc6b-884adbe84e56,3b2f3775-b028-447c-a118-d9220a04f452,7ab8b707-f9ca-42db-a607-4179fa6102e8
@@ -223,3 +223,4 @@
 221,zeroize,1.8.2,Transitive Dependency,(MIT License OR Apache License 2.0),PERMISSIVE,NOT_REVIEWED,676178fb-9da6-4c07-80fb-92087749ab1c,3f797067-06a2-42c5-bfbc-61ff01694f8c,"ad705c59-6893-4980-bdbf-0837f1823cc4,7cae335f-1193-421e-92f1-8802b4243e93"
 222,zerovec,0.11.5,Transitive Dependency,Unicode License v3,PERMISSIVE,NOT_REVIEWED,f2d75854-5718-45e6-b440-6d78799431bd,6f598f42-090a-42bb-8937-3fff050ca963,7ab8b707-f9ca-42db-a607-4179fa6102e8
 223,zerovec-derive,0.11.2,Transitive Dependency,Unicode License v3,PERMISSIVE,NOT_REVIEWED,739defa9-6a41-4807-94ef-baecbbe63f25,dc3ed10c-59d3-4f6b-bcea-bd3659a1e5c3,7ab8b707-f9ca-42db-a607-4179fa6102e8
+224,zmij,0.1.7,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1f4b4205-3ca5-48cb-875a-aaac2b2af594,56f21ac4-008f-4160-8c8c-620403ec816a,ad705c59-6893-4980-bdbf-0837f1823cc4
