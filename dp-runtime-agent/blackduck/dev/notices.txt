@@ -89,6 +89,7 @@ datadog-agent pkg/util/scrubber/v0.70.2: https://docs.datadoghq.com/ : Apache Li
 datadog-agent pkg/version/v0.70.2: https://docs.datadoghq.com/ : Apache License 2.0
 DataDog-datadog-go v5.8.0: https://github.com/DataDog/datadog-go : MIT License
 DataDog/appsec-internal-go v1.14.0 : Apache License 2.0
+DataDog/dd-trace-go 2.2.3: https://docs.datadoghq.com/tracing/ : BSD 3-clause "New" or "Revised" License
 DataDog/dd-trace-go v1.74.6: https://docs.datadoghq.com/tracing/ : BSD 3-clause "New" or "Revised" License
 DataDog/go-libddwaf v4.5.0 : Apache License 2.0
 DataDog/go-tuf v1.1.1-0.5.2 : BSD 3-clause "New" or "Revised" License
@@ -635,7 +636,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(DataDog/dd-trace-go v1.74.6, DataDog/go-tuf v1.1.1-0.5.2, edsrzf/mmap-go v1.2.0, exp 20251108-snapshot-87e1e737, facette/natsort 20181210-snapshot-2cd4dd1e, github.com/lufia/plan9stats 20250827-snapshot-24949be3, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Golang Protobuf v1.36.9, Golang Protobuf v1.5.4, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.46.0, golang.org/x/mod v0.30.0, golang.org/x/net v0.47.0, golang.org/x/oauth2 v0.33.0, golang.org/x/sys v0.39.0, golang.org/x/time v0.14.0, golang.org/x/xerrors 20240902-snapshot-7835f813, golang/sync v0.19.0, golang/text v0.32.0, google/go-cmp v0.7.0, googleapis/gax-go v2.15.0, googleapis/google-api-go-client v0.249.0, Googleuuid v1.6.0, gopsutil v4.25.8, gorilla/mux v1.8.1, klauspost-compress v1.18.0, mergo v1.0.2, tklauser/go-sysconf v0.3.15)
+(DataDog/dd-trace-go 2.2.3, DataDog/dd-trace-go v1.74.6, DataDog/go-tuf v1.1.1-0.5.2, edsrzf/mmap-go v1.2.0, exp 20251108-snapshot-87e1e737, facette/natsort 20181210-snapshot-2cd4dd1e, github.com/lufia/plan9stats 20250827-snapshot-24949be3, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Golang Protobuf v1.36.9, Golang Protobuf v1.5.4, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.46.0, golang.org/x/mod v0.30.0, golang.org/x/net v0.47.0, golang.org/x/oauth2 v0.33.0, golang.org/x/sys v0.39.0, golang.org/x/time v0.14.0, golang.org/x/xerrors 20240902-snapshot-7835f813, golang/sync v0.19.0, golang/text v0.32.0, google/go-cmp v0.7.0, googleapis/gax-go v2.15.0, googleapis/google-api-go-client v0.249.0, Googleuuid v1.6.0, gopsutil v4.25.8, gorilla/mux v1.8.1, klauspost-compress v1.18.0, mergo v1.0.2, tklauser/go-sysconf v0.3.15)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
