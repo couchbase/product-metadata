@@ -1,4 +1,4 @@
-Copyright 2025
+Copyright 2026
 
 [couchbase-elasticsearch-connector : 4.4.15]
 
@@ -17,10 +17,11 @@ Apache Commons Text 1.14.0: https://github.com/apache/commons-text : Apache Lice
 Apache HttpClient 4.5.14: https://github.com/apache/httpcomponents-client : Apache License 2.0
 Apache HttpClient 5.4.2: https://github.com/apache/httpcomponents-client : Apache License 2.0
 Apache HttpComponents AsyncClient 4.1.5: http://hc.apache.org/httpcomponents-asyncclient : Apache License 2.0
-Apache HttpComponents Core HTTP/2 5.3.3 : Apache License 2.0
-Apache Log4j 2.23.1: http://logging.apache.org/log4j/ : Apache License 2.0
-Apache Log4J API 2.23.1: http://logging.apache.org/log4j/2.x/log4j-api/ : Apache License 2.0
-Apache Log4j SLF4J 2.0 Binding 2.23.1 : Apache License 2.0
+Apache HTTPComponents Core 4.4.16: https://github.com/apache/httpcomponents-core : Apache License 2.0
+Apache HTTPComponents Core 5.3.3: https://github.com/apache/httpcomponents-core : Apache License 2.0
+Apache Log4j 2.25.3: http://logging.apache.org/log4j/ : Apache License 2.0
+Apache Log4J API 2.25.3: http://logging.apache.org/log4j/2.x/log4j-api/ : Apache License 2.0
+Apache Log4j SLF4J 2.0 Binding 2.25.3 : Apache License 2.0
 AWS Event Stream 1.0.1 : Apache License 2.0
 AWS Java SDK :: Bill of Materials 2.31.2 : Apache License 2.0
 AWS Java SDK :: Checksums 2.31.2 : Apache License 2.0
@@ -42,10 +43,10 @@ com.github.therapi:therapi-json-rpc 0.5.0: https://github.com/dnault/therapi-jso
 com.github.therapi:therapi-runtime-javadoc 0.12.0 : Apache License 2.0
 Couchbase Java DCP Client 0.56.0 : Apache License 2.0
 Couchbase Java SDK 3.9.2 : Apache License 2.0
-Couchbase JVM Client BOM 3.9.2: https://couchbase.com/couchbase-client-bom : Apache License 2.0
+Couchbase JVM Client BOM 3.9.2 : Apache License 2.0
 Couchbase JVM Core IO 3.9.2: http://couchbase.com : Apache License 2.0
 Eclipse Parsson 1.1.6 : (GNU General Public License v2.0 w/Classpath exception AND Eclipse Public License 2.0)
-eclipse-vertx/vert.x 4.5.11: https://github.com/eclipse-vertx/vert.x : (Apache License 2.0 AND Eclipse Public License 2.0)
+eclipse-vertx/vert.x 4.5.11: https://github.com/eclipse-vertx/vert.x : (Apache License 2.0 OR Eclipse Public License 2.0)
 ecs-logging-core 1.6.0 : Apache License 2.0
 Elasticsearch Java Client 8.17.3 : Apache License 2.0
 Elasticsearch Kubernetes cloud plugin 7.0.0: http://fabric8.io/kubernetes-client/ : Apache License 2.0
@@ -82,8 +83,6 @@ googleguava 33.5.0-jre: https://github.com/google/guava : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.3 : Apache License 2.0
 Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava: https://mvnrepository.com/artifact/com.google.guava/listenablefuture : Apache License 2.0
 HdrHistogram 2.1.12: https://github.com/HdrHistogram/HdrHistogram : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
-httpcomponents-core 4.4.16: https://github.com/apache/httpcomponents-core : Apache License 2.0
-httpcomponents-core 5.3.3: https://github.com/apache/httpcomponents-core : Apache License 2.0
 j2objc - Java to IOS 3.1: http://j2objc.org : Apache License 2.0
 Jackson Integration for Metrics 4.2.16: http://metrics.codahale.com/metrics-json/ : Apache License 2.0
 jackson-annotations 2.20: https://github.com/FasterXML/jackson-annotations : Apache License 2.0
@@ -133,7 +132,7 @@ Prometheus Java Simpleclient Common 0.16.0 : Apache License 2.0
 Prometheus Java Span Context Supplier - Common 0.16.0 : Apache License 2.0
 Prometheus Java Span Context Supplier - OpenTelemetry 0.16.0 : Apache License 2.0
 Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.16.0 : Apache License 2.0
-reactive-streams 1.0.4: http://www.reactive-streams.org/ : MIT No Attribution
+reactive-streams-jvm 1.0.4: http://www.reactive-streams.org/ : MIT No Attribution
 reactor-core 3.6.9: https://github.com/reactor/reactor-core : Apache License 2.0
 rest 2.19.1 : Apache License 2.0
 SLF4J API Module 2.0.17: http://www.slf4j.org : MIT License
@@ -149,7 +148,7 @@ zjsonpatch 7.0.0 : Apache License 2.0
 Licenses: 
 
 Apache License 2.0
-(Apache Commons Codec 1.17.1, Apache Commons Lang 3.18.0, Apache Commons Text 1.14.0, Apache HttpClient 4.5.14, Apache HttpClient 5.4.2, Apache HttpComponents AsyncClient 4.1.5, Apache HttpComponents Core HTTP/2 5.3.3, Apache Log4j 2.23.1, Apache Log4J API 2.23.1, Apache Log4j SLF4J 2.0 Binding 2.23.1, AWS Event Stream 1.0.1, AWS Java SDK :: Bill of Materials 2.31.2, AWS Java SDK :: Checksums 2.31.2, AWS Java SDK :: Checksums SPI 2.31.2, AWS Java SDK :: Core :: Protocols :: Json Utils 2.31.2, AWS Java SDK :: Endpoints SPI 2.31.2, AWS Java SDK :: HTTP Auth 2.31.2, AWS Java SDK :: HTTP Auth AWS 2.31.2, AWS Java SDK :: HTTP Auth Event Stream 2.31.2, AWS Java SDK :: HTTP Auth SPI 2.31.2, AWS Java SDK :: Identity SPI 2.31.2, AWS Java SDK :: Metrics Interface 2.31.2, AWS Java SDK :: Retries 2.31.2, AWS Java SDK :: Retries API 2.31.2, AWS Java SDK :: Third Party :: Jackson-core 2.31.2, AWS SDK for Java 2.31.2, co.elastic.logging:log4j2-ecs-layout 1.6.0, com.github.therapi:therapi-json-rpc 0.5.0, com.github.therapi:therapi-runtime-javadoc 0.12.0, Couchbase Java DCP Client 0.56.0, Couchbase Java SDK 3.9.2, Couchbase JVM Client BOM 3.9.2, Couchbase JVM Core IO 3.9.2, eclipse-vertx/vert.x 4.5.11, ecs-logging-core 1.6.0, Elasticsearch Java Client 8.17.3, Elasticsearch Kubernetes cloud plugin 7.0.0, elasticsearch-rest-client 8.17.3, error-prone annotations 2.41.0, Fabric8 :: Kubernetes :: Bom 7.0.0, Fabric8 :: Kubernetes :: HttpClient :: OkHttp 7.0.0, Fabric8 :: Kubernetes :: HttpClient :: Vert.x 7.0.0, Fabric8 :: Kubernetes :: Java Client API 7.0.0, Fabric8 :: Kubernetes Model :: Admission Registration, Authentication and Authorization 7.0.0, Fabric8 :: Kubernetes Model :: API Extensions 7.0.0, Fabric8 :: Kubernetes Model :: Apps 7.0.0, Fabric8 :: Kubernetes Model :: Autoscaling 7.0.0, Fabric8 :: Kubernetes Model :: Batch 7.0.0, Fabric8 :: Kubernetes Model :: Certificates 7.0.0, Fabric8 :: Kubernetes Model :: Common 7.0.0, Fabric8 :: Kubernetes Model :: Coordination 7.0.0, Fabric8 :: Kubernetes Model :: Core 7.0.0, Fabric8 :: Kubernetes Model :: Discovery 7.0.0, Fabric8 :: Kubernetes Model :: Events 7.0.0, Fabric8 :: Kubernetes Model :: Extensions 7.0.0, Fabric8 :: Kubernetes Model :: FlowControl 7.0.0, Fabric8 :: Kubernetes Model :: Metrics 7.0.0, Fabric8 :: Kubernetes Model :: Networking 7.0.0, Fabric8 :: Kubernetes Model :: Node 7.0.0, Fabric8 :: Kubernetes Model :: Policy 7.0.0, Fabric8 :: Kubernetes Model :: RBAC 7.0.0, Fabric8 :: Kubernetes Model :: Resource 7.0.0, Fabric8 :: Kubernetes Model :: Scheduling 7.0.0, Fabric8 :: Kubernetes Model :: Sigs :: Gateway API 7.0.0, Fabric8 :: Kubernetes Model :: Storage Class 7.0.0, FindBugs jsr305 3.0.2, googleguava 33.5.0-jre, Guava InternalFutureFailureAccess and InternalFutures 1.0.3, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, httpcomponents-core 4.4.16, httpcomponents-core 5.3.3, j2objc - Java to IOS 3.1, Jackson Integration for Metrics 4.2.16, jackson-annotations 2.20, jackson-bom 2.20.0, jackson-core 2.20.0, jackson-databind 2.20.0, jackson-dataformat-yaml 2.20.0, Jackson-Datatype-JSR310 2.20.0, jackson-module-jsonSchema 2.20.0, Jackson-module-parameter-names 2.20.0, jackson-modules-java8 2.20.0, jakartaeevalidation 1.1.0, JCL 1.2 Implemented Over SLF4J 2.0.17, Jetbrains annotations 13.0, JSpecify annotations 1.0.0, JVM Integration for Metrics 4.2.16, Kotlin 1.9.10, kotlin-stdlib-common 1.9.10, Metrics Core 4.2.16, micrometer-bom 1.10.5, micrometer-commons 1.10.5, micrometer-metrics 1.10.5, micrometer-observation 1.10.5, micrometer-registry-prometheus 1.10.5, Netty Project 4.1.128, Netty/BOM 4.1.128.Final, Netty/Transport/Classes/Epoll 4.1.128.Final, Netty/Transport/Native/Unix/Common 4.1.128.Final, OkHttp 4.12.0, OkHttp (Bill of Materials) 4.12.0, OkHttp Logging Interceptor 4.12.0, OpenSearch Java Client 2.22.0, OpenTelemetry Java 1.29.0, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.9.10, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.9.10, picocli - a mighty tiny Command Line Interface 4.7.1, Prometheus Java Simpleclient 0.16.0, Prometheus Java Simpleclient Common 0.16.0, Prometheus Java Span Context Supplier - Common 0.16.0, Prometheus Java Span Context Supplier - OpenTelemetry 0.16.0, Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.16.0, reactor-core 3.6.9, rest 2.19.1, SnakeYAML 2.4, SnakeYAML Engine 2.8, squareokio 3.6.0, tuweni-toml 2.0.0, vertx-auth-common 4.5.11, vertx-web-client 4.5.11, vertx-web-common 4.5.11, zjsonpatch 7.0.0)
+(Apache Commons Codec 1.17.1, Apache Commons Lang 3.18.0, Apache Commons Text 1.14.0, Apache HttpClient 4.5.14, Apache HttpClient 5.4.2, Apache HttpComponents AsyncClient 4.1.5, Apache HTTPComponents Core 4.4.16, Apache HTTPComponents Core 5.3.3, Apache Log4j 2.25.3, Apache Log4J API 2.25.3, Apache Log4j SLF4J 2.0 Binding 2.25.3, AWS Event Stream 1.0.1, AWS Java SDK :: Bill of Materials 2.31.2, AWS Java SDK :: Checksums 2.31.2, AWS Java SDK :: Checksums SPI 2.31.2, AWS Java SDK :: Core :: Protocols :: Json Utils 2.31.2, AWS Java SDK :: Endpoints SPI 2.31.2, AWS Java SDK :: HTTP Auth 2.31.2, AWS Java SDK :: HTTP Auth AWS 2.31.2, AWS Java SDK :: HTTP Auth Event Stream 2.31.2, AWS Java SDK :: HTTP Auth SPI 2.31.2, AWS Java SDK :: Identity SPI 2.31.2, AWS Java SDK :: Metrics Interface 2.31.2, AWS Java SDK :: Retries 2.31.2, AWS Java SDK :: Retries API 2.31.2, AWS Java SDK :: Third Party :: Jackson-core 2.31.2, AWS SDK for Java 2.31.2, co.elastic.logging:log4j2-ecs-layout 1.6.0, com.github.therapi:therapi-json-rpc 0.5.0, com.github.therapi:therapi-runtime-javadoc 0.12.0, Couchbase Java DCP Client 0.56.0, Couchbase Java SDK 3.9.2, Couchbase JVM Client BOM 3.9.2, Couchbase JVM Core IO 3.9.2, eclipse-vertx/vert.x 4.5.11, ecs-logging-core 1.6.0, Elasticsearch Java Client 8.17.3, Elasticsearch Kubernetes cloud plugin 7.0.0, elasticsearch-rest-client 8.17.3, error-prone annotations 2.41.0, Fabric8 :: Kubernetes :: Bom 7.0.0, Fabric8 :: Kubernetes :: HttpClient :: OkHttp 7.0.0, Fabric8 :: Kubernetes :: HttpClient :: Vert.x 7.0.0, Fabric8 :: Kubernetes :: Java Client API 7.0.0, Fabric8 :: Kubernetes Model :: Admission Registration, Authentication and Authorization 7.0.0, Fabric8 :: Kubernetes Model :: API Extensions 7.0.0, Fabric8 :: Kubernetes Model :: Apps 7.0.0, Fabric8 :: Kubernetes Model :: Autoscaling 7.0.0, Fabric8 :: Kubernetes Model :: Batch 7.0.0, Fabric8 :: Kubernetes Model :: Certificates 7.0.0, Fabric8 :: Kubernetes Model :: Common 7.0.0, Fabric8 :: Kubernetes Model :: Coordination 7.0.0, Fabric8 :: Kubernetes Model :: Core 7.0.0, Fabric8 :: Kubernetes Model :: Discovery 7.0.0, Fabric8 :: Kubernetes Model :: Events 7.0.0, Fabric8 :: Kubernetes Model :: Extensions 7.0.0, Fabric8 :: Kubernetes Model :: FlowControl 7.0.0, Fabric8 :: Kubernetes Model :: Metrics 7.0.0, Fabric8 :: Kubernetes Model :: Networking 7.0.0, Fabric8 :: Kubernetes Model :: Node 7.0.0, Fabric8 :: Kubernetes Model :: Policy 7.0.0, Fabric8 :: Kubernetes Model :: RBAC 7.0.0, Fabric8 :: Kubernetes Model :: Resource 7.0.0, Fabric8 :: Kubernetes Model :: Scheduling 7.0.0, Fabric8 :: Kubernetes Model :: Sigs :: Gateway API 7.0.0, Fabric8 :: Kubernetes Model :: Storage Class 7.0.0, FindBugs jsr305 3.0.2, googleguava 33.5.0-jre, Guava InternalFutureFailureAccess and InternalFutures 1.0.3, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, j2objc - Java to IOS 3.1, Jackson Integration for Metrics 4.2.16, jackson-annotations 2.20, jackson-bom 2.20.0, jackson-core 2.20.0, jackson-databind 2.20.0, jackson-dataformat-yaml 2.20.0, Jackson-Datatype-JSR310 2.20.0, jackson-module-jsonSchema 2.20.0, Jackson-module-parameter-names 2.20.0, jackson-modules-java8 2.20.0, jakartaeevalidation 1.1.0, JCL 1.2 Implemented Over SLF4J 2.0.17, Jetbrains annotations 13.0, JSpecify annotations 1.0.0, JVM Integration for Metrics 4.2.16, Kotlin 1.9.10, kotlin-stdlib-common 1.9.10, Metrics Core 4.2.16, micrometer-bom 1.10.5, micrometer-commons 1.10.5, micrometer-metrics 1.10.5, micrometer-observation 1.10.5, micrometer-registry-prometheus 1.10.5, Netty Project 4.1.128, Netty/BOM 4.1.128.Final, Netty/Transport/Classes/Epoll 4.1.128.Final, Netty/Transport/Native/Unix/Common 4.1.128.Final, OkHttp 4.12.0, OkHttp (Bill of Materials) 4.12.0, OkHttp Logging Interceptor 4.12.0, OpenSearch Java Client 2.22.0, OpenTelemetry Java 1.29.0, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.9.10, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.9.10, picocli - a mighty tiny Command Line Interface 4.7.1, Prometheus Java Simpleclient 0.16.0, Prometheus Java Simpleclient Common 0.16.0, Prometheus Java Span Context Supplier - Common 0.16.0, Prometheus Java Span Context Supplier - OpenTelemetry 0.16.0, Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.16.0, reactor-core 3.6.9, rest 2.19.1, SnakeYAML 2.4, SnakeYAML Engine 2.8, squareokio 3.6.0, tuweni-toml 2.0.0, vertx-auth-common 4.5.11, vertx-web-client 4.5.11, vertx-web-common 4.5.11, zjsonpatch 7.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -1890,7 +1889,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 MIT No Attribution
-(reactive-streams 1.0.4)
+(reactive-streams-jvm 1.0.4)
 
 MIT No Attribution
 ==================
