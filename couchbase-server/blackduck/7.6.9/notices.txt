@@ -2430,7 +2430,7 @@ libevent 2.1.11: http://libevent.org/ : BSD 3-clause "New" or "Revised" License
 libgcc 13.2.0: http://gcc.gnu.org : BSD 3-clause "New" or "Revised" License
 libicu 71.1: http://www.icu-project.org/ : (MIT License AND Public Domain AND Unicode Character Database Terms Of Use)
 libnuma1 2.0.11: http://oss.sgi.com/projects/libnuma/ : GNU Lesser General Public License v2.1 or later
-libsodium 1.0.18: https://github.com/jedisct1/libsodium : ISC License
+libsodium 1.0.21-RELEASE: https://github.com/jedisct1/libsodium : ISC License
 libstdc++ 13.2.0: http://gcc.gnu.org/ : GNU General Public License v3.0 w/GCC Runtime Library exception
 liburing 0.6: https://github.com/axboe/liburing : MIT License
 libuv 1.20.3: http://libuv.org : (MIT License AND ISC License AND BSD 3-clause "New" or "Revised" License)
@@ -3140,7 +3140,7 @@ safe-buffer 5.1.2: https://github.com/feross/safe-buffer : MIT License
 safe-buffer 5.2.1: https://github.com/feross/safe-buffer : MIT License
 safe-regex-test 1.0.0: https://github.com/ljharb/safe-regex-test#readme : MIT License
 safer-buffer 2.1.2: https://github.com/ChALkeR/safer-buffer#readme : MIT License
-samccone/chrome-trace-event 1.0.3: https://github.com/joyent/node-trace-event#readme : MIT License
+samccone/chrome-trace-event 1.0.3: https://github.com/samccone/chrome-trace-event : MIT License
 sanitize-html 2.17.0: https://github.com/punkave/sanitize-html : MIT License
 sanitize.css 13.0.0: https://github.com/jonathantneal/sanitize.css : Creative Commons Zero v1.0 Universal
 santhosh-tekuri/jsonschema v1.2.4: https://github.com/santhosh-tekuri/jsonschema : BSD 3-clause "New" or "Revised" License
@@ -11967,26 +11967,6 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(libsodium 1.0.18)
-
-*
- *
-
-Permission to use, copy, modify, and/or distribute this software for any
- * purpose with or without fee is hereby granted, provided that the above
- * copyright notice and this permission notice appear in all copies.
- *
- * THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
- * WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
- * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
- * ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
- * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
- * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
- * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
-
----
-
-ISC License
 (validate-npm-package-name 3.0.0)
 
 Copyright (c) 2015, npm, Inc
@@ -12170,7 +12150,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(@ungap/structured-clone 1.2.0, boolbase 1.0.0, cliui 8.0.1, css-declaration-sorter 6.3.1, electron-to-chromium 1.5.177, eslint-plugin-promise 4.2.1, fastq 1.15.0, flatted 3.2.7, flatted 3.2.9, jbcrypt 0.4, libuv 1.20.3, minimatch 5.1.0, node-glob 7.2.3, node-graceful-fs 4.2.11, node-lru-cache 11.1.0, node-lru-cache 7.18.3, NPM idb 7.1.0, picocolors 1.1.1, python-certifi 2025.8.3, run-queue 1.0.3, semver 6.3.1, semver 7.5.4, semver 7.7.2, v8-to-istanbul 9.0.1, write-file-atomic 4.0.2, yargs-parser 21.1.1)
+(@ungap/structured-clone 1.2.0, boolbase 1.0.0, cliui 8.0.1, css-declaration-sorter 6.3.1, electron-to-chromium 1.5.177, eslint-plugin-promise 4.2.1, fastq 1.15.0, flatted 3.2.7, flatted 3.2.9, jbcrypt 0.4, libsodium 1.0.21-RELEASE, libuv 1.20.3, minimatch 5.1.0, node-glob 7.2.3, node-graceful-fs 4.2.11, node-lru-cache 11.1.0, node-lru-cache 7.18.3, NPM idb 7.1.0, picocolors 1.1.1, python-certifi 2025.8.3, run-queue 1.0.3, semver 6.3.1, semver 7.5.4, semver 7.7.2, v8-to-istanbul 9.0.1, write-file-atomic 4.0.2, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
