@@ -277,7 +277,6 @@ at-least-node 1.0.0: https://github.com/RyanZim/at-least-node#readme : ISC Licen
 atob 2.1.2: https://github.com/node-browser-compat/atob : (MIT License OR Apache License 2.0)
 autoComplete.js 0.36.0: https://github.com/commadelimited/autoComplete.js : MIT License
 Autoprefixer 9.8.6: https://github.com/postcss/autoprefixer : MIT License
-aws-sign 0.7.0: https://github.com/request/aws-sign : Apache License 2.0
 aws4 v1.11.0: https://github.com/mhart/aws4 : MIT License
 azz/pretty-quick 3.1.1: https://github.com/azz/pretty-quick#readme : MIT License
 babel-loader 8.2.2: https://github.com/babel/babel-loader : MIT License
@@ -304,8 +303,6 @@ body-parser 1.19.0: https://github.com/expressjs/body-parser : MIT License
 bonjour 3.5.0: https://github.com/watson/bonjour : MIT License
 boolbase 1.0.0 : ISC License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
-braces 2.3.2: https://github.com/jonschlinkert/braces : MIT License
-braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 brorand 1.1.0: https://github.com/indutny/brorand : MIT License
 browser-process-hrtime 1.0.0: https://github.com/kumavis/browser-process-hrtime#readme : BSD 2-clause "Simplified" License
 browserify-aes 1.2.0: https://github.com/crypto-browserify/browserify-aes : MIT License
@@ -666,6 +663,7 @@ https-proxy-agent 5.0.0: https://github.com/TooTallNate/node-https-proxy-agent :
 human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 iarna/gauge v2.7.4: https://github.com/iarna/gauge : ISC License
+iarna/write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
 iconv-lite v0.4.24: https://github.com/ashtuchkin/iconv-lite : MIT License
 icss-replace-symbols 1.1.0: https://github.com/css-modules/icss-replace-symbols#readme : ISC License
 icss-utils 4.1.1: https://github.com/css-modules/icss-utils#readme : ISC License
@@ -893,7 +891,10 @@ merge2 1.4.1: https://github.com/teambition/merge2 : MIT License
 methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 micromatch 3.1.10: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch 4.0.4: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 2.3.2: https://github.com/micromatch/braces : MIT License
+micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsofttslib 1.14.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
+mikeal/aws-sign 0.7.0: https://github.com/mikeal/aws-sign : Apache License 2.0
 mikeal/oauth-sign 0.9.0: https://github.com/mikeal/oauth-sign : Apache License 2.0
 miller-rabin 4.0.1: https://github.com/indutny/miller-rabin : MIT License
 mime 1.6.0: https://github.com/broofa/node-mime : MIT License
@@ -1178,6 +1179,7 @@ renderkid 2.0.7: https://github.com/AriaMinaei/renderkid : MIT License
 repeat-element 1.1.4: https://github.com/jonschlinkert/repeat-element : MIT License
 repeat-string 1.6.1: https://github.com/jonschlinkert/repeat-string : MIT License
 Request -  Simple HTTP Client 2.88.2: https://github.com/mikeal/request : Apache License 2.0
+request/tunnel-agent 0.6.0: https://github.com/request/tunnel-agent : Apache License 2.0
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 require-from-string 2.0.2: https://github.com/floatdrop/require-from-string : MIT License
 require-main-filename 2.0.0: https://github.com/yargs/require-main-filename#readme : ISC License
@@ -1207,7 +1209,7 @@ safe-buffer 5.1.2: https://github.com/feross/safe-buffer : MIT License
 safe-buffer 5.2.1: https://github.com/feross/safe-buffer : MIT License
 safe-regex 1.1.0: https://github.com/substack/safe-regex : MIT License
 safer-buffer 2.1.2: https://github.com/ChALkeR/safer-buffer#readme : MIT License
-samccone/chrome-trace-event 1.0.3: https://github.com/samccone/chrome-trace-event : MIT License
+samccone/chrome-trace-event 1.0.3: https://github.com/joyent/node-trace-event#readme : MIT License
 sax-js 1.2.4: http://github.com/isaacs/sax-js : ISC License
 saxes 5.0.1: https://github.com/lddubeau/saxes : ISC License
 schema-utils 1.0.0: https://github.com/webpack-contrib/schema-utils#readme : MIT License
@@ -1355,7 +1357,6 @@ tr46 2.1.0: https://github.com/Sebmaster/tr46.js#readme : MIT License
 ts-jest 27.0.4: https://github.com/kulshekhar/ts-jest : MIT License
 tsutils 3.21.0: https://github.com/ajafff/tsutils#readme : MIT License
 tty-browserify 0.0.0: https://github.com/browserify/tty-browserify : MIT License
-tunnel-agent 0.6.0: https://github.com/mikeal/tunnel-agent : Apache License 2.0
 tweetnacl-js 0.14.5: https://github.com/dchest/tweetnacl-js : The Unlicense
 Two-Screen/stable 0.1.8: https://github.com/Two-Screen/stable : MIT License
 type-check 0.3.2: https://github.com/gkz/type-check : MIT License
@@ -1465,7 +1466,6 @@ wrap-ansi v5.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
-write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
 xdg-basedir 4.0.0: https://github.com/sindresorhus/xdg-basedir : MIT License
 xml-name-validator 3.0.0: https://github.com/jsdom/xml-name-validator : Apache License 2.0
 xmlchars 2.2.0: https://github.com/lddubeau/xmlchars#readme : MIT License
@@ -1638,7 +1638,7 @@ interfere with or be responsible for such uses by You.
 ---
 
 Apache License 2.0
-(@humanwhocodes/config-array 0.5.0, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, through 2.3.8, tunnel-agent 0.6.0, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.3.5, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
+(@humanwhocodes/config-array 0.5.0, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/aws-sign 0.7.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, request/tunnel-agent 0.6.0, through 2.3.8, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.3.5, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -4553,7 +4553,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(write-file-atomic 3.0.3)
+(iarna/write-file-atomic 3.0.3)
 
 Upstream-Contact: https://github.com/iarna/write-file-atomic/issues
 Source: https://github.com/iarna/write-file-atomic
@@ -8646,7 +8646,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(assemble/gray-matter 4.0.3, braces 2.3.2, micromatch 3.1.10, normalize-path 3.0.0)
+(assemble/gray-matter 4.0.3, micromatch 3.1.10, micromatch/braces 2.3.2, normalize-path 3.0.0)
 
 The MIT License (MIT)
 
@@ -14785,7 +14785,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(braces 3.0.2)
+(micromatch/braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
