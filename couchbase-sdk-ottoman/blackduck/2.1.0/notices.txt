@@ -663,7 +663,6 @@ https-proxy-agent 5.0.0: https://github.com/TooTallNate/node-https-proxy-agent :
 human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 iarna/gauge v2.7.4: https://github.com/iarna/gauge : ISC License
-iarna/write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
 iconv-lite v0.4.24: https://github.com/ashtuchkin/iconv-lite : MIT License
 icss-replace-symbols 1.1.0: https://github.com/css-modules/icss-replace-symbols#readme : ISC License
 icss-utils 4.1.1: https://github.com/css-modules/icss-utils#readme : ISC License
@@ -1209,7 +1208,7 @@ safe-buffer 5.1.2: https://github.com/feross/safe-buffer : MIT License
 safe-buffer 5.2.1: https://github.com/feross/safe-buffer : MIT License
 safe-regex 1.1.0: https://github.com/substack/safe-regex : MIT License
 safer-buffer 2.1.2: https://github.com/ChALkeR/safer-buffer#readme : MIT License
-samccone/chrome-trace-event 1.0.3: https://github.com/joyent/node-trace-event#readme : MIT License
+samccone/chrome-trace-event 1.0.3: https://github.com/samccone/chrome-trace-event : MIT License
 sax-js 1.2.4: http://github.com/isaacs/sax-js : ISC License
 saxes 5.0.1: https://github.com/lddubeau/saxes : ISC License
 schema-utils 1.0.0: https://github.com/webpack-contrib/schema-utils#readme : MIT License
@@ -1466,6 +1465,7 @@ wrap-ansi v5.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
+write-file-atomic 3.0.3: https://github.com/npm/write-file-atomic : ISC License
 xdg-basedir 4.0.0: https://github.com/sindresorhus/xdg-basedir : MIT License
 xml-name-validator 3.0.0: https://github.com/jsdom/xml-name-validator : Apache License 2.0
 xmlchars 2.2.0: https://github.com/lddubeau/xmlchars#readme : MIT License
@@ -4553,7 +4553,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(iarna/write-file-atomic 3.0.3)
+(write-file-atomic 3.0.3)
 
 Upstream-Contact: https://github.com/iarna/write-file-atomic/issues
 Source: https://github.com/iarna/write-file-atomic
