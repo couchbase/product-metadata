@@ -1,12 +1,12 @@
 ,Component name,Component version name,Match type,License names,License families,Review Status,Component id,Version id,License ids
 0,DnsClient,1.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3976e60c-9a76-4632-bf6b-71f45b9acdcc,5c1ffbfa-ee5c-4ec6-9d0c-f39ebde1703d,7cae335f-1193-421e-92f1-8802b4243e93
-1,Google API Common Protos,2.16.0,Direct Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,b8a0e3f3-30b3-4ca9-9600-4463fae8760f,ec78d75e-8337-4967-a9af-68acf99b5283,cc875133-df38-4806-9921-473e0ef01a87
-2,Google.Protobuf/C#,3.31.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8651a885-94ee-452f-93d7-9f25aea647d3,c38c3379-d9a7-4ba3-9592-e3fbfe48d6be,3d238144-44e6-450e-b523-3defbdaed9dc
+1,Google API Common Protos,2.17.0,Direct Dependency,Creative Commons Attribution 3.0,PERMISSIVE,NOT_REVIEWED,b8a0e3f3-30b3-4ca9-9600-4463fae8760f,7813a662-3c15-4b55-8686-638b3d6c0272,6958c970-4ceb-419e-8316-206151b9714a
+2,Google.Protobuf/C#,3.33.2,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8651a885-94ee-452f-93d7-9f25aea647d3,bd63c9d1-7a88-46d4-aaea-5d1f138a66b8,3d238144-44e6-450e-b523-3defbdaed9dc
 3,Grpc.Net.Client,2.71.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9b7764b8-8d81-47d6-9c05-39ed87ea123e,acb4a295-b6cb-4bf9-9f82-0f0d25e28322,7cae335f-1193-421e-92f1-8802b4243e93
 4,Grpc.Net.ClientFactory,2.71.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,808557c6-2765-4a9f-8cb0-cdf59e2a08ff,883f2104-b6c4-472f-a5c5-c43783f9deb2,7cae335f-1193-421e-92f1-8802b4243e93
-5,Grpc.Tools,2.72.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7d5a44d7-00cb-40cb-978b-17809fd1ba2f,ab7ad282-45d5-47e5-90fc-2a048a5779ee,7cae335f-1193-421e-92f1-8802b4243e93
-6,Json.NET,13.0.3,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,971d8668-3569-4386-8043-912678d3687e,da4fcd7d-46dc-45a4-85e0-0a305e8d244c,ad705c59-6893-4980-bdbf-0837f1823cc4
-7,Microsoft.Bcl.HashCode,1.1.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,2f31e35e-4e23-4735-ba79-49b197563db9,75bef2ed-101a-445f-994c-b6aad3921743,ad705c59-6893-4980-bdbf-0837f1823cc4
+5,Grpc.Tools,2.76.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7d5a44d7-00cb-40cb-978b-17809fd1ba2f,92f5cd84-69e2-4561-b616-e439dddb23fa,7cae335f-1193-421e-92f1-8802b4243e93
+6,Json.NET,13.0.4,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,971d8668-3569-4386-8043-912678d3687e,dbe77666-8dc8-4e00-a7ba-db2be6c8575a,ad705c59-6893-4980-bdbf-0837f1823cc4
+7,Microsoft.Bcl.HashCode,6.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,2f31e35e-4e23-4735-ba79-49b197563db9,85eca272-0330-4888-8d70-e42a2ba65b5e,ad705c59-6893-4980-bdbf-0837f1823cc4
 8,Microsoft.Bcl.TimeProvider,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,5ba7dd64-5539-47ea-92a8-9b715c9e90a0,708e694c-aeb5-4362-a4dc-0697a908501d,ad705c59-6893-4980-bdbf-0837f1823cc4
 9,Microsoft.Extensions.Configuration,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d663372b-2dad-49d4-917e-053efa986cd2,2dcb965c-1231-41bb-ae83-64ac43c21ff9,ad705c59-6893-4980-bdbf-0837f1823cc4
 10,Microsoft.Extensions.Configuration.Binder,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,155ced88-f56d-4c1f-8fcd-3440f05a672a,ac06dfc5-85dc-4b75-964d-e6f90322a6da,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -16,13 +16,13 @@
 14,Microsoft.Extensions.Logging.Abstractions,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,24d628b8-19ba-4103-b297-c690a556c3fb,35c33729-b2f5-40d7-ad9e-95c5e75154c4,ad705c59-6893-4980-bdbf-0837f1823cc4
 15,Microsoft.Extensions.ObjectPool,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7d0bd187-fed2-42d6-8f3c-95927ec18545,ff8d0db3-6c6d-4987-909f-e0467748df1a,ad705c59-6893-4980-bdbf-0837f1823cc4
 16,Microsoft.Extensions.Options,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d95a7140-4ca9-4d7a-a16f-9439ecc5e0f2,899d6d72-2bd5-4d2d-99bd-f2b7ecaafda0,ad705c59-6893-4980-bdbf-0837f1823cc4
-17,OpenTelemetry,1.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,36fc993c-49f2-4758-83e1-78346922d243,817e3cd3-c115-4a16-a2fa-c469a6695fc9,7cae335f-1193-421e-92f1-8802b4243e93
-18,OpenTelemetry.Api,1.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,95b05ae7-a927-459f-8058-493846705f55,662a7a8d-1341-42a6-9c0d-11b443b3d3d3,7cae335f-1193-421e-92f1-8802b4243e93
+17,OpenTelemetry,1.14.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,36fc993c-49f2-4758-83e1-78346922d243,beeb3269-5f0d-4e86-9d4a-465c33b06e2f,7cae335f-1193-421e-92f1-8802b4243e93
+18,OpenTelemetry.Api,1.14.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,95b05ae7-a927-459f-8058-493846705f55,7b79ccfb-f9b2-48f1-a2dc-e9e614dac17f,7cae335f-1193-421e-92f1-8802b4243e93
 19,Snappier,1.2.0,Direct Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,1cdf078a-f6f5-4f5b-a62b-23f0cbf6067a,b365729f-b0cb-4ed9-9036-dd4f78947b74,cc875133-df38-4806-9921-473e0ef01a87
 20,System.Diagnostics.DiagnosticSource,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,443e8518-fdc6-469a-87b7-0460282ecd04,1a9b79f3-0ef9-4321-aed4-f8c33ebd32df,ad705c59-6893-4980-bdbf-0837f1823cc4
 21,System.IO.Hashing,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,98048ab4-4d22-4469-a427-261343259da7,017b0a96-30f3-4d3a-806e-a489e86c17ee,ad705c59-6893-4980-bdbf-0837f1823cc4
 22,System.IO.Pipelines,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e6de50eb-4750-4ee5-841a-6607930ac06c,a849a18d-2e06-491a-ab9c-364283df3906,ad705c59-6893-4980-bdbf-0837f1823cc4
-23,System.Linq.Async,6.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6169a142-be09-42ff-95be-5f1e915ea0e5,a9a4cc51-4430-45da-8886-fa398187ef93,ad705c59-6893-4980-bdbf-0837f1823cc4
+23,System.Linq.Async,7.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6169a142-be09-42ff-95be-5f1e915ea0e5,5f22ed01-0fe3-4976-a1f8-82837808bcde,ad705c59-6893-4980-bdbf-0837f1823cc4
 24,System.Linq.AsyncEnumerable,10.0.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,5c70c36c-65bb-4e10-ad08-a6174a08e771,9276c8f0-669f-4fbf-a835-122db122aa09,ad705c59-6893-4980-bdbf-0837f1823cc4
 25,System.Memory,4.6.3,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ee37d2df-9ae9-4904-ae40-c221aff87c61,cf446bf1-54a1-43da-bbf1-8d39b839b5c8,ad705c59-6893-4980-bdbf-0837f1823cc4
 26,System.Reflection.Emit,4.7.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1aa399cd-9d31-4d2d-b0ef-d5fd938e7c6f,40274b87-932e-4570-86bf-2ea25085edc3,ad705c59-6893-4980-bdbf-0837f1823cc4
