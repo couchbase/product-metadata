@@ -9,21 +9,21 @@
 7,PyYAML,6.0.3,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,df6e6bf5-8732-4810-83d8-f40a1939a59f,22fdd37c-0f4a-4b4a-b83d-cf9579ef7f9f,ad705c59-6893-4980-bdbf-0837f1823cc4
 8,Python six,1.17.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,69184346-b974-4064-88a3-134a17f6bbb5,17070f8f-549f-48e3-bdc0-6fd4341ec36f,ad705c59-6893-4980-bdbf-0837f1823cc4
 9,SQLAlchemy,2.0.45,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f9dc2132-1f7c-4023-a16a-efadce634871,b082347e-b857-40c8-b702-4c2373889500,ad705c59-6893-4980-bdbf-0837f1823cc4
-10,SciPy,1.16.3,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,4d279efb-955f-4770-a413-49169f493a75,31bd510a-c6ec-4919-9851-9ae24ced8f1a,3d238144-44e6-450e-b523-3defbdaed9dc
+10,SciPy,1.17.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,4d279efb-955f-4770-a413-49169f493a75,c286c6c5-907c-42e2-a2dc-526674cf6819,3d238144-44e6-450e-b523-3defbdaed9dc
 11,SymPy,1.14.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8702b4ea-e0ca-4129-b085-49a0a528142e,0d6863ea-d23d-42f1-941d-622e0319e444,3d238144-44e6-450e-b523-3defbdaed9dc
-12,Werkzeug,3.1.4,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,3825be3a-fed9-4aae-b49a-d28cc97134f6,b47fca4c-8175-42ec-9bc0-7529617606e1,3d238144-44e6-450e-b523-3defbdaed9dc
+12,Werkzeug,3.1.5,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,3825be3a-fed9-4aae-b49a-d28cc97134f6,7d223373-964c-4918-8438-1bae2b4477ac,3d238144-44e6-450e-b523-3defbdaed9dc
 13,aiohappyeyeballs,2.6.1,Transitive Dependency,Python Software Foundation License 2.0,PERMISSIVE,NOT_REVIEWED,a34e1323-4176-458a-8600-75689b8d8ba9,927b867d-3ac9-4b95-937b-96e2eea0285d,ead40028-7962-4fc0-9be5-2b956cd4714a
 14,aiohttp,3.13.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,11632863-4a1a-42f9-922c-e2f2e87455fc,d8dd4145-4b38-48d5-aac9-0fd3c7a51225,7cae335f-1193-421e-92f1-8802b4243e93
 15,aiosignal,1.4.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,07e335ba-2afd-4e47-b705-cea7549398b5,c2ebaaee-2c4f-4eb0-825f-d5b84053840c,7cae335f-1193-421e-92f1-8802b4243e93
 16,annotated-types,0.7.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8043d6f4-e2de-44f6-9bf3-4c0ee7de334f,97d68e0b-16cb-46a0-ac87-a4753f39809d,ad705c59-6893-4980-bdbf-0837f1823cc4
 17,anyio,4.12.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,38ea1732-3693-43c0-90ad-393a8c86f57b,27497bca-3a71-44a6-8b58-ae0058b584e4,ad705c59-6893-4980-bdbf-0837f1823cc4
 18,blinker-pypi,1.9.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a9442b4b-95d2-4734-a83b-261d8bc49c74,82792d58-5113-4b74-b046-ac2a9c1ee3f2,ad705c59-6893-4980-bdbf-0837f1823cc4
-19,boto3,1.42.23,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,359ae0d6-dd94-44f6-a6a6-f16d1a4ce87f,b18ba40f-7355-464e-b267-e09bbb937e18,7cae335f-1193-421e-92f1-8802b4243e93
-20,botocore,1.42.23,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1d033c2e-1492-4002-afd0-a68c123934a7,c3efa22c-68ec-483a-ae0a-b0c3817d5fe0,7cae335f-1193-421e-92f1-8802b4243e93
+19,boto3,1.42.30,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,359ae0d6-dd94-44f6-a6a6-f16d1a4ce87f,a27dd9a8-2443-4156-afc4-18e634713c0a,7cae335f-1193-421e-92f1-8802b4243e93
+20,botocore,1.42.30,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1d033c2e-1492-4002-afd0-a68c123934a7,3b0fa7e0-4150-4894-afde-cdf76d341ea5,7cae335f-1193-421e-92f1-8802b4243e93
 21,client_python,0.21.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,447813b7-dbf2-4290-89ae-1aac0b14ece4,1775eb41-be9f-4d75-b20b-c1b5e04ce5b7,7cae335f-1193-421e-92f1-8802b4243e93
 22,colorama,0.4.6,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,7881fc93-08be-4c7c-a706-96dc08608748,bf874d5c-156c-4104-a801-bcd3e185ecf3,3d238144-44e6-450e-b523-3defbdaed9dc
 23,couchbase-python-client,4.5.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,38a09da5-4b7a-4e96-be95-b2368cc14ffb,c6136847-f79f-4293-8626-9b15a0032dfe,7cae335f-1193-421e-92f1-8802b4243e93
-24,filesystem_spec,2025.12.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f7743b52-73ff-4883-b366-b17320b7ca5a,affb4512-251b-4575-8946-c73b720df3d3,3d238144-44e6-450e-b523-3defbdaed9dc
+24,filesystem_spec,2026.1.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f7743b52-73ff-4883-b366-b17320b7ca5a,d9b7c82c-496c-4868-bbcb-79e5855257ec,3d238144-44e6-450e-b523-3defbdaed9dc
 25,flask-swagger-ui,5.21.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a49f5467-c068-461d-b544-0ba53765a067,c479e5dd-4cba-43ec-ae8f-9ce66e63fec4,ad705c59-6893-4980-bdbf-0837f1823cc4
 26,frozenlist,1.8.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5185b17e-256f-47ef-86be-561a67894e41,7f84367e-24ea-48f8-9057-7fc966a5f5eb,7cae335f-1193-421e-92f1-8802b4243e93
 27,greenlet,3.3.0,Transitive Dependency,(Python Software Foundation License 2.0 AND MIT License),PERMISSIVE,NOT_REVIEWED,391dd02c-ce21-4efd-a240-70b9b11dee8c,807d981b-27f8-452b-9c49-c5b1802180b1,"ead40028-7962-4fc0-9be5-2b956cd4714a,ad705c59-6893-4980-bdbf-0837f1823cc4"
@@ -49,13 +49,13 @@
 47,orjson,3.11.5,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,db84a450-62db-4c14-8f35-d9c3f6ad4fa0,0902c15f-4b0c-4124-8216-edc6a6ece453,7cae335f-1193-421e-92f1-8802b4243e93
 48,propcache,0.4.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9da8f77b-614d-4b19-987d-212c98e45f05,3b039f45-0e3c-45a1-a750-d46e23cbc085,7cae335f-1193-421e-92f1-8802b4243e93
 49,psf-requests,2.32.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,93b03de5-fedb-4162-8a18-7f19fdbd252e,4b581fbd-dc24-4668-a3e5-9dfdd298ec64,7cae335f-1193-421e-92f1-8802b4243e93
-50,py-filelock,3.20.2,Transitive Dependency,The Unlicense,PERMISSIVE,NOT_REVIEWED,5df6045a-3346-4e63-86c7-4d2da5600b36,843057f6-319d-42ee-b4d5-59fefcbb932d,57b1f355-a0a0-4f5e-b4dd-019296e4eda6
+50,py-filelock,3.20.3,Transitive Dependency,The Unlicense,PERMISSIVE,NOT_REVIEWED,5df6045a-3346-4e63-86c7-4d2da5600b36,2a43d4db-15ec-4424-9da4-9eef76c93acd,57b1f355-a0a0-4f5e-b4dd-019296e4eda6
 51,pyca/cryptography,46.0.3,Transitive Dependency,"(Apache License 2.0 OR BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,f09c05ab-0954-400d-94e9-4de512ed42fa,c37a84f7-3f04-4654-868e-c3b29d6f713f,"3d238144-44e6-450e-b523-3defbdaed9dc,7cae335f-1193-421e-92f1-8802b4243e93"
 52,pycparser,2.23,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,d4148456-5d7e-49b5-8ffe-c65d67ee52a6,b77277a2-4269-4af9-84ec-ec4bad1f144a,3d238144-44e6-450e-b523-3defbdaed9dc
 53,pydantic,2.12.5,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f69cd983-6690-4bf7-8658-6abe66f162fc,944d03e0-67ab-48bb-9cf5-e066d990abc0,ad705c59-6893-4980-bdbf-0837f1823cc4
 54,pydantic-core,2.41.5,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,85a80765-0235-49d3-b68e-ceeeb7950091,26c529e6-0cae-4f1a-aa79-a61284edafb6,ad705c59-6893-4980-bdbf-0837f1823cc4
 55,pydantic-settings,2.12.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,3dfde261-2b64-4083-99dc-08e42647990c,95a57432-7317-423a-81c5-bfc2b116533a,ad705c59-6893-4980-bdbf-0837f1823cc4
-56,pypdf,6.5.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,6fb66d55-3dbf-48d2-88a6-f5d200aa104e,b10394f4-8bac-428f-82be-4b684b7077aa,3d238144-44e6-450e-b523-3defbdaed9dc
+56,pypdf,6.6.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,6fb66d55-3dbf-48d2-88a6-f5d200aa104e,082cd5ab-93e6-4c5f-ab3b-35152b489ae1,3d238144-44e6-450e-b523-3defbdaed9dc
 57,pypi/setuptools,80.9.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a488e32d-5039-4ed8-b086-8890c82b498b,4d242126-4913-47f9-84ff-5adbb2518159,ad705c59-6893-4980-bdbf-0837f1823cc4
 58,python cffi,2.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a136afda-2456-41df-a8f4-2d74ef679b21,a5aba652-ab48-4b20-a55f-40e6dc8f64c1,ad705c59-6893-4980-bdbf-0837f1823cc4
 59,python-attrs,25.4.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7b146d8b-6955-44b7-ae48-d9f38864735f,8338730a-4919-476c-b0d0-aa962a543ff1,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -66,7 +66,7 @@
 64,python-json-pointer,3.0.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,497a9146-3750-458a-a1a4-1ef2551f8afb,73b18fbd-7229-4f67-9ccd-602c45851975,3d238144-44e6-450e-b523-3defbdaed9dc
 65,python-typing-extensions,4.15.0,Transitive Dependency,Python Software Foundation License 2.0,PERMISSIVE,NOT_REVIEWED,44bc70cc-eda9-475d-acf1-584efb2f7d3f,ca6780ed-0b2a-4e99-8f2f-f84f404f0a88,ead40028-7962-4fc0-9be5-2b956cd4714a
 66,python3-charset-normalizer,3.4.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,961db792-aeb0-450b-ba00-4f9b0afa6dda,ee9cf976-bc0d-429e-863f-4b196b51b5f9,ad705c59-6893-4980-bdbf-0837f1823cc4
-67,regex,2025.11.3,Transitive Dependency,(CNRI Python License AND Apache License 2.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,cc0a1056-7bbe-40d3-9a57-05eb091f818f,7a3a006b-659d-43f8-82b3-1aa77bd560ff,"f7a13ec7-4f6b-418e-b8a4-61c3af710704,7cae335f-1193-421e-92f1-8802b4243e93"
+67,regex,2026.1.15,Transitive Dependency,(CNRI Python License AND Apache License 2.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,cc0a1056-7bbe-40d3-9a57-05eb091f818f,579a930c-b833-47af-940b-3fe40561f2df,"f7a13ec7-4f6b-418e-b8a4-61c3af710704,7cae335f-1193-421e-92f1-8802b4243e93"
 68,requests-toolbelt,1.0.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,06b17c61-ca1c-4b52-bc10-89abd65ad897,b50820d8-6a0a-4204-aea5-785c86595bd2,7cae335f-1193-421e-92f1-8802b4243e93
 69,s3,0.1.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a48001fb-3241-4440-96e5-1e03c2e8da84,f14ba9d2-a1e4-4e37-bd7b-4a3652887c4a,ad705c59-6893-4980-bdbf-0837f1823cc4
 70,s3transfer,0.16.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bd625a2c-ddf5-400f-91af-8cc535575d0e,f03d5d8b-fe45-402d-87bc-3a13c3f2d1c7,7cae335f-1193-421e-92f1-8802b4243e93
@@ -79,8 +79,8 @@
 77,tiktoken,0.9.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8202c4e8-28e5-4d6b-82b9-4f0c8d518e11,fab228e5-14a9-4d71-8fe6-91d647b628ee,ad705c59-6893-4980-bdbf-0837f1823cc4
 78,tokenizers,0.22.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6a4fdfce-985d-4a35-9250-ff714d8cc5c7,06146d0f-9d71-40da-9e29-ad51a3566e80,7cae335f-1193-421e-92f1-8802b4243e93
 79,tqdm,4.67.1,Transitive Dependency,(MIT License AND Mozilla Public License 2.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,ccb750cb-70f4-450b-979b-bc403c947137,d45af71f-e513-4814-8ff1-e7197f23d777,"ad705c59-6893-4980-bdbf-0837f1823cc4,ce3dd63e-c569-4cea-986a-46bc5efe9896"
-80,transformers,4.57.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,0f95cac8-fb0b-469c-978a-aabbd02606ff,163e1896-99ce-4395-93d1-05aeaea6a6a4,7cae335f-1193-421e-92f1-8802b4243e93
+80,transformers,4.57.6,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,0f95cac8-fb0b-469c-978a-aabbd02606ff,bc02afc2-35e8-4deb-8ec7-6f2f60ffdd70,7cae335f-1193-421e-92f1-8802b4243e93
 81,typing-inspection,0.4.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dacae299-9789-4999-a5ea-cfd0abd41324,8fa440a4-bb52-41f9-905d-52bff160e62d,ad705c59-6893-4980-bdbf-0837f1823cc4
-82,urllib3,2.6.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d222c710-38b5-4073-8347-63bb6526e77d,30e5eade-23cd-4f30-b436-653348823a0c,ad705c59-6893-4980-bdbf-0837f1823cc4
+82,urllib3,2.6.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d222c710-38b5-4073-8347-63bb6526e77d,a9dd1c71-ca60-42a1-83aa-6b31921dfff4,ad705c59-6893-4980-bdbf-0837f1823cc4
 83,waitress,3.0.2,Direct Dependency,Zope Public License 2.1,PERMISSIVE,NOT_REVIEWED,abd8f4de-598b-4049-835a-f775a0b32d6f,2ab145e0-3eb8-42f2-8f45-d9408857a63c,22f78e79-63e8-449f-9dff-0ce22177f52e
 84,yarl,1.22.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,753f3c70-8c61-479b-8fd3-4fa9ff11eda2,3d0c1247-853c-401d-87ea-700df2f217a8,7cae335f-1193-421e-92f1-8802b4243e93
