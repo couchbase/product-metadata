@@ -13,8 +13,8 @@ Components:
 alexcrichton/cfg-if 1.0.4: https://github.com/alexcrichton/cfg-if : (MIT License OR Apache License 2.0)
 alexcrichton/cmake-rs 0.1.57: https://github.com/alexcrichton/cmake-rs : (MIT License OR Apache License 2.0)
 alexcrichton/jobserver-rs 0.1.34: https://github.com/alexcrichton/jobserver-rs : (MIT License OR Apache License 2.0)
+alexcrichton/proc-macro2 1.0.106: https://github.com/alexcrichton/proc-macro2 : (MIT License OR Apache License 2.0)
 alexcrichton/socket2-rs 0.5.10: https://github.com/alexcrichton/socket2-rs : (MIT License OR Apache License 2.0)
-alexcrichton/socket2-rs 0.6.1: https://github.com/alexcrichton/socket2-rs : (MIT License OR Apache License 2.0)
 anes 0.1.6: https://crates.io/crates/anes : (MIT License OR Apache License 2.0)
 anstream 0.6.21: https://github.com/rust-cli/anstyle : (MIT License OR Apache License 2.0)
 anstyle 1.0.13: https://github.com/rust-cli/anstyle : (MIT License OR Apache License 2.0)
@@ -26,8 +26,6 @@ async-stream-impl 0.3.6: https://github.com/tokio-rs/async-stream : MIT License
 async-trait 0.1.89 : (MIT License OR Apache License 2.0)
 atomic-waker 1.1.2: https://github.com/stjepang/atomic-waker : (MIT License OR Apache License 2.0)
 autocfg 1.5.0 : (MIT License OR Apache License 2.0)
-aws-lc-rs 1.15.3: https://github.com/awslabs/aws-lc-rs : (ISC License AND (ISC License OR Apache License 2.0))
-aws-lc-sys 0.36.0 : ((ISC License AND The Open SSL License) AND (ISC License OR Apache License 2.0))
 axum 0.7.9: https://github.com/tokio-rs/axum : MIT License
 axum-core 0.4.5: https://github.com/tokio-rs/axum : MIT License
 bheisler/criterion.rs 0.6.0: https://bheisler.github.io/criterion.rs/book/index.html : (MIT License OR Apache License 2.0)
@@ -47,7 +45,6 @@ BurntSushi/rust-memchr 2.7.6: https://github.com/BurntSushi/rust-memchr : (MIT L
 BurntSushi/same-file 1.0.6: https://github.com/BurntSushi/same-file : (MIT License AND The Unlicense)
 BurntSushi/walkdir 2.5.0: https://github.com/BurntSushi/walkdir : The Unlicense
 carllerche/iovec 0.1.4: https://github.com/carllerche/iovec : (MIT License OR Apache License 2.0)
-cc-rs 1.2.53: https://docs.rs/cc : (MIT License OR Apache License 2.0)
 chronotope/chrono 0.4.43: https://github.com/chronotope/chrono : (MIT License OR Apache License 2.0)
 ciborium 0.2.2: https://github.com/enarx/ciborium : Apache License 2.0
 ciborium-io 0.2.2: https://github.com/enarx/ciborium : Apache License 2.0
@@ -63,7 +60,6 @@ danburkert/prost 0.13.5 : Apache License 2.0
 digest 0.10.7 : (MIT License OR Apache License 2.0)
 displaydoc 0.2.5: https://github.com/yaahc/displaydoc : (MIT License OR Apache License 2.0)
 dtolnay/itoa 1.0.17 : (MIT License OR Apache License 2.0)
-dtolnay/quote 1.0.43 : (MIT License OR Apache License 2.0)
 dtolnay/ryu 1.0.22 : (Apache License 2.0 OR Boost Software License 1.0)
 dtolnay/serde-yaml 0.9.34+deprecated: http://github.com/dtolnay/serde-yaml/ : (MIT License OR Apache License 2.0)
 dunce 1.0.5: https://gitlab.com/kornelski/dunce : (MIT License OR Creative Commons Zero v1.0 Universal OR Apache License 2.0)
@@ -84,7 +80,7 @@ heck 0.5.0: https://github.com/withoutboats/heck : (MIT License OR Apache Licens
 hickory-proto 0.24.4: https://hickory-dns.org/ : (MIT License OR Apache License 2.0)
 hickory-resolver 0.24.4: https://hickory-dns.org/ : (MIT License OR Apache License 2.0)
 httpdate 1.0.3: https://crates.io/crates/httpdate : (MIT License OR Apache License 2.0)
-Hyper HTTP library 1.8.1: http://hyper.rs : MIT License
+Hyper HTTP library 1.8.1: https://hyper.rs : MIT License
 hyper-rustls 0.27.7: https://github.com/ctz/hyper-rustls : (MIT License OR ISC License OR Apache License 2.0)
 hyper-timeout 0.5.2: https://github.com/hjr3/hyper-timeout : (MIT License OR Apache License 2.0)
 hyper-util 0.1.19: https://hyper.rs : MIT License
@@ -238,7 +234,7 @@ zmij 1.0.16 : MIT License
 Licenses: 
 
 Apache License 2.0
-(alexcrichton/cfg-if 1.0.4, alexcrichton/cmake-rs 0.1.57, alexcrichton/jobserver-rs 0.1.34, alexcrichton/socket2-rs 0.5.10, alexcrichton/socket2-rs 0.6.1, anes 0.1.6, anstream 0.6.21, anstyle 1.0.13, anstyle-parse 0.2.7, anstyle-query 1.1.5, anyhow 1.0.100, async-trait 0.1.89, atomic-waker 1.1.2, autocfg 1.5.0, aws-lc-rs 1.15.3, aws-lc-sys 0.36.0, bheisler/criterion.rs 0.6.0, bheisler/criterion.rs 0.7.0, bheisler/TinyTemplate 1.2.1, bitflags 2.10.0, block-buffer 0.10.4, bluss/either 1.15.0, bluss/indexmap 1.9.3, bluss/indexmap 2.13.0, bluss/scopeguard 1.2.0, briansmith/ring 0.17.14, BurntSushi/regex-automata 0.4.13, carllerche/iovec 0.1.4, cc-rs 1.2.53, chronotope/chrono 0.4.43, ciborium 0.2.2, ciborium-io 0.2.2, ciborium-ll 0.2.2, clap-rs/clap 4.5.54, colorchoice 1.0.4, couchbaselabs/couchbase-rs 1.0.0-beta.1, cpufeatures 0.2.17, crossbeam-deque 0.8.6, crossbeam-epoch 0.9.18, crossbeam-utils 0.8.21, danburkert/prost 0.13.5, digest 0.10.7, displaydoc 0.2.5, dtolnay/itoa 1.0.17, dtolnay/quote 1.0.43, dtolnay/ryu 1.0.22, dtolnay/serde-yaml 0.9.34+deprecated, dunce 1.0.5, enum-as-inner 0.6.1, env_logger 0.11.8, equivalent 1.0.2, errno 0.3.14, form_urlencoded 1.2.2, futures-task 0.3.31, getrandom 0.2.17, getrandom 0.3.4, heck 0.5.0, hickory-proto 0.24.4, hickory-resolver 0.24.4, httpdate 1.0.3, hyper-rustls 0.27.7, hyper-timeout 0.5.2, hyperium/http 1.4.0, iana-time-zone 0.1.64, idna 1.1.0, idna_adapter 1.2.1, ipnet 2.11.0, iri-string 0.7.10, is_terminal_polyfill 1.70.2, japaric/cast.rs 0.3.0, lazy_static 1.5.0, linked-hash-map 0.5.6, lock_api 0.4.14, log 0.4.29, lru-cache 0.1.2, matklad/once_cell 1.21.3, mitsuhiko/rust-sha1 0.10.6, nox/serde_urlencoded 0.7.1, num-traits 0.2.19, paholg/typenum 1.19.0, parking_lot 0.12.5, parking_lot_core 0.9.12, percent-encoding 2.3.2, pin-project 0.4.30, pin-project 1.1.10, pin-project-internal 0.4.30, pin-project-internal 1.1.10, pin-project-lite 0.2.16, pin-utils 0.1.0, ppv-lite86 0.2.21, prost-derive 0.13.5, prost-types 0.13.5, rand_chacha 0.9.0, rand_core 0.6.4, rand_core 0.9.5, rayon 1.11.0, rayon 1.13.0, regex-syntax 0.8.8, resolv-conf 0.7.6, rust-base64 0.22.1, rust-clap_builder 4.5.54, rust-clap_lex 0.7.7, rust-cli/env_logger 0.1.4, rust-itertools/itertools 0.13.0, rust-itertools/itertools 0.14.0, rust-lang-nursery/futures-rs 0.3.0-alpha.19, rust-lang-nursery/futures-rs 0.3.31, rust-lang/cc-rs 0.1.8, rust-lang/hashbrown 0.16.1, rust-lang/hashbrown v0.12.3, rust-lang/libc 0.2.180, rust-random/rand 0.8.5, rust-random/rand 0.9.2, rust-regex 1.12.2, rust-url 2.5.8, RustCrypto/hashes 0.10.9, RustCrypto/MACs 0.12.1, RustCrypto/traits 0.1.7, rustls 0.23.36, rustls-pemfile 2.2.0, rustls-pki-types 1.14.0, rustversion 1.0.22, scc 2.4.0, sdd 3.0.10, seanmonstar/httparse 1.10.1, seanmonstar/reqwest 0.12.28, serde_derive 1.0.228, serde_json 1.0.149, SergioBenitez/version_check 0.9.5, servo/rust-fnv 1.0.7, servo/rust-smallvec 1.15.1, shlex 1.3.0, signal-hook-registry 1.4.8, srijs/rust-crc32fast 1.5.0, stable_deref_trait 1.2.1, starkat99/half-rs 2.7.1, syn 1.0.109, syn 2.0.114, sync_wrapper 1.0.2, thiserror 1.0.69, thiserror-impl 1.0.69, tinyvec 1.10.0, tinyvec_macros 0.1.1, tokio-rustls 0.26.4, utf8_iter 1.0.4, utf8parse 0.2.2, uuid-rs/uuid 1.19.0, vorner/arc-swap 1.8.0, zerocopy 0.8.33, zerocopy-derive 0.8.33, zeroize 1.8.2)
+(alexcrichton/cfg-if 1.0.4, alexcrichton/cmake-rs 0.1.57, alexcrichton/jobserver-rs 0.1.34, alexcrichton/proc-macro2 1.0.106, alexcrichton/socket2-rs 0.5.10, anes 0.1.6, anstream 0.6.21, anstyle 1.0.13, anstyle-parse 0.2.7, anstyle-query 1.1.5, anyhow 1.0.100, async-trait 0.1.89, atomic-waker 1.1.2, autocfg 1.5.0, bheisler/criterion.rs 0.6.0, bheisler/criterion.rs 0.7.0, bheisler/TinyTemplate 1.2.1, bitflags 2.10.0, block-buffer 0.10.4, bluss/either 1.15.0, bluss/indexmap 1.9.3, bluss/indexmap 2.13.0, bluss/scopeguard 1.2.0, briansmith/ring 0.17.14, BurntSushi/regex-automata 0.4.13, carllerche/iovec 0.1.4, chronotope/chrono 0.4.43, ciborium 0.2.2, ciborium-io 0.2.2, ciborium-ll 0.2.2, clap-rs/clap 4.5.54, colorchoice 1.0.4, couchbaselabs/couchbase-rs 1.0.0-beta.1, cpufeatures 0.2.17, crossbeam-deque 0.8.6, crossbeam-epoch 0.9.18, crossbeam-utils 0.8.21, danburkert/prost 0.13.5, digest 0.10.7, displaydoc 0.2.5, dtolnay/itoa 1.0.17, dtolnay/ryu 1.0.22, dtolnay/serde-yaml 0.9.34+deprecated, dunce 1.0.5, enum-as-inner 0.6.1, env_logger 0.11.8, equivalent 1.0.2, errno 0.3.14, form_urlencoded 1.2.2, futures-task 0.3.31, getrandom 0.2.17, getrandom 0.3.4, heck 0.5.0, hickory-proto 0.24.4, hickory-resolver 0.24.4, httpdate 1.0.3, hyper-rustls 0.27.7, hyper-timeout 0.5.2, hyperium/http 1.4.0, iana-time-zone 0.1.64, idna 1.1.0, idna_adapter 1.2.1, ipnet 2.11.0, iri-string 0.7.10, is_terminal_polyfill 1.70.2, japaric/cast.rs 0.3.0, lazy_static 1.5.0, linked-hash-map 0.5.6, lock_api 0.4.14, log 0.4.29, lru-cache 0.1.2, matklad/once_cell 1.21.3, mitsuhiko/rust-sha1 0.10.6, nox/serde_urlencoded 0.7.1, num-traits 0.2.19, paholg/typenum 1.19.0, parking_lot 0.12.5, parking_lot_core 0.9.12, percent-encoding 2.3.2, pin-project 0.4.30, pin-project 1.1.10, pin-project-internal 0.4.30, pin-project-internal 1.1.10, pin-project-lite 0.2.16, pin-utils 0.1.0, ppv-lite86 0.2.21, prost-derive 0.13.5, prost-types 0.13.5, rand_chacha 0.9.0, rand_core 0.6.4, rand_core 0.9.5, rayon 1.11.0, rayon 1.13.0, regex-syntax 0.8.8, resolv-conf 0.7.6, rust-base64 0.22.1, rust-clap_builder 4.5.54, rust-clap_lex 0.7.7, rust-cli/env_logger 0.1.4, rust-itertools/itertools 0.13.0, rust-itertools/itertools 0.14.0, rust-lang-nursery/futures-rs 0.3.0-alpha.19, rust-lang-nursery/futures-rs 0.3.31, rust-lang/cc-rs 0.1.8, rust-lang/hashbrown 0.16.1, rust-lang/hashbrown v0.12.3, rust-lang/libc 0.2.180, rust-random/rand 0.8.5, rust-random/rand 0.9.2, rust-regex 1.12.2, rust-url 2.5.8, RustCrypto/hashes 0.10.9, RustCrypto/MACs 0.12.1, RustCrypto/traits 0.1.7, rustls 0.23.36, rustls-pemfile 2.2.0, rustls-pki-types 1.14.0, rustversion 1.0.22, scc 2.4.0, sdd 3.0.10, seanmonstar/httparse 1.10.1, seanmonstar/reqwest 0.12.28, serde_derive 1.0.228, serde_json 1.0.149, SergioBenitez/version_check 0.9.5, servo/rust-fnv 1.0.7, servo/rust-smallvec 1.15.1, shlex 1.3.0, signal-hook-registry 1.4.8, srijs/rust-crc32fast 1.5.0, stable_deref_trait 1.2.1, starkat99/half-rs 2.7.1, syn 1.0.109, syn 2.0.114, sync_wrapper 1.0.2, thiserror 1.0.69, thiserror-impl 1.0.69, tinyvec 1.10.0, tinyvec_macros 0.1.1, tokio-rustls 0.26.4, utf8_iter 1.0.4, utf8parse 0.2.2, uuid-rs/uuid 1.19.0, vorner/arc-swap 1.8.0, zerocopy 0.8.33, zerocopy-derive 0.8.33, zeroize 1.8.2)
 
 Apache License
 Version 2.0, January 2004
@@ -741,7 +737,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 ISC License
-(aws-lc-rs 1.15.3, aws-lc-sys 0.36.0, briansmith/ring 0.17.14, briansmith/untrusted 0.9.0, hyper-rustls 0.27.7, rustls 0.23.36, rustls-pemfile 2.2.0, rustls-webpki 0.103.9)
+(briansmith/ring 0.17.14, briansmith/untrusted 0.9.0, hyper-rustls 0.27.7, rustls 0.23.36, rustls-pemfile 2.2.0, rustls-webpki 0.103.9)
 
 ISC License (ISCL)
 ==================
@@ -948,7 +944,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(38/plotters 0.3.7, alexcrichton/cfg-if 1.0.4, alexcrichton/cmake-rs 0.1.57, alexcrichton/jobserver-rs 0.1.34, alexcrichton/socket2-rs 0.5.10, alexcrichton/socket2-rs 0.6.1, anes 0.1.6, anstream 0.6.21, anstyle 1.0.13, anstyle-parse 0.2.7, anstyle-query 1.1.5, anyhow 1.0.100, async-stream 0.3.6, async-stream-impl 0.3.6, async-trait 0.1.89, atomic-waker 1.1.2, autocfg 1.5.0, axum 0.7.9, axum-core 0.4.5, bheisler/criterion.rs 0.6.0, bheisler/criterion.rs 0.7.0, bheisler/TinyTemplate 1.2.1, bitflags 2.10.0, block-buffer 0.10.4, bluss/either 1.15.0, bluss/indexmap 1.9.3, bluss/indexmap 2.13.0, BurntSushi/regex-automata 0.4.13, BurntSushi/rust-memchr 2.7.6, BurntSushi/same-file 1.0.6, cc-rs 1.2.53, chronotope/chrono 0.4.43, clap-rs/clap 4.5.54, colorchoice 1.0.4, cpufeatures 0.2.17, crossbeam-deque 0.8.6, crossbeam-epoch 0.9.18, crossbeam-utils 0.8.21, digest 0.10.7, displaydoc 0.2.5, dtolnay/itoa 1.0.17, dtolnay/quote 1.0.43, dtolnay/serde-yaml 0.9.34+deprecated, dunce 1.0.5, enum-as-inner 0.6.1, env_logger 0.11.8, envconfig 0.10.0, envconfig 0.11.1, envconfig_derive 0.10.0, envconfig_derive 0.11.1, equivalent 1.0.2, errno 0.3.14, form_urlencoded 1.2.2, futures-task 0.3.31, generic-array 0.14.7, getrandom 0.2.17, getrandom 0.3.4, heck 0.5.0, hickory-proto 0.24.4, hickory-resolver 0.24.4, httpdate 1.0.3, Hyper HTTP library 1.8.1, hyper-rustls 0.27.7, hyper-timeout 0.5.2, hyper-util 0.1.19, hyperium/h2 0.4.13, hyperium/http 1.4.0, hyperium/http-body 0.1.3, hyperium/http-body 1.0.1, hyperium/mime 0.3.17, ia0/data-encoding 2.10.0, iana-time-zone 0.1.64, idna 1.1.0, idna_adapter 1.2.1, ipnet 2.11.0, iri-string 0.7.10, is_terminal_polyfill 1.70.2, jiff 0.2.18, linked-hash-map 0.5.6, lock_api 0.4.14, log 0.4.29, matchit 0.7.3, matklad/once_cell 1.21.3, mitsuhiko/rust-sha1 0.10.6, num-traits 0.2.19, oorandom 11.1.5, paholg/typenum 1.19.0, parking_lot 0.12.5, parking_lot_core 0.9.12, percent-encoding 2.3.2, pin-project 0.4.30, pin-project 1.1.10, pin-project-internal 0.4.30, pin-project-internal 1.1.10, pin-project-lite 0.2.16, plotters-backend 0.3.7, plotters-svg 0.3.7, ppv-lite86 0.2.21, rand_chacha 0.9.0, rand_core 0.6.4, rand_core 0.9.5, rayon 1.11.0, rayon 1.13.0, regex-syntax 0.8.8, resolv-conf 0.7.6, rust-aho-corasick 1.1.4, rust-base64 0.22.1, rust-clap_builder 4.5.54, rust-clap_lex 0.7.7, rust-cli/env_logger 0.1.4, rust-itertools/itertools 0.13.0, rust-lang-nursery/futures-rs 0.3.31, rust-lang/cc-rs 0.1.8, rust-lang/libc 0.2.180, rust-mio 1.1.1, rust-random/rand 0.8.5, rust-random/rand 0.9.2, rust-regex 1.12.2, rust-url 2.5.8, RustCrypto/hashes 0.10.9, RustCrypto/traits 0.1.7, rustls 0.23.36, rustls-pemfile 2.2.0, rustls-pki-types 1.14.0, rustversion 1.0.22, seanmonstar/reqwest 0.12.28, seanmonstar/try-lock 0.2.5, seanmonstar/want 0.3.1, serde_derive 1.0.228, serde_json 1.0.149, SergioBenitez/version_check 0.9.5, serial_test 3.3.1, serial_test_derive 3.3.1, servo/rust-smallvec 1.15.1, shlex 1.3.0, signal-hook-registry 1.4.8, slab 0.4.11, stable_deref_trait 1.2.1, starkat99/half-rs 2.7.1, synstructure 0.13.2, thiserror 1.0.69, thiserror-impl 1.0.69, tinyvec 1.10.0, tinyvec_macros 0.1.1, tokio 1.49.0, tokio-macros 2.6.0, tokio-rs/bytes 1.11.0, tokio-rustls 0.26.4, tokio-stream 0.1.18, tokio-util 0.7.18, Tonic (gRPC) 0.12.3, tower-http 0.6.8, tower-rs/tower 0.3.3, tower-rs/tower 0.4.13, tower-rs/tower 0.5.3, tracing 0.1.44, tracing-attributes 0.1.31, tracing-core 0.1.36, unsafe-libyaml 0.2.11, urlencoding 2.1.3, utf8_iter 1.0.4, utf8parse 0.2.2, uuid-rs/uuid 1.19.0, vorner/arc-swap 1.8.0, webdesus/fs_extra 1.3.0, zerocopy 0.8.33, zerocopy-derive 0.8.33, zeroize 1.8.2, zmij 1.0.16)
+(38/plotters 0.3.7, alexcrichton/cfg-if 1.0.4, alexcrichton/cmake-rs 0.1.57, alexcrichton/jobserver-rs 0.1.34, alexcrichton/proc-macro2 1.0.106, alexcrichton/socket2-rs 0.5.10, anes 0.1.6, anstream 0.6.21, anstyle 1.0.13, anstyle-parse 0.2.7, anstyle-query 1.1.5, anyhow 1.0.100, async-stream 0.3.6, async-stream-impl 0.3.6, async-trait 0.1.89, atomic-waker 1.1.2, autocfg 1.5.0, axum 0.7.9, axum-core 0.4.5, bheisler/criterion.rs 0.6.0, bheisler/criterion.rs 0.7.0, bheisler/TinyTemplate 1.2.1, bitflags 2.10.0, block-buffer 0.10.4, bluss/either 1.15.0, bluss/indexmap 1.9.3, bluss/indexmap 2.13.0, BurntSushi/regex-automata 0.4.13, BurntSushi/rust-memchr 2.7.6, BurntSushi/same-file 1.0.6, chronotope/chrono 0.4.43, clap-rs/clap 4.5.54, colorchoice 1.0.4, cpufeatures 0.2.17, crossbeam-deque 0.8.6, crossbeam-epoch 0.9.18, crossbeam-utils 0.8.21, digest 0.10.7, displaydoc 0.2.5, dtolnay/itoa 1.0.17, dtolnay/serde-yaml 0.9.34+deprecated, dunce 1.0.5, enum-as-inner 0.6.1, env_logger 0.11.8, envconfig 0.10.0, envconfig 0.11.1, envconfig_derive 0.10.0, envconfig_derive 0.11.1, equivalent 1.0.2, errno 0.3.14, form_urlencoded 1.2.2, futures-task 0.3.31, generic-array 0.14.7, getrandom 0.2.17, getrandom 0.3.4, heck 0.5.0, hickory-proto 0.24.4, hickory-resolver 0.24.4, httpdate 1.0.3, Hyper HTTP library 1.8.1, hyper-rustls 0.27.7, hyper-timeout 0.5.2, hyper-util 0.1.19, hyperium/h2 0.4.13, hyperium/http 1.4.0, hyperium/http-body 0.1.3, hyperium/http-body 1.0.1, hyperium/mime 0.3.17, ia0/data-encoding 2.10.0, iana-time-zone 0.1.64, idna 1.1.0, idna_adapter 1.2.1, ipnet 2.11.0, iri-string 0.7.10, is_terminal_polyfill 1.70.2, jiff 0.2.18, linked-hash-map 0.5.6, lock_api 0.4.14, log 0.4.29, matchit 0.7.3, matklad/once_cell 1.21.3, mitsuhiko/rust-sha1 0.10.6, num-traits 0.2.19, oorandom 11.1.5, paholg/typenum 1.19.0, parking_lot 0.12.5, parking_lot_core 0.9.12, percent-encoding 2.3.2, pin-project 0.4.30, pin-project 1.1.10, pin-project-internal 0.4.30, pin-project-internal 1.1.10, pin-project-lite 0.2.16, plotters-backend 0.3.7, plotters-svg 0.3.7, ppv-lite86 0.2.21, rand_chacha 0.9.0, rand_core 0.6.4, rand_core 0.9.5, rayon 1.11.0, rayon 1.13.0, regex-syntax 0.8.8, resolv-conf 0.7.6, rust-aho-corasick 1.1.4, rust-base64 0.22.1, rust-clap_builder 4.5.54, rust-clap_lex 0.7.7, rust-cli/env_logger 0.1.4, rust-itertools/itertools 0.13.0, rust-lang-nursery/futures-rs 0.3.31, rust-lang/cc-rs 0.1.8, rust-lang/libc 0.2.180, rust-mio 1.1.1, rust-random/rand 0.8.5, rust-random/rand 0.9.2, rust-regex 1.12.2, rust-url 2.5.8, RustCrypto/hashes 0.10.9, RustCrypto/traits 0.1.7, rustls 0.23.36, rustls-pemfile 2.2.0, rustls-pki-types 1.14.0, rustversion 1.0.22, seanmonstar/reqwest 0.12.28, seanmonstar/try-lock 0.2.5, seanmonstar/want 0.3.1, serde_derive 1.0.228, serde_json 1.0.149, SergioBenitez/version_check 0.9.5, serial_test 3.3.1, serial_test_derive 3.3.1, servo/rust-smallvec 1.15.1, shlex 1.3.0, signal-hook-registry 1.4.8, slab 0.4.11, stable_deref_trait 1.2.1, starkat99/half-rs 2.7.1, synstructure 0.13.2, thiserror 1.0.69, thiserror-impl 1.0.69, tinyvec 1.10.0, tinyvec_macros 0.1.1, tokio 1.49.0, tokio-macros 2.6.0, tokio-rs/bytes 1.11.0, tokio-rustls 0.26.4, tokio-stream 0.1.18, tokio-util 0.7.18, Tonic (gRPC) 0.12.3, tower-http 0.6.8, tower-rs/tower 0.3.3, tower-rs/tower 0.4.13, tower-rs/tower 0.5.3, tracing 0.1.44, tracing-attributes 0.1.31, tracing-core 0.1.36, unsafe-libyaml 0.2.11, urlencoding 2.1.3, utf8_iter 1.0.4, utf8parse 0.2.2, uuid-rs/uuid 1.19.0, vorner/arc-swap 1.8.0, webdesus/fs_extra 1.3.0, zerocopy 0.8.33, zerocopy-derive 0.8.33, zeroize 1.8.2, zmij 1.0.16)
 
 The MIT License
 ===============
@@ -1133,60 +1129,6 @@ Public Domain
 (BurntSushi/rust-memchr 2.7.6)
 
 Public domain code is not subject to any license.
-
----
-
-The Open SSL License
-(aws-lc-sys 0.36.0)
-
-OpenSSL
-=======
-
-
-Copyright (c) 1998-2000 The OpenSSL Project. All rights reserved.
------------------------------------------------------------------
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-  1. Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
-
-  2. Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-
-  3. All advertising materials mentioning features or use of this software must
-    display the following acknowledgment: This product includes software
-    developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org)
-
-  4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
-    endorse or promote products derived from this software without prior written
-    permission. For written permission, please contact openssl-core@openssl.org
-
-  5. Products derived from this software may not be called "OpenSSL" nor may
-    "OpenSSL" appear in their names without prior written permission of the
-    OpenSSL Project.
-
-  6. Redistributions of any form whatsoever must retain the following
-    acknowledgment: "This product includes software developed by the OpenSSL
-    Project for use in the OpenSSL Toolkit (http://www.openssl.org)"
-
-
-
-
-THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR
-IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
-SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
-WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
-OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
-THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
-written by Eric Young (eay@cryptsoft.com). This product includes software written
-by Tim Hudson (tjh@cryptsoft.com).
 
 ---
 
