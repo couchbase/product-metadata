@@ -269,7 +269,7 @@ orjson 3.11.4: https://github.com/ijl/orjson : Apache License 2.0
 ormsgpack 1.12.0: https://github.com/aviramha/ormsgpack : (MIT License AND Apache License 2.0)
 Packaging 25.0: https://github.com/pypa/packaging : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 pandas-python 2.2.3: https://pandas.pydata.org : BSD 3-clause "New" or "Revised" License
-PillowPython 12.0.0: https://github.com/python-pillow/Pillow : Diffstat License
+PillowPython 12.0.0: https://github.com/python-pillow/Pillow : Python Imaging Library Software License
 platformdirs 4.5.0: https://github.com/platformdirs/platformdirs : MIT License
 propcache 0.4.1: https://github.com/aio-libs/propcache : Apache License 2.0
 psf-requests 2.32.5: http://docs.python-requests.org : Apache License 2.0
@@ -612,33 +612,6 @@ or otherwise using Python 1.6b1, Licensee agrees to be bound by the terms and
 conditions of this License Agreement.
 
 ACCEPT
-
----
-
-Diffstat License
-(PillowPython 12.0.0)
-
-Diffstat License
-================
-
-Copyright 1994-2001,2002 by Thomas E. Dickey
-All Rights Reserved.
-
-Permission to use, copy, modify, and distribute this software and its
-documentation for any purpose and without fee is hereby granted, provided that
-the above copyright notice appear in all copies and that both that copyright
-notice and this permission notice appear in supporting documentation, and that
-the name of the above listed copyright holder(s) not be used in advertising or
-publicity pertaining to distribution of the software without specific, written
-prior permission.
-
-THE ABOVE LISTED COPYRIGHT HOLDER(S) DISCLAIM ALL WARRANTIES WITH REGARD TO THIS
-SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO
-EVENT SHALL THE ABOVE LISTED COPYRIGHT HOLDER(S) BE LIABLE FOR ANY SPECIAL,
-INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
-OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
-TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
-THIS SOFTWARE.
 
 ---
 
@@ -1487,6 +1460,45 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
   This Source Code Form is "Incompatible With Secondary Licenses", as defined
   by the Mozilla Public License, v. 2.0.
+
+---
+
+Python Imaging Library Software License
+(PillowPython 12.0.0)
+
+Python Imaging Library Software License
+=======================================
+
+The Python Imaging Library (PIL) is
+
+Copyright © 1997-2011 by Secret Labs AB
+Copyright © 1995-2011 by Fredrik Lundh
+
+Pillow is the friendly PIL fork. It is
+
+Copyright © 2010-2018 by Alex Clark and contributors
+
+Like PIL, Pillow is licensed under the open source PIL Software License:
+
+By obtaining, using, and/or copying this software and/or its associated
+documentation, you agree that you have read, understood, and will comply with the
+following terms and conditions:
+
+Permission to use, copy, modify, and distribute this software and its associated
+documentation for any purpose and without fee is hereby granted, provided that
+the above copyright notice appears in all copies, and that both that copyright
+notice and this permission notice appear in supporting documentation, and that
+the name of Secret Labs AB or the author not be used in advertising or publicity
+pertaining to distribution of the software without specific, written prior
+permission.
+
+SECRET LABS AB AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+EVENT SHALL SECRET LABS AB OR THE AUTHOR BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA
+OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
+ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
+SOFTWARE.
 
 ---
 
