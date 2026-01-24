@@ -257,6 +257,7 @@ human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 human-signals 3.0.1: https://git.io/JeluP : Apache License 2.0
 iarna/gauge 1.2.7: https://github.com/iarna/gauge : ISC License
+iarna/write-file-atomic 4.0.2: https://github.com/iarna/write-file-atomic : ISC License
 ieee754 v1.2.1: https://github.com/feross/ieee754 : BSD 3-clause "New" or "Revised" License
 import-fresh 3.3.0: https://github.com/sindresorhus/import-fresh : MIT License
 import-local 3.1.0: https://github.com/sindresorhus/import-local#readme : MIT License
@@ -531,7 +532,6 @@ wrap-ansi 2.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
-write-file-atomic 4.0.2: https://github.com/iarna/write-file-atomic : ISC License
 y18n 3.2.2: https://github.com/yargs/y18n : ISC License
 y18n 5.0.8: https://github.com/yargs/y18n : ISC License
 yallist 3.1.1: https://github.com/isaacs/yallist#readme : ISC License
@@ -2094,7 +2094,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(anymatch 3.1.3, cliui 8.0.1, electron-to-chromium 1.4.284, flatted 3.2.7, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver  5.7.2, node-semver  6.3.1, node-semver  7.5.4, splitargs 0.0.7, v8-to-istanbul 9.0.1, write-file-atomic 4.0.2, yaml 2.2.2, yargs-parser 21.1.1)
+(anymatch 3.1.3, cliui 8.0.1, electron-to-chromium 1.4.284, flatted 3.2.7, iarna/write-file-atomic 4.0.2, node-glob 7.2.3, node-graceful-fs 4.2.10, node-semver  5.7.2, node-semver  6.3.1, node-semver  7.5.4, splitargs 0.0.7, v8-to-istanbul 9.0.1, yaml 2.2.2, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
