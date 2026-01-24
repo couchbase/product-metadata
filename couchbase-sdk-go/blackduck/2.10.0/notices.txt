@@ -27,6 +27,7 @@ github.com/cncf/xds 20231128-snapshot-0fa0005c : Apache License 2.0
 github.com/couchbase/gocbcoreps v0.1.3 : Apache License 2.0
 github.com/go-kit/log 0.1.0: https://github.com/go-kit/log : MIT License
 github.com/konsorten/go-windows-terminal-sequences v1.0.1: https://github.com/konsorten/go-windows-terminal-sequences : MIT License
+Go Logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 Go Testify v1.10.0: https://github.com/stretchr/testify : MIT License
 go-check-check 20180628-snapshot-788fd784: http://labix.org/gocheck : BSD 2-clause "Simplified" License
 go-logfmt-logfmt v0.5.0: https://github.com/go-logfmt/logfmt : MIT License
@@ -78,7 +79,6 @@ pkg/errors v0.8.1: https://github.com/pkg/errors : BSD 2-clause "Simplified" Lic
 pmezard-go-difflib 1.0.0: https://github.com/pmezard/go-difflib : BSD 3-clause "New" or "Revised" License
 prometheus-client_model 20190830-snapshot-14fe0d1b: https://github.com/prometheus/client_model : Apache License 2.0
 pty v1.1.1: https://github.com/kr/pty : MIT License
-Sirupsen/logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 stretchr/objx v0.5.2: https://github.com/stretchr/objx : MIT License
 uber-go/atomic 1.7.0: https://go.uber.org/atomic : MIT License
 yaml for Go v2.2.8: https://github.com/go-yaml/yaml : Apache License 2.0
@@ -602,7 +602,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 MIT License
-(Sirupsen/logrus v1.4.2)
+(Go Logrus v1.4.2)
 
 The MIT License (MIT)
 
