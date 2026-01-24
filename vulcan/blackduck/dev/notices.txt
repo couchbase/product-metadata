@@ -15,6 +15,8 @@ aiosignal 1.4.0: https://aiosignal.readthedocs.io/ : Apache License 2.0
 annotated-types 0.7.0: https://github.com/annotated-types/annotated-types : MIT License
 anyio 4.12.1: https://pypi.org/project/anyio/ : MIT License
 blinker-pypi 1.9.0: http://pythonhosted.org/blinker/ : MIT License
+boto3 1.42.32: http://aws.amazon.com/sdk-for-python/ : Apache License 2.0
+botocore 1.42.32: https://github.com/boto/botocore : Apache License 2.0
 Click - Python Command Line Utility 8.3.1: http://click.pocoo.org/ : BSD 3-clause "New" or "Revised" License
 client_python 0.21.1: https://github.com/prometheus/client_python : Apache License 2.0
 colorama 0.4.6: https://github.com/tartley/colorama : BSD 3-clause "New" or "Revised" License
@@ -96,7 +98,7 @@ yarl 1.22.0: https://github.com/aio-libs/yarl/ : Apache License 2.0
 Licenses: 
 
 Apache License 2.0
-(aiohttp 3.13.3, aiosignal 1.4.0, client_python 0.21.1, couchbase-python-client 4.5.0, frozenlist 1.8.0, hf-xet 1.2.0, huggingface-hub 0.36.0, multidict 6.7.0, nltk 3.9.2, orjson 3.11.5, Packaging 24.2, propcache 0.4.1, psf-requests 2.32.5, pyca/cryptography 46.0.3, python-dateutil 2.9.0.post0, regex 2026.1.15, requests-toolbelt 1.0.0, s3transfer 0.16.0, safetensors 0.7.0, sentence-transformers 4.1.0, tenacity 8.5.0, tokenizers 0.22.2, transformers 4.57.6, yarl 1.22.0)
+(aiohttp 3.13.3, aiosignal 1.4.0, boto3 1.42.32, botocore 1.42.32, client_python 0.21.1, couchbase-python-client 4.5.0, frozenlist 1.8.0, hf-xet 1.2.0, huggingface-hub 0.36.0, multidict 6.7.0, nltk 3.9.2, orjson 3.11.5, Packaging 24.2, propcache 0.4.1, psf-requests 2.32.5, pyca/cryptography 46.0.3, python-dateutil 2.9.0.post0, regex 2026.1.15, requests-toolbelt 1.0.0, s3transfer 0.16.0, safetensors 0.7.0, sentence-transformers 4.1.0, tenacity 8.5.0, tokenizers 0.22.2, transformers 4.57.6, yarl 1.22.0)
 
 Apache License
 Version 2.0, January 2004
