@@ -277,7 +277,6 @@ at-least-node 1.0.0: https://github.com/RyanZim/at-least-node#readme : ISC Licen
 atob 2.1.2: https://github.com/node-browser-compat/atob : (MIT License OR Apache License 2.0)
 autoComplete.js 0.36.0: https://github.com/commadelimited/autoComplete.js : MIT License
 Autoprefixer 9.8.6: https://github.com/postcss/autoprefixer : MIT License
-aws-sign 0.7.0: https://github.com/mikeal/aws-sign : Apache License 2.0
 aws4 v1.11.0: https://github.com/mhart/aws4 : MIT License
 azz/pretty-quick 3.1.1: https://github.com/azz/pretty-quick#readme : MIT License
 babel-loader 8.2.2: https://github.com/babel/babel-loader : MIT License
@@ -337,6 +336,7 @@ callsites 3.1.0: https://github.com/sindresorhus/callsites : MIT License
 camelcase 3.0.0: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 5.3.1: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 6.2.0: https://github.com/sindresorhus/camelcase : MIT License
+caniuse-api 3.0.0: https://github.com/nyalab/caniuse-api : MIT License
 caniuse-lite 1.0.30001252: https://github.com/ben-eb/caniuse-lite : Creative Commons Attribution 4.0
 caseless 0.12.0: https://github.com/mikeal/caseless : Apache License 2.0
 Chalk 1.1.3: https://github.com/sindresorhus/chalk : MIT License
@@ -371,10 +371,10 @@ color-name 1.1.4: https://github.com/colorjs/color-name : MIT License
 color-string 1.6.0: https://github.com/Qix-/color-string : MIT License
 colorette 1.3.0: https://github.com/jorgebucaran/colorette : MIT License
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 2.17.1: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 2.19.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 2.17.1: https://github.com/tj/commander.js : MIT License
+Commander.js 2.19.0: https://github.com/tj/commander.js : MIT License
+Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
+Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
 Commitizen CLI 4.2.4: http://commitizen.github.io/cz-cli/ : MIT License
 commitizen/cz-conventional-changelog 3.2.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
 commitizen/cz-conventional-changelog 3.3.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
@@ -895,6 +895,7 @@ micromatch 4.0.4: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch/braces 2.3.2: https://github.com/micromatch/braces : MIT License
 micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsofttslib 1.14.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
+mikeal/aws-sign 0.7.0: https://github.com/mikeal/aws-sign : Apache License 2.0
 mikeal/oauth-sign 0.9.0: https://github.com/mikeal/oauth-sign : Apache License 2.0
 miller-rabin 4.0.1: https://github.com/indutny/miller-rabin : MIT License
 mime 1.6.0: https://github.com/broofa/node-mime : MIT License
@@ -1011,7 +1012,6 @@ nth-check 2.0.0: https://github.com/fb55/nth-check : BSD 2-clause "Simplified" L
 num2fraction 1.2.2: https://github.com/yisibl/num2fraction : MIT License
 number-is-nan 1.0.1: https://github.com/sindresorhus/number-is-nan : MIT License
 nwsapi 2.2.0: http://javascript.nwbox.com/nwsapi/ : MIT License
-Nyalab/caniuse-api 3.0.0: https://github.com/Nyalab/caniuse-api : MIT License
 object-assign 4.1.1: https://github.com/sindresorhus/object-assign : MIT License
 object-inspect 1.11.0: https://github.com/substack/object-inspect : MIT License
 object-is 1.1.5: https://github.com/ljharb/object-is : MIT License
@@ -1178,7 +1178,7 @@ remove-trailing-separator 1.1.0: https://github.com/darsain/remove-trailing-sepa
 renderkid 2.0.7: https://github.com/AriaMinaei/renderkid : MIT License
 repeat-element 1.1.4: https://github.com/jonschlinkert/repeat-element : MIT License
 repeat-string 1.6.1: https://github.com/jonschlinkert/repeat-string : MIT License
-Request -  Simple HTTP Client 2.88.2: https://github.com/mikeal/request : Apache License 2.0
+Request -  Simple HTTP Client 2.88.2: https://github.com/request/request : Apache License 2.0
 request/tunnel-agent 0.6.0: https://github.com/request/tunnel-agent : Apache License 2.0
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 require-from-string 2.0.2: https://github.com/floatdrop/require-from-string : MIT License
@@ -1638,7 +1638,7 @@ interfere with or be responsible for such uses by You.
 ---
 
 Apache License 2.0
-(@humanwhocodes/config-array 0.5.0, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, request/tunnel-agent 0.6.0, through 2.3.8, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.3.5, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
+(@humanwhocodes/config-array 0.5.0, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, caseless 0.12.0, couchnode 3.2.4, detect-libc 1.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 1.3.0, eslint-visitor-keys 2.1.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/aws-sign 0.7.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 6.6.7, Request -  Simple HTTP Client 2.88.2, request/tunnel-agent 0.6.0, through 2.3.8, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.3.5, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -17022,7 +17022,7 @@ SOFTWARE
 ---
 
 MIT License
-(Nyalab/caniuse-api 3.0.0)
+(caniuse-api 3.0.0)
 
 The MIT License (MIT)
 
