@@ -1,4 +1,4 @@
-Copyright 2025
+Copyright 2026
 
 [couchbase-operator : 2.9.0]
 
@@ -75,6 +75,7 @@ github.com/therootcompany/xz v1.0.1 : Creative Commons Zero v1.0 Universal
 glfw 20190408-snapshot-e6da0acd: https://github.com/go-gl/glfw : BSD 3-clause "New" or "Revised" License
 glfw 20191125-snapshot-12ad95a8: https://github.com/go-gl/glfw : BSD 3-clause "New" or "Revised" License
 go humanize 1.0.1: http://github.com/dustin/go-humanize : MIT License
+Go Logrus v1.9.3: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.25.5: http://golang.org/ : Go BSD License with Patent Provision
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
@@ -124,7 +125,7 @@ golang-snappy-go-dev v0.0.4: https://github.com/golang/snappy : BSD 3-clause "Ne
 golang.org/x/crypto v0.41.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
 golang.org/x/image 20190704-snapshot-cff245a6: https://pkg.go.dev/golang.org/x/image : BSD 3-clause "New" or "Revised" License
 golang.org/x/lint 20200130-snapshot-910be7a9: https://pkg.go.dev/golang.org/x/lint : BSD 3-clause "New" or "Revised" License
-golang.org/x/mod v0.26.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.26.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
 golang.org/x/net v0.43.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 v0.27.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys v0.35.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
@@ -373,7 +374,6 @@ sergi/go-diff v1.1.0: https://github.com/sergi/go-diff : (MIT License AND Apache
 sigs.k8s.io/controller-runtime v0.16.3: https://github.com/kubernetes-sigs/controller-runtime : Apache License 2.0
 sigs.k8s.io/json 20221116-snapshot-bc3834ca: https://github.com/kubernetes-sigs/json : (Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
 sigs.k8s.io/yaml v1.4.0: https://github.com/kubernetes-sigs/yaml : (MIT License AND Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
-Sirupsen/logrus v1.9.3: https://github.com/Sirupsen/logrus : MIT License
 soheilhy/cmux v0.1.5: https://github.com/soheilhy/cmux : Apache License 2.0
 spf13-cobra 1.8.0: https://github.com/spf13/cobra : Apache License 2.0
 SSLMate/go-pkcs12 v0.4.0: https://github.com/SSLMate/go-pkcs12 : BSD 3-clause "New" or "Revised" License
@@ -3287,7 +3287,7 @@ SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, andygrunwald/go-jira v1.17.0, Azure/azure-sdk-for-go sdk/azcore/v1.19.1, Azure/azure-sdk-for-go sdk/azidentity/v1.13.0, Azure/azure-sdk-for-go sdk/internal/v1.11.2, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.8.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.6.3, AzureAD/microsoft-authentication-library-for-go v1.5.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, felixge/httpsnoop v1.0.4, github.com/go-kit/log v0.2.1, go humanize 1.0.1, Go Testify v1.11.1, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/multierr v1.11.0, golang-jwt/jwt v4.5.2, golang-jwt/jwt v5.3.0, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, kr/pretty v0.3.1, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, sigs.k8s.io/yaml v1.4.0, Sirupsen/logrus v1.9.3, stretchr/objx v0.5.2, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a)
+(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, andygrunwald/go-jira v1.17.0, Azure/azure-sdk-for-go sdk/azcore/v1.19.1, Azure/azure-sdk-for-go sdk/azidentity/v1.13.0, Azure/azure-sdk-for-go sdk/internal/v1.11.2, Azure/azure-sdk-for-go sdk/resourcemanager/storage/armstorage/v1.8.1, Azure/azure-sdk-for-go sdk/storage/azblob/v1.6.3, AzureAD/microsoft-authentication-library-for-go v1.5.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.2.0, connesc/cipherio v0.2.1, cpuguy83-go-md2man v2.0.3, felixge/httpsnoop v1.0.4, github.com/go-kit/log v0.2.1, go humanize 1.0.1, Go Logrus v1.9.3, Go Testify v1.11.1, go-ansiterm 20210617-snapshot-d185dfc1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-zap v1.26.0, go.etcd.io/bbolt v1.3.7, go.uber.org/goleak v1.2.1, go.uber.org/multierr v1.11.0, golang-jwt/jwt v4.5.2, golang-jwt/jwt v5.3.0, gomega v1.27.10, govalidator 20230301-snapshot-a9d515a0, kr/pretty v0.3.1, mholt/archiver v4.0.0-alpha.8, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.11.0, sigs.k8s.io/yaml v1.4.0, stretchr/objx v0.5.2, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a)
 
 The MIT License
 ===============
