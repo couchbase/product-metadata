@@ -88,6 +88,7 @@ github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61: https://github.com/munn
 github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b: https://github.com/planetscale/vtprotobuf : BSD 3-clause "New" or "Revised" License
 github.com/power-devops/perfstat 20240221-snapshot-82ca3683: https://pkg.go.dev/github.com/power-devops/perfstat : MIT License
 github.com/yusufpapurcu/wmi v1.2.4: https://github.com/yusufpapurcu/wmi : MIT License
+Go Logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.25.6: http://golang.org/ : Go BSD License with Patent Provision
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
 go-autorest autorest/adal/v0.9.23: https://github.com/Azure/autorest.go/ : Apache License 2.0
@@ -201,7 +202,6 @@ robertkrimen/otto 20211024-snapshot-b87d35c0: https://github.com/robertkrimen/ot
 rogpeppe/go-internal v1.13.1: http://github.com/rogpeppe/go-internal/ : BSD 3-clause "New" or "Revised" License
 samuel/go-metrics 20150819-snapshot-7ccf3e0e: https://github.com/samuel/go-metrics : BSD 3-clause "New" or "Revised" License
 sergi/go-diff v1.2.0: https://github.com/sergi/go-diff : (MIT License AND Apache License 2.0)
-Sirupsen/logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 spiffe/go-spiffe v2.5.0: https://github.com/spiffe/go-spiffe : Apache License 2.0
 stretchr/objx v0.5.2: https://github.com/stretchr/objx : MIT License
 sync_gateway 4.0.1: https://github.com/couchbase/sync_gateway : Apache License 2.0
@@ -973,20 +973,7 @@ SOFTWARE
 ---
 
 MIT License
-(mailru/easyjson v0.7.7)
-
-Copyright (c) 2016 Mail.Ru Group
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
-(Sirupsen/logrus v1.4.2)
+(Go Logrus v1.4.2)
 
 The MIT License (MIT)
 
@@ -1009,6 +996,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
+
+---
+
+MIT License
+(mailru/easyjson v0.7.7)
+
+Copyright (c) 2016 Mail.Ru Group
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
