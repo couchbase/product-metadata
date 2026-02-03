@@ -88,6 +88,7 @@ github.com/sagikazarmark/locafero v0.12.0: https://github.com/sagikazarmark/loca
 github.com/speakeasy-api/jsonpath v0.6.2 : Apache License 2.0
 github.com/speakeasy-api/openapi-overlay v0.10.3 : MIT License
 github.com/twitchyliquid64/golang-asm v0.15.1 : BSD 3-clause "New" or "Revised" License
+Go Logrus v1.8.1: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.25.5: http://golang.org/ : Go BSD License with Patent Provision
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
 go-check-check 20201130-snapshot-10cb9826: http://labix.org/gocheck : BSD 2-clause "Simplified" License
@@ -102,7 +103,7 @@ go-playground/locales v0.14.1: https://github.com/go-playground/locales : MIT Li
 go-playground/validator v10.14.1: https://github.com/go-playground/validator : MIT License
 go-spew 20180930-snapshot-d8f796af: https://github.com/davecgh/go-spew : ISC License
 go-test/deep v1.0.8: http://github.com/go-test/deep/ : MIT License
-go-tomb-tomb 20150422-snapshot-dd632973: https://github.com/go-tomb/tomb/tree/v1 : BSD 3-clause "New" or "Revised" License
+go-tomb-tomb 20150422-snapshot-dd632973: https://github.com/go-tomb/tomb : BSD 3-clause "New" or "Revised" License
 go-toml v2.2.4: https://github.com/pelletier/go-toml : MIT License
 go-viper v1.21.0: https://github.com/spf13/viper : MIT License
 go-zap v1.27.1: https://godoc.org/go.uber.org/zap : MIT License
@@ -123,7 +124,7 @@ golang-jwt/jwt v5.3.0: https://github.com/golang-jwt/jwt : MIT License
 golang-snappy-go-dev v1.0.0: https://github.com/golang/snappy : BSD 3-clause "New" or "Revised" License
 golang-stats v0.7.0: https://github.com/montanaflynn/stats : MIT License
 golang.org/x/crypto v0.47.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
-golang.org/x/mod v0.32.0 : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.32.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
 golang.org/x/net v0.49.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
 golang.org/x/oauth2 v0.34.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys v0.40.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
@@ -334,7 +335,6 @@ rs-cors v1.11.1: https://github.com/rs/cors : MIT License
 schollz/closestmatch v2.1.0: https://github.com/schollz/closestmatch : MIT License
 sergi/go-diff v1.1.0: https://github.com/sergi/go-diff : (MIT License AND Apache License 2.0)
 Shopify/goreferrer 20220729-snapshot-8cddb4f5 : MIT License
-Sirupsen/logrus v1.8.1: https://github.com/sirupsen/logrus : MIT License
 sourcegraph/conc 20240121-snapshot-5f936abd: https://github.com/sourcegraph/conc : MIT License
 spf13-afero v1.15.0: https://github.com/spf13/afero : Apache License 2.0
 spf13-cast v1.10.0: https://github.com/spf13/cast : MIT License
@@ -1391,7 +1391,7 @@ SOFTWARE
 ---
 
 MIT License
-(Sirupsen/logrus v1.8.1)
+(Go Logrus v1.8.1)
 
 The MIT License (MIT)
 
