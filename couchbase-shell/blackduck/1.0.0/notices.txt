@@ -44,7 +44,7 @@ autocfg 1.3.0 : (MIT License OR Apache License 2.0)
 aws-config 1.5.3 : Apache License 2.0
 aws-credential-types 1.2.0 : Apache License 2.0
 aws-lc-rs 1.8.0: https://github.com/awslabs/aws-lc-rs : ISC License
-aws-lc-sys 0.19.0 : (ISC License AND The Open SSL License)
+aws-lc-sys 0.19.0 : (ISC License AND OpenSSL License)
 aws-runtime 1.3.0 : Apache License 2.0
 aws-sdk-bedrockruntime 1.37.0 : Apache License 2.0
 aws-sdk-sso 1.33.0 : Apache License 2.0
@@ -77,7 +77,7 @@ bluss/scopeguard 1.2.0 : Apache License 2.0
 borsh 1.5.1: http://borsh.io : (MIT License OR Apache License 2.0)
 borsh-derive 1.5.1: http://borsh.io : Apache License 2.0
 bracoxide 0.1.3 : MIT License
-briansmith/ring 0.17.8: https://github.com/briansmith/ring : (MIT License AND ISC License AND The Open SSL License)
+briansmith/ring 0.17.8: https://github.com/briansmith/ring : (MIT License AND ISC License AND OpenSSL License)
 briansmith/untrusted 0.9.0 : ISC License
 brotli-decompressor 4.0.1: https://github.com/dropbox/rust-brotli-decompressor : (MIT License OR BSD 3-clause "New" or "Revised" License)
 BurntSushi/bstr 1.9.1: https://github.com/BurntSushi/bstr : (MIT License OR Apache License 2.0)
@@ -2971,15 +2971,17 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 ---
 
-The Open SSL License
+OpenSSL License
 (aws-lc-sys 0.19.0, briansmith/ring 0.17.8)
 
-OpenSSL
-=======
+OpenSSL Project License
+=======================
 
+OpenSSL License
+---------------
 
-Copyright (c) 1998-2000 The OpenSSL Project. All rights reserved.
------------------------------------------------------------------
+====================================================================
+Copyright (c) 1998-2001 The OpenSSL Project. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:
@@ -2987,28 +2989,28 @@ are permitted provided that the following conditions are met:
   1. Redistributions of source code must retain the above copyright notice, this
     list of conditions and the following disclaimer.
 
-  2. Redistributions in binary form must reproduce the above copyright notice,
+  2.  Redistributions in binary form must reproduce the above copyright notice,
     this list of conditions and the following disclaimer in the documentation
     and/or other materials provided with the distribution.
 
   3. All advertising materials mentioning features or use of this software must
-    display the following acknowledgment: This product includes software
-    developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org)
+    display the following acknowledgment: "This product includes software
+    developed by the OpenSSL Project for use in the OpenSSL Toolkit.
+    (http://www.openssl.org/)"
 
   4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
     endorse or promote products derived from this software without prior written
-    permission. For written permission, please contact openssl-core@openssl.org
+    permission. For written permission, please contact openssl-core@openssl.org.
 
-  5. Products derived from this software may not be called "OpenSSL" nor may
+  5.  Products derived from this software may not be called "OpenSSL" nor may
     "OpenSSL" appear in their names without prior written permission of the
     OpenSSL Project.
 
   6. Redistributions of any form whatsoever must retain the following
-    acknowledgment: "This product includes software developed by the OpenSSL
-    Project for use in the OpenSSL Toolkit (http://www.openssl.org)"
+    acknowledgment:
 
-
-
+      "This product includes software developed by the OpenSSL Project for use in
+      the OpenSSL Toolkit (http://www.openssl.org/)"
 
 THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR
 IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
@@ -3019,9 +3021,12 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
 PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
 WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
 OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
-THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
-written by Eric Young (eay@cryptsoft.com). This product includes software written
-by Tim Hudson (tjh@cryptsoft.com).
+THE POSSIBILITY OF SUCH DAMAGE.
+====================================================================
+
+This product includes cryptographic software written by Eric Young
+(eay@cryptsoft.com). This product includes software written by Tim Hudson
+(tjh@cryptsoft.com).
 
 ---
 
