@@ -10,7 +10,7 @@ Notices Report Content
 Components: 
 
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
 aproba 2.1.0: https://github.com/iarna/aproba : ISC License
 are-we-there-yet 3.0.1: https://github.com/iarna/are-we-there-yet : ISC License
 Asio C++ Library 1.31.0: https://think-async.com/Asio/ : Boost Software License 1.0
@@ -38,7 +38,6 @@ es-errors 1.3.0: https://github.com/ljharb/es-errors#readme : MIT License
 es-object-atoms 1.1.1: https://github.com/ljharb/es-object-atoms#readme : MIT License
 es-set-tostringtag 2.1.0: https://github.com/es-shims/es-set-tostringtag#readme : MIT License
 escalade 3.2.0: https://github.com/lukeed/escalade#readme : MIT License
-expressjs/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 follow-redirects 1.15.11: https://github.com/follow-redirects/follow-redirects : MIT License
 form-data 4.0.5: https://github.com/felixge/node-form-data : MIT License
 fs-minipass v2.1.0: https://github.com/npm/fs-minipass : ISC License
@@ -57,6 +56,7 @@ iarna/gauge 4.0.4: https://github.com/iarna/gauge : ISC License
 inherits v2.0.4: https://github.com/isaacs/inherits : ISC License
 is-fullwidth-code-point 3.0.0: https://github.com/sindresorhus/is-fullwidth-code-point : MIT License
 isexe 2.0.0: https://github.com/isaacs/isexe#readme : ISC License
+jshttp/mime-types 2.1.35: https://github.com/jshttp/mime-types : MIT License
 math-intrinsics 1.1.0: https://github.com/es-shims/math-intrinsics#readme : MIT License
 memory-stream 1.0.0: https://github.com/tommymessbauer/memory-stream : MIT License
 mime-db 1.52.0: https://github.com/jshttp/mime-db : MIT License
@@ -82,7 +82,7 @@ readable-stream 3.6.2: https://github.com/isaacs/readable-stream : MIT License
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 safe-buffer 5.2.1: https://github.com/feross/safe-buffer : MIT License
 set-blocking 2.0.0: https://github.com/yargs/set-blocking#readme : ISC License
-spdlog v1.15.0: https://github.com/gabime/spdlog : MIT License
+spdlog 1.15.0: https://github.com/gabime/spdlog : MIT License
 string-width 4.2.3: https://github.com/sindresorhus/string-width : MIT License
 Strip ANSI 6.0.1: https://github.com/chalk/strip-ansi : MIT License
 strip-json-comments 2.0.1: https://github.com/sindresorhus/strip-json-comments : MIT License
@@ -763,7 +763,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(expressjs/mime-types 2.1.35)
+(jshttp/mime-types 2.1.35)
 
 (The MIT License)
 
@@ -1411,7 +1411,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(axios 1.13.5, call-bind-apply-helpers 1.0.2, cmake-js 7.4.0, debug-js/debug 4.4.3, dunder-proto 1.0.1, es-define-property 1.0.1, es-errors 1.3.0, es-object-atoms 1.1.1, es-set-tostringtag 2.1.0, escalade 3.2.0, follow-redirects 1.15.11, form-data 4.0.5, function-bind 1.1.2, get-intrinsic 1.3.0, get-proto 1.0.1, gopd 1.2.0, has-symbols 1.1.0, has-tostringtag 1.0.2, hasown 2.0.2, math-intrinsics 1.1.0, minimist 1.2.8, node-addon-api 8.5.0, node-api-headers 1.8.0, node-fs-extra 11.3.3, node-jsonfile 6.2.0, nodejs/llhttp v9.2.1, readable-stream 3.6.2, spdlog v1.15.0, taocpp/json 1.0.0-beta.14, universalify 2.0.1, yargs 17.7.2)
+(axios 1.13.5, call-bind-apply-helpers 1.0.2, cmake-js 7.4.0, debug-js/debug 4.4.3, dunder-proto 1.0.1, es-define-property 1.0.1, es-errors 1.3.0, es-object-atoms 1.1.1, es-set-tostringtag 2.1.0, escalade 3.2.0, follow-redirects 1.15.11, form-data 4.0.5, function-bind 1.1.2, get-intrinsic 1.3.0, get-proto 1.0.1, gopd 1.2.0, has-symbols 1.1.0, has-tostringtag 1.0.2, hasown 2.0.2, math-intrinsics 1.1.0, minimist 1.2.8, node-addon-api 8.5.0, node-api-headers 1.8.0, node-fs-extra 11.3.3, node-jsonfile 6.2.0, nodejs/llhttp v9.2.1, readable-stream 3.6.2, spdlog 1.15.0, taocpp/json 1.0.0-beta.14, universalify 2.0.1, yargs 17.7.2)
 
 The MIT License
 ===============
