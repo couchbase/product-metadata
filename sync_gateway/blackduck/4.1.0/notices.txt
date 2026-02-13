@@ -88,7 +88,6 @@ github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61: https://github.com/munn
 github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b: https://github.com/planetscale/vtprotobuf : BSD 3-clause "New" or "Revised" License
 github.com/power-devops/perfstat 20240221-snapshot-82ca3683: https://pkg.go.dev/github.com/power-devops/perfstat : MIT License
 github.com/yusufpapurcu/wmi v1.2.4: https://github.com/yusufpapurcu/wmi : MIT License
-Go Logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
 Go programming language 1.25.7: http://golang.org/ : Go BSD License with Patent Provision
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
 go-autorest autorest/adal/v0.9.23: https://github.com/Azure/autorest.go/ : Apache License 2.0
@@ -116,7 +115,7 @@ gocb v2.11.1: https://docs.couchbase.com/go-sdk/current/hello-world/start-using-
 godebug v1.1.0: https://github.com/kylelemons/godebug : Apache License 2.0
 GoDoc Text v0.2.0: http://godoc.org/github.com/kr/text : MIT License
 gogo/protobuf v1.3.2: http://github.com/gogo/protobuf/ : BSD 3-clause "New" or "Revised" License
-Golang Protobuf v1.36.7: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
+Golang Protobuf 1.36.7: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.5.4: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
 golang-github-elazarl-go-bindata-assetfs-dev 1.0.0: https://github.com/elazarl/go-bindata-assetfs : BSD 2-clause "Simplified" License
 golang-jwt/jwt v4.5.0: https://github.com/golang-jwt/jwt : MIT License
@@ -202,6 +201,7 @@ robertkrimen/otto 20211024-snapshot-b87d35c0: https://github.com/robertkrimen/ot
 rogpeppe/go-internal v1.13.1: http://github.com/rogpeppe/go-internal/ : BSD 3-clause "New" or "Revised" License
 samuel/go-metrics 20150819-snapshot-7ccf3e0e: https://github.com/samuel/go-metrics : BSD 3-clause "New" or "Revised" License
 sergi/go-diff v1.2.0: https://github.com/sergi/go-diff : (MIT License AND Apache License 2.0)
+Sirupsen/logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
 spiffe/go-spiffe v2.5.0: https://github.com/spiffe/go-spiffe : Apache License 2.0
 stretchr/objx v0.5.2: https://github.com/stretchr/objx : MIT License
 sync_gateway 4.0.1: https://github.com/couchbase/sync_gateway : Apache License 2.0
@@ -742,7 +742,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20260112-snapshot-716be562, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Golang Protobuf v1.36.7, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.47.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.32.0, golang.org/x/net v0.49.0, golang.org/x/oauth2 v0.35.0, golang.org/x/sys v0.40.0, golang.org/x/term v0.39.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.41.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/sync v0.19.0, golang/text v0.33.0, google/go-cmp v0.7.0, googleapis/gax-go v2.12.0, googleapis/google-api-go-client v0.154.0, Googleuuid v1.6.0, gopsutil v4.25.9, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.11, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.13.1, tklauser/go-sysconf v0.3.15, xhit/go-str2duration v2.1.0)
+(exp 20260112-snapshot-716be562, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Golang Protobuf 1.36.7, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.47.0, golang.org/x/lint 20190930-snapshot-16217165, golang.org/x/mod v0.32.0, golang.org/x/net v0.49.0, golang.org/x/oauth2 v0.35.0, golang.org/x/sys v0.40.0, golang.org/x/term v0.39.0, golang.org/x/time v0.5.0, golang.org/x/tools v0.41.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/sync v0.19.0, golang/text v0.33.0, google/go-cmp v0.7.0, googleapis/gax-go v2.12.0, googleapis/google-api-go-client v0.154.0, Googleuuid v1.6.0, gopsutil v4.25.9, gorilla/mux v1.8.1, ianlancetaylor/demangle 20230524-snapshot-eabc099b, klauspost-compress v1.17.11, ledongthuc/pdf 20220302-snapshot-0c2507a1, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.13.1, tklauser/go-sysconf v0.3.15, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -973,7 +973,20 @@ SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.4.2)
+(mailru/easyjson v0.7.7)
+
+Copyright (c) 2016 Mail.Ru Group
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
+(Sirupsen/logrus v1.4.2)
 
 The MIT License (MIT)
 
@@ -996,19 +1009,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-
----
-
-MIT License
-(mailru/easyjson v0.7.7)
-
-Copyright (c) 2016 Mail.Ru Group
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
