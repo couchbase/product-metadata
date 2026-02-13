@@ -835,11 +835,10 @@ jsbn 0.1.1: https://github.com/timkurvers/jsbn : MIT License
 jsdom 16.7.0: https://github.com/jsdom/jsdom : MIT License
 jsesc 0.5.0: http://mths.be/jsesc : MIT License
 jsesc v2.5.2: http://mths.be/jsesc : MIT License
-jshttp statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 JSHTTP's negotiator 0.6.2: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.4: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
-jshttp/mime-types 2.1.32: https://github.com/expressjs/mime-types : MIT License
+jshttp/mime-types 2.1.32: https://github.com/jshttp/mime-types : MIT License
 jsjest 27.5.1: https://jestjs.io : MIT License
 JSON 3 3.3.3: http://bestiejs.github.io/json3 : MIT License
 json-buffer 3.0.0: https://github.com/dominictarr/json-buffer : MIT License
@@ -1204,7 +1203,6 @@ renderkid 2.0.7: https://github.com/AriaMinaei/renderkid : MIT License
 repeat-element 1.1.4: https://github.com/jonschlinkert/repeat-element : MIT License
 repeat-string 1.6.1: https://github.com/jonschlinkert/repeat-string : MIT License
 Request -  Simple HTTP Client 2.88.2: https://github.com/request/request : Apache License 2.0
-request/tunnel-agent 0.6.0: https://github.com/request/tunnel-agent : Apache License 2.0
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 require-main-filename 2.0.0: https://github.com/yargs/require-main-filename#readme : ISC License
 requires-port 1.0.0: https://github.com/unshiftio/requries-port : MIT License
@@ -1241,7 +1239,7 @@ select-hose 2.0.0: https://github.com/indutny/select-hose#readme : MIT License
 selfsigned v1.10.11: https://github.com/jfromaniello/selfsigned : MIT License
 semver-compare 1.0.0: https://github.com/substack/semver-compare : MIT License
 semver-diff 3.1.1: https://github.com/sindresorhus/semver-diff : MIT License
-send 0.17.1: https://github.com/pillarjs/send : MIT License
+Send for Node.js 0.17.1: https://github.com/pillarjs/send : MIT License
 serialize-javascript 3.1.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serialize-javascript 4.0.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serve-index 1.9.1: https://github.com/expressjs/serve-index : MIT License
@@ -1310,6 +1308,7 @@ stack-utils 1.0.5: https://github.com/jamestalmage/stack-utils#readme : MIT Lice
 stack-utils 2.0.3: https://github.com/jamestalmage/stack-utils#readme : MIT License
 static-eval 2.0.2: https://github.com/substack/static-eval : MIT License
 static-extend 0.1.2: https://github.com/jonschlinkert/static-extend : MIT License
+statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 std-env v2.3.0: https://github.com/pi0/std-env : MIT License
 stream-browserify 2.0.2: https://github.com/substack/stream-browserify : MIT License
 stream-each 1.2.3: https://github.com/mafintosh/stream-each : MIT License
@@ -1375,6 +1374,7 @@ tr46 2.1.0: https://github.com/Sebmaster/tr46.js#readme : MIT License
 ts-jest 27.1.5: https://github.com/kulshekhar/ts-jest : MIT License
 tsutils 3.21.0: https://github.com/ajafff/tsutils#readme : MIT License
 tty-browserify 0.0.0: https://github.com/browserify/tty-browserify : MIT License
+tunnel-agent 0.6.0: https://github.com/mikeal/tunnel-agent : Apache License 2.0
 tweetnacl-js 0.14.5: https://github.com/dchest/tweetnacl-js : The Unlicense
 Two-Screen/stable 0.1.8: https://github.com/Two-Screen/stable : MIT License
 type-check 0.3.2: https://github.com/gkz/type-check : MIT License
@@ -1656,7 +1656,7 @@ interfere with or be responsible for such uses by You.
 ---
 
 Apache License 2.0
-(@ampproject/remapping 2.2.0, @humanwhocodes/config-array 0.11.7, @humanwhocodes/module-importer 1.0.1, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, caseless 0.12.0, couchnode 3.2.6, detect-libc 2.0.1, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 2.1.0, eslint-visitor-keys 3.3.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 7.5.7, Request -  Simple HTTP Client 2.88.2, request/tunnel-agent 0.6.0, through 2.3.8, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.8.4, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
+(@ampproject/remapping 2.2.0, @humanwhocodes/config-array 0.11.7, @humanwhocodes/module-importer 1.0.1, @webassemblyjs/leb128 1.9.0, @xtuc/long 4.2.2, ansi-html 0.0.7, atob 2.1.2, aws-sign 0.7.0, caseless 0.12.0, couchnode 3.2.6, detect-libc 2.0.1, doctrine v3.0.0, dominictarr/rc 1.2.8, eslint-visitor-keys 2.1.0, eslint-visitor-keys 3.3.0, fast-diff 1.2.0, faye-websocket-node 0.11.4, forever-agent 0.6.1, hogan.js 3.0.2, human-signals 1.1.1, human-signals 2.1.0, mikeal/oauth-sign 0.9.0, nodejs-walker 1.0.7, ReactiveX RxJS 7.5.7, Request -  Simple HTTP Client 2.88.2, through 2.3.8, tunnel-agent 0.6.0, typedoc v0.19.2, typedoc-default-themes 0.11.4, TypeScript 4.8.4, watchman 2.0.1, watchman 2.1.1, websocket-driver-node 0.7.4, websocket-extensions-node 0.1.4, xml-name-validator 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -12068,7 +12068,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(send 0.17.1)
+(Send for Node.js 0.17.1)
 
 (The MIT License)
 
@@ -13262,7 +13262,7 @@ SOFTWARE
 ---
 
 MIT License
-(jshttp statuses 1.5.0)
+(statuses 1.5.0)
 
 The MIT License (MIT)
 
