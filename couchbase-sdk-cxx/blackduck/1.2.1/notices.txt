@@ -10,7 +10,7 @@ Notices Report Content
 Components: 
 
 Asio C++ Library 1.31.0: https://think-async.com/Asio/ : Boost Software License 1.0
-BoringSSL 20200921: https://boringssl.googlesource.com/boringssl : The Open SSL License
+BoringSSL 20200921: https://boringssl.googlesource.com/boringssl : OpenSSL License
 C++ Guideline Support Library 4.0.0: https://github.com/Microsoft/GSL : MIT License
 google-snappy 1.2.2: http://google.github.io/snappy/ : BSD 3-clause "New" or "Revised" License
 HdrHistogram_c 0.11.8: https://github.com/HdrHistogram/HdrHistogram_c : (BSD 2-clause "Simplified" License AND Creative Commons Zero v1.0 Universal AND Public Domain)
@@ -327,22 +327,17 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of
 
 ---
 
-Public Domain
-(HdrHistogram_c 0.11.8)
-
-Public domain code is not subject to any license.
-
----
-
-The Open SSL License
+OpenSSL License
 (BoringSSL 20200921)
 
-OpenSSL
-=======
+OpenSSL Project License
+=======================
 
+OpenSSL License
+---------------
 
-Copyright (c) 1998-2000 The OpenSSL Project. All rights reserved.
------------------------------------------------------------------
+====================================================================
+Copyright (c) 1998-2001 The OpenSSL Project. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:
@@ -350,28 +345,28 @@ are permitted provided that the following conditions are met:
   1. Redistributions of source code must retain the above copyright notice, this
     list of conditions and the following disclaimer.
 
-  2. Redistributions in binary form must reproduce the above copyright notice,
+  2.  Redistributions in binary form must reproduce the above copyright notice,
     this list of conditions and the following disclaimer in the documentation
     and/or other materials provided with the distribution.
 
   3. All advertising materials mentioning features or use of this software must
-    display the following acknowledgment: This product includes software
-    developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org)
+    display the following acknowledgment: "This product includes software
+    developed by the OpenSSL Project for use in the OpenSSL Toolkit.
+    (http://www.openssl.org/)"
 
   4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
     endorse or promote products derived from this software without prior written
-    permission. For written permission, please contact openssl-core@openssl.org
+    permission. For written permission, please contact openssl-core@openssl.org.
 
-  5. Products derived from this software may not be called "OpenSSL" nor may
+  5.  Products derived from this software may not be called "OpenSSL" nor may
     "OpenSSL" appear in their names without prior written permission of the
     OpenSSL Project.
 
   6. Redistributions of any form whatsoever must retain the following
-    acknowledgment: "This product includes software developed by the OpenSSL
-    Project for use in the OpenSSL Toolkit (http://www.openssl.org)"
+    acknowledgment:
 
-
-
+      "This product includes software developed by the OpenSSL Project for use in
+      the OpenSSL Toolkit (http://www.openssl.org/)"
 
 THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR
 IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
@@ -382,9 +377,19 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
 PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
 WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
 OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
-THE POSSIBILITY OF SUCH DAMAGE. This product includes cryptographic software
-written by Eric Young (eay@cryptsoft.com). This product includes software written
-by Tim Hudson (tjh@cryptsoft.com).
+THE POSSIBILITY OF SUCH DAMAGE.
+====================================================================
+
+This product includes cryptographic software written by Eric Young
+(eay@cryptsoft.com). This product includes software written by Tim Hudson
+(tjh@cryptsoft.com).
+
+---
+
+Public Domain
+(HdrHistogram_c 0.11.8)
+
+Public domain code is not subject to any license.
 
 ---
 
