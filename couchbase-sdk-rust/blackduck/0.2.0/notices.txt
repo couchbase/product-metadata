@@ -20,7 +20,6 @@ bitflags 1.3.2: https://github.com/bitflags/bitflags : (MIT License OR Apache Li
 BurntSushi/rust-memchr 1.0.2: https://github.com/BurntSushi/rust-memchr : (MIT License AND Public Domain)
 BurntSushi/rust-memchr 2.8.0: https://github.com/BurntSushi/rust-memchr : (MIT License OR The Unlicense)
 BurntSushi/utf8-ranges 1.0.5: https://github.com/BurntSushi/utf8-ranges : (MIT License OR The Unlicense)
-cc-rs 1.2.55: https://docs.rs/cc : (MIT License OR Apache License 2.0)
 cexpr 0.2.3: https://crates.io/crates/cexpr : (MIT License OR Apache License 2.0)
 clap-rs/clap 2.34.0: https://github.com/clap-rs/clap : MIT License
 contain-rs/vec-map 0.8.2: https://github.com/contain-rs/vec-map : (MIT License OR Apache License 2.0)
@@ -66,7 +65,6 @@ rust-aho-corasick 0.6.10: https://github.com/BurntSushi/aho-corasick : MIT Licen
 rust-ansi-term v0.12.1: https://crates.io/crates/ansi_term : MIT License
 rust-lang-nursery/futures-rs 0.1.31: http://rust-lang-nursery.github.io/futures-rs : (MIT License OR Apache License 2.0)
 rust-lang/cc-rs 0.1.9 : (MIT License OR Apache License 2.0)
-rust-lang/libc 0.2.181: https://github.com/rust-lang/libc : (MIT License OR Apache License 2.0)
 rust-lang/rust-bindgen 0.20.5: https://rust-lang.github.io/rust-bindgen/ : BSD 3-clause "New" or "Revised" License
 rust-lang/rustc-serialize 0.3.25: https://github.com/rust-lang/rustc-serialize : (MIT License OR Apache License 2.0)
 rust-nom 3.2.1: https://github.com/Geal/nom : MIT License
@@ -100,7 +98,7 @@ unicode-rs/unicode-xid 0.0.4: https://github.com/unicode-rs/unicode-xid : (MIT L
 Licenses: 
 
 Apache License 2.0
-(alexcrichton/cfg-if 0.1.10, alexcrichton/cmake-rs 0.1.57, Amanieu/thread_local-rs 0.3.6, aster 0.38.0, autocfg 0.1.8, autocfg 1.5.0, bitflags 0.7.0, bitflags 1.3.2, cc-rs 1.2.55, cexpr 0.2.3, contain-rs/vec-map 0.8.2, couchbase-sys 0.2.0, dtolnay/dtoa 0.4.8, dtolnay/itoa 0.3.4, dtolnay/quote 0.3.15, env_logger 0.4.3, erickt/rust-syntex 0.54.0, glob 0.2.11, idna 0.1.5, jedisct1/rust-siphash 0.2.3, KyleMayes/clang-sys 0.12.0, lazy_static 0.2.11, lazy_static 1.5.0, log 0.3.9, log 0.4.29, maybe-uninit 2.0.0, num-traits 0.2.19, num-traits num-traits-0.1.43, parking_lot 0.3.8, parking_lot_core 0.2.14, percent-encoding 1.0.1, pkg-config 0.3.32, quasi 0.29.0, quasi_codegen 0.29.0, rand_hc 0.1.0, rand_isaac 0.1.1, rand_jitter 0.1.4, rand_xorshift 0.1.1, regex-syntax 0.5.6, rust-lang-nursery/futures-rs 0.1.31, rust-lang/cc-rs 0.1.9, rust-lang/libc 0.2.181, rust-lang/rustc-serialize 0.3.25, rust-random/rand 0.4.6, rust-random/rand 0.6.5, rust-regex 0.2.11, rust-url 1.7.2, serde_derive 0.14.2, serde_derive 0.9.15, serde_json 0.9.10, servo/rust-smallvec 0.6.14, servo/unicode-bidi 0.3.18, shlex 1.3.0, Stebalien/term 0.4.6, syn 0.11.11, syn 0.11.3, syntex_errors 0.54.0, syntex_pos 0.54.0, syntex_syntax 0.54.0, target_build_utils 0.3.1, thread-id 3.3.0, tinyvec 1.10.0, tinyvec_macros 0.1.1, ucd-util 0.1.10, unicode-rs/unicode-normalization 0.1.25, unicode-rs/unicode-width 0.1.14, unicode-rs/unicode-xid 0.0.4)
+(alexcrichton/cfg-if 0.1.10, alexcrichton/cmake-rs 0.1.57, Amanieu/thread_local-rs 0.3.6, aster 0.38.0, autocfg 0.1.8, autocfg 1.5.0, bitflags 0.7.0, bitflags 1.3.2, cexpr 0.2.3, contain-rs/vec-map 0.8.2, couchbase-sys 0.2.0, dtolnay/dtoa 0.4.8, dtolnay/itoa 0.3.4, dtolnay/quote 0.3.15, env_logger 0.4.3, erickt/rust-syntex 0.54.0, glob 0.2.11, idna 0.1.5, jedisct1/rust-siphash 0.2.3, KyleMayes/clang-sys 0.12.0, lazy_static 0.2.11, lazy_static 1.5.0, log 0.3.9, log 0.4.29, maybe-uninit 2.0.0, num-traits 0.2.19, num-traits num-traits-0.1.43, parking_lot 0.3.8, parking_lot_core 0.2.14, percent-encoding 1.0.1, pkg-config 0.3.32, quasi 0.29.0, quasi_codegen 0.29.0, rand_hc 0.1.0, rand_isaac 0.1.1, rand_jitter 0.1.4, rand_xorshift 0.1.1, regex-syntax 0.5.6, rust-lang-nursery/futures-rs 0.1.31, rust-lang/cc-rs 0.1.9, rust-lang/rustc-serialize 0.3.25, rust-random/rand 0.4.6, rust-random/rand 0.6.5, rust-regex 0.2.11, rust-url 1.7.2, serde_derive 0.14.2, serde_derive 0.9.15, serde_json 0.9.10, servo/rust-smallvec 0.6.14, servo/unicode-bidi 0.3.18, shlex 1.3.0, Stebalien/term 0.4.6, syn 0.11.11, syn 0.11.3, syntex_errors 0.54.0, syntex_pos 0.54.0, syntex_syntax 0.54.0, target_build_utils 0.3.1, thread-id 3.3.0, tinyvec 1.10.0, tinyvec_macros 0.1.1, ucd-util 0.1.10, unicode-rs/unicode-normalization 0.1.25, unicode-rs/unicode-width 0.1.14, unicode-rs/unicode-xid 0.0.4)
 
 Apache License
 Version 2.0, January 2004
@@ -829,7 +827,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(alexcrichton/cmake-rs 0.1.57, aster 0.38.0, autocfg 1.5.0, BurntSushi/rust-memchr 2.8.0, BurntSushi/utf8-ranges 1.0.5, cc-rs 1.2.55, clap-rs/clap 2.34.0, dtolnay/dtoa 0.4.8, env_logger 0.4.3, jedisct1/rust-siphash 0.2.3, log 0.4.29, matches 0.1.10, num-traits 0.2.19, parking_lot_core 0.2.14, pkg-config 0.3.32, quasi 0.29.0, quasi_codegen 0.29.0, rust-lang/cc-rs 0.1.9, rust-lang/libc 0.2.181, servo/unicode-bidi 0.3.18, shlex 1.3.0, syntex_errors 0.54.0, syntex_pos 0.54.0, syntex_syntax 0.54.0, tinyvec 1.10.0, tinyvec_macros 0.1.1, ucd-util 0.1.10, unicode-rs/unicode-normalization 0.1.25, unicode-rs/unicode-width 0.1.14)
+(alexcrichton/cmake-rs 0.1.57, aster 0.38.0, autocfg 1.5.0, BurntSushi/rust-memchr 2.8.0, BurntSushi/utf8-ranges 1.0.5, clap-rs/clap 2.34.0, dtolnay/dtoa 0.4.8, env_logger 0.4.3, jedisct1/rust-siphash 0.2.3, log 0.4.29, matches 0.1.10, num-traits 0.2.19, parking_lot_core 0.2.14, pkg-config 0.3.32, quasi 0.29.0, quasi_codegen 0.29.0, rust-lang/cc-rs 0.1.9, servo/unicode-bidi 0.3.18, shlex 1.3.0, syntex_errors 0.54.0, syntex_pos 0.54.0, syntex_syntax 0.54.0, tinyvec 1.10.0, tinyvec_macros 0.1.1, ucd-util 0.1.10, unicode-rs/unicode-normalization 0.1.25, unicode-rs/unicode-width 0.1.14)
 
 The MIT License
 ===============
