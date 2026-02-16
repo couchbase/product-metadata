@@ -242,10 +242,10 @@ ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
 ansi-escapes 4.3.2: https://github.com/sindresorhus/ansi-escapes : MIT License
 ansi-escapes v3.2.0: https://github.com/sindresorhus/ansi-escapes : MIT License
 ansi-html 0.0.7: https://github.com/Tjatse/ansi-html : Apache License 2.0
-ansi-regex 2.1.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-regex 3.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-regex 4.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-regex 5.0.0: https://github.com/sindresorhus/ansi-regex : MIT License
+ansi-regex 2.1.1: https://github.com/chalk/ansi-regex : MIT License
+ansi-regex 3.0.0: https://github.com/chalk/ansi-regex : MIT License
+ansi-regex 4.1.0: https://github.com/chalk/ansi-regex : MIT License
+ansi-regex 5.0.0: https://github.com/chalk/ansi-regex : MIT License
 ansi-styles 2.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
@@ -339,7 +339,6 @@ callsites 3.1.0: https://github.com/sindresorhus/callsites : MIT License
 camelcase 3.0.0: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 5.3.1: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 6.2.0: https://github.com/sindresorhus/camelcase : MIT License
-caniuse-api 3.0.0: https://github.com/nyalab/caniuse-api : MIT License
 caniuse-lite 1.0.30001252: https://github.com/ben-eb/caniuse-lite : Creative Commons Attribution 4.0
 caseless 0.12.0: https://github.com/mikeal/caseless : Apache License 2.0
 Chalk 1.1.3: https://github.com/sindresorhus/chalk : MIT License
@@ -374,10 +373,10 @@ color-name 1.1.4: https://github.com/colorjs/color-name : MIT License
 color-string 1.6.0: https://github.com/Qix-/color-string : MIT License
 colorette 1.3.0: https://github.com/jorgebucaran/colorette : MIT License
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 2.17.1: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 2.19.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 2.17.1: https://github.com/tj/commander.js : MIT License
+Commander.js 2.19.0: https://github.com/tj/commander.js : MIT License
+Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
+Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
 Commitizen CLI 4.2.4: http://commitizen.github.io/cz-cli/ : MIT License
 commitizen/cz-conventional-changelog 3.2.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
 commitizen/cz-conventional-changelog 3.3.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
@@ -802,6 +801,7 @@ jsbn 0.1.1: https://github.com/timkurvers/jsbn : MIT License
 jsdom 16.7.0: https://github.com/jsdom/jsdom : MIT License
 jsesc 0.5.0: http://mths.be/jsesc : MIT License
 jsesc v2.5.2: http://mths.be/jsesc : MIT License
+jshttp statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 JSHTTP's negotiator 0.6.2: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.4: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
@@ -1010,6 +1010,7 @@ nth-check 2.0.0: https://github.com/fb55/nth-check : BSD 2-clause "Simplified" L
 num2fraction 1.2.2: https://github.com/yisibl/num2fraction : MIT License
 number-is-nan 1.0.1: https://github.com/sindresorhus/number-is-nan : MIT License
 nwsapi 2.2.0: http://javascript.nwbox.com/nwsapi/ : MIT License
+Nyalab/caniuse-api 3.0.0: https://github.com/Nyalab/caniuse-api : MIT License
 object-assign 4.1.1: https://github.com/sindresorhus/object-assign : MIT License
 object-inspect 1.11.0: https://github.com/substack/object-inspect : MIT License
 object-is 1.1.5: https://github.com/ljharb/object-is : MIT License
@@ -1049,6 +1050,7 @@ parse-json 4.0.0: https://github.com/sindresorhus/parse-json : MIT License
 parse-json v5.2.0: https://github.com/sindresorhus/parse-json : MIT License
 parse-passwd 1.0.0: https://github.com/doowb/parse-passwd : MIT License
 parse5 6.0.1: https://github.com/inikulin/parse5 : MIT License
+parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 pascalcase 0.1.1: https://github.com/jonschlinkert/pascalcase : MIT License
 path-browserify 0.0.1: https://github.com/browserify/path-browserify : MIT License
 path-dirname 1.0.2: https://github.com/es128/path-dirname : MIT License
@@ -1067,7 +1069,6 @@ picomatch 2.3.0: https://github.com/micromatch/picomatch : MIT License
 pify 2.3.0: https://github.com/sindresorhus/pify : MIT License
 pify 3.0.0: https://github.com/sindresorhus/pify : MIT License
 pify 4.0.1: https://github.com/sindresorhus/pify : MIT License
-pillarjs/parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 pinkie-promise 2.0.1: https://github.com/floatdrop/pinkie-promise#readme : MIT License
 pirates 4.0.1: https://github.com/ariporad/pirates#readme : MIT License
 pkg-dir 3.0.0: https://github.com/sindresorhus/pkg-dir : MIT License
@@ -1254,11 +1255,11 @@ sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT Licen
 sindresorhus/slash 1.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v2.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 2.0.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 8.1.1: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color 2.0.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
 slice-ansi 3.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -1287,7 +1288,6 @@ stack-utils 1.0.5: https://github.com/jamestalmage/stack-utils#readme : MIT Lice
 stack-utils 2.0.3: https://github.com/jamestalmage/stack-utils#readme : MIT License
 static-eval 2.0.2: https://github.com/substack/static-eval : MIT License
 static-extend 0.1.2: https://github.com/jonschlinkert/static-extend : MIT License
-statuses 1.5.0: https://github.com/jshttp/statuses : MIT License
 std-env v2.3.0: https://github.com/pi0/std-env : MIT License
 stream-browserify 2.0.2: https://github.com/substack/stream-browserify : MIT License
 stream-each 1.2.3: https://github.com/mafintosh/stream-each : MIT License
@@ -6147,7 +6147,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(pillarjs/parseurl 1.3.3)
+(parseurl 1.3.3)
 
 (The MIT License)
 
@@ -13923,7 +13923,7 @@ SOFTWARE
 ---
 
 MIT License
-(statuses 1.5.0)
+(jshttp statuses 1.5.0)
 
 The MIT License (MIT)
 
@@ -17022,7 +17022,7 @@ SOFTWARE
 ---
 
 MIT License
-(caniuse-api 3.0.0)
+(Nyalab/caniuse-api 3.0.0)
 
 The MIT License (MIT)
 
