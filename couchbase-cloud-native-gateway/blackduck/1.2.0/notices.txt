@@ -51,7 +51,7 @@ couchbase/goprotostellar 20251126-snapshot-a7d8eefc : Apache License 2.0
 couchbase/stellar-gateway v0.1.0 : 
 couchbaselabs/gocbconnstr v1.0.5 : Apache License 2.0
 couchbaselabs/gocbconnstr v2.0.0 : Apache License 2.0
-cpuguy83-go-md2man v2.0.6: https://github.com/cpuguy83/go-md2man : MIT License
+cpuguy83-go-md2man 2.0.6: https://github.com/cpuguy83/go-md2man : MIT License
 dnaeon/go-vcr v1.1.0: http://github.com/dnaeon/go-vcr/ : BSD 2-clause "Simplified" License
 dprotaso/go-yit 20250513-snapshot-18a80f8f : MIT License
 envoyproxy/go-control-plane 20251024-snapshot-75eaa193: https://github.com/envoyproxy/go-control-plane : Apache License 2.0
@@ -88,7 +88,6 @@ github.com/sagikazarmark/locafero v0.12.0: https://github.com/sagikazarmark/loca
 github.com/speakeasy-api/jsonpath v0.6.2 : Apache License 2.0
 github.com/speakeasy-api/openapi-overlay v0.10.3 : MIT License
 github.com/twitchyliquid64/golang-asm v0.15.1 : BSD 3-clause "New" or "Revised" License
-Go Logrus v1.8.1: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.25.5: http://golang.org/ : Go BSD License with Patent Provision
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
 go-check-check 20201130-snapshot-10cb9826: http://labix.org/gocheck : BSD 2-clause "Simplified" License
@@ -116,7 +115,7 @@ go.yaml.in/yaml/v2 v3.0.4 : MIT License
 goccy/go-json v0.10.2: https://github.com/goccy/go-json : MIT License
 godebug v1.1.0: https://github.com/kylelemons/godebug : Apache License 2.0
 GoDoc Text v0.2.0: http://godoc.org/github.com/kr/text : MIT License
-Golang Protobuf v1.36.11: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
+Golang Protobuf 1.36.11: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
 Golang Protobuf v1.5.4: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev v1.0.10: https://github.com/spf13/pflag : BSD 3-clause "New" or "Revised" License
 golang-jwt/jwt v3.2.1: https://github.com/golang-jwt/jwt : MIT License
@@ -289,7 +288,7 @@ jsoniter-go v1.1.12: http://jsoniter.com/ : MIT License
 julienschmidt/httprouter v1.3.0: https://github.com/julienschmidt/httprouter : BSD 3-clause "New" or "Revised" License
 kataras/blocks v0.0.7 : MIT License
 kataras/golog v0.1.9 : BSD 3-clause "New" or "Revised" License
-kataras/pio v0.0.12 : BSD 3-clause "New" or "Revised" License
+kataras/pio v0.0.12: https://github.com/kataras/pio : BSD 3-clause "New" or "Revised" License
 kataras/sitemap v0.0.6 : MIT License
 kataras/tunnel v0.0.4 : MIT License
 keybase/go-keychain v0.0.1 : MIT License
@@ -335,6 +334,7 @@ rs-cors v1.11.1: https://github.com/rs/cors : MIT License
 schollz/closestmatch v2.1.0: https://github.com/schollz/closestmatch : MIT License
 sergi/go-diff v1.1.0: https://github.com/sergi/go-diff : (MIT License AND Apache License 2.0)
 Shopify/goreferrer 20220729-snapshot-8cddb4f5 : MIT License
+Sirupsen/logrus v1.8.1: https://github.com/Sirupsen/logrus : MIT License
 sourcegraph/conc 20240121-snapshot-5f936abd: https://github.com/sourcegraph/conc : MIT License
 spf13-afero v1.15.0: https://github.com/spf13/afero : Apache License 2.0
 spf13-cast v1.10.0: https://github.com/spf13/cast : MIT License
@@ -812,7 +812,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(bluemonday v1.0.25, BurntSushi/toml 1.3.2, exp 20260112-snapshot-716be562, fsnotify-fsnotify v1.9.0, github.com/antlr4-go/antlr v4.13.0, github.com/juju/gnuflag 20171113-snapshot-2ce1bb71, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, github.com/twitchyliquid64/golang-asm v0.15.1, go.googlesource.com/arch v0.4.0, Golang Protobuf v1.36.11, Golang Protobuf v1.5.4, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.47.0, golang.org/x/mod v0.32.0, golang.org/x/net v0.49.0, golang.org/x/oauth2 v0.34.0, golang.org/x/sys v0.40.0, golang.org/x/term v0.39.0, golang.org/x/time v0.14.0, golang.org/x/tools v0.41.0, golang.org/x/xerrors 20220411-snapshot-2f41105e, golang/sync v0.19.0, golang/telemetry 20260109-snapshot-bd525da8, golang/text v0.33.0, Gonum numerical packages v0.16.0, google-go-querystring v1.2.0, google/go-cmp v0.7.0, googleapis/gax-go v2.16.0, googleapis/google-api-go-client v0.260.0, Googleuuid v1.6.0, gorilla/css v1.0.0, gorilla/mux v1.8.1, grpc-gateway v2.27.4, kataras/golog v0.1.9, kataras/pio v0.0.12, klauspost-compress v1.18.3, mattn-go-colorable 0.1.13, rogpeppe/go-internal v1.14.1, xhit/go-str2duration v2.1.0)
+(bluemonday v1.0.25, BurntSushi/toml 1.3.2, exp 20260112-snapshot-716be562, fsnotify-fsnotify v1.9.0, github.com/antlr4-go/antlr v4.13.0, github.com/juju/gnuflag 20171113-snapshot-2ce1bb71, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, github.com/twitchyliquid64/golang-asm v0.15.1, go.googlesource.com/arch v0.4.0, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.47.0, golang.org/x/mod v0.32.0, golang.org/x/net v0.49.0, golang.org/x/oauth2 v0.34.0, golang.org/x/sys v0.40.0, golang.org/x/term v0.39.0, golang.org/x/time v0.14.0, golang.org/x/tools v0.41.0, golang.org/x/xerrors 20220411-snapshot-2f41105e, golang/sync v0.19.0, golang/telemetry 20260109-snapshot-bd525da8, golang/text v0.33.0, Gonum numerical packages v0.16.0, google-go-querystring v1.2.0, google/go-cmp v0.7.0, googleapis/gax-go v2.16.0, googleapis/google-api-go-client v0.260.0, Googleuuid v1.6.0, gorilla/css v1.0.0, gorilla/mux v1.8.1, grpc-gateway v2.27.4, kataras/golog v0.1.9, kataras/pio v0.0.12, klauspost-compress v1.18.3, mattn-go-colorable 0.1.13, rogpeppe/go-internal v1.14.1, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -1391,7 +1391,7 @@ SOFTWARE
 ---
 
 MIT License
-(Go Logrus v1.8.1)
+(Sirupsen/logrus v1.8.1)
 
 The MIT License (MIT)
 
@@ -1876,7 +1876,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.4.0, alecthomas-units 20240927-snapshot-0f3dac36, andybalholm/brotli v1.0.5, Azure/azure-sdk-for-go sdk/azcore/v1.21.0, Azure/azure-sdk-for-go sdk/azidentity/v1.13.1, Azure/azure-sdk-for-go sdk/internal/v1.11.2, Azure/azure-sdk-for-go sdk/keyvault/azsecrets/v0.12.0, Azure/azure-sdk-for-go sdk/keyvault/internal/v0.7.1, AzureAD/microsoft-authentication-library-for-go v1.6.0, BurntSushi/toml 1.3.2, cenkalti/backoff v5.0.3, cespare/xxhash v2.3.0, CloudyKit/fastprinter 20200109-snapshot-33d98a06, cpuguy83-go-md2man v2.0.6, dprotaso/go-yit 20250513-snapshot-18a80f8f, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, gabriel-vasile/mimetype v1.4.2, getkin/kin-openapi v0.133.0, gin-gonic/gin v1.9.1, github.com/antihax/optional 1.0.0, github.com/apapsch/go-jsonmerge v2.0.0, github.com/go-viper/mapstructure v2.5.0, github.com/mailgun/raymond v2.0.48, github.com/sagikazarmark/locafero v0.12.0, github.com/speakeasy-api/openapi-overlay v0.10.3, Go Testify v1.11.1, go-echo v4.11.4, go-playground-universal-translator v0.18.1, go-playground/locales v0.14.1, go-playground/validator v10.14.1, go-toml v2.2.4, go-viper v1.21.0, go-zap v1.27.1, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, go.yaml.in/yaml/v2 v3.0.4, goccy/go-json v0.10.2, golang-jwt/jwt v5.3.0, golang-stats v0.7.0, gomega v1.37.0, kataras/blocks v0.0.7, kataras/sitemap v0.0.6, kataras/tunnel v0.0.4, keybase/go-keychain v0.0.1, klauspost-cpuid v2.2.5, kr/pretty v0.3.1, labstack-gommon v0.4.2, leodido/go-urn v1.2.4, mailru/easyjson v0.9.1, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.20, nxadm/tail v1.4.11, RaveNoX/go-jsoncommentstrip v1.0.0, rs-cors v1.11.1, Shopify/goreferrer 20220729-snapshot-8cddb4f5, sourcegraph/conc 20240121-snapshot-5f936abd, spf13-cast v1.10.0, stoewer/go-strcase v1.3.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tdewolff-minify 2.12.9, tdewolff-parse v2.6.8, uber-go/atomic v1.11.0, ugorji's go codec/v1.2.11, valyala-fasttemplate v1.2.2, yaml for Go v3.0.1, yuin/goldmark v1.4.13)
+(alecthomas-kingpin v2.4.0, alecthomas-units 20240927-snapshot-0f3dac36, andybalholm/brotli v1.0.5, Azure/azure-sdk-for-go sdk/azcore/v1.21.0, Azure/azure-sdk-for-go sdk/azidentity/v1.13.1, Azure/azure-sdk-for-go sdk/internal/v1.11.2, Azure/azure-sdk-for-go sdk/keyvault/azsecrets/v0.12.0, Azure/azure-sdk-for-go sdk/keyvault/internal/v0.7.1, AzureAD/microsoft-authentication-library-for-go v1.6.0, BurntSushi/toml 1.3.2, cenkalti/backoff v5.0.3, cespare/xxhash v2.3.0, CloudyKit/fastprinter 20200109-snapshot-33d98a06, cpuguy83-go-md2man 2.0.6, dprotaso/go-yit 20250513-snapshot-18a80f8f, felixge/httpsnoop v1.0.4, frankban/quicktest v1.14.6, gabriel-vasile/mimetype v1.4.2, getkin/kin-openapi v0.133.0, gin-gonic/gin v1.9.1, github.com/antihax/optional 1.0.0, github.com/apapsch/go-jsonmerge v2.0.0, github.com/go-viper/mapstructure v2.5.0, github.com/mailgun/raymond v2.0.48, github.com/sagikazarmark/locafero v0.12.0, github.com/speakeasy-api/openapi-overlay v0.10.3, Go Testify v1.11.1, go-echo v4.11.4, go-playground-universal-translator v0.18.1, go-playground/locales v0.14.1, go-playground/validator v10.14.1, go-toml v2.2.4, go-viper v1.21.0, go-zap v1.27.1, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, go.yaml.in/yaml/v2 v3.0.4, goccy/go-json v0.10.2, golang-jwt/jwt v5.3.0, golang-stats v0.7.0, gomega v1.37.0, kataras/blocks v0.0.7, kataras/sitemap v0.0.6, kataras/tunnel v0.0.4, keybase/go-keychain v0.0.1, klauspost-cpuid v2.2.5, kr/pretty v0.3.1, labstack-gommon v0.4.2, leodido/go-urn v1.2.4, mailru/easyjson v0.9.1, mattn-go-colorable 0.1.13, mattn-go-isatty v0.0.20, nxadm/tail v1.4.11, RaveNoX/go-jsoncommentstrip v1.0.0, rs-cors v1.11.1, Shopify/goreferrer 20220729-snapshot-8cddb4f5, sourcegraph/conc 20240121-snapshot-5f936abd, spf13-cast v1.10.0, stoewer/go-strcase v1.3.0, stretchr/objx v0.5.2, subosito/gotenv v1.6.0, tdewolff-minify 2.12.9, tdewolff-parse v2.6.8, uber-go/atomic v1.11.0, ugorji's go codec/v1.2.11, valyala-fasttemplate v1.2.2, yaml for Go v3.0.1, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
