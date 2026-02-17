@@ -66,7 +66,7 @@
 64,couchbaselabs/gocbconnstr,v1.0.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57f974ce-4fd9-4050-a636-6595d3e98c1b,5900e354-e945-44ec-82a9-643f3f43c83c,7cae335f-1193-421e-92f1-8802b4243e93
 65,couchbaselabs/gocbconnstr,v2.0.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57f974ce-4fd9-4050-a636-6595d3e98c1b,df15b989-4d45-4574-b932-f64c175450ad,7cae335f-1193-421e-92f1-8802b4243e93
 66,dominikh/go-tools,20190523-snapshot-ea95bdfd,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,6856f4c4-479d-4612-95f7-e343632dd421,5dc707b7-676f-48fc-bee7-253c8fba16a5,ad705c59-6893-4980-bdbf-0837f1823cc4
-67,ebitengine/purego,v0.9.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b8558193-e7a9-4acc-ab27-51f65dcfaaf8,991fc1ec-7cd8-41ae-a33c-4e8af7ab60e2,7cae335f-1193-421e-92f1-8802b4243e93
+67,ebitengine/purego,v0.9.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b8558193-e7a9-4acc-ab27-51f65dcfaaf8,a4efe0ce-ca89-4fe5-8adf-8a483d7f76a0,7cae335f-1193-421e-92f1-8802b4243e93
 68,envoyproxy/go-control-plane,envoy/v1.32.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,50ef9d89-08b8-46cd-83d3-cd903c23cd4e,6720316f-37f4-4b5b-9784-d46fce907925,7cae335f-1193-421e-92f1-8802b4243e93
 69,envoyproxy/go-control-plane,ratelimit/v0.1.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,50ef9d89-08b8-46cd-83d3-cd903c23cd4e,ce907287-57e7-49c8-a9d7-81fc862f0d3e,7cae335f-1193-421e-92f1-8802b4243e93
 70,envoyproxy/go-control-plane,v0.13.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,50ef9d89-08b8-46cd-83d3-cd903c23cd4e,ba076bf4-8b3a-412b-8d08-32b788c516d3,7cae335f-1193-421e-92f1-8802b4243e93
@@ -145,7 +145,7 @@
 143,googleapis/go-genproto,20250528-snapshot-200df99c,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b1e6bf42-b243-4385-a118-af40bba11ff3,6fd70c5d-f92b-44fc-beed-8a2c4034f417,7cae335f-1193-421e-92f1-8802b4243e93
 144,googleapis/go-genproto,20250811-snapshot-5f3141c8,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b1e6bf42-b243-4385-a118-af40bba11ff3,3bfd07e6-a850-4423-9958-4d742fa1ff18,7cae335f-1193-421e-92f1-8802b4243e93
 145,googleapis/google-api-go-client,v0.154.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,515827f6-5ef8-4b0d-ae66-54ec92ed549e,45bded59-cb13-44fa-9f30-9236f8e283e6,3d238144-44e6-450e-b523-3defbdaed9dc
-146,gopsutil,v4.25.9,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,76525962-fcce-451f-9ab6-90bac98e58e7,010ffbb4-ff78-44bf-89cb-e753f130b1da,3d238144-44e6-450e-b523-3defbdaed9dc
+146,gopsutil,v4.26.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,76525962-fcce-451f-9ab6-90bac98e58e7,9dd6f9ab-d5c9-42e0-b188-73f440c41239,3d238144-44e6-450e-b523-3defbdaed9dc
 147,gorilla/mux,v1.8.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,9d91c5e4-2751-443d-8282-9d399dbb578e,3c4120cd-0416-4b50-a7ba-f23fcb3162b3,3d238144-44e6-450e-b523-3defbdaed9dc
 148,gorilla/websocket,v1.5.3,Transitive Dependency,"BSD 2-clause ""Simplified"" License",PERMISSIVE,NOT_REVIEWED,d92d2651-b10f-4ae4-9aa7-4a820d904f58,906c021a-b02d-4bab-8ea8-303551c107c2,cc875133-df38-4806-9921-473e0ef01a87
 149,groupcache,20210331-snapshot-41bb18bf,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8aac6968-bb3d-4a2f-bbc0-ace502f6983f,9c9a8acd-076f-47c1-a54a-19ec7e34b0b5,7cae335f-1193-421e-92f1-8802b4243e93
@@ -195,8 +195,8 @@
 193,spiffe/go-spiffe,v2.5.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5bbfcbcd-69ba-488c-8350-a878b2862ffc,35752e53-5fa6-42b8-8068-41e969123427,7cae335f-1193-421e-92f1-8802b4243e93
 194,stretchr/objx,v0.5.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d0abba68-a7fa-414d-8a07-a6d4195e2c5c,5e9c5c2f-3c07-4892-b72b-56f955318125,ad705c59-6893-4980-bdbf-0837f1823cc4
 195,sync_gateway,4.0.1,"Files Added/Deleted,Exact,Files Modified",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,38d01328-6eed-45b5-86e1-40f32719bb46,d0a7c53d-1d5c-427a-bfbf-ea3de6b92085,7cae335f-1193-421e-92f1-8802b4243e93
-196,tklauser/go-sysconf,v0.3.15,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bb8cb6f3-ecb8-43e5-9904-37db44aff56d,c0edbdaa-4c92-474d-a55a-2fdbabde8e4c,3d238144-44e6-450e-b523-3defbdaed9dc
-197,tklauser/numcpus,v0.10.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7f38760e-65e0-47e5-86b2-548af9b99a4a,525f408c-0d27-4d0d-8d0c-520c27dc82df,7cae335f-1193-421e-92f1-8802b4243e93
+196,tklauser/go-sysconf,v0.3.16,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bb8cb6f3-ecb8-43e5-9904-37db44aff56d,e563f06f-3378-4c3a-924f-db5096cc3207,3d238144-44e6-450e-b523-3defbdaed9dc
+197,tklauser/numcpus,v0.11.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7f38760e-65e0-47e5-86b2-548af9b99a4a,c70855cd-3e48-4623-bac1-3b597e3973ac,7cae335f-1193-421e-92f1-8802b4243e93
 198,uber-go/atomic,1.7.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,c558b07a-e763-4f7e-b160-a33bc4349b1c,6aafbbfc-7c9e-40c2-aa2b-36b56942331f,ad705c59-6893-4980-bdbf-0837f1823cc4
 199,wheelcomplex/gosigar,v0.14.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,0bf1cab7-51fa-484a-b1df-4afaaefa1d8c,f868d787-1b1a-4551-a888-d8a42859e10d,7cae335f-1193-421e-92f1-8802b4243e93
 200,xhit/go-str2duration,v2.1.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,885a73ab-ba75-4448-b14a-b5d0c4d92f06,10c86cc2-dc7e-4406-890a-2a83c3fb1a71,3d238144-44e6-450e-b523-3defbdaed9dc
