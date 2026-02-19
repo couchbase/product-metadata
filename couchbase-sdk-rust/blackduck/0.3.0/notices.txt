@@ -36,13 +36,14 @@ stable_deref_trait 1.2.1 : (MIT License OR Apache License 2.0)
 syn 2.0.116: https://github.com/dtolnay/syn : Apache License 2.0
 tinyvec 1.10.0 : (zlib License OR MIT License OR Apache License 2.0)
 tinyvec_macros 0.1.1: https://crates.io/crates/tinyvec_macros : (zlib License OR MIT License OR Apache License 2.0)
+unicode-ident 1.0.24 : (Unicode License v3 AND (MIT License OR Apache License 2.0))
 unicode-rs/unicode-normalization 0.1.25: https://github.com/unicode-rs/unicode-normalization : (MIT License OR Apache License 2.0)
 zmij 1.0.21 : MIT License
 
 Licenses: 
 
 Apache License 2.0
-(alexcrichton/proc-macro2 1.0.106, couchbase-sys 0.3.0, dtolnay/itoa 1.0.17, dtolnay/quote 1.0.44, idna 0.1.5, log 0.3.9, log 0.4.29, maybe-uninit 2.0.0, parking_lot 0.4.8, parking_lot_core 0.2.14, percent-encoding 1.0.1, pkg-config 0.3.32, rust-lang-nursery/futures-rs 0.1.31, rust-lang/libc 0.2.182, rust-random/rand 0.4.6, rust-url 1.7.2, serde_derive 1.0.228, serde_json 1.0.149, servo/rust-smallvec 0.6.14, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, syn 2.0.116, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-rs/unicode-normalization 0.1.25)
+(alexcrichton/proc-macro2 1.0.106, couchbase-sys 0.3.0, dtolnay/itoa 1.0.17, dtolnay/quote 1.0.44, idna 0.1.5, log 0.3.9, log 0.4.29, maybe-uninit 2.0.0, parking_lot 0.4.8, parking_lot_core 0.2.14, percent-encoding 1.0.1, pkg-config 0.3.32, rust-lang-nursery/futures-rs 0.1.31, rust-lang/libc 0.2.182, rust-random/rand 0.4.6, rust-url 1.7.2, serde_derive 1.0.228, serde_json 1.0.149, servo/rust-smallvec 0.6.14, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, syn 2.0.116, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-ident 1.0.24, unicode-rs/unicode-normalization 0.1.25)
 
 Apache License
 Version 2.0, January 2004
@@ -442,7 +443,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(alexcrichton/proc-macro2 1.0.106, BurntSushi/rust-memchr 2.8.0, dtolnay/itoa 1.0.17, dtolnay/quote 1.0.44, log 0.4.29, matches 0.1.10, parking_lot_core 0.2.14, pkg-config 0.3.32, rust-lang/libc 0.2.182, serde_derive 1.0.228, serde_json 1.0.149, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-rs/unicode-normalization 0.1.25, zmij 1.0.21)
+(alexcrichton/proc-macro2 1.0.106, BurntSushi/rust-memchr 2.8.0, dtolnay/itoa 1.0.17, dtolnay/quote 1.0.44, log 0.4.29, matches 0.1.10, parking_lot_core 0.2.14, pkg-config 0.3.32, rust-lang/libc 0.2.182, serde_derive 1.0.228, serde_json 1.0.149, servo/unicode-bidi 0.3.18, stable_deref_trait 1.2.1, tinyvec 1.10.0, tinyvec_macros 0.1.1, unicode-ident 1.0.24, unicode-rs/unicode-normalization 0.1.25, zmij 1.0.21)
 
 The MIT License
 ===============
@@ -495,6 +496,50 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to http://unlicense.org/
+
+---
+
+Unicode License v3
+(unicode-ident 1.0.24)
+
+UNICODE LICENSE V3
+==================
+
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright © 1991-2023 Unicode, Inc.
+NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING,
+INSTALLING, COPYING OR OTHERWISE USING DATA FILES, AND/OR SOFTWARE, YOU
+UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE TERMS AND CONDITIONS
+OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY,
+DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+data files and any associated documentation (the "Data Files") or software and
+any associated documentation (the "Software") to deal in the Data Files or
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, and/or sell copies of the Data Files or
+Software, and to permit persons to whom the Data Files or Software are furnished
+to do so, provided that either (a) this copyright and permission notice appear
+with all copies of the Data Files or Software, or (b) this copyright and
+permission notice appear in associated Documentation.
+
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD
+PARTY RIGHTS.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE
+LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY
+DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall not be
+used in advertising or otherwise to promote the sale, use or other dealings in
+these Data Files or Software without prior written authorization of the copyright
+holder.
 
 ---
 
