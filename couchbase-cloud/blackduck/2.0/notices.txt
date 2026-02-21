@@ -2865,6 +2865,7 @@ parse-asn1 5.1.7: https://github.com/calvinmetcalf/parse-asn1 : ISC License
 parse-json v5.2.0: https://github.com/sindresorhus/parse-json : MIT License
 parse5 6.0.1: https://github.com/inikulin/parse5 : MIT License
 parse5 7.2.1: https://github.com/inikulin/parse5 : MIT License
+parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 pascal-case 3.1.2: https://github.com/blakeembrey/change-case/tree/master/packages/pascal-case : MIT License
 pascalcase 0.1.1: https://github.com/jonschlinkert/pascalcase : MIT License
 pascaldekloe/goe v0.1.0: https://github.com/pascaldekloe/goe : Public Domain
@@ -2897,7 +2898,6 @@ picomatch 4.0.3: https://github.com/micromatch/picomatch : MIT License
 pidtree 0.6.0: http://github.com/simonpri/pidtree#readme : MIT License
 pierrec-lz4 v4.1.23: https://github.com/pierrec/lz4 : BSD 3-clause "New" or "Revised" License
 pify 2.3.0: https://github.com/sindresorhus/pify : MIT License
-pillarjs/parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 pirates 4.0.5: https://github.com/ariporad/pirates#readme : MIT License
 pirates 4.0.6: https://github.com/ariporad/pirates#readme : MIT License
 pixelmatch 7.1.0: https://github.com/mapbox/pixelmatch#readme : ISC License
@@ -3213,11 +3213,6 @@ sindresorhus/normalize-url 8.0.2: https://github.com/sindresorhus/normalize-url 
 sindresorhus/onetime 6.0.0: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 2.0.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 3.2.3: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color 8.1.1: https://github.com/chalk/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 Sirupsen/logrus v1.9.3: https://github.com/Sirupsen/logrus : MIT License
 sirv 3.0.2: https://github.com/lukeed/sirv#readme : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
@@ -3308,6 +3303,11 @@ styleguidist/react-docgen-typescript 2.2.2: https://github.com/styleguidist/reac
 subosito/gotenv v1.6.0: https://pkg.go.dev/github.com/subosito/gotenv : MIT License
 substrait-io/substrait-go v0.4.2 : Apache License 2.0
 sucrase 3.35.0: https://github.com/decaffeinate/bulk-decaffeinate#readme : MIT License
+supports-color 2.0.0: https://github.com/chalk/supports-color : MIT License
+supports-color 3.2.3: https://github.com/chalk/supports-color : MIT License
+supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
+supports-color 8.1.1: https://github.com/chalk/supports-color : MIT License
+supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 supports-preserve-symlinks-flag 1.0.0: https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme : MIT License
 svelte 3.49.0: https://svelte.dev : MIT License
 svelte 5.46.1: https://svelte.dev : MIT License
@@ -9597,7 +9597,7 @@ SOFTWARE
 ---
 
 MIT License
-(pillarjs/parseurl 1.3.3)
+(parseurl 1.3.3)
 
 (The MIT License)
 
@@ -12042,7 +12042,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ansi-escapes 4.3.2, ansi-escapes 5.0.0, ansi-regex 6.0.1, camelcase 6.3.0, cli-cursor 4.0.0, cli-truncate 3.1.0, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, figures 3.2.0, find-cache-dir 3.3.2, find-up 6.3.0, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, import-fresh 3.3.0, is-docker 2.2.1, is-fullwidth-code-point 4.0.0, is-installed-globally 0.4.0, is-npm 5.0.0, is-stream 2.0.1, is-stream 3.0.0, is-unicode-supported 0.1.0, log-symbols 4.1.0, mimic-fn 4.0.0, ora 5.4.1, p-limit 3.1.0, p-limit 4.0.0, p-locate 6.0.0, p-map 4.0.0, parse-json v5.2.0, path-exists 5.0.0, path-key 4.0.0, pretty-bytes 5.6.0, restore-cursor 4.0.0, sindresorhus/onetime 6.0.0, sindresorhus/onetime v5.1.2, sindresorhus/supports-color 8.1.1, string-length 4.0.2, Strip ANSI 7.0.1, strip-final-newline 3.0.0, strip-indent 4.0.0, strip-json-comments 3.1.1, type-fest 1.4.0, wrap-ansi v7.0.0, yocto-queue 0.1.0, yocto-queue 1.0.0)
+(ansi-escapes 4.3.2, ansi-escapes 5.0.0, ansi-regex 6.0.1, camelcase 6.3.0, cli-cursor 4.0.0, cli-truncate 3.1.0, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, figures 3.2.0, find-cache-dir 3.3.2, find-up 6.3.0, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, import-fresh 3.3.0, is-docker 2.2.1, is-fullwidth-code-point 4.0.0, is-installed-globally 0.4.0, is-npm 5.0.0, is-stream 2.0.1, is-stream 3.0.0, is-unicode-supported 0.1.0, log-symbols 4.1.0, mimic-fn 4.0.0, ora 5.4.1, p-limit 3.1.0, p-limit 4.0.0, p-locate 6.0.0, p-map 4.0.0, parse-json v5.2.0, path-exists 5.0.0, path-key 4.0.0, pretty-bytes 5.6.0, restore-cursor 4.0.0, sindresorhus/onetime 6.0.0, sindresorhus/onetime v5.1.2, string-length 4.0.2, Strip ANSI 7.0.1, strip-final-newline 3.0.0, strip-indent 4.0.0, strip-json-comments 3.1.1, supports-color 8.1.1, type-fest 1.4.0, wrap-ansi v7.0.0, yocto-queue 0.1.0, yocto-queue 1.0.0)
 
 MIT License
 
@@ -14856,7 +14856,7 @@ USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ansi-regex 2.1.1, ansi-styles 2.2.1, Chalk 1.1.3, Decamelize 1.2.0, escape-string-regexp 1.0.5, find-up 2.1.0, has-ansi 2.0.0, has-flag 1.0.0, is-plain-obj 1.1.0, is-wsl 1.1.0, locate-path 2.0.0, object-assign 4.1.1, os-tmpdir 1.0.2, p-locate 2.0.0, p-try 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, pify 2.3.0, query-string v4.3.4, sindresorhus/supports-color 2.0.0, sindresorhus/supports-color 3.2.3, Strip ANSI 3.0.1, strip-bom 3.0.0)
+(ansi-regex 2.1.1, ansi-styles 2.2.1, Chalk 1.1.3, Decamelize 1.2.0, escape-string-regexp 1.0.5, find-up 2.1.0, has-ansi 2.0.0, has-flag 1.0.0, is-plain-obj 1.1.0, is-wsl 1.1.0, locate-path 2.0.0, object-assign 4.1.1, os-tmpdir 1.0.2, p-locate 2.0.0, p-try 1.0.0, path-exists 3.0.0, path-is-absolute 1.0.1, pify 2.3.0, query-string v4.3.4, Strip ANSI 3.0.1, strip-bom 3.0.0, supports-color 2.0.0, supports-color 3.2.3)
 
 The MIT License (MIT)
 
@@ -18805,7 +18805,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@alloc/quick-lru 5.2.0, aggregate-error 3.1.0, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.1, Chalk 4.1.2, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, define-lazy-prop 2.0.0, detect-indent 6.1.0, detect-newline v3.1.0, env-paths 2.2.1, escape-string-regexp v2.0.0, filter-obj 2.0.2, has-flag 3.0.0, has-flag 4.0.0, import-lazy v4.0.0, indent-string v4.0.0, ip-regex 4.3.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-interactive 1.0.0, is-path-inside 3.0.3, is-plain-obj 2.1.0, is-wsl 2.2.0, leven 3.1.0, log-update 4.0.0, make-dir 3.1.0, mimic-fn 2.1.0, npm-run-path 4.0.1, opn 5.3.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 4.1.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, redent 3.0.0, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, resolve-pkg 2.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color v7.2.0, string-width 4.2.3, strip-bom 4.0.0, strip-final-newline 2.0.0, strip-indent v3.0.0, untildify 4.0.0, wrap-ansi v6.2.0)
+(@alloc/quick-lru 5.2.0, aggregate-error 3.1.0, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.1, Chalk 4.1.2, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, define-lazy-prop 2.0.0, detect-indent 6.1.0, detect-newline v3.1.0, env-paths 2.2.1, escape-string-regexp v2.0.0, filter-obj 2.0.2, has-flag 3.0.0, has-flag 4.0.0, import-lazy v4.0.0, indent-string v4.0.0, ip-regex 4.3.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-interactive 1.0.0, is-path-inside 3.0.3, is-plain-obj 2.1.0, is-wsl 2.2.0, leven 3.1.0, log-update 4.0.0, make-dir 3.1.0, mimic-fn 2.1.0, npm-run-path 4.0.1, opn 5.3.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 4.1.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, redent 3.0.0, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, resolve-pkg 2.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/slash v3.0.0, string-width 4.2.3, strip-bom 4.0.0, strip-final-newline 2.0.0, strip-indent v3.0.0, supports-color 5.5.0, supports-color v7.2.0, untildify 4.0.0, wrap-ansi v6.2.0)
 
 MIT License
 
