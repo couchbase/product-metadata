@@ -910,9 +910,9 @@ com.google.api.grpc:proto-google-iam-v1 1.58.2 : Apache License 2.0
 com.google.api.grpc:proto-google-iam-v1 1.59.1 : Apache License 2.0
 com.google.cloud.bigdataoss:util 2.2.25 : Apache License 2.0
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 8.3.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
+Commander.js 8.3.0: https://github.com/tj/commander.js : MIT License
+Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
 common-tags 1.8.2: https://github.com/zspecza/common-tags : MIT License
 commons-csv 1.12.0: http://commons.apache.org/proper/commons-csv/index.html : Apache License 2.0
 compression 1.7.4: https://github.com/expressjs/compression : MIT License
@@ -1456,6 +1456,7 @@ glog 0.4.0: https://github.com/google/glog : BSD 3-clause "New" or "Revised" Lic
 Go CLI v1.1.0: https://github.com/mitchellh/cli : Mozilla Public License 2.0
 Go CLI v1.1.5: https://github.com/mitchellh/cli : Mozilla Public License 2.0
 go humanize 20171110-snapshot-bb3d3186: http://github.com/dustin/go-humanize : MIT License
+Go Logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 Go programming language 0.0~git20190125.d66bd3c+ds: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.24.7: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go programming language 1.25.3: http://golang.org/ : BSD 3-clause "New" or "Revised" License
@@ -2866,7 +2867,7 @@ PostCSS 8.5.6: http://postcss.org/ : MIT License
 postcss-attribute-case-insensitive 5.0.2: https://github.com/Semigradsky/postcss-attribute-case-insensitive#readme : MIT License
 postcss-browser-comments 4.0.0: https://github.com/csstools/postcss-browser-comments#readme : Creative Commons Zero v1.0 Universal
 postcss-calc 8.2.4: https://github.com/postcss/postcss-calc : MIT License
-postcss-clamp 4.1.0: https://github.com/polemius/postcss-clamp#readme : MIT License
+postcss-clamp 4.1.0: https://github.com/polemius/postcss-clamp : MIT License
 postcss-color-functional-notation 4.2.4: https://github.com/jonathantneal/postcss-color-functional-notation#readme : Creative Commons Zero v1.0 Universal
 postcss-color-hex-alpha 8.0.4: https://github.com/postcss/postcss-color-hex-alpha : MIT License
 postcss-color-rebeccapurple 7.1.1: https://github.com/postcss/postcss-color-rebeccapurple : Creative Commons Zero v1.0 Universal
@@ -3178,7 +3179,6 @@ sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-colo
 sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
 sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 Sinon.JS 14.0.2: http://sinonjs.org/ : BSD 3-clause "New" or "Revised" License
-Sirupsen/logrus v1.4.2: https://github.com/sirupsen/logrus : MIT License
 Sirupsen/logrus v1.9.3: https://github.com/sirupsen/logrus : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
 SLF4J API Module 1.7.36: http://www.slf4j.org : MIT License
@@ -17838,7 +17838,7 @@ SOFTWARE
 ---
 
 MIT License
-(Sirupsen/logrus v1.4.2)
+(Go Logrus v1.4.2)
 
 The MIT License (MIT)
 
