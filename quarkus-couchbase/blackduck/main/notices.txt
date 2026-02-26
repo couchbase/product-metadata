@@ -9,10 +9,9 @@ Notices Report Content
 
 Components: 
 
-Ancillary classes for making third party frameworks to run on top of Vert.x 3.31.1 : Apache License 2.0
 Angus Activation Registries 2.0.3 : Eclipse Distribution License - v 1.0
 AOP Alliance (Java/J2EE AOP standard) 1.0: https://sourceforge.net/projects/aopalliance : Public Domain
-Apache Commons Codec 1.20.0: https://github.com/apache/commons-codec : Apache License 2.0
+Apache Commons Codec 1.21.0: https://github.com/apache/commons-codec : Apache License 2.0
 Apache Commons Compress 1.28.0: http://commons.apache.org/proper/commons-compress/ : Apache License 2.0
 Apache Commons IO 2.21.0: http://commons.apache.org/io/ : Apache License 2.0
 Apache Commons Lang 3.20.0: https://github.com/apache/commons-lang : Apache License 2.0
@@ -22,8 +21,6 @@ Apache HTTPComponents Core 4.4.16: https://github.com/apache/httpcomponents-core
 Apache HttpMime 4.5.14: http://hc.apache.org/httpcomponents-client : Apache License 2.0
 Apache Maven 3.9.12: http://maven.apache.org : Apache License 2.0
 apache/maven-shared-utils 3.4.2: http://maven.apache.org/shared/maven-shared-utils/ : Apache License 2.0
-ArC - Processor 3.31.1 : Apache License 2.0
-ArC - Runtime 3.31.1 : Apache License 2.0
 ASM 9.9.1: http://asm.ow2.org/ : BSD 3-clause "New" or "Revised" License
 ASM Commons 9.9.1: http://asm.ow2.io/ : BSD 3-clause "New" or "Revised" License
 ASM Tree 9.9.1: http://asm.ow2.io/ : BSD 3-clause "New" or "Revised" License
@@ -36,7 +33,7 @@ byte-buddy-agent 1.17.8: https://github.com/raphw/byte-buddy : Apache License 2.
 CDI APIs 4.1.0: http://www.seamframework.org/Weld : Apache License 2.0
 CDI Language Model 4.1.0 : Apache License 2.0
 classworlds 2.6.0: http://plexus.codehaus.org/plexus-classworlds/ : Apache License 2.0
-Commons Logging to JBoss Logging 1.0.0.Final : Apache License 2.0
+Commons Logging to JBoss Logging 2.0.0.Final : Apache License 2.0
 commons-cli 1.11.0: http://commons.apache.org/cli/ : Apache License 2.0
 Couchbase Java SDK 3.10.1 : Apache License 2.0
 Couchbase JVM Core IO 3.10.1: http://couchbase.com : Apache License 2.0
@@ -46,24 +43,23 @@ docker-java-transport 3.7.0 : Apache License 2.0
 docker-java-transport-zerodep 3.7.0 : Apache License 2.0
 Duct Tape 1.0.8 : MIT License
 Eclipse Parsson 1.1.7 : (GNU General Public License v2.0 w/Classpath exception AND Eclipse Public License 2.0)
-eclipse-vertx/vert.x 4.5.24: https://github.com/eclipse-vertx/vert.x : (Apache License 2.0 AND Eclipse Public License 2.0)
-error-prone annotations 2.46.0: https://github.com/google/error-prone/tree/master/annotations : Apache License 2.0
+eclipse-vertx/vert.x 4.5.25: https://github.com/eclipse-vertx/vert.x : (Apache License 2.0 AND Eclipse Public License 2.0)
+error-prone annotations 2.47.0: https://github.com/google/error-prone/tree/master/annotations : Apache License 2.0
 Gizmo 1.10.1 : Apache License 2.0
-Gizmo 2.0.0 : Apache License 2.0
+Gizmo 2.1.1 : Apache License 2.0
 Google Guice 5.1.0: https://github.com/google/guice : Apache License 2.0
 googlegson 2.13.2: https://github.com/google/gson : Apache License 2.0
 googleguava 33.5.0-jre: https://github.com/google/guava : Apache License 2.0
 Guava InternalFutureFailureAccess and InternalFutures 1.0.1 : Apache License 2.0
 Hamcrest v2.2: http://hamcrest.org/ : BSD 3-clause "New" or "Revised" License
 HdrHistogram 2.2.2: https://github.com/HdrHistogram/HdrHistogram : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
-jackson-annotations 2.20: https://github.com/FasterXML/jackson-annotations : Apache License 2.0
-jackson-core 2.20.1: https://github.com/FasterXML/jackson-core : Apache License 2.0
+jackson-annotations 2.21: https://github.com/FasterXML/jackson-annotations : Apache License 2.0
 Jakarta Activation API 2.1.4: https://eclipse-ee4j.github.io/jaf/ : Eclipse Distribution License - v 1.0
 Jakarta Annotations API 3.0.0 : (GNU General Public License v2.0 w/Classpath exception AND Eclipse Public License 2.0)
 Jakarta Dependency Injection 2.0.1 : Apache License 2.0
 Jakarta Expression Language 3.0 API 6.0.1 : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 Jakarta JSON Processing API 2.1.3: http://json-processing-spec.java.net : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
-jakarta.xml.bind:jakarta.xml.bind-api 4.0.4: https://github.com/jakartaee/jaxb-api : Eclipse Distribution License - v 1.0
+jakarta.xml.bind:jakarta.xml.bind-api 4.0.5: https://github.com/jakartaee/jaxb-api : Eclipse Distribution License - v 1.0
 jakartaee/rest 3.1.0: https://github.com/jakartaee/rest : Eclipse Public License 2.0
 jakartaeevalidation 3.1.1: http://beanvalidation.org : Apache License 2.0
 Jandex: Core 3.5.3 : Apache License 2.0
@@ -76,14 +72,14 @@ javax.inject:javax.inject 1: http://code.google.com/p/atinject/ : Apache License
 javax.interceptor API 2.2.0 : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 javax.transaction API 2.0.1: https://github.com/jakartaee/transactions : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 JBoss Logging 3 3.6.2.Final: http://www.jboss.org : Apache License 2.0
-jboss-logmanager 3.2.0.Final: http://community.jboss.org/ : Apache License 2.0
+jboss-logmanager 3.2.1.Final: http://community.jboss.org/ : Apache License 2.0
 jboss-threads 3.9.2: http://www.jboss.org : Apache License 2.0
 JCTTools v4.0.5: http://jctools.github.io/JCTools : Apache License 2.0
-JDK Classfile API backport 26.cr1: https://github.com/smallrye/jdk-classfile-backport : GNU General Public License v2.0 w/Classpath exception
+JDK Classfile API backport 26: https://github.com/smallrye/jdk-classfile-backport : GNU General Public License v2.0 w/Classpath exception
 Jetbrains annotations 26.0.2: http://www.jetbrains.org : Apache License 2.0
 json-path 5.5.6 : Apache License 2.0
 JSpecify annotations 1.0.0 : Apache License 2.0
-JUnit Jupiter (Aggregator) 6.0.2 : Eclipse Public License 2.0
+JUnit Jupiter (Aggregator) 6.0.3 : Eclipse Public License 2.0
 LatencyUtils 2.0.3: https://github.com/LatencyUtils/LatencyUtils : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal)
 Maven API Meta annotations 4.0.0-alpha-7: https://maven.apache.org/ref/4.0.0-alpha-2/maven-api/maven-api-meta/ : Apache License 2.0
 Maven API XML 4.0.0-alpha-7 : Apache License 2.0
@@ -111,10 +107,10 @@ Maven Wagon HTTP Provider 3.5.3: http://maven.apache.org/wagon/wagon-providers/w
 Maven Wagon HTTP Shared Library 3.5.3: http://maven.apache.org/wagon/wagon-providers/wagon-http-shared : Apache License 2.0
 Maven XML Implementation 4.0.0-alpha-7: https://maven.apache.org/ref/4.0.0-alpha-2/maven-xml-impl/ : Apache License 2.0
 Micrometer Metrics Interoperability 3.10.1 : Apache License 2.0
-micrometer-commons 1.16.2 : Apache License 2.0
-micrometer-metrics 1.16.2: https://micrometer.io : Apache License 2.0
-micrometer-observation 1.16.2 : Apache License 2.0
-micrometer-registry-prometheus-simpleclient 1.16.2 : Apache License 2.0
+micrometer-commons 1.16.3 : Apache License 2.0
+micrometer-metrics 1.16.3: https://micrometer.io : Apache License 2.0
+micrometer-observation 1.16.3 : Apache License 2.0
+micrometer-registry-prometheus-simpleclient 1.16.3 : Apache License 2.0
 MicroProfile Config API 3.1 : Apache License 2.0
 MicroProfile Context Propagation 1.3 : Apache License 2.0
 MicroProfile Health API 4.0.1 : Apache License 2.0
@@ -127,12 +123,12 @@ org.apache.groovy:groovy-xml 4.0.22 : Apache License 2.0
 org.apiguardian:apiguardian-api 1.1.2 : Apache License 2.0
 org.eclipse.sisu.inject 0.9.0.M4: http://www.eclipse.org/sisu/org.eclipse.sisu.inject/ : Eclipse Public License 2.0
 org.eclipse.sisu.plexus 0.9.0.M4: http://www.eclipse.org/sisu/org.eclipse.sisu.plexus/ : Eclipse Public License 2.0
-org.junit.jupiter:junit-jupiter-api 6.0.2 : Eclipse Public License 2.0
-org.junit.jupiter:junit-jupiter-engine 6.0.2 : Eclipse Public License 2.0
-org.junit.jupiter:junit-jupiter-params 6.0.2 : Eclipse Public License 2.0
-org.junit.platform:junit-platform-commons 6.0.2 : Eclipse Public License 2.0
-org.junit.platform:junit-platform-engine 6.0.2 : Eclipse Public License 2.0
-org.junit.platform:junit-platform-launcher 6.0.2 : Eclipse Public License 2.0
+org.junit.jupiter:junit-jupiter-api 6.0.3 : Eclipse Public License 2.0
+org.junit.jupiter:junit-jupiter-engine 6.0.3 : Eclipse Public License 2.0
+org.junit.jupiter:junit-jupiter-params 6.0.3 : Eclipse Public License 2.0
+org.junit.platform:junit-platform-commons 6.0.3 : Eclipse Public License 2.0
+org.junit.platform:junit-platform-engine 6.0.3 : Eclipse Public License 2.0
+org.junit.platform:junit-platform-launcher 6.0.3 : Eclipse Public License 2.0
 org.opentest4j:opentest4j 1.3.0 : Apache License 2.0
 Plexus 2.1.0: http://plexus.codehaus.org : Apache License 2.0
 Plexus Cipher: encryption/decryption Component 2.0 : Apache License 2.0
@@ -145,57 +141,10 @@ Prometheus Java Simpleclient Common 0.16.0 : Apache License 2.0
 Prometheus Java Span Context Supplier - Common 0.16.0 : Apache License 2.0
 Prometheus Java Span Context Supplier - OpenTelemetry 0.16.0 : Apache License 2.0
 Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.16.0 : Apache License 2.0
-Quarkus 3.31.1: https://quarkus.io : Apache License 2.0
-Quarkus - ArC 3.31.1 : Apache License 2.0
-Quarkus - ArC - Deployment 3.31.1 : Apache License 2.0
-Quarkus - ArC - Runtime Dev mode 3.31.1 : Apache License 2.0
-Quarkus - ArC - Test Supplement 3.31.1 : Apache License 2.0
-Quarkus - ArC - Test Supplement Decorator 3.31.1: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-extensions-parent/quarkus-arc-parent/quarkus-arc-test-supplement-decorator : Apache License 2.0
-Quarkus - Bootstrap - App Model 3.31.1 : Apache License 2.0
-Quarkus - Bootstrap - Classloader common utilities 3.31.1 : Apache License 2.0
-Quarkus - Bootstrap - Core 3.31.1 : Apache License 2.0
-Quarkus - Bootstrap - Gradle Resolver 3.31.1 : Apache License 2.0
-Quarkus - Bootstrap - JSON 3.31.1: https://github.com/quarkusio/quarkus/quarkus-bootstrap-json : Apache License 2.0
-Quarkus - Bootstrap - Maven 4 Resolver 3.31.1 : Apache License 2.0
-Quarkus - Bootstrap - Maven Resolver 3.31.1 : Apache License 2.0
-Quarkus - Bootstrap - Runner 3.31.1 : Apache License 2.0
-Quarkus - Builder 3.31.1 : Apache License 2.0
-Quarkus - Core - Class Change Agent 3.31.1 : Apache License 2.0
-Quarkus - Core - Deployment 3.31.1 : Apache License 2.0
-Quarkus - Credentials - Runtime 3.31.1 : Apache License 2.0
-Quarkus - Dev UI - Deployment SPI 3.31.1 : Apache License 2.0
-Quarkus - Development mode - SPI 3.31.1 : Apache License 2.0
 Quarkus - FS Util 1.3.0 : Apache License 2.0
-Quarkus - Hibernate Validator - SPI 3.31.1 : Apache License 2.0
-Quarkus - IDE Launcher 3.31.1 : Apache License 2.0
-Quarkus - JSON-P - Deployment 3.31.1 : Apache License 2.0
-Quarkus - Micrometer - Runtime 3.31.1 : Apache License 2.0
-Quarkus - Micrometer Registry - Prometheus Runtime 3.31.1 : Apache License 2.0
-Quarkus - Mutiny - Runtime 3.31.1 : Apache License 2.0
-Quarkus - Netty - Deployment 3.31.1 : Apache License 2.0
-Quarkus - Quarkus - Vert.x Late Bound MDC Provider 3.31.1 : Apache License 2.0
-Quarkus - Registry 3.31.1: https://github.com/quarkusio/quarkus/quarkus-registry : Apache License 2.0
-Quarkus - RESTEasy - Common - Runtime 3.31.1 : Apache License 2.0
-Quarkus - RESTEasy - Deployment 3.31.1 : Apache License 2.0
-Quarkus - RESTEasy - Server common - Runtime 3.31.1 : Apache License 2.0
-Quarkus - Security - Runtime SPI 3.31.1 : Apache License 2.0
-Quarkus - SmallRye Context Propagation - Runtime 3.31.1 : Apache License 2.0
-Quarkus - SmallRye Context Propagation - SPI 3.31.1 : Apache License 2.0
-Quarkus - SmallRye Health - Deployment 3.31.1 : Apache License 2.0
-Quarkus - SmallRye Health - SPI 3.31.1 : Apache License 2.0
-Quarkus - Test framework - Common 3.31.1 : Apache License 2.0
-Quarkus - Test Framework - JUnit 3.31.1: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-test-framework/quarkus-junit : Apache License 2.0
-Quarkus - Test Framework - JUnit Config 3.31.1: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-test-framework/quarkus-junit-config : Apache License 2.0
-Quarkus - Test Framework - JUnit Internal Test Framework 3.31.1: https://github.com/quarkusio/quarkus/quarkus-build-parent/quarkus-test-framework/quarkus-junit-internal : Apache License 2.0
-Quarkus - TLS Registry - Runtime 3.31.1 : Apache License 2.0
-Quarkus - TLS Registry - Runtime SPI 3.31.1 : Apache License 2.0
-Quarkus - Vert.x - Deployment 3.31.1 : Apache License 2.0
-Quarkus - Vert.x - HTTP - Runtime 3.31.1 : Apache License 2.0
-Quarkus - Virtual Threads - Runtime 3.31.1 : Apache License 2.0
 quarkus-security 2.3.2 : Apache License 2.0
 reactive-streams-jvm 1.0.4: http://www.reactive-streams.org/ : MIT No Attribution
-reactor-core 3.7.2: https://github.com/reactor/reactor-core : Apache License 2.0
-reactor-core 3.8.0: https://github.com/reactor/reactor-core : Apache License 2.0
+reactor-core 3.8.3: https://github.com/reactor/reactor-core : Apache License 2.0
 REST Assured 5.5.6 : Apache License 2.0
 rest-assured-common 5.5.6 : Apache License 2.0
 RESTEasy 6.2.15.Final: http://jboss.org/resteasy : Apache License 2.0
@@ -213,51 +162,50 @@ SmallRye BeanBag 1.6.1 : Apache License 2.0
 SmallRye BeanBag: Maven 1.6.1 : Apache License 2.0
 SmallRye BeanBag: SISU 1.6.1 : Apache License 2.0
 SmallRye Certificate Generator - Private Key PEM utilities 0.9.2: https://github.com/cescoffier/certificate-generator/smallrye-private-key-pem-parser : Apache License 2.0
-SmallRye Common: Annotations 2.15.0 : Apache License 2.0
-SmallRye Common: Classloader 2.15.0 : Apache License 2.0
-SmallRye Common: Constraints 2.15.0 : Apache License 2.0
-SmallRye Common: CPU 2.15.0 : Apache License 2.0
-SmallRye Common: Expressions 2.15.0 : Apache License 2.0
-SmallRye Common: Functions 2.15.0 : Apache License 2.0
-SmallRye Common: IO 2.15.0 : Apache License 2.0
-SmallRye Common: Net 2.15.0 : Apache License 2.0
-SmallRye Common: OS 2.15.0 : Apache License 2.0
-SmallRye Common: Process 2.15.0 : Apache License 2.0
-SmallRye Common: References 2.15.0 : Apache License 2.0
-SmallRye Common: Resources 2.15.0 : Apache License 2.0
-SmallRye Common: Vert.x Context Utilities 2.15.0 : Apache License 2.0
+SmallRye Common: Annotations 2.16.0 : Apache License 2.0
+SmallRye Common: Classloader 2.16.0 : Apache License 2.0
+SmallRye Common: Constraints 2.16.0 : Apache License 2.0
+SmallRye Common: CPU 2.16.0 : Apache License 2.0
+SmallRye Common: Expressions 2.16.0 : Apache License 2.0
+SmallRye Common: Functions 2.16.0 : Apache License 2.0
+SmallRye Common: IO 2.16.0 : Apache License 2.0
+SmallRye Common: Net 2.16.0 : Apache License 2.0
+SmallRye Common: OS 2.16.0 : Apache License 2.0
+SmallRye Common: Process 2.16.0 : Apache License 2.0
+SmallRye Common: References 2.16.0 : Apache License 2.0
+SmallRye Common: Resources 2.16.0 : Apache License 2.0
+SmallRye Common: Vert.x Context Utilities 2.16.0 : Apache License 2.0
 SmallRye Fault Tolerance: Vert.x Integration 6.10.0 : Apache License 2.0
 SmallRye Health: API 4.3.0 : Apache License 2.0
 SmallRye Health: Provided Health Checks 4.3.0 : Apache License 2.0
-SmallRye Mutiny 3.1.0 : Apache License 2.0
-SmallRye Mutiny - Code Generator 3.21.4 : Apache License 2.0
-SmallRye Mutiny - Runtime Helpers 3.21.4 : Apache License 2.0
-SmallRye Mutiny - Vert.x Auth Common 3.21.4 : Apache License 2.0
-SmallRye Mutiny - Vert.x Bridge Common 3.21.4 : Apache License 2.0
-SmallRye Mutiny - Vert.x Core 3.21.4 : Apache License 2.0
-SmallRye Mutiny - Vert.x URI Template 3.21.4 : Apache License 2.0
-SmallRye Mutiny - Vert.x Web 3.21.4 : Apache License 2.0
-SmallRye Mutiny - Vert.x Web Common 3.21.4 : Apache License 2.0
-SmallRye Mutiny :: Integration with SmallRye Context Propagation 3.1.0 : Apache License 2.0
-SmallRye Mutiny integration with Reactor 2.8.0 : Apache License 2.0
-SmallRye Mutiny integration with Reactor 3.1.0 : Apache License 2.0
+SmallRye Mutiny 3.1.1 : Apache License 2.0
+SmallRye Mutiny - Code Generator 3.21.5 : Apache License 2.0
+SmallRye Mutiny - Runtime Helpers 3.21.5 : Apache License 2.0
+SmallRye Mutiny - Vert.x Auth Common 3.21.5 : Apache License 2.0
+SmallRye Mutiny - Vert.x Bridge Common 3.21.5 : Apache License 2.0
+SmallRye Mutiny - Vert.x Core 3.21.5 : Apache License 2.0
+SmallRye Mutiny - Vert.x URI Template 3.21.5 : Apache License 2.0
+SmallRye Mutiny - Vert.x Web 3.21.5 : Apache License 2.0
+SmallRye Mutiny - Vert.x Web Common 3.21.5 : Apache License 2.0
+SmallRye Mutiny :: Integration with SmallRye Context Propagation 3.1.1 : Apache License 2.0
+SmallRye Mutiny integration with Reactor 3.1.1 : Apache License 2.0
 SmallRye Mutiny Zero JDK Flow / Reactive Streams Adapters 1.1.1 : Apache License 2.0
 smallrye-context-propagation 2.3.0 : Apache License 2.0
 smallrye-context-propagation-api 2.3.0 : Apache License 2.0
 smallrye-context-propagation-storage 2.3.0 : Apache License 2.0
-SmallRye: Common classes 3.15.1 : Apache License 2.0
-SmallRye: MicroProfile Config Core Implementation 3.15.1 : Apache License 2.0
-SmallRye: MicroProfile Config Implementation 3.15.1 : Apache License 2.0
+SmallRye: Common classes 3.16.0 : Apache License 2.0
+SmallRye: MicroProfile Config Core Implementation 3.16.0 : Apache License 2.0
+SmallRye: MicroProfile Config Implementation 3.16.0 : Apache License 2.0
 SmallRye: MicroProfile Health Implementation 4.3.0 : Apache License 2.0
 TagSoup 1.2.1: http://www-users.cs.york.ac.uk/~ndm/tagsoup/ : Apache License 2.0
-Testcontainers :: Couchbase 1.20.1 : MIT License
+Testcontainers :: Couchbase 1.21.0 : MIT License
 TestContainers Core 2.0.3: https://github.com/testcontainers/testcontainers-java : MIT License
-Vert.x Bridge Common 4.5.24 : (Apache License 2.0 AND Eclipse Public License 1.0)
-Vert.x URI Template 4.5.24 : (Apache License 2.0 AND Eclipse Public License 1.0)
-vertx-auth-common 4.5.24 : (Apache License 2.0 AND Eclipse Public License 1.0)
-vertx-codegen 4.5.24 : (Apache License 2.0 AND Eclipse Public License 1.0)
-vertx-web 4.5.24: https://github.com/vert-x3/vertx-web : Apache License 2.0
-vertx-web-common 4.5.24 : (Apache License 2.0 AND Eclipse Public License 1.0)
+Vert.x Bridge Common 4.5.25 : (Apache License 2.0 AND Eclipse Public License 1.0)
+Vert.x URI Template 4.5.25 : (Apache License 2.0 AND Eclipse Public License 1.0)
+vertx-auth-common 4.5.25 : (Apache License 2.0 AND Eclipse Public License 1.0)
+vertx-codegen 4.5.25 : (Apache License 2.0 AND Eclipse Public License 1.0)
+vertx-web 4.5.25: https://github.com/vert-x3/vertx-web : (Apache License 2.0 AND Eclipse Public License 2.0)
+vertx-web-common 4.5.25 : (Apache License 2.0 AND Eclipse Public License 1.0)
 wildfly-common 2.0.1 : Apache License 2.0
 Word 23.1.2 : Universal Permissive License v1.0
 xml-path 5.5.6 : Apache License 2.0
@@ -267,7 +215,7 @@ xml-path 5.5.6 : Apache License 2.0
 Licenses: 
 
 Apache License 2.0
-(Ancillary classes for making third party frameworks to run on top of Vert.x 3.31.1, Apache Commons Codec 1.20.0, Apache Commons Compress 1.28.0, Apache Commons IO 2.21.0, Apache Commons Lang 3.20.0, Apache Groovy 4.0.22, Apache HttpClient 4.5.14, Apache HTTPComponents Core 4.4.16, Apache HttpMime 4.5.14, Apache Maven 3.9.12, apache/maven-shared-utils 3.4.2, ArC - Processor 3.31.1, ArC - Runtime 3.31.1, asyncutil 0.1.0, Awaitility 4.3.0, brotli4j 1.16.0, byte-buddy-agent 1.17.8, CDI APIs 4.1.0, CDI Language Model 4.1.0, classworlds 2.6.0, Commons Logging to JBoss Logging 1.0.0.Final, commons-cli 1.11.0, Couchbase Java SDK 3.10.1, Couchbase JVM Core IO 3.10.1, docker-java-api 3.7.0, docker-java-transport 3.7.0, docker-java-transport-zerodep 3.7.0, eclipse-vertx/vert.x 4.5.24, error-prone annotations 2.46.0, Gizmo 1.10.1, Gizmo 2.0.0, Google Guice 5.1.0, googlegson 2.13.2, googleguava 33.5.0-jre, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, jackson-annotations 2.20, jackson-core 2.20.1, Jakarta Dependency Injection 2.0.1, jakartaeevalidation 3.1.1, Jandex: Core 3.5.3, Jandex: Gizmo2 Integration 3.5.3, jansi 2.4.0, Java Native Access (JNA) 5.8.0, javax.inject:javax.inject 1, JBoss Logging 3 3.6.2.Final, jboss-logmanager 3.2.0.Final, jboss-threads 3.9.2, JCTTools v4.0.5, Jetbrains annotations 26.0.2, json-path 5.5.6, JSpecify annotations 1.0.0, Maven API Meta annotations 4.0.0-alpha-7, Maven API XML 4.0.0-alpha-7, Maven Artifact 3.9.12, Maven Artifact Resolver API 1.9.25, Maven Artifact Resolver Connector Basic 1.9.25, Maven Artifact Resolver Implementation 1.9.25, Maven Artifact Resolver Named Locks 1.9.25, Maven Artifact Resolver Provider 3.9.12, Maven Artifact Resolver SPI 1.9.25, Maven Artifact Resolver Transport HTTP 1.9.25, Maven Artifact Resolver Transport Wagon 1.9.25, Maven Artifact Resolver Utilities 1.9.25, Maven Builder Support 3.9.12, Maven Embedder 3.9.12, Maven Local Settings Model 3.9.12, Maven Model 3.9.12, Maven Model Builder 3.9.12, Maven Plugin API 3.9.12, Maven Repository Metadata Model 3.9.12, Maven Settings Builder 3.9.12, Maven Wagon API 3.5.3, Maven Wagon File Provider 3.5.3, Maven Wagon HTTP Provider 3.5.3, Maven Wagon HTTP Shared Library 3.5.3, Maven XML Implementation 4.0.0-alpha-7, Micrometer Metrics Interoperability 3.10.1, micrometer-commons 1.16.2, micrometer-metrics 1.16.2, micrometer-observation 1.16.2, micrometer-registry-prometheus-simpleclient 1.16.2, MicroProfile Config API 3.1, MicroProfile Context Propagation 1.3, MicroProfile Health API 4.0.1, native-linux-x86_64 1.16.0, Netty Project 4.1.130, Netty/Transport/Native/Unix/Common 4.1.130.Final, org.apache.groovy:groovy-json 4.0.22, org.apache.groovy:groovy-xml 4.0.22, org.apiguardian:apiguardian-api 1.1.2, org.opentest4j:opentest4j 1.3.0, Plexus 2.1.0, Plexus Cipher: encryption/decryption Component 2.0, Plexus Interpolation API 1.26, Plexus Security Dispatcher Component 2.0, Plexus XML Utilities 4.0.2, plexus-utils 3.5.1, Prometheus Java Simpleclient 0.16.0, Prometheus Java Simpleclient Common 0.16.0, Prometheus Java Span Context Supplier - Common 0.16.0, Prometheus Java Span Context Supplier - OpenTelemetry 0.16.0, Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.16.0, Quarkus 3.31.1, Quarkus - ArC 3.31.1, Quarkus - ArC - Deployment 3.31.1, Quarkus - ArC - Runtime Dev mode 3.31.1, Quarkus - ArC - Test Supplement 3.31.1, Quarkus - ArC - Test Supplement Decorator 3.31.1, Quarkus - Bootstrap - App Model 3.31.1, Quarkus - Bootstrap - Classloader common utilities 3.31.1, Quarkus - Bootstrap - Core 3.31.1, Quarkus - Bootstrap - Gradle Resolver 3.31.1, Quarkus - Bootstrap - JSON 3.31.1, Quarkus - Bootstrap - Maven 4 Resolver 3.31.1, Quarkus - Bootstrap - Maven Resolver 3.31.1, Quarkus - Bootstrap - Runner 3.31.1, Quarkus - Builder 3.31.1, Quarkus - Core - Class Change Agent 3.31.1, Quarkus - Core - Deployment 3.31.1, Quarkus - Credentials - Runtime 3.31.1, Quarkus - Dev UI - Deployment SPI 3.31.1, Quarkus - Development mode - SPI 3.31.1, Quarkus - FS Util 1.3.0, Quarkus - Hibernate Validator - SPI 3.31.1, Quarkus - IDE Launcher 3.31.1, Quarkus - JSON-P - Deployment 3.31.1, Quarkus - Micrometer - Runtime 3.31.1, Quarkus - Micrometer Registry - Prometheus Runtime 3.31.1, Quarkus - Mutiny - Runtime 3.31.1, Quarkus - Netty - Deployment 3.31.1, Quarkus - Quarkus - Vert.x Late Bound MDC Provider 3.31.1, Quarkus - Registry 3.31.1, Quarkus - RESTEasy - Common - Runtime 3.31.1, Quarkus - RESTEasy - Deployment 3.31.1, Quarkus - RESTEasy - Server common - Runtime 3.31.1, Quarkus - Security - Runtime SPI 3.31.1, Quarkus - SmallRye Context Propagation - Runtime 3.31.1, Quarkus - SmallRye Context Propagation - SPI 3.31.1, Quarkus - SmallRye Health - Deployment 3.31.1, Quarkus - SmallRye Health - SPI 3.31.1, Quarkus - Test framework - Common 3.31.1, Quarkus - Test Framework - JUnit 3.31.1, Quarkus - Test Framework - JUnit Config 3.31.1, Quarkus - Test Framework - JUnit Internal Test Framework 3.31.1, Quarkus - TLS Registry - Runtime 3.31.1, Quarkus - TLS Registry - Runtime SPI 3.31.1, Quarkus - Vert.x - Deployment 3.31.1, Quarkus - Vert.x - HTTP - Runtime 3.31.1, Quarkus - Virtual Threads - Runtime 3.31.1, quarkus-security 2.3.2, reactor-core 3.7.2, reactor-core 3.8.0, REST Assured 5.5.6, rest-assured-common 5.5.6, RESTEasy 6.2.15.Final, RESTEasy CDI integration module 6.2.15.Final, RESTEasy JAX-RS Core SPI 6.2.15.Final, RESTEasy MicroProfile: Conf Sources 3.0.1.Final, service 1.16.0, ShrinkWrap API 1.2.6, ShrinkWrap Dependency Chain 1.2.6, ShrinkWrap Implementation Base 1.2.6, ShrinkWrap SPI 1.2.6, slf4j-jboss-logmanager 2.0.2.Final, SmallRye BeanBag 1.6.1, SmallRye BeanBag: Maven 1.6.1, SmallRye BeanBag: SISU 1.6.1, SmallRye Certificate Generator - Private Key PEM utilities 0.9.2, SmallRye Common: Annotations 2.15.0, SmallRye Common: Classloader 2.15.0, SmallRye Common: Constraints 2.15.0, SmallRye Common: CPU 2.15.0, SmallRye Common: Expressions 2.15.0, SmallRye Common: Functions 2.15.0, SmallRye Common: IO 2.15.0, SmallRye Common: Net 2.15.0, SmallRye Common: OS 2.15.0, SmallRye Common: Process 2.15.0, SmallRye Common: References 2.15.0, SmallRye Common: Resources 2.15.0, SmallRye Common: Vert.x Context Utilities 2.15.0, SmallRye Fault Tolerance: Vert.x Integration 6.10.0, SmallRye Health: API 4.3.0, SmallRye Health: Provided Health Checks 4.3.0, SmallRye Mutiny 3.1.0, SmallRye Mutiny - Code Generator 3.21.4, SmallRye Mutiny - Runtime Helpers 3.21.4, SmallRye Mutiny - Vert.x Auth Common 3.21.4, SmallRye Mutiny - Vert.x Bridge Common 3.21.4, SmallRye Mutiny - Vert.x Core 3.21.4, SmallRye Mutiny - Vert.x URI Template 3.21.4, SmallRye Mutiny - Vert.x Web 3.21.4, SmallRye Mutiny - Vert.x Web Common 3.21.4, SmallRye Mutiny :: Integration with SmallRye Context Propagation 3.1.0, SmallRye Mutiny integration with Reactor 2.8.0, SmallRye Mutiny integration with Reactor 3.1.0, SmallRye Mutiny Zero JDK Flow / Reactive Streams Adapters 1.1.1, smallrye-context-propagation 2.3.0, smallrye-context-propagation-api 2.3.0, smallrye-context-propagation-storage 2.3.0, SmallRye: Common classes 3.15.1, SmallRye: MicroProfile Config Core Implementation 3.15.1, SmallRye: MicroProfile Config Implementation 3.15.1, SmallRye: MicroProfile Health Implementation 4.3.0, TagSoup 1.2.1, Vert.x Bridge Common 4.5.24, Vert.x URI Template 4.5.24, vertx-auth-common 4.5.24, vertx-codegen 4.5.24, vertx-web 4.5.24, vertx-web-common 4.5.24, wildfly-common 2.0.1, xml-path 5.5.6, Æsh 2.8.2, Æsh Readline 2.6)
+(Apache Commons Codec 1.21.0, Apache Commons Compress 1.28.0, Apache Commons IO 2.21.0, Apache Commons Lang 3.20.0, Apache Groovy 4.0.22, Apache HttpClient 4.5.14, Apache HTTPComponents Core 4.4.16, Apache HttpMime 4.5.14, Apache Maven 3.9.12, apache/maven-shared-utils 3.4.2, asyncutil 0.1.0, Awaitility 4.3.0, brotli4j 1.16.0, byte-buddy-agent 1.17.8, CDI APIs 4.1.0, CDI Language Model 4.1.0, classworlds 2.6.0, Commons Logging to JBoss Logging 2.0.0.Final, commons-cli 1.11.0, Couchbase Java SDK 3.10.1, Couchbase JVM Core IO 3.10.1, docker-java-api 3.7.0, docker-java-transport 3.7.0, docker-java-transport-zerodep 3.7.0, eclipse-vertx/vert.x 4.5.25, error-prone annotations 2.47.0, Gizmo 1.10.1, Gizmo 2.1.1, Google Guice 5.1.0, googlegson 2.13.2, googleguava 33.5.0-jre, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, jackson-annotations 2.21, Jakarta Dependency Injection 2.0.1, jakartaeevalidation 3.1.1, Jandex: Core 3.5.3, Jandex: Gizmo2 Integration 3.5.3, jansi 2.4.0, Java Native Access (JNA) 5.8.0, javax.inject:javax.inject 1, JBoss Logging 3 3.6.2.Final, jboss-logmanager 3.2.1.Final, jboss-threads 3.9.2, JCTTools v4.0.5, Jetbrains annotations 26.0.2, json-path 5.5.6, JSpecify annotations 1.0.0, Maven API Meta annotations 4.0.0-alpha-7, Maven API XML 4.0.0-alpha-7, Maven Artifact 3.9.12, Maven Artifact Resolver API 1.9.25, Maven Artifact Resolver Connector Basic 1.9.25, Maven Artifact Resolver Implementation 1.9.25, Maven Artifact Resolver Named Locks 1.9.25, Maven Artifact Resolver Provider 3.9.12, Maven Artifact Resolver SPI 1.9.25, Maven Artifact Resolver Transport HTTP 1.9.25, Maven Artifact Resolver Transport Wagon 1.9.25, Maven Artifact Resolver Utilities 1.9.25, Maven Builder Support 3.9.12, Maven Embedder 3.9.12, Maven Local Settings Model 3.9.12, Maven Model 3.9.12, Maven Model Builder 3.9.12, Maven Plugin API 3.9.12, Maven Repository Metadata Model 3.9.12, Maven Settings Builder 3.9.12, Maven Wagon API 3.5.3, Maven Wagon File Provider 3.5.3, Maven Wagon HTTP Provider 3.5.3, Maven Wagon HTTP Shared Library 3.5.3, Maven XML Implementation 4.0.0-alpha-7, Micrometer Metrics Interoperability 3.10.1, micrometer-commons 1.16.3, micrometer-metrics 1.16.3, micrometer-observation 1.16.3, micrometer-registry-prometheus-simpleclient 1.16.3, MicroProfile Config API 3.1, MicroProfile Context Propagation 1.3, MicroProfile Health API 4.0.1, native-linux-x86_64 1.16.0, Netty Project 4.1.130, Netty/Transport/Native/Unix/Common 4.1.130.Final, org.apache.groovy:groovy-json 4.0.22, org.apache.groovy:groovy-xml 4.0.22, org.apiguardian:apiguardian-api 1.1.2, org.opentest4j:opentest4j 1.3.0, Plexus 2.1.0, Plexus Cipher: encryption/decryption Component 2.0, Plexus Interpolation API 1.26, Plexus Security Dispatcher Component 2.0, Plexus XML Utilities 4.0.2, plexus-utils 3.5.1, Prometheus Java Simpleclient 0.16.0, Prometheus Java Simpleclient Common 0.16.0, Prometheus Java Span Context Supplier - Common 0.16.0, Prometheus Java Span Context Supplier - OpenTelemetry 0.16.0, Prometheus Java Span Context Supplier - OpenTelemetry Agent 0.16.0, Quarkus - FS Util 1.3.0, quarkus-security 2.3.2, reactor-core 3.8.3, REST Assured 5.5.6, rest-assured-common 5.5.6, RESTEasy 6.2.15.Final, RESTEasy CDI integration module 6.2.15.Final, RESTEasy JAX-RS Core SPI 6.2.15.Final, RESTEasy MicroProfile: Conf Sources 3.0.1.Final, service 1.16.0, ShrinkWrap API 1.2.6, ShrinkWrap Dependency Chain 1.2.6, ShrinkWrap Implementation Base 1.2.6, ShrinkWrap SPI 1.2.6, slf4j-jboss-logmanager 2.0.2.Final, SmallRye BeanBag 1.6.1, SmallRye BeanBag: Maven 1.6.1, SmallRye BeanBag: SISU 1.6.1, SmallRye Certificate Generator - Private Key PEM utilities 0.9.2, SmallRye Common: Annotations 2.16.0, SmallRye Common: Classloader 2.16.0, SmallRye Common: Constraints 2.16.0, SmallRye Common: CPU 2.16.0, SmallRye Common: Expressions 2.16.0, SmallRye Common: Functions 2.16.0, SmallRye Common: IO 2.16.0, SmallRye Common: Net 2.16.0, SmallRye Common: OS 2.16.0, SmallRye Common: Process 2.16.0, SmallRye Common: References 2.16.0, SmallRye Common: Resources 2.16.0, SmallRye Common: Vert.x Context Utilities 2.16.0, SmallRye Fault Tolerance: Vert.x Integration 6.10.0, SmallRye Health: API 4.3.0, SmallRye Health: Provided Health Checks 4.3.0, SmallRye Mutiny 3.1.1, SmallRye Mutiny - Code Generator 3.21.5, SmallRye Mutiny - Runtime Helpers 3.21.5, SmallRye Mutiny - Vert.x Auth Common 3.21.5, SmallRye Mutiny - Vert.x Bridge Common 3.21.5, SmallRye Mutiny - Vert.x Core 3.21.5, SmallRye Mutiny - Vert.x URI Template 3.21.5, SmallRye Mutiny - Vert.x Web 3.21.5, SmallRye Mutiny - Vert.x Web Common 3.21.5, SmallRye Mutiny :: Integration with SmallRye Context Propagation 3.1.1, SmallRye Mutiny integration with Reactor 3.1.1, SmallRye Mutiny Zero JDK Flow / Reactive Streams Adapters 1.1.1, smallrye-context-propagation 2.3.0, smallrye-context-propagation-api 2.3.0, smallrye-context-propagation-storage 2.3.0, SmallRye: Common classes 3.16.0, SmallRye: MicroProfile Config Core Implementation 3.16.0, SmallRye: MicroProfile Config Implementation 3.16.0, SmallRye: MicroProfile Health Implementation 4.3.0, TagSoup 1.2.1, Vert.x Bridge Common 4.5.25, Vert.x URI Template 4.5.25, vertx-auth-common 4.5.25, vertx-codegen 4.5.25, vertx-web 4.5.25, vertx-web-common 4.5.25, wildfly-common 2.0.1, xml-path 5.5.6, Æsh 2.8.2, Æsh Readline 2.6)
 
 Apache License
 Version 2.0, January 2004
@@ -1098,7 +1046,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 Eclipse Distribution License - v 1.0
-(Angus Activation Registries 2.0.3, Jakarta Activation API 2.1.4, jakarta.xml.bind:jakarta.xml.bind-api 4.0.4)
+(Angus Activation Registries 2.0.3, Jakarta Activation API 2.1.4, jakarta.xml.bind:jakarta.xml.bind-api 4.0.5)
 
 Eclipse Distribution License - v 1.0
 ====================================
@@ -1135,7 +1083,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 Eclipse Public License 1.0
-(Vert.x Bridge Common 4.5.24, Vert.x URI Template 4.5.24, vertx-auth-common 4.5.24, vertx-codegen 4.5.24, vertx-web-common 4.5.24)
+(Vert.x Bridge Common 4.5.25, Vert.x URI Template 4.5.25, vertx-auth-common 4.5.25, vertx-codegen 4.5.25, vertx-web-common 4.5.25)
 
 Eclipse Public License - v 1.0
 ==============================
@@ -1350,7 +1298,7 @@ resulting litigation.
 ---
 
 Eclipse Public License 2.0
-(Eclipse Parsson 1.1.7, eclipse-vertx/vert.x 4.5.24, Jakarta Annotations API 3.0.0, Jakarta Expression Language 3.0 API 6.0.1, Jakarta JSON Processing API 2.1.3, jakartaee/rest 3.1.0, Java Servlet API 6.0.0, javax.interceptor API 2.2.0, javax.transaction API 2.0.1, JUnit Jupiter (Aggregator) 6.0.2, org.eclipse.sisu.inject 0.9.0.M4, org.eclipse.sisu.plexus 0.9.0.M4, org.junit.jupiter:junit-jupiter-api 6.0.2, org.junit.jupiter:junit-jupiter-engine 6.0.2, org.junit.jupiter:junit-jupiter-params 6.0.2, org.junit.platform:junit-platform-commons 6.0.2, org.junit.platform:junit-platform-engine 6.0.2, org.junit.platform:junit-platform-launcher 6.0.2)
+(Eclipse Parsson 1.1.7, eclipse-vertx/vert.x 4.5.25, Jakarta Annotations API 3.0.0, Jakarta Expression Language 3.0 API 6.0.1, Jakarta JSON Processing API 2.1.3, jakartaee/rest 3.1.0, Java Servlet API 6.0.0, javax.interceptor API 2.2.0, javax.transaction API 2.0.1, JUnit Jupiter (Aggregator) 6.0.3, org.eclipse.sisu.inject 0.9.0.M4, org.eclipse.sisu.plexus 0.9.0.M4, org.junit.jupiter:junit-jupiter-api 6.0.3, org.junit.jupiter:junit-jupiter-engine 6.0.3, org.junit.jupiter:junit-jupiter-params 6.0.3, org.junit.platform:junit-platform-commons 6.0.3, org.junit.platform:junit-platform-engine 6.0.3, org.junit.platform:junit-platform-launcher 6.0.3, vertx-web 4.5.25)
 
 Eclipse Public License - v 2.0
 ==============================
@@ -1623,7 +1571,7 @@ exceptions or additional permissions here}.”
 ---
 
 GNU General Public License v2.0 w/Classpath exception
-(Eclipse Parsson 1.1.7, Jakarta Annotations API 3.0.0, Jakarta Expression Language 3.0 API 6.0.1, Jakarta JSON Processing API 2.1.3, Java Servlet API 6.0.0, javax.annotation API 1.3.2, javax.interceptor API 2.2.0, javax.transaction API 2.0.1, JDK Classfile API backport 26.cr1)
+(Eclipse Parsson 1.1.7, Jakarta Annotations API 3.0.0, Jakarta Expression Language 3.0 API 6.0.1, Jakarta JSON Processing API 2.1.3, Java Servlet API 6.0.0, javax.annotation API 1.3.2, javax.interceptor API 2.2.0, javax.transaction API 2.0.1, JDK Classfile API backport 26)
 
 GNU Classpath License
 =====================
@@ -2478,7 +2426,7 @@ That's all there is to it!
 ---
 
 MIT License
-(Duct Tape 1.0.8, SLF4J API Module 2.0.17, Testcontainers :: Couchbase 1.20.1, TestContainers Core 2.0.3)
+(Duct Tape 1.0.8, SLF4J API Module 2.0.17, Testcontainers :: Couchbase 1.21.0, TestContainers Core 2.0.3)
 
 The MIT License
 ===============
