@@ -237,7 +237,7 @@
 235,AWS Java SDK :: Services :: Amazon S3,2.29.27,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5376fe3b-cd89-4f05-adb3-6746070617ca,af1775f2-4224-4f01-a352-f24909d2dcbb,7cae335f-1193-421e-92f1-8802b4243e93
 236,AWS SDK for Go,v1.55.6,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cf387cd9-100d-43f4-9424-ba60bbfa3ba7,73361320-07f5-4d20-9e17-99041ab47d29,7cae335f-1193-421e-92f1-8802b4243e93
 237,AWS SDK for Go,v1.55.7,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cf387cd9-100d-43f4-9424-ba60bbfa3ba7,f91c3ef1-7ab9-4f51-8ef4-1cf77d90a5eb,7cae335f-1193-421e-92f1-8802b4243e93
-238,Abseil,20250127.1,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,48190a0a-604d-41eb-aadc-9c942ecdb6fd,2843ff5c-6b1a-42d2-83ea-98c8ed44cf04,7cae335f-1193-421e-92f1-8802b4243e93
+238,Abseil,20250512.1,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,48190a0a-604d-41eb-aadc-9c942ecdb6fd,88e42f04-f9ec-40b2-8175-439228c211e7,7cae335f-1193-421e-92f1-8802b4243e93
 239,Acorn-JSX,5.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8474d809-ef0e-4f07-a797-35c1a8663481,f249be09-24b6-4943-a5f2-852cb007d3ff,ad705c59-6893-4980-bdbf-0837f1823cc4
 240,Acorn-JSX,5.3.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8474d809-ef0e-4f07-a797-35c1a8663481,682ad642-5c7b-4bd3-9d23-b5f81284776f,ad705c59-6893-4980-bdbf-0837f1823cc4
 241,Acorn-JSX,5.3.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8474d809-ef0e-4f07-a797-35c1a8663481,682ad642-5c7b-4bd3-9d23-b5f81284776f,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -385,7 +385,7 @@
 383,Prometheus Java Simpleclient Common,0.14.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9a2e9df8-0dc1-4fde-9d96-0f7b8387d58c,86df4196-e7a1-4161-b977-46a4bcb85316,7cae335f-1193-421e-92f1-8802b4243e93
 384,Prometheus Java Span Context Supplier - Common,0.14.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3209a9b3-3f2a-48fe-b0b5-8bec69e1414e,eb38762d-4b32-486a-973d-eedbce788ecb,7cae335f-1193-421e-92f1-8802b4243e93
 385,Prometheus Java Span Context Supplier - OpenTelemetry Agent,0.14.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b6f4f568-5a8e-4612-8a30-b7cfa9c2aa76,9c85df36-be55-403f-86de-2093a0df95ff,7cae335f-1193-421e-92f1-8802b4243e93
-386,Protobuf,4.31.0,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,1ac59252-efa9-4847-adda-55c704035f0c,5489e489-0a56-475c-a592-9fd3a75a519b,3d238144-44e6-450e-b523-3defbdaed9dc
+386,Protobuf,4.31.1,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,1ac59252-efa9-4847-adda-55c704035f0c,9d6ed451-73e6-45f0-84be-ac78e04221da,3d238144-44e6-450e-b523-3defbdaed9dc
 387,Python programming language,3.14.2,Manually Added,Python Software Foundation License 2.0,PERMISSIVE,NOT_REVIEWED,87993177-f099-4a8c-b962-3958dc3e3a3a,30b66c9f-a0e3-412f-a548-5984b1c1173e,ead40028-7962-4fc0-9be5-2b956cd4714a
 388,RamdaJs,0.28.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,35601b39-7b72-46ac-ac9a-f69d5ecc94dd,d2d0af72-bc09-411b-93d2-fc28a87ae6c9,ad705c59-6893-4980-bdbf-0837f1823cc4
 389,React from Facebook,17.0.2,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,782107f6-0590-4109-8e41-54736c1699cb,0239cced-0388-4d19-9afd-6e6aa0d20b0a,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -3568,7 +3568,7 @@
 3566,browserify/detective,5.2.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,14b46f63-51c5-410b-9a09-318b25f8b87e,8b032720-344d-4743-bef3-241346f286e6,ad705c59-6893-4980-bdbf-0837f1823cc4
 3567,buffer-from,1.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,09372c9b-0cb9-41df-a007-aea2e31613c2,ddedce78-0cd4-46ed-ac05-32310548beaf,ad705c59-6893-4980-bdbf-0837f1823cc4
 3568,buffer-from,1.1.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,09372c9b-0cb9-41df-a007-aea2e31613c2,d447ac40-662f-4ef1-a91e-4a70daf4332b,ad705c59-6893-4980-bdbf-0837f1823cc4
-3569,c-ares,1.34.5,Manually Added,Expat License,PERMISSIVE,NOT_REVIEWED,3c284f73-2808-4837-845b-b6725cf7e840,9f1e07f9-b121-407e-80fb-088d03cee642,19bd4215-a4d4-4ffe-8e54-fcd9558d4e96
+3569,c-ares,1.34.6,Manually Added,Expat License,PERMISSIVE,NOT_REVIEWED,3c284f73-2808-4837-845b-b6725cf7e840,3531231b-6d01-4e62-bcb8-1b76f5442924,19bd4215-a4d4-4ffe-8e54-fcd9558d4e96
 3570,census-instrumentation/opencensus-go,v0.24.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7552b064-6e97-4096-b2d0-e9d69edf1a5c,3dea518b-b2ca-4d97-b650-406a59265308,7cae335f-1193-421e-92f1-8802b4243e93
 3571,census-instrumentation/opencensus-go,v0.24.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7552b064-6e97-4096-b2d0-e9d69edf1a5c,3dea518b-b2ca-4d97-b650-406a59265308,7cae335f-1193-421e-92f1-8802b4243e93
 3572,chzyer/test,20190214-snapshot-a1ea475d,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,281a237d-a061-4914-9781-07eaab906ce1,0a79fab0-2cab-4a25-9c81-0bc8cf1f71b8,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -3625,7 +3625,7 @@
 3623,go.etcd.io/bbolt,v1.3.7,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,76dda1b7-82d3-4e77-ae9b-c200a9d06240,c2e9a312-d5f7-4a05-9acf-fff62688599d,ad705c59-6893-4980-bdbf-0837f1823cc4
 3624,google-re2,2022.04.01,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,2cc499cd-32b6-4b1b-8730-a482a94619bd,5be7212b-a9da-4455-9077-6177b3ff58e4,3d238144-44e6-450e-b523-3defbdaed9dc
 3625,gosigar,v1.3.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c2a8b6b2-00b8-40de-a59b-3a6d4937aac5,b991d7c4-1f6d-4372-b894-c99b244029ac,7cae335f-1193-421e-92f1-8802b4243e93
-3626,grpc,1.73.1,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f706d0f9-963f-4464-a69e-9e4647131897,3c5acd2b-0ffd-4a63-9ec8-ed92147445b7,7cae335f-1193-421e-92f1-8802b4243e93
+3626,grpc,1.78.1,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f706d0f9-963f-4464-a69e-9e4647131897,a983326e-70c3-4e9d-a0b2-eeed4476620e,7cae335f-1193-421e-92f1-8802b4243e93
 3627,hashicorp-go-cleanhttp,v0.5.2,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,0381309d-0c52-4414-9248-1f18ce4f1fa9,95c41ef4-0d7f-4dd7-b9b6-72cf3363d7b3,ce3dd63e-c569-4cea-986a-46bc5efe9896
 3628,hashicorp-go-cleanhttp,v0.5.2,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,0381309d-0c52-4414-9248-1f18ce4f1fa9,95c41ef4-0d7f-4dd7-b9b6-72cf3363d7b3,ce3dd63e-c569-4cea-986a-46bc5efe9896
 3629,hashicorp-go-uuid,v1.0.3,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,8951c671-773b-4ed9-bae0-ede913450494,cb4b326b-4d3e-4454-aaf0-0896b6513081,ce3dd63e-c569-4cea-986a-46bc5efe9896
