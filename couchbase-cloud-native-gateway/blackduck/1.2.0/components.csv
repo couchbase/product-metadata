@@ -48,7 +48,7 @@
 46,chenzhuoyu/iasm,v0.9.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,db059d62-7121-44b4-aca8-3c1a0273ac37,f975189f-aedb-43f8-b98c-57ff53c15379,7cae335f-1193-421e-92f1-8802b4243e93
 47,client_golang,v1.23.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,163bec4e-b7f6-4c8a-828d-5ba673aaa72a,00dbdd77-3a89-4e9a-81d4-b4fbe798bf8c,7cae335f-1193-421e-92f1-8802b4243e93
 48,cloudykit/jet,v6.2.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,03b42e54-0dd9-4403-83ca-495c6546bb82,21082173-1c9b-475f-aa52-3d3259fad137,7cae335f-1193-421e-92f1-8802b4243e93
-49,couchbase/stellar-gateway,v0.1.0,"Exact,Files Modified",Unknown License,UNKNOWN,NOT_REVIEWED,257f002d-9aea-438e-b148-e4886a5d4aef,7c315e33-b53e-4001-a48f-03894fc1d794,00000000-0010-0000-0000-000000000000
+49,couchbase/goprotostellar,20260317-snapshot-a27c5e15,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,24e0c1ff-0ab0-4a61-824f-4e1e14328d7d,8ba6c4aa-4d45-44c5-9abe-9f45532acb5e,7cae335f-1193-421e-92f1-8802b4243e93
 50,couchbaselabs/gocbconnstr,v1.0.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57f974ce-4fd9-4050-a636-6595d3e98c1b,5900e354-e945-44ec-82a9-643f3f43c83c,7cae335f-1193-421e-92f1-8802b4243e93
 51,couchbaselabs/gocbconnstr,v2.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57f974ce-4fd9-4050-a636-6595d3e98c1b,df15b989-4d45-4574-b932-f64c175450ad,7cae335f-1193-421e-92f1-8802b4243e93
 52,cpuguy83-go-md2man,2.0.6,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,63e94eee-d11d-47ab-bc8a-9bd56a0b11b6,9d839b10-75e1-4efb-8b7e-2e53bf0de8c8,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -81,7 +81,7 @@
 79,github.com/munnerz/goautoneg,20191010-snapshot-a7dc8b61,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,c2aa130b-0092-4037-addc-fd1fe1ad68ea,919c470c-9f6a-4eca-a5a5-520eb702ef5d,3d238144-44e6-450e-b523-3defbdaed9dc
 80,github.com/oapi-codegen/oapi-codegen,v2.5.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1e546bf7-1216-43a5-82d7-06bcac500562,000df067-03d5-409e-a290-710953a9cbe3,7cae335f-1193-421e-92f1-8802b4243e93
 81,github.com/oapi-codegen/runtime,v1.1.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,276ce32b-3014-4497-b7cc-2cc3eb35ce54,49ec1fcb-e209-4401-819c-aca0a76a19c7,7cae335f-1193-421e-92f1-8802b4243e93
-82,github.com/oasdiff/yaml,20250309-snapshot-f31be36b,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,f30abc48-b6bf-44c8-8fbd-bcc9dce50996,cec28283-3829-4f83-a97d-d19180c6278e,00000000-0010-0000-0000-000000000000
+82,github.com/oasdiff/yaml,20250309-snapshot-f31be36b,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f30abc48-b6bf-44c8-8fbd-bcc9dce50996,cec28283-3829-4f83-a97d-d19180c6278e,ad705c59-6893-4980-bdbf-0837f1823cc4
 83,github.com/planetscale/vtprotobuf,20240319-snapshot-0393e58b,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bd82a328-dd27-41ca-a44a-7a2de1f074eb,ff24351c-2fc9-43d7-9d13-e951cb4fde47,3d238144-44e6-450e-b523-3defbdaed9dc
 84,github.com/prometheus/otlptranslator,v1.0.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cd6e3c1e-4501-4adf-bb0b-2a3082ba2c34,4b82efb4-059d-461e-9124-676399333259,7cae335f-1193-421e-92f1-8802b4243e93
 85,github.com/rogpeppe/fastuuid,v1.2.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,1688d332-ab71-4faa-b749-b8ccbf465d21,40ed45f5-79fb-42cb-abaa-6cb242e467ea,3d238144-44e6-450e-b523-3defbdaed9dc
