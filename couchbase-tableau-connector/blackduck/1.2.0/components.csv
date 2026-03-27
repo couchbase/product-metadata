@@ -26,7 +26,7 @@
 24,"Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs",1.83,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cfa19008-29dd-4e1d-b4e3-a7a1ad9855a2,67783cf2-be89-4b86-b534-31149c2ef3da,ad705c59-6893-4980-bdbf-0837f1823cc4
 25,Byte Buddy,byte-buddy-1.11.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3a880f58-5441-4faf-bad8-01e7648149d4,2d2b3f05-233d-4ebb-b774-6d3931702903,7cae335f-1193-421e-92f1-8802b4243e93
 26,Checker Qual,3.43.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,eaa5708e-b763-44f0-8091-2cdf7bac1cd0,06e4a1f7-aab5-4484-a6af-d6e549bedef7,ad705c59-6893-4980-bdbf-0837f1823cc4
-27,Couchbase JDBC Driver,1.1.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9f958507-c6ce-4192-8cae-25efe499f8cc,9f208bed-50c9-4412-9e7a-e92b8d04b2bb,7cae335f-1193-421e-92f1-8802b4243e93
+27,Couchbase JDBC Driver,1.1.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9f958507-c6ce-4192-8cae-25efe499f8cc,cba4d8a4-6842-428a-a7d2-1014979d9171,7cae335f-1193-421e-92f1-8802b4243e93
 28,Couchbase JVM Core IO,3.11.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,72ed568b-e849-4f92-a4d1-df220cb2a423,c9797f83-30c4-42a0-b8b3-30fe05d68da6,7cae335f-1193-421e-92f1-8802b4243e93
 29,Couchbase Java SDK,3.11.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,24d30cc9-59fe-47e8-9672-b5b99f76eaec,d0dab8f4-65e6-4b5b-b00e-4755f4db24b5,7cae335f-1193-421e-92f1-8802b4243e93
 30,FindBugs jsr305,3.0.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1dd30afc-69b6-450f-b52f-f7c757fef842,56ab9f83-8fed-48fd-a1a4-e0450d871a7a,7cae335f-1193-421e-92f1-8802b4243e93
@@ -99,11 +99,11 @@
 97,jackson-core,2.19.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,f72d6287-f03e-4a89-93ec-ddfa93037586,7cae335f-1193-421e-92f1-8802b4243e93
 98,jackson-core,2.19.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,9ebe5eb1-103f-4755-baf0-d4d9f134391b,7cae335f-1193-421e-92f1-8802b4243e93
 99,jackson-core,2.20.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,87f2d3ee-cccd-4241-ba2d-25074ff70402,7cae335f-1193-421e-92f1-8802b4243e93
-100,jackson-core,2.21.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,d47e600e-c8ce-44b1-b3c3-495a2a6f5a63,7cae335f-1193-421e-92f1-8802b4243e93
+100,jackson-core,2.21.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,f3d1e59e-98fa-4096-a1b8-2610b8fb947c,7cae335f-1193-421e-92f1-8802b4243e93
 101,jackson-databind,2.19.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,af77aa3e-00df-466c-bc2a-2eab4511fb7b,7cae335f-1193-421e-92f1-8802b4243e93
 102,jackson-databind,2.19.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,a9bbf841-159a-4b62-acc4-c9ebb8996d9f,7cae335f-1193-421e-92f1-8802b4243e93
 103,jackson-databind,2.20.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,0f3b0a30-927b-406f-adbe-23e99c1ae5ad,7cae335f-1193-421e-92f1-8802b4243e93
-104,jackson-databind,2.21.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,f43f0f29-a1d1-497d-81f6-03b745227678,7cae335f-1193-421e-92f1-8802b4243e93
+104,jackson-databind,2.21.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,34cc2e77-2162-422c-bb2e-6f6a713c8997,7cae335f-1193-421e-92f1-8802b4243e93
 105,jackson-databind,3.1.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,787247d8-8eb1-4fdb-9467-58b7aa828851,16761778-7a6c-4981-8b2b-ff27827b400b,7cae335f-1193-421e-92f1-8802b4243e93
 106,javax.annotation API,1.2,Direct Dependency,(GNU General Public License v2.0 w/Classpath exception OR Common Development and Distribution License 1.1),"WEAK_RECIPROCAL,RECIPROCAL",NOT_REVIEWED,917f4125-99a8-47f1-aeb7-202cc0dfb4f3,0fa20c49-736b-4e8e-8bb1-5cc69cb782c1,"dd002c7d-e70a-479f-8af4-798e1b2bbd2d,9b7eb3ce-d64b-4e3e-a6b7-55d4dc798e68"
 107,lzma-java,1.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,df1e06b9-4710-487f-bad8-3cac6554bd9c,1bae0008-fbc7-4abf-8a8c-e5da736e5622,7cae335f-1193-421e-92f1-8802b4243e93
