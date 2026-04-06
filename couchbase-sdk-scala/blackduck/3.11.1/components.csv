@@ -18,13 +18,13 @@
 16,Netty/Transport/Native/Unix/Common,4.2.9.Final,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1cb09fd1-4c1d-45f5-937a-193e8acbfb88,3ab7d8ef-c7a3-4b38-a449-4d8fde85ad1e,7cae335f-1193-421e-92f1-8802b4243e93
 17,ParaNamer Core,2.8,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a342cae4-5924-45fb-b29c-5db4095a06ac,6b535d32-cc30-4327-8599-4c9ee3ba7530,3d238144-44e6-450e-b523-3defbdaed9dc
 18,ParaNamer Core,2.8.3,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a342cae4-5924-45fb-b29c-5db4095a06ac,93923de4-c8bf-4acc-aa61-41bcba4c87a2,3d238144-44e6-450e-b523-3defbdaed9dc
-19,SLF4J API Module,1.7.36,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ca782761-ef54-4eb6-b7f0-b9fbb15a0698,1587e123-4c0d-4f25-aa89-32dc78ff0202,ad705c59-6893-4980-bdbf-0837f1823cc4
-20,Scala,2.12.15,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5defcec1-ef02-4263-828f-7bb1e139a2af,3af7c5b3-b1bf-43dc-b23a-fe670cc5f7fd,7cae335f-1193-421e-92f1-8802b4243e93
-21,Scala,2.12.20,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5defcec1-ef02-4263-828f-7bb1e139a2af,70caae3d-391c-4025-8af9-ef6a18ed97d8,7cae335f-1193-421e-92f1-8802b4243e93
-22,Scala,v2.12.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5defcec1-ef02-4263-828f-7bb1e139a2af,8fbdc137-e379-465d-8702-9621825bf43c,7cae335f-1193-421e-92f1-8802b4243e93
-23,Scala wrapper for reactor-core,0.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,97afe998-1e34-4a7b-9567-3c87a516914b,4d2c52c3-81a6-4f89-976b-45d9a24cb9d9,7cae335f-1193-421e-92f1-8802b4243e93
-24,ast,1.6.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7b453993-471b-48bd-b0a2-87d8f71b310c,eb0d3a7c-e449-4f2e-b33f-4fc1c908b0f6,ad705c59-6893-4980-bdbf-0837f1823cc4
-25,com.google.api.grpc:proto-google-common-protos,2.48.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bcb4fb16-c588-440e-873f-e1fb57f06033,4a479d3c-dc61-4e7d-99cc-faa3eb3ba324,7cae335f-1193-421e-92f1-8802b4243e93
+19,Proto Google Common Protos,2.48.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bcb4fb16-c588-440e-873f-e1fb57f06033,4a479d3c-dc61-4e7d-99cc-faa3eb3ba324,7cae335f-1193-421e-92f1-8802b4243e93
+20,SLF4J API Module,1.7.36,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ca782761-ef54-4eb6-b7f0-b9fbb15a0698,1587e123-4c0d-4f25-aa89-32dc78ff0202,ad705c59-6893-4980-bdbf-0837f1823cc4
+21,Scala,2.12.15,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5defcec1-ef02-4263-828f-7bb1e139a2af,3af7c5b3-b1bf-43dc-b23a-fe670cc5f7fd,7cae335f-1193-421e-92f1-8802b4243e93
+22,Scala,2.12.20,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5defcec1-ef02-4263-828f-7bb1e139a2af,70caae3d-391c-4025-8af9-ef6a18ed97d8,7cae335f-1193-421e-92f1-8802b4243e93
+23,Scala,v2.12.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5defcec1-ef02-4263-828f-7bb1e139a2af,8fbdc137-e379-465d-8702-9621825bf43c,7cae335f-1193-421e-92f1-8802b4243e93
+24,Scala wrapper for reactor-core,0.8.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,97afe998-1e34-4a7b-9567-3c87a516914b,4d2c52c3-81a6-4f89-976b-45d9a24cb9d9,7cae335f-1193-421e-92f1-8802b4243e93
+25,ast,1.6.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,7b453993-471b-48bd-b0a2-87d8f71b310c,eb0d3a7c-e449-4f2e-b33f-4fc1c908b0f6,ad705c59-6893-4980-bdbf-0837f1823cc4
 26,core,0.14.10,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,64726f2a-ddc9-4931-a94e-2eccba9103eb,6251e423-ec09-48a3-b502-8fa434a17d80,7cae335f-1193-421e-92f1-8802b4243e93
 27,core,2.3.12,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4ae88cac-44b4-495e-b1f6-67a51f860f5d,87d872cd-2eb0-4140-9222-345fd15588e7,7cae335f-1193-421e-92f1-8802b4243e93
 28,dnsjava,3.6.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8113f295-865c-433c-b675-e76ecb5137f1,786fa73d-c510-41f9-b02e-16a009c72508,3d238144-44e6-450e-b523-3defbdaed9dc
