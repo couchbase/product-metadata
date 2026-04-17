@@ -46,13 +46,14 @@ github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b: https://github.com
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
 go-check-check 20201130-snapshot-10cb9826: http://labix.org/gocheck : BSD 2-clause "Simplified" License
 go-faker/faker v4.6.1 : MIT License
+go-jose v4.1.4: https://github.com/go-jose/go-jose : Apache License 2.0
 go-logr/logr v1.4.3: https://github.com/go-logr/logr : Apache License 2.0
 go-logr/stdr v1.2.2: https://github.com/go-logr/stdr : Apache License 2.0
 go-spew v1.1.1: https://github.com/davecgh/go-spew : ISC License
 go-zap v1.27.1: https://godoc.org/go.uber.org/zap : MIT License
 go.uber.org/goleak v1.3.0: https://github.com/uber-go/goleak : MIT License
 go.uber.org/multierr v1.11.0: https://github.com/uber-go/multierr : MIT License
-go.yaml.in/yaml/v2 v2.4.3 : Apache License 2.0
+go.yaml.in/yaml/v2 v2.4.3: https://github.com/yaml/go-yaml : Apache License 2.0
 gocb v2.11.2: https://docs.couchbase.com/go-sdk/current/hello-world/start-using-sdk.html : Apache License 2.0
 godebug v1.1.0: https://github.com/kylelemons/godebug : Apache License 2.0
 GoDoc Text v0.2.0: http://godoc.org/github.com/kr/text : MIT License
@@ -63,6 +64,7 @@ golang-snappy-go-dev v1.0.0: https://github.com/golang/snappy : BSD 3-clause "Ne
 golang.org/x/crypto v0.47.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod v0.31.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
 golang.org/x/net v0.49.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.43.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
 golang.org/x/term v0.39.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.6.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools v0.40.0: https://pkg.go.dev/golang.org/x/tools : BSD 3-clause "New" or "Revised" License
@@ -111,7 +113,7 @@ yaml for Go v3.0.1: https://github.com/go-yaml/yaml/tree/v2 : (MIT License AND A
 Licenses: 
 
 Apache License 2.0
-(aws/aws-sdk-go-v2 config/v1.29.9, aws/aws-sdk-go-v2 credentials/v1.17.62, aws/aws-sdk-go-v2 feature/ec2/imds/v1.16.30, aws/aws-sdk-go-v2 internal/configsources/v1.3.34, aws/aws-sdk-go-v2 internal/endpoints/v2.6.34, aws/aws-sdk-go-v2 internal/ini/v1.8.3, aws/aws-sdk-go-v2 service/internal/accept-encoding/v1.12.3, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.12.15, aws/aws-sdk-go-v2 service/secretsmanager/v1.35.2, aws/aws-sdk-go-v2 service/sso/v1.25.1, aws/aws-sdk-go-v2 service/ssooidc/v1.29.1, aws/aws-sdk-go-v2 service/sts/v1.33.17, aws/aws-sdk-go-v2 v1.36.3, client_golang v1.23.2, couchbase/gocbcore v10.8.1, couchbase/goprotostellar v1.0.5, couchbaselabs/gocaves 20250107-snapshot-f9647922, couchbaselabs/gocbconnstr v2.0.0, envoyproxy/go-control-plane envoy/v1.36.0, envoyproxy/go-control-plane ratelimit/v0.1.0, envoyproxy/go-control-plane v0.14.0, envoyproxy/protoc-gen-validate v1.3.0, github.com/aws/smithy-go v1.22.2, github.com/cncf/xds 20251210-snapshot-ee656c75, github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8, github.com/google/cel-spec v0.25.1, go-logr/logr v1.4.3, go-logr/stdr v1.2.2, go.yaml.in/yaml/v2 v2.4.3, gocb v2.11.2, godebug v1.1.0, golang/glog v1.2.5, google-cloud-go compute/metadata/v0.9.0, googleapis/go-genproto 20260120-snapshot-b8f7ae30, GoogleCloudPlatform/opentelemetry-operations-go detectors/gcp/v1.31.0, grpc-go v1.80.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, OneOfOne/xxhash v1.2.2, open-telemetry/opentelemetry-go metric/v1.41.0, open-telemetry/opentelemetry-go sdk/metric/v1.41.0, open-telemetry/opentelemetry-go sdk/v1.41.0, open-telemetry/opentelemetry-go trace/v1.41.0, open-telemetry/opentelemetry-go v1.41.0, open-telemetry/opentelemetry-go-contrib detectors/gcp/v1.39.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.62.0, open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1, prometheus-client_model v0.6.2, prometheus-common v0.67.5, prometheus-procfs v0.16.1, spiffe/go-spiffe v2.6.0, yaml for Go v3.0.1)
+(aws/aws-sdk-go-v2 config/v1.29.9, aws/aws-sdk-go-v2 credentials/v1.17.62, aws/aws-sdk-go-v2 feature/ec2/imds/v1.16.30, aws/aws-sdk-go-v2 internal/configsources/v1.3.34, aws/aws-sdk-go-v2 internal/endpoints/v2.6.34, aws/aws-sdk-go-v2 internal/ini/v1.8.3, aws/aws-sdk-go-v2 service/internal/accept-encoding/v1.12.3, aws/aws-sdk-go-v2 service/internal/presigned-url/v1.12.15, aws/aws-sdk-go-v2 service/secretsmanager/v1.35.2, aws/aws-sdk-go-v2 service/sso/v1.25.1, aws/aws-sdk-go-v2 service/ssooidc/v1.29.1, aws/aws-sdk-go-v2 service/sts/v1.33.17, aws/aws-sdk-go-v2 v1.36.3, client_golang v1.23.2, couchbase/gocbcore v10.8.1, couchbase/goprotostellar v1.0.5, couchbaselabs/gocaves 20250107-snapshot-f9647922, couchbaselabs/gocbconnstr v2.0.0, envoyproxy/go-control-plane envoy/v1.36.0, envoyproxy/go-control-plane ratelimit/v0.1.0, envoyproxy/go-control-plane v0.14.0, envoyproxy/protoc-gen-validate v1.3.0, github.com/aws/smithy-go v1.22.2, github.com/cncf/xds 20251210-snapshot-ee656c75, github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8, github.com/google/cel-spec v0.25.1, go-jose v4.1.4, go-logr/logr v1.4.3, go-logr/stdr v1.2.2, go.yaml.in/yaml/v2 v2.4.3, gocb v2.11.2, godebug v1.1.0, golang/glog v1.2.5, google-cloud-go compute/metadata/v0.9.0, googleapis/go-genproto 20260120-snapshot-b8f7ae30, GoogleCloudPlatform/opentelemetry-operations-go detectors/gcp/v1.31.0, grpc-go v1.80.0, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, mwitkow/go-conntrack 20190716-snapshot-2f068394, OneOfOne/xxhash v1.2.2, open-telemetry/opentelemetry-go metric/v1.41.0, open-telemetry/opentelemetry-go sdk/metric/v1.41.0, open-telemetry/opentelemetry-go sdk/v1.41.0, open-telemetry/opentelemetry-go trace/v1.41.0, open-telemetry/opentelemetry-go v1.41.0, open-telemetry/opentelemetry-go-contrib detectors/gcp/v1.39.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.62.0, open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1, prometheus-client_model v0.6.2, prometheus-common v0.67.5, prometheus-procfs v0.16.1, spiffe/go-spiffe v2.6.0, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -436,7 +438,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20190121-snapshot-509febef, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.47.0, golang.org/x/mod v0.31.0, golang.org/x/net v0.49.0, golang.org/x/term v0.39.0, golang.org/x/time v0.6.0, golang.org/x/tools v0.40.0, golang/oauth2 v0.34.0, golang/sync v0.19.0, golang/text v0.33.0, Gonum numerical packages v0.17.0, google/go-cmp v0.7.0, Googleuuid v1.6.0, klauspost-compress v1.18.0, rogpeppe/go-internal v1.14.1, xhit/go-str2duration v2.1.0)
+(exp 20190121-snapshot-509febef, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.47.0, golang.org/x/mod v0.31.0, golang.org/x/net v0.49.0, golang.org/x/sys v0.43.0, golang.org/x/term v0.39.0, golang.org/x/time v0.6.0, golang.org/x/tools v0.40.0, golang/oauth2 v0.34.0, golang/sync v0.19.0, golang/text v0.33.0, Gonum numerical packages v0.17.0, google/go-cmp v0.7.0, Googleuuid v1.6.0, klauspost-compress v1.18.0, rogpeppe/go-internal v1.14.1, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
