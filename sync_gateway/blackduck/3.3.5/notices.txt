@@ -43,7 +43,7 @@ github.com/power-devops/perfstat 20210106-snapshot-5aafc221: https://pkg.go.dev/
 github.com/shoenig/go-m1cpu v0.1.6: https://github.com/shoenig/go-m1cpu : Mozilla Public License 2.0
 github.com/shoenig/test v0.6.4: https://github.com/shoenig/test : Mozilla Public License 2.0
 github.com/yusufpapurcu/wmi v1.2.4: https://github.com/yusufpapurcu/wmi : MIT License
-Go programming language 1.25.9: http://golang.org/ : Go BSD License with Patent Provision
+Go programming language 1.25.9: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go Testify v1.10.0: https://github.com/stretchr/testify : MIT License
 go-check-check 20201130-snapshot-10cb9826: http://labix.org/gocheck : BSD 2-clause "Simplified" License
 go-jose 4.0.5: https://github.com/go-jose/go-jose : Apache License 2.0
@@ -528,7 +528,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20250605-snapshot-dcc06ee1, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Golang Protobuf v1.34.2, golang.org/x/crypto v0.39.0, golang.org/x/net v0.41.0, golang.org/x/sys v0.33.0, golang.org/x/time v0.3.0, golang/oauth2 v0.30.0, golang/text v0.26.0, google/go-cmp v0.6.0, Googleuuid v1.6.0, gopsutil v3.24.5, gorilla/mux v1.8.1, klauspost-compress v1.17.11, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.22, rogpeppe/go-internal v1.11.0, tklauser/go-sysconf v0.3.12)
+(exp 20250605-snapshot-dcc06ee1, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.25.9, Golang Protobuf v1.34.2, golang.org/x/crypto v0.39.0, golang.org/x/net v0.41.0, golang.org/x/sys v0.33.0, golang.org/x/time v0.3.0, golang/oauth2 v0.30.0, golang/text v0.26.0, google/go-cmp v0.6.0, Googleuuid v1.6.0, gopsutil v3.24.5, gorilla/mux v1.8.1, klauspost-compress v1.17.11, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.22, rogpeppe/go-internal v1.11.0, tklauser/go-sysconf v0.3.12)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -636,50 +636,6 @@ recipients of the licensed work to be provided by Licensor:
   3. To specify a Change Date.
 
   4. Not to modify this License in any other way.
-
----
-
-Go BSD License with Patent Provision
-(Go programming language 1.25.9)
-
-Copyright © 2009 The Go Authors. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-  * Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
-
-  * Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-
-  * Neither the name of Google Inc. nor the names of its contributors may be used
-    to endorse or promote products derived from this software without specific
-    prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
-OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
-IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-Subject to the terms and conditions of this License, Google hereby grants to You
-a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-(except as stated in this section) patent license to make, have made, use, offer
-to sell, sell, import, and otherwise transfer this implementation of Go, where
-such license applies only to those patent claims licensable by Google that are
-necessarily infringed by use of this implementation of Go. If You institute
-patent litigation against any entity (including a cross-claim or counterclaim in
-a lawsuit) alleging that this implementation of Go or a Contribution incorporated
-within this implementation of Go constitutes direct or contributory patent
-infringement, then any patent licenses granted to You under this License for this
-implementation of Go shall terminate as of the date such litigation is filed.
 
 ---
 
