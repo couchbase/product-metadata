@@ -41,7 +41,7 @@ github.com/lufia/plan9stats 20211012-snapshot-39d0f177: https://pkg.go.dev/githu
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61: https://github.com/munnerz/goautoneg : BSD 3-clause "New" or "Revised" License
 github.com/power-devops/perfstat 20240221-snapshot-82ca3683: https://pkg.go.dev/github.com/power-devops/perfstat : MIT License
 github.com/yusufpapurcu/wmi v1.2.4: https://github.com/yusufpapurcu/wmi : MIT License
-Go programming language 1.26.2: http://golang.org/ : Go BSD License with Patent Provision
+Go programming language 1.26.3: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
 go-check-check 20201130-snapshot-10cb9826: http://labix.org/gocheck : BSD 2-clause "Simplified" License
 go-jose v4.1.4: https://github.com/go-jose/go-jose : Apache License 2.0
@@ -420,7 +420,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20260112-snapshot-716be562, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.50.0, golang.org/x/net v0.53.0, golang.org/x/sys v0.43.0, golang.org/x/time v0.14.0, golang/oauth2 v0.35.0, golang/sync v0.20.0, golang/text v0.36.0, Gonum numerical packages v0.17.0, google/go-cmp v0.7.0, Googleuuid v1.6.0, gopsutil v4.26.4, gorilla/mux v1.8.1, klauspost-compress v1.17.11, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.14.1, tklauser/go-sysconf v0.3.16)
+(exp 20260112-snapshot-716be562, github.com/lufia/plan9stats 20211012-snapshot-39d0f177, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.26.3, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.50.0, golang.org/x/net v0.53.0, golang.org/x/sys v0.43.0, golang.org/x/time v0.14.0, golang/oauth2 v0.35.0, golang/sync v0.20.0, golang/text v0.36.0, Gonum numerical packages v0.17.0, google/go-cmp v0.7.0, Googleuuid v1.6.0, gopsutil v4.26.4, gorilla/mux v1.8.1, klauspost-compress v1.17.11, mergo v1.0.0, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.14.1, tklauser/go-sysconf v0.3.16)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -528,50 +528,6 @@ recipients of the licensed work to be provided by Licensor:
   3. To specify a Change Date.
 
   4. Not to modify this License in any other way.
-
----
-
-Go BSD License with Patent Provision
-(Go programming language 1.26.2)
-
-Copyright © 2009 The Go Authors. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-  * Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
-
-  * Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-
-  * Neither the name of Google Inc. nor the names of its contributors may be used
-    to endorse or promote products derived from this software without specific
-    prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
-OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
-IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-Subject to the terms and conditions of this License, Google hereby grants to You
-a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-(except as stated in this section) patent license to make, have made, use, offer
-to sell, sell, import, and otherwise transfer this implementation of Go, where
-such license applies only to those patent claims licensable by Google that are
-necessarily infringed by use of this implementation of Go. If You institute
-patent litigation against any entity (including a cross-claim or counterclaim in
-a lawsuit) alleging that this implementation of Go or a Contribution incorporated
-within this implementation of Go constitutes direct or contributory patent
-infringement, then any patent licenses granted to You under this License for this
-implementation of Go shall terminate as of the date such litigation is filed.
 
 ---
 
