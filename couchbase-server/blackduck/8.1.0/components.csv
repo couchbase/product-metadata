@@ -1454,12 +1454,12 @@
 1452,prometheus/prometheus,v0.304.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,04b82d3f-8119-4a41-bfb6-e71168773767,62976f60-64ed-44b3-a785-e4bc8170d59a,7cae335f-1193-421e-92f1-8802b4243e93
 1453,prompts,2.4.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1ad49c11-156f-4afb-af9e-75730629b989,a04d16a6-94ee-4642-94bd-edbed2f351ff,ad705c59-6893-4980-bdbf-0837f1823cc4
 1454,proxy-addr,2.0.7,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,9e311894-acbd-4302-bec0-5a131ffb56f7,f678565a-ca19-4eaf-bed7-ca5c49231ed1,ad705c59-6893-4980-bdbf-0837f1823cc4
-1455,psf-requests,2.32.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bae8af37-9432-44a7-9e28-a086c1a7ccfd,a841accf-8a7e-414f-848f-c7fab6acbda3,7cae335f-1193-421e-92f1-8802b4243e93
+1455,psf-requests,2.33.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bae8af37-9432-44a7-9e28-a086c1a7ccfd,92c8aa52-32a0-4b96-a93f-71adffe6c34e,7cae335f-1193-421e-92f1-8802b4243e93
 1456,psl,1.9.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,3ffe1f2b-754b-4285-a59a-2f3dea916e07,4cde73c0-b481-49fc-94de-e20bb06b45f2,ad705c59-6893-4980-bdbf-0837f1823cc4
 1457,pure-rand,6.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,be43a7c1-2041-4059-a1f0-3677de023228,2c1b4182-ee1d-43da-bae1-f2c8cfee9683,ad705c59-6893-4980-bdbf-0837f1823cc4
-1458,pyOpenSSL,25.3.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,69c65bd6-9d4a-427e-8b35-384c0ce8602e,74be2e42-480c-4648-b174-b62c51422438,7cae335f-1193-421e-92f1-8802b4243e93
+1458,pyOpenSSL,26.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,69c65bd6-9d4a-427e-8b35-384c0ce8602e,8fd8efff-00c7-48ca-847b-ac0838520d1c,7cae335f-1193-421e-92f1-8802b4243e93
 1459,python cffi,2.0.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a136afda-2456-41df-a8f4-2d74ef679b21,a5aba652-ab48-4b20-a55f-40e6dc8f64c1,ad705c59-6893-4980-bdbf-0837f1823cc4
-1460,python-certifi,2026.1.4,Direct Dependency,ISC License,PERMISSIVE,NOT_REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,4f4d9079-15c2-4445-bc39-0175e9ac658e,14b0b50b-acd2-4fc8-ac65-3b15f9e58260
+1460,python-certifi,2026.4.22,Direct Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,9fbd6894-79ca-4744-8356-602924ab168a,ce3dd63e-c569-4cea-986a-46bc5efe9896
 1461,pyzipper,0.3.6,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,07fb3281-59de-4775-bd6a-74e805ca1ea6,8c9f9b4d-b16d-4958-ae4d-541492907568,ad705c59-6893-4980-bdbf-0837f1823cc4
 1462,quic-go/quic-go,v0.56.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0145af1a-3b69-4d09-aa71-cdaf34e20248,070117c5-a626-415c-a6d1-20c073722f1e,ad705c59-6893-4980-bdbf-0837f1823cc4
 1463,r3labs/sse,20210224-snapshot-26fe8047,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,66255014-4c11-417b-be29-460a9b40f368,40f1603c-a971-4ee0-9ca3-ebe1363e89a1,ce3dd63e-c569-4cea-986a-46bc5efe9896
@@ -2741,7 +2741,7 @@
 2739,huandu/xstrings,v1.3.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,2e8a59ff-28c9-4755-ad8d-ae22be0e5aec,31b4dd36-5b81-4668-bf43-a6c8b51611e6,ad705c59-6893-4980-bdbf-0837f1823cc4
 2740,hustcc/jest-canvas-mock,2.5.2,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f67e29e4-4f8e-49d9-a900-7a458aa7533d,9ee7aafd-1b7c-4a04-875b-0bae9a0cb4e8,ad705c59-6893-4980-bdbf-0837f1823cc4
 2741,icrowley/fake,20240710-snapshot-f797eb4a,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,94fe5ed7-c56c-410d-b11a-e49436a01231,ea94f399-0326-4bbb-8388-3bccb52c7b06,ad705c59-6893-4980-bdbf-0837f1823cc4
-2742,idna,3.11,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a072b9e7-c0a3-447b-abe6-fa74c8869fb1,fc8d692a-8fd0-4d8e-8624-4d22b4584859,3d238144-44e6-450e-b523-3defbdaed9dc
+2742,idna,3.13,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a072b9e7-c0a3-447b-abe6-fa74c8869fb1,b3574165-c3e6-4440-bebc-629f892e39de,3d238144-44e6-450e-b523-3defbdaed9dc
 2743,imurmurhash,0.1.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,09279b44-9071-4bad-9976-78188ce16d2c,c4ff4116-2f7f-4dac-b4a0-37fe55009a6d,ad705c59-6893-4980-bdbf-0837f1823cc4
 2744,imurmurhash,0.1.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,09279b44-9071-4bad-9976-78188ce16d2c,c4ff4116-2f7f-4dac-b4a0-37fe55009a6d,ad705c59-6893-4980-bdbf-0837f1823cc4
 2745,inconshreveable/mousetrap,v1.1.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c2d6fca6-d137-4430-bbde-31603ee8db15,19e7f8ee-2593-464c-8a5f-c8e232921fec,7cae335f-1193-421e-92f1-8802b4243e93
@@ -3254,7 +3254,7 @@
 3252,pycryptodomex,3.23.0,Direct Dependency,"(BSD 3-clause ""New"" or ""Revised"" License AND Public Domain)",PERMISSIVE,NOT_REVIEWED,2dd1d027-d324-4b91-93f3-d42c9eca7f2b,c94cea88-a8b8-4a42-9a4e-677dc2b025db,"3d238144-44e6-450e-b523-3defbdaed9dc,d26bcb7d-5bc8-4f05-8942-a3a42728a2e4"
 3253,python-pem,23.1.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e116f5a5-2fda-4341-9ce9-88ae369d0620,bdbf78d9-7812-4fd9-826a-92f52d785844,ad705c59-6893-4980-bdbf-0837f1823cc4
 3254,python-snappy,0.7.2,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,47724afe-8603-46c1-9bb9-de8bbba8c11f,380a9edd-144a-4b4b-8646-11b530013c49,3d238144-44e6-450e-b523-3defbdaed9dc
-3255,python3-charset-normalizer,3.4.4,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,961db792-aeb0-450b-ba00-4f9b0afa6dda,ee9cf976-bc0d-429e-863f-4b196b51b5f9,ad705c59-6893-4980-bdbf-0837f1823cc4
+3255,python3-charset-normalizer,3.4.7,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,961db792-aeb0-450b-ba00-4f9b0afa6dda,32cd276e-d9a7-46f8-9dba-3960116598b3,ad705c59-6893-4980-bdbf-0837f1823cc4
 3256,queue-microtask,1.2.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,893986d1-c8f1-4e24-aeb2-e4a05a3c3f8b,67433d79-3f66-469c-87c4-614dca02bbb9,ad705c59-6893-4980-bdbf-0837f1823cc4
 3257,queue-microtask,1.2.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,893986d1-c8f1-4e24-aeb2-e4a05a3c3f8b,67433d79-3f66-469c-87c4-614dca02bbb9,ad705c59-6893-4980-bdbf-0837f1823cc4
 3258,quic-go/qpack,v0.5.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,71022550-58cc-41f2-a74b-095828ebac9b,42133c22-ddc3-4092-8a70-3cc7e3962873,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -4443,7 +4443,7 @@
 4441,promise-polyfill,8.3.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,04188c10-54f3-4339-94c7-3279c7caa401,990a36be-5ab1-4f4e-95a8-d3fba35bd4df,ad705c59-6893-4980-bdbf-0837f1823cc4
 4442,proto-google-cloud-storage-control-v2,2.39.0-beta,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2e2e7afa-5116-4f42-8aca-d68df44c4326,8d037223-c37d-4587-a674-003c078756a7,7cae335f-1193-421e-92f1-8802b4243e93
 4443,protobuf-javalite,3.25.8,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,1cdb1813-c46f-4a31-9bfa-a9cdbd10e496,65cb38c8-e425-4623-b1dc-2d1a6c6d3555,3d238144-44e6-450e-b523-3defbdaed9dc
-4444,pyca/cryptography,46.0.4,Direct Dependency,"(Apache License 2.0 OR BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,f09c05ab-0954-400d-94e9-4de512ed42fa,bae08631-8e84-438e-88b0-a062ee0502f0,"3d238144-44e6-450e-b523-3defbdaed9dc,7cae335f-1193-421e-92f1-8802b4243e93"
+4444,pyca/cryptography,48.0.0,Direct Dependency,"(Apache License 2.0 OR BSD 3-clause ""New"" or ""Revised"" License)",PERMISSIVE,NOT_REVIEWED,f09c05ab-0954-400d-94e9-4de512ed42fa,8dad68a0-1423-4105-b141-45b207905576,"3d238144-44e6-450e-b523-3defbdaed9dc,7cae335f-1193-421e-92f1-8802b4243e93"
 4445,qs -  QS Querystring,6.13.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,d7e6f01b-4967-48fc-8d07-c2fd547bc6c4,e7b98753-ef91-4914-865a-7ac2119be0ec,3d238144-44e6-450e-b523-3defbdaed9dc
 4446,querystringify,2.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f6543d9a-ca08-4872-92e4-a70122bed6ed,c6de591c-91fa-4813-95ee-a126460b48bc,ad705c59-6893-4980-bdbf-0837f1823cc4
 4447,randombytes,2.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,482e025c-bbc9-47fa-be09-42ab71f8b9dd,4579660f-84e9-42ef-bb7d-3193ba3af43e,ad705c59-6893-4980-bdbf-0837f1823cc4
