@@ -324,7 +324,7 @@
 322,Jest from Facebook,29.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ed0149fa-e6fd-4fc8-8b31-0ae442a7f63f,5739ded7-74b1-43d0-9fbb-d834bed40426,ad705c59-6893-4980-bdbf-0837f1823cc4
 323,Jest from Facebook,29.2.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ed0149fa-e6fd-4fc8-8b31-0ae442a7f63f,d746acd9-86db-4f92-8e53-125dd7f8449b,ad705c59-6893-4980-bdbf-0837f1823cc4
 324,Jettison - Json Stax implementation,1.5.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,6941b1eb-12eb-4ff5-a537-e24bb8dbb4e7,3f610f1a-11cb-4c19-bcf6-8a168464fe5b,7cae335f-1193-421e-92f1-8802b4243e93
-325,"Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server",12.0.36,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,d8221aaa-7d55-4b5a-b3e0-2b5cba26ce60,9a305373-b521-437d-86ff-63740504bcf7,00000000-0010-0000-0000-000000000000
+325,"Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server",12.0.36,Direct Dependency,(Apache License 2.0 OR Eclipse Public License 2.0),"PERMISSIVE,WEAK_RECIPROCAL",NOT_REVIEWED,d8221aaa-7d55-4b5a-b3e0-2b5cba26ce60,9a305373-b521-437d-86ff-63740504bcf7,"7cae335f-1193-421e-92f1-8802b4243e93,8f64c451-7777-4762-903b-605797caef38"
 326,Jimfs Parent,1.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f94df141-4153-4756-bc79-5611128076de,9309aad5-9fb5-44ee-8b69-d9eabfe01809,7cae335f-1193-421e-92f1-8802b4243e93
 327,Joda Time,2.12.7,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a67e87fa-f848-40b4-bcf5-2aedb5bc2b31,38b1a572-4e0a-437d-ae54-dee9063006cd,7cae335f-1193-421e-92f1-8802b4243e93
 328,Kerby Util,2.0.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,0fc213e1-2915-45cc-9e7c-8c450b64b8f7,0cb6372b-06df-4b71-9d4f-1ab6ab841497,7cae335f-1193-421e-92f1-8802b4243e93
@@ -2179,7 +2179,7 @@
 2177,dmitri.shuralyov.com/gpu/mtl,20190408-snapshot-666a9877,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,10357d07-4edf-4206-a532-036d10f00313,725b41d6-0c49-447a-8033-8bb038f5cf21,3d238144-44e6-450e-b523-3defbdaed9dc
 2178,dmitri.shuralyov.com/gpu/mtl,20190408-snapshot-666a9877,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,10357d07-4edf-4206-a532-036d10f00313,725b41d6-0c49-447a-8033-8bb038f5cf21,3d238144-44e6-450e-b523-3defbdaed9dc
 2179,dns-equal,1.0.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1bcc1073-4897-4fdf-aba8-cf6df1b8b4b1,664fb7fd-d82c-4356-ac22-bfc78f8b2ce2,ad705c59-6893-4980-bdbf-0837f1823cc4
-2180,dnsjava,3.6.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,8113f295-865c-433c-b675-e76ecb5137f1,786fa73d-c510-41f9-b02e-16a009c72508,00000000-0010-0000-0000-000000000000
+2180,dnsjava,3.6.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,8113f295-865c-433c-b675-e76ecb5137f1,786fa73d-c510-41f9-b02e-16a009c72508,3d238144-44e6-450e-b523-3defbdaed9dc
 2181,docker-go-units,v0.5.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,079533e5-31f5-4828-9abc-93182cde2f65,c3277492-357c-4047-bc5f-f9178f75a730,7cae335f-1193-421e-92f1-8802b4243e93
 2182,docker-go-units,v0.5.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,079533e5-31f5-4828-9abc-93182cde2f65,c3277492-357c-4047-bc5f-f9178f75a730,7cae335f-1193-421e-92f1-8802b4243e93
 2183,doctrine,v2.1.0,Transitive Dependency,"(BSD 2-clause ""Simplified"" License AND Apache License 2.0)",PERMISSIVE,NOT_REVIEWED,25573d53-4f14-4be5-8894-a4913001008f,bca26862-ee57-4bd9-b297-d50c9b2bbb09,"cc875133-df38-4806-9921-473e0ef01a87,7cae335f-1193-421e-92f1-8802b4243e93"
@@ -3872,7 +3872,7 @@
 3870,querystringify,2.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f6543d9a-ca08-4872-92e4-a70122bed6ed,c6de591c-91fa-4813-95ee-a126460b48bc,ad705c59-6893-4980-bdbf-0837f1823cc4
 3871,quick-lru,5.1.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,183a70f5-fbed-4177-8022-d345e6748c5c,5144120c-93f1-4919-a251-19772793475a,ad705c59-6893-4980-bdbf-0837f1823cc4
 3872,range-parser,v1.2.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,d8c54407-5aad-4f40-9ff0-f11062f8c81e,fdf7cda3-40fa-4807-8d91-57092bbf05bf,ad705c59-6893-4980-bdbf-0837f1823cc4
-3873,re2j,1.8,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,ddc5680f-6e5c-479a-9022-98086831c545,db92af7b-ba23-4dd8-a954-11e8eef4c2e1,00000000-0010-0000-0000-000000000000
+3873,re2j,1.8,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,ddc5680f-6e5c-479a-9022-98086831c545,db92af7b-ba23-4dd8-a954-11e8eef4c2e1,3d238144-44e6-450e-b523-3defbdaed9dc
 3874,regenerator-runtime,0.13.5,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1db42bdc-1012-44cb-b2b1-f1c4e664c9f1,23a8d2df-dbbf-4474-bc65-324f9e5cd202,ad705c59-6893-4980-bdbf-0837f1823cc4
 3875,regenerator-runtime,0.13.9,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,1db42bdc-1012-44cb-b2b1-f1c4e664c9f1,37c0fb0c-3769-47ca-a8f6-cc56b678018e,ad705c59-6893-4980-bdbf-0837f1823cc4
 3876,requests-toolbelt,1.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,06b17c61-ca1c-4b52-bc10-89abd65ad897,b50820d8-6a0a-4204-aea5-785c86595bd2,7cae335f-1193-421e-92f1-8802b4243e93
