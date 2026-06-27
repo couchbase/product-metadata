@@ -11,6 +11,7 @@ Components:
 
 Contrib.Grpc.Core.M1 2.46.7: https://github.com/einari/Grpc.Core.M1 : MIT License
 DnsClient 1.8.0 : Apache License 2.0
+GitHubActionsTestLogger 2.4.1: https://github.com/Tyrrrz/GitHubActionsTestLogger : MIT License
 Google.Protobuf/C# 3.33.1: https://github.com/protocolbuffers/protobuf : BSD 3-clause "New" or "Revised" License
 grpc 2.46.6: https://github.com/grpc/grpc : Apache License 2.0
 Grpc.AspNetCore 2.71.0: https://github.com/grpc/grpc-dotnet : Apache License 2.0
@@ -27,6 +28,7 @@ Serilog.Extensions.Logging 10.0.0: https://github.com/serilog/serilog-framework-
 Serilog.Sinks.Console 6.1.1 : Apache License 2.0
 Serilog.Sinks.File 7.0.0: https://www.nuget.org/packages/Serilog.Sinks.File : Apache License 2.0
 serilog/serilog 4.3.0: https://github.com/serilog/serilog : Apache License 2.0
+System.Linq.AsyncEnumerable 10.0.0: https://dot.net/ : MIT License
 xUnit.net 2.9.3: https://github.com/xunit/xunit : Apache License 2.0
 xUnit.net [Abstractions] 2.0.3: http://xunit.codeplex.com : Apache License 2.0
 xUnit.net [Visual Studio/TFS Build Runner] 3.1.5: http://www.nuget.org/packages/xunit.runner.visualstudio : Apache License 2.0
@@ -255,7 +257,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 MIT License
-(Contrib.Grpc.Core.M1 2.46.7, Microsoft.Extensions.Configuration 10.0.0, Microsoft.Extensions.Configuration.Binder 10.0.0, Microsoft.Extensions.Configuration.Json 10.0.0, Microsoft.Extensions.Logging 10.0.0, Microsoft.Extensions.Logging.Abstractions 10.0.0, Microsoft.NET.Test.Sdk 18.0.1)
+(Contrib.Grpc.Core.M1 2.46.7, GitHubActionsTestLogger 2.4.1, Microsoft.Extensions.Configuration 10.0.0, Microsoft.Extensions.Configuration.Binder 10.0.0, Microsoft.Extensions.Configuration.Json 10.0.0, Microsoft.Extensions.Logging 10.0.0, Microsoft.Extensions.Logging.Abstractions 10.0.0, Microsoft.NET.Test.Sdk 18.0.1, System.Linq.AsyncEnumerable 10.0.0)
 
 The MIT License
 ===============
