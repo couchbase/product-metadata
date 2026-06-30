@@ -261,7 +261,7 @@ golang.org/x/lint 20241105-snapshot-818c5a80: https://pkg.go.dev/golang.org/x/li
 golang.org/x/mod v0.30.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod v0.31.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
 golang.org/x/net v0.48.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.40.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.40.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
 golang.org/x/term v0.38.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.12.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.14.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
@@ -658,7 +658,7 @@ prometheus/prometheus v0.304.1: https://prometheus.io/ : Apache License 2.0
 psf-requests 2.34.2: http://docs.python-requests.org : Apache License 2.0
 pty v1.1.1: https://github.com/kr/pty : MIT License
 Python six 1.17.0: http://pypi.python.org/pypi/six : MIT License
-python-certifi 2026.5.20: https://certifiio.readthedocs.io/en/latest/ : Mozilla Public License 2.0
+python-certifi 2026.6.17: https://certifiio.readthedocs.io/en/latest/ : Mozilla Public License 2.0
 python-dateutil 2.9.0.post0: https://github.com/dateutil/dateutil : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
 python3-charset-normalizer 3.4.7: https://github.com/ousret/charset_normalizer : MIT License
 PyYAML 6.0.3: https://pyyaml.org/ : MIT License
@@ -684,7 +684,7 @@ tklauser/go-sysconf v0.3.15: https://github.com/tklauser/go-sysconf : BSD 3-clau
 tklauser/numcpus v0.10.0: https://github.com/tklauser/numcpus : Apache License 2.0
 uber-go/atomic v1.11.0: https://go.uber.org/atomic : MIT License
 urfave-cli v2.27.7: https://github.com/urfave/cli : MIT License
-urllib3 2.7.0: https://urllib3.readthedocs.io/en/stable : MIT License
+urllib3 2.7.0: http://code.google.com/p/urllib3 : MIT License
 Vault by HashiCorp api/v1.20.0: https://www.vaultproject.io/ : Mozilla Public License 2.0
 vultr/govultr v2.17.2: https://github.com/vultr/govultr/v2 : MIT License
 websocket-client 1.9.0: https://github.com/websocket-client/websocket-client : Apache License 2.0
@@ -2597,7 +2597,7 @@ SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib parseutil/v0.2.0, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, github.com/shoenig/go-m1cpu v0.1.6, github.com/shoenig/test v0.6.4, Go CLI v1.1.5, go-immutable-radix v1.3.1, go-sql-driver v1.9.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-retryablehttp 0.7.7, hashicorp-go-rootcerts v1.0.2, hashicorp-go-version v1.7.0, hashicorp-golang-lru v0.6.0, hashicorp/go-sockaddr v1.0.7, hashicorp/hcl v1.0.1-vault-7, python-certifi 2026.5.20, Vault by HashiCorp api/v1.20.0)
+(errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib parseutil/v0.2.0, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, github.com/shoenig/go-m1cpu v0.1.6, github.com/shoenig/test v0.6.4, Go CLI v1.1.5, go-immutable-radix v1.3.1, go-sql-driver v1.9.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-retryablehttp 0.7.7, hashicorp-go-rootcerts v1.0.2, hashicorp-go-version v1.7.0, hashicorp-golang-lru v0.6.0, hashicorp/go-sockaddr v1.0.7, hashicorp/hcl v1.0.1-vault-7, python-certifi 2026.6.17, Vault by HashiCorp api/v1.20.0)
 
 Mozilla Public License
 Version 2.0
