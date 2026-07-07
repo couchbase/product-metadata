@@ -437,6 +437,7 @@ consolidate 0.15.1: https://github.com/visionmedia/consolidate.js : MIT License
 constants-browserify 1.0.0: https://github.com/juliangruber/constants-browserify : MIT License
 content-disposition 0.5.3: https://github.com/jshttp/content-disposition : MIT License
 convert-source-map 1.8.0: https://github.com/thlorenz/convert-source-map : MIT License
+cookie 0.4.0: https://github.com/jshttp/cookie : MIT License
 copy-concurrently 1.0.5: https://www.npmjs.com/package/copy-concurrently : ISC License
 copy-descriptor 0.1.1: https://github.com/jonschlinkert/copy-descriptor : MIT License
 copy-webpack-plugin 5.1.2: https://github.com/kevlened/copy-webpack-plugin : MIT License
@@ -694,7 +695,7 @@ http-errors 1.6.3: https://github.com/jshttp/http-errors : MIT License
 http-errors 1.7.2: https://github.com/jshttp/http-errors : MIT License
 http-errors 1.7.3: https://github.com/jshttp/http-errors : MIT License
 http-parser-js 0.5.3: https://github.com/creationix/http-parser-js : MIT License
-http-proxy 1.18.1: http://github.com/nodejitsu/node-http-proxy : MIT License
+http-proxy 1.18.1: https://github.com/nodejitsu/node-http-proxy : MIT License
 http-proxy-middleware v0.19.1: https://github.com/chimurai/http-proxy-middleware : MIT License
 http-proxy-middleware v1.3.1: https://github.com/chimurai/http-proxy-middleware : MIT License
 https-browserify 1.0.0: https://github.com/substack/https-browserify : MIT License
@@ -967,7 +968,6 @@ neo-async 2.6.2: https://github.com/suguru03/Neo-Async : MIT License
 nexdrew/ansi-align 3.0.0: https://github.com/nexdrew/ansi-align#readme : ISC License
 nice-try 1.0.5: http://github.com/electerious/nice-try : MIT License
 no-case 2.3.2: https://github.com/blakeembrey/no-case : MIT License
-Node Cookie Parser 0.4.0: https://github.com/jshttp/cookie : MIT License
 node-abi 3.28.0: https://github.com/lgeiger/node-abi#readme : MIT License
 node-assert-plus 1.0.0: https://github.com/mcavage/node-assert-plus : MIT License
 node-bindings 1.5.0: https://github.com/TooTallNate/node-bindings : MIT License
@@ -16084,7 +16084,7 @@ IN THE SOFTWARE
 ---
 
 MIT License
-(Node Cookie Parser 0.4.0)
+(cookie 0.4.0)
 
 Files: *
 Copyright: 2012-2018 Roman Shtylman <shtylman@gmail.com>
