@@ -9,18 +9,27 @@ Notices Report Content
 
 Components: 
 
+Aspire.Hosting.AppHost 13.4.2: https://github.com/dotnet/aspire : MIT License
 couchbase-net-client 3.9.3: https://www.couchbase.com/community : Apache License 2.0
+Couchbase.Aspire.Hosting 1.0.0-beta.3: https://github.com/couchbaselabs/couchbase-aspire : Apache License 2.0
 Couchbase.Extensions.DependencyInjection 3.9.3 : Apache License 2.0
 EFCore.NamingConventions 10.0.1 : Apache License 2.0
 EntityFrameworkCore 10.0.8: https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore : MIT License
 Microsoft.EntityFrameworkCore.Relational 10.0.8 : MIT License
+Microsoft.Extensions.Http.Resilience 10.2.0: https://dot.net/ : MIT License
 Microsoft.Extensions.Logging.Console 10.0.8 : MIT License
+Microsoft.Extensions.ServiceDiscovery 10.2.0: https://github.com/dotnet/aspire : MIT License
+OpenTelemetry.Exporter.OpenTelemetryProtocol 1.15.0: https://opentelemetry.io/ : Apache License 2.0
+OpenTelemetry.Extensions.Hosting 1.15.0: https://opentelemetry.io/ : Apache License 2.0
+OpenTelemetry.Instrumentation.AspNetCore 1.15.0: https://opentelemetry.io/ : Apache License 2.0
+OpenTelemetry.Instrumentation.Http 1.15.0: https://github.com/open-telemetry/opentelemetry-dotnet-contrib : Apache License 2.0
+OpenTelemetry.Instrumentation.Runtime 1.15.0: https://opentelemetry.io/ : Apache License 2.0
 Serilog.Extensions.Logging.File 3.0.0: https://www.nuget.org/packages/Serilog.Extensions.Logging.File : Apache License 2.0
 
 Licenses: 
 
 Apache License 2.0
-(couchbase-net-client 3.9.3, Couchbase.Extensions.DependencyInjection 3.9.3, EFCore.NamingConventions 10.0.1, Serilog.Extensions.Logging.File 3.0.0)
+(couchbase-net-client 3.9.3, Couchbase.Aspire.Hosting 1.0.0-beta.3, Couchbase.Extensions.DependencyInjection 3.9.3, EFCore.NamingConventions 10.0.1, OpenTelemetry.Exporter.OpenTelemetryProtocol 1.15.0, OpenTelemetry.Extensions.Hosting 1.15.0, OpenTelemetry.Instrumentation.AspNetCore 1.15.0, OpenTelemetry.Instrumentation.Http 1.15.0, OpenTelemetry.Instrumentation.Runtime 1.15.0, Serilog.Extensions.Logging.File 3.0.0)
 
 Apache License
 Version 2.0, January 2004
@@ -207,7 +216,7 @@ third-party archives.
 ---
 
 MIT License
-(EntityFrameworkCore 10.0.8, Microsoft.EntityFrameworkCore.Relational 10.0.8, Microsoft.Extensions.Logging.Console 10.0.8)
+(Aspire.Hosting.AppHost 13.4.2, EntityFrameworkCore 10.0.8, Microsoft.EntityFrameworkCore.Relational 10.0.8, Microsoft.Extensions.Http.Resilience 10.2.0, Microsoft.Extensions.Logging.Console 10.0.8, Microsoft.Extensions.ServiceDiscovery 10.2.0)
 
 The MIT License
 ===============
