@@ -1,13 +1,12 @@
 ,Component name,Component version name,Match type,License names,License families,Review Status,Component id,Version id,License ids
 0,annotated-types,0.7.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8043d6f4-e2de-44f6-9bf3-4c0ee7de334f,97d68e0b-16cb-46a0-ac87-a4753f39809d,ad705c59-6893-4980-bdbf-0837f1823cc4
-1,anyio,4.14.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,38ea1732-3693-43c0-90ad-393a8c86f57b,8df164cf-64e1-4d4a-a84d-d85c4413a041,ad705c59-6893-4980-bdbf-0837f1823cc4
-2,h11,0.16.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,766677f1-994a-408d-9bcc-d38833e832ee,e066bd77-1404-4145-bbc2-209faac2daa6,ad705c59-6893-4980-bdbf-0837f1823cc4
-3,httpcore,1.0.9,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,c9abf028-6c50-4592-8161-ff34a2aa2968,35ac4e18-5486-4ef0-bcf8-ef34d9ca8700,3d238144-44e6-450e-b523-3defbdaed9dc
-4,httpx,0.28.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f3eb45a6-82ec-4dad-8c23-1910b4403aff,60cef313-5509-4b4a-801b-da681bbd737f,3d238144-44e6-450e-b523-3defbdaed9dc
-5,idna,3.18,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a072b9e7-c0a3-447b-abe6-fa74c8869fb1,b317e5a9-a77b-4b8a-bb32-224f23f7c935,3d238144-44e6-450e-b523-3defbdaed9dc
-6,pydantic,2.13.4,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f69cd983-6690-4bf7-8658-6abe66f162fc,92d3f9e5-ac84-47dd-907c-a3e047c377cd,ad705c59-6893-4980-bdbf-0837f1823cc4
-7,pydantic-core,2.46.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,85a80765-0235-49d3-b68e-ceeeb7950091,2ef34096-681c-4a79-b5f2-b4f5dcf48b07,ad705c59-6893-4980-bdbf-0837f1823cc4
-8,python-certifi,2026.6.17,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,0419710d-c5e1-4669-836d-076dcecf5d4b,ce3dd63e-c569-4cea-986a-46bc5efe9896
-9,python-dotenv,1.2.2,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,aabed163-717d-4fb4-ae8c-1d4a611e99f0,36d07447-8333-49f8-9011-d2ef852ac7b8,3d238144-44e6-450e-b523-3defbdaed9dc
-10,python-typing-extensions,4.16.0,Transitive Dependency,Python Software Foundation License 2.0,PERMISSIVE,NOT_REVIEWED,44bc70cc-eda9-475d-acf1-584efb2f7d3f,63e301b3-93f0-4951-a642-f337c7bf3196,ead40028-7962-4fc0-9be5-2b956cd4714a
-11,typing-inspection,0.4.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dacae299-9789-4999-a5ea-cfd0abd41324,8fa440a4-bb52-41f9-905d-52bff160e62d,ad705c59-6893-4980-bdbf-0837f1823cc4
+1,h11,0.16.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,766677f1-994a-408d-9bcc-d38833e832ee,e066bd77-1404-4145-bbc2-209faac2daa6,ad705c59-6893-4980-bdbf-0837f1823cc4
+2,httpcore,1.0.9,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,c9abf028-6c50-4592-8161-ff34a2aa2968,35ac4e18-5486-4ef0-bcf8-ef34d9ca8700,3d238144-44e6-450e-b523-3defbdaed9dc
+3,httpx,0.28.1,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f3eb45a6-82ec-4dad-8c23-1910b4403aff,60cef313-5509-4b4a-801b-da681bbd737f,3d238144-44e6-450e-b523-3defbdaed9dc
+4,idna,3.18,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a072b9e7-c0a3-447b-abe6-fa74c8869fb1,b317e5a9-a77b-4b8a-bb32-224f23f7c935,3d238144-44e6-450e-b523-3defbdaed9dc
+5,pydantic,2.13.4,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,f69cd983-6690-4bf7-8658-6abe66f162fc,92d3f9e5-ac84-47dd-907c-a3e047c377cd,ad705c59-6893-4980-bdbf-0837f1823cc4
+6,pydantic-core,2.46.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,85a80765-0235-49d3-b68e-ceeeb7950091,2ef34096-681c-4a79-b5f2-b4f5dcf48b07,ad705c59-6893-4980-bdbf-0837f1823cc4
+7,python-certifi,2026.6.17,Transitive Dependency,Mozilla Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,f1890115-04dd-4eaf-8ff0-5e2643582990,0419710d-c5e1-4669-836d-076dcecf5d4b,ce3dd63e-c569-4cea-986a-46bc5efe9896
+8,python-dotenv,1.2.2,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,aabed163-717d-4fb4-ae8c-1d4a611e99f0,36d07447-8333-49f8-9011-d2ef852ac7b8,3d238144-44e6-450e-b523-3defbdaed9dc
+9,python-typing-extensions,4.16.0,Transitive Dependency,Python Software Foundation License 2.0,PERMISSIVE,NOT_REVIEWED,44bc70cc-eda9-475d-acf1-584efb2f7d3f,63e301b3-93f0-4951-a642-f337c7bf3196,ead40028-7962-4fc0-9be5-2b956cd4714a
+10,typing-inspection,0.4.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,dacae299-9789-4999-a5ea-cfd0abd41324,8fa440a4-bb52-41f9-905d-52bff160e62d,ad705c59-6893-4980-bdbf-0837f1823cc4
