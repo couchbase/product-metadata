@@ -61,14 +61,14 @@ couchbase/tools-common couchbase/v3.9.0 :
 couchbase/tools-common environment/v1.1.3 : 
 couchbase/tools-common errors/v1.1.0 : 
 couchbase/tools-common fs/v1.0.3 : 
-couchbase/tools-common http/v1.0.12 : 
+couchbase/tools-common http/v1.1.0 : 
 couchbase/tools-common strings/v1.0.0 : 
 couchbase/tools-common testing/v1.0.3 : 
 couchbase/tools-common types/v2.2.2 : 
 couchbase/tools-common utils/v3.1.1 : 
 couchbaselabs/gocbconnstr v2.0.0 : Apache License 2.0
 cssesc 3.0.0: https://github.com/mathiasbynens/cssesc : MIT License
-danielgtaylor/huma v2.38.0 : MIT License
+danielgtaylor/huma v2.39.0 : MIT License
 date-fns/date-fns 4.4.0: https://github.com/date-fns/date-fns : MIT License
 dayjs 1.11.19: https://github.com/xx45/dayjs#readme : MIT License
 debug-js/debug 4.4.3: https://github.com/debug-js/debug : MIT License
@@ -81,7 +81,7 @@ es-define-property 1.0.1: https://github.com/ljharb/es-define-property#readme : 
 es-errors 1.3.0: https://github.com/ljharb/es-errors#readme : MIT License
 es-object-atoms 1.1.2: https://github.com/ljharb/es-object-atoms#readme : MIT License
 es-set-tostringtag 2.1.0: https://github.com/es-shims/es-set-tostringtag#readme : MIT License
-exp 20260611-snapshot-c48552f4: http://code.google.com/p/go.exp : BSD 3-clause "New" or "Revised" License
+exp 20260708-snapshot-764159d7: http://code.google.com/p/go.exp : BSD 3-clause "New" or "Revised" License
 fast-equals 6.0.2: https://github.com/planttheidea/fast-equals#readme : MIT License
 fast-glob 3.3.3: https://github.com/mrmlnc/fast-glob#readme : MIT License
 fastq 1.20.1: https://github.com/mcollina/fastqueue#readme : ISC License
@@ -97,8 +97,8 @@ github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8 : Apache License 2.0
 glob-parent 5.1.2: https://github.com/es128/glob-parent : ISC License
 glob-parent 6.0.2: https://github.com/es128/glob-parent : ISC License
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
-go-chi 5.3.0: https://github.com/go-chi/chi : Expat License
-go-logr/logr v1.4.3: https://github.com/go-logr/logr : Apache License 2.0
+go-chi v5.3.1: https://github.com/go-chi/chi : MIT License
+go-logr/logr v1.4.4: https://github.com/go-logr/logr : Apache License 2.0
 go-logr/stdr v1.2.2: https://github.com/go-logr/stdr : Apache License 2.0
 go-spew v1.1.1: https://github.com/davecgh/go-spew : ISC License
 go-zap exp/v0.3.0: https://godoc.org/go.uber.org/zap : MIT License
@@ -108,17 +108,17 @@ gocb v2.12.4: https://docs.couchbase.com/go-sdk/current/hello-world/start-using-
 Golang Protobuf 1.36.11: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev v1.0.10: https://github.com/spf13/pflag : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v1.0.0: https://github.com/golang/snappy : BSD 3-clause "New" or "Revised" License
-golang.org/x/mod v0.37.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
-golang.org/x/net v0.56.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.46.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.38.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
+golang.org/x/net v0.57.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.47.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.15.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
-golang/sync v0.21.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
-golang/text v0.38.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
-googleapis/go-genproto 20260622-snapshot-b703f567: https://godoc.org/google.golang.org/genproto : Apache License 2.0
+golang/sync v0.22.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang/text v0.40.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
+googleapis/go-genproto 20260720-snapshot-0afa2a65: https://godoc.org/google.golang.org/genproto : Apache License 2.0
 Googleuuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
 gopd 1.2.0: https://github.com/ljharb/gopd#readme : MIT License
 gorilla/websocket v1.5.3: https://github.com/gorilla/websocket : BSD 2-clause "Simplified" License
-grpc-go v1.81.1: https://github.com/grpc/grpc-go : Apache License 2.0
+grpc-go v1.82.1: https://github.com/grpc/grpc-go : Apache License 2.0
 has-symbols 1.1.0: https://github.com/ljharb/has-symbols#readme : MIT License
 has-tostringtag 1.0.2: https://github.com/inspect-js/has-tostringtag#readme : MIT License
 hasown 2.0.4: https://github.com/inspect-js/hasOwn#readme : MIT License
@@ -203,7 +203,7 @@ zod 4.3.6: https://github.com/vriad/zod#readme : MIT License
 Licenses: 
 
 Apache License 2.0
-(couchbase/goprotostellar 20260407-snapshot-d7af2515, couchbaselabs/gocbconnstr v2.0.0, didyoumean.js 1.2.2, DOMPurify 3.4.12, github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8, go-logr/logr v1.4.3, go-logr/stdr v1.2.2, gocb v2.12.4, googleapis/go-genproto 20260622-snapshot-b703f567, grpc-go v1.81.1, inconshreveable/mousetrap v1.1.0, open-telemetry/opentelemetry-go metric/v1.44.0, open-telemetry/opentelemetry-go trace/v1.44.0, open-telemetry/opentelemetry-go v1.44.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.69.0, open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1, spf13-cobra 1.10.2, ts-interface-checker 0.1.13, yaml for Go v3.0.1)
+(couchbase/goprotostellar 20260407-snapshot-d7af2515, couchbaselabs/gocbconnstr v2.0.0, didyoumean.js 1.2.2, DOMPurify 3.4.12, github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8, go-logr/logr v1.4.4, go-logr/stdr v1.2.2, gocb v2.12.4, googleapis/go-genproto 20260720-snapshot-0afa2a65, grpc-go v1.82.1, inconshreveable/mousetrap v1.1.0, open-telemetry/opentelemetry-go metric/v1.44.0, open-telemetry/opentelemetry-go trace/v1.44.0, open-telemetry/opentelemetry-go v1.44.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.69.0, open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1, spf13-cobra 1.10.2, ts-interface-checker 0.1.13, yaml for Go v3.0.1)
 
 Apache License
 Version 2.0, January 2004
@@ -463,7 +463,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20260611-snapshot-c48552f4, Golang Protobuf 1.36.11, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/mod v0.37.0, golang.org/x/net v0.56.0, golang.org/x/sys v0.46.0, golang.org/x/time v0.15.0, golang/sync v0.21.0, golang/text v0.38.0, Googleuuid v1.6.0, source-map-js 1.2.1)
+(exp 20260708-snapshot-764159d7, Golang Protobuf 1.36.11, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/mod v0.38.0, golang.org/x/net v0.57.0, golang.org/x/sys v0.47.0, golang.org/x/time v0.15.0, golang/sync v0.22.0, golang/text v0.40.0, Googleuuid v1.6.0, source-map-js 1.2.1)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -493,35 +493,6 @@ OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
----
-
-Expat License
-(go-chi 5.3.0)
-
-Expat License
-=============
-
-Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd
-                               and Clark Cooper
-Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in the
-Software without restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
-Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
-AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -1824,7 +1795,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@floating-ui/core 1.8.0, @floating-ui/dom 1.8.0, @floating-ui/react 0.27.20, @floating-ui/react-dom 2.1.9, @floating-ui/utils 0.2.12, @hookform/resolvers 5.4.0, @jridgewell/gen-mapping 0.3.13, @jridgewell/resolve-uri 3.1.2, @jridgewell/sourcemap-codec 1.5.5, @jridgewell/trace-mapping 0.3.31, @kurkle/color 0.3.4, @monaco-editor/loader 1.7.0, @monaco-editor/react 4.6.0, @remix-run/router 1.23.3, @standard-schema/utils 0.3.0, @tailwindcss/forms 0.5.11, @tanstack/query-core 4.36.1, @tanstack/react-query 4.36.1, @tanstack/react-virtual 3.10.9, @tanstack/svelte-table 8.21.3, @tanstack/table-core 8.21.3, @tanstack/virtual-core 3.10.9, ARG 5.0.2, axios 1.18.1, binary-extensions 2.3.0, browserify/resolve 1.22.12, call-bind-apply-helpers 1.0.2, cespare/xxhash v2.3.0, Chart.js 4.4.1, chokidar 3.6.0, clsx 2.1.1, codeberg.org/go-pdf/fpdf v0.12.0, cookie 1.1.1, danielgtaylor/huma v2.38.0, date-fns/date-fns 4.4.0, dayjs 1.11.19, debug-js/debug 4.4.3, dlv 1.1.3, dunder-proto 1.0.1, es-define-property 1.0.1, es-errors 1.3.0, es-object-atoms 1.1.2, es-set-tostringtag 2.1.0, fast-equals 6.0.2, fast-glob 3.3.3, fdir 6.5.0, fill-range 7.1.1, follow-redirects 1.16.0, form-data 4.0.6, fsevents 2.3.3, function-bind 1.1.2, get-intrinsic 1.3.0, get-proto 1.0.1, Go Testify v1.11.1, go-zap exp/v0.3.0, go-zap v1.28.0, go.uber.org/multierr v1.11.0, gopd 1.2.0, has-symbols 1.1.0, has-tostringtag 1.0.2, hasown 2.0.4, https-proxy-agent 5.0.1, is-core-module 2.16.2, jiti 1.21.7, lilconfig 2.1.0, lilconfig 3.1.3, local-storage-fallback 5.0.0, math-intrinsics 1.1.0, micromatch 4.0.8, micromatch/braces 3.0.3, mini-svg-data-uri 1.4.4, monaco-editor 0.43.0, nanoid 3.3.16, picomatch 2.3.2, picomatch 4.0.5, pirates 4.0.7, PostCSS 8.5.19, postcss-import 15.1.0, postcss-js 4.1.0, postcss-load-config 4.0.2, postcss-nested 6.2.0, postcss-selector-parser 6.1.4, proxy-from-env 2.1.0, React from Facebook 18.2.0, react-dom 18.2.0, react-hook-form 7.75.0, react-merge-refs 3.0.2, react-router-dom 6.30.3, reacttraining/react-router 6.30.4, reusify 1.1.0, scheduler 0.23.2, sucrase 3.35.1, tabbable 6.5.0, tailwindcss 3.4.0, tinyglobby 0.2.17, use-sync-external-store 1.6.0, yaml for Go v3.0.1, zod 4.3.6)
+(@floating-ui/core 1.8.0, @floating-ui/dom 1.8.0, @floating-ui/react 0.27.20, @floating-ui/react-dom 2.1.9, @floating-ui/utils 0.2.12, @hookform/resolvers 5.4.0, @jridgewell/gen-mapping 0.3.13, @jridgewell/resolve-uri 3.1.2, @jridgewell/sourcemap-codec 1.5.5, @jridgewell/trace-mapping 0.3.31, @kurkle/color 0.3.4, @monaco-editor/loader 1.7.0, @monaco-editor/react 4.6.0, @remix-run/router 1.23.3, @standard-schema/utils 0.3.0, @tailwindcss/forms 0.5.11, @tanstack/query-core 4.36.1, @tanstack/react-query 4.36.1, @tanstack/react-virtual 3.10.9, @tanstack/svelte-table 8.21.3, @tanstack/table-core 8.21.3, @tanstack/virtual-core 3.10.9, ARG 5.0.2, axios 1.18.1, binary-extensions 2.3.0, browserify/resolve 1.22.12, call-bind-apply-helpers 1.0.2, cespare/xxhash v2.3.0, Chart.js 4.4.1, chokidar 3.6.0, clsx 2.1.1, codeberg.org/go-pdf/fpdf v0.12.0, cookie 1.1.1, danielgtaylor/huma v2.39.0, date-fns/date-fns 4.4.0, dayjs 1.11.19, debug-js/debug 4.4.3, dlv 1.1.3, dunder-proto 1.0.1, es-define-property 1.0.1, es-errors 1.3.0, es-object-atoms 1.1.2, es-set-tostringtag 2.1.0, fast-equals 6.0.2, fast-glob 3.3.3, fdir 6.5.0, fill-range 7.1.1, follow-redirects 1.16.0, form-data 4.0.6, fsevents 2.3.3, function-bind 1.1.2, get-intrinsic 1.3.0, get-proto 1.0.1, Go Testify v1.11.1, go-chi v5.3.1, go-zap exp/v0.3.0, go-zap v1.28.0, go.uber.org/multierr v1.11.0, gopd 1.2.0, has-symbols 1.1.0, has-tostringtag 1.0.2, hasown 2.0.4, https-proxy-agent 5.0.1, is-core-module 2.16.2, jiti 1.21.7, lilconfig 2.1.0, lilconfig 3.1.3, local-storage-fallback 5.0.0, math-intrinsics 1.1.0, micromatch 4.0.8, micromatch/braces 3.0.3, mini-svg-data-uri 1.4.4, monaco-editor 0.43.0, nanoid 3.3.16, picomatch 2.3.2, picomatch 4.0.5, pirates 4.0.7, PostCSS 8.5.19, postcss-import 15.1.0, postcss-js 4.1.0, postcss-load-config 4.0.2, postcss-nested 6.2.0, postcss-selector-parser 6.1.4, proxy-from-env 2.1.0, React from Facebook 18.2.0, react-dom 18.2.0, react-hook-form 7.75.0, react-merge-refs 3.0.2, react-router-dom 6.30.3, reacttraining/react-router 6.30.4, reusify 1.1.0, scheduler 0.23.2, sucrase 3.35.1, tabbable 6.5.0, tailwindcss 3.4.0, tinyglobby 0.2.17, use-sync-external-store 1.6.0, yaml for Go v3.0.1, zod 4.3.6)
 
 The MIT License
 ===============
