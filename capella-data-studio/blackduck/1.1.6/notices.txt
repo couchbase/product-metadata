@@ -225,7 +225,6 @@ babel-traverse 7.25.6: https://babeljs.io/ : MIT License
 base64-js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
 big.js 5.2.2: https://github.com/MikeMcl/big.js : MIT License
 browserify/resolve 1.22.8: https://github.com/browserify/resolve : MIT License
-Buffer v5.6.0: https://github.com/feross/native-buffer-browserif : MIT License
 buffer-crc32 0.2.13: https://github.com/brianloveswords/buffer-crc32 : MIT License
 call-bind 1.0.7: https://github.com/ljharb/call-bind#readme : MIT License
 callsites 3.1.0: https://github.com/sindresorhus/callsites : MIT License
@@ -235,6 +234,7 @@ character-entities-legacy 1.1.4: https://github.com/wooorm/character-entities-le
 character-reference-invalid 1.1.4: https://github.com/wooorm/character-reference-invalid#readme : MIT License
 child_process 1.0.2: https://github.com/npm/security-holder#readme : ISC License
 clsx 2.1.1: https://github.com/lukeed/clsx#readme : MIT License
+color-convert 1.9.3: https://github.com/harthur/color-convert : MIT License
 color-name 1.1.3: https://github.com/colorjs/color-name : MIT License
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
 comma-separated-tokens 1.0.8: https://github.com/wooorm/comma-separated-tokens#readme : MIT License
@@ -303,6 +303,7 @@ fast-json-stable-stringify 2.1.0: https://github.com/epoberezkin/fast-json-stabl
 fast-xml-parser 4.4.1: https://github.com/NaturalIntelligence/fast-xml-parser#readme : MIT License
 fault 1.0.4: https://github.com/wooorm/fault : MIT License
 fd-slicer 1.1.0: https://github.com/andrewrk/node-fd-slicer#readme : MIT License
+feross/buffer v5.6.0: https://github.com/feross/native-buffer-browserif : MIT License
 file-loader v6.2.0: https://github.com/webpack/file-loader : MIT License
 find-root 1.1.0: https://github.com/agilemd/find-root#readme : MIT License
 follow-redirects 1.15.9: https://github.com/follow-redirects/follow-redirects : MIT License
@@ -383,7 +384,6 @@ property-information 5.6.0: https://github.com/wooorm/property-information#readm
 proxy-from-env 1.1.0: https://github.com/Rob--W/proxy-from-env#readme : MIT License
 Punycode.js 2.3.1: http://mths.be/punycode : MIT License
 pupa 2.1.1: https://github.com/sindresorhus/pupa#readme : MIT License
-Qix-/color-convert 1.9.3: https://github.com/Qix-/color-convert : MIT License
 qs -  QS Querystring 6.13.0: https://github.com/ljharb/qs : BSD 3-clause "New" or "Revised" License
 railroad-diagrams 1.0.0: https://github.com/tabatkins/railroad-diagrams : Creative Commons Zero v1.0 Universal
 randexp 0.4.6: http://fent.github.io/randexp.js/ : MIT License
@@ -1911,7 +1911,7 @@ SOFTWARE
 ---
 
 MIT License
-(Qix-/color-convert 1.9.3)
+(color-convert 1.9.3)
 
 Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
 
@@ -2442,7 +2442,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(Buffer v5.6.0)
+(feross/buffer v5.6.0)
 
 The MIT License (MIT)
 
