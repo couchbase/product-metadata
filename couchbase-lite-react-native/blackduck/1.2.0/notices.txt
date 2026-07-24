@@ -10,7 +10,7 @@ Notices Report Content
 Components: 
 
 aapt2-proto 8.0.0-9289358 : Apache License 2.0
-Android APK Zip Library 8.0.0 : Apache License 2.0
+Android APK Zip Library 8.0.0: http://tools.android.com : Apache License 2.0
 Android Builder library 8.0.0: http://tools.android.com : Apache License 2.0
 Android Builder Model library 8.0.0: http://tools.android.com : Apache License 2.0
 Android Builder Test API library 8.0.0: http://tools.android.com : Apache License 2.0
@@ -48,6 +48,8 @@ AutoValue Annotations 1.6.2 : Apache License 2.0
 Bouncy Castle 1.67: http://www.bouncycastle.org : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.67: http://www.bouncycastle.org/java.html : MIT License
 bundletool 1.13.2: https://maven.google.com/com/android/tools/build/bundletool/ : Apache License 2.0
+Byte Buddy 1.8.5: http://bytebuddy.net : Apache License 2.0
+byte-buddy-agent 1.8.5: https://github.com/raphw/byte-buddy : Apache License 2.0
 Checker Qual 2.5.8: https://checkerframework.org : MIT License
 com.android.databinding.baseLibrary 8.0.0 : Apache License 2.0
 com.android.tools.analytics-library.protos 31.0.0 : Apache License 2.0
@@ -72,6 +74,7 @@ CouchbaseLite-Swift-Enterprise 3.3.3: http://mobile.couchbase.com : Alternative 
 Dagger 2 dagger-2.28.3: http://google.github.io/dagger : Apache License 2.0
 Data Binding Base Library 8.0.0 : Apache License 2.0
 Data Binding Compiler Common 8.0.0 : Apache License 2.0
+easymockobjenesis 2.6: http://objenesis.org : Apache License 2.0
 error-prone annotations 2.3.1: https://github.com/google/error-prone/tree/master/annotations : Apache License 2.0
 Fast Infoset 1.2.16: https://fi.dev.java.net : (Eclipse Distribution License - v 1.0 AND Apache License 2.0)
 FindBugs jsr305 3.0.2: http://code.google.com/p/jsr-305 : Apache License 2.0
@@ -133,6 +136,7 @@ org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.9.10: https://kotlinlang.org/ : Apache
 perfmark:perfmark-api 0.23.0 : Apache License 2.0
 Proto Google Common Protos 2.0.1 : Apache License 2.0
 protobuf-java 3.19.3: http://code.google.com/p/protobuf : BSD 3-clause "New" or "Revised" License
+protobuf-javalite 3.19.2: https://github.com/protocolbuffers/protobuf : BSD 3-clause "New" or "Revised" License
 Protocol Buffer Java Util Package 3.19.3: https://developers.google.com/protocol-buffers/protobuf-java-util/ : BSD 3-clause "New" or "Revised" License
 react-native-uuid 2.0.2: https://github.com/eugenehp/react-native-uuid : MIT License
 SLF4J API Module 1.7.30: http://www.slf4j.org : MIT License
@@ -157,7 +161,7 @@ License must be obtained from [Company]
 ---
 
 Apache License 2.0
-(aapt2-proto 8.0.0-9289358, Android APK Zip Library 8.0.0, Android Builder library 8.0.0, Android Builder Model library 8.0.0, Android Builder Test API library 8.0.0, Android Jetifier Core 1.0.0-beta10, Android Jetifier Processor 1.0.0-beta10, Android Resource Packaging Compiler 8.0.0, Android Signflinger Library 8.0.0, Android Tools Analytics Crash Library 31.0.0, Android Tools common library 31.0.0, Android Tools ddmlib 31.0.0, Android Tools dvlib 31.0.0, Android Tools layoutlib-api 31.0.0, Android Tools Lint Build System Model 31.0.0, Android Tools Manifest Merger library 31.0.0, Android Tools sdk-common library 31.0.0, Android Tools sdklib 31.0.0, Android Zip Flinger Library 8.0.0, AndroidX Test Library - core-proto 0.0.8-alpha08, Apache Commons Codec 1.10, Apache Commons Compress 1.20, Apache Commons IO 2.4, Apache Commons Logging 1.2, Apache HttpClient 4.5.13, Apache HTTPComponents Core 4.4.15, Apache HttpMime 4.5.6, Apache Xerces2 J 2.12.0, Apache XML Commons 1.4.01, AutoValue Annotations 1.6.2, bundletool 1.13.2, com.android.databinding.baseLibrary 8.0.0, com.android.tools.analytics-library.protos 31.0.0, com.android.tools.analytics-library.shared 31.0.0, com.android.tools.analytics-library.tracker 31.0.0, com.android.tools.annotations 31.0.0, com.android.tools.build.apksig 8.0.0, com.android.tools.build.gradle-api 8.0.0, com.android.tools.build.gradle-settings-api 8.0.0, com.android.tools.build.transform-api 2.0.0-deprecated-use-gradle-api, com.android.tools.lint.lint-typedef-remover 31.0.0, com.android.tools.repository 31.0.0, com.android.tools.utp.android-device-provider-ddmlib-proto 31.0.0, com.android.tools.utp.android-device-provider-gradle-proto 31.0.0, com.android.tools.utp.android-test-plugin-host-additional-test-output-proto 31.0.0, com.android.tools.utp.android-test-plugin-host-coverage-proto 31.0.0, com.android.tools.utp.android-test-plugin-host-logcat-proto 31.0.0, com.android.tools.utp.android-test-plugin-host-retention-proto 31.0.0, com.android.tools.utp.android-test-plugin-result-listener-gradle-proto 31.0.0, couchbase-lite-ios 3.3.2, Dagger 2 dagger-2.28.3, Data Binding Base Library 8.0.0, Data Binding Compiler Common 8.0.0, error-prone annotations 2.3.1, Fast Infoset 1.2.16, FindBugs jsr305 3.0.2, FlatBuffers Java API 1.12.0, Google Android Annotations Library 4.1.1.4, google-truth 0.27, googlegson 2.8.6, googleguava 18.0, googleguava v31.0.1, Gradle Plug-in for Android 8.0.0, grpc-java 1.45.1, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, io.grpc:grpc-netty 1.45.1, io.grpc:grpc-protobuf-lite 1.45.1, io.grpc:grpc-stub 1.45.1, j2objc - Java to IOS 1.3, Java Native Access (JNA) 5.6.0, JavaPoet 1.10.0, JavaWriter 2.5.0, javax.inject:javax.inject 1, Jetbrains annotations 13.0, Jimfs Parent 1.1, jose4j jose4j-0.7.0, Kotlin 1.9.24, kotlin-reflect 1.7.10, kotlin-stdlib-common 1.9.24, kotlinx-coroutines-android 1.8.1, kotlinx-coroutines-core 1.8.1, mbed TLS 3.6.6, Netty Project 4.1.72, OkHttp 4.12.0, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.7.10, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.8.21, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.9.10, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.7.10, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.8.21, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.9.10, perfmark:perfmark-api 0.23.0, Proto Google Common Protos 2.0.1, squareokio 3.6.0, TensorFlow Lite Metadata 0.1.0-rc2, Tink Cryptography Library for Java 1.7.0)
+(aapt2-proto 8.0.0-9289358, Android APK Zip Library 8.0.0, Android Builder library 8.0.0, Android Builder Model library 8.0.0, Android Builder Test API library 8.0.0, Android Jetifier Core 1.0.0-beta10, Android Jetifier Processor 1.0.0-beta10, Android Resource Packaging Compiler 8.0.0, Android Signflinger Library 8.0.0, Android Tools Analytics Crash Library 31.0.0, Android Tools common library 31.0.0, Android Tools ddmlib 31.0.0, Android Tools dvlib 31.0.0, Android Tools layoutlib-api 31.0.0, Android Tools Lint Build System Model 31.0.0, Android Tools Manifest Merger library 31.0.0, Android Tools sdk-common library 31.0.0, Android Tools sdklib 31.0.0, Android Zip Flinger Library 8.0.0, AndroidX Test Library - core-proto 0.0.8-alpha08, Apache Commons Codec 1.10, Apache Commons Compress 1.20, Apache Commons IO 2.4, Apache Commons Logging 1.2, Apache HttpClient 4.5.13, Apache HTTPComponents Core 4.4.15, Apache HttpMime 4.5.6, Apache Xerces2 J 2.12.0, Apache XML Commons 1.4.01, AutoValue Annotations 1.6.2, bundletool 1.13.2, Byte Buddy 1.8.5, byte-buddy-agent 1.8.5, com.android.databinding.baseLibrary 8.0.0, com.android.tools.analytics-library.protos 31.0.0, com.android.tools.analytics-library.shared 31.0.0, com.android.tools.analytics-library.tracker 31.0.0, com.android.tools.annotations 31.0.0, com.android.tools.build.apksig 8.0.0, com.android.tools.build.gradle-api 8.0.0, com.android.tools.build.gradle-settings-api 8.0.0, com.android.tools.build.transform-api 2.0.0-deprecated-use-gradle-api, com.android.tools.lint.lint-typedef-remover 31.0.0, com.android.tools.repository 31.0.0, com.android.tools.utp.android-device-provider-ddmlib-proto 31.0.0, com.android.tools.utp.android-device-provider-gradle-proto 31.0.0, com.android.tools.utp.android-test-plugin-host-additional-test-output-proto 31.0.0, com.android.tools.utp.android-test-plugin-host-coverage-proto 31.0.0, com.android.tools.utp.android-test-plugin-host-logcat-proto 31.0.0, com.android.tools.utp.android-test-plugin-host-retention-proto 31.0.0, com.android.tools.utp.android-test-plugin-result-listener-gradle-proto 31.0.0, couchbase-lite-ios 3.3.2, Dagger 2 dagger-2.28.3, Data Binding Base Library 8.0.0, Data Binding Compiler Common 8.0.0, easymockobjenesis 2.6, error-prone annotations 2.3.1, Fast Infoset 1.2.16, FindBugs jsr305 3.0.2, FlatBuffers Java API 1.12.0, Google Android Annotations Library 4.1.1.4, google-truth 0.27, googlegson 2.8.6, googleguava 18.0, googleguava v31.0.1, Gradle Plug-in for Android 8.0.0, grpc-java 1.45.1, Guava InternalFutureFailureAccess and InternalFutures 1.0.1, Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava, io.grpc:grpc-netty 1.45.1, io.grpc:grpc-protobuf-lite 1.45.1, io.grpc:grpc-stub 1.45.1, j2objc - Java to IOS 1.3, Java Native Access (JNA) 5.6.0, JavaPoet 1.10.0, JavaWriter 2.5.0, javax.inject:javax.inject 1, Jetbrains annotations 13.0, Jimfs Parent 1.1, jose4j jose4j-0.7.0, Kotlin 1.9.24, kotlin-reflect 1.7.10, kotlin-stdlib-common 1.9.24, kotlinx-coroutines-android 1.8.1, kotlinx-coroutines-core 1.8.1, mbed TLS 3.6.6, Netty Project 4.1.72, OkHttp 4.12.0, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.7.10, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.8.21, org.jetbrains.kotlin:kotlin-stdlib-jdk7 1.9.10, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.7.10, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.8.21, org.jetbrains.kotlin:kotlin-stdlib-jdk8 1.9.10, perfmark:perfmark-api 0.23.0, Proto Google Common Protos 2.0.1, squareokio 3.6.0, TensorFlow Lite Metadata 0.1.0-rc2, Tink Cryptography Library for Java 1.7.0)
 
 Apache License
 Version 2.0, January 2004
@@ -441,7 +445,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 3-clause "New" or "Revised" License
-(ASM Commons 9.2, ASM Tree 9.2, ASM Util 9.2, asm-analysis 9.2, fpagliughi/sockpp v0.7, libicu 76.1, libstemmer 0, MYUtilities 0.0.1, Protocol Buffer Java Util Package 3.19.3)
+(ASM Commons 9.2, ASM Tree 9.2, ASM Util 9.2, asm-analysis 9.2, fpagliughi/sockpp v0.7, libicu 76.1, libstemmer 0, MYUtilities 0.0.1, protobuf-javalite 3.19.2, Protocol Buffer Java Util Package 3.19.3)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
