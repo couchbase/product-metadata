@@ -18,6 +18,7 @@ C++ Guideline Support Library 4.0.0: https://github.com/Microsoft/GSL : MIT Lice
 chownr 3.0.0: https://github.com/isaacs/chownr : ISC License
 cliui 8.0.1: https://github.com/yargs/cliui : ISC License
 cmake-js 8.0.0: https://github.com/unbornchikken/cmake-js : MIT License
+color-convert 2.0.1: https://github.com/harthur/color-convert : MIT License
 color-name 1.1.4: https://github.com/colorjs/color-name : MIT License
 debug-js/debug 4.4.3: https://github.com/debug-js/debug : MIT License
 deep-extend 0.6.0: https://github.com/unclechu/node-deep-extend : MIT License
@@ -36,20 +37,19 @@ minizlib 3.1.0: https://github.com/isaacs/minizlib : MIT License
 ms.js 2.1.3: https://github.com/guille/ms.js : MIT License
 node-addon-api 8.9.0: https://github.com/nodejs/node-addon-api : MIT License
 node-api-headers 1.9.0: https://github.com/nodejs/node-api-headers : MIT License
-node-fs-extra 11.3.6: https://github.com/jprichardson/node-fs-extra : MIT License
+node-fs-extra 11.4.0: https://github.com/jprichardson/node-fs-extra : MIT License
 node-graceful-fs 4.2.11: https://github.com/isaacs/node-graceful-fs : ISC License
 node-jsonfile 6.2.1: https://github.com/jprichardson/node-jsonfile : MIT License
 node-semver  7.8.5: https://github.com/npm/node-semver : ISC License
 nodejs/llhttp 9.3.0: https://github.com/nodejs/llhttp : MIT License
 npm ini 1.3.8: https://github.com/npm/ini : ISC License
-Qix-/color-convert 2.0.1: https://github.com/Qix-/color-convert : MIT License
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 spdlog 1.15.0: https://github.com/gabime/spdlog : MIT License
 string-width 4.2.3: https://github.com/sindresorhus/string-width : MIT License
 Strip ANSI 6.0.1: https://github.com/chalk/strip-ansi : MIT License
 strip-json-comments 2.0.1: https://github.com/sindresorhus/strip-json-comments : MIT License
 taocpp/json 1.0.0-beta.14: https://github.com/taocpp/json : MIT License
-tar 7.5.21: https://github.com/isaacs/node-tar : Blue Oak Model License 1.0.0
+tar 7.5.22: https://github.com/isaacs/node-tar : Blue Oak Model License 1.0.0
 universalify 2.0.1: https://github.com/RyanZim/universalify#readme : MIT License
 urljoin 4.0.1: https://github.com/jfromaniello/url-join#readme : MIT License
 which 6.0.1: https://github.com/isaacs/node-which : ISC License
@@ -339,7 +339,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 Blue Oak Model License 1.0.0
-(isexe 4.0.0, minipass 7.1.3, tar 7.5.21, yallist 5.0.0)
+(isexe 4.0.0, minipass 7.1.3, tar 7.5.22, yallist 5.0.0)
 
 Blue Oak Model License
 ======================
@@ -798,7 +798,7 @@ SOFTWARE
 ---
 
 MIT License
-(Qix-/color-convert 2.0.1)
+(color-convert 2.0.1)
 
 Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
 
@@ -973,7 +973,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(cmake-js 8.0.0, debug-js/debug 4.4.3, escalade 3.2.0, minimist 1.2.8, minizlib 3.1.0, node-addon-api 8.9.0, node-api-headers 1.9.0, node-fs-extra 11.3.6, node-jsonfile 6.2.1, nodejs/llhttp 9.3.0, spdlog 1.15.0, taocpp/json 1.0.0-beta.14, universalify 2.0.1, yargs 17.7.3)
+(cmake-js 8.0.0, debug-js/debug 4.4.3, escalade 3.2.0, minimist 1.2.8, minizlib 3.1.0, node-addon-api 8.9.0, node-api-headers 1.9.0, node-fs-extra 11.4.0, node-jsonfile 6.2.1, nodejs/llhttp 9.3.0, spdlog 1.15.0, taocpp/json 1.0.0-beta.14, universalify 2.0.1, yargs 17.7.3)
 
 The MIT License
 ===============
