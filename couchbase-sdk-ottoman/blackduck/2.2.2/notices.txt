@@ -413,9 +413,6 @@ co 4.6.0: https://github.com/visionmedia/co : MIT License
 coa 2.0.2: https://github.com/veged/coa : MIT License
 collect-v8-coverage 1.0.1: https://github.com/SimenB/collect-v8-coverage#readme : MIT License
 collection-visit 1.0.0: https://github.com/jonschlinkert/collection-visit : MIT License
-color 3.2.1: https://github.com/harthur/color : MIT License
-color-convert 1.9.3: https://github.com/harthur/color-convert : MIT License
-color-convert 2.0.1: https://github.com/harthur/color-convert : MIT License
 color-name 1.1.3: https://github.com/colorjs/color-name : MIT License
 color-name 1.1.4: https://github.com/colorjs/color-name : MIT License
 colorette 1.3.0: https://github.com/jorgebucaran/colorette : MIT License
@@ -665,6 +662,7 @@ handle-thing v2.0.1: https://github.com/indutny/handle-thing : MIT License
 Handlebars.js 4.7.7: http://handlebarsjs.com : MIT License
 har-schema 2.0.0: https://github.com/epoberezkin/har-schema#readme : ISC License
 har-validator 5.1.5: https://github.com/ahmadnassri/har-validator : MIT License
+harthur/color 3.2.1: https://github.com/harthur/color : MIT License
 harthur/color-string 1.6.0: https://github.com/harthur/color-string : MIT License
 has 1.0.3: https://github.com/tarruda/has : MIT License
 has-ansi 2.0.0: https://github.com/sindresorhus/has-ansi : MIT License
@@ -1167,6 +1165,8 @@ Punycode.js 1.3.2: http://mths.be/punycode : MIT License
 Punycode.js 1.4.1: http://mths.be/punycode : MIT License
 Punycode.js 2.1.1: http://mths.be/punycode : MIT License
 pupa 2.1.1: https://github.com/sindresorhus/pupa#readme : MIT License
+Qix-/color-convert 1.9.3: https://github.com/Qix-/color-convert : MIT License
+Qix-/color-convert 2.0.1: https://github.com/Qix-/color-convert : MIT License
 qs -  QS Querystring 6.5.2: https://github.com/ljharb/qs : BSD 3-clause "New" or "Revised" License
 qs -  QS Querystring v6.7.0: https://github.com/ljharb/qs : BSD 3-clause "New" or "Revised" License
 query-string 5.1.1: https://github.com/sindresorhus/query-string : MIT License
@@ -5549,32 +5549,6 @@ SOFTWARE
 ---
 
 MIT License
-(color-convert 1.9.3, color-convert 2.0.1)
-
-Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
----
-
-MIT License
 (hash.js 1.1.7)
 
 expat license.
@@ -5605,6 +5579,32 @@ Permission is hereby granted, free of charge, to any person
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE
+
+---
+
+MIT License
+(Qix-/color-convert 1.9.3, Qix-/color-convert 2.0.1)
+
+Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
@@ -19082,7 +19082,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(color 3.2.1)
+(harthur/color 3.2.1)
 
 Copyright (c) 2012 Heather Arthur
 
