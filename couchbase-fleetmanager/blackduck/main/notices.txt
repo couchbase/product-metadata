@@ -10,6 +10,7 @@ Notices Report Content
 Components: 
 
 @alloc/quick-lru 5.2.0: https://github.com/sindresorhus/quick-lru#readme : MIT License
+@babel/runtime 7.29.7: https://babeljs.io/docs/en/next/babel-runtime : MIT License
 @floating-ui/core 1.8.0: https://floating-ui.com : MIT License
 @floating-ui/dom 1.8.0: https://floating-ui.com : MIT License
 @floating-ui/react 0.27.20: https://floating-ui.com/docs/react : MIT License
@@ -27,7 +28,6 @@ Components:
 @nodelib/fs.scandir 2.1.5: https://github.com/nodelib/nodelib/tree/master#readme : MIT License
 @nodelib/fs.stat 2.0.5: https://github.com/nodelib/nodelib/tree/master#readme : MIT License
 @nodelib/fs.walk 1.2.8: https://github.com/nodelib/nodelib/tree/master#readme : MIT License
-@remix-run/router 1.23.3: https://github.com/remix-run/react-router#readme : MIT License
 @standard-schema/utils 0.3.0: https://github.com/standard-schema/standard-schema#readme : MIT License
 @tailwindcss/forms 0.5.11: https://github.com/tailwindlabs/tailwindcss-forms#readme : MIT License
 @tanstack/query-core 4.36.1: https://tanstack.com/query : MIT License
@@ -36,25 +36,38 @@ Components:
 @tanstack/svelte-table 8.21.3: https://github.com/tannerlinsley/react-table#readme : MIT License
 @tanstack/table-core 8.21.3: https://github.com/tanstack/react-table#readme : MIT License
 @tanstack/virtual-core 3.10.9: https://github.com/tanstack/virtual#readme : MIT License
+@types/debug 4.1.13: https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/debug : MIT License
+@types/hammerjs 2.0.46: https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/hammerjs : MIT License
+@types/hast 3.0.5: https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/hast : MIT License
+@types/mdast 4.0.4: https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/mdast : MIT License
+@types/ms 2.1.0: https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ms : MIT License
+@types/unist 3.0.3: https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/unist : MIT License
+@ungap/structured-clone 1.3.3: https://github.com/ungap/structured-clone#readme : ISC License
 agent-base 6.0.2: https://github.com/TooTallNate/node-agent-base#readme : MIT License
 any-promise 1.3.0: http://github.com/kevinbeaty/any-promise : MIT License
 anymatch 3.1.3: https://github.com/es128/anymatch : ISC License
 ARG 5.0.2: http://github.com/danielor/ARG : MIT License
 asynckit 0.4.0: https://github.com/alexindigo/asynckit : MIT License
 axios 1.18.1: https://github.com/mzabriskie/axios : MIT License
+bail 2.0.2: https://github.com/wooorm/bail#readme : MIT License
 beorn7-perks v1.0.1: https://github.com/beorn7/perks : MIT License
 binary-extensions 2.3.0: https://github.com/sindresorhus/binary-extensions : MIT License
 browserify/resolve 1.22.12: https://github.com/browserify/resolve : MIT License
 call-bind-apply-helpers 1.0.2: https://github.com/ljharb/call-bind-apply-helpers#readme : MIT License
 camelcase-css 2.0.1: https://github.com/stevenvachon/camelcase-css : MIT License
 cespare/xxhash v2.3.0: https://github.com/cespare/xxhash : MIT License
-Chart.js 4.4.1: http://code.google.com/p/chartjs/ : MIT License
+character-entities 2.0.2: https://github.com/wooorm/character-entities#readme : MIT License
+character-entities-html4 2.1.0: https://github.com/wooorm/character-entities-html4#readme : MIT License
+character-entities-legacy 3.0.0: https://github.com/wooorm/character-entities-legacy#readme : MIT License
+Chart.js 4.5.1: http://code.google.com/p/chartjs/ : MIT License
+chartjs-plugin-zoom 2.2.0: https://github.com/chartjs/chartjs-plugin-zoom#readme : MIT License
 chokidar 3.6.0: https://github.com/paulmillr/chokidar : MIT License
 client_golang v1.24.1: https://github.com/prometheus/client_golang : Apache License 2.0
 clsx 2.1.1: https://github.com/lukeed/clsx#readme : MIT License
 codeberg.org/go-pdf/fpdf v0.12.0: https://codeberg.org/go-pdf/fpdf.git : MIT License
 codespell 2.4.2: http://git.profusion.mobi/cgit.cgi/codespell.git/ : GNU General Public License v2.0 only
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
+comma-separated-tokens 2.0.3: https://github.com/wooorm/comma-separated-tokens#readme : MIT License
 Commander.js 4.1.1: https://github.com/tj/commander.js : MIT License
 cookie 1.1.1: https://github.com/jshttp/cookie : MIT License
 couchbase/goprotostellar 20260407-snapshot-d7af2515 : Apache License 2.0
@@ -71,10 +84,14 @@ couchbase/tools-common utils/v3.1.1 :
 couchbaselabs/gocbconnstr v2.0.0 : Apache License 2.0
 cssesc 3.0.0: https://github.com/mathiasbynens/cssesc : MIT License
 danielgtaylor/huma v2.39.0 : MIT License
+date-fns/date-fns 2.30.0: https://github.com/date-fns/date-fns : MIT License
 date-fns/date-fns 4.4.0: https://github.com/date-fns/date-fns : MIT License
 dayjs 1.11.19: https://github.com/xx45/dayjs#readme : MIT License
 debug-js/debug 4.4.3: https://github.com/debug-js/debug : MIT License
+decode-named-character-reference 1.3.0: https://github.com/wooorm/decode-named-character-reference#readme : MIT License
 delayed-stream 1.0.0: https://github.com/felixge/node-delayed-stream : MIT License
+dequal 2.0.3: https://github.com/lukeed/dequal#readme : MIT License
+devlop 1.1.0: https://github.com/wooorm/devlop#readme : MIT License
 didyoumean.js 1.2.2: https://github.com/dcporter/didyoumean.js : Apache License 2.0
 dlv 1.1.3: https://github.com/developit/dlv#readme : MIT License
 DOMPurify 3.4.12: https://cure53.de/purify : (Apache License 2.0 OR Mozilla Public License 2.0)
@@ -83,7 +100,9 @@ es-define-property 1.0.1: https://github.com/ljharb/es-define-property#readme : 
 es-errors 1.3.0: https://github.com/ljharb/es-errors#readme : MIT License
 es-object-atoms 1.1.2: https://github.com/ljharb/es-object-atoms#readme : MIT License
 es-set-tostringtag 2.1.0: https://github.com/es-shims/es-set-tostringtag#readme : MIT License
+escape-string-regexp 5.0.0: https://github.com/sindresorhus/escape-string-regexp : MIT License
 exp 20260708-snapshot-764159d7: http://code.google.com/p/go.exp : BSD 3-clause "New" or "Revised" License
+extend 3.0.2: https://github.com/justmoon/node-extend : MIT License
 fast-equals 6.0.2: https://github.com/planttheidea/fast-equals#readme : MIT License
 fast-glob 3.3.3: https://github.com/mrmlnc/fast-glob#readme : MIT License
 fastq 1.20.1: https://github.com/mcollina/fastqueue#readme : ISC License
@@ -123,9 +142,13 @@ Googleuuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revis
 gopd 1.2.0: https://github.com/ljharb/gopd#readme : MIT License
 gorilla/websocket v1.5.3: https://github.com/gorilla/websocket : BSD 2-clause "Simplified" License
 grpc-go v1.82.1: https://github.com/grpc/grpc-go : Apache License 2.0
+hammer.js 2.0.8: http://eightmedia.github.io/hammer.js/ : MIT License
 has-symbols 1.1.0: https://github.com/ljharb/has-symbols#readme : MIT License
 has-tostringtag 1.0.2: https://github.com/inspect-js/has-tostringtag#readme : MIT License
 hasown 2.0.4: https://github.com/inspect-js/hasOwn#readme : MIT License
+hast-util-to-html 9.0.5: https://github.com/wooorm/hast-util-to-html#readme : MIT License
+hast-util-whitespace 3.0.0: https://github.com/wooorm/hast-util-whitespace#readme : MIT License
+html-void-elements 3.0.0: https://github.com/wooorm/html-void-elements#readme : MIT License
 https-proxy-agent 5.0.1: https://github.com/TooTallNate/node-https-proxy-agent : MIT License
 inconshreveable/mousetrap v1.1.0: https://github.com/inconshreveable/mousetrap : Apache License 2.0
 is-binary-path v2.1.0: https://github.com/sindresorhus/is-binary-path : MIT License
@@ -133,16 +156,58 @@ is-core-module 2.16.2: https://github.com/meandavejustice/is-core-module : MIT L
 is-extglob 2.1.1: https://github.com/jonschlinkert/is-extglob : MIT License
 is-glob 4.0.3: https://www.npmjs.com/package/is-glob : MIT License
 is-number 7.0.0: https://github.com/jonschlinkert/is-number : MIT License
+is-plain-obj 4.1.0: https://github.com/sindresorhus/is-plain-obj#readme : MIT License
 jiti 1.21.7: https://github.com/nuxt-contrib/jiti#readme : MIT License
 js-tokens 4.0.0: https://github.com/lydell/js-tokens : MIT License
 jshttp/mime-types 2.1.35: https://github.com/jshttp/mime-types : MIT License
 lilconfig 2.1.0: https://github.com/antonk52/lilconfig#readme : MIT License
 lilconfig 3.1.3: https://github.com/antonk52/lilconfig#readme : MIT License
 lines-and-columns 1.2.4: https://github.com/eventualbuddha/lines-and-columns#readme : MIT License
-local-storage-fallback 5.0.0: https://github.com/ripeworks/local-storage-fallback#readme : MIT License
+longest-streak 3.1.0: https://github.com/wooorm/longest-streak#readme : MIT License
 loose-envify 1.4.0: https://github.com/zertosh/loose-envify : MIT License
+markdown-table 3.0.4: https://github.com/wooorm/markdown-table : MIT License
 math-intrinsics 1.1.0: https://github.com/es-shims/math-intrinsics#readme : MIT License
+mdast-util-find-and-replace 3.0.2: https://github.com/syntax-tree/mdast-util-find-and-replace#readme : MIT License
+mdast-util-from-markdown 2.0.3: https://github.com/syntax-tree/mdast-util-from-markdown#readme : MIT License
+mdast-util-gfm 3.1.0: https://github.com/syntax-tree/mdast-util-gfm#readme : MIT License
+mdast-util-gfm-autolink-literal 2.0.1: https://github.com/syntax-tree/mdast-util-gfm-autolink-literal#readme : MIT License
+mdast-util-gfm-footnote 2.1.0: https://github.com/syntax-tree/mdast-util-gfm-footnote#readme : MIT License
+mdast-util-gfm-strikethrough 2.0.0: https://github.com/syntax-tree/mdast-util-gfm-strikethrough#readme : MIT License
+mdast-util-gfm-table 2.0.0: https://github.com/syntax-tree/mdast-util-gfm-table#readme : MIT License
+mdast-util-gfm-task-list-item 2.0.0: https://github.com/syntax-tree/mdast-util-gfm-task-list-item#readme : MIT License
+mdast-util-phrasing 4.1.0: https://github.com/syntax-tree/mdast-util-phrasing#readme : MIT License
+mdast-util-to-hast 13.2.1: https://github.com/wooorm/mdast-util-to-hast#readme : MIT License
+mdast-util-to-markdown 2.1.2: https://github.com/syntax-tree/mdast-util-to-markdown#readme : MIT License
+mdast-util-to-string 4.0.0: https://github.com/wooorm/mdast-util-to-string#readme : MIT License
 merge2 1.4.1: https://github.com/teambition/merge2 : MIT License
+micromark 4.0.2: https://github.com/micromark/micromark#readme : MIT License
+micromark-core-commonmark 2.0.3: https://github.com/micromark/micromark : MIT License
+micromark-extension-gfm 3.0.0: https://github.com/micromark/micromark-extension-gfm#readme : MIT License
+micromark-extension-gfm-autolink-literal 2.1.0: https://github.com/micromark/micromark-extension-gfm-autolink-literal#readme : MIT License
+micromark-extension-gfm-footnote 2.1.0: https://github.com/micromark/micromark-extension-gfm-footnote#readme : MIT License
+micromark-extension-gfm-strikethrough 2.1.0: https://github.com/micromark/micromark-extension-gfm-strikethrough#readme : MIT License
+micromark-extension-gfm-table 2.1.1: https://github.com/micromark/micromark-extension-gfm-table#readme : MIT License
+micromark-extension-gfm-tagfilter 2.0.0: https://github.com/micromark/micromark-extension-gfm-tagfilter#readme : MIT License
+micromark-extension-gfm-task-list-item 2.1.0: https://github.com/micromark/micromark-extension-gfm-task-list-item#readme : MIT License
+micromark-factory-destination 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-factory-label 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-factory-space 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-factory-title 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-factory-whitespace 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-character 2.1.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-chunked 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-classify-character 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-combine-extensions 2.0.1: https://github.com/micromark/micromark : MIT License
+micromark-util-decode-numeric-character-reference 2.0.2: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-decode-string 2.0.1: https://github.com/micromark/micromark : MIT License
+micromark-util-encode 2.0.1: https://github.com/micromark/micromark : MIT License
+micromark-util-html-tag-name 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-normalize-identifier 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-resolve-all 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-sanitize-uri 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-subtokenize 2.1.0: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-symbol 2.0.1: https://github.com/micromark/micromark/tree/main#readme : MIT License
+micromark-util-types 2.0.2: https://github.com/micromark/micromark/tree/main#readme : MIT License
 micromatch 4.0.8: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch/braces 3.0.3: https://github.com/micromatch/braces : MIT License
 mime-db 1.52.0: https://github.com/jshttp/mime-db : MIT License
@@ -150,7 +215,8 @@ mini-svg-data-uri 1.4.4: https://github.com/tigt/mini-svg-data-uri#readme : MIT 
 monaco-editor 0.43.0: https://microsoft.github.io/monaco-editor/ : MIT License
 ms.js 2.1.3: https://github.com/guille/ms.js : MIT License
 mz 2.7.0: https://github.com/normalize/mz : MIT License
-nanoid 3.3.16: https://github.com/ai/nanoid#readme : MIT License
+nanoid 3.3.17: https://github.com/ai/nanoid#readme : MIT License
+natefinch/lumberjack v2.2.1: https://github.com/natefinch/lumberjack : MIT License
 normalize-path 3.0.0: https://github.com/jonschlinkert/normalize-path : MIT License
 object-assign 4.1.1: https://github.com/sindresorhus/object-assign : MIT License
 object-hash 3.0.0: https://github.com/puleos/object-hash : MIT License
@@ -166,7 +232,7 @@ picomatch 4.0.5: https://github.com/micromatch/picomatch : MIT License
 pify 2.3.0: https://github.com/sindresorhus/pify : MIT License
 pirates 4.0.7: https://github.com/ariporad/pirates#readme : MIT License
 pmezard-go-difflib 1.0.0: https://github.com/pmezard/go-difflib : BSD 3-clause "New" or "Revised" License
-PostCSS 8.5.19: http://postcss.org/ : MIT License
+PostCSS 8.5.23: http://postcss.org/ : MIT License
 postcss-import 15.1.0: https://github.com/postcss/postcss-import : MIT License
 postcss-js 4.1.0: https://github.com/postcss/postcss-js#readme : MIT License
 postcss-load-config 4.0.2: https://github.com/michael-ciniawsky/postcss-load-config#readme : MIT License
@@ -176,22 +242,34 @@ postcss-value-parser 4.2.0: https://github.com/TrySound/postcss-value-parser : M
 prometheus-client_model v0.6.2: https://github.com/prometheus/client_model : Apache License 2.0
 prometheus-common v0.70.1: https://github.com/prometheus/common : Apache License 2.0
 prometheus-procfs v0.21.1: https://github.com/prometheus/procfs.git : Apache License 2.0
+property-information 7.2.0: https://github.com/wooorm/property-information#readme : MIT License
 proxy-from-env 2.1.0: https://github.com/Rob--W/proxy-from-env#readme : MIT License
 queue-microtask 1.2.3: https://github.com/feross/queue-microtask : MIT License
 React from Facebook 18.2.0: https://react.dev : MIT License
+react-accessible-treeview 2.11.2: https://github.com/lissitz/react-accessible-treeview : MIT License
+react-chartjs-2 5.3.1: https://github.com/gor181/react-chartjs-2 : MIT License
 react-dom 18.2.0: https://www.npmjs.com/package/react-dom : MIT License
 react-hook-form 7.75.0: https://github.com/bluebill1049/react-forme#readme : MIT License
 react-merge-refs 3.0.2: https://github.com/gregberge/react-merge-refs#readme : MIT License
-react-router-dom 6.30.3: https://github.com/reacttraining/react-router#readme : MIT License
-reacttraining/react-router 6.30.4: https://github.com/reacttraining/react-router : MIT License
+react-pin-field 4.0.2: https://github.com/soywod/react-pin-field : MIT License
+react-router-dom 7.18.2: https://github.com/reacttraining/react-router#readme : MIT License
+reacttraining/react-router 7.18.2: https://github.com/reacttraining/react-router : MIT License
 read-cache 1.0.0: https://github.com/TrySound/read-cache#readme : MIT License
 readdirp 3.6.0: https://github.com/thlorenz/readdirp : MIT License
+rehype-parse 10.0.1: https://github.com/wooorm/rehype : MIT License
+remark-gfm 4.0.1: https://github.com/remarkjs/remark-gfm#readme : MIT License
+remark-js 11.0.0: http://remark.js.org : MIT License
+remark-rehype 11.1.2: https://github.com/wooorm/remark-rehype#readme : MIT License
 reusify 1.1.0: https://github.com/mcollina/reusify#readme : MIT License
 run-parallel 1.2.0: https://github.com/feross/run-parallel : MIT License
 scheduler 0.23.2: https://reactjs.org/ : MIT License
+set-cookie-parser 2.7.2: https://github.com/nfriedly/set-cookie-parser : MIT License
 source-map-js 1.2.1: https://github.com/7rulnik/source-map : BSD 3-clause "New" or "Revised" License
+space-separated-tokens 2.0.2: https://github.com/wooorm/space-separated-tokens#readme : MIT License
 spf13-cobra 1.10.2: https://github.com/spf13/cobra : Apache License 2.0
+split.js 1.6.5: https://github.com/nathancahill/Split.js#readme : MIT License
 state-local 1.0.7: https://github.com/suren-atoyan/state-local#readme : MIT License
+stringify-entities 4.0.4: https://github.com/wooorm/stringify-entities#readme : MIT License
 sucrase 3.35.1: https://github.com/decaffeinate/bulk-decaffeinate#readme : MIT License
 supports-preserve-symlinks-flag 1.0.0: https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme : MIT License
 tabbable 6.5.0: https://github.com/davidtheclark/tabbable#readme : MIT License
@@ -200,12 +278,24 @@ thenify 3.3.1: https://github.com/thenables/thenify : MIT License
 thenify-all 1.6.0: https://github.com/thenables/thenify-all : MIT License
 tinyglobby 0.2.17: https://github.com/SuperchupuDev/tinyglobby : MIT License
 to-regex-range 5.0.1: https://github.com/jonschlinkert/to-regex-range : MIT License
+trim-lines 3.0.1: https://github.com/wooorm/trim-lines#readme : MIT License
+trough 2.2.0: https://github.com/wooorm/trough : MIT License
 ts-interface-checker 0.1.13: https://github.com/gristlabs/ts-interface-checker#readme : Apache License 2.0
+unified 11.0.5: https://github.com/wooorm/unified#readme : MIT License
+unist-util-is 6.0.1: https://github.com/wooorm/unist-util-is#readme : MIT License
+unist-util-position 5.0.0: https://github.com/wooorm/unist-util-position#readme : MIT License
+unist-util-stringify-position 4.0.0: https://github.com/wooorm/unist-util-stringify-position#readme : MIT License
+unist-util-visit 5.1.0: https://github.com/wooorm/unist-util-visit : MIT License
+unist-util-visit-parents 6.0.2: https://github.com/wooorm/unist-util-visit-parents#readme : MIT License
 use-sync-external-store 1.6.0: https://github.com/facebook/react#readme : MIT License
 util-deprecate 1.0.2: https://github.com/TooTallNate/util-deprecate : MIT License
+vfile 6.0.3: https://github.com/wooorm/vfile : MIT License
+vfile-message 4.0.3: https://github.com/vfile/vfile-message : MIT License
+wooorm/ccount 2.0.1: https://github.com/wooorm/ccount : MIT License
 yaml 2.9.0: https://github.com/tj/js-yaml : ISC License
 yaml for Go v3.0.1: https://github.com/go-yaml/yaml/tree/v2 : (MIT License AND Apache License 2.0)
 zod 4.3.6: https://github.com/vriad/zod#readme : MIT License
+zwitch 2.0.4: https://github.com/wooorm/zwitch#readme : MIT License
 
 Licenses: 
 
@@ -772,7 +862,7 @@ END OF TERMS AND CONDITIONS
 ---
 
 ISC License
-(anymatch 3.1.3, fastq 1.20.1, picocolors 1.1.1, yaml 2.9.0)
+(@ungap/structured-clone 1.3.3, anymatch 3.1.3, fastq 1.20.1, picocolors 1.1.1, yaml 2.9.0)
 
 ISC License (ISCL)
 ==================
@@ -862,6 +952,31 @@ MIT License
 The MIT License (MIT)
 
 Copyright (c) Steven Vachon <contact@svachon.com> (svachon.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(split.js 1.6.5)
+
+Copyright (c) 2020 Nathan Cahill
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1116,6 +1231,33 @@ MIT License
 (combined-stream 1.0.8, delayed-stream 1.0.0)
 
 Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+
+---
+
+MIT License
+(hammer.js 2.0.8)
+
+The MIT License (MIT)
+
+Copyright (C) 2011-2014 by Jorik Tangelder (Eight Media)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1445,6 +1587,21 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
+(escape-string-regexp 5.0.0)
+
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (readdirp 3.6.0)
 
 MIT License
@@ -1581,6 +1738,34 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+---
+
+MIT License
+(remark-js 11.0.0)
+
+(The MIT License)
+
+Copyright (c) 2014-2016 Titus Wormer <tituswormer@gmail.com>
+Copyright (c) 2011-2014, Christopher Jeffrey (https://github.com/chjj/)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
 
 ---
 
@@ -1801,6 +1986,34 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
+(extend 3.0.2)
+
+The MIT License (MIT)
+
+Copyright (c) 2014 Stefan Thomas
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+---
+
+MIT License
 (object-assign 4.1.1, pify 2.3.0)
 
 The MIT License (MIT)
@@ -1828,7 +2041,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@floating-ui/core 1.8.0, @floating-ui/dom 1.8.0, @floating-ui/react 0.27.20, @floating-ui/react-dom 2.1.9, @floating-ui/utils 0.2.12, @hookform/resolvers 5.4.0, @jridgewell/gen-mapping 0.3.13, @jridgewell/resolve-uri 3.1.2, @jridgewell/sourcemap-codec 1.5.5, @jridgewell/trace-mapping 0.3.31, @kurkle/color 0.3.4, @monaco-editor/loader 1.7.0, @monaco-editor/react 4.6.0, @remix-run/router 1.23.3, @standard-schema/utils 0.3.0, @tailwindcss/forms 0.5.11, @tanstack/query-core 4.36.1, @tanstack/react-query 4.36.1, @tanstack/react-virtual 3.10.9, @tanstack/svelte-table 8.21.3, @tanstack/table-core 8.21.3, @tanstack/virtual-core 3.10.9, ARG 5.0.2, axios 1.18.1, binary-extensions 2.3.0, browserify/resolve 1.22.12, call-bind-apply-helpers 1.0.2, cespare/xxhash v2.3.0, Chart.js 4.4.1, chokidar 3.6.0, clsx 2.1.1, codeberg.org/go-pdf/fpdf v0.12.0, cookie 1.1.1, danielgtaylor/huma v2.39.0, date-fns/date-fns 4.4.0, dayjs 1.11.19, debug-js/debug 4.4.3, dlv 1.1.3, dunder-proto 1.0.1, es-define-property 1.0.1, es-errors 1.3.0, es-object-atoms 1.1.2, es-set-tostringtag 2.1.0, fast-equals 6.0.2, fast-glob 3.3.3, fdir 6.5.0, fill-range 7.1.1, follow-redirects 1.16.0, form-data 4.0.6, fsevents 2.3.3, function-bind 1.1.2, get-intrinsic 1.3.0, get-proto 1.0.1, Go Testify v1.11.1, go-chi v5.3.1, go-zap exp/v0.3.0, go-zap v1.28.0, go.uber.org/multierr v1.11.0, gopd 1.2.0, has-symbols 1.1.0, has-tostringtag 1.0.2, hasown 2.0.4, https-proxy-agent 5.0.1, is-core-module 2.16.2, jiti 1.21.7, lilconfig 2.1.0, lilconfig 3.1.3, local-storage-fallback 5.0.0, math-intrinsics 1.1.0, micromatch 4.0.8, micromatch/braces 3.0.3, mini-svg-data-uri 1.4.4, monaco-editor 0.43.0, nanoid 3.3.16, picomatch 2.3.2, picomatch 4.0.5, pirates 4.0.7, PostCSS 8.5.19, postcss-import 15.1.0, postcss-js 4.1.0, postcss-load-config 4.0.2, postcss-nested 6.2.0, postcss-selector-parser 6.1.4, proxy-from-env 2.1.0, React from Facebook 18.2.0, react-dom 18.2.0, react-hook-form 7.75.0, react-merge-refs 3.0.2, react-router-dom 6.30.3, reacttraining/react-router 6.30.4, reusify 1.1.0, scheduler 0.23.2, sucrase 3.35.1, tabbable 6.5.0, tailwindcss 3.4.0, tinyglobby 0.2.17, use-sync-external-store 1.6.0, yaml for Go v3.0.1, zod 4.3.6)
+(@babel/runtime 7.29.7, @floating-ui/core 1.8.0, @floating-ui/dom 1.8.0, @floating-ui/react 0.27.20, @floating-ui/react-dom 2.1.9, @floating-ui/utils 0.2.12, @hookform/resolvers 5.4.0, @jridgewell/gen-mapping 0.3.13, @jridgewell/resolve-uri 3.1.2, @jridgewell/sourcemap-codec 1.5.5, @jridgewell/trace-mapping 0.3.31, @kurkle/color 0.3.4, @monaco-editor/loader 1.7.0, @monaco-editor/react 4.6.0, @standard-schema/utils 0.3.0, @tailwindcss/forms 0.5.11, @tanstack/query-core 4.36.1, @tanstack/react-query 4.36.1, @tanstack/react-virtual 3.10.9, @tanstack/svelte-table 8.21.3, @tanstack/table-core 8.21.3, @tanstack/virtual-core 3.10.9, @types/debug 4.1.13, @types/hammerjs 2.0.46, @types/hast 3.0.5, @types/mdast 4.0.4, @types/ms 2.1.0, @types/unist 3.0.3, ARG 5.0.2, axios 1.18.1, binary-extensions 2.3.0, browserify/resolve 1.22.12, call-bind-apply-helpers 1.0.2, cespare/xxhash v2.3.0, character-entities 2.0.2, Chart.js 4.5.1, chartjs-plugin-zoom 2.2.0, chokidar 3.6.0, clsx 2.1.1, codeberg.org/go-pdf/fpdf v0.12.0, comma-separated-tokens 2.0.3, cookie 1.1.1, danielgtaylor/huma v2.39.0, date-fns/date-fns 2.30.0, date-fns/date-fns 4.4.0, dayjs 1.11.19, debug-js/debug 4.4.3, decode-named-character-reference 1.3.0, dequal 2.0.3, devlop 1.1.0, dlv 1.1.3, dunder-proto 1.0.1, es-define-property 1.0.1, es-errors 1.3.0, es-object-atoms 1.1.2, es-set-tostringtag 2.1.0, fast-equals 6.0.2, fast-glob 3.3.3, fdir 6.5.0, fill-range 7.1.1, follow-redirects 1.16.0, form-data 4.0.6, fsevents 2.3.3, function-bind 1.1.2, get-intrinsic 1.3.0, get-proto 1.0.1, Go Testify v1.11.1, go-chi v5.3.1, go-zap exp/v0.3.0, go-zap v1.28.0, go.uber.org/multierr v1.11.0, gopd 1.2.0, has-symbols 1.1.0, has-tostringtag 1.0.2, hasown 2.0.4, hast-util-to-html 9.0.5, hast-util-whitespace 3.0.0, html-void-elements 3.0.0, https-proxy-agent 5.0.1, is-core-module 2.16.2, is-plain-obj 4.1.0, jiti 1.21.7, lilconfig 2.1.0, lilconfig 3.1.3, longest-streak 3.1.0, markdown-table 3.0.4, math-intrinsics 1.1.0, mdast-util-find-and-replace 3.0.2, mdast-util-from-markdown 2.0.3, mdast-util-gfm 3.1.0, mdast-util-gfm-autolink-literal 2.0.1, mdast-util-gfm-footnote 2.1.0, mdast-util-gfm-strikethrough 2.0.0, mdast-util-gfm-table 2.0.0, mdast-util-gfm-task-list-item 2.0.0, mdast-util-phrasing 4.1.0, mdast-util-to-hast 13.2.1, mdast-util-to-markdown 2.1.2, mdast-util-to-string 4.0.0, micromark 4.0.2, micromark-core-commonmark 2.0.3, micromark-extension-gfm 3.0.0, micromark-extension-gfm-autolink-literal 2.1.0, micromark-extension-gfm-footnote 2.1.0, micromark-extension-gfm-strikethrough 2.1.0, micromark-extension-gfm-table 2.1.1, micromark-extension-gfm-tagfilter 2.0.0, micromark-extension-gfm-task-list-item 2.1.0, micromark-factory-destination 2.0.1, micromark-factory-label 2.0.1, micromark-factory-space 2.0.1, micromark-factory-title 2.0.1, micromark-factory-whitespace 2.0.1, micromark-util-character 2.1.1, micromark-util-chunked 2.0.1, micromark-util-classify-character 2.0.1, micromark-util-combine-extensions 2.0.1, micromark-util-decode-numeric-character-reference 2.0.2, micromark-util-decode-string 2.0.1, micromark-util-encode 2.0.1, micromark-util-html-tag-name 2.0.1, micromark-util-normalize-identifier 2.0.1, micromark-util-resolve-all 2.0.1, micromark-util-sanitize-uri 2.0.1, micromark-util-subtokenize 2.1.0, micromark-util-symbol 2.0.1, micromark-util-types 2.0.2, micromatch 4.0.8, micromatch/braces 3.0.3, mini-svg-data-uri 1.4.4, monaco-editor 0.43.0, nanoid 3.3.17, natefinch/lumberjack v2.2.1, picomatch 2.3.2, picomatch 4.0.5, pirates 4.0.7, PostCSS 8.5.23, postcss-import 15.1.0, postcss-js 4.1.0, postcss-load-config 4.0.2, postcss-nested 6.2.0, postcss-selector-parser 6.1.4, property-information 7.2.0, proxy-from-env 2.1.0, React from Facebook 18.2.0, react-accessible-treeview 2.11.2, react-chartjs-2 5.3.1, react-dom 18.2.0, react-hook-form 7.75.0, react-merge-refs 3.0.2, react-pin-field 4.0.2, react-router-dom 7.18.2, reacttraining/react-router 7.18.2, rehype-parse 10.0.1, remark-gfm 4.0.1, remark-rehype 11.1.2, reusify 1.1.0, scheduler 0.23.2, set-cookie-parser 2.7.2, space-separated-tokens 2.0.2, stringify-entities 4.0.4, sucrase 3.35.1, tabbable 6.5.0, tailwindcss 3.4.0, tinyglobby 0.2.17, trim-lines 3.0.1, trough 2.2.0, unified 11.0.5, unist-util-is 6.0.1, unist-util-position 5.0.0, unist-util-stringify-position 4.0.0, unist-util-visit 5.1.0, unist-util-visit-parents 6.0.2, use-sync-external-store 1.6.0, vfile 6.0.3, vfile-message 4.0.3, yaml for Go v3.0.1, zod 4.3.6, zwitch 2.0.4)
 
 The MIT License
 ===============
@@ -1851,6 +2064,34 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
 AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+MIT License
+(bail 2.0.2, character-entities-html4 2.1.0, character-entities-legacy 3.0.0, wooorm/ccount 2.0.1)
+
+(The MIT License)
+
+Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 ---
 
