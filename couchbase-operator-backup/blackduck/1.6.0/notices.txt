@@ -261,7 +261,6 @@ golang.org/x/crypto v0.46.0: https://godoc.org/golang.org/x/crypto : BSD 3-claus
 golang.org/x/lint 20241105-snapshot-818c5a80: https://pkg.go.dev/golang.org/x/lint : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod v0.30.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
 golang.org/x/mod v0.31.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
-golang.org/x/net v0.48.0: https://godoc.org/golang.org/x/net : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys v0.40.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
 golang.org/x/term v0.38.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.12.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
@@ -273,6 +272,7 @@ golang.org/x/xerrors 20240902-snapshot-7835f813 : BSD 3-clause "New" or "Revised
 golang/appengine v1.6.8: http://google.golang.org/appengine : Apache License 2.0
 golang/glog v1.2.4: https://github.com/golang/glog : Apache License 2.0
 golang/glog v1.2.5: https://github.com/golang/glog : Apache License 2.0
+golang/net v0.48.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
 golang/oauth2 v0.30.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
 golang/oauth2 v0.34.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
 golang/sync v0.19.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
@@ -659,7 +659,7 @@ prometheus/prometheus v0.304.1: https://prometheus.io/ : Apache License 2.0
 psf-requests 2.34.2: http://docs.python-requests.org : Apache License 2.0
 pty v1.1.1: https://github.com/kr/pty : MIT License
 Python six 1.17.0: http://pypi.python.org/pypi/six : MIT License
-python-certifi 2026.6.17: https://certifiio.readthedocs.io/en/latest/ : Mozilla Public License 2.0
+python-certifi 2026.7.22: https://certifiio.readthedocs.io/en/latest/ : Mozilla Public License 2.0
 python-dateutil 2.9.0.post0: https://github.com/dateutil/dateutil : (Apache License 2.0 OR BSD 3-clause "New" or "Revised" License)
 python3-charset-normalizer 3.4.9: https://github.com/ousret/charset_normalizer : MIT License
 PyYAML 6.0.3: https://pyyaml.org/ : MIT License
@@ -692,8 +692,8 @@ websocket-client 1.9.0: https://github.com/websocket-client/websocket-client : A
 x448/float16 v0.8.4: https://github.com/x448/float16 : MIT License
 xhit/go-str2duration v2.1.0: https://github.com/xhit/go-str2duration : BSD 3-clause "New" or "Revised" License
 xrash/smetrics 20240521-snapshot-686a1a29: https://github.com/xrash/smetrics : MIT License
-yaml for Go v2.4.0: https://github.com/go-yaml/yaml : Apache License 2.0
-yaml for Go v3.0.1: https://github.com/go-yaml/yaml : (MIT License AND Apache License 2.0)
+yaml for Go v2.4.0: https://github.com/go-yaml/yaml/tree/v2 : Apache License 2.0
+yaml for Go v3.0.1: https://github.com/go-yaml/yaml/tree/v2 : (MIT License AND Apache License 2.0)
 youmark/pkcs8 20240726-snapshot-a2c0da24 : MIT License
 yuin/goldmark v1.4.13: https://github.com/yuin/goldmark : MIT License
 zeebo/errs v1.4.0: https://github.com/zeebo/errs : MIT License
@@ -1431,7 +1431,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(dsnet/compress v0.0.1, edsrzf/mmap-go v1.2.0, exp 20250605-snapshot-dcc06ee1, exp 20251219-snapshot-944ab1f2, facette/natsort 20181210-snapshot-2cd4dd1e, filippo.io/edwards25519 v1.1.0, fsnotify-fsnotify v1.9.0, github.com/grafana/regexp 20240518-snapshot-a468a5bf, github.com/lufia/plan9stats 20250317-snapshot-8bc96cf8, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, go-zookeeper/zk v1.0.4, Golang Protobuf 1.36.11, Golang Protobuf 1.36.6, Golang Protobuf v1.5.4, golang-github-spf13-pflag-dev v1.0.6, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.46.0, golang.org/x/lint 20241105-snapshot-818c5a80, golang.org/x/mod v0.30.0, golang.org/x/mod v0.31.0, golang.org/x/net v0.48.0, golang.org/x/sys v0.40.0, golang.org/x/term v0.38.0, golang.org/x/time v0.12.0, golang.org/x/time v0.14.0, golang.org/x/tools v0.39.0, golang.org/x/tools v0.40.0, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20240902-snapshot-7835f813, golang/oauth2 v0.30.0, golang/oauth2 v0.34.0, golang/sync v0.19.0, golang/telemetry 20240226-snapshot-f48c80bd, golang/telemetry 20251203-snapshot-8fff8a59, golang/text v0.32.0, Gonum numerical packages v0.16.0, google/go-cmp v0.7.0, googleapis/gax-go v2.14.2, googleapis/gax-go v2.15.0, googleapis/google-api-go-client v0.237.0, googleapis/google-api-go-client v0.249.0, Googleuuid v1.6.0, gopsutil v3.24.5, gorilla/mux v1.8.1, grpc-gateway v2.26.3, idna 3.18, klauspost-compress v1.18.0, mattn-go-colorable 0.1.13, miekg/dns v1.1.65, oauthlib/oauthlib 3.3.1, ovh/go-ovh v1.7.0, pbnjay/memory 20210728-snapshot-7b4eea64, pborman-getopt 20170112-snapshot-7148bc3a, python-dateutil 2.9.0.post0, rogpeppe/go-internal v1.14.1, sigs.k8s.io/yaml v1.4.0, tklauser/go-sysconf v0.3.15, xhit/go-str2duration v2.1.0)
+(dsnet/compress v0.0.1, edsrzf/mmap-go v1.2.0, exp 20250605-snapshot-dcc06ee1, exp 20251219-snapshot-944ab1f2, facette/natsort 20181210-snapshot-2cd4dd1e, filippo.io/edwards25519 v1.1.0, fsnotify-fsnotify v1.9.0, github.com/grafana/regexp 20240518-snapshot-a468a5bf, github.com/lufia/plan9stats 20250317-snapshot-8bc96cf8, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, go-zookeeper/zk v1.0.4, Golang Protobuf 1.36.11, Golang Protobuf 1.36.6, Golang Protobuf v1.5.4, golang-github-spf13-pflag-dev v1.0.6, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.46.0, golang.org/x/lint 20241105-snapshot-818c5a80, golang.org/x/mod v0.30.0, golang.org/x/mod v0.31.0, golang.org/x/sys v0.40.0, golang.org/x/term v0.38.0, golang.org/x/time v0.12.0, golang.org/x/time v0.14.0, golang.org/x/tools v0.39.0, golang.org/x/tools v0.40.0, golang.org/x/xerrors 20200804-snapshot-5ec99f83, golang.org/x/xerrors 20240902-snapshot-7835f813, golang/net v0.48.0, golang/oauth2 v0.30.0, golang/oauth2 v0.34.0, golang/sync v0.19.0, golang/telemetry 20240226-snapshot-f48c80bd, golang/telemetry 20251203-snapshot-8fff8a59, golang/text v0.32.0, Gonum numerical packages v0.16.0, google/go-cmp v0.7.0, googleapis/gax-go v2.14.2, googleapis/gax-go v2.15.0, googleapis/google-api-go-client v0.237.0, googleapis/google-api-go-client v0.249.0, Googleuuid v1.6.0, gopsutil v3.24.5, gorilla/mux v1.8.1, grpc-gateway v2.26.3, idna 3.18, klauspost-compress v1.18.0, mattn-go-colorable 0.1.13, miekg/dns v1.1.65, oauthlib/oauthlib 3.3.1, ovh/go-ovh v1.7.0, pbnjay/memory 20210728-snapshot-7b4eea64, pborman-getopt 20170112-snapshot-7148bc3a, python-dateutil 2.9.0.post0, rogpeppe/go-internal v1.14.1, sigs.k8s.io/yaml v1.4.0, tklauser/go-sysconf v0.3.15, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -2598,7 +2598,7 @@ SOFTWARE
 ---
 
 Mozilla Public License 2.0
-(errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib parseutil/v0.2.0, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, github.com/shoenig/go-m1cpu v0.1.6, github.com/shoenig/test v0.6.4, Go CLI v1.1.5, go-immutable-radix v1.3.1, go-sql-driver v1.9.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-retryablehttp 0.7.7, hashicorp-go-rootcerts v1.0.2, hashicorp-go-version v1.7.0, hashicorp-golang-lru v0.6.0, hashicorp/go-sockaddr v1.0.7, hashicorp/hcl v1.0.1-vault-7, python-certifi 2026.6.17, Vault by HashiCorp api/v1.20.0)
+(errwrap v1.1.0, github.com/hashicorp/go-secure-stdlib parseutil/v0.2.0, github.com/hashicorp/go-secure-stdlib strutil/v0.1.2, github.com/shoenig/go-m1cpu v0.1.6, github.com/shoenig/test v0.6.4, Go CLI v1.1.5, go-immutable-radix v1.3.1, go-sql-driver v1.9.1, hashicorp serf v0.10.1, hashicorp-go-cleanhttp v0.5.2, hashicorp-go-multierror v1.1.1, hashicorp-go-retryablehttp 0.7.7, hashicorp-go-rootcerts v1.0.2, hashicorp-go-version v1.7.0, hashicorp-golang-lru v0.6.0, hashicorp/go-sockaddr v1.0.7, hashicorp/hcl v1.0.1-vault-7, python-certifi 2026.7.22, Vault by HashiCorp api/v1.20.0)
 
 Mozilla Public License
 Version 2.0
