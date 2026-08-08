@@ -9,16 +9,19 @@ Notices Report Content
 
 Components: 
 
+aiofile 3.12.3: http://github.com/mosquito/aiofile : Apache License 2.0
 annotated-types 0.8.0: https://github.com/annotated-types/annotated-types : MIT License
 anyio 4.14.2: https://pypi.org/project/anyio/ : MIT License
 Authlib 1.7.2: https://authlib.org/ : BSD 3-clause "New" or "Revised" License
 backports.tarfile 1.2.0: https://github.com/jaraco/backports.tarfile : MIT License
 beartype 0.22.9: https://github.com/beartype/beartype : MIT License
 cachetools 7.1.7: https://pypi.python.org/pypi/cachetools : MIT License
+caio 0.12.2 : Apache License 2.0
 Click - Python Command Line Utility 8.4.2: http://click.pocoo.org/ : BSD 3-clause "New" or "Revised" License
 colorama 0.4.6: https://github.com/tartley/colorama : BSD 3-clause "New" or "Revised" License
 couchbase-python-client 4.6.2: http://www.couchbase.org : Apache License 2.0
 crate-py/rpds 2026.6.3: https://github.com/crate-py/rpds : MIT License
+cyclopts 4.22.5: https://github.com/BrianPugh/cyclopts : Apache License 2.0
 dnspython 2.8.0: http://www.dnspython.org : ISC License
 docstring-parser 0.18.0: https://github.com/rr-/docstring_parser : MIT License
 encode/uvicorn 0.52.1: https://github.com/encode/uvicorn/ : BSD 3-clause "New" or "Revised" License
@@ -47,6 +50,7 @@ mdurl 0.1.2: https://pypi.org/project/mdurl/ : MIT License
 more-itertools 11.1.0: https://github.com/erikrose/more-itertools : MIT License
 openapi-pydantic 0.5.1: https://github.com/mike-oakley/openapi-pydantic : MIT License
 opentelemetry-python 1.44.0: https://opentelemetry.io : Apache License 2.0
+Packaging 26.3: https://github.com/pypa/packaging : (BSD 2-clause "Simplified" License AND Apache License 2.0)
 pathable 0.6.0: https://github.com/p1c2u/pathable : Apache License 2.0
 platformdirs 4.11.0: https://platformdirs.readthedocs.io : MIT License
 py-key-value-aio 0.4.5: https://pypi.org/project/py-key-value-aio/ : Apache License 2.0
@@ -84,7 +88,7 @@ zipp 4.1.0: https://github.com/jaraco/zipp : MIT License
 Licenses: 
 
 Apache License 2.0
-(couchbase-python-client 4.6.2, importlib_metadata 9.0.0, jsonschema-path 0.5.0, opentelemetry-python 1.44.0, pathable 0.6.0, py-key-value-aio 0.4.5, pyca/cryptography 50.0.0, python-multipart 0.0.32)
+(aiofile 3.12.3, caio 0.12.2, couchbase-python-client 4.6.2, cyclopts 4.22.5, importlib_metadata 9.0.0, jsonschema-path 0.5.0, opentelemetry-python 1.44.0, Packaging 26.3, pathable 0.6.0, py-key-value-aio 0.4.5, pyca/cryptography 50.0.0, python-multipart 0.0.32)
 
 Apache License
 Version 2.0, January 2004
@@ -271,7 +275,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(Pygments - Python syntax highlighter 2.20.0)
+(Packaging 26.3, Pygments - Python syntax highlighter 2.20.0)
 
 BSD Two Clause License
 ======================
