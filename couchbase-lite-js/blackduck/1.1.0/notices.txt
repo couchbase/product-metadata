@@ -1,4 +1,4 @@
-Copyright 2025
+Copyright 2026
 
 [couchbase-lite-js : 1.1.0]
 
@@ -18,13 +18,12 @@ arraybuffer.prototype.slice 1.0.4: https://github.com/es-shims/ArrayBuffer.proto
 async-function 1.0.0: https://github.com/EduardoRFS/async-function#readme : MIT License
 available-typed-arrays 1.0.7: https://github.com/inspect-js/available-typed-arrays#readme : MIT License
 base64-js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
-Buffer 6.0.3: https://github.com/feross/native-buffer-browserif : MIT License
 call-bind 1.0.8: https://github.com/ljharb/call-bind#readme : MIT License
 call-bind-apply-helpers 1.0.2: https://github.com/ljharb/call-bind-apply-helpers#readme : MIT License
 call-bound 1.0.4: https://github.com/hamzahamru/call-bound#readme : MIT License
 com.couchbase.cblite:servlet 2-3: http://developer.couchbase.com/mobile/ : 
 com.couchbase.cblite:webserver 2-3: http://developer.couchbase.com/mobile/ : 
-com.couchbase.lite:couchbase-lite-android 4.0.0 : 
+com.couchbase.lite:couchbase-lite-android 4.1.0 : 
 data-view-buffer 1.0.2: https://github.com/ljharb/data-view-buffer#readme : MIT License
 data-view-byte-length 1.0.2: https://github.com/ljharb/data-view-byte-length#readme : MIT License
 data-view-byte-offset 1.0.1: https://github.com/ljharb/data-view-byte-offset#readme : MIT License
@@ -39,6 +38,7 @@ es-errors 1.3.0: https://github.com/ljharb/es-errors#readme : MIT License
 es-object-atoms 1.1.1: https://github.com/ljharb/es-object-atoms#readme : MIT License
 es-set-tostringtag 2.1.0: https://github.com/es-shims/es-set-tostringtag#readme : MIT License
 es-to-primitive 1.3.0: https://github.com/ljharb/es-to-primitive : MIT License
+feross/buffer 6.0.3: https://github.com/feross/native-buffer-browserif : MIT License
 function-bind 1.1.2: https://github.com/Raynos/function-bind : MIT License
 function.prototype.name 1.1.8: https://github.com/ljharb/function.prototype.name#readme : MIT License
 functions-have-names 1.2.3: https://github.com/ljharb/functions-have-names#readme : MIT License
@@ -778,7 +778,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Buffer 6.0.3)
+(feross/buffer 6.0.3)
 
 The MIT License (MIT)
 
