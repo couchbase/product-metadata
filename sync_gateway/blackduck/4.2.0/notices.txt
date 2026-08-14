@@ -38,7 +38,7 @@ github.com/lufia/plan9stats 20260627-snapshot-477a6601: https://pkg.go.dev/githu
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61: https://github.com/munnerz/goautoneg : BSD 3-clause "New" or "Revised" License
 github.com/power-devops/perfstat 20240221-snapshot-82ca3683: https://pkg.go.dev/github.com/power-devops/perfstat : MIT License
 github.com/yusufpapurcu/wmi v1.2.4: https://github.com/yusufpapurcu/wmi : MIT License
-Go programming language 1.26.5: http://golang.org/ : BSD 3-clause "New" or "Revised" License
+Go programming language 1.26.6: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
 go-check-check 20201130-snapshot-10cb9826: http://labix.org/gocheck : BSD 2-clause "Simplified" License
 go-jose v4.1.4: https://github.com/go-jose/go-jose : Apache License 2.0
@@ -65,7 +65,7 @@ golang.org/x/time v0.15.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "
 golang/net v0.57.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
 golang/oauth2 v0.36.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
 golang/sync v0.22.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
-golang/text v0.40.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
+golang/text v0.41.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
 Gonum numerical packages v0.17.0: https://www.gonum.org/ : BSD 3-clause "New" or "Revised" License
 google/go-cmp v0.7.0: https://github.com/google/go-cmp : BSD 3-clause "New" or "Revised" License
 google/pprof 20260709-snapshot-b9395ee1: https://github.com/google/pprof : Apache License 2.0
@@ -79,7 +79,7 @@ jsoniter-go v1.1.12: http://jsoniter.com/ : MIT License
 kardianos-service v1.2.2: https://github.com/kardianos/service : zlib License
 klauspost-compress v1.19.0: https://github.com/klauspost/compress : BSD 3-clause "New" or "Revised" License
 kr/pretty v0.3.1: https://github.com/kr/pretty : MIT License
-mattn-go-sqlite3 v1.14.48: http://mattn.github.io/go-sqlite3 : MIT License
+mattn-go-sqlite3 v1.14.49: http://mattn.github.io/go-sqlite3 : MIT License
 mergo v1.0.2: https://github.com/imdario/mergo : BSD 3-clause "New" or "Revised" License
 modern-go/concurrent 20180305-snapshot-bacd9c7e: https://github.com/modern-go/concurrent : Apache License 2.0
 modern-go/reflect2 v1.0.2: https://github.com/modern-go/reflect2 : Apache License 2.0
@@ -388,7 +388,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20260709-snapshot-9ea1abe5, github.com/lufia/plan9stats 20260627-snapshot-477a6601, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.26.5, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.54.0, golang.org/x/sys v0.47.0, golang.org/x/time v0.15.0, golang/net v0.57.0, golang/oauth2 v0.36.0, golang/sync v0.22.0, golang/text v0.40.0, Gonum numerical packages v0.17.0, google/go-cmp v0.7.0, Googleuuid v1.6.0, gopsutil v4.26.7, gorilla/mux v1.8.1, klauspost-compress v1.19.0, mergo v1.0.2, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.14.1, samuel/go-metrics 20260131-snapshot-1193a855, tklauser/go-sysconf v0.4.0)
+(exp 20260709-snapshot-9ea1abe5, github.com/lufia/plan9stats 20260627-snapshot-477a6601, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.26.6, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.54.0, golang.org/x/sys v0.47.0, golang.org/x/time v0.15.0, golang/net v0.57.0, golang/oauth2 v0.36.0, golang/sync v0.22.0, golang/text v0.41.0, Gonum numerical packages v0.17.0, google/go-cmp v0.7.0, Googleuuid v1.6.0, gopsutil v4.26.7, gorilla/mux v1.8.1, klauspost-compress v1.19.0, mergo v1.0.2, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.14.1, samuel/go-metrics 20260131-snapshot-1193a855, tklauser/go-sysconf v0.4.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -583,7 +583,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(Azure/azure-sdk-for-go sdk/azcore/v1.20.0, Azure/azure-sdk-for-go sdk/internal/v1.11.2, Azure/azure-sdk-for-go sdk/storage/azblob/v1.6.3, cespare/xxhash v2.3.0, couchbase-gomemcached v0.2.1, felixge/fgprof v0.9.5, github.com/KimMachineGun/automemlimit v0.7.5, github.com/power-devops/perfstat 20240221-snapshot-82ca3683, github.com/yusufpapurcu/wmi v1.2.4, Go Testify v1.11.1, go-ole-go-ole v1.3.0, go-zap v1.28.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, go.yaml.in/yaml/v2 v3.0.4, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.48, natefinch/lumberjack v2.2.1, robertkrimen/otto 20211024-snapshot-b87d35c0, sergi/go-diff v1.4.0, stretchr/objx v0.5.3, yaml for Go v3.0.1, youmark/pkcs8 20240726-snapshot-a2c0da24)
+(Azure/azure-sdk-for-go sdk/azcore/v1.20.0, Azure/azure-sdk-for-go sdk/internal/v1.11.2, Azure/azure-sdk-for-go sdk/storage/azblob/v1.6.3, cespare/xxhash v2.3.0, couchbase-gomemcached v0.2.1, felixge/fgprof v0.9.5, github.com/KimMachineGun/automemlimit v0.7.5, github.com/power-devops/perfstat 20240221-snapshot-82ca3683, github.com/yusufpapurcu/wmi v1.2.4, Go Testify v1.11.1, go-ole-go-ole v1.3.0, go-zap v1.28.0, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, go.yaml.in/yaml/v2 v3.0.4, kr/pretty v0.3.1, mattn-go-sqlite3 v1.14.49, natefinch/lumberjack v2.2.1, robertkrimen/otto 20211024-snapshot-b87d35c0, sergi/go-diff v1.4.0, stretchr/objx v0.5.3, yaml for Go v3.0.1, youmark/pkcs8 20240726-snapshot-a2c0da24)
 
 The MIT License
 ===============

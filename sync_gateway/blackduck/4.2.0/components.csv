@@ -3,7 +3,7 @@
 1,Azure/azure-sdk-for-go,sdk/internal/v1.11.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,eb8d118c-86a8-4f82-ab85-d436a64296d7,d4614964-9e3f-417a-aa81-1f8267615add,ad705c59-6893-4980-bdbf-0837f1823cc4
 2,Azure/azure-sdk-for-go,sdk/storage/azblob/v1.6.3,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,eb8d118c-86a8-4f82-ab85-d436a64296d7,0178af16-9d73-4753-845e-46655b660170,ad705c59-6893-4980-bdbf-0837f1823cc4
 3,Go Testify,v1.11.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,5271cd46-d193-4af5-b2c2-50a07751f580,c42f85e0-6129-469d-9469-b152982010c2,ad705c59-6893-4980-bdbf-0837f1823cc4
-4,Go programming language,1.26.5,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,6d055c2b-f7d7-45ab-a6b3-021617efd61b,083fa790-5d90-4612-8ebd-9bef3f68c312,3d238144-44e6-450e-b523-3defbdaed9dc
+4,Go programming language,1.26.6,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,6d055c2b-f7d7-45ab-a6b3-021617efd61b,ce5cf165-00c1-4e82-a4e1-772e61188360,3d238144-44e6-450e-b523-3defbdaed9dc
 5,GoDoc Text,v0.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,fcf8903b-ac17-4a21-a3ed-d12e6e709e40,f5727975-0297-4fdb-9d68-a5d2085e1a0f,ad705c59-6893-4980-bdbf-0837f1823cc4
 6,Golang Protobuf,1.36.11,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,faa9ce60-ee56-4f4a-b55c-b33fae6c61f4,8ccd5bb8-b877-4ece-9728-f88d0eb294d5,3d238144-44e6-450e-b523-3defbdaed9dc
 7,Golang Protobuf,v1.5.4,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,faa9ce60-ee56-4f4a-b55c-b33fae6c61f4,587ad155-8a4a-421d-bab4-c08687b09136,3d238144-44e6-450e-b523-3defbdaed9dc
@@ -57,7 +57,7 @@
 55,golang/net,v0.57.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f9578cfe-b575-44ea-a33e-2a594aba92b0,7155fcf4-79f9-4b74-aa6e-751d9599b8df,3d238144-44e6-450e-b523-3defbdaed9dc
 56,golang/oauth2,v0.36.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,c4a9b525-ee65-4862-b197-b3386c84c2ae,60478fa7-e4ea-4d09-9cc3-dac083a4ffd7,3d238144-44e6-450e-b523-3defbdaed9dc
 57,golang/sync,v0.22.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,ffd9a8bc-14e6-49b6-bf3a-ab778af14f59,68bc86bf-7923-48f5-bf53-bbdff934a359,3d238144-44e6-450e-b523-3defbdaed9dc
-58,golang/text,v0.40.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,1566e7c5-6837-4b8b-bb4c-f53079002207,848436c7-b829-45d9-b210-3faf0070bbe1,3d238144-44e6-450e-b523-3defbdaed9dc
+58,golang/text,v0.41.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,1566e7c5-6837-4b8b-bb4c-f53079002207,3cfd8d30-4b32-4aa7-8729-b103ad9a1c08,3d238144-44e6-450e-b523-3defbdaed9dc
 59,google/go-cmp,v0.7.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,458e027c-e2ba-49eb-b32e-654a62244631,aa529b89-4f6a-4dad-a683-9aafd72c434c,3d238144-44e6-450e-b523-3defbdaed9dc
 60,google/pprof,20260709-snapshot-b9395ee1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,db003823-eda5-4726-aef5-3d7d68928389,2ca80f16-03b5-42c1-9bb8-b8b7a2d80afd,7cae335f-1193-421e-92f1-8802b4243e93
 61,googleapis/go-genproto,20260727-snapshot-6c54dddc,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b1e6bf42-b243-4385-a118-af40bba11ff3,d5d48a61-95b6-47fd-b7ce-6b3b86e65c71,7cae335f-1193-421e-92f1-8802b4243e93
@@ -69,7 +69,7 @@
 67,kardianos-service,v1.2.2,Direct Dependency,zlib License,PERMISSIVE,NOT_REVIEWED,7bb8fa01-5a9a-4927-9959-80c9009560c0,323f53bc-cca0-4ab5-9abe-ee2122c1ec91,7bf4506f-7531-4655-a4bf-e9deb4d2cc8e
 68,klauspost-compress,v1.19.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,84c00881-4da6-4b06-b722-1277dc503364,a8fb31d1-3c1f-42d4-bb0c-171b9907e44a,3d238144-44e6-450e-b523-3defbdaed9dc
 69,kr/pretty,v0.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,9745a8b0-0057-4765-879b-95a1406b28c0,24c4176b-52b7-43b6-8f5f-5990bc868b5c,ad705c59-6893-4980-bdbf-0837f1823cc4
-70,mattn-go-sqlite3,v1.14.48,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,63e43e1f-20d9-47ce-bc41-e1ba2f1573dc,a7895bc1-4c60-425c-8a30-6d3e0d725b9b,ad705c59-6893-4980-bdbf-0837f1823cc4
+70,mattn-go-sqlite3,v1.14.49,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,63e43e1f-20d9-47ce-bc41-e1ba2f1573dc,0290a6c4-dce6-474e-ba28-3547ae84f217,ad705c59-6893-4980-bdbf-0837f1823cc4
 71,mergo,v1.0.2,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,9224887c-aa28-4b52-92df-d7f1d873a26e,7510ea2b-feca-4d49-bf14-f83c11c568c6,3d238144-44e6-450e-b523-3defbdaed9dc
 72,modern-go/concurrent,20180305-snapshot-bacd9c7e,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1cbdd692-7a70-40b6-b291-bf181039f387,7b5f6066-9cec-4618-9ca3-4ce3a3d4fa49,7cae335f-1193-421e-92f1-8802b4243e93
 73,modern-go/reflect2,v1.0.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,78acd48b-3cf3-499d-841b-1fefe4a6ff4a,98674acf-61fb-4d17-8d9d-6960cb6f7cbe,7cae335f-1193-421e-92f1-8802b4243e93
