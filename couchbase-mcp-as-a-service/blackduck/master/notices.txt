@@ -21,7 +21,6 @@ caio 0.9.25 : Apache License 2.0
 Click - Python Command Line Utility 8.3.1: http://click.pocoo.org/ : BSD 3-clause "New" or "Revised" License
 client_python 0.24.1: https://github.com/prometheus/client_python : (BSD 2-clause "Simplified" License AND Apache License 2.0)
 couchbase-python-client 4.5.0: http://www.couchbase.org : Apache License 2.0
-crate-py/rpds 0.30.0: https://github.com/crate-py/rpds : MIT License
 cyclopts 4.5.1: https://github.com/BrianPugh/cyclopts : Apache License 2.0
 dnspython 2.8.0: http://www.dnspython.org : ISC License
 docstring-parser 0.17.0: https://github.com/rr-/docstring_parser : MIT License
@@ -77,15 +76,16 @@ python-jsonschema 4.26.0: https://python-jsonschema.readthedocs.org : MIT Licens
 python-multipart 0.0.22: http://github.com/andrew-d/python-multipart : Apache License 2.0
 python-typing-extensions 4.15.0 : Python Software Foundation License 2.0
 python3-charset-normalizer 3.4.4: https://github.com/ousret/charset_normalizer : MIT License
-python3-rich 14.3.2: https://github.com/willmcgugan/rich : MIT License
 PyYAML 6.0.3: https://pyyaml.org/ : MIT License
 referencing 0.36.2: https://github.com/python-jsonschema/referencing : MIT License
 rich-rst 1.3.2: https://wasi-master.github.io/rich-rst : MIT License
+rpds 0.30.0: https://rpds.readthedocs.io/ : MIT License
 s3transfer 0.16.0: https://github.com/boto/s3transfer : Apache License 2.0
 SecretStorage 3.5.0: https://github.com/mitya57/secretstorage : BSD 3-clause "New" or "Revised" License
 sse-starlette 3.2.0: https://github.com/sysid/sse-starlette : BSD 3-clause "New" or "Revised" License
 Starlette 0.52.1: https://www.starlette.io/ : BSD 3-clause "New" or "Revised" License
 tabulate 0.10.0: http://code.google.com/p/tabulate/ : MIT License
+Textualize_rich 14.3.2: https://rich.readthedocs.io/en/latest/ : MIT License
 typing-inspection 0.4.2 : MIT License
 uncalled-for 0.2.0 : MIT License
 urllib3 2.6.3: http://code.google.com/p/urllib3 : MIT License
@@ -368,7 +368,7 @@ THIS SOFTWARE.
 ---
 
 MIT License
-(annotated-types 0.7.0, anyio 4.12.1, beartype 0.22.9, cachetools 7.0.1, crate-py/rpds 0.30.0, docstring-parser 0.17.0, exceptiongroup 1.3.1, h11 0.16.0, httpx-sse 0.4.3, jaraco.context 6.1.0, jaraco.functools 4.4.0, jaracoclasses 3.4.0, jeepney 0.9.0, jmespath.py 1.1.0, jsonschema-specifications 2025.9.1, keyringpython 25.7.0, lark 1.3.1, lark-sqlpp 0.0.1, markdown-it-py 4.0.0, mcp 1.26.0, mdurl 0.1.2, more-itertools 10.8.0, openapi-pydantic 0.5.1, platformdirs 4.5.1, pydantic 2.12.5, pydantic-core 2.41.5, pydantic-settings 2.12.0, PyJWT 2.11.0, python cffi 2.0.0, Python six 1.17.0, python-attrs 25.4.0, python-jsonref 1.1.0, python-jsonschema 4.26.0, python3-charset-normalizer 3.4.4, python3-rich 14.3.2, PyYAML 6.0.3, referencing 0.36.2, rich-rst 1.3.2, tabulate 0.10.0, typing-inspection 0.4.2, uncalled-for 0.2.0, urllib3 2.6.3, watchfiles 1.1.1, zipp 3.23.0)
+(annotated-types 0.7.0, anyio 4.12.1, beartype 0.22.9, cachetools 7.0.1, docstring-parser 0.17.0, exceptiongroup 1.3.1, h11 0.16.0, httpx-sse 0.4.3, jaraco.context 6.1.0, jaraco.functools 4.4.0, jaracoclasses 3.4.0, jeepney 0.9.0, jmespath.py 1.1.0, jsonschema-specifications 2025.9.1, keyringpython 25.7.0, lark 1.3.1, lark-sqlpp 0.0.1, markdown-it-py 4.0.0, mcp 1.26.0, mdurl 0.1.2, more-itertools 10.8.0, openapi-pydantic 0.5.1, platformdirs 4.5.1, pydantic 2.12.5, pydantic-core 2.41.5, pydantic-settings 2.12.0, PyJWT 2.11.0, python cffi 2.0.0, Python six 1.17.0, python-attrs 25.4.0, python-jsonref 1.1.0, python-jsonschema 4.26.0, python3-charset-normalizer 3.4.4, PyYAML 6.0.3, referencing 0.36.2, rich-rst 1.3.2, rpds 0.30.0, tabulate 0.10.0, Textualize_rich 14.3.2, typing-inspection 0.4.2, uncalled-for 0.2.0, urllib3 2.6.3, watchfiles 1.1.1, zipp 3.23.0)
 
 The MIT License
 ===============
