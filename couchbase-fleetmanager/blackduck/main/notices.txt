@@ -68,7 +68,7 @@ codeberg.org/go-pdf/fpdf v0.12.0: https://codeberg.org/go-pdf/fpdf.git : MIT Lic
 codespell 2.4.3: http://git.profusion.mobi/cgit.cgi/codespell.git/ : GNU General Public License v2.0 only
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
 comma-separated-tokens 2.0.3: https://github.com/wooorm/comma-separated-tokens#readme : MIT License
-Commander.js 4.1.1: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 4.1.1: https://github.com/tj/commander.js : MIT License
 cookie 1.1.1: https://github.com/jshttp/cookie : MIT License
 couchbase/goprotostellar 20260407-snapshot-d7af2515 : Apache License 2.0
 couchbase/tools-common auth/v2.1.0 : 
@@ -80,7 +80,7 @@ couchbase/tools-common http/v1.1.0 :
 couchbase/tools-common strings/v1.0.0 : 
 couchbase/tools-common testing/v1.0.3 : 
 couchbase/tools-common types/v2.2.2 : 
-couchbase/tools-common utils/v3.1.1 : 
+couchbase/tools-common utils/v3.2.1 : 
 couchbaselabs/gocbconnstr v2.0.0 : Apache License 2.0
 cssesc 3.0.0: https://github.com/mathiasbynens/cssesc : MIT License
 danielgtaylor/huma v2.39.1 : MIT License
@@ -118,11 +118,10 @@ github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8 : Apache License 2.0
 github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61: https://github.com/munnerz/goautoneg : BSD 3-clause "New" or "Revised" License
 glob-parent 5.1.2: https://github.com/es128/glob-parent : ISC License
 glob-parent 6.0.2: https://github.com/es128/glob-parent : ISC License
-Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
+Go Testify v1.12.0: https://github.com/stretchr/testify : MIT License
 go-chi v5.3.1: https://github.com/go-chi/chi : MIT License
 go-logr/logr v1.4.4: https://github.com/go-logr/logr : Apache License 2.0
 go-logr/stdr v1.2.2: https://github.com/go-logr/stdr : Apache License 2.0
-go-spew v1.1.1: https://github.com/davecgh/go-spew : ISC License
 go-zap exp/v0.3.0: https://godoc.org/go.uber.org/zap : MIT License
 go-zap v1.28.0: https://godoc.org/go.uber.org/zap : MIT License
 go.uber.org/multierr v1.11.0: https://github.com/uber-go/multierr : MIT License
@@ -134,9 +133,9 @@ golang-snappy-go-dev v1.0.0: https://github.com/golang/snappy : BSD 3-clause "Ne
 golang.org/x/mod v0.38.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
 golang.org/x/sys v0.47.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.15.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
-golang/net v0.57.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
+golang/net v0.58.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
 golang/sync v0.22.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
-golang/text v0.40.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
+golang/text v0.41.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
 googleapis/go-genproto 20260803-snapshot-6ac0973c: https://godoc.org/google.golang.org/genproto : Apache License 2.0
 Googleuuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
 gopd 1.2.0: https://github.com/ljharb/gopd#readme : MIT License
@@ -231,7 +230,6 @@ picomatch 2.3.2: https://github.com/micromatch/picomatch : MIT License
 picomatch 4.0.5: https://github.com/micromatch/picomatch : MIT License
 pify 2.3.0: https://github.com/sindresorhus/pify : MIT License
 pirates 4.0.7: https://github.com/ariporad/pirates#readme : MIT License
-pmezard-go-difflib 1.0.0: https://github.com/pmezard/go-difflib : BSD 3-clause "New" or "Revised" License
 PostCSS 8.5.23: http://postcss.org/ : MIT License
 postcss-import 15.1.0: https://github.com/postcss/postcss-import : MIT License
 postcss-js 4.1.0: https://github.com/postcss/postcss-js#readme : MIT License
@@ -516,51 +514,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(pmezard-go-difflib 1.0.0)
-
-Source: https://github.com/pmezard/go-difflib
-
-Files: *
-Copyright: 2013 Patrick Mézard
-License: BSD-3-clause
-
-Files: debian/*
-Copyright: 2016 Dmitry Smirnov <onlyjob@debian.org>
-License: BSD-3-clause
-
-License: BSD-3-clause
-
-Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions are
- met:
- .
-    Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
- .
-    Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the distribution.
- .
-    The names of its contributors may not be used to endorse or promote
-    products derived from this software without specific prior written
-    permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
- IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
- TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
- PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
- HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
- TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
- PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
- LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
- NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
- SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
----
-
-BSD 3-clause "New" or "Revised" License
-(exp 20260718-snapshot-b88d891f, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Golang Protobuf 1.36.11, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/mod v0.38.0, golang.org/x/sys v0.47.0, golang.org/x/time v0.15.0, golang/net v0.57.0, golang/sync v0.22.0, golang/text v0.40.0, Googleuuid v1.6.0, source-map-js 1.2.1)
+(exp 20260718-snapshot-b88d891f, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Golang Protobuf 1.36.11, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/mod v0.38.0, golang.org/x/sys v0.47.0, golang.org/x/time v0.15.0, golang/net v0.58.0, golang/sync v0.22.0, golang/text v0.41.0, Googleuuid v1.6.0, source-map-js 1.2.1)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -922,27 +876,6 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
-
----
-
-ISC License
-(go-spew v1.1.1)
-
-ISC License
-
-Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
-
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted, provided that the above
-copyright notice and this permission notice appear in all copies.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 
 ---
 
@@ -2041,7 +1974,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(@babel/runtime 7.29.7, @floating-ui/core 1.8.0, @floating-ui/dom 1.8.0, @floating-ui/react 0.27.20, @floating-ui/react-dom 2.1.9, @floating-ui/utils 0.2.12, @hookform/resolvers 5.4.0, @jridgewell/gen-mapping 0.3.13, @jridgewell/resolve-uri 3.1.2, @jridgewell/sourcemap-codec 1.5.5, @jridgewell/trace-mapping 0.3.31, @kurkle/color 0.3.4, @monaco-editor/loader 1.7.0, @monaco-editor/react 4.6.0, @standard-schema/utils 0.3.0, @tailwindcss/forms 0.5.11, @tanstack/query-core 4.36.1, @tanstack/react-query 4.36.1, @tanstack/react-virtual 3.10.9, @tanstack/svelte-table 8.21.3, @tanstack/table-core 8.21.3, @tanstack/virtual-core 3.10.9, @types/debug 4.1.13, @types/hammerjs 2.0.46, @types/hast 3.0.5, @types/mdast 4.0.4, @types/ms 2.1.0, @types/unist 3.0.3, ARG 5.0.2, axios 1.18.1, binary-extensions 2.3.0, browserify/resolve 1.22.12, call-bind-apply-helpers 1.0.2, cespare/xxhash v2.3.0, character-entities 2.0.2, Chart.js 4.5.1, chartjs-plugin-zoom 2.2.0, chokidar 3.6.0, clsx 2.1.1, codeberg.org/go-pdf/fpdf v0.12.0, comma-separated-tokens 2.0.3, cookie 1.1.1, danielgtaylor/huma v2.39.1, date-fns/date-fns 2.30.0, date-fns/date-fns 4.4.0, dayjs 1.11.19, debug-js/debug 4.4.3, decode-named-character-reference 1.3.0, dequal 2.0.3, devlop 1.1.0, dlv 1.1.3, dunder-proto 1.0.1, es-define-property 1.0.1, es-errors 1.3.0, es-object-atoms 1.1.2, es-set-tostringtag 2.1.0, fast-equals 6.0.2, fast-glob 3.3.3, fdir 6.5.0, fill-range 7.1.1, follow-redirects 1.16.0, form-data 4.0.6, fsevents 2.3.3, function-bind 1.1.2, get-intrinsic 1.3.0, get-proto 1.0.1, Go Testify v1.11.1, go-chi v5.3.1, go-zap exp/v0.3.0, go-zap v1.28.0, go.uber.org/multierr v1.11.0, gopd 1.2.0, has-symbols 1.1.0, has-tostringtag 1.0.2, hasown 2.0.4, hast-util-to-html 9.0.5, hast-util-whitespace 3.0.0, html-void-elements 3.0.0, https-proxy-agent 5.0.1, is-core-module 2.16.2, is-plain-obj 4.1.0, jiti 1.21.7, lilconfig 2.1.0, lilconfig 3.1.3, longest-streak 3.1.0, markdown-table 3.0.4, math-intrinsics 1.1.0, mdast-util-find-and-replace 3.0.2, mdast-util-from-markdown 2.0.3, mdast-util-gfm 3.1.0, mdast-util-gfm-autolink-literal 2.0.1, mdast-util-gfm-footnote 2.1.0, mdast-util-gfm-strikethrough 2.0.0, mdast-util-gfm-table 2.0.0, mdast-util-gfm-task-list-item 2.0.0, mdast-util-phrasing 4.1.0, mdast-util-to-hast 13.2.1, mdast-util-to-markdown 2.1.2, mdast-util-to-string 4.0.0, micromark 4.0.2, micromark-core-commonmark 2.0.3, micromark-extension-gfm 3.0.0, micromark-extension-gfm-autolink-literal 2.1.0, micromark-extension-gfm-footnote 2.1.0, micromark-extension-gfm-strikethrough 2.1.0, micromark-extension-gfm-table 2.1.1, micromark-extension-gfm-tagfilter 2.0.0, micromark-extension-gfm-task-list-item 2.1.0, micromark-factory-destination 2.0.1, micromark-factory-label 2.0.1, micromark-factory-space 2.0.1, micromark-factory-title 2.0.1, micromark-factory-whitespace 2.0.1, micromark-util-character 2.1.1, micromark-util-chunked 2.0.1, micromark-util-classify-character 2.0.1, micromark-util-combine-extensions 2.0.1, micromark-util-decode-numeric-character-reference 2.0.2, micromark-util-decode-string 2.0.1, micromark-util-encode 2.0.1, micromark-util-html-tag-name 2.0.1, micromark-util-normalize-identifier 2.0.1, micromark-util-resolve-all 2.0.1, micromark-util-sanitize-uri 2.0.1, micromark-util-subtokenize 2.1.0, micromark-util-symbol 2.0.1, micromark-util-types 2.0.2, micromatch 4.0.8, micromatch/braces 3.0.3, mini-svg-data-uri 1.4.4, monaco-editor 0.43.0, nanoid 3.3.17, natefinch/lumberjack v2.2.1, picomatch 2.3.2, picomatch 4.0.5, pirates 4.0.7, PostCSS 8.5.23, postcss-import 15.1.0, postcss-js 4.1.0, postcss-load-config 4.0.2, postcss-nested 6.2.0, postcss-selector-parser 6.1.4, property-information 7.2.0, proxy-from-env 2.1.0, React from Facebook 18.2.0, react-accessible-treeview 2.11.2, react-chartjs-2 5.3.1, react-dom 18.2.0, react-hook-form 7.75.0, react-merge-refs 3.0.2, react-pin-field 4.0.2, react-router-dom 7.18.2, reacttraining/react-router 7.18.2, rehype-parse 10.0.1, remark-gfm 4.0.1, remark-rehype 11.1.2, reusify 1.1.0, scheduler 0.23.2, set-cookie-parser 2.7.2, space-separated-tokens 2.0.2, stringify-entities 4.0.4, sucrase 3.35.1, tabbable 6.5.0, tailwindcss 3.4.0, tinyglobby 0.2.17, trim-lines 3.0.1, trough 2.2.0, unified 11.0.5, unist-util-is 6.0.1, unist-util-position 5.0.0, unist-util-stringify-position 4.0.0, unist-util-visit 5.1.0, unist-util-visit-parents 6.0.2, use-sync-external-store 1.6.0, vfile 6.0.3, vfile-message 4.0.3, yaml for Go v3.0.1, zod 4.3.6, zwitch 2.0.4)
+(@babel/runtime 7.29.7, @floating-ui/core 1.8.0, @floating-ui/dom 1.8.0, @floating-ui/react 0.27.20, @floating-ui/react-dom 2.1.9, @floating-ui/utils 0.2.12, @hookform/resolvers 5.4.0, @jridgewell/gen-mapping 0.3.13, @jridgewell/resolve-uri 3.1.2, @jridgewell/sourcemap-codec 1.5.5, @jridgewell/trace-mapping 0.3.31, @kurkle/color 0.3.4, @monaco-editor/loader 1.7.0, @monaco-editor/react 4.6.0, @standard-schema/utils 0.3.0, @tailwindcss/forms 0.5.11, @tanstack/query-core 4.36.1, @tanstack/react-query 4.36.1, @tanstack/react-virtual 3.10.9, @tanstack/svelte-table 8.21.3, @tanstack/table-core 8.21.3, @tanstack/virtual-core 3.10.9, @types/debug 4.1.13, @types/hammerjs 2.0.46, @types/hast 3.0.5, @types/mdast 4.0.4, @types/ms 2.1.0, @types/unist 3.0.3, ARG 5.0.2, axios 1.18.1, binary-extensions 2.3.0, browserify/resolve 1.22.12, call-bind-apply-helpers 1.0.2, cespare/xxhash v2.3.0, character-entities 2.0.2, Chart.js 4.5.1, chartjs-plugin-zoom 2.2.0, chokidar 3.6.0, clsx 2.1.1, codeberg.org/go-pdf/fpdf v0.12.0, comma-separated-tokens 2.0.3, cookie 1.1.1, danielgtaylor/huma v2.39.1, date-fns/date-fns 2.30.0, date-fns/date-fns 4.4.0, dayjs 1.11.19, debug-js/debug 4.4.3, decode-named-character-reference 1.3.0, dequal 2.0.3, devlop 1.1.0, dlv 1.1.3, dunder-proto 1.0.1, es-define-property 1.0.1, es-errors 1.3.0, es-object-atoms 1.1.2, es-set-tostringtag 2.1.0, fast-equals 6.0.2, fast-glob 3.3.3, fdir 6.5.0, fill-range 7.1.1, follow-redirects 1.16.0, form-data 4.0.6, fsevents 2.3.3, function-bind 1.1.2, get-intrinsic 1.3.0, get-proto 1.0.1, Go Testify v1.12.0, go-chi v5.3.1, go-zap exp/v0.3.0, go-zap v1.28.0, go.uber.org/multierr v1.11.0, gopd 1.2.0, has-symbols 1.1.0, has-tostringtag 1.0.2, hasown 2.0.4, hast-util-to-html 9.0.5, hast-util-whitespace 3.0.0, html-void-elements 3.0.0, https-proxy-agent 5.0.1, is-core-module 2.16.2, is-plain-obj 4.1.0, jiti 1.21.7, lilconfig 2.1.0, lilconfig 3.1.3, longest-streak 3.1.0, markdown-table 3.0.4, math-intrinsics 1.1.0, mdast-util-find-and-replace 3.0.2, mdast-util-from-markdown 2.0.3, mdast-util-gfm 3.1.0, mdast-util-gfm-autolink-literal 2.0.1, mdast-util-gfm-footnote 2.1.0, mdast-util-gfm-strikethrough 2.0.0, mdast-util-gfm-table 2.0.0, mdast-util-gfm-task-list-item 2.0.0, mdast-util-phrasing 4.1.0, mdast-util-to-hast 13.2.1, mdast-util-to-markdown 2.1.2, mdast-util-to-string 4.0.0, micromark 4.0.2, micromark-core-commonmark 2.0.3, micromark-extension-gfm 3.0.0, micromark-extension-gfm-autolink-literal 2.1.0, micromark-extension-gfm-footnote 2.1.0, micromark-extension-gfm-strikethrough 2.1.0, micromark-extension-gfm-table 2.1.1, micromark-extension-gfm-tagfilter 2.0.0, micromark-extension-gfm-task-list-item 2.1.0, micromark-factory-destination 2.0.1, micromark-factory-label 2.0.1, micromark-factory-space 2.0.1, micromark-factory-title 2.0.1, micromark-factory-whitespace 2.0.1, micromark-util-character 2.1.1, micromark-util-chunked 2.0.1, micromark-util-classify-character 2.0.1, micromark-util-combine-extensions 2.0.1, micromark-util-decode-numeric-character-reference 2.0.2, micromark-util-decode-string 2.0.1, micromark-util-encode 2.0.1, micromark-util-html-tag-name 2.0.1, micromark-util-normalize-identifier 2.0.1, micromark-util-resolve-all 2.0.1, micromark-util-sanitize-uri 2.0.1, micromark-util-subtokenize 2.1.0, micromark-util-symbol 2.0.1, micromark-util-types 2.0.2, micromatch 4.0.8, micromatch/braces 3.0.3, mini-svg-data-uri 1.4.4, monaco-editor 0.43.0, nanoid 3.3.17, natefinch/lumberjack v2.2.1, picomatch 2.3.2, picomatch 4.0.5, pirates 4.0.7, PostCSS 8.5.23, postcss-import 15.1.0, postcss-js 4.1.0, postcss-load-config 4.0.2, postcss-nested 6.2.0, postcss-selector-parser 6.1.4, property-information 7.2.0, proxy-from-env 2.1.0, React from Facebook 18.2.0, react-accessible-treeview 2.11.2, react-chartjs-2 5.3.1, react-dom 18.2.0, react-hook-form 7.75.0, react-merge-refs 3.0.2, react-pin-field 4.0.2, react-router-dom 7.18.2, reacttraining/react-router 7.18.2, rehype-parse 10.0.1, remark-gfm 4.0.1, remark-rehype 11.1.2, reusify 1.1.0, scheduler 0.23.2, set-cookie-parser 2.7.2, space-separated-tokens 2.0.2, stringify-entities 4.0.4, sucrase 3.35.1, tabbable 6.5.0, tailwindcss 3.4.0, tinyglobby 0.2.17, trim-lines 3.0.1, trough 2.2.0, unified 11.0.5, unist-util-is 6.0.1, unist-util-position 5.0.0, unist-util-stringify-position 4.0.0, unist-util-visit 5.1.0, unist-util-visit-parents 6.0.2, use-sync-external-store 1.6.0, vfile 6.0.3, vfile-message 4.0.3, yaml for Go v3.0.1, zod 4.3.6, zwitch 2.0.4)
 
 The MIT License
 ===============
