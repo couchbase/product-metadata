@@ -146,21 +146,21 @@ golang-jwt/jwt v4.5.2: https://github.com/golang-jwt/jwt : MIT License
 golang-jwt/jwt v5.3.0: https://github.com/golang-jwt/jwt : MIT License
 golang-mock v1.4.0: https://github.com/golang/mock : Apache License 2.0
 golang-snappy-go-dev v1.0.0: https://github.com/golang/snappy : BSD 3-clause "New" or "Revised" License
-golang.org/x/crypto v0.53.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
+golang.org/x/crypto v0.55.0: https://godoc.org/golang.org/x/crypto : BSD 3-clause "New" or "Revised" License
 golang.org/x/image 20190704-snapshot-cff245a6: https://pkg.go.dev/golang.org/x/image : BSD 3-clause "New" or "Revised" License
 golang.org/x/lint 20200130-snapshot-910be7a9: https://pkg.go.dev/golang.org/x/lint : BSD 3-clause "New" or "Revised" License
-golang.org/x/mod v0.37.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.46.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
-golang.org/x/term v0.44.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.38.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.47.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
+golang.org/x/term v0.45.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.7.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
-golang.org/x/tools v0.47.0: https://pkg.go.dev/golang.org/x/tools : BSD 3-clause "New" or "Revised" License
+golang.org/x/tools v0.48.0: https://pkg.go.dev/golang.org/x/tools : BSD 3-clause "New" or "Revised" License
 golang.org/x/xerrors 20231011-snapshot-104605ab : BSD 3-clause "New" or "Revised" License
 golang/appengine v1.6.8: http://google.golang.org/appengine : Apache License 2.0
 golang/glog v1.2.5: https://github.com/golang/glog : Apache License 2.0
-golang/net v0.56.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
+golang/net v0.57.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
 golang/oauth2 v0.34.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
-golang/sync v0.21.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
-golang/text v0.39.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
+golang/sync v0.22.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang/text v0.41.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
 gomega v1.33.1: https://github.com/onsi/gomega : MIT License
 gomodules/jsonpatch v2.4.0: https://github.com/gomodules/jsonpatch : Apache License 2.0
 Gonum numerical packages v0.16.0: https://www.gonum.org/ : BSD 3-clause "New" or "Revised" License
@@ -1263,7 +1263,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(antlr 20230305-snapshot-8188dc53, bodgit/plumbing v1.3.0, bodgit/sevenzip v1.6.1, bodgit/windows v1.0.1, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dsnet/compress 20230904-snapshot-39efe44a, dsnet/golib 20180515-snapshot-1ea16677, evanphx/json-patch v5.7.0, evanphx/json-patch v5.9.0, exp 20231006-snapshot-7918f672, fsnotify-fsnotify v1.7.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, glfw 20190408-snapshot-e6da0acd, glfw 20191125-snapshot-12ad95a8, Go programming language 1.26.6, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.53.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200130-snapshot-910be7a9, golang.org/x/mod v0.37.0, golang.org/x/sys v0.46.0, golang.org/x/term v0.44.0, golang.org/x/time v0.7.0, golang.org/x/tools v0.47.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/net v0.56.0, golang/oauth2 v0.34.0, golang/sync v0.21.0, golang/text v0.39.0, Gonum numerical packages v0.16.0, google/go-cmp v0.7.0, google/starlark-go 20230525-snapshot-a134d8f9, googleapis/gax-go v2.12.3, googleapis/google-api-go-client v0.171.0, Googleuuid v1.6.0, grpc-gateway v2.16.0, klauspost-compress v1.18.0, mergo v1.0.0, pierrec-lz4 v4.1.22, rogpeppe/go-internal v1.14.1, sigs.k8s.io/yaml v1.4.0, SSLMate/go-pkcs12 v0.4.0, starry-s/zip v0.2.3, ulikunitz/xz v0.5.15, wrapt 1.17.3, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
+(antlr 20230305-snapshot-8188dc53, bodgit/plumbing v1.3.0, bodgit/sevenzip v1.6.1, bodgit/windows v1.0.1, dmitri.shuralyov.com/gpu/mtl 20190408-snapshot-666a9877, dsnet/compress 20230904-snapshot-39efe44a, dsnet/golib 20180515-snapshot-1ea16677, evanphx/json-patch v5.7.0, evanphx/json-patch v5.9.0, exp 20231006-snapshot-7918f672, fsnotify-fsnotify v1.7.0, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b, glfw 20190408-snapshot-e6da0acd, glfw 20191125-snapshot-12ad95a8, Go programming language 1.26.6, Go support for Mobile devices 20190704-snapshot-d2bd2a29, Golang Protobuf 1.36.11, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/crypto v0.55.0, golang.org/x/image 20190704-snapshot-cff245a6, golang.org/x/lint 20200130-snapshot-910be7a9, golang.org/x/mod v0.38.0, golang.org/x/sys v0.47.0, golang.org/x/term v0.45.0, golang.org/x/time v0.7.0, golang.org/x/tools v0.48.0, golang.org/x/xerrors 20231011-snapshot-104605ab, golang/net v0.57.0, golang/oauth2 v0.34.0, golang/sync v0.22.0, golang/text v0.41.0, Gonum numerical packages v0.16.0, google/go-cmp v0.7.0, google/starlark-go 20230525-snapshot-a134d8f9, googleapis/gax-go v2.12.3, googleapis/google-api-go-client v0.171.0, Googleuuid v1.6.0, grpc-gateway v2.16.0, klauspost-compress v1.18.0, mergo v1.0.0, pierrec-lz4 v4.1.22, rogpeppe/go-internal v1.14.1, sigs.k8s.io/yaml v1.4.0, SSLMate/go-pkcs12 v0.4.0, starry-s/zip v0.2.3, ulikunitz/xz v0.5.15, wrapt 1.17.3, xgb 20160522-snapshot-27f12275, xhit/go-str2duration v2.1.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
