@@ -10,11 +10,13 @@ Notices Report Content
 Components: 
 
 annotated-types 0.8.0: https://github.com/annotated-types/annotated-types : MIT License
+anyio 4.15.0: https://pypi.org/project/anyio/ : 
 h11 0.16.0: https://github.com/njsmith/h11 : MIT License
 httpcore 1.0.9: https://github.com/encode/httpcore : BSD 3-clause "New" or "Revised" License
 httpx 0.28.1: https://www.python-httpx.org/ : BSD 3-clause "New" or "Revised" License
 idna 3.19: https://github.com/kjd/idna : BSD 3-clause "New" or "Revised" License
 pydantic 2.13.5: https://pydantic-docs.helpmanual.io/ : MIT License
+pydantic-core 2.46.5: https://github.com/pydantic/pydantic-core : MIT License
 python-certifi 2026.7.22: https://certifiio.readthedocs.io/en/latest/ : Mozilla Public License 2.0
 python-dotenv 1.2.3: http://github.com/theskumar/python-dotenv : BSD 3-clause "New" or "Revised" License
 python-typing-extensions 4.16.0 : Python Software Foundation License 2.0
@@ -57,7 +59,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 MIT License
-(annotated-types 0.8.0, h11 0.16.0, pydantic 2.13.5, typing-inspection 0.4.4)
+(annotated-types 0.8.0, h11 0.16.0, pydantic 2.13.5, pydantic-core 2.46.5, typing-inspection 0.4.4)
 
 The MIT License
 ===============
