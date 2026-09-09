@@ -66,6 +66,7 @@ golang.org/x/sys v0.48.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "Ne
 golang.org/x/term v0.46.0: https://go.googlesource.com/term : BSD 3-clause "New" or "Revised" License
 golang.org/x/time v0.16.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
 golang.org/x/tools v0.50.0: https://pkg.go.dev/golang.org/x/tools : BSD 3-clause "New" or "Revised" License
+golang/net v0.59.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
 golang/oauth2 v0.37.0: https://pkg.go.dev/golang.org/x/oauth2 : BSD 3-clause "New" or "Revised" License
 golang/sync v0.23.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
 golang/telemetry 20260908-snapshot-4bcc4b2e : BSD 3-clause "New" or "Revised" License
@@ -396,7 +397,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20260908-snapshot-85c1c220, fsnotify-fsnotify v1.9.0, github.com/dnephin/pflag v1.0.7, github.com/lufia/plan9stats 20260627-snapshot-477a6601, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.26.8, Golang Protobuf v1.36.12, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/mod v0.41.0, golang.org/x/sys v0.48.0, golang.org/x/term v0.46.0, golang.org/x/time v0.16.0, golang.org/x/tools v0.50.0, golang/oauth2 v0.37.0, golang/sync v0.23.0, golang/telemetry 20260908-snapshot-4bcc4b2e, golang/text v0.42.0, Gonum numerical packages v0.17.0, google/go-cmp v0.7.0, Googleuuid v1.6.0, gopsutil v4.26.8, gorilla/mux v1.8.1, klauspost-compress v1.19.1, mattn-go-colorable 0.1.13, mergo v1.0.2, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.14.1, samuel/go-metrics 20260131-snapshot-1193a855, tklauser/go-sysconf v0.4.0)
+(exp 20260908-snapshot-85c1c220, fsnotify-fsnotify v1.9.0, github.com/dnephin/pflag v1.0.7, github.com/lufia/plan9stats 20260627-snapshot-477a6601, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Go programming language 1.26.8, Golang Protobuf v1.36.12, Golang Protobuf v1.5.4, golang-snappy-go-dev v1.0.0, golang.org/x/mod v0.41.0, golang.org/x/sys v0.48.0, golang.org/x/term v0.46.0, golang.org/x/time v0.16.0, golang.org/x/tools v0.50.0, golang/net v0.59.0, golang/oauth2 v0.37.0, golang/sync v0.23.0, golang/telemetry 20260908-snapshot-4bcc4b2e, golang/text v0.42.0, Gonum numerical packages v0.17.0, google/go-cmp v0.7.0, Googleuuid v1.6.0, gopsutil v4.26.8, gorilla/mux v1.8.1, klauspost-compress v1.19.1, mattn-go-colorable 0.1.13, mergo v1.0.2, pbnjay/memory 20210728-snapshot-7b4eea64, quasilyte/go-ruleguard dsl/v0.3.23, rogpeppe/go-internal v1.14.1, samuel/go-metrics 20260131-snapshot-1193a855, tklauser/go-sysconf v0.4.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
