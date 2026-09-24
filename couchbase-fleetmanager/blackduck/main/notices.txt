@@ -76,6 +76,7 @@ combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT Lic
 comma-separated-tokens 2.0.3: https://github.com/wooorm/comma-separated-tokens#readme : MIT License
 Commander.js 4.1.1: https://github.com/tj/commander.js : MIT License
 cookie 1.1.1: https://github.com/jshttp/cookie : MIT License
+couchbase/gocbcore v10.9.4 : Apache License 2.0
 couchbase/goprotostellar 20260407-snapshot-d7af2515 : Apache License 2.0
 couchbase/tools-common auth/v2.1.0 : 
 couchbase/tools-common couchbase/v3.9.0 : 
@@ -133,22 +134,22 @@ go-zap exp/v0.3.0: https://godoc.org/go.uber.org/zap : MIT License
 go-zap v1.28.0: https://godoc.org/go.uber.org/zap : MIT License
 go.uber.org/multierr v1.11.0: https://github.com/uber-go/multierr : MIT License
 go.yaml.in/yaml/v2 v3.0.5: https://github.com/yaml/go-yaml : Apache License 2.0
-gocb v2.12.4: https://docs.couchbase.com/go-sdk/current/hello-world/start-using-sdk.html : Apache License 2.0
+gocb v2.12.5: https://docs.couchbase.com/go-sdk/current/hello-world/start-using-sdk.html : Apache License 2.0
 godebug v1.1.0: https://github.com/kylelemons/godebug : Apache License 2.0
-Golang Protobuf 1.36.11: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
+Golang Protobuf v1.36.12: https://github.com/golang/protobuf : BSD 3-clause "New" or "Revised" License
 golang-github-spf13-pflag-dev v1.0.10: https://github.com/spf13/pflag : BSD 3-clause "New" or "Revised" License
 golang-snappy-go-dev v1.0.0: https://github.com/golang/snappy : BSD 3-clause "New" or "Revised" License
-golang.org/x/mod v0.38.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
-golang.org/x/sys v0.47.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
-golang.org/x/time v0.15.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
-golang/net v0.58.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
-golang/sync v0.22.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
-golang/text v0.41.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
+golang.org/x/mod v0.41.0: https://go.googlesource.com/mod : BSD 3-clause "New" or "Revised" License
+golang.org/x/sys v0.48.0: https://pkg.go.dev/golang.org/x/sys : BSD 3-clause "New" or "Revised" License
+golang.org/x/time v0.16.0: https://pkg.go.dev/golang.org/x/time : BSD 3-clause "New" or "Revised" License
+golang/net v0.59.0: https://github.com/golang/net : BSD 3-clause "New" or "Revised" License
+golang/sync v0.23.0: https://pkg.go.dev/golang.org/x/sync : BSD 3-clause "New" or "Revised" License
+golang/text v0.42.0: https://github.com/golang/text : BSD 3-clause "New" or "Revised" License
 googleapis/go-genproto 20260803-snapshot-6ac0973c: https://godoc.org/google.golang.org/genproto : Apache License 2.0
 Googleuuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
 gopd 1.2.0: https://github.com/ljharb/gopd#readme : MIT License
 gorilla/websocket v1.5.3: https://github.com/gorilla/websocket : BSD 2-clause "Simplified" License
-grpc-go v1.83.1: https://github.com/grpc/grpc-go : Apache License 2.0
+grpc-go v1.83.2: https://github.com/grpc/grpc-go : Apache License 2.0
 hammer.js 2.0.8: http://eightmedia.github.io/hammer.js/ : MIT License
 has-symbols 1.1.0: https://github.com/ljharb/has-symbols#readme : MIT License
 has-tostringtag 1.0.2: https://github.com/inspect-js/has-tostringtag#readme : MIT License
@@ -245,8 +246,8 @@ postcss-load-config 4.0.2: https://github.com/michael-ciniawsky/postcss-load-con
 postcss-nested 6.2.0: https://github.com/postcss/postcss-nested : MIT License
 postcss-selector-parser 6.1.4: https://github.com/postcss/postcss-selector-parser : MIT License
 postcss-value-parser 4.2.0: https://github.com/TrySound/postcss-value-parser : MIT License
-prometheus-client_model v0.6.2: https://github.com/prometheus/client_model : Apache License 2.0
-prometheus-common v0.70.1: https://github.com/prometheus/common : Apache License 2.0
+prometheus-client_model v0.6.3: https://github.com/prometheus/client_model : Apache License 2.0
+prometheus-common v0.71.0: https://github.com/prometheus/common : Apache License 2.0
 prometheus-procfs v0.21.1: https://github.com/prometheus/procfs.git : Apache License 2.0
 property-information 7.2.0: https://github.com/wooorm/property-information#readme : MIT License
 proxy-from-env 2.1.0: https://github.com/Rob--W/proxy-from-env#readme : MIT License
@@ -306,7 +307,7 @@ zwitch 2.0.4: https://github.com/wooorm/zwitch#readme : MIT License
 Licenses: 
 
 Apache License 2.0
-(class-variance-authority 0.7.1, client_golang v1.24.1, couchbase/goprotostellar 20260407-snapshot-d7af2515, couchbaselabs/gocbconnstr v2.0.0, didyoumean.js 1.2.2, DOMPurify 3.4.12, github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8, go-logr/logr v1.4.4, go-logr/stdr v1.2.2, go.yaml.in/yaml/v2 v3.0.5, gocb v2.12.4, godebug v1.1.0, googleapis/go-genproto 20260803-snapshot-6ac0973c, grpc-go v1.83.1, inconshreveable/mousetrap v1.1.0, open-telemetry/opentelemetry-go metric/v1.45.0, open-telemetry/opentelemetry-go trace/v1.45.0, open-telemetry/opentelemetry-go v1.45.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.70.0, open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1, prometheus-client_model v0.6.2, prometheus-common v0.70.1, prometheus-procfs v0.21.1, spf13-cobra 1.10.2, ts-interface-checker 0.1.13)
+(class-variance-authority 0.7.1, client_golang v1.24.1, couchbase/gocbcore v10.9.4, couchbase/goprotostellar 20260407-snapshot-d7af2515, couchbaselabs/gocbconnstr v2.0.0, didyoumean.js 1.2.2, DOMPurify 3.4.12, github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8, go-logr/logr v1.4.4, go-logr/stdr v1.2.2, go.yaml.in/yaml/v2 v3.0.5, gocb v2.12.5, godebug v1.1.0, googleapis/go-genproto 20260803-snapshot-6ac0973c, grpc-go v1.83.2, inconshreveable/mousetrap v1.1.0, open-telemetry/opentelemetry-go metric/v1.45.0, open-telemetry/opentelemetry-go trace/v1.45.0, open-telemetry/opentelemetry-go v1.45.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.70.0, open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1, prometheus-client_model v0.6.3, prometheus-common v0.71.0, prometheus-procfs v0.21.1, spf13-cobra 1.10.2, ts-interface-checker 0.1.13)
 
 Apache License
 Version 2.0, January 2004
@@ -522,7 +523,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(exp 20260718-snapshot-b88d891f, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Golang Protobuf 1.36.11, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/mod v0.38.0, golang.org/x/sys v0.47.0, golang.org/x/time v0.15.0, golang/net v0.58.0, golang/sync v0.22.0, golang/text v0.41.0, Googleuuid v1.6.0, source-map-js 1.2.1)
+(exp 20260718-snapshot-b88d891f, github.com/munnerz/goautoneg 20191010-snapshot-a7dc8b61, Golang Protobuf v1.36.12, golang-github-spf13-pflag-dev v1.0.10, golang-snappy-go-dev v1.0.0, golang.org/x/mod v0.41.0, golang.org/x/sys v0.48.0, golang.org/x/time v0.16.0, golang/net v0.59.0, golang/sync v0.23.0, golang/text v0.42.0, Googleuuid v1.6.0, source-map-js 1.2.1)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
