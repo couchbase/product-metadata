@@ -232,6 +232,7 @@ AWS Event Stream 1.0.1 : Apache License 2.0
 AWS Glue Schema Registry AVRO Serializer Deserializer 1.1.27 : Apache License 2.0
 AWS Glue Schema Registry Build Tools 1.1.27 : Apache License 2.0
 AWS Glue Schema Registry common 1.1.27 : Apache License 2.0
+AWS Java SDK :: Core :: Protocols :: Json Utils 2.55.3 : 
 AWS Java SDK :: Third Party :: Jackson-core 2.55.3 : Apache License 2.0
 AWS SDK for Go v1.50.36: http://aws.amazon.com/sdk-for-go/ : Apache License 2.0
 AWS SDK for Go v1.55.5: http://aws.amazon.com/sdk-for-go/ : Apache License 2.0
@@ -1223,8 +1224,8 @@ grpc-google-cloud-storage-v2 2.73.0 : Apache License 2.0
 grpc-java 1.84.0: https://github.com/grpc/grpc-java : Apache License 2.0
 gsl-lite/gsl-lite v0.38.1: http://github.com/martinmoene/gsl-lite/ : MIT License
 GSON extensions to the Google HTTP Client Library for Java. 2.2.0: http://code.google.com/p/google-http-java-client/google-http-client-gson/ : Apache License 2.0
-Guava InternalFutureFailureAccess and InternalFutures 1.0.2 : Apache License 2.0
-Guava InternalFutureFailureAccess and InternalFutures 1.0.3 : Apache License 2.0
+Guava InternalFutureFailureAccess and InternalFutures 1.0.2: https://github.com/google/guava/failureaccess : Apache License 2.0
+Guava InternalFutureFailureAccess and InternalFutures 1.0.3: https://github.com/google/guava/failureaccess : Apache License 2.0
 Guava ListenableFuture only 9999.0-empty-to-avoid-conflict-with-guava: https://mvnrepository.com/artifact/com.google.guava/listenablefuture : Apache License 2.0
 hadoop-mapreduce-client-core 3.5.0 : Apache License 2.0
 hailocab-go-hostpool 20160125-snapshot-e80d13ce: https://github.com/hailocab/go-hostpool : MIT License
@@ -1282,11 +1283,11 @@ io.grpc:grpc-context 1.84.0 : Apache License 2.0
 io.grpc:grpc-googleapis 1.84.0 : Apache License 2.0
 io.grpc:grpc-grpclb 1.84.0 : Apache License 2.0
 io.grpc:grpc-inprocess 1.84.0 : Apache License 2.0
-io.grpc:grpc-netty 1.84.0 : Apache License 2.0
+io.grpc:grpc-netty 1.84.0: http://repo.maven.apache.org/maven2/io/grpc/grpc-netty : Apache License 2.0
 io.grpc:grpc-protobuf-lite 1.84.0 : Apache License 2.0
 io.grpc:grpc-rls 1.84.0 : Apache License 2.0
 io.grpc:grpc-services 1.84.0 : Apache License 2.0
-io.grpc:grpc-stub 1.84.0 : Apache License 2.0
+io.grpc:grpc-stub 1.84.0: http://repo.maven.apache.org/maven2/io/grpc/grpc-stub : Apache License 2.0
 io.grpc:grpc-util 1.84.0 : Apache License 2.0
 io.grpc:grpc-xds 1.84.0 : Apache License 2.0
 io.swagger:swagger-annotations 2.2.29 : Apache License 2.0
@@ -1544,8 +1545,8 @@ Netty/TomcatNative [OpenSSL - Classes] 2.0.84.Final : Apache License 2.0
 Netty/Transport/Classes/Epoll 4.1.138.Final : Apache License 2.0
 Netty/Transport/Classes/Epoll 4.2.18.Final : Apache License 2.0
 Netty/Transport/Classes/KQueue 4.2.18.Final : Apache License 2.0
-Netty/Transport/Native/Unix/Common 4.1.138.Final : Apache License 2.0
-Netty/Transport/Native/Unix/Common 4.2.18.Final : Apache License 2.0
+Netty/Transport/Native/Unix/Common 4.1.138.Final: http://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common : Apache License 2.0
+Netty/Transport/Native/Unix/Common 4.2.18.Final: http://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common : Apache License 2.0
 ngx-clipboard 12.3.1: https://github.com/maxisam/ngx-clipboard : MIT License
 ngx-window-token 2.0.1: https://github.com/maxisam/ngx-window-token : MIT License
 niemeyer/pretty 20200227-snapshot-a10e7cae: https://github.com/niemeyer/pretty : MIT License
@@ -1870,7 +1871,7 @@ to-readable-stream 2.1.0: https://github.com/sindresorhus/to-readable-stream#rea
 to-regex-range 5.0.1: https://github.com/jonschlinkert/to-regex-range : MIT License
 tpcds 1.2: https://github.td.teradata.com/center-for-hadoop/tpcds : Apache License 2.0
 twmb/murmur3 v1.1.3: https://github.com/twmb/murmur3 : (BSD 3-clause "New" or "Revised" License AND Bzip2 License)
-TXW2 Runtime 2.3.9 : Eclipse Distribution License - v 1.0
+TXW2 Runtime 2.3.9: https://mvnrepository.com/artifact/org.glassfish.jaxb/txw2 : Eclipse Distribution License - v 1.0
 type-check 0.4.0: https://github.com/gkz/type-check : MIT License
 type-fest 0.10.0: https://github.com/sindresorhus/type-fest#readme : (MIT License OR Creative Commons Zero v1.0 Universal)
 type-fest 0.20.2: https://github.com/sindresorhus/type-fest#readme : (MIT License OR Creative Commons Zero v1.0 Universal)
