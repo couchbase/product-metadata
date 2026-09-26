@@ -14,12 +14,12 @@ dnsjava 3.6.0: http://www.dnsjava.org/ : BSD 3-clause "New" or "Revised" License
 googlegson 2.13.1: https://github.com/google/gson : Apache License 2.0
 googleguava 33.4.0-jre: https://github.com/google/guava : Apache License 2.0
 grpc-java 1.69.0: https://github.com/grpc/grpc-java : Apache License 2.0
-Guava InternalFutureFailureAccess and InternalFutures 1.0.2 : Apache License 2.0
+Guava InternalFutureFailureAccess and InternalFutures 1.0.2: https://github.com/google/guava/failureaccess : Apache License 2.0
 HdrHistogram 2.2.2: https://github.com/HdrHistogram/HdrHistogram : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
-io.grpc:grpc-context 1.69.0 : Apache License 2.0
-io.grpc:grpc-netty 1.69.0 : Apache License 2.0
-io.grpc:grpc-protobuf-lite 1.69.0 : Apache License 2.0
-io.grpc:grpc-stub 1.69.0 : Apache License 2.0
+io.grpc:grpc-context 1.69.0: http://repo.maven.apache.org/maven2/io/grpc/grpc-context : Apache License 2.0
+io.grpc:grpc-netty 1.69.0: http://repo.maven.apache.org/maven2/io/grpc/grpc-netty : Apache License 2.0
+io.grpc:grpc-protobuf-lite 1.69.0: https://mvnrepository.com/artifact/io.grpc/grpc-protobuf-lite : Apache License 2.0
+io.grpc:grpc-stub 1.69.0: http://repo.maven.apache.org/maven2/io/grpc/grpc-stub : Apache License 2.0
 io.grpc:grpc-util 1.69.0 : Apache License 2.0
 jackson-annotations 2.21: https://github.com/FasterXML/jackson-annotations : Apache License 2.0
 jackson-core 2.21.5: https://github.com/FasterXML/jackson-core : Apache License 2.0
@@ -34,9 +34,9 @@ Netty/Codec/Compression 4.2.16.Final : Apache License 2.0
 Netty/TomcatNative [OpenSSL - Classes] 2.0.78.Final : Apache License 2.0
 Netty/Transport/Classes/Epoll 4.2.16.Final : Apache License 2.0
 Netty/Transport/Classes/KQueue 4.2.16.Final : Apache License 2.0
-Netty/Transport/Native/Unix/Common 4.2.16.Final : Apache License 2.0
+Netty/Transport/Native/Unix/Common 4.2.16.Final: http://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common : Apache License 2.0
 perfmark:perfmark-api 0.27.0 : Apache License 2.0
-Proto Google Common Protos 2.48.0 : Apache License 2.0
+Proto Google Common Protos 2.48.0: https://github.com/googleapis/java-iam/proto-google-common-protos : Apache License 2.0
 protobuf-java 4.29.2: http://code.google.com/p/protobuf : BSD 3-clause "New" or "Revised" License
 reactive-streams-jvm 1.0.4: http://www.reactive-streams.org/ : MIT No Attribution
 reactor-core 3.6.9: https://github.com/reactor/reactor-core : Apache License 2.0
