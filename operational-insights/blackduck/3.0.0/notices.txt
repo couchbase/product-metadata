@@ -1220,7 +1220,7 @@ Googleuuid v1.4.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revis
 Googleuuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
 gophercloud/gophercloud v2.7.0: https://github.com/gophercloud/gophercloud : Apache License 2.0
 gopherjs 20181205-snapshot-0766667c: https://github.com/gopherjs/gopherjs : BSD 2-clause "Simplified" License
-gopkg.in/v1/fsnotify v1.4.7: https://github.com/go-fsnotify/fsnotify : BSD 3-clause "New" or "Revised" License
+gopkg.in/v1/fsnotify v1.4.7: https://fsnotify.org/ : BSD 3-clause "New" or "Revised" License
 gopsutil v3.24.5: https://github.com/shirou/gopsutil : BSD 3-clause "New" or "Revised" License
 gorilla/mux v1.8.1: https://github.com/gorilla/mux : BSD 3-clause "New" or "Revised" License
 gorilla/websocket 20250226-snapshot-e064f32e: https://github.com/gorilla/websocket : BSD 2-clause "Simplified" License
@@ -1348,7 +1348,8 @@ jackson-modules-java8 2.22.3: https://github.com/FasterXML/jackson-modules-java8
 Jakarta Activation 1.2.2: https://eclipse-ee4j.github.io/jaf/ : BSD 3-clause "New" or "Revised" License
 Jakarta Activation API 1.2.1: https://eclipse-ee4j.github.io/jaf/ : BSD 3-clause "New" or "Revised" License
 Jakarta Annotations API 1.3.5 : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
-jakarta.xml.bind:jakarta.xml.bind-api 4.0.2: https://github.com/jakartaee/jaxb-api : Eclipse Distribution License - v 1.0
+Jakarta Inject 2.6.1 : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
+Jakarta XML Binding API 4.0.2: https://github.com/jakartaee/jaxb-api : Eclipse Distribution License - v 1.0
 jakartaee/rest 2.1.6: https://github.com/jakartaee/rest : Eclipse Public License 2.0
 jakartaeevalidation 2.0.1: http://beanvalidation.org : Apache License 2.0
 jakartaeevalidation 2.0.2: http://beanvalidation.org : Apache License 2.0
@@ -1358,7 +1359,6 @@ Java Native Access (JNA) 5.17.0: https://github.com/twall/jna : (GNU Lesser Gene
 javapoet 0.7.0 : Apache License 2.0
 JavaServer Pages(TM) API 2.3.6 : (GNU General Public License v2.0 w/Classpath exception OR Apache License 2.0 OR Eclipse Public License 2.0)
 Javassist 3.30.2: http://jboss-javassist.github.io/javassist/ : (Mozilla Public License 1.1 OR GNU Lesser General Public License v2.1 only OR Apache License 2.0)
-javax.inject:1 as OSGi bundle 2.6.1 : (GNU General Public License v2.0 w/Classpath exception OR Eclipse Public License 2.0)
 JAXB isorelax library 20090621: http://iso-relax.sourceforge.net : MIT License
 JAXB Runtime 2.3.9 : Eclipse Distribution License - v 1.0
 jbcrypt 0.4: http://www.mindrot.org/projects/jBCrypt : ISC License
@@ -5186,7 +5186,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 Eclipse Distribution License - v 1.0
-(istack common utility code runtime 3.0.12, jakarta.xml.bind:jakarta.xml.bind-api 4.0.2, JAXB Runtime 2.3.9, Jersey 2.46, Jersey Inject HK2 2.46, jersey-container-servlet 2.46, jersey-container-servlet-core 2.46, jersey-core-server 2.46, org.locationtech.jts:jts-core 1.20.0, TXW2 Runtime 2.3.9)
+(istack common utility code runtime 3.0.12, Jakarta XML Binding API 4.0.2, JAXB Runtime 2.3.9, Jersey 2.46, Jersey Inject HK2 2.46, jersey-container-servlet 2.46, jersey-container-servlet-core 2.46, jersey-core-server 2.46, org.locationtech.jts:jts-core 1.20.0, TXW2 Runtime 2.3.9)
 
 Eclipse Distribution License - v 1.0
 ====================================
@@ -5223,7 +5223,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 Eclipse Public License 2.0
-(Aopalliance Version 1.0 Repackaged As A Module 2.6.1, HK2 API module 2.6.1, HK2 Implementation Utilities 2.6.1, Jakarta Annotations API 1.3.5, jakartaee/rest 2.1.6, JavaServer Pages(TM) API 2.3.6, javax.inject:1 as OSGi bundle 2.6.1, Jersey 2.46, Jersey Inject HK2 2.46, jersey-container-servlet 2.46, jersey-container-servlet-core 2.46, jersey-core-server 2.46, Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server 12.1.13, jnr-posix 3.2.2, org.locationtech.jts:jts-core 1.20.0, OSGi resource locator bundle 1.0.3, ServiceLocator Default Implementation 2.6.1)
+(Aopalliance Version 1.0 Repackaged As A Module 2.6.1, HK2 API module 2.6.1, HK2 Implementation Utilities 2.6.1, Jakarta Annotations API 1.3.5, Jakarta Inject 2.6.1, jakartaee/rest 2.1.6, JavaServer Pages(TM) API 2.3.6, Jersey 2.46, Jersey Inject HK2 2.46, jersey-container-servlet 2.46, jersey-container-servlet-core 2.46, jersey-core-server 2.46, Jetty: Java based HTTP/1.x, HTTP/2, Servlet, WebSocket Server 12.1.13, jnr-posix 3.2.2, org.locationtech.jts:jts-core 1.20.0, OSGi resource locator bundle 1.0.3, ServiceLocator Default Implementation 2.6.1)
 
 Eclipse Public License - v 2.0
 ==============================
@@ -6011,7 +6011,7 @@ of this License.
 ---
 
 GNU General Public License v2.0 w/Classpath exception
-(Aopalliance Version 1.0 Repackaged As A Module 2.6.1, HK2 API module 2.6.1, HK2 Implementation Utilities 2.6.1, Jakarta Annotations API 1.3.5, JavaServer Pages(TM) API 2.3.6, javax.inject:1 as OSGi bundle 2.6.1, Jersey 2.46, Jersey Inject HK2 2.46, jersey-container-servlet 2.46, jersey-container-servlet-core 2.46, jersey-core-server 2.46, OSGi resource locator bundle 1.0.3, ServiceLocator Default Implementation 2.6.1)
+(Aopalliance Version 1.0 Repackaged As A Module 2.6.1, HK2 API module 2.6.1, HK2 Implementation Utilities 2.6.1, Jakarta Annotations API 1.3.5, Jakarta Inject 2.6.1, JavaServer Pages(TM) API 2.3.6, Jersey 2.46, Jersey Inject HK2 2.46, jersey-container-servlet 2.46, jersey-container-servlet-core 2.46, jersey-core-server 2.46, OSGi resource locator bundle 1.0.3, ServiceLocator Default Implementation 2.6.1)
 
 GNU Classpath License
 =====================
