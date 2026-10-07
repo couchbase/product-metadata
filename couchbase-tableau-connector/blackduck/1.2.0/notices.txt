@@ -10,7 +10,7 @@ Notices Report Content
 Components: 
 
 asterix-jdbc-core 0.9.8.5 : Apache License 2.0
-Bouncy Castle 1.84: http://www.bouncycastle.org : MIT License
+Bouncy Castle 1.84.0: http://www.bouncycastle.org : MIT License
 Bouncy Castle ASN.1 Extension and Utility APIs 1.84 : MIT License
 Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.84: http://www.bouncycastle.org/java.html : MIT License
 Couchbase Java SDK 3.12.0 : Apache License 2.0
@@ -18,7 +18,7 @@ Couchbase JVM Core IO 3.12.0: http://couchbase.com : Apache License 2.0
 dnsjava 3.6.0: http://www.dnsjava.org/ : BSD 3-clause "New" or "Revised" License
 googlegson 2.13.1: https://github.com/google/gson : Apache License 2.0
 googleguava 33.4.0-jre: https://github.com/google/guava : Apache License 2.0
-Guava InternalFutureFailureAccess and InternalFutures 1.0.2 : Apache License 2.0
+Guava InternalFutureFailureAccess and InternalFutures 1.0.2: https://github.com/google/guava/failureaccess : Apache License 2.0
 HdrHistogram 2.2.2: https://github.com/HdrHistogram/HdrHistogram : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal OR Public Domain)
 jackson-annotations 2.21: https://github.com/FasterXML/jackson-annotations : Apache License 2.0
 jackson-core 2.21.4: https://github.com/FasterXML/jackson-core : Apache License 2.0
@@ -33,8 +33,8 @@ Netty/Codec/Compression 4.2.14.Final : Apache License 2.0
 Netty/TomcatNative [OpenSSL - Classes] 2.0.77.Final : Apache License 2.0
 Netty/Transport/Classes/Epoll 4.2.14.Final : Apache License 2.0
 Netty/Transport/Classes/KQueue 4.2.14.Final : Apache License 2.0
-Netty/Transport/Native/Unix/Common 4.2.14.Final : Apache License 2.0
-Proto Google Common Protos 2.48.0 : Apache License 2.0
+Netty/Transport/Native/Unix/Common 4.2.14.Final: http://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common : Apache License 2.0
+Proto Google Common Protos 2.48.0: https://github.com/googleapis/java-iam/proto-google-common-protos : Apache License 2.0
 reactive-streams-jvm 1.0.4: http://www.reactive-streams.org/ : MIT No Attribution
 reactor-core 3.6.9: https://github.com/reactor/reactor-core : Apache License 2.0
 SLF4J API Module 1.7.32: http://www.slf4j.org : MIT License
@@ -480,7 +480,7 @@ case Affirmer hereby affirms that he or she will not
 ---
 
 MIT License
-(Bouncy Castle 1.84, Bouncy Castle ASN.1 Extension and Utility APIs 1.84, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.84, SLF4J API Module 1.7.32)
+(Bouncy Castle 1.84.0, Bouncy Castle ASN.1 Extension and Utility APIs 1.84, Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.84, SLF4J API Module 1.7.32)
 
 The MIT License
 ===============
