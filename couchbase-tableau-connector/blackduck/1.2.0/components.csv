@@ -1,7 +1,7 @@
 ,Component name,Component version name,Match type,License names,License families,Review Status,Component id,Version id,License ids
-0,Bouncy Castle,1.84.0,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,907300e1-d66e-45ef-b77d-a790ed30b4e1,f8dc9c0e-4a78-4c10-a10f-fdda6d6a673f,ad705c59-6893-4980-bdbf-0837f1823cc4
-1,Bouncy Castle ASN.1 Extension and Utility APIs,1.84,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,596ef865-7f23-4ba8-b202-e1f5261d035c,fafd1e98-8250-4351-9e64-ab99453ceb84,ad705c59-6893-4980-bdbf-0837f1823cc4
-2,"Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs",1.84,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cfa19008-29dd-4e1d-b4e3-a7a1ad9855a2,5a7242e1-fe73-42bc-8235-25578a899d12,ad705c59-6893-4980-bdbf-0837f1823cc4
+0,Bouncy Castle,1.86,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,907300e1-d66e-45ef-b77d-a790ed30b4e1,a3c4fc8a-5cde-478c-8416-4c2e80a84086,ad705c59-6893-4980-bdbf-0837f1823cc4
+1,Bouncy Castle ASN.1 Extension and Utility APIs,1.86,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,596ef865-7f23-4ba8-b202-e1f5261d035c,ec24196f-afa5-4770-beaf-d722410d7afa,ad705c59-6893-4980-bdbf-0837f1823cc4
+2,"Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs",1.86,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,cfa19008-29dd-4e1d-b4e3-a7a1ad9855a2,23062d9d-1914-49c7-ac89-c498e4d11f9f,ad705c59-6893-4980-bdbf-0837f1823cc4
 3,Couchbase JVM Core IO,3.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,72ed568b-e849-4f92-a4d1-df220cb2a423,faf7f99a-ecc5-41b2-b1b1-f23e474dd620,7cae335f-1193-421e-92f1-8802b4243e93
 4,Couchbase Java SDK,3.12.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,24d30cc9-59fe-47e8-9672-b5b99f76eaec,31672ae1-c2ee-4f88-b5c2-ee98dfa0d48e,7cae335f-1193-421e-92f1-8802b4243e93
 5,Guava InternalFutureFailureAccess and InternalFutures,1.0.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,71ba0e56-32eb-4c4e-9cdc-c68e4b809911,34a8d904-337a-44f2-b6cd-a873f320dc14,7cae335f-1193-421e-92f1-8802b4243e93
@@ -25,7 +25,9 @@
 23,googleguava,33.4.0-jre,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2f0a32a0-f5c6-45d7-858c-b8a5d922633d,27f4c71c-4174-4154-a76c-87ba4a7e4b63,7cae335f-1193-421e-92f1-8802b4243e93
 24,jackson-annotations,2.21,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,3fe8426d-3814-4d68-b9f0-e24ff4e3a0be,7cae335f-1193-421e-92f1-8802b4243e93
 25,jackson-core,2.21.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,2d62bef3-9d0c-44cd-ab20-90ce2e1759a5,7cae335f-1193-421e-92f1-8802b4243e93
-26,jackson-databind,2.21.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,37926504-8a57-4ffc-a1c7-6fe59b296a6f,7cae335f-1193-421e-92f1-8802b4243e93
-27,reactive-streams-jvm,1.0.4,Direct Dependency,MIT No Attribution,PERMISSIVE,NOT_REVIEWED,f00e23b5-eb1d-4939-93bb-4cbf7dedffb0,07e06202-b19b-4688-aa7c-275395b70a19,3f2f93af-991e-4604-b57c-a2fef0f8781e
-28,reactor-core,3.6.9,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,95cc981c-4f06-407a-8d30-0c4650894332,7cae335f-1193-421e-92f1-8802b4243e93
-29,snappy,0.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eb1c6940-3f50-4689-bbe8-ffaa17459a52,a9a020c8-35dd-4e4f-a5ac-765d742d533f,7cae335f-1193-421e-92f1-8802b4243e93
+26,jackson-core,2.21.7,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,71c4d4da-4f6c-48c6-94ca-a7cea1c52467,7cae335f-1193-421e-92f1-8802b4243e93
+27,jackson-databind,2.21.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,37926504-8a57-4ffc-a1c7-6fe59b296a6f,7cae335f-1193-421e-92f1-8802b4243e93
+28,jackson-databind,2.21.7,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,d4e8b73d-f5ec-4da0-8bf6-dffe2e70e967,7cae335f-1193-421e-92f1-8802b4243e93
+29,reactive-streams-jvm,1.0.4,Direct Dependency,MIT No Attribution,PERMISSIVE,NOT_REVIEWED,f00e23b5-eb1d-4939-93bb-4cbf7dedffb0,07e06202-b19b-4688-aa7c-275395b70a19,3f2f93af-991e-4604-b57c-a2fef0f8781e
+30,reactor-core,3.6.9,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,95cc981c-4f06-407a-8d30-0c4650894332,7cae335f-1193-421e-92f1-8802b4243e93
+31,snappy,0.5,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,eb1c6940-3f50-4689-bbe8-ffaa17459a52,a9a020c8-35dd-4e4f-a5ac-765d742d533f,7cae335f-1193-421e-92f1-8802b4243e93
