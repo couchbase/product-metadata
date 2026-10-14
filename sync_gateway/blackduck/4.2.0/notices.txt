@@ -103,6 +103,7 @@ open-telemetry/opentelemetry-go v1.44.0: https://github.com/open-telemetry/opent
 open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.69.0: https://pkg.go.dev/go.opentelemetry.io/contrib : Apache License 2.0
 open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1: https://github.com/open-telemetry/opentelemetry-go-instrumentation : Apache License 2.0
 pbnjay/memory 20210728-snapshot-7b4eea64: https://github.com/pbnjay/memory : BSD 3-clause "New" or "Revised" License
+petermattis/goid 20250813-snapshot-a731cc31: https://github.com/petermattis/goid : Apache License 2.0
 pkg/errors v0.9.1: https://github.com/pkg/errors : BSD 2-clause "Simplified" License
 prometheus-client_model v0.6.3: https://github.com/prometheus/client_model : Apache License 2.0
 prometheus-common v0.71.0: https://github.com/prometheus/common : Apache License 2.0
@@ -111,6 +112,7 @@ quasilyte/go-ruleguard dsl/v0.3.23 : BSD 3-clause "New" or "Revised" License
 robertkrimen/otto 20211024-snapshot-b87d35c0: https://github.com/robertkrimen/otto : MIT License
 rogpeppe/go-internal v1.14.1: http://github.com/rogpeppe/go-internal/ : BSD 3-clause "New" or "Revised" License
 samuel/go-metrics 20260131-snapshot-1193a855: https://github.com/samuel/go-metrics : BSD 3-clause "New" or "Revised" License
+sasha-s/go-deadlock v0.3.9: https://github.com/sasha-s/go-deadlock : Apache License 2.0
 sergi/go-diff v1.4.0: https://github.com/sergi/go-diff : MIT License
 stretchr/objx v0.5.3: https://github.com/stretchr/objx : MIT License
 tklauser/go-sysconf v0.4.0: https://github.com/tklauser/go-sysconf : BSD 3-clause "New" or "Revised" License
@@ -121,7 +123,7 @@ youmark/pkcs8 20240726-snapshot-a2c0da24 : MIT License
 Licenses: 
 
 Apache License 2.0
-(client_golang v1.24.1, coreos-go-oidc v3.21.0, couchbase-blance v0.1.6, couchbase-cbauth 20260807-snapshot-eda1f2ed, couchbase-cbgt 20260924-snapshot-0c7e969a, couchbase-goutils v0.3.0, couchbase/goprotostellar 20260407-snapshot-d7af2515, couchbaselabs/gocaves 20250107-snapshot-f9647922, couchbaselabs/gocbconnstr v2.0.0, ebitengine/purego v0.11.1, FlatBuffers 24.3.25, github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8, go-jose v4.1.5, go-logr/logr v1.4.3, go-logr/stdr v1.2.2, go.yaml.in/yaml/v2 v2.4.4, go.yaml.in/yaml/v2 v3.0.5, gocb v2.12.4, godebug v1.1.0, google-shlex 20191202-snapshot-e7afc7fb, google/addlicense v1.2.0, google/pprof 20260709-snapshot-b9395ee1, googleapis/go-genproto 20260727-snapshot-6c54dddc, gotest.tools v3.5.2, gotestyourself/gotestsum 1.13.0, grpc-go v1.83.2, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, open-telemetry/opentelemetry-go metric/v1.44.0, open-telemetry/opentelemetry-go sdk/metric/v1.44.0, open-telemetry/opentelemetry-go sdk/v1.44.0, open-telemetry/opentelemetry-go trace/v1.44.0, open-telemetry/opentelemetry-go v1.44.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.69.0, open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1, prometheus-client_model v0.6.3, prometheus-common v0.71.0, prometheus-procfs v0.21.1, tklauser/numcpus v0.12.0, wheelcomplex/gosigar v0.14.4)
+(client_golang v1.24.1, coreos-go-oidc v3.21.0, couchbase-blance v0.1.6, couchbase-cbauth 20260807-snapshot-eda1f2ed, couchbase-cbgt 20260924-snapshot-0c7e969a, couchbase-goutils v0.3.0, couchbase/goprotostellar 20260407-snapshot-d7af2515, couchbaselabs/gocaves 20250107-snapshot-f9647922, couchbaselabs/gocbconnstr v2.0.0, ebitengine/purego v0.11.1, FlatBuffers 24.3.25, github.com/couchbase/gocbcoreps 20260107-snapshot-1c3a03f8, go-jose v4.1.5, go-logr/logr v1.4.3, go-logr/stdr v1.2.2, go.yaml.in/yaml/v2 v2.4.4, go.yaml.in/yaml/v2 v3.0.5, gocb v2.12.4, godebug v1.1.0, google-shlex 20191202-snapshot-e7afc7fb, google/addlicense v1.2.0, google/pprof 20260709-snapshot-b9395ee1, googleapis/go-genproto 20260727-snapshot-6c54dddc, gotest.tools v3.5.2, gotestyourself/gotestsum 1.13.0, grpc-go v1.83.2, modern-go/concurrent 20180305-snapshot-bacd9c7e, modern-go/reflect2 v1.0.2, open-telemetry/opentelemetry-go metric/v1.44.0, open-telemetry/opentelemetry-go sdk/metric/v1.44.0, open-telemetry/opentelemetry-go sdk/v1.44.0, open-telemetry/opentelemetry-go trace/v1.44.0, open-telemetry/opentelemetry-go v1.44.0, open-telemetry/opentelemetry-go-contrib instrumentation/google.golang.org/grpc/otelgrpc/v0.69.0, open-telemetry/opentelemetry-go-instrumentation sdk/v1.2.1, petermattis/goid 20250813-snapshot-a731cc31, prometheus-client_model v0.6.3, prometheus-common v0.71.0, prometheus-procfs v0.21.1, sasha-s/go-deadlock v0.3.9, tklauser/numcpus v0.12.0, wheelcomplex/gosigar v0.14.4)
 
 Apache License
 Version 2.0, January 2004
