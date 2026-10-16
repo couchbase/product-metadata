@@ -136,6 +136,7 @@ babel-plugin-istanbul 6.1.1: https://github.com/istanbuljs/babel-plugin-istanbul
 babel-preset-current-node-syntax 1.0.1: https://github.com/nicolo-ribaudo/babel-preset-current-node-syntax#readme : MIT License
 babel-traverse 7.20.5: https://babeljs.io/ : MIT License
 balanced-match 1.0.2: https://github.com/juliangruber/balanced-match : MIT License
+blackducksoftware_lodash 4.17.21: https://lodash.com/ : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
 browserify/resolve 1.22.1: https://github.com/browserify/resolve : MIT License
 browserslist 4.21.4: https://github.com/ai/browserslist : MIT License
@@ -313,7 +314,6 @@ lint-staged 13.1.0: https://github.com/okonet/lint-staged#readme : MIT License
 listr2 5.0.6: https://github.com/cenk1cenk2/listr2#readme : MIT License
 locate-path 5.0.0: https://github.com/sindresorhus/locate-path : MIT License
 locate-path 6.0.0: https://github.com/sindresorhus/locate-path : MIT License
-Lodash 4.17.21: https://lodash.com/ : MIT License
 lodash.isplainobject 4.0.6: https://lodash.com/ : MIT License
 lodash.memoize 4.1.2: https://lodash.com/ : MIT License
 lodash.merge 4.6.2: https://lodash.com/ : MIT License
@@ -4093,7 +4093,7 @@ SOFTWARE
 ---
 
 MIT License
-(Lodash 4.17.21, lodash.isplainobject 4.0.6, lodash.memoize 4.1.2, lodash.merge 4.6.2)
+(blackducksoftware_lodash 4.17.21, lodash.isplainobject 4.0.6, lodash.memoize 4.1.2, lodash.merge 4.6.2)
 
 ====
 
