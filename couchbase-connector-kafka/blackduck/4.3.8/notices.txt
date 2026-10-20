@@ -30,6 +30,7 @@ jsoup 1.23.1: http://jsoup.org : MIT License
 JSpecify annotations 1.0.0 : Apache License 2.0
 kafka-schema-registry-client 7.9.0 : Apache License 2.0
 LatencyUtils 2.0.3: https://github.com/LatencyUtils/LatencyUtils : (BSD 2-clause "Simplified" License OR Creative Commons Zero v1.0 Universal)
+luben/zstd-jni 1.5.6-4: https://github.com/luben/zstd-jni : BSD 3-clause "New" or "Revised" License
 lz4java 1.8.0: https://github.com/lz4/lz4-java : Apache License 2.0
 Metrics Core 4.2.39: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 Metrics Integration with JMX 4.2.39 : Apache License 2.0
@@ -42,7 +43,6 @@ reactor-core 3.6.9: https://github.com/reactor/reactor-core : Apache License 2.0
 SLF4J API Module 2.0.17: http://www.slf4j.org : MIT License
 SnakeYAML 2.0: http://code.google.com/p/snakeyaml/ : Apache License 2.0
 snappy-java 1.1.10.5: https://github.com/xerial/snappy-java : Apache License 2.0
-zstd-jni 1.5.6-4 : BSD 2-clause "Simplified" License
 
 Licenses: 
 
@@ -269,7 +269,7 @@ Redistribution and use in source and binary forms, with or without
 ---
 
 BSD 2-clause "Simplified" License
-(HdrHistogram 2.2.2, zstd-jni 1.5.6-4)
+(HdrHistogram 2.2.2)
 
 BSD Two Clause License
 ======================
@@ -294,6 +294,40 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT
 STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGE.
+
+---
+
+BSD 3-clause "New" or "Revised" License
+(luben/zstd-jni 1.5.6-4)
+
+Copyright (c) <YEAR>, <OWNER>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  * Neither the name of the <ORGANIZATION> nor the names of its contributors may
+    be used to endorse or promote products derived from this software without
+    specific prior written permission.
+
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
