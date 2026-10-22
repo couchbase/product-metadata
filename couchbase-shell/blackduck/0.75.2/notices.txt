@@ -289,7 +289,6 @@ miniz_oxide 0.6.2: https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
 mio-extras 2.0.6: https://crates.io/crates/mio-extras : (MIT License OR Apache License 2.0)
 miow 0.2.2: https://github.com/alexcrichton/miow : (MIT License OR Apache License 2.0)
 mitsuhiko/indicatif 0.17.3 : MIT License
-mitsuhiko/rust-sha1 0.6.1 : BSD 3-clause "New" or "Revised" License
 msgpack-rust 0.8.11: https://github.com/3Hren/msgpack-rust : MIT License
 msgpack-rust 1.1.1: https://github.com/3Hren/msgpack-rust : MIT License
 multiversion 0.6.1 : (MIT License OR Apache License 2.0)
@@ -480,6 +479,7 @@ servo/core-foundation-rs 0.9.3: https://github.com/servo/core-foundation-rs : (M
 servo/rust-fnv 1.0.7 : (MIT License OR Apache License 2.0)
 servo/rust-smallvec 1.10.0 : Apache License 2.0
 servo/unicode-bidi 0.3.10 : (MIT License OR Apache License 2.0)
+sha1 0.6.1: https://crates.io/crates/sha1 : BSD 3-clause "New" or "Revised" License
 sha1_smol 1.0.0 : BSD 3-clause "New" or "Revised" License
 shadow-rs 0.20.0: https://github.com/baoyachi/shadow-rs : (MIT License AND Apache License 2.0)
 sharkdp/lscolors 0.12.0: https://github.com/sharkdp/lscolors : (MIT License AND Apache License 2.0)
@@ -1084,7 +1084,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(mitsuhiko/rust-sha1 0.6.1)
+(sha1 0.6.1)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
