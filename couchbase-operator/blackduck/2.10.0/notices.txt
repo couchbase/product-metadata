@@ -95,7 +95,6 @@ github.com/xyproto/randomstring v1.0.5: https://github.com/xyproto/randomstring 
 glfw 20190408-snapshot-e6da0acd: https://github.com/go-gl/glfw : BSD 3-clause "New" or "Revised" License
 glfw 20191125-snapshot-12ad95a8: https://github.com/go-gl/glfw : BSD 3-clause "New" or "Revised" License
 go humanize 1.0.1: http://github.com/dustin/go-humanize : MIT License
-Go Logrus v1.9.3: https://github.com/sirupsen/logrus : MIT License
 Go programming language 1.27.2: http://golang.org/ : BSD 3-clause "New" or "Revised" License
 Go support for Mobile devices 20190704-snapshot-d2bd2a29 : BSD 3-clause "New" or "Revised" License
 Go Testify v1.11.1: https://github.com/stretchr/testify : MIT License
@@ -397,6 +396,7 @@ sergi/go-diff v1.2.0: https://github.com/sergi/go-diff : (MIT License AND Apache
 sigs.k8s.io/controller-runtime v0.18.0: https://github.com/kubernetes-sigs/controller-runtime : Apache License 2.0
 sigs.k8s.io/json 20241010-snapshot-9aa6b5e7: https://github.com/kubernetes-sigs/json : Apache License 2.0
 sigs.k8s.io/yaml v1.4.0: https://github.com/kubernetes-sigs/yaml : (MIT License AND Apache License 2.0 AND BSD 3-clause "New" or "Revised" License)
+Sirupsen/logrus v1.9.3: https://github.com/Sirupsen/logrus : MIT License
 soheilhy/cmux v0.1.5: https://github.com/soheilhy/cmux : Apache License 2.0
 spf13-afero v1.15.0: https://github.com/spf13/afero : Apache License 2.0
 spf13-cobra 1.8.1: https://github.com/spf13/cobra : Apache License 2.0
@@ -2896,7 +2896,7 @@ SOFTWARE
 ---
 
 MIT License
-(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, andybalholm/brotli v1.2.0, andygrunwald/go-jira v1.17.0, Azure/go-ansiterm 20230124-snapshot-306776ec, AzureAD/microsoft-authentication-library-for-go v1.5.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.3.0, cpuguy83-go-md2man v2.0.4, felixge/httpsnoop v1.0.4, fxamacker/cbor v2.6.0, github.com/go-kit/log v0.2.1, github.com/mholt/archives v0.1.5, github.com/xyproto/randomstring v1.0.5, go humanize 1.0.1, Go Logrus v1.9.3, Go Testify v1.11.1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-task/slim-sprig v3.0.0, go-zap v1.27.1, go.etcd.io/bbolt v1.3.8, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, golang-jwt/jwt v4.5.2, golang-jwt/jwt v5.3.0, gomega v1.33.1, govalidator 20190424-snapshot-f61b66f8, klauspost-pgzip v1.2.6, kr/pretty v0.3.1, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.19.0, PyYAML 6.0.3, sigs.k8s.io/yaml v1.4.0, stretchr/objx v0.5.2, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
+(alecthomas-kingpin v2.3.2, alecthomas-units 20211218-snapshot-b94a6e3c, andybalholm/brotli v1.2.0, andygrunwald/go-jira v1.17.0, Azure/go-ansiterm 20230124-snapshot-306776ec, AzureAD/microsoft-authentication-library-for-go v1.5.0, cenkalti/backoff v4.2.1, cespare/xxhash v2.3.0, cpuguy83-go-md2man v2.0.4, felixge/httpsnoop v1.0.4, fxamacker/cbor v2.6.0, github.com/go-kit/log v0.2.1, github.com/mholt/archives v0.1.5, github.com/xyproto/randomstring v1.0.5, go humanize 1.0.1, Go Testify v1.11.1, go-errors-errors v1.5.1, go-restful v3.11.0, go-task/slim-sprig 20230315-snapshot-52ccab3e, go-task/slim-sprig v3.0.0, go-zap v1.27.1, go.etcd.io/bbolt v1.3.8, go.uber.org/goleak v1.3.0, go.uber.org/multierr v1.11.0, golang-jwt/jwt v4.5.2, golang-jwt/jwt v5.3.0, gomega v1.33.1, govalidator 20190424-snapshot-f61b66f8, klauspost-pgzip v1.2.6, kr/pretty v0.3.1, monochromegane/go-gitignore 20200625-snapshot-205db1a8, natefinch/lumberjack v2.2.1, niemeyer/pretty 20200227-snapshot-a10e7cae, onsi/ginkgo v2.19.0, PyYAML 6.0.3, sigs.k8s.io/yaml v1.4.0, Sirupsen/logrus v1.9.3, stretchr/objx v0.5.2, tmc/grpc-websocket-proxy 20220101-snapshot-673ab2c3, uber-go/atomic v1.10.0, xiang90-probing 20190116-snapshot-43a291ad, xlab/treeprint v1.2.0, yaml for Go v3.0.1, youmark/pkcs8 20201027-snapshot-1326539a, yuin/goldmark v1.4.13)
 
 The MIT License
 ===============
