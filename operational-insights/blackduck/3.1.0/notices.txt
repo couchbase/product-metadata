@@ -501,7 +501,7 @@ Amazon MSK Library for AWS Identity and Access Management 2.3.9 : Apache License
 Angular 8.2.14: http://code.google.com/p/angula : MIT License
 Angular UI Bootstrap 1.2.0: http://angular-ui.github.io/bootstrap/ : MIT License
 angular-hybrid 10.0.1: https://github.com/ui-router/angular-hybrid : MIT License
-angular-ui-tree 2.22.6: https://github.com/JimLiu/angular-ui-tree : MIT License
+angular-ui-tree/angular-ui-tree 2.22.6: https://github.com/angular-ui-tree/angular-ui-tree : MIT License
 angularjs 1.8.0: https://angular.io : MIT License
 Animal Sniffer Annotations 1.27: https://www.mojohaus.org/animal-sniffer/animal-sniffer-annotations/ : MIT License
 ankeetmaini/react-infinite-scroll-component 6.1.0: https://react-infinite-scroll-component.netlify.com/ : MIT License
@@ -727,6 +727,7 @@ Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs 1.86: http://w
 brace-expansion 1.1.12: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 2.0.2: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 2.0.3: https://github.com/juliangruber/brace-expansion : MIT License
+braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 braces 3.0.3: https://github.com/jonschlinkert/braces : MIT License
 Breakpad r835: http://code.google.com/p/google-breakpad/ : BSD 3-clause "New" or "Revised" License
 browser-process-hrtime 1.0.0: https://github.com/kumavis/browser-process-hrtime#readme : BSD 2-clause "Simplified" License
@@ -826,9 +827,9 @@ com.google.api.grpc:proto-google-cloud-monitoring-v3 3.52.0 : Apache License 2.0
 com.google.api.grpc:proto-google-iam-v1 1.73.0 : Apache License 2.0
 com.google.cloud.bigdataoss:util 2.2.25 : Apache License 2.0
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
-Commander.js 8.3.0: https://github.com/tj/commander.js : MIT License
-Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
+Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 8.3.0: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
 common-tags 1.8.2: https://github.com/zspecza/common-tags : MIT License
 commons-csv 1.14.1: http://commons.apache.org/proper/commons-csv/index.html : Apache License 2.0
 compression 1.7.4: https://github.com/expressjs/compression : MIT License
@@ -1994,7 +1995,6 @@ methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch 4.0.8: https://github.com/jonschlinkert/micromatch : MIT License
-micromatch/braces 3.0.2: https://github.com/jonschlinkert/braces : MIT License
 MicroProfile OpenAPI API 4.1.1 : Apache License 2.0
 Microsoft Azure Java JSON Library 1.5.1 : MIT License
 Microsoft Azure Java XML Library 1.2.1 : MIT License
@@ -2559,7 +2559,7 @@ selfsigned 2.1.1: https://github.com/jfromaniello/selfsigned : MIT License
 semver 6.3.1: https://github.com/npm/node-semver : ISC License
 semver 7.5.4: https://github.com/npm/node-semver : ISC License
 semver 7.7.2: https://github.com/npm/node-semver : ISC License
-send 0.19.0: https://github.com/pillarjs/send : MIT License
+send 0.19.0: https://github.com/visionmedia/send : MIT License
 serialize-javascript 4.0.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serialize-javascript 6.0.2: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serve-index 1.9.1: https://github.com/expressjs/serve-index : MIT License
@@ -14286,7 +14286,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(angular-ui-tree 2.22.6)
+(angular-ui-tree/angular-ui-tree 2.22.6)
 
 The MIT License (MIT)
 
@@ -18896,7 +18896,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(micromatch/braces 3.0.2)
+(braces 3.0.2)
 
 Upstream-Contact: https://github.com/jonschlinkert/braces/issues
 Source: https://github.com/jonschlinkert/braces
