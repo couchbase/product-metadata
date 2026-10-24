@@ -459,8 +459,6 @@ alabaster 1.0.0: https://pypi.python.org/pypi/alabaster : BSD 3-clause "New" or 
 annotated-doc 0.0.5 : MIT License
 annotated-types 0.8.0: https://github.com/annotated-types/annotated-types : MIT License
 ansi-escapes 6.0.0: https://github.com/sindresorhus/ansi-escapes : MIT License
-ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles 6.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
 ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
@@ -534,6 +532,8 @@ Chalk 2.4.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 3.0.0: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 5.2.0: https://github.com/sindresorhus/chalk : MIT License
+chalkansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
+chalkansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
 chokidar 3.4.0: https://github.com/paulmillr/chokidar : MIT License
 chokidar 3.6.0: https://github.com/paulmillr/chokidar : MIT License
 chownr 2.0.0: https://github.com/isaacs/chownr : ISC License
@@ -564,12 +564,12 @@ colorama 0.4.6: https://github.com/tartley/colorama : BSD 3-clause "New" or "Rev
 colorette 2.0.20: https://github.com/jorgebucaran/colorette : MIT License
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
 comm 0.2.3: https://pypi.org/project/comm/ : BSD 3-clause "New" or "Revised" License
-Commander.js 4.1.1: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 8.3.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 9.2.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js 9.5.0: https://github.com/visionmedia/Commander.js : MIT License
-Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 4.1.1: https://github.com/tj/commander.js : MIT License
+Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
+Commander.js 8.3.0: https://github.com/tj/commander.js : MIT License
+Commander.js 9.2.0: https://github.com/tj/commander.js : MIT License
+Commander.js 9.5.0: https://github.com/tj/commander.js : MIT License
+Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
 compression 1.8.1: https://github.com/expressjs/compression : MIT License
 compute-gcd 1.2.1: https://github.com/compute-io/gcd : MIT License
 compute-lcm 1.1.2: https://github.com/compute-io/lcm : MIT License
@@ -714,7 +714,7 @@ express-rate-limit 5.5.1: https://github.com/nfriedly/express-rate-limit : MIT L
 expressjs/accepts 1.3.8: https://github.com/expressjs/accepts : MIT License
 expressjs/compressible 2.0.18: https://github.com/expressjs/compressible : MIT License
 expressjs/express 4.22.1: https://expressjs.com : MIT License
-expressjs/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
+expressjs/mime-types 2.1.35: https://github.com/jshttp/mime-types : MIT License
 extend 3.0.2: https://github.com/justmoon/node-extend : MIT License
 extra-platforms 13.6.0 : Apache License 2.0
 extsprintf 1.3.0: https://github.com/davepacheco/node-extsprintf : MIT License
@@ -1121,6 +1121,7 @@ pandas-python 2.3.3: https://pandas.pydata.org : BSD 3-clause "New" or "Revised"
 pandocfilters 1.5.1: https://github.com/jgm/pandocfilters : BSD 3-clause "New" or "Revised" License
 param-case 3.0.4: https://github.com/blakeembrey/change-case/tree/master/packages/param-case : MIT License
 parse-srcset 1.0.2: https://github.com/albell/parse-srcset#readme : MIT License
+parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 parso 0.8.7: https://github.com/davidhalter/parso : MIT License
 pascal-case 3.1.2: https://github.com/blakeembrey/change-case/tree/master/packages/pascal-case : MIT License
 path-browserify 1.0.1: https://github.com/browserify/path-browserify : MIT License
@@ -1136,7 +1137,6 @@ piccolo-theme 0.24.0: https://github.com/piccolo-orm/piccolo_theme : MIT License
 picocolors 1.1.1: https://github.com/alexeyraspopov/picocolors#readme : ISC License
 picomatch 2.3.2: https://github.com/micromatch/picomatch : MIT License
 pify 3.0.0: https://github.com/sindresorhus/pify : MIT License
-pillarjs/parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 PillowPython 12.3.0: https://github.com/python-pillow/Pillow : CMU License
 pino 9.14.0: https://github.com/mcollina/pino#readme : MIT License
 pino-abstract-transport 1.2.0: https://github.com/pinojs/pino-abstract-transport#readme : MIT License
@@ -1250,6 +1250,7 @@ registry-url 5.1.0: https://github.com/sindresorhus/registry-url : MIT License
 relateurl 0.2.7: https://github.com/stevenvachon/relateurl : MIT License
 renderkid 3.0.0: https://github.com/AriaMinaei/renderkid : MIT License
 reo-census 0.1.3 : MIT License
+request/tunnel-agent 0.6.0: https://github.com/request/tunnel-agent : Apache License 2.0
 requests-toolbelt 1.0.0: https://toolbelt.readthedocs.io : Apache License 2.0
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 require-from-string 2.0.2: https://github.com/floatdrop/require-from-string : MIT License
@@ -1308,8 +1309,8 @@ sindresorhus/got 11.8.6: https://github.com/sindresorhus/got : MIT License
 sindresorhus/normalize-url 6.1.0: https://github.com/sindresorhus/normalize-url : MIT License
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 sirv 2.0.4: https://github.com/lukeed/sirv#readme : MIT License
 smart-buffer 4.2.0: https://github.com/JoshGlazebrook/smart-buffer : MIT License
 smmap 5.0.3: https://github.com/gitpython-developers/smmap : BSD 3-clause "New" or "Revised" License
@@ -1408,7 +1409,6 @@ tr46 0.0.3: https://github.com/Sebmaster/tr46.js#readme : MIT License
 tr46 2.1.0: https://github.com/Sebmaster/tr46.js#readme : MIT License
 Traitlets 5.16.1: https://traitlets.readthedocs.io/ : BSD 3-clause "New" or "Revised" License
 transformers 5.15.0: https://github.com/huggingface/transformers : Apache License 2.0
-tunnel-agent 0.6.0: https://github.com/mikeal/tunnel-agent : Apache License 2.0
 tweetnacl-js 0.14.5: https://github.com/dchest/tweetnacl-js : The Unlicense
 typanion 3.14.0: https://mael.dev/typanion/ : MIT License
 type-detect 4.0.8: https://github.com/chaijs/type-detect : MIT License
@@ -1890,7 +1890,7 @@ their entirety and only with respect to the Combined Software.
 ---
 
 Apache License 2.0
-(@cypress/request 3.0.9, @rjsf/core 5.17.1, @rjsf/utils 5.14.3, @rjsf/utils 5.17.1, @rjsf/validator-ajv8 5.14.3, aio-libs/propcache 0.5.2, aiohttp 3.14.3, aiosignal 1.4.0, asttokens 3.0.2, autodocsumm 0.2.15, b4a 1.6.7, bare-events 2.5.4, baseline-browser-mapping 2.10.37, caseless 0.12.0, client_python 0.26.0, couchbase-python-client 4.6.2, crsmithdev/arrow 1.4.0, diskcache 5.6.3, distro 1.9.0, docker 7.2.0, dominictarr/rc 1.2.8, ecdsa-sig-formatter v1.0.11, extra-platforms 13.6.0, forever-agent 0.6.1, frozenlist 1.8.0, hf-xet 1.6.0, httplib-cachecontrol 0.14.4, huggingface-hub 1.27.0, huggingface/datasets 5.0.1, jsocol's bleach 6.4.0, JSONStream 1.3.5, liris/websocket-client 1.9.0, MathJax 3.2.2, mhchemparser 4.1.1, mikeal/aws-sign 0.7.0, mj-context-menu 0.6.1, msgpack-python 1.2.1, multidict 6.7.1, nltk 3.10.3, openai 1.109.1, orjson 3.12.0, ormsgpack 1.12.2, overrides 7.7.0, Packaging 26.3, psf-requests 2.34.2, pyarrow 25.0.1, pyjson5 0.15.0, pytest-asyncio 1.4.0, Python tzdata 2026.3, python-dateutil 2.9.0.post0, python-multipart 0.0.32, pytorch 2.13.0, ragas 0.2.15, ReactiveX RxJS 7.8.0, regex 2026.7.19, requests-toolbelt 1.0.0, rfc3987-syntax 1.1.0, safetensors 0.8.0, sentence-transformers 5.7.0, sniffio 1.3.1, speech-rule-engine 4.0.7, tenacity 9.1.4, text-decoder 1.2.3, through 2.3.8, tokenizers 0.22.2, Tornado Web Server (tornadoweb) 6.5.8, transformers 5.15.0, tunnel-agent 0.6.0, TypeScript 4.9.4, TypeScript 5.0.2, TypeScript 5.9.3, yarl 1.24.5)
+(@cypress/request 3.0.9, @rjsf/core 5.17.1, @rjsf/utils 5.14.3, @rjsf/utils 5.17.1, @rjsf/validator-ajv8 5.14.3, aio-libs/propcache 0.5.2, aiohttp 3.14.3, aiosignal 1.4.0, asttokens 3.0.2, autodocsumm 0.2.15, b4a 1.6.7, bare-events 2.5.4, baseline-browser-mapping 2.10.37, caseless 0.12.0, client_python 0.26.0, couchbase-python-client 4.6.2, crsmithdev/arrow 1.4.0, diskcache 5.6.3, distro 1.9.0, docker 7.2.0, dominictarr/rc 1.2.8, ecdsa-sig-formatter v1.0.11, extra-platforms 13.6.0, forever-agent 0.6.1, frozenlist 1.8.0, hf-xet 1.6.0, httplib-cachecontrol 0.14.4, huggingface-hub 1.27.0, huggingface/datasets 5.0.1, jsocol's bleach 6.4.0, JSONStream 1.3.5, liris/websocket-client 1.9.0, MathJax 3.2.2, mhchemparser 4.1.1, mikeal/aws-sign 0.7.0, mj-context-menu 0.6.1, msgpack-python 1.2.1, multidict 6.7.1, nltk 3.10.3, openai 1.109.1, orjson 3.12.0, ormsgpack 1.12.2, overrides 7.7.0, Packaging 26.3, psf-requests 2.34.2, pyarrow 25.0.1, pyjson5 0.15.0, pytest-asyncio 1.4.0, Python tzdata 2026.3, python-dateutil 2.9.0.post0, python-multipart 0.0.32, pytorch 2.13.0, ragas 0.2.15, ReactiveX RxJS 7.8.0, regex 2026.7.19, request/tunnel-agent 0.6.0, requests-toolbelt 1.0.0, rfc3987-syntax 1.1.0, safetensors 0.8.0, sentence-transformers 5.7.0, sniffio 1.3.1, speech-rule-engine 4.0.7, tenacity 9.1.4, text-decoder 1.2.3, through 2.3.8, tokenizers 0.22.2, Tornado Web Server (tornadoweb) 6.5.8, transformers 5.15.0, TypeScript 4.9.4, TypeScript 5.0.2, TypeScript 5.9.3, yarl 1.24.5)
 
 Apache License
 Version 2.0, January 2004
@@ -6530,7 +6530,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ansi-regex 5.0.1)
+(chalkansi-regex 5.0.1)
 
 Upstream-Contact: https://github.com/sindresorhus/ansi-regex/issues
 Source: https://github.com/sindresorhus/ansi-regex
@@ -6973,7 +6973,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(pillarjs/parseurl 1.3.3)
+(parseurl 1.3.3)
 
 (The MIT License)
 
@@ -8645,7 +8645,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(ansi-regex 6.0.1, cli-cursor 4.0.0, cli-spinners 2.6.1, decompress-response 6.0.0, escape-string-regexp 5.0.0, escape-string-regexp v4.0.0, get-stream 6.0.1, get-stream v5.2.0, is-interactive 2.0.0, log-symbols 5.1.0, mimic-response 3.1.0, p-map 4.0.0, package-json 7.0.0, restore-cursor 4.0.0, sindresorhus/onetime v5.1.2, Strip ANSI 7.0.1, wrap-ansi v7.0.0)
+(chalkansi-regex 6.0.1, cli-cursor 4.0.0, cli-spinners 2.6.1, decompress-response 6.0.0, escape-string-regexp 5.0.0, escape-string-regexp v4.0.0, get-stream 6.0.1, get-stream v5.2.0, is-interactive 2.0.0, log-symbols 5.1.0, mimic-response 3.1.0, p-map 4.0.0, package-json 7.0.0, restore-cursor 4.0.0, sindresorhus/onetime v5.1.2, Strip ANSI 7.0.1, wrap-ansi v7.0.0)
 
 MIT License
 
