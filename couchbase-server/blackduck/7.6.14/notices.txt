@@ -636,9 +636,30 @@ asynckit 0.4.0: https://github.com/alexindigo/asynckit : MIT License
 at-least-node 1.0.0: https://github.com/RyanZim/at-least-node#readme : ISC License
 Autoprefixer 10.4.12: https://github.com/postcss/autoprefixer : MIT License
 AutoValue Annotations 1.11.0 : Apache License 2.0
+AWS Java SDK :: Arns 2.57.4 : 
+AWS Java SDK :: AWS CRT Core 2.57.4 : 
+AWS Java SDK :: Checksums 2.57.4 : 
+AWS Java SDK :: Checksums SPI 2.57.4 : 
+AWS Java SDK :: Core :: Protocols :: AWS Xml Protocol 2.57.4 : 
+AWS Java SDK :: Core :: Protocols :: Json Utils 2.57.4 : 
+AWS Java SDK :: Endpoints SPI 2.57.4 : 
+AWS Java SDK :: EventStream 2.57.4 : 
+AWS Java SDK :: HTTP Auth 2.57.4 : 
+AWS Java SDK :: HTTP Auth AWS 2.57.4 : 
+AWS Java SDK :: HTTP Auth Event Stream 2.57.4 : 
+AWS Java SDK :: HTTP Auth SPI 2.57.4 : 
+AWS Java SDK :: Identity SPI 2.57.4 : 
+AWS Java SDK :: Metrics Interface 2.57.4 : 
+AWS Java SDK :: Retries 2.57.4 : 
+AWS Java SDK :: Retries API 2.57.4 : 
+AWS Java SDK :: S3 :: Transfer Manager 2.57.4 : 
+AWS Java SDK :: Services :: Amazon S3 2.57.4 : 
+AWS Java SDK :: Third Party :: Jackson-core 2.57.4 : 
+AWS Java SDK :: Utils Lite 2.57.4 : 
 AWS SDK for Go v1.55.6: http://aws.amazon.com/sdk-for-go/ : Apache License 2.0
 AWS SDK for Go v1.55.7: http://aws.amazon.com/sdk-for-go/ : Apache License 2.0
 AWS SDK for Java 1.12.797: http://aws.amazon.com/sdkforjava : Apache License 2.0
+AWS SDK for Java 2.57.4: http://aws.amazon.com/sdkforjava : 
 aws-lambda-go v1.13.3: https://github.com/aws/aws-lambda-go : (The Modified MIT License AND Apache License 2.0)
 aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.7.18: http://github.com/aws/aws-sdk-go-v2/ : Apache License 2.0
 aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.7.4: http://github.com/aws/aws-sdk-go-v2/ : Apache License 2.0
@@ -2185,8 +2206,10 @@ methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 Metrics Core 3.2.4: http://metrics.codahale.com/metrics-core/ : Apache License 2.0
 micromatch 4.0.2: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch 4.0.8: https://github.com/jonschlinkert/micromatch : MIT License
+Microsoft Azure client library for Identity 1.18.7 : 
 Microsoft Azure Java JSON Library 1.5.1 : MIT License
 Microsoft Azure Java XML Library 1.2.1 : MIT License
+Microsoft Azure Netty HTTP Client Library 1.16.8 : 
 Microsoft Azure SDK for Key Vault 1.2.4 : MIT License
 Microsoft Windows Azure Storage Client SDK 8.6.6: http://nexus.sonatype.org/oss-repository-hosting.html/parent/modules/plugins/cloud-azure : Apache License 2.0
 Microsoft-go-winio v0.6.1: https://github.com/Microsoft/go-winio/ : MIT License
@@ -2631,6 +2654,7 @@ prometheus-common sigv4/v0.1.0: https://github.com/prometheus/common : Apache Li
 prometheus-common v0.45.0: https://github.com/prometheus/common : Apache License 2.0
 prometheus-common v0.54.0: https://github.com/prometheus/common : Apache License 2.0
 prometheus-common v0.62.0: https://github.com/prometheus/common : Apache License 2.0
+prometheus-common v0.73.0: https://github.com/prometheus/common : 
 prometheus-cpp v1.2.1: https://github.com/jupp0r/prometheus-cpp : MIT License
 prometheus-procfs v0.12.0: https://github.com/prometheus/procfs.git : Apache License 2.0
 prometheus-procfs v0.15.1: https://github.com/prometheus/procfs.git : Apache License 2.0
@@ -2841,9 +2865,7 @@ sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT Licen
 sindresorhus/slash 4.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
 sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
 sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
 sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 Sinon.JS 14.0.2: http://sinonjs.org/ : BSD 3-clause "New" or "Revised" License
 Sirupsen/logrus v1.4.2: https://github.com/Sirupsen/logrus : MIT License
@@ -2924,6 +2946,8 @@ strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments :
 style-loader 3.3.1: https://github.com/webpack/style-loader : MIT License
 style-mod 4.1.0: https://github.com/marijnh/style-mod#readme : MIT License
 stylehacks 5.1.0: https://github.com/ben-eb/stylehacks : MIT License
+supports-color 6.1.0: https://github.com/sindresorhus/supports-color : MIT License
+supports-color v7.1.0: https://github.com/sindresorhus/supports-color : MIT License
 supports-hyperlinks 2.3.0: https://github.com/jamestalmage/supports-hyperlinks : MIT License
 supports-preserve-symlinks-flag 1.0.0: https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme : MIT License
 svgo 1.3.2: https://github.com/svg/svgo : MIT License
@@ -21212,7 +21236,7 @@ SOFTWARE
 ---
 
 MIT License
-(aggregate-error 3.0.1, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, Chalk v4.1.0, chalkansi-regex 4.1.0, chalkansi-regex 5.0.0, clean-stack 2.2.0, cli-spinners 2.3.0, crypto-random-string 2.0.0, decompress-response 5.0.0, define-lazy-prop 2.0.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, find-up 3.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, import-local 3.1.0, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-path-inside 3.0.3, is-root 2.1.0, is-stream v2.0.0, is-wsl 2.2.0, leven 3.1.0, locate-path 3.0.0, log-symbols 2.2.0, lowercase-keys 2.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, mimic-response 1.0.1, npm-run-path 4.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, pkg-up 3.1.0, quick-lru 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url 6.1.0, sindresorhus/normalize-url v4.5.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 6.1.0, sindresorhus/supports-color v7.1.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width 4.2.3, Strip ANSI 6.0.0, strip-bom 4.0.0, strip-final-newline 2.0.0, temp-dir 2.0.0, terminal-link 2.1.1, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1, unique-string 2.0.0)
+(aggregate-error 3.0.1, ansi-styles 3.2.1, ansi-styles 4.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-union v2.1.0, builtin-modules 3.1.0, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, Chalk v4.1.0, chalkansi-regex 4.1.0, chalkansi-regex 5.0.0, clean-stack 2.2.0, cli-spinners 2.3.0, crypto-random-string 2.0.0, decompress-response 5.0.0, define-lazy-prop 2.0.0, detect-newline v3.1.0, escape-string-regexp v2.0.0, find-up 3.0.0, get-stream 5.1.0, has-flag 3.0.0, has-flag 4.0.0, hasha 5.2.0, import-fresh 3.2.1, import-local 3.1.0, indent-string v4.0.0, is-builtin-module 3.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-path-inside 3.0.3, is-root 2.1.0, is-stream v2.0.0, is-wsl 2.2.0, leven 3.1.0, locate-path 3.0.0, log-symbols 2.2.0, lowercase-keys 2.0.0, make-dir 3.1.0, mimic-fn 1.2.0, mimic-fn 2.1.0, mimic-response 1.0.1, npm-run-path 4.0.1, ora 3.4.0, p-cancelable 2.0.0, p-event 4.1.0, p-limit 1.3.0, p-limit 2.3.0, p-locate 3.0.0, p-locate 4.1.0, p-map 3.0.0, p-queue 6.3.0, p-timeout 2.0.1, p-timeout 3.2.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, pkg-up 3.1.0, quick-lru 5.1.1, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/got 10.7.0, sindresorhus/normalize-url 6.1.0, sindresorhus/normalize-url v4.5.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color v7.2.0, string-width 4.2.2, string-width 4.2.3, Strip ANSI 6.0.0, strip-bom 4.0.0, strip-final-newline 2.0.0, supports-color 6.1.0, supports-color v7.1.0, temp-dir 2.0.0, terminal-link 2.1.1, to-readable-stream 2.1.0, type-fest 0.10.0, type-fest 0.8.1, unique-string 2.0.0)
 
 MIT License
 
