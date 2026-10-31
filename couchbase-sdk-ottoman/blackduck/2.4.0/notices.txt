@@ -116,6 +116,8 @@ Acorn-JSX 5.3.2: https://github.com/RReverser/Acorn-JSX : MIT License
 aggregate-error 3.1.0: https://github.com/sindresorhus/aggregate-error#readme : MIT License
 ajv 6.12.6: https://github.com/ajv-validator/ajv.git : MIT License
 ansi-escapes 4.3.2: https://github.com/sindresorhus/ansi-escapes : MIT License
+ansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
+ansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
 ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
 ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
 ansi-styles 6.2.1: https://github.com/chalk/ansi-styles : MIT License
@@ -147,8 +149,6 @@ caniuse-lite 1.0.30001434: https://github.com/ben-eb/caniuse-lite : Creative Com
 Chalk 2.4.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 3.0.0: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
-chalkansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
-chalkansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
 char-regex 1.0.2: https://github.com/Richienb/char-regex#readme : MIT License
 chownr 2.0.0: https://github.com/isaacs/chownr : ISC License
 ci-info 3.7.0: https://github.com/watson/ci-info : MIT License
@@ -166,7 +166,7 @@ color-name 1.1.4: https://github.com/colorjs/color-name : MIT License
 color-support 1.1.3: https://github.com/isaacs/color-support#readme : ISC License
 colorette 2.0.19: https://github.com/jorgebucaran/colorette : MIT License
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 9.4.1: https://github.com/tj/commander.js : MIT License
+Commander.js 9.4.1: https://github.com/visionmedia/Commander.js : MIT License
 console-control-strings 1.1.0: https://github.com/iarna/console-control-strings#readme : ISC License
 convert-source-map 1.9.0: https://github.com/thlorenz/convert-source-map : MIT License
 convert-source-map 2.0.0: https://github.com/thlorenz/convert-source-map : MIT License
@@ -214,7 +214,6 @@ execa 4.1.0: https://github.com/sindresorhus/execa : MIT License
 execa 5.1.1: https://github.com/sindresorhus/execa : MIT License
 execa 6.1.0: https://github.com/sindresorhus/execa : MIT License
 expect 29.3.1: https://github.com/mjackson/expect : MIT License
-expressjs/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 fast-deep-equal v3.1.3: https://github.com/epoberezkin/fast-deep-equal : MIT License
 fast-diff 1.2.0: https://github.com/jhchen/fast-diff : Apache License 2.0
 fast-glob 3.2.12: https://github.com/mrmlnc/fast-glob#readme : MIT License
@@ -248,7 +247,6 @@ human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 human-signals 3.0.1: https://git.io/JeluP : Apache License 2.0
 iarna/gauge 4.0.4: https://github.com/iarna/gauge : ISC License
-iarna/write-file-atomic 4.0.2: https://github.com/iarna/write-file-atomic : ISC License
 import-fresh 3.3.0: https://github.com/sindresorhus/import-fresh : MIT License
 import-local 3.1.0: https://github.com/sindresorhus/import-local#readme : MIT License
 imurmurhash 0.1.4: https://github.com/jensyt/imurmurhash-js : MIT License
@@ -301,6 +299,7 @@ js-tokens 4.0.0: https://github.com/lydell/js-tokens : MIT License
 js-yaml 3.14.1: https://github.com/nodeca/js-yaml : MIT License
 js-yaml 4.1.0: https://github.com/nodeca/js-yaml : MIT License
 jsesc v2.5.2: http://mths.be/jsesc : MIT License
+jshttp/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 jsjest 29.3.1: https://jestjs.io : MIT License
 json-parse-even-better-errors 2.3.1: https://github.com/npm/json-parse-even-better-errors#readme : MIT License
 json-schema-traverse 0.4.1: https://github.com/epoberezkin/json-schema-traverse : MIT License
@@ -429,9 +428,6 @@ sindresorhus/globby 11.1.0: https://github.com/sindresorhus/globby : MIT License
 sindresorhus/onetime 6.0.0: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 sisteransi 1.0.5: https://github.com/terkelg/sisteransi : MIT License
 slice-ansi 3.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
 slice-ansi 4.0.0: https://github.com/chalk/slice-ansi#readme : MIT License
@@ -452,6 +448,9 @@ strip-final-newline 2.0.0: https://github.com/sindresorhus/strip-final-newline#r
 strip-final-newline 3.0.0: https://github.com/sindresorhus/strip-final-newline#readme : MIT License
 strip-json-comments 2.0.1: https://github.com/sindresorhus/strip-json-comments : MIT License
 strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments : MIT License
+supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
+supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
+supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 supports-preserve-symlinks-flag 1.0.0: https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme : MIT License
 tapjs/signal-exit 3.0.7: https://github.com/tapjs/signal-exit : ISC License
 test-exclude 6.0.0: https://github.com/bcoe/test-exclude#readme : ISC License
@@ -486,6 +485,7 @@ word-wrap 1.2.4: https://github.com/jonschlinkert : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
+write-file-atomic 4.0.2: https://github.com/iarna/write-file-atomic : ISC License
 y18n 5.0.8: https://github.com/yargs/y18n : ISC License
 yallist 4.0.0: https://github.com/isaacs/yallist#readme : ISC License
 yaml 2.2.2: https://github.com/tj/js-yaml : ISC License
@@ -1929,7 +1929,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(anymatch 3.1.3, are-we-there-yet 3.0.1, cliui 8.0.1, electron-to-chromium 1.4.284, flatted 3.2.7, iarna/gauge 4.0.4, iarna/write-file-atomic 4.0.2, isaacs_node-tar 6.2.0, minipass 3.3.6, minipass 5.0.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-graceful-fs 4.2.11, node-semver  6.3.1, node-semver  7.5.4, npmlog 6.0.2, v8-to-istanbul 9.0.1, yaml 2.2.2, yargs-parser 21.1.1)
+(anymatch 3.1.3, are-we-there-yet 3.0.1, cliui 8.0.1, electron-to-chromium 1.4.284, flatted 3.2.7, iarna/gauge 4.0.4, isaacs_node-tar 6.2.0, minipass 3.3.6, minipass 5.0.0, node-glob 7.2.3, node-graceful-fs 4.2.10, node-graceful-fs 4.2.11, node-semver  6.3.1, node-semver  7.5.4, npmlog 6.0.2, v8-to-istanbul 9.0.1, write-file-atomic 4.0.2, yaml 2.2.2, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
@@ -2462,7 +2462,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(chalkansi-regex 5.0.1)
+(ansi-regex 5.0.1)
 
 Upstream-Contact: https://github.com/sindresorhus/ansi-regex/issues
 Source: https://github.com/sindresorhus/ansi-regex
@@ -4402,7 +4402,7 @@ SOFTWARE
 ---
 
 MIT License
-(expressjs/mime-types 2.1.35)
+(jshttp/mime-types 2.1.35)
 
 (The MIT License)
 
@@ -4749,7 +4749,7 @@ Permission is hereby granted, free of charge, to any person
 ---
 
 MIT License
-(aggregate-error 3.1.0, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-differ 3.0.0, array-union v2.1.0, arrify 2.0.1, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, detect-newline 3.1.0, escape-string-regexp v2.0.0, has-flag 3.0.0, has-flag 4.0.0, import-local 3.1.0, indent-string v4.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-path-inside 3.0.3, leven 3.1.0, log-update 4.0.0, make-dir 3.1.0, mimic-fn 2.1.0, npm-run-path 4.0.1, p-limit 2.3.0, p-locate 4.1.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color v7.2.0, string-width 4.2.3, strip-bom 4.0.0, strip-final-newline 2.0.0, wrap-ansi v6.2.0)
+(aggregate-error 3.1.0, ansi-styles 3.2.1, ansi-styles 5.2.0, ansi-styles v4.3.0, array-differ 3.0.0, array-union v2.1.0, arrify 2.0.1, callsites 3.1.0, camelcase 5.3.1, Chalk 2.4.2, Chalk 3.0.0, Chalk 4.1.2, clean-stack 2.2.0, cli-cursor v3.1.0, cli-truncate 2.1.0, detect-newline 3.1.0, escape-string-regexp v2.0.0, has-flag 3.0.0, has-flag 4.0.0, import-local 3.1.0, indent-string v4.0.0, is-fullwidth-code-point 3.0.0, is-generator-fn 2.1.0, is-path-inside 3.0.3, leven 3.1.0, log-update 4.0.0, make-dir 3.1.0, mimic-fn 2.1.0, npm-run-path 4.0.1, p-limit 2.3.0, p-locate 4.1.0, p-try 2.2.0, parent-module 1.0.1, path-exists 4.0.0, path-key 3.1.1, pkg-dir 4.2.0, resolve-cwd 3.0.0, resolve-from 4.0.0, resolve-from 5.0.0, shebang-regex 3.0.0, sindresorhus/globals 11.12.0, sindresorhus/slash v3.0.0, string-width 4.2.3, strip-bom 4.0.0, strip-final-newline 2.0.0, supports-color 5.5.0, supports-color v7.2.0, wrap-ansi v6.2.0)
 
 MIT License
 
@@ -4938,7 +4938,7 @@ DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ansi-escapes 4.3.2, camelcase 6.3.0, chalkansi-regex 6.0.1, cli-truncate 3.1.0, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, execa 6.1.0, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, import-fresh 3.3.0, is-fullwidth-code-point 4.0.0, is-stream 2.0.1, is-stream 3.0.0, mimic-fn 4.0.0, npm-run-path 5.1.0, p-limit 3.1.0, p-map 4.0.0, parse-json v5.2.0, path-key 4.0.0, sindresorhus/onetime 6.0.0, sindresorhus/onetime v5.1.2, sindresorhus/supports-color 8.1.1, string-length 4.0.2, Strip ANSI 7.0.1, strip-final-newline 3.0.0, strip-json-comments 3.1.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
+(ansi-escapes 4.3.2, ansi-regex 6.0.1, camelcase 6.3.0, cli-truncate 3.1.0, escape-string-regexp v4.0.0, execa 4.1.0, execa 5.1.1, execa 6.1.0, find-up v5.0.0, get-stream 6.0.1, get-stream v5.2.0, import-fresh 3.3.0, is-fullwidth-code-point 4.0.0, is-stream 2.0.1, is-stream 3.0.0, mimic-fn 4.0.0, npm-run-path 5.1.0, p-limit 3.1.0, p-map 4.0.0, parse-json v5.2.0, path-key 4.0.0, sindresorhus/onetime 6.0.0, sindresorhus/onetime v5.1.2, string-length 4.0.2, Strip ANSI 7.0.1, strip-final-newline 3.0.0, strip-json-comments 3.1.1, supports-color 8.1.1, wrap-ansi v7.0.0, yocto-queue 0.1.0)
 
 MIT License
 
