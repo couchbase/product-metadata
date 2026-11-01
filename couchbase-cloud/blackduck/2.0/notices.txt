@@ -3566,6 +3566,9 @@ aws-lambda-go v1.54.0 github:aws/aws-lambda-go:v1.54.0: https://github.com/aws/a
 	Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 	Copyright 2025 Amazon.com, Inc. or its affiliates. All Rights Reserved
 	Copyright 2026 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+aws-sign 0.7.0 npmjs:aws-sign2/0.7.0: https://github.com/mikeal/aws-sign
+	Copyright 2010 LearnBoost <dev@learnboost.com>
+
 aws/aws-sdk-go-v2 aws/protocol/eventstream/v1.7.18 github:aws/aws-sdk-go-v2:aws/protocol/eventstream/v1.7.18: http://github.com/aws/aws-sdk-go-v2/
 	No Copyrights found
 aws/aws-sdk-go-v2 config/v1.33.3 github:aws/aws-sdk-go-v2:config/v1.33.3: http://github.com/aws/aws-sdk-go-v2/
@@ -4605,9 +4608,6 @@ brace-expansion 5.0.6 npmjs:brace-expansion/5.0.6: https://github.com/juliangrub
 	Copyright Julian Gruber <julian@juliangruber.com>
 brace-expansion 5.0.9 npmjs:brace-expansion/5.0.9: https://github.com/juliangruber/brace-expansion
 	No Copyrights found
-braces 3.0.3 npmjs:braces/3.0.3: https://github.com/jonschlinkert/braces
-	Copyright (c) 2014-present, Jon Schlinkert.
-	Copyright © 2019,
 browser-assert 1.2.1 npmjs:browser-assert/1.2.1: https://github.com/socialally/browser-assert
 	Copyright (c) 2015 Social Ally
 browser-stdout 1.3.1 npmjs:browser-stdout/1.3.1: https://github.com/kumavis/browser-stdout
@@ -5139,32 +5139,32 @@ comma-separated-tokens 2.0.3 npmjs:comma-separated-tokens/2.0.3: https://github.
 	© [Titus Wormer
 command-line-args 5.2.1 npmjs:command-line-args/5.2.1: https://github.com/75lb/command-line-args
 	Copyright (c) 2014-22 Lloyd Brookes <75pound@gmail.com>
-Commander.js 10.0.1 npmjs:commander/10.0.1: https://github.com/tj/commander.js
+Commander.js 10.0.1 npmjs:commander/10.0.1: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-Commander.js 11.0.0 npmjs:commander/11.0.0: https://github.com/tj/commander.js
+Commander.js 11.0.0 npmjs:commander/11.0.0: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-Commander.js 11.1.0 npmjs:commander/11.1.0: https://github.com/tj/commander.js
+Commander.js 11.1.0 npmjs:commander/11.1.0: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-Commander.js 12.1.0 npmjs:commander/12.1.0: https://github.com/tj/commander.js
+Commander.js 12.1.0 npmjs:commander/12.1.0: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-Commander.js 14.0.0 npmjs:commander/14.0.0: https://github.com/tj/commander.js
+Commander.js 14.0.0 npmjs:commander/14.0.0: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-Commander.js 14.0.2 npmjs:commander/14.0.2: https://github.com/tj/commander.js
+Commander.js 14.0.2 npmjs:commander/14.0.2: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-Commander.js 14.0.3 npmjs:commander/14.0.3: https://github.com/tj/commander.js
+Commander.js 14.0.3 npmjs:commander/14.0.3: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-Commander.js 4.1.1 npmjs:commander/4.1.1: https://github.com/tj/commander.js
-	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-
-Commander.js 6.2.1 npmjs:commander/6.2.1: https://github.com/tj/commander.js
-	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-Commander.js 7.2.0 npmjs:commander/7.2.0: https://github.com/tj/commander.js
+Commander.js 4.1.1 npmjs:commander/4.1.1: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
-Commander.js 8.3.0 npmjs:commander/8.3.0: https://github.com/tj/commander.js
+Commander.js 6.2.1 npmjs:commander/6.2.1: https://github.com/visionmedia/Commander.js
+	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
+Commander.js 7.2.0 npmjs:commander/7.2.0: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
-Commander.js v2.20.3 npmjs:commander/2.20.3: https://github.com/tj/commander.js
+Commander.js 8.3.0 npmjs:commander/8.3.0: https://github.com/visionmedia/Commander.js
+	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
+
+Commander.js v2.20.3 npmjs:commander/2.20.3: https://github.com/visionmedia/Commander.js
 	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -16140,6 +16140,9 @@ micromatch 4.0.5 npmjs:micromatch/4.0.5: https://github.com/jonschlinkert/microm
 micromatch 4.0.8 npmjs:micromatch/4.0.8: https://github.com/jonschlinkert/micromatch
 	Copyright (c) 2014-present, Jon Schlinkert.
 	Copyright © 2024,
+micromatch/braces 3.0.3 npmjs:braces/3.0.3: https://github.com/jonschlinkert/braces
+	Copyright (c) 2014-present, Jon Schlinkert.
+	Copyright © 2019,
 Microsoft Graph v1.4.1 github:microsoftgraph/msgraph-sdk-go-core:v1.4.1: https://github.com/microsoftgraph
 	Copyright (c) 2021 Microsoft Graph
 	Copyright (c) Microsoft Corporation. All Rights Reserved.
@@ -16167,9 +16170,6 @@ Microsofttslib 2.8.1 npmjs:tslib/2.8.1: http://github.com/Microsoft/tslib/
 	Copyright (c) Microsoft Corporation.
 miekg/dns v1.1.73 github:miekg/dns:v1.1.73: https://github.com/miekg/dns
 	No Copyrights found
-mikeal/aws-sign 0.7.0 npmjs:aws-sign2/0.7.0: https://github.com/mikeal/aws-sign
-	Copyright 2010 LearnBoost <dev@learnboost.com>
-
 mime 1.6.0 npmjs:mime/1.6.0: https://github.com/broofa/node-mime
 	Copyright (c) 2010 Benjamin Thomas, Robert Kieffer
 
@@ -18489,6 +18489,8 @@ outcaste-io/ristretto v0.2.3 github:outcaste-io/ristretto:v0.2.3
 	Copyright 2021 Dgraph Labs, Inc. and Contributors
 	Copyright 2023 Dgraph Labs, Inc. and Contributors
 	N/A
+outscale/osc-sdk-go v2.35.0 github:outscale/osc-sdk-go:v2.35.0: https://github.com/outscale/osc-sdk-go
+	No Copyrights found
 outvariant 1.4.0 npmjs:outvariant/1.4.0
 	Copyright (c) 2021
 outvariant 1.4.3 npmjs:outvariant/1.4.3
@@ -20853,8 +20855,8 @@ this software without specific prior written permission.
 sebdah/goldie v2.8.0 github:sebdah/goldie:v2.8.0: https://github.com/sebdah/goldie
 	Copyright (c) 2006 Google Inc.
 	Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
-	Copyright (c) 2012-2016 The go-diff Authors. All rights reserved.
 	Copyright (c) 2012-2016 The go-diff authors. All rights reserved.
+	Copyright (c) 2012-2016 The go-diff Authors. All rights reserved.
 	Copyright (c) 2012-2018 Mat Ryer and Tyler Bunnell
 	Copyright (c) 2013, Patrick Mezard
 	Copyright (c) 2013-2016 Dave Collins <dave@davec.name>
@@ -21053,8 +21055,8 @@ sigs.k8s.io/controller-runtime v0.24.1 github:kubernetes-sigs/controller-runtime
 	Copyright 2014 The Kubernetes Authors.
 	Copyright 2016 The Kubernetes Authors.
 	Copyright 2017 The Kubernetes Authors.
-	Copyright 2018 The Kubernetes authors.
 	Copyright 2018 The Kubernetes Authors.
+	Copyright 2018 The Kubernetes authors.
 	Copyright 2019 The Kubernetes Authors.
 	Copyright 2020 The Kubernetes Authors.
 	Copyright 2021 The Kubernetes Authors
@@ -23303,7 +23305,7 @@ webpack-bundle-analyzer 5.3.0 npmjs:webpack-bundle-analyzer/5.3.0: https://githu
 	Copyright JS Foundation and other contributors
 webpack-cli 5.1.4 npmjs:webpack-cli/5.1.4: https://github.com/webpack/webpack-cli#readme
 	Copyright JS Foundation and other contributors
-webpack-contrib/sass-loader 13.3.2 npmjs:sass-loader/13.3.2: https://github.com/webpack-contrib/sass-loader
+webpack-contrib/sass-loader 13.3.2 npmjs:sass-loader/13.3.2: https://github.com/jtangelder/sass-loader
 	Copyright JS Foundation and other contributors
 webpack-dev-server 5.2.2 npmjs:webpack-dev-server/5.2.2: https://github.com/webpack/webpack-dev-server
 	Copyright JS Foundation and other contributors
@@ -23668,8 +23670,8 @@ zeekay/highlight.js 11.11.1 npmjs:highlight.js/11.11.1: https://github.com/highl
 	(c) Dmitriy Tarasov <dimatar@gmail.com>
 	(c) Gustavo Costa <gusbemacbe@gmail.com>
 	(c) Henri Vandersleyen <hvandersleyen@gmail.com>
-	(c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 	(c) Ivan Sagalaev <Maniac@SoftwareManiacs.Org>
+	(c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 	(c) MajestiC <majestic2k@gmail.com>
 	(c) Mike Bostock
 	(c) MY Sun <simonmysun@gmail.com>
