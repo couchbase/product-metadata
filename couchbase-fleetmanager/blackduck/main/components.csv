@@ -80,7 +80,7 @@
 78,couchbase/tools-common,couchbase/v3.9.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,de65ebcc-5cad-4d99-9a81-a6f02ff3bcf9,00000000-0010-0000-0000-000000000000
 79,couchbase/tools-common,environment/v1.1.3,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,4f525b8e-9db8-4150-b3b4-11cf45209753,00000000-0010-0000-0000-000000000000
 80,couchbase/tools-common,errors/v1.1.0,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,768e2eb2-c8d7-4140-8d6d-d96eb7007c34,00000000-0010-0000-0000-000000000000
-81,couchbase/tools-common,fs/v1.1.0,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,b3737a2a-2ba2-48f8-ac22-75de2a24b89a,00000000-0010-0000-0000-000000000000
+81,couchbase/tools-common,fs/v1.1.1,Direct Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,39da646c-f170-4adf-a57c-151657d27463,00000000-0010-0000-0000-000000000000
 82,couchbase/tools-common,http/v1.1.0,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,820b7045-e403-4b91-8863-a02ecb48e827,00000000-0010-0000-0000-000000000000
 83,couchbase/tools-common,strings/v1.0.0,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,a00288fe-6236-4cd5-b642-4c146caed6e8,00000000-0010-0000-0000-000000000000
 84,couchbase/tools-common,testing/v1.0.3,Transitive Dependency,Unknown License,UNKNOWN,NOT_REVIEWED,431f0b3c-070d-40f0-8f1d-604d56cdb6f9,c2271c3d-920b-4cb8-b5a7-2d9e0ebe079f,00000000-0010-0000-0000-000000000000
@@ -137,7 +137,7 @@
 135,golang.org/x/mod,v0.41.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,67e4942e-545c-4ba1-a91d-a56b64c32b70,b0dca572-58ad-4e93-a482-06aa7fd173cb,3d238144-44e6-450e-b523-3defbdaed9dc
 136,golang.org/x/sys,v0.49.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,0faf96d2-f25b-44c9-ada2-54a9140e3569,80c2c1cc-07c4-41bf-ae19-ac2a02adc389,3d238144-44e6-450e-b523-3defbdaed9dc
 137,golang.org/x/time,v0.16.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,c4b7d4ea-b69e-41cd-8158-8f370c2195ad,73c02713-617b-47d7-87e2-cb3b88eec55d,3d238144-44e6-450e-b523-3defbdaed9dc
-138,golang/net,v0.61.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f9578cfe-b575-44ea-a33e-2a594aba92b0,edb71e55-feda-4da4-afbe-5fb6aeda62e1,3d238144-44e6-450e-b523-3defbdaed9dc
+138,golang/net,v0.62.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,f9578cfe-b575-44ea-a33e-2a594aba92b0,47b3dcb9-8562-40a8-be6f-23542eda1e43,3d238144-44e6-450e-b523-3defbdaed9dc
 139,golang/sync,v0.24.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,ffd9a8bc-14e6-49b6-bf3a-ab778af14f59,b0970636-ac3c-42f3-be78-d7302a874b93,3d238144-44e6-450e-b523-3defbdaed9dc
 140,golang/text,v0.43.0,Transitive Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,1566e7c5-6837-4b8b-bb4c-f53079002207,30c1d062-fd01-423f-9bbf-9685e8643097,3d238144-44e6-450e-b523-3defbdaed9dc
 141,googleapis/go-genproto,20260928-snapshot-8a89bd63,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b1e6bf42-b243-4385-a118-af40bba11ff3,c9193ffe-64e1-4795-aa2e-c57077e25e29,7cae335f-1193-421e-92f1-8802b4243e93
@@ -241,7 +241,7 @@
 239,postcss-selector-parser,6.1.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,2756a7ac-3598-448b-b4ea-a8dafa601073,fd553919-9dfc-4e39-af90-09bec17b0e0b,ad705c59-6893-4980-bdbf-0837f1823cc4
 240,postcss-value-parser,4.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,337eff2e-b5c9-4570-a24e-1d799d3c6466,01f88747-c0fe-47fc-9a16-53e00a933bbe,ad705c59-6893-4980-bdbf-0837f1823cc4
 241,prometheus-client_model,v0.6.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1f0f4cb8-c53b-4ac4-a20e-2bd7b11686c8,dd89128f-5e96-40f4-9cb5-255135214b37,7cae335f-1193-421e-92f1-8802b4243e93
-242,prometheus-common,v0.72.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,399ba8e6-0419-4d36-81ef-754f8a32bdf0,ac5f9842-4ad3-4532-afc7-60e48444dfac,7cae335f-1193-421e-92f1-8802b4243e93
+242,prometheus-common,v0.73.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,399ba8e6-0419-4d36-81ef-754f8a32bdf0,ec4c5f06-018f-4806-8229-ede93063fa31,7cae335f-1193-421e-92f1-8802b4243e93
 243,prometheus-procfs,v0.22.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,28fc1259-0963-4734-85ab-7eb29eb9e134,9e19e3c8-6e2b-4513-be1b-c659e40522bb,7cae335f-1193-421e-92f1-8802b4243e93
 244,property-information,7.2.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,a8e99336-f141-426d-8671-c031a698c089,6fb74388-20c7-4f84-a27c-c6c696395868,ad705c59-6893-4980-bdbf-0837f1823cc4
 245,proxy-from-env,2.1.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,e0255d53-a544-49a8-b0e3-e37f9614efef,f3ae4cb1-6834-4e5d-b0b5-1d1efa17da80,ad705c59-6893-4980-bdbf-0837f1823cc4
