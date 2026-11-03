@@ -459,9 +459,9 @@ alabaster 1.0.0: https://pypi.python.org/pypi/alabaster : BSD 3-clause "New" or 
 annotated-doc 0.0.5 : MIT License
 annotated-types 0.8.0: https://github.com/annotated-types/annotated-types : MIT License
 ansi-escapes 6.0.0: https://github.com/sindresorhus/ansi-escapes : MIT License
-ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 6.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 6.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 anyio 4.14.2: https://pypi.org/project/anyio/ : MIT License
 anymatch 3.1.3: https://github.com/es128/anymatch : ISC License
 apache-md5 1.1.8: https://github.com/gevorg/apache-md5 : MIT License
@@ -485,7 +485,7 @@ atomic-sleep 1.0.0: https://github.com/davidmarkclements/atomic-sleep#readme : M
 Auth0_node-jsonwebtoken 9.0.3: https://github.com/auth0/node-jsonwebtoken : MIT License
 autodoc_pydantic 2.2.0: https://github.com/mansenfranzen/autodoc_pydantic : MIT License
 autodocsumm 0.2.15: https://github.com/Chilipp/autodocsumm : Apache License 2.0
-aws-sign 0.7.0: https://github.com/mikeal/aws-sign : Apache License 2.0
+aws-sign 0.7.0: https://github.com/request/aws-sign : Apache License 2.0
 aws4 1.12.0: https://github.com/mhart/aws4 : MIT License
 b4a 1.6.7: https://github.com/hypercore-skunkworks/b4a#readme : Apache License 2.0
 babel 2.18.0: https://babel.pocoo.org/ : BSD 3-clause "New" or "Revised" License
@@ -532,8 +532,8 @@ Chalk 2.4.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 3.0.0: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 5.2.0: https://github.com/sindresorhus/chalk : MIT License
-chalkansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-chalkansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
+chalkansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
+chalkansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
 chokidar 3.4.0: https://github.com/paulmillr/chokidar : MIT License
 chokidar 3.6.0: https://github.com/paulmillr/chokidar : MIT License
 chownr 2.0.0: https://github.com/isaacs/chownr : ISC License
@@ -714,6 +714,7 @@ express-rate-limit 5.5.1: https://github.com/nfriedly/express-rate-limit : MIT L
 expressjs/accepts 1.3.8: https://github.com/expressjs/accepts : MIT License
 expressjs/compressible 2.0.18: https://github.com/expressjs/compressible : MIT License
 expressjs/express 4.22.1: https://expressjs.com : MIT License
+expressjs/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 extend 3.0.2: https://github.com/justmoon/node-extend : MIT License
 extra-platforms 13.6.0 : Apache License 2.0
 extsprintf 1.3.0: https://github.com/davepacheco/node-extsprintf : MIT License
@@ -873,7 +874,6 @@ JSHTTP's negotiator 0.6.3: https://www.npmjs.com/package/negotiator : MIT Licens
 JSHTTP's negotiator 0.6.4: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.5: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
-jshttp/mime-types 2.1.35: https://github.com/jshttp/mime-types : MIT License
 jsocol's bleach 6.4.0: http://github.com/jsocol/bleach : Apache License 2.0
 json-buffer 3.0.1: https://github.com/dominictarr/json-buffer : MIT License
 JSON-Patch 3.1.1: https://github.com/Starcounter-Jack/JSON-Patch : MIT License
@@ -891,7 +891,7 @@ jsonpointer 5.0.1: https://github.com/janl/node-jsonpointer#readme : MIT License
 jsonschema-specifications 2025.9.1: https://pypi.org/project/jsonschema-specifications/ : MIT License
 JSONStream 1.3.5: https://github.com/dominictarr/JSONStream : (MIT License OR Apache License 2.0)
 jsprim 2.0.2: https://github.com/davepacheco/node-jsprim : MIT License
-jupyter-builder 1.2.2: https://pypi.org/project/jupyter-builder/ : (MIT License AND ISC License AND BSD 3-clause "New" or "Revised" License)
+jupyter-builder 1.2.2 : (MIT License AND ISC License AND BSD 3-clause "New" or "Revised" License)
 jupyter-events 0.12.1: https://pypi.org/project/jupyter-events/ : BSD 3-clause "New" or "Revised" License
 jupyter-lsp 2.3.1: https://github.com/krassowski/jupyterlab-lsp : BSD 3-clause "New" or "Revised" License
 jupyter-server-terminals 0.5.4: https://jupyter.org : BSD 3-clause "New" or "Revised" License
@@ -11525,7 +11525,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(expressjs/accepts 1.3.8, jshttp/mime-types 2.1.35)
+(expressjs/accepts 1.3.8, expressjs/mime-types 2.1.35)
 
 (The MIT License)
 
