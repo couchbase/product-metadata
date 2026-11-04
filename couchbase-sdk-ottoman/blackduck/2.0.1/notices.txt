@@ -115,9 +115,9 @@ Acorn-JSX 5.3.2: https://github.com/RReverser/Acorn-JSX : MIT License
 aggregate-error 3.1.0: https://github.com/sindresorhus/aggregate-error#readme : MIT License
 ajv 6.12.6: https://github.com/ajv-validator/ajv.git : MIT License
 ansi-escapes 4.3.2: https://github.com/sindresorhus/ansi-escapes : MIT License
-ansi-styles 5.2.0: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 6.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
+ansi-styles 5.2.0: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 6.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 anymatch 3.1.3: https://github.com/es128/anymatch : ISC License
 array-differ 3.0.0: https://github.com/sindresorhus/array-differ : MIT License
 array-union v2.1.0: https://github.com/sindresorhus/array-union : MIT License
@@ -140,8 +140,8 @@ camelcase 6.3.0: https://github.com/sindresorhus/camelcase : MIT License
 caniuse-lite 1.0.30001717: https://github.com/ben-eb/caniuse-lite : Creative Commons Attribution 4.0
 Chalk 3.0.0: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
-chalkansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-chalkansi-regex 6.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
+chalkansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
+chalkansi-regex 6.1.0: https://github.com/chalk/ansi-regex : MIT License
 char-regex 1.0.2: https://github.com/Richienb/char-regex#readme : MIT License
 chownr 3.0.0: https://github.com/isaacs/chownr : ISC License
 ci-info 3.9.0: https://github.com/watson/ci-info : MIT License
@@ -229,6 +229,7 @@ hdr-histogram-js 3.0.1: https://github.com/HdrHistogram/HdrHistogramJS#readme : 
 human-signals 1.1.1: https://git.io/JeluP : Apache License 2.0
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 human-signals 3.0.1: https://git.io/JeluP : Apache License 2.0
+iarna/write-file-atomic 4.0.2: https://github.com/iarna/write-file-atomic : ISC License
 import-fresh 3.3.1: https://github.com/sindresorhus/import-fresh : MIT License
 import-local 3.2.0: https://github.com/sindresorhus/import-local#readme : MIT License
 imurmurhash 0.1.4: https://github.com/jensyt/imurmurhash-js : MIT License
@@ -455,7 +456,6 @@ word-wrap 1.2.5: https://github.com/jonschlinkert : MIT License
 wrap-ansi v6.2.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
-write-file-atomic 4.0.2: https://github.com/npm/write-file-atomic : ISC License
 y18n 5.0.8: https://github.com/yargs/y18n : ISC License
 yallist 3.1.1: https://github.com/isaacs/yallist#readme : ISC License
 yallist 5.0.0: https://github.com/isaacs/yallist#readme : Blue Oak Model License 1.0.0
@@ -1856,7 +1856,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(@isaacs/fs-minipass 4.0.1, anymatch 3.1.3, chownr 3.0.0, cliui 8.0.1, electron-to-chromium 1.5.152, fastq 1.19.1, flatted 3.3.3, node-glob 7.2.3, node-graceful-fs 4.2.11, node-semver  6.3.1, node-semver  7.7.2, node-semver  7.7.4, picocolors 1.1.1, v8-to-istanbul 9.3.0, which 6.0.1, write-file-atomic 4.0.2, yaml 2.7.1, yargs-parser 21.1.1)
+(@isaacs/fs-minipass 4.0.1, anymatch 3.1.3, chownr 3.0.0, cliui 8.0.1, electron-to-chromium 1.5.152, fastq 1.19.1, flatted 3.3.3, iarna/write-file-atomic 4.0.2, node-glob 7.2.3, node-graceful-fs 4.2.11, node-semver  6.3.1, node-semver  7.7.2, node-semver  7.7.4, picocolors 1.1.1, v8-to-istanbul 9.3.0, which 6.0.1, yaml 2.7.1, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
