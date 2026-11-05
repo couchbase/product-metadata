@@ -368,10 +368,10 @@ color-name 1.1.3: https://github.com/colorjs/color-name : MIT License
 color-name 1.1.4: https://github.com/colorjs/color-name : MIT License
 colorette 1.3.0: https://github.com/jorgebucaran/colorette : MIT License
 combined-stream 1.0.8: https://github.com/felixge/node-combined-stream : MIT License
-Commander.js 2.17.1: https://github.com/tj/commander.js : MIT License
-Commander.js 2.19.0: https://github.com/tj/commander.js : MIT License
-Commander.js 7.2.0: https://github.com/tj/commander.js : MIT License
-Commander.js v2.20.3: https://github.com/tj/commander.js : MIT License
+Commander.js 2.17.1: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 2.19.0: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js 7.2.0: https://github.com/visionmedia/Commander.js : MIT License
+Commander.js v2.20.3: https://github.com/visionmedia/Commander.js : MIT License
 Commitizen CLI 4.2.4: http://commitizen.github.io/cz-cli/ : MIT License
 commitizen/cz-conventional-changelog 3.2.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
 commitizen/cz-conventional-changelog 3.3.0: https://github.com/commitizen/cz-conventional-changelog : MIT License
@@ -839,6 +839,8 @@ listr2 3.11.0: https://github.com/cenk1cenk2/listr2#readme : MIT License
 ljharb/object.assign 4.1.2: https://github.com/ljharb/object.assign : MIT License
 load-script 1.0.0: https://github.com/eldargab/load-script : MIT License
 loader-runner 2.4.0: https://github.com/webpack/loader-runner : MIT License
+loader-utils 0.2.17: https://github.com/webpack/loader-utils : MIT License
+loader-utils 1.4.0: https://github.com/webpack/loader-utils : MIT License
 locate-path 3.0.0: https://github.com/sindresorhus/locate-path : MIT License
 locate-path 5.0.0: https://github.com/sindresorhus/locate-path : MIT License
 Lodash 4.17.21: https://lodash.com/ : MIT License
@@ -896,7 +898,7 @@ micromatch 4.0.4: https://github.com/jonschlinkert/micromatch : MIT License
 micromatch/braces 2.3.2: https://github.com/micromatch/braces : MIT License
 micromatch/braces 3.0.2: https://github.com/micromatch/braces : MIT License
 Microsofttslib 1.14.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
-mikeal/aws-sign 0.7.0: https://github.com/request/aws-sign : Apache License 2.0
+mikeal/aws-sign 0.7.0: https://github.com/mikeal/aws-sign : Apache License 2.0
 mikeal/oauth-sign 0.9.0: https://github.com/mikeal/oauth-sign : Apache License 2.0
 miller-rabin 4.0.1: https://github.com/indutny/miller-rabin : MIT License
 mime 1.6.0: https://github.com/broofa/node-mime : MIT License
@@ -1443,8 +1445,6 @@ webpack-dev-server 3.11.2: https://github.com/webpack/webpack-dev-server : MIT L
 webpack-log v2.0.0: https://www.npmjs.com/package/webpack-log : MIT License
 webpack-merge 4.2.2: https://github.com/survivejs/webpack-merge : MIT License
 webpack-sources 1.4.3: https://github.com/webpack/webpack-sources#readme : MIT License
-webpack/loader-utils 0.2.17: https://github.com/webpack/loader-utils : MIT License
-webpack/loader-utils 1.4.0: https://github.com/webpack/loader-utils : MIT License
 webpack/webpack-dev-middleware 3.7.3: https://github.com/webpack/webpack-dev-middleware : MIT License
 webpackbar 3.2.0: https://github.com/nuxt/webpackbar#readme : MIT License
 webreflection/html-escaper 2.0.2: https://github.com/WebReflection/html-escaper : MIT License
@@ -14195,7 +14195,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(webpack/loader-utils 0.2.17)
+(loader-utils 0.2.17)
 
 (The MIT License)
 
@@ -15125,7 +15125,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(copy-webpack-plugin 5.1.2, css-loader 2.1.1, enhanced-resolve 4.5.0, file-loader 3.0.1, memory-fs 0.5.0, mini-css-extract-plugin 0.6.0, schema-utils v2.7.1, terser-webpack-plugin 1.4.5, url-loader 1.1.2, vue-style-loader v4.1.3, watchpack 1.7.5, watchpack 2.0.1, Webpack 4.46.0, webpack-contrib/cache-loader 3.0.1, webpack-dev-server 3.11.2, webpack/loader-utils 1.4.0, webpack/webpack-dev-middleware 3.7.3, webpackbar 3.2.0)
+(copy-webpack-plugin 5.1.2, css-loader 2.1.1, enhanced-resolve 4.5.0, file-loader 3.0.1, loader-utils 1.4.0, memory-fs 0.5.0, mini-css-extract-plugin 0.6.0, schema-utils v2.7.1, terser-webpack-plugin 1.4.5, url-loader 1.1.2, vue-style-loader v4.1.3, watchpack 1.7.5, watchpack 2.0.1, Webpack 4.46.0, webpack-contrib/cache-loader 3.0.1, webpack-dev-server 3.11.2, webpack/webpack-dev-middleware 3.7.3, webpackbar 3.2.0)
 
 Copyright JS Foundation and other contributors
 
