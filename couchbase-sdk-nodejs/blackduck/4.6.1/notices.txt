@@ -9,6 +9,13 @@ Notices Report Content
 
 Components: 
 
+@couchbase/couchbase-darwin-arm64-napi 4.6.1: http://www.couchbase.com/communities/nodejs : Apache License 2.0
+@couchbase/couchbase-darwin-x64-napi 4.6.1: http://www.couchbase.com/communities/nodejs : Apache License 2.0
+@couchbase/couchbase-linux-arm64-napi 4.6.1: http://www.couchbase.com/communities/nodejs : Apache License 2.0
+@couchbase/couchbase-linux-x64-napi 4.6.1: http://www.couchbase.com/communities/nodejs : Apache License 2.0
+@couchbase/couchbase-linuxmusl-arm64-napi 4.6.1: http://www.couchbase.com/communities/nodejs : Apache License 2.0
+@couchbase/couchbase-linuxmusl-x64-napi 4.6.1: http://www.couchbase.com/communities/nodejs : Apache License 2.0
+@couchbase/couchbase-win32-x64-napi 4.6.1: http://www.couchbase.com/communities/nodejs : Apache License 2.0
 @isaacs/fs-minipass 4.0.1: https://github.com/npm/fs-minipass#readme : ISC License
 ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 Asio C++ Library 1.31.0: https://think-async.com/Asio/ : Boost Software License 1.0
@@ -62,7 +69,7 @@ yargs-parser 21.1.1: https://github.com/yargs/yargs-parser : ISC License
 Licenses: 
 
 Apache License 2.0
-(detect-libc 2.1.2, dominictarr/rc 1.2.8)
+(@couchbase/couchbase-darwin-arm64-napi 4.6.1, @couchbase/couchbase-darwin-x64-napi 4.6.1, @couchbase/couchbase-linux-arm64-napi 4.6.1, @couchbase/couchbase-linux-x64-napi 4.6.1, @couchbase/couchbase-linuxmusl-arm64-napi 4.6.1, @couchbase/couchbase-linuxmusl-x64-napi 4.6.1, @couchbase/couchbase-win32-x64-napi 4.6.1, detect-libc 2.1.2, dominictarr/rc 1.2.8)
 
 Apache License
 Version 2.0, January 2004
