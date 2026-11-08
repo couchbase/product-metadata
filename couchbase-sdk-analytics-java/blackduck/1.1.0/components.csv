@@ -13,7 +13,7 @@
 11,Jetbrains annotations,26.1.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,22950adc-2441-4363-8255-c660e82eff79,96e6631d-2b42-4c1e-b2e8-c5cd53f1fb19,7cae335f-1193-421e-92f1-8802b4243e93
 12,Kotlin,2.1.21,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ecbf67e0-977b-40dd-830d-42c44c595a57,25c3ad2b-519e-41b2-935e-3cf4aef83f90,7cae335f-1193-421e-92f1-8802b4243e93
 13,OkHttp Transport Layer Security (TLS),5.4.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,be16bc02-f986-429c-a542-dd524ab551d4,7c7aec69-1f63-4631-9186-f4200170cedf,7cae335f-1193-421e-92f1-8802b4243e93
-14,OkHttp Transport Layer Security (TLS),5.5.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,be16bc02-f986-429c-a542-dd524ab551d4,ebb8dc28-037f-42a0-a02b-5f1e05199ff2,7cae335f-1193-421e-92f1-8802b4243e93
+14,OkHttp Transport Layer Security (TLS),5.5.0,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,be16bc02-f986-429c-a542-dd524ab551d4,ebb8dc28-037f-42a0-a02b-5f1e05199ff2,7cae335f-1193-421e-92f1-8802b4243e93
 15,OkIO,3.17.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,92a62dae-28ba-467b-a999-60e889d11a58,90b8b385-a5c0-4557-a08e-8c6a345a54c8,7cae335f-1193-421e-92f1-8802b4243e93
 16,Proto Google Common Protos,2.64.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,bcb4fb16-c588-440e-873f-e1fb57f06033,8db694c1-4064-43c8-9fe9-f99697e0dcb9,7cae335f-1193-421e-92f1-8802b4243e93
 17,SLF4J API Module,2.0.18,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,ca782761-ef54-4eb6-b7f0-b9fbb15a0698,800669dd-1ad5-4bf2-ab8f-b90698da53b4,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -21,22 +21,22 @@
 19,error-prone annotations,2.50.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,40efa0ac-10f0-46c5-a8a8-6f627b3fd59c,2a174ff0-63be-4a9d-a52e-3131c8ed1405,7cae335f-1193-421e-92f1-8802b4243e93
 20,googlegson,2.14.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5268f229-3e37-4068-ad3a-18f0bfbf8b34,2435665c-bd74-4e0d-819e-0d79e506e3a5,7cae335f-1193-421e-92f1-8802b4243e93
 21,googleguava,33.6.0-android,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2f0a32a0-f5c6-45d7-858c-b8a5d922633d,12bc2495-87d3-48eb-b201-56279bbd702a,7cae335f-1193-421e-92f1-8802b4243e93
-22,grpc-java,1.84.0,"Direct Dependency,Transitive Dependency",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5dab2ab0-845f-4be6-889e-f9af5c5f7de9,fa7f40d5-21bc-4af2-96f5-a78be5dcc78e,7cae335f-1193-421e-92f1-8802b4243e93
-23,io.grpc:grpc-context,1.84.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f2ab73b5-26ac-46a1-b92d-9be2ff333fe9,b38feb17-bfdb-428e-b33a-7a78d50b1bf2,7cae335f-1193-421e-92f1-8802b4243e93
-24,io.grpc:grpc-netty-shaded,1.84.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,63034eed-54bd-458c-82d8-2959a2b7ea20,d432e319-3bf5-4b85-9877-ca6767ffb0f0,7cae335f-1193-421e-92f1-8802b4243e93
-25,io.grpc:grpc-protobuf-lite,1.84.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,30b551b8-5ad8-4b20-b3b2-cddf3ae2ec17,89ebce37-81e3-43e9-83f5-950c6337ed07,7cae335f-1193-421e-92f1-8802b4243e93
-26,io.grpc:grpc-stub,1.84.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5c46d8c5-43d4-4e35-8087-7a5bfbea89a6,b3855a95-a950-4e54-a208-2e3a33042789,7cae335f-1193-421e-92f1-8802b4243e93
-27,io.grpc:grpc-util,1.84.0,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,47c10de0-ca43-4304-bc62-5781c9274d86,bf09999e-378c-4d99-87f2-e69286c1df46,7cae335f-1193-421e-92f1-8802b4243e93
+22,grpc-java,1.85.1,"Direct Dependency,Transitive Dependency",Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5dab2ab0-845f-4be6-889e-f9af5c5f7de9,ab7046ec-79fa-4459-9842-b4fd5bff1dee,7cae335f-1193-421e-92f1-8802b4243e93
+23,io.grpc:grpc-context,1.85.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f2ab73b5-26ac-46a1-b92d-9be2ff333fe9,03f2057a-41cf-4d50-8ce4-328f4338283a,7cae335f-1193-421e-92f1-8802b4243e93
+24,io.grpc:grpc-netty-shaded,1.85.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,63034eed-54bd-458c-82d8-2959a2b7ea20,29257c82-6570-400a-b3a2-ca54b1963829,7cae335f-1193-421e-92f1-8802b4243e93
+25,io.grpc:grpc-protobuf-lite,1.85.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,30b551b8-5ad8-4b20-b3b2-cddf3ae2ec17,875b4f2b-b7fd-44bc-beea-0711735ca7df,7cae335f-1193-421e-92f1-8802b4243e93
+26,io.grpc:grpc-stub,1.85.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5c46d8c5-43d4-4e35-8087-7a5bfbea89a6,9127b59f-ecdf-40c0-9c10-146ac6ed9669,7cae335f-1193-421e-92f1-8802b4243e93
+27,io.grpc:grpc-util,1.85.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,47c10de0-ca43-4304-bc62-5781c9274d86,ecda0b9c-410f-4194-9a37-e6fac1dd5012,7cae335f-1193-421e-92f1-8802b4243e93
 28,j2objc - Java to IOS,3.1,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,19b828de-583f-4919-9492-c356603985e1,b268945b-e6e9-428a-b1f5-c99b0c9d31ce,7cae335f-1193-421e-92f1-8802b4243e93
 29,jackson-annotations,2.21,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,3fe8426d-3814-4d68-b9f0-e24ff4e3a0be,7cae335f-1193-421e-92f1-8802b4243e93
-30,jackson-annotations,2.22,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,d9510484-06bc-445a-9425-d0a50a26122c,7cae335f-1193-421e-92f1-8802b4243e93
+30,jackson-annotations,2.22,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d5b90213-52f8-4429-b3c7-ed582af929d2,d9510484-06bc-445a-9425-d0a50a26122c,7cae335f-1193-421e-92f1-8802b4243e93
 31,jackson-core,2.21.4,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,2d62bef3-9d0c-44cd-ab20-90ce2e1759a5,7cae335f-1193-421e-92f1-8802b4243e93
-32,jackson-core,2.22.3,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,557cfd83-e7a1-4055-86c6-79deeeae6f18,7cae335f-1193-421e-92f1-8802b4243e93
+32,jackson-core,2.22.4,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,4c08d575-40e5-4778-acd6-b76230f3a895,20401e69-7f9f-430d-a1da-6c4b4948699d,7cae335f-1193-421e-92f1-8802b4243e93
 33,jackson-databind,2.21.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,37926504-8a57-4ffc-a1c7-6fe59b296a6f,7cae335f-1193-421e-92f1-8802b4243e93
-34,jackson-databind,2.22.3,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,70c203c7-9571-4659-ad6b-3311e02b9143,7cae335f-1193-421e-92f1-8802b4243e93
+34,jackson-databind,2.22.4,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,9df85d29-58b6-4214-a54c-532b24fa1e72,7cae335f-1193-421e-92f1-8802b4243e93
 35,json-skiff,1.0.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,04fd74cf-1d60-47ae-b36d-e9e3ca1f9e96,5229cf44-6bb5-4db1-95d6-d3fca47a54bb,7cae335f-1193-421e-92f1-8802b4243e93
 36,okhttp,5.4.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3c15104f-de77-42ea-a116-9e7c52d7b699,f7b39e3f-bfef-4cb8-a599-2f0694d46e3c,7cae335f-1193-421e-92f1-8802b4243e93
-37,okhttp,5.5.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3c15104f-de77-42ea-a116-9e7c52d7b699,1b97135e-7237-4866-9a25-90032e084c50,7cae335f-1193-421e-92f1-8802b4243e93
+37,okhttp,5.5.0,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,3c15104f-de77-42ea-a116-9e7c52d7b699,1b97135e-7237-4866-9a25-90032e084c50,7cae335f-1193-421e-92f1-8802b4243e93
 38,org.apiguardian:apiguardian-api,1.1.2,Transitive Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,2d98ef93-85e9-4367-b773-ca74444bab5c,d9a5d198-8382-45ed-8d2c-681eab175bc6,7cae335f-1193-421e-92f1-8802b4243e93
 39,org.junit.jupiter:junit-jupiter-api,6.1.3,Transitive Dependency,Eclipse Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,5215145d-af3c-49be-843e-c91f6a31fad2,c7436e91-4815-412d-96c3-d1cafe5026eb,8f64c451-7777-4762-903b-605797caef38
 40,org.junit.jupiter:junit-jupiter-engine,6.1.3,Transitive Dependency,Eclipse Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,e5acb76f-6a17-4dd6-9480-303f19d5f184,0ef91489-f02d-49d5-bd37-47fbd6a16bc4,8f64c451-7777-4762-903b-605797caef38
