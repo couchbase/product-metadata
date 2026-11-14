@@ -713,6 +713,7 @@ express-rate-limit 5.5.1: https://github.com/nfriedly/express-rate-limit : MIT L
 expressjs/accepts 1.3.8: https://github.com/expressjs/accepts : MIT License
 expressjs/compressible 2.0.18: https://github.com/expressjs/compressible : MIT License
 expressjs/express 4.22.1: https://expressjs.com : MIT License
+expressjs/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 extend 3.0.2: https://github.com/justmoon/node-extend : MIT License
 extra-platforms 13.6.0 : Apache License 2.0
 extsprintf 1.3.0: https://github.com/davepacheco/node-extsprintf : MIT License
@@ -872,7 +873,6 @@ JSHTTP's negotiator 0.6.3: https://www.npmjs.com/package/negotiator : MIT Licens
 JSHTTP's negotiator 0.6.4: https://www.npmjs.com/package/negotiator : MIT License
 jshttp/content-type 1.0.5: https://github.com/jshttp/content-type : MIT License
 jshttp/fresh 0.5.2: https://github.com/jshttp/fresh : MIT License
-jshttp/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 jsocol's bleach 6.4.0: http://github.com/jsocol/bleach : Apache License 2.0
 json-buffer 3.0.1: https://github.com/dominictarr/json-buffer : MIT License
 JSON-Patch 3.1.1: https://github.com/Starcounter-Jack/JSON-Patch : MIT License
@@ -991,7 +991,7 @@ merge2 1.4.1: https://github.com/teambition/merge2 : MIT License
 methods 1.1.2: https://github.com/visionmedia/node-methods : MIT License
 mhchemparser 4.1.1: https://github.com/mhchem/mhchemParser : Apache License 2.0
 micromatch 4.0.8: https://github.com/jonschlinkert/micromatch : MIT License
-micromatch/braces 3.0.3: https://github.com/micromatch/braces : MIT License
+micromatch/braces 3.0.3: https://github.com/jonschlinkert/braces : MIT License
 Microsofttslib 1.14.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
 Microsofttslib 2.5.0: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
 Microsofttslib 2.8.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
@@ -11529,7 +11529,7 @@ THE SOFTWARE
 ---
 
 MIT License
-(expressjs/accepts 1.3.8, jshttp/mime-types 2.1.35)
+(expressjs/accepts 1.3.8, expressjs/mime-types 2.1.35)
 
 (The MIT License)
 
