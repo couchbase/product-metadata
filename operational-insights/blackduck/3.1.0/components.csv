@@ -228,7 +228,7 @@
 226,AWS Java SDK :: HTTP Clients :: Apache5,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,44a02f16-cbff-4941-8c42-840ac2f2f318,41362926-d5ab-48d4-aedc-5c3a6c09a153,7cae335f-1193-421e-92f1-8802b4243e93
 227,AWS Java SDK :: HTTP Clients :: URL Connection,2.59.0,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9d9632ac-7048-4fd4-9ab3-825844280232,ff21809d-618f-4a65-8106-2f9b1f9d5271,7cae335f-1193-421e-92f1-8802b4243e93
 228,AWS Java SDK :: Retries API,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a76c02c8-edcb-4bf4-81f5-8a7b8b399259,a75c783e-0a7f-457a-adad-40b5d2b66739,7cae335f-1193-421e-92f1-8802b4243e93
-229,AWS Java SDK :: Services :: AWS Glue,2.59.0,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cb5b6151-f946-40a4-a725-7cb6052b2793,46201aa7-702b-4fd2-b3e7-0977615e1140,7cae335f-1193-421e-92f1-8802b4243e93
+229,AWS Java SDK :: Services :: AWS Glue,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,cb5b6151-f946-40a4-a725-7cb6052b2793,ccaf4876-3599-4889-86f3-026d395d8798,7cae335f-1193-421e-92f1-8802b4243e93
 230,AWS Java SDK :: Services :: Amazon DynamoDB,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,8fe5eb09-3c76-46b5-bfc7-1b5cd028d6ba,d5480ee6-628b-4530-be8c-c5241b8ad2a0,7cae335f-1193-421e-92f1-8802b4243e93
 231,AWS Java SDK :: Services :: Amazon S3,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,5376fe3b-cd89-4f05-adb3-6746070617ca,bd055274-c8f1-4aaf-8a67-369a6e844854,7cae335f-1193-421e-92f1-8802b4243e93
 232,AWS Java SDK :: Services :: SSO,2.59.0,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,1495e5c9-129b-4c2f-99d7-2ab85a0f9989,14fe62e8-50d9-465d-ab1a-20ef837dfbf7,7cae335f-1193-421e-92f1-8802b4243e93
@@ -1643,7 +1643,7 @@
 1641,Google API Common,2.73.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,a5d8e1f5-bc8d-4e0c-890b-113fbd86ade9,6b3f38f2-56cc-42f5-9925-cb0d68ceb1fd,3d238144-44e6-450e-b523-3defbdaed9dc
 1642,Google Android Annotations Library,4.1.1.4,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,20a0dd58-8d5a-4bb4-b4ec-eab519b874db,930706c2-3fd5-4287-b368-b42aaf24918f,7cae335f-1193-421e-92f1-8802b4243e93
 1643,Google App Engine extensions to the Google HTTP Client Library for Java.,2.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,0a9cffc0-d645-4549-80b0-0ac2c0da2031,389adaec-cd88-49df-9f81-f907452e4b2e,7cae335f-1193-421e-92f1-8802b4243e93
-1644,Google Auth Library for Java,1.57.0,Manually Added,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bd222a6a-9b55-4dab-9d5a-b856a0af5f61,a5fd6f30-6b4d-4f74-9b1c-6e92043e61b3,3d238144-44e6-450e-b523-3defbdaed9dc
+1644,Google Auth Library for Java,1.58.0,Direct Dependency,"BSD 3-clause ""New"" or ""Revised"" License",PERMISSIVE,NOT_REVIEWED,bd222a6a-9b55-4dab-9d5a-b856a0af5f61,9ba5daee-7612-4b35-b70b-389501f9c170,3d238144-44e6-450e-b523-3defbdaed9dc
 1645,Google Cloud Monitoring,3.52.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,48ce7452-8b17-43f6-b194-9b499ee76964,504d606b-e271-460b-aae5-09ef7af07583,7cae335f-1193-421e-92f1-8802b4243e93
 1646,Google Cloud Storage,2.78.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,a8248f94-c476-4e28-aaaa-7443e9c5b2af,c9662616-c378-40a1-844f-297873e01d24,7cae335f-1193-421e-92f1-8802b4243e93
 1647,Google HTTP Client Library for Java,2.2.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,01bdf555-79c6-46ff-989a-9e8c4709cc62,14c58b9f-531b-483b-8285-65419d122955,7cae335f-1193-421e-92f1-8802b4243e93
@@ -2820,7 +2820,7 @@
 2818,ARG,5.0.2,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,4b913b75-8ea8-4d81-bdf9-a93939829839,19d228ef-98bd-4977-803b-8441ebc15b5f,ad705c59-6893-4980-bdbf-0837f1823cc4
 2819,AWS Java SDK :: AWS CRT Core,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,38eb0a5f-7330-418d-9046-70e2cdb5d923,e71f6922-3dc1-41d0-bc55-b2754f803683,7cae335f-1193-421e-92f1-8802b4243e93
 2820,AWS Java SDK :: Checksums,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,862850b7-4a76-4275-add3-753fa5ffc7e2,b64b7ebf-038b-480c-99c1-a82f023ec99f,7cae335f-1193-421e-92f1-8802b4243e93
-2821,AWS Java SDK :: Services :: AWS KMS,2.59.0,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b2036b80-afe6-4131-a03d-34d9c9a0511f,e748b514-1fa0-4f4b-b946-4ea7c2b7c461,7cae335f-1193-421e-92f1-8802b4243e93
+2821,AWS Java SDK :: Services :: AWS KMS,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,b2036b80-afe6-4131-a03d-34d9c9a0511f,34fc2c41-b762-4f83-a3c1-c2dd505f886d,7cae335f-1193-421e-92f1-8802b4243e93
 2822,AWS Java SDK :: Third Party :: Jackson-core,2.59.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,c51d855b-b910-4a58-9781-ad1ea34b8765,979fd410-69af-4333-83ef-34e6b9100a12,7cae335f-1193-421e-92f1-8802b4243e93
 2823,Apache Commons Text,1.15.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,f2c3b205-3e60-4d6c-a8ac-7d044b30f7c6,1003a333-5124-4612-8153-25a5fcc7f429,7cae335f-1193-421e-92f1-8802b4243e93
 2824,Apache Hadoop Amazon Web Services support,3.5.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,deb253b8-90c1-4211-89d1-87aff9be7244,cadd87c0-fd9d-4e0d-aa66-e8890cdff563,7cae335f-1193-421e-92f1-8802b4243e93
