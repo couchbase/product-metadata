@@ -1157,7 +1157,7 @@
 1155,react-lifecycles-compat,3.0.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,da1cbc45-a1b0-4b5d-a238-95054f26e9a8,6b18b610-68a6-4fd8-a37d-091316bcbf2a,ad705c59-6893-4980-bdbf-0837f1823cc4
 1156,react-resize-detector,7.1.2,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,5acf6841-5794-4db5-b468-6799271f9250,2edfa540-b39d-49a2-8d59-bd3f82f57611,ad705c59-6893-4980-bdbf-0837f1823cc4
 1157,react-test-renderer,17.0.2,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0e8b3662-9001-4363-8fd1-c8e5a9b5743b,fed15f58-d147-4105-8e9c-d92613ae23ae,ad705c59-6893-4980-bdbf-0837f1823cc4
-1158,reactor-core,3.8.8,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,081f2fd9-1955-445b-94e2-e9d544097b9e,7cae335f-1193-421e-92f1-8802b4243e93
+1158,reactor-core,3.8.8,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,57acb49f-c5f5-4081-adbb-90099c4307d7,081f2fd9-1955-445b-94e2-e9d544097b9e,7cae335f-1193-421e-92f1-8802b4243e93
 1159,reactstrap,8.10.1,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0b03bd37-2e71-4722-9e9d-9cc8c19274bf,0ac51b35-69b5-4859-a6ae-69bcbcca8651,ad705c59-6893-4980-bdbf-0837f1823cc4
 1160,reacttraining/react-router,5.3.4,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,aad13d25-9938-4078-a8b7-7a2bdd4a685e,583c473c-ea14-41d8-a8ef-297a0c1f2178,ad705c59-6893-4980-bdbf-0837f1823cc4
 1161,readable-stream,3.6.0,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,009857b7-cc33-4192-bf97-bcfe47025828,e2d0d7a7-ef34-44aa-8b03-5f8ebca5b0d1,ad705c59-6893-4980-bdbf-0837f1823cc4
@@ -2233,9 +2233,9 @@
 2231,jackson-databind,2.22.4,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,ce7ad18a-6e02-4565-a51c-4fc2c5bc7c47,9df85d29-58b6-4214-a54c-532b24fa1e72,7cae335f-1193-421e-92f1-8802b4243e93
 2232,jackson-dataformat-binary,2.22.4,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,d216126e-9670-4663-9027-49bc98e24754,0d2d4dde-839c-4763-8114-2a7bce4ebf97,7cae335f-1193-421e-92f1-8802b4243e93
 2233,jackson-dataformat-csv,2.23.0,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,9b61106e-aeec-4de8-835b-be842f0c62b6,0235a90e-f606-4928-b2ad-9a60e21821d9,7cae335f-1193-421e-92f1-8802b4243e93
-2234,jakartaee/rest,2.1.6,Direct Dependency,Eclipse Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,7a65fa3f-2d7b-49d2-9878-c3b299bc7df5,352174ca-96a4-46a1-a97d-a134eddd6a47,8f64c451-7777-4762-903b-605797caef38
-2235,jakartaeevalidation,2.0.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7cd5265c-4925-4b4c-a539-fbc89713c9cb,8efcb1c2-f8c2-452d-8523-7bc30ee0f1d1,7cae335f-1193-421e-92f1-8802b4243e93
-2236,jakartaeevalidation,2.0.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7cd5265c-4925-4b4c-a539-fbc89713c9cb,9d9f0744-6beb-4360-8189-d0baf0730ec2,7cae335f-1193-421e-92f1-8802b4243e93
+2234,jakartaee validation,2.0.1,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7cd5265c-4925-4b4c-a539-fbc89713c9cb,8efcb1c2-f8c2-452d-8523-7bc30ee0f1d1,7cae335f-1193-421e-92f1-8802b4243e93
+2235,jakartaee validation,2.0.2,Direct Dependency,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,7cd5265c-4925-4b4c-a539-fbc89713c9cb,9d9f0744-6beb-4360-8189-d0baf0730ec2,7cae335f-1193-421e-92f1-8802b4243e93
+2236,jakartaee/rest,2.1.6,Direct Dependency,Eclipse Public License 2.0,WEAK_RECIPROCAL,NOT_REVIEWED,7a65fa3f-2d7b-49d2-9878-c3b299bc7df5,352174ca-96a4-46a1-a97d-a134eddd6a47,8f64c451-7777-4762-903b-605797caef38
 2237,jarcoal/httpmock,v1.3.1,Transitive Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,0c7e10a7-7060-4813-a4a3-5e6a3853c8b3,74e5c44b-55d7-4c26-826a-5ba9a64baffa,ad705c59-6893-4980-bdbf-0837f1823cc4
 2238,javapoet,0.19.0,Manually Added,Apache License 2.0,PERMISSIVE,NOT_REVIEWED,00ae197b-f6ba-492e-9780-d86d4043996c,8acd8b42-288d-47f0-8b44-c7ecbde1dd15,7cae335f-1193-421e-92f1-8802b4243e93
 2239,jefflau/jest-fetch-mock,3.0.3,Direct Dependency,MIT License,PERMISSIVE,NOT_REVIEWED,8ca045cb-b2b7-4f40-b6d7-c2a6af408304,4ce88fbd-8bcb-4087-b416-37d2f4d8f8df,ad705c59-6893-4980-bdbf-0837f1823cc4
