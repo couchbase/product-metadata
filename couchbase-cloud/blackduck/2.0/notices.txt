@@ -3139,6 +3139,16 @@ ansi-escapes 7.3.0 npmjs:ansi-escapes/7.3.0: https://github.com/sindresorhus/ans
 ansi-html-community 0.0.8 npmjs:ansi-html-community/0.0.8: https://github.com/mahdyar/ansi-html-community
 	Copyright {yyyy
 
+ansi-regex 4.1.1 npmjs:ansi-regex/4.1.1: https://github.com/sindresorhus/ansi-regex
+	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+ansi-regex 5.0.1 npmjs:ansi-regex/5.0.1: https://github.com/sindresorhus/ansi-regex
+	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+ansi-regex 6.0.1 npmjs:ansi-regex/6.0.1: https://github.com/sindresorhus/ansi-regex
+	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+
+ansi-regex 6.2.2 npmjs:ansi-regex/6.2.2: https://github.com/sindresorhus/ansi-regex
+	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 ansi-styles 3.2.1 npmjs:ansi-styles/3.2.1: https://github.com/chalk/ansi-styles
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -3944,13 +3954,13 @@ Azure/azure-sdk-for-go v2.2.0-beta github:Azure/azure-sdk-for-go:v2.2.0-beta: ht
 	cnt := randContainer()
 
 	c.Assert(cli.CreateContainer(cnt, ContainerAccessTypePrivate), chk.IsNil)
-	defer cli.deleteContainer(cnt)
+	defer cli.DeleteContainer(cnt)
 
 	(c)
 	cnt := randContainer()
 
 	c.Assert(cli.CreateContainer(cnt, ContainerAccessTypePrivate), chk.IsNil)
-	defer cli.DeleteContainer(cnt)
+	defer cli.deleteContainer(cnt)
 
 	(c)
 	defer cli.DeleteContainer(cnt)
@@ -4646,16 +4656,6 @@ Chalk 5.3.0 npmjs:chalk/5.3.0: https://github.com/sindresorhus/chalk
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 Chalk 5.6.2 npmjs:chalk/5.6.2: https://github.com/sindresorhus/chalk
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-chalkansi-regex 4.1.1 npmjs:ansi-regex/4.1.1: https://github.com/chalk/ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-chalkansi-regex 5.0.1 npmjs:ansi-regex/5.0.1: https://github.com/chalk/ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-chalkansi-regex 6.0.1 npmjs:ansi-regex/6.0.1: https://github.com/chalk/ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-
-chalkansi-regex 6.2.2 npmjs:ansi-regex/6.2.2: https://github.com/chalk/ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 change-case 1.0.4 npmjs:capital-case/1.0.4: https://github.com/blakeembrey/change-case
 	Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 char-regex 1.0.2 npmjs:char-regex/1.0.2: https://github.com/Richienb/char-regex#readme
@@ -4921,11 +4921,11 @@ Additional functionality
 colors.js 1.4.0 npmjs:colors/1.4.0: https://github.com/Marak/colors.js
 	Copyright (c) Marak Squires
 
-Additional functionality
+Additional Functionality
 
 	Copyright (c) Marak Squires
 
-Additional Functionality
+Additional functionality
 
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -19255,12 +19255,12 @@ ReactiveX RxJS 7.8.1 npmjs:rxjs/7.8.1: https://rxjs.dev/
 	N/A
 reactredux 9.3.1 npmjs:react-redux/9.3.1: https://react-redux.js.org
 	No Copyrights found
-reacttraining/react-router 7.15.0 npmjs:react-router/7.15.0: https://github.com/rackt/react-router
+reacttraining/react-router 7.15.0 npmjs:react-router/7.15.0: https://github.com/reacttraining/react-router
 	Copyright (c) React Training LLC 2015-2019
 	Copyright (c) Remix Software Inc.
 	Copyright (c) Remix Software Inc. 2020-2021
 	Copyright (c) Shopify Inc. 2022-2023
-reacttraining/react-router 7.18.2 npmjs:react-router/7.18.2: https://github.com/rackt/react-router
+reacttraining/react-router 7.18.2 npmjs:react-router/7.18.2: https://github.com/reacttraining/react-router
 	No Copyrights found
 read-cache 1.0.0 npmjs:read-cache/1.0.0: https://github.com/TrySound/read-cache#readme
 	Copyright 2016 Bogdan Chadkin <trysound@yandex.ru>
