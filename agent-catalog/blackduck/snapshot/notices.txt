@@ -760,7 +760,7 @@ git-hooks-list 1.0.3: https://github.com/fisker/git-hooks-list#readme : MIT Lice
 gitdb 4.0.12: http://github.com/gitpython-developers/gitdb : BSD 3-clause "New" or "Revised" License
 github-slugger 2.0.0: https://github.com/Flet/github-slugger : ISC License
 gitignore-parser 0.1.13: https://github.com/mherrmann/gitignore_parser : MIT License
-gitpython-developers_GitPython 3.1.59: http://gitpython.readthedocs.org : BSD 3-clause "New" or "Revised" License
+gitpython-developers/GitPython 3.1.59: http://gitpython.readthedocs.org : BSD 3-clause "New" or "Revised" License
 glob-parent 5.1.2: https://github.com/es128/glob-parent : ISC License
 gopd 1.2.0: https://github.com/ljharb/gopd#readme : MIT License
 got-cjs 12.5.4: https://github.com/apify/got-cjs#readme : MIT License
@@ -925,7 +925,7 @@ langchain 0.4.2: https://python.langchain.com : MIT License
 langchain 1.1.1: https://python.langchain.com : MIT License
 langchain 1.3.15: https://python.langchain.com : MIT License
 langchain 1.5.4: https://python.langchain.com : MIT License
-langchain-classic 1.0.8: https://pypi.org/project/langchain-classic/ : MIT License
+langchain-classic 1.0.8 : MIT License
 langchain-openai 1.1.9: https://github.com/langchain-ai/langchain : MIT License
 langchain-protocol 0.0.18 : MIT License
 langchain-text-splitters 1.1.2: https://github.com/langchain-ai/langchain : MIT License
@@ -995,7 +995,7 @@ micromatch/braces 3.0.3: https://github.com/micromatch/braces : MIT License
 Microsofttslib 1.14.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
 Microsofttslib 2.5.0: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
 Microsofttslib 2.8.1: http://github.com/Microsoft/tslib/ : BSD Zero Clause License
-mikeal/aws-sign 0.7.0: https://github.com/mikeal/aws-sign : Apache License 2.0
+mikeal/aws-sign 0.7.0: https://github.com/request/aws-sign : Apache License 2.0
 mime 1.6.0: https://github.com/broofa/node-mime : MIT License
 mime 3.0.0: https://github.com/broofa/node-mime : MIT License
 mime-db 1.52.0: https://github.com/jshttp/mime-db : MIT License
@@ -1122,6 +1122,7 @@ pandas-python 2.3.3: https://pandas.pydata.org : BSD 3-clause "New" or "Revised"
 pandocfilters 1.5.1: https://github.com/jgm/pandocfilters : BSD 3-clause "New" or "Revised" License
 param-case 3.0.4: https://github.com/blakeembrey/change-case/tree/master/packages/param-case : MIT License
 parse-srcset 1.0.2: https://github.com/albell/parse-srcset#readme : MIT License
+parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 parso 0.8.7: https://github.com/davidhalter/parso : MIT License
 pascal-case 3.1.2: https://github.com/blakeembrey/change-case/tree/master/packages/pascal-case : MIT License
 path-browserify 1.0.1: https://github.com/browserify/path-browserify : MIT License
@@ -1137,7 +1138,6 @@ piccolo-theme 0.24.0: https://github.com/piccolo-orm/piccolo_theme : MIT License
 picocolors 1.1.1: https://github.com/alexeyraspopov/picocolors#readme : ISC License
 picomatch 2.3.2: https://github.com/micromatch/picomatch : MIT License
 pify 3.0.0: https://github.com/sindresorhus/pify : MIT License
-pillarjs/parseurl 1.3.3: https://github.com/pillarjs/parseurl : MIT License
 PillowPython 12.3.0: https://github.com/python-pillow/Pillow : CMU License
 pino 9.14.0: https://github.com/mcollina/pino#readme : MIT License
 pino-abstract-transport 1.2.0: https://github.com/pinojs/pino-abstract-transport#readme : MIT License
@@ -1306,14 +1306,16 @@ side-channel 1.1.0: https://github.com/ljharb/side-channel#readme : MIT License
 side-channel-list 1.0.0: https://github.com/ljharb/side-channel-list#readme : MIT License
 side-channel-map 1.0.1: https://github.com/ljharb/side-channel-map#readme : MIT License
 side-channel-weakmap 1.0.2: https://github.com/ljharb/side-channel-weakmap#readme : MIT License
+signal-exit 3.0.7: https://github.com/bcoe/signal-exit : ISC License
+signal-exit 4.0.2: https://github.com/bcoe/signal-exit : ISC License
 simple-swizzle 0.2.2: https://github.com/qix-/node-simple-swizzle#readme : MIT License
 sindresorhus/globby v10.0.0: https://github.com/sindresorhus/globby : MIT License
 sindresorhus/got 11.8.6: https://github.com/sindresorhus/got : MIT License
 sindresorhus/normalize-url 6.1.0: https://github.com/sindresorhus/normalize-url : MIT License
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
+sindresorhus/supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
+sindresorhus/supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 sirv 2.0.4: https://github.com/lukeed/sirv#readme : MIT License
 smart-buffer 4.2.0: https://github.com/JoshGlazebrook/smart-buffer : MIT License
 smmap 5.0.3: https://github.com/gitpython-developers/smmap : BSD 3-clause "New" or "Revised" License
@@ -1381,8 +1383,6 @@ SymPy 1.14.0: http://sympy.org : BSD 3-clause "New" or "Revised" License
 tabbable 5.3.3: https://github.com/davidtheclark/tabbable#readme : MIT License
 tabulate 0.10.0: http://code.google.com/p/tabulate/ : MIT License
 tapable 2.2.3: https://github.com/webpack/tapable : MIT License
-tapjs/signal-exit 3.0.7: https://github.com/tapjs/signal-exit : ISC License
-tapjs/signal-exit 4.0.2: https://github.com/tapjs/signal-exit : ISC License
 tar-stream 3.1.7: https://github.com/mafintosh/tar-stream : MIT License
 tenacity 9.1.4: https://github.com/jd/tenacity : Apache License 2.0
 terminado 0.18.1: https://github.com/takluyver/terminado : BSD 2-clause "Simplified" License
@@ -2747,7 +2747,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 ---
 
 BSD 3-clause "New" or "Revised" License
-(@jupyter-widgets/base-manager 1.0.12, @jupyter/builder 1.0.0, @jupyter/builder 1.0.0-beta.1, @jupyter/builder 1.0.2, @jupyter/react-components 0.15.3, @jupyter/react-components 0.16.6, @jupyter/web-components 0.15.3, @jupyter/web-components 0.16.6, @jupyter/ydoc 1.1.1, @jupyterlab/audio-extension 4.6.3, @jupyterlab/builder 4.0.0, @jupyterlab/cell-toolbar-extension 4.6.3, @jupyterlab/celltags-extension 4.6.3, @jupyterlab/core-meta 4.6.0-alpha.4, @jupyterlab/core-meta 4.6.0-beta.0, @jupyterlab/debugger 4.6.2, @jupyterlab/debugger-extension 4.6.3, @jupyterlab/documentsearch-extension 4.6.3, @jupyterlab/extensionmanager-extension 4.6.3, @jupyterlab/htmlviewer-extension 4.6.3, @jupyterlab/javascript-extension 4.6.3, @jupyterlab/logconsole-extension 4.6.3, @jupyterlab/lsp-extension 4.6.3, @jupyterlab/markedparser-extension 4.6.3, @jupyterlab/mathjax-extension 4.6.3, @jupyterlab/mermaid-extension 4.6.3, @jupyterlab/metadataform-extension 4.6.3, @jupyterlab/nbformat 4.1.5, @jupyterlab/nbformat 4.6.2, @jupyterlab/pluginmanager-extension 4.6.3, @jupyterlab/settingregistry 4.1.5, @jupyterlab/settingregistry 4.6.2, @jupyterlab/statedb 4.1.5, @jupyterlab/statusbar 4.1.5, @jupyterlab/statusbar-extension 4.6.3, @jupyterlab/theme-dark-high-contrast-extension 4.6.3, @jupyterlab/toc-extension 6.6.3, @jupyterlab/translation 4.1.5, @jupyterlab/translation-extension 4.6.3, @jupyterlab/ui-components 4.1.5, @jupyterlab/ui-components-extension 4.6.3, @jupyterlab/vega5-extension 4.6.3, @jupyterlab/video-extension 4.6.3, @jupyterlab/workspaces-extension 4.6.3, @lumino/algorithm 2.0.1, @lumino/algorithm 2.0.4, @lumino/collections 2.0.1, @lumino/commands 2.2.0, @lumino/coreutils 2.1.2, @lumino/coreutils 2.2.2, @lumino/disposable 2.1.2, @lumino/domutils 2.0.1, @lumino/dragdrop 2.1.4, @lumino/keyboard 2.0.1, @lumino/messaging 2.0.1, @lumino/polling 2.1.2, @lumino/properties 2.0.1, @lumino/signaling 2.1.2, @lumino/signaling 2.1.5, @lumino/virtualdom 2.0.1, @lumino/widgets 2.3.1, abab 2.0.6, alabaster 1.0.0, apeye-core 1.1.5, babel 2.18.0, boltons 26.1.0, Click - Python Command Line Utility 8.4.2, cloup 3.1.0, colorama 0.4.6, comm 0.2.3, dateparser 1.4.2, Docutils 0.21.2, encode/uvicorn 0.52.3, fast-uri 3.1.2, fastjsonschema 2.22.1, filesize.js 10.1.6, filesystem_spec 2026.6.0, gitdb 4.0.12, gitpython-developers_GitPython 3.1.59, httpcore 1.0.9, httpx 0.28.1, idna 3.18, ipykernel 7.3.0, IPython 9.16.1, ipython-pygments-lexers 1.1.1, ipywidgets 5.0.12, ipywidgets 6.0.11, ipywidgets 8.1.8, isodate 0.7.2, jinjapython 3.1.6, joblib 1.5.3, jsdiff 5.2.2, jupyter-builder 1.2.2, jupyter-events 0.12.1, jupyter-lsp 2.3.1, jupyter-server-terminals 0.5.4, jupyter-server/jupyter_server 2.20.0, jupyter_client 8.9.1, jupyter_core 5.9.1, jupyterlab 3.9.5, jupyterlab 4.0.8, jupyterlab 4.6.2, jupyterlab 4.6.3, jupyterlab 4.7.2, jupyterlab 5.4.3, jupyterlab 6.6.3, jupyterlab 7.1.5, jupyterlab 7.6.3, jupyterlab-hub 4.6.3, jupyterlab-pygments 0.3.0, jupyterlab-server 2.28.0, jupyterlab-widgets 3.0.16, MarkupSafe 3.0.3, matplotlib-inline 0.2.2, Mistune 3.3.4, mpmath 1.3.0, multi_process 0.70.19, nbclient 0.11.0, nbconvert 7.17.1, nbformat 5.11.0, nest-asyncio 1.6.0, nest-asyncio2 1.7.2, NetworkX 3.6.1, nodeenv 1.10.0, notebook-shim 0.2.4, NumPy 2.4.6, pandas-python 2.3.3, pandocfilters 1.5.1, psutil 7.2.2, pycparser 3.0, pypdf library 6.16.1, python-dateutil 2.9.0.post0, python-dotenv 1.2.2, python-json-patch 1.33, python-json-pointer 3.1.1, python-prompt-toolkit 3.0.53, python-semanticversion 2.10.0, pytorch 2.13.0, pyzmq 27.1.0, qs -  QS Querystring 6.13.0, qs -  QS Querystring 6.14.0, scikit-learn 1.9.0, SciPy 1.17.1, send2trash 2.1.0, smmap 5.0.3, Snowball stemmer 3.1.1, source-map 0.7.6, source-map-js 1.2.1, sphinx-prompt 1.10.2, Sphinx-Python Documentation Generator 1.0.1, sphinxcontrib-applehelp 2.0.0, sphinxcontrib-htmlhelp 2.1.0, sphinxcontrib-mermaid 1.2.3, sphinxcontrib-qthelp 2.0.0, Starlette 1.6.0, striprtf 0.0.26, SymPy 1.14.0, threadpoolctl 3.6.0, tinycss2 1.5.1, tough-cookie 5.1.1, Traitlets 5.16.1, unix-crypt-td-js 1.1.4, uuid-utils 0.17.0, uuid_utils 0.16.0, vega 5.33.0, vega-canvas 1.2.7, vega-crossfilter 4.1.3, vega-dataflow 5.7.7, vega-embed 6.21.3, vega-encode 4.10.2, vega-event-selector 3.0.1, vega-expression 5.0.1, vega-expression 5.2.1, vega-force 4.2.2, vega-format 1.1.3, vega-functions 5.18.0, vega-geo 4.4.3, vega-hierarchy 4.1.3, vega-interpreter 1.0.5, vega-label 1.3.1, vega-loader 4.5.3, vega-parser 6.6.0, vega-projection 1.6.2, vega-regression 1.3.1, vega-runtime 6.2.1, vega-scale 7.4.2, vega-scenegraph 4.13.1, vega-selections 5.6.3, vega-statistics 1.9.0, vega-themes 2.12.1, vega-time 2.1.3, vega-tooltip 0.30.1, vega-transforms 4.12.1, vega-typings 1.5.0, vega-util 1.17.4, vega-view 5.16.0, vega-view-transforms 4.6.1, vega-voronoi 4.2.4, vega-wordcloud 4.1.6, vegalite 5.6.1, webcolors 25.10.0, websockets 15.0.1, widgetsnbextension 4.0.15, zstandard 0.25.0)
+(@jupyter-widgets/base-manager 1.0.12, @jupyter/builder 1.0.0, @jupyter/builder 1.0.0-beta.1, @jupyter/builder 1.0.2, @jupyter/react-components 0.15.3, @jupyter/react-components 0.16.6, @jupyter/web-components 0.15.3, @jupyter/web-components 0.16.6, @jupyter/ydoc 1.1.1, @jupyterlab/audio-extension 4.6.3, @jupyterlab/builder 4.0.0, @jupyterlab/cell-toolbar-extension 4.6.3, @jupyterlab/celltags-extension 4.6.3, @jupyterlab/core-meta 4.6.0-alpha.4, @jupyterlab/core-meta 4.6.0-beta.0, @jupyterlab/debugger 4.6.2, @jupyterlab/debugger-extension 4.6.3, @jupyterlab/documentsearch-extension 4.6.3, @jupyterlab/extensionmanager-extension 4.6.3, @jupyterlab/htmlviewer-extension 4.6.3, @jupyterlab/javascript-extension 4.6.3, @jupyterlab/logconsole-extension 4.6.3, @jupyterlab/lsp-extension 4.6.3, @jupyterlab/markedparser-extension 4.6.3, @jupyterlab/mathjax-extension 4.6.3, @jupyterlab/mermaid-extension 4.6.3, @jupyterlab/metadataform-extension 4.6.3, @jupyterlab/nbformat 4.1.5, @jupyterlab/nbformat 4.6.2, @jupyterlab/pluginmanager-extension 4.6.3, @jupyterlab/settingregistry 4.1.5, @jupyterlab/settingregistry 4.6.2, @jupyterlab/statedb 4.1.5, @jupyterlab/statusbar 4.1.5, @jupyterlab/statusbar-extension 4.6.3, @jupyterlab/theme-dark-high-contrast-extension 4.6.3, @jupyterlab/toc-extension 6.6.3, @jupyterlab/translation 4.1.5, @jupyterlab/translation-extension 4.6.3, @jupyterlab/ui-components 4.1.5, @jupyterlab/ui-components-extension 4.6.3, @jupyterlab/vega5-extension 4.6.3, @jupyterlab/video-extension 4.6.3, @jupyterlab/workspaces-extension 4.6.3, @lumino/algorithm 2.0.1, @lumino/algorithm 2.0.4, @lumino/collections 2.0.1, @lumino/commands 2.2.0, @lumino/coreutils 2.1.2, @lumino/coreutils 2.2.2, @lumino/disposable 2.1.2, @lumino/domutils 2.0.1, @lumino/dragdrop 2.1.4, @lumino/keyboard 2.0.1, @lumino/messaging 2.0.1, @lumino/polling 2.1.2, @lumino/properties 2.0.1, @lumino/signaling 2.1.2, @lumino/signaling 2.1.5, @lumino/virtualdom 2.0.1, @lumino/widgets 2.3.1, abab 2.0.6, alabaster 1.0.0, apeye-core 1.1.5, babel 2.18.0, boltons 26.1.0, Click - Python Command Line Utility 8.4.2, cloup 3.1.0, colorama 0.4.6, comm 0.2.3, dateparser 1.4.2, Docutils 0.21.2, encode/uvicorn 0.52.3, fast-uri 3.1.2, fastjsonschema 2.22.1, filesize.js 10.1.6, filesystem_spec 2026.6.0, gitdb 4.0.12, gitpython-developers/GitPython 3.1.59, httpcore 1.0.9, httpx 0.28.1, idna 3.18, ipykernel 7.3.0, IPython 9.16.1, ipython-pygments-lexers 1.1.1, ipywidgets 5.0.12, ipywidgets 6.0.11, ipywidgets 8.1.8, isodate 0.7.2, jinjapython 3.1.6, joblib 1.5.3, jsdiff 5.2.2, jupyter-builder 1.2.2, jupyter-events 0.12.1, jupyter-lsp 2.3.1, jupyter-server-terminals 0.5.4, jupyter-server/jupyter_server 2.20.0, jupyter_client 8.9.1, jupyter_core 5.9.1, jupyterlab 3.9.5, jupyterlab 4.0.8, jupyterlab 4.6.2, jupyterlab 4.6.3, jupyterlab 4.7.2, jupyterlab 5.4.3, jupyterlab 6.6.3, jupyterlab 7.1.5, jupyterlab 7.6.3, jupyterlab-hub 4.6.3, jupyterlab-pygments 0.3.0, jupyterlab-server 2.28.0, jupyterlab-widgets 3.0.16, MarkupSafe 3.0.3, matplotlib-inline 0.2.2, Mistune 3.3.4, mpmath 1.3.0, multi_process 0.70.19, nbclient 0.11.0, nbconvert 7.17.1, nbformat 5.11.0, nest-asyncio 1.6.0, nest-asyncio2 1.7.2, NetworkX 3.6.1, nodeenv 1.10.0, notebook-shim 0.2.4, NumPy 2.4.6, pandas-python 2.3.3, pandocfilters 1.5.1, psutil 7.2.2, pycparser 3.0, pypdf library 6.16.1, python-dateutil 2.9.0.post0, python-dotenv 1.2.2, python-json-patch 1.33, python-json-pointer 3.1.1, python-prompt-toolkit 3.0.53, python-semanticversion 2.10.0, pytorch 2.13.0, pyzmq 27.1.0, qs -  QS Querystring 6.13.0, qs -  QS Querystring 6.14.0, scikit-learn 1.9.0, SciPy 1.17.1, send2trash 2.1.0, smmap 5.0.3, Snowball stemmer 3.1.1, source-map 0.7.6, source-map-js 1.2.1, sphinx-prompt 1.10.2, Sphinx-Python Documentation Generator 1.0.1, sphinxcontrib-applehelp 2.0.0, sphinxcontrib-htmlhelp 2.1.0, sphinxcontrib-mermaid 1.2.3, sphinxcontrib-qthelp 2.0.0, Starlette 1.6.0, striprtf 0.0.26, SymPy 1.14.0, threadpoolctl 3.6.0, tinycss2 1.5.1, tough-cookie 5.1.1, Traitlets 5.16.1, unix-crypt-td-js 1.1.4, uuid-utils 0.17.0, uuid_utils 0.16.0, vega 5.33.0, vega-canvas 1.2.7, vega-crossfilter 4.1.3, vega-dataflow 5.7.7, vega-embed 6.21.3, vega-encode 4.10.2, vega-event-selector 3.0.1, vega-expression 5.0.1, vega-expression 5.2.1, vega-force 4.2.2, vega-format 1.1.3, vega-functions 5.18.0, vega-geo 4.4.3, vega-hierarchy 4.1.3, vega-interpreter 1.0.5, vega-label 1.3.1, vega-loader 4.5.3, vega-parser 6.6.0, vega-projection 1.6.2, vega-regression 1.3.1, vega-runtime 6.2.1, vega-scale 7.4.2, vega-scenegraph 4.13.1, vega-selections 5.6.3, vega-statistics 1.9.0, vega-themes 2.12.1, vega-time 2.1.3, vega-tooltip 0.30.1, vega-transforms 4.12.1, vega-typings 1.5.0, vega-util 1.17.4, vega-view 5.16.0, vega-view-transforms 4.6.1, vega-voronoi 4.2.4, vega-wordcloud 4.1.6, vegalite 5.6.1, webcolors 25.10.0, websockets 15.0.1, widgetsnbextension 4.0.15, zstandard 0.25.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -5915,7 +5915,7 @@ THIS SOFTWARE
 ---
 
 ISC License
-(@isaacs/cliui 8.0.2, @npmcli/fs 2.1.2, anymatch 3.1.3, are-we-there-yet 3.0.1, boolbase 1.0.0, cacache 16.1.3, cli-width 4.0.0, cliui 8.0.1, d3-array 3.2.4, d3-color 3.1.0, d3-delaunay 6.0.4, d3-geo 3.1.0, d3-hierarchy 3.1.2, d3-path 3.1.0, d3-scale-chromatic 3.1.0, d3-shape 3.2.0, d3-time 3.1.0, dnspython 2.8.0, electron-to-chromium 1.5.373, fastq 1.15.0, foreground-child 3.1.1, github-slugger 2.0.0, Gozala/crypto 1.0.1, griffe 2.1.0, griffecli 2.1.0, griffelib 2.1.0, iarna/gauge 4.0.4, isoduration 20.11.0, jupyter-builder 1.2.2, make-fetch-happen 10.2.1, minimatch 3.1.5, minimatch 5.1.6, minimatch 7.4.6, minimatch 9.0.5, minipass 3.3.6, minipass 5.0.0, node-glob 10.3.10, node-glob 7.2.3, node-glob 8.1.0, node-graceful-fs 4.2.11, node-lru-cache 7.18.3, node-lru-cache 9.1.2, node-semver  5.7.2, node-semver  7.6.0, node-semver  7.7.2, node-semver  7.7.3, nopt 6.0.0, npmlog 6.0.2, pexpect 4.9.0, picocolors 1.1.1, postcss-modules-extract-imports 3.1.0, postcss-modules-scope 3.1.1, postcss-modules-scope 3.2.1, rimraf 5.0.5, shellingham 1.5.4, ssri 9.0.1, tapjs/signal-exit 4.0.2, unique-filename 2.0.1, unique-slug 3.0.0, yargs-parser 21.1.1)
+(@isaacs/cliui 8.0.2, @npmcli/fs 2.1.2, anymatch 3.1.3, are-we-there-yet 3.0.1, boolbase 1.0.0, cacache 16.1.3, cli-width 4.0.0, cliui 8.0.1, d3-array 3.2.4, d3-color 3.1.0, d3-delaunay 6.0.4, d3-geo 3.1.0, d3-hierarchy 3.1.2, d3-path 3.1.0, d3-scale-chromatic 3.1.0, d3-shape 3.2.0, d3-time 3.1.0, dnspython 2.8.0, electron-to-chromium 1.5.373, fastq 1.15.0, foreground-child 3.1.1, github-slugger 2.0.0, Gozala/crypto 1.0.1, griffe 2.1.0, griffecli 2.1.0, griffelib 2.1.0, iarna/gauge 4.0.4, isoduration 20.11.0, jupyter-builder 1.2.2, make-fetch-happen 10.2.1, minimatch 3.1.5, minimatch 5.1.6, minimatch 7.4.6, minimatch 9.0.5, minipass 3.3.6, minipass 5.0.0, node-glob 10.3.10, node-glob 7.2.3, node-glob 8.1.0, node-graceful-fs 4.2.11, node-lru-cache 7.18.3, node-lru-cache 9.1.2, node-semver  5.7.2, node-semver  7.6.0, node-semver  7.7.2, node-semver  7.7.3, nopt 6.0.0, npmlog 6.0.2, pexpect 4.9.0, picocolors 1.1.1, postcss-modules-extract-imports 3.1.0, postcss-modules-scope 3.1.1, postcss-modules-scope 3.2.1, rimraf 5.0.5, shellingham 1.5.4, signal-exit 4.0.2, ssri 9.0.1, unique-filename 2.0.1, unique-slug 3.0.0, yargs-parser 21.1.1)
 
 ISC License (ISCL)
 ==================
@@ -6001,7 +6001,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE
 ---
 
 ISC License
-(tapjs/signal-exit 3.0.7)
+(signal-exit 3.0.7)
 
 The ISC License
 
@@ -6977,7 +6977,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(pillarjs/parseurl 1.3.3)
+(parseurl 1.3.3)
 
 (The MIT License)
 
