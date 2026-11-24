@@ -1,0 +1,31 @@
+{#-
+  Files every Operational Insights build is expected to publish, whatever
+  the release: the server package and the Python UDF sidecar package, each
+  as a .deb and an .rpm for both Linux architectures.
+
+  Nothing here is keyed on the release name, so a new release (selene, ...)
+  needs no edit. If a release ever ships a different set of platforms, key
+  the lists below on `release` at that point.
+#}
+
+{%- set packages = [ "operational-insights", "operational-insights-udf" ] %}
+
+{#- Filename bits for each packaging style; "arches" are that style's names for x86_64 and arm64 #}
+{%-
+  set styles = [
+    { "ext": "deb", "sep1": "_", "sep2": "_", "arches": [ "amd64", "arm64" ] },
+    { "ext": "rpm", "sep1": "-", "sep2": ".", "arches": [ "x86_64", "aarch64" ] }
+  ]
+%}
+
+{#- #######  END TEMPLATE CONFIGURATION ########## #}
+{#- ####### ACTUAL OUTPUT TEMPLATE ######## -#}
+
+filenames:
+{%- for package in packages                                 %}
+{%-   for style in styles                                   %}
+{%-     for arch in style["arches"]                         %}
+  -  {{ package }}{{ style["sep1"] }}{{ version }}-{{ build_num }}-linux{{ style["sep2"] }}{{ arch }}.{{ style["ext"] }}
+{%-     endfor                                              %}
+{%-   endfor                                                %}
+{%- endfor                                                  %}
