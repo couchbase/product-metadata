@@ -3139,16 +3139,6 @@ ansi-escapes 7.3.0 npmjs:ansi-escapes/7.3.0: https://github.com/sindresorhus/ans
 ansi-html-community 0.0.8 npmjs:ansi-html-community/0.0.8: https://github.com/mahdyar/ansi-html-community
 	Copyright {yyyy
 
-ansi-regex 4.1.1 npmjs:ansi-regex/4.1.1: https://github.com/sindresorhus/ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-ansi-regex 5.0.1 npmjs:ansi-regex/5.0.1: https://github.com/sindresorhus/ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-ansi-regex 6.0.1 npmjs:ansi-regex/6.0.1: https://github.com/sindresorhus/ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-
-ansi-regex 6.2.2 npmjs:ansi-regex/6.2.2: https://github.com/sindresorhus/ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 ansi-styles 3.2.1 npmjs:ansi-styles/3.2.1: https://github.com/chalk/ansi-styles
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -4659,6 +4649,16 @@ Chalk 5.3.0 npmjs:chalk/5.3.0: https://github.com/sindresorhus/chalk
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 Chalk 5.6.2 npmjs:chalk/5.6.2: https://github.com/sindresorhus/chalk
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+chalkansi-regex 4.1.1 npmjs:ansi-regex/4.1.1: https://github.com/chalk/ansi-regex
+	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+chalkansi-regex 5.0.1 npmjs:ansi-regex/5.0.1: https://github.com/chalk/ansi-regex
+	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+chalkansi-regex 6.0.1 npmjs:ansi-regex/6.0.1: https://github.com/chalk/ansi-regex
+	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+
+chalkansi-regex 6.2.2 npmjs:ansi-regex/6.2.2: https://github.com/chalk/ansi-regex
+	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 change-case 1.0.4 npmjs:capital-case/1.0.4: https://github.com/blakeembrey/change-case
 	Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 char-regex 1.0.2 npmjs:char-regex/1.0.2: https://github.com/Richienb/char-regex#readme
@@ -4682,7 +4682,7 @@ character-reference-invalid 2.0.1 npmjs:character-reference-invalid/2.0.1: https
 charenc 0.0.2 npmjs:charenc/0.0.2: https://github.com/pvorb/node-charenc#readme
 	Copyright © 2009, Jeff Mott. All rights reserved.
 	Copyright © 2011, Paul Vorbach. All rights reserved.
-Chart.js 4.5.1 npmjs:chart.js/4.5.1: http://www.chartjs.org/
+Chart.js 4.5.1 npmjs:chart.js/4.5.1: http://code.google.com/p/chartjs/
 	(c) 2014-2024 Chart.js Contributors
 	(c) 2023 Jukka Kurkela
 	(c) 2025 Chart.js Contributors
@@ -4697,7 +4697,7 @@ check-error 2.1.3 npmjs:check-error/2.1.3: https://github.com/chaijs/check-error
 	Copyright (c) 2013 Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)
 cheerio-select 1.6.0 npmjs:cheerio-select/1.6.0: https://github.com/cheeriojs/cheerio-select#readme
 	Copyright (c) Felix B
-cheeriojs 1.0.0-rc.10 npmjs:cheerio/1.0.0-rc.10: https://github.com/MatthewMueller/cheerio
+cheeriojs 1.0.0-rc.10 npmjs:cheerio/1.0.0-rc.10: https://cheerio.js.org
 	Copyright (c) 2016 Matt Mueller
 chevrotain 11.1.2 npmjs:chevrotain/11.1.2: https://github.com/SAP/chevrotain
 	No Copyrights found
@@ -4911,11 +4911,11 @@ Additional Functionality
 
 	Copyright (c) Marak Squires
 
-Additional functionality
+Additional Functionality
 
 	Copyright (c) Marak Squires
 
-Additional Functionality
+Additional functionality
 
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -4924,11 +4924,11 @@ Additional Functionality
 colors.js 1.4.0 npmjs:colors/1.4.0: https://github.com/Marak/colors.js
 	Copyright (c) Marak Squires
 
-Additional Functionality
+Additional functionality
 
 	Copyright (c) Marak Squires
 
-Additional functionality
+Additional Functionality
 
 	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -8396,7 +8396,7 @@ github.com/containerd/platforms 0.2.1 github:containerd/platforms:v0.2.1: https:
 	The containerd Authors.
 github.com/couchbase/gocbcoreps 20261005-snapshot-7de374b3 github:couchbase/gocbcoreps:7de374b343fa2cb7ee308d96623570913596d046
 	No Copyrights found
-github.com/DataDog/go-runtime-metrics-internal 20260217-snapshot-b0f4edc3 github:datadog/go-runtime-metrics-internal:b0f4edc38a6d5fdb3964f5a1b83341efeb127404: https://github.com/kubenetworks/kubevpn
+github.com/DataDog/go-runtime-metrics-internal 20260217-snapshot-b0f4edc3 github:datadog/go-runtime-metrics-internal:b0f4edc38a6d5fdb3964f5a1b83341efeb127404
 	No Copyrights found
 github.com/DataDog/go-sqllexer v0.2.4 github:datadog/go-sqllexer:v0.2.4
 	Copyright (c) 2023 Datadog, Inc.
@@ -17670,15 +17670,6 @@ parse5 7.1.2 npmjs:parse5/7.1.2: https://github.com/inikulin/parse5
 	Copyright (c) 2013-2019 Ivan Nikulin (ifaaan@gmail.com, https://github.com/inikulin)
 parse5 7.3.0 npmjs:parse5/7.3.0: https://github.com/inikulin/parse5
 	Copyright (c) 2013-2019 Ivan Nikulin (ifaaan@gmail.com, https://github.com/inikulin)
-parseurl 1.3.3 npmjs:parseurl/1.3.3: https://github.com/expressjs/parseurl
-	Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
-
-	Copyright (c) 2014-2017 Douglas Christopher Wilson <doug@somethingdoug.com>
-
-	Copyright(c) 2014 Jonathan Ong
-
-	Copyright(c) 2014-2017 Douglas Christopher Wilson
-
 pascal-case 3.1.2 npmjs:pascal-case/3.1.2: https://github.com/blakeembrey/change-case/tree/master/packages/pascal-case
 	Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 
@@ -17865,6 +17856,15 @@ pify 2.3.0 npmjs:pify/2.3.0: https://github.com/sindresorhus/pify
   "scripts": {
     "optimization-test": "node --allow-natives-syntax optimization-test.js",
     "test": "xo && ava && npm run optimization-test"
+
+pillarjs/parseurl 1.3.3 npmjs:parseurl/1.3.3: https://github.com/pillarjs/parseurl
+	Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+
+	Copyright (c) 2014-2017 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+	Copyright(c) 2014 Jonathan Ong
+
+	Copyright(c) 2014-2017 Douglas Christopher Wilson
 
 pino 8.21.0 npmjs:pino/8.21.0: https://github.com/mcollina/pino#readme
 	Copyright (c) 2016-2024 Matteo Collina, David Mark Clements and the Pino contributors listed at https://github.com/pinojs/pino
@@ -18716,13 +18716,6 @@ quickselect 3.0.0 npmjs:quickselect/3.0.0: https://github.com/mourner/quickselec
 	Copyright (c) 2024, Vladimir Agafonkin
 quote-unquote 1.0.0 npmjs:quote-unquote/1.0.0: https://github.com/dominictarr/quote-unquote
 	Copyright (c) 2015 Dominic Tarr
-rackt/react-router 7.15.0 npmjs:react-router/7.15.0: https://github.com/reacttraining/react-router
-	Copyright (c) React Training LLC 2015-2019
-	Copyright (c) Remix Software Inc.
-	Copyright (c) Remix Software Inc. 2020-2021
-	Copyright (c) Shopify Inc. 2022-2023
-rackt/react-router 7.18.2 npmjs:react-router/7.18.2: https://github.com/reacttraining/react-router
-	No Copyrights found
 radash 12.1.1 npmjs:radash/12.1.1: https://github.com/rayepps/radash#readme
 	Copyright (c) 2022 radash
 radix-ui 1.4.3 npmjs:radix-ui/1.4.3: https://radix-ui.com/primitives
@@ -19261,6 +19254,13 @@ ReactiveX RxJS 7.8.1 npmjs:rxjs/7.8.1: https://rxjs.dev/
 	Copyright (c) Microsoft Corporation.
 	N/A
 reactredux 9.3.1 npmjs:react-redux/9.3.1: https://react-redux.js.org
+	No Copyrights found
+reacttraining/react-router 7.15.0 npmjs:react-router/7.15.0: https://github.com/reacttraining/react-router
+	Copyright (c) React Training LLC 2015-2019
+	Copyright (c) Remix Software Inc.
+	Copyright (c) Remix Software Inc. 2020-2021
+	Copyright (c) Shopify Inc. 2022-2023
+reacttraining/react-router 7.18.2 npmjs:react-router/7.18.2: https://github.com/reacttraining/react-router
 	No Copyrights found
 read-cache 1.0.0 npmjs:read-cache/1.0.0: https://github.com/TrySound/read-cache#readme
 	Copyright 2016 Bogdan Chadkin <trysound@yandex.ru>
