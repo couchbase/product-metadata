@@ -459,8 +459,6 @@ alabaster 1.0.0: https://pypi.python.org/pypi/alabaster : BSD 3-clause "New" or 
 annotated-doc 0.0.5 : MIT License
 annotated-types 0.8.0: https://github.com/annotated-types/annotated-types : MIT License
 ansi-escapes 6.0.0: https://github.com/sindresorhus/ansi-escapes : MIT License
-ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-regex 6.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
 ansi-styles 6.2.1: https://github.com/chalk/ansi-styles : MIT License
 ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
@@ -534,6 +532,8 @@ Chalk 2.4.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 3.0.0: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 5.2.0: https://github.com/sindresorhus/chalk : MIT License
+chalkansi-regex 5.0.1: https://github.com/chalk/ansi-regex : MIT License
+chalkansi-regex 6.0.1: https://github.com/chalk/ansi-regex : MIT License
 chokidar 3.4.0: https://github.com/paulmillr/chokidar : MIT License
 chokidar 3.6.0: https://github.com/paulmillr/chokidar : MIT License
 chownr 2.0.0: https://github.com/isaacs/chownr : ISC License
@@ -1122,7 +1122,6 @@ pandas-python 2.3.3: https://pandas.pydata.org : BSD 3-clause "New" or "Revised"
 pandocfilters 1.5.1: https://github.com/jgm/pandocfilters : BSD 3-clause "New" or "Revised" License
 param-case 3.0.4: https://github.com/blakeembrey/change-case/tree/master/packages/param-case : MIT License
 parse-srcset 1.0.2: https://github.com/albell/parse-srcset#readme : MIT License
-parseurl 1.3.3: https://github.com/expressjs/parseurl : MIT License
 parso 0.8.7: https://github.com/davidhalter/parso : MIT License
 pascal-case 3.1.2: https://github.com/blakeembrey/change-case/tree/master/packages/pascal-case : MIT License
 path-browserify 1.0.1: https://github.com/browserify/path-browserify : MIT License
@@ -1138,6 +1137,7 @@ piccolo-theme 0.24.0: https://github.com/piccolo-orm/piccolo_theme : MIT License
 picocolors 1.1.1: https://github.com/alexeyraspopov/picocolors#readme : ISC License
 picomatch 2.3.2: https://github.com/micromatch/picomatch : MIT License
 pify 3.0.0: https://github.com/sindresorhus/pify : MIT License
+pillarjs/parseurl 1.3.3: https://github.com/pillarjs/parseurl : MIT License
 PillowPython 12.3.0: https://github.com/python-pillow/Pillow : CMU License
 pino 9.14.0: https://github.com/mcollina/pino#readme : MIT License
 pino-abstract-transport 1.2.0: https://github.com/pinojs/pino-abstract-transport#readme : MIT License
@@ -6534,7 +6534,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 ---
 
 MIT License
-(ansi-regex 5.0.1)
+(chalkansi-regex 5.0.1)
 
 Upstream-Contact: https://github.com/sindresorhus/ansi-regex/issues
 Source: https://github.com/sindresorhus/ansi-regex
@@ -6977,7 +6977,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 MIT License
-(parseurl 1.3.3)
+(pillarjs/parseurl 1.3.3)
 
 (The MIT License)
 
@@ -8649,7 +8649,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ---
 
 MIT License
-(ansi-regex 6.0.1, cli-cursor 4.0.0, cli-spinners 2.6.1, decompress-response 6.0.0, escape-string-regexp 5.0.0, escape-string-regexp v4.0.0, get-stream 6.0.1, get-stream v5.2.0, is-interactive 2.0.0, log-symbols 5.1.0, mimic-response 3.1.0, p-map 4.0.0, package-json 7.0.0, restore-cursor 4.0.0, sindresorhus/onetime v5.1.2, Strip ANSI 7.0.1, wrap-ansi v7.0.0)
+(chalkansi-regex 6.0.1, cli-cursor 4.0.0, cli-spinners 2.6.1, decompress-response 6.0.0, escape-string-regexp 5.0.0, escape-string-regexp v4.0.0, get-stream 6.0.1, get-stream v5.2.0, is-interactive 2.0.0, log-symbols 5.1.0, mimic-response 3.1.0, p-map 4.0.0, package-json 7.0.0, restore-cursor 4.0.0, sindresorhus/onetime v5.1.2, Strip ANSI 7.0.1, wrap-ansi v7.0.0)
 
 MIT License
 
