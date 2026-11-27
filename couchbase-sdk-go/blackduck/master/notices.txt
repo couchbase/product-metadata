@@ -18,6 +18,7 @@ envoyproxy/go-control-plane ratelimit/v0.1.0: https://github.com/envoyproxy/go-c
 envoyproxy/go-control-plane v0.14.0: https://github.com/envoyproxy/go-control-plane : Apache License 2.0
 envoyproxy/protoc-gen-validate 1.3.3: https://github.com/envoyproxy/protoc-gen-validate : Apache License 2.0
 github.com/cncf/xds 20260202-snapshot-dba9d589: https://github.com/cncf/xds : Apache License 2.0
+github.com/coder/websocket v1.8.15: https://github.com/coder/websocket : ISC License
 github.com/couchbase/gocbcoreps 20261109-snapshot-e0b65496 : Apache License 2.0
 github.com/google/cel-spec v0.25.3: https://github.com/google/cel-spec : Apache License 2.0
 github.com/planetscale/vtprotobuf 20240319-snapshot-0393e58b: https://github.com/planetscale/vtprotobuf : BSD 3-clause "New" or "Revised" License
@@ -51,7 +52,6 @@ google/go-cmp v0.7.0: https://github.com/google/go-cmp : BSD 3-clause "New" or "
 googleapis/go-genproto 20260817-snapshot-ac3dfec9: https://godoc.org/google.golang.org/genproto : Apache License 2.0
 googleapis/go-genproto 20261123-snapshot-1e707ab9: https://godoc.org/google.golang.org/genproto : Apache License 2.0
 Googleuuid v1.6.0: https://github.com/google/uuid : BSD 3-clause "New" or "Revised" License
-gorilla/websocket v1.5.3: https://github.com/gorilla/websocket : BSD 2-clause "Simplified" License
 grpc-go v1.85.0: https://github.com/grpc/grpc-go : Apache License 2.0
 kr/pretty v0.3.1: https://github.com/kr/pretty : MIT License
 open-telemetry/opentelemetry-go log/v1.47.0: https://github.com/open-telemetry/opentelemetry-go : Apache License 2.0
@@ -259,7 +259,7 @@ third-party archives.
 ---
 
 BSD 2-clause "Simplified" License
-(go-check-check 20201130-snapshot-10cb9826, gorilla/websocket v1.5.3)
+(go-check-check 20201130-snapshot-10cb9826)
 
 BSD Two Clause License
 ======================
@@ -362,6 +362,28 @@ OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+ISC License
+(github.com/coder/websocket v1.8.15)
+
+ISC License (ISCL)
+==================
+
+Copyright (c) 4-digit year, Company or Person's Name
+
+Permission to use, copy, modify, and/or distribute this software for any purpose
+with or without fee is hereby granted, provided that the above copyright notice
+and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE.
 
 ---
 
